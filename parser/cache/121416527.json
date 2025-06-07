@@ -1,0 +1,156 @@
+{
+  "id": "121416527",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Java-разработчик Middle",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": null,
+    "to": 225000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 225000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Пресненская набережная",
+    "building": "6с2",
+    "lat": 55.748143,
+    "lng": 37.540488,
+    "description": null,
+    "raw": "Москва, Пресненская набережная, 6с2",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><em><strong>ГК Орбита - ведущий разработчик цифровых решений, российская аккредитованная ИТ-компания.</strong></em><br /><br />Масштабный технологический проект с глубокой экспертизой в цифровизации бизнеса. Ключевые отрасли: государственный сектор, FinTech, HRTech, коммуникации и медиа, услуги, рынок недвижимости, travel.<br /><br />Более 6 лет мы ведем собственную продуктовую и заказную разработку высокоэффективных цифровых решений.</p> <p><em><strong>= Ищем опытного разработчика в команду создания enterprise-решений для телекоммуникационного сектора.=</strong></em></p> <p><strong>Проект: </strong>разработка backend-системы для управления тарифными планами и услугами оператора связи, включая их активацию, изменение и подключение абонентам.</p> <p> </p> <p><strong>Задачи:</strong></p> <ul> <li>Развитие корного продукта<br /></li> </ul> <p><strong>Необходимые навыки:</strong></p> <ul> <li>Опыт разработки backend (REST API, работы с БД, работа с брокерами сообщений) на <strong>Java/Kotlin от 2х лет</strong>;</li> <li>Опыт работ с Spring Framework, Hibernate;</li> <li>Опыт работы с реляционными СУБД и SQL;</li> <li>Умение разбираться в чужом коде, писать понятный код для других разработчиков, опыт написания автотестов;</li> <li>Знание основных паттернов проектирования и принципов разработки ПО, умение применять на практике;</li> <li>Знание основных архитектурных паттернов.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li><strong><em>Удаленку: </em></strong>полная удаленка по РФ;</li> <li><em><strong>Деньги:</strong></em> белую ЗП всегда в рынке, оформление по ТК;</li> <li><em><strong>Комфортный старт:</strong> </em>3 месяца плавного погружения под присмотром HR;</li> <li><em><strong>Поддержку: </strong></em>ИТ-отсрочку и HR, юридические консультации 24/7;</li> <li><em><strong>Культуру:</strong></em> прозрачные процессы и открытую коммуникацию;</li> <li><strong><em>Мощное железо:</em> </strong>работу на лучших компах. Mac, Lenovo или Dell на выбор. Мы не логируем время, у нас фокус на доверии и результате;</li> <li><em><strong>ДМС:</strong></em> лечение за счет компании, расширенный пакет ДМС со стоматологией;</li> <li><em><strong>Развитие:</strong></em> индивидуальный план обучения, конференции и митапы, мы помогаем развиваться и строить карьеру;</li> <li><em><strong><em>Личный</em> бренд:</strong> </em>выступления на конференциях, митапах, написание статей;</li> <li><em><strong>Бенефиты: </strong></em>ежеквартальное обновление корпоративных скидок;</li> <li><em><strong>Движ:</strong></em> вечеринки оффлайн и онлайн, мерч, конкурсы и челленджи.</li> </ul> <p><strong>Откликайся, будем рады познакомиться лично:)</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Java"
+    },
+    {
+      "name": "Spring Framework"
+    },
+    {
+      "name": "Hibernate"
+    },
+    {
+      "name": "Kotlin"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4623486",
+    "name": "ГК Орбита",
+    "url": "https://api.hh.ru/employers/4623486",
+    "alternate_url": "https://hh.ru/employer/4623486",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1403186.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7232416.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7232417.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4623486",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T12:08:00+0300",
+  "created_at": "2025-06-06T12:08:00+0300",
+  "initial_created_at": "2025-06-06T12:08:00+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121416527",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121416527",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

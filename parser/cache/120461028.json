@@ -1,0 +1,155 @@
+{
+  "id": "120461028",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Java-разработчик в нефтянку Middle+",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 200000,
+    "to": 400000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 200000,
+    "to": 400000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Продуктовая, официально аккредитованная Петербургская IT-компания, разрабатывающая технологичные IT-продукты для нефтегазового сектора, приглашает на постоянную удаленную работу Java разработчики уровня от middle до senior для доработки функциональности продукта.</strong></p> <p>Продукт на стадии MVP.</p> <p>Продукт: система онлайн-мониторинга процессов бурения, система отчетности и аналитики, площадка для интеграции и размещения сервисов.</p> <p>Команда разработки: 20+ чел.</p> <p>Грейды - от Middle+ и выше.</p> <p>Agile процессы.</p> <p> </p> <p><strong>Чем предстоит заниматься?</strong></p> <ol> <li>Участвовать в проектировании архитектуры приложения</li> <li>Разрабатывать модуль для мониторинга данных в реальном времени, который будет обрабатывать данные с датчиков на буровых установках.</li> <li>Реализовывать функционал для автоматического сбора данных и их обработки, генерации отчетов на основе собранных данных, включая визуализацию данных в виде графиков и таблиц.</li> <li>Реализовывать систему предиктивной аналитики, использующей исторические данные для прогнозирования различных сценариев.</li> <li>Обеспечивать безопасную передачу данных и взаимодействие между различными модулями.</li> <li>Оптимизировать работу БД для обработки больших объемов данных</li> </ol> <p><strong>Технологии</strong></p> <p>Frontend: react, redux, react-router-dom, typescript, mui, ant-design-charts, react-query, vite, css modules, dayjs, react-hook-form, react-table, dnd-kit/react-beautiful-dnd</p> <p>Backend: spring boot 3, java 21, Postgres, keycloak, docker</p> <p> </p> <p><strong>Требования </strong></p> <ul> <li>Опыт Java разработки от 4 лет,</li> <li>уверенное знание основных элементов spring boot приложений;</li> <li>опыт в оптимизации sql запросов и работы БД</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>опыт работы с soap;</li> <li>работа с библиотеками для формирования Excel документов;</li> <li>Data stream, работа с реал тайм данными: получение, обработка, хранение построение аналитики на основе временных данных</li> </ul> <p> </p> <p><strong>Условия</strong></p> <ul> <li>оформление по ТК РФ;</li> <li>отсрочка от призыва;</li> <li>удаленный формат работы;</li> <li>обязательные часы пересечения с командой с 10:00 до 17:00 Мск;</li> <li>ЗП: для middle: 200-250 на руки, senior 350-400 тыс. руб. на руки в месяц;</li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Java"
+    },
+    {
+      "name": "Spring Boot"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "SOAP"
+    },
+    {
+      "name": "Data"
+    },
+    {
+      "name": "Data stream"
+    },
+    {
+      "name": "Data Analysis"
+    },
+    {
+      "name": "Java 21"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "90938",
+    "name": "Accent Consulting",
+    "url": "https://api.hh.ru/employers/90938",
+    "alternate_url": "https://hh.ru/employer/90938",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/211665.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/330136.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/402993.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=90938",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-13T11:12:30+0300",
+  "created_at": "2025-05-13T11:12:30+0300",
+  "initial_created_at": "2025-05-13T11:12:30+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120461028",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120461028",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

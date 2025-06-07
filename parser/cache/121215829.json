@@ -1,0 +1,152 @@
+{
+  "id": "121215829",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Frontend-разработчик (React, Middle/Senior)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 100000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Биржевая линия",
+    "building": "16",
+    "lat": 59.944571,
+    "lng": 30.294964,
+    "description": null,
+    "raw": "Санкт-Петербург, Биржевая линия, 16",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Statanly Technologies </strong>- ведущий разработчик решений на базе технологий искусственного интеллекта. Среди наших клиентов, как небольшие компании, так и крупнейшие корпорации России, Белоруссии, Казахстана, ОАЭ, США.</p> <p><strong>Обязанности:</strong></p> <ul> <li>Разработка клиентской части для наших ИИ-сервисов</li> <li>Разработка компонентов и страниц по макетам;</li> <li>Написание API для взаимодействия с серверной частью приложений;</li> <li>Взаимодействия с разработчиками серверной части и ML/CV;</li> <li>Code review;</li> <li>Оценка трудоемкости задач;</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Опыт работы в должности Frontend-разработчикот от полугода;</li> <li>Опыт работы с библиотеками и фреймворками: React, Redux;</li> <li>Хорошие знания JavaScript (работа с DOM, Fetch, Promise), ES6;</li> <li>Понимание архитектуры и принципов работы современных веб-приложений (REST, REST API, API Gateway, BFF, SOP, CORS, HSTS, CSP, <em>HTTP</em>/<em>HTTP</em>S)</li> <li>Cursor - The AI Code Editor</li> <li>HTML5, CSS3;</li> <li>Адаптивная, кроссбраузерная верстка; Умение работать с Figma, Miro.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Websocket, Node JS;</li> <li>Webpack;</li> <li>Знание одной из React UI библиотек построения UI (MaterialUI/Ant Design/DevExpress).</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Гибкий график;</li> <li>Желательно иногда заглядывать в офис;</li> <li>Молодой коллектив;</li> <li>Работа в сильной команде экспертов в области машинного обучения, ученых и разработчиков;</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4041579",
+    "name": "Statanly Technologies",
+    "url": "https://api.hh.ru/employers/4041579",
+    "alternate_url": "https://hh.ru/employer/4041579",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1301778.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6827374.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6827375.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4041579",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T11:53:46+0300",
+  "created_at": "2025-06-02T11:53:46+0300",
+  "initial_created_at": "2025-06-02T11:53:46+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121215829",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121215829",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    },
+    {
+      "id": "FLEXIBLE",
+      "name": "Свободный"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

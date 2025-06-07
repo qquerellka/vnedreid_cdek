@@ -1,0 +1,157 @@
+{
+  "id": "121394358",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Java-разработчик (Портальные решения)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "Октябрьская магистраль",
+    "building": "4",
+    "lat": 55.022567,
+    "lng": 82.930086,
+    "description": null,
+    "raw": "Новосибирск, Октябрьская магистраль, 4",
+    "metro": {
+      "station_name": "Октябрьская",
+      "line_name": "Ленинская",
+      "station_id": "52.298",
+      "line_id": "52",
+      "lat": 55.018789,
+      "lng": 82.939007
+    },
+    "metro_stations": [
+      {
+        "station_name": "Октябрьская",
+        "line_name": "Ленинская",
+        "station_id": "52.298",
+        "line_id": "52",
+        "lat": 55.018789,
+        "lng": 82.939007
+      },
+      {
+        "station_name": "Площадь Ленина",
+        "line_name": "Ленинская",
+        "station_id": "52.297",
+        "line_id": "52",
+        "lat": 55.029941,
+        "lng": 82.92069
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Про компанию:</strong></p> <p>Мы - сибирская <strong>аккредитованная IT-компания полного цикла</strong> (от идеи до разработки, внедрения программного обеспечения, сервисного сопровождения, вплоть до этапа &quot;утилизации&quot; продуктов).</p> <p>В портфеле компании около 30 программных продуктов, зарегистрированных в Реестре отечественного ПО.</p> <p>Если вы пользовались порталом Госуслуг, ходили в МФЦ (&quot;Мои документы&quot;), получали справки, выписки &quot;в один клик&quot; без посещения органов власти в разных субъектах РФ, знайте, что в этом есть наш вклад.</p> <p>Многие сервисы, которые сегодня доступны для граждан, были придуманы много лет назад в стенах нашей компании.</p> <p> </p> <p>Мы <strong>ищем Java-разработчика на портальные решения. </strong></p> <p><strong>Задачи, которые будешь выполнять:</strong></p> <ul> <li>Писать код самостоятельно для важных частей платформы;</li> <li>Принимать участие в аналитике и проектировании архитектуры приложений;</li> <li>Декомпозировать задачи;</li> <li>Участвовать в code-review решений других разработчиков;</li> <li>Настраивать взаимодействие с аппаратными платформами и средами;</li> </ul> <p>Основной стек: java 11, jakarta, widlfly, solr 9.6+, spring 5+, postgresql 12+, linux, микросервисная архитектура.</p> <p>Преимуществом будет знание frontend (angular 12+, scss, html), знание kafka.</p> <p><strong>У нас работают, потому что:</strong></p> <p>Работаем без руководителей, живем в логике горизонтального управления, менеджмента будущего. Власть в нашей компании принадлежит Кодексу, который написали сами ребята (а не генеральному директору и не менеджерам). Нарушать Кодекс не имеют права даже акционеры.</p> <p>А возможность удаленки, ДМС, комфортный офис, кухня, посиделки по пятницам, корпоративы, дополнительные дни к отпуску – это только базовый минимум условий и возможностей, которые у нас есть для каждого.</p> <p><strong>Хочешь к нам в команду-откликайся!;)</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Java"
+    },
+    {
+      "name": "widlfly"
+    },
+    {
+      "name": "Spring Framework"
+    },
+    {
+      "name": "Angular"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3034828",
+    "name": "Смарт консалтинг",
+    "url": "https://api.hh.ru/employers/3034828",
+    "alternate_url": "https://hh.ru/employer/3034828",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1063302.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5873841.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5873842.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3034828",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T16:52:05+0300",
+  "created_at": "2025-06-05T16:52:05+0300",
+  "initial_created_at": "2025-06-05T16:52:05+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121394358",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121394358",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,208 @@
+{
+  "id": "120525176",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер-программист АСУ ТП",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 160000,
+    "to": 190000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 160000,
+    "to": 190000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Цветочная улица",
+    "building": "16с1",
+    "lat": 59.88771730987798,
+    "lng": 30.331022637888758,
+    "description": null,
+    "raw": "Санкт-Петербург, Цветочная улица, 16с1",
+    "metro": {
+      "station_name": "Московские ворота",
+      "line_name": "Московско-Петроградская",
+      "station_id": "15.221",
+      "line_id": "15",
+      "lat": 59.891788,
+      "lng": 30.317873
+    },
+    "metro_stations": [
+      {
+        "station_name": "Московские ворота",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.221",
+        "line_id": "15",
+        "lat": 59.891788,
+        "lng": 30.317873
+      },
+      {
+        "station_name": "Электросила",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.222",
+        "line_id": "15",
+        "lat": 59.879189,
+        "lng": 30.318659
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Фотомеханика – динамично развивающаяся компания, специализирующаяся на автоматизации складской логистики. Мы разрабатываем, проектируем, производим, интегрируем и обслуживаем конвейерные и сортировочные системы для крупнейших онлайн-маркетплейсов и логистических компаний. Мы ценим комфорт и безопасность наших сотрудников и всегда открыты для новых талантов.</p> <p>Мы ищем инженера-программиста АСУ ТП, которому интересно увидеть результат своей работы на запуске реального оборудования.</p> <p><strong>Задачи:</strong></p> <ul> <li>Разработка АСУ ТП преимущественно на базе Siemens, а также Owen и других платформ;</li> <li>Участие в проработке решения системы автоматизации склада, с учетом технического задания и пожеланий Заказчика;</li> <li>Согласование планировок размещения оборудования и взаимодействие с другими отделами компании;</li> <li>Помощь в сервисном сопровождении объектов и решение возникающих технических вопросов;</li> <li>Выезды для проведения пуско-наладочных работ по запуску конвейерных и сортировочных систем (преимущественно Московская область).</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Опыт работы в разработке АСУ ТП от 1 года;</li> <li>Знания в области разработки на платформе Simatic Step7 (TIA Portal);</li> <li>Знание языков программирования верхнего уровня будет являться преимуществом;</li> <li>Высокий уровень вовлеченности и стремление к постоянному улучшению;</li> <li>Готовность к командировкам.</li> </ul> <p><strong>Условия работы:</strong></p> <ul> <li>Гибридный формат работы и гибкое начало рабочего дня;</li> <li>Полный рабочий день, оформление по трудовому договору, оплачиваемые отпуска и больничные;</li> <li>Премии за участие реализации проектов;</li> <li>Выезды на объекты для выполнения пуско-наладочных работ (все командировочные расходы оплачиваются компанией);</li> <li>Ежегодные зимние и летние корпоративы;</li> <li>Работа в неформальной и творческой атмосфере в команде молодых профессионалов над востребованными высокотехнологичными проектами;</li> <li>Работа в аккредитованной IT-компании, с возможностью реализации собственных инициатив.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": {
+    "id": 45573,
+    "name": "Брендированный шаблон 1",
+    "top_picture": {
+      "height": 560,
+      "width": 1540,
+      "path": "https://img.hhcdn.ru/branding-pictures/3099852.png",
+      "blurred_path": null
+    },
+    "bottom_picture": {
+      "height": 704,
+      "width": 1540,
+      "path": "https://img.hhcdn.ru/branding-pictures/3099911.png",
+      "blurred_path": null
+    }
+  },
+  "key_skills": [
+    {
+      "name": "Автоматизация технологических процессов"
+    },
+    {
+      "name": "Автоматизация производства"
+    },
+    {
+      "name": "АСУ"
+    },
+    {
+      "name": "Siemens"
+    },
+    {
+      "name": "SIMATIC"
+    },
+    {
+      "name": "Simatic Step7"
+    },
+    {
+      "name": "TIA Portal"
+    },
+    {
+      "name": "PLC"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1742190",
+    "name": "Фотомеханика",
+    "url": "https://api.hh.ru/employers/1742190",
+    "alternate_url": "https://hh.ru/employer/1742190",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1369932.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7099630.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7099631.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1742190",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T13:13:33+0300",
+  "created_at": "2025-06-05T13:13:33+0300",
+  "initial_created_at": "2025-05-14T11:44:50+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120525176",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120525176",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

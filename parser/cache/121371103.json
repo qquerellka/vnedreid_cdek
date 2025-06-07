@@ -1,0 +1,150 @@
+{
+  "id": "121371103",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Java developer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 240000,
+    "to": 255000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 240000,
+    "to": 255000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Мы команда SNAP IT </strong>- представители самой технологичной и стремительно эволюционирующей индустрии IT, входим в ГК Технос, которая работает на рынке IT с 1991 года.</p> <p>Мы создаем ПО для ФинТеха. Мы верим, что роботизация бизнеса - это будущее, которое наступило уже сегодня. Топовые банки уже доверили нам самые сложные высокотехнологичные проекты.</p> <p>Приглашаем тебя в один из интересных и высокотехнологичных <strong>проектов для Сбера - ИИ помощник в СберСити. </strong>Основная цель продукта: помощь сотрудникам в решении повседневных рабочих задач</p> <p>Если вы хотите прокачать свои навыки, решать сложные и интересные задачи, внести свой вклад в развитие продукта на ранней стадии, ждём вас.</p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Проектирование программных модулей на Java, разработка микросервисов;</li> <li>разработка тестов на свой код;</li> <li>поиск и устранение ошибок в коде;</li> <li>участие в дизайне и архитектуре системы;</li> <li>ревью кода и документации.</li> </ul> <p><strong>Мы с удовольствием рассмотрим твою кандидатуру, если ты имеешь:</strong></p> <ul> <li>Опыт работы Java-разработчиком более 3 лет;</li> <li>уверенное знание Java SE 8+(И иных версий) Spring Boot Spring Framework (Core, Web, AOP, Messaging), Junit Mockito;</li> <li>есть понимание работы с многопоточностью;</li> <li>есть понимание работы ИИ и нейросетей</li> <li>опыт разработки REST-сервисов Понимание принципов работы протоколов HTTP, HTTPS, TLS Gradle/Maven, Git, sonarqube, PostgreSQL;</li> <li>опыт работы с форматами данных JSON, YAML;</li> <li>опыт работы с Kafka;</li> <li>опыт работы с Hibernate, Maven, Docker;</li> <li>будет плюсом знание Camunda и Lombok</li> </ul> <p><strong>Что предлагаем мы:</strong></p> <ul> <li>оформление в соответствии с ТК РФ;</li> <li>формат работы: удаленный формат на всей территории РФ;</li> <li>своевременную заработную плату – выплачивается 2 раза в месяц, готовы обсуждать финальную сумму на собеседовании;</li> <li>график 5/2 с 9:00 до 18:00; СБ, ВС - выходные;</li> <li>мы входим в список IT лицензированных аккредитованных компаний;</li> <li>ДМС;</li> <li>предоставление техники;</li> <li>отсутствие бюрократии, прозрачность, быстрое принятие решений, а также уважение к каждому члену команды;</li> <li>корпоративные активности: профессиональные митапы;</li> <li>поддержка в значимых событиях.</li> </ul> <p>Откликайся и стань частью команды увлеченных профессионалов!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Java"
+    },
+    {
+      "name": "Spring Framework"
+    },
+    {
+      "name": "Apache Kafka"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Hibernate"
+    },
+    {
+      "name": "Apache Maven"
+    },
+    {
+      "name": "Docker"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10842295",
+    "name": "Снэп АйТи",
+    "url": "https://api.hh.ru/employers/10842295",
+    "alternate_url": "https://hh.ru/employer/10842295",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1242735.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6591373.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6591374.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10842295",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T10:34:26+0300",
+  "created_at": "2025-06-05T10:34:26+0300",
+  "initial_created_at": "2025-06-05T10:34:26+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121371103",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121371103",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

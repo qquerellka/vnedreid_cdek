@@ -1,0 +1,163 @@
+{
+  "id": "120865326",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "DevOps-инженер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "улица Романова",
+    "building": "28",
+    "lat": 55.034286,
+    "lng": 82.917016,
+    "description": null,
+    "raw": "Новосибирск, улица Романова, 28",
+    "metro": {
+      "station_name": "Площадь Ленина",
+      "line_name": "Ленинская",
+      "station_id": "52.297",
+      "line_id": "52",
+      "lat": 55.029941,
+      "lng": 82.92069
+    },
+    "metro_stations": [
+      {
+        "station_name": "Площадь Ленина",
+        "line_name": "Ленинская",
+        "station_id": "52.297",
+        "line_id": "52",
+        "lat": 55.029941,
+        "lng": 82.92069
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><em>Создаём умную финтех-инфраструктуру для быстрой, надежной и недорогой доставки платежей.</em></p> <p><strong>СДЭКPay</strong> — это быстрорастущий <strong>финтех-агрегатор</strong> и часть группы компаний СДЭК Глобал. Мы предоставляем полный спектр платёжных решений: от интернет-эквайринга и СБП до softPOS, факторинга, онлайн-касс и переводов. Все ключевые продукты разрабатываем собственными силами — и сейчас ищем в команду опытного DevOps-инженера, который поможет нам развивать и масштабировать платформу.</p> <p><strong>Чем предстоит заниматься: </strong></p> <ul> <li>Выбором технологических решений и стратегией развития инфраструктуры;</li> <li> <p>Исследовать, тестировать и внедрять новые инструменты в части DevOps, CI/CD, мониторинга;</p> </li> <li> <p>Поддерживать и оптимизировать текущую инфраструктуру;</p> </li> <li> <p>Работать совместно с разработчиками, чтобы обеспечить стабильность и производительность сервисов;</p> </li> <li> <p>Обеспечивать команде быструю и безопасную работу с данными, доступами, окружениями.</p> </li> </ul> <p><strong>Наши ожидания: </strong></p> <ul> <li>Опыт в работе Kubernetes/Docker и практический опыт работы с боевыми системами;</li> <li>Опыт администрирования различных семейств ОС Linux;</li> <li>Опыт конфигурирования систем мониторинга, логирования, трассировки (Prometheus, Grafana);</li> <li>Опыт работы с Helm/Ansible.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт конфигурирования и эксплуатации СУБД PostgreSQL, Clickhouse, в том числе оптимизация и миграция баз данных;</li> <li>Знание экосистемы с Yandex Cloud;</li> <li>Понимание особенностей работы в инфраструктуре, соответствующей требованиям PCI DSS.</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Возможность выстроить современную DevOps-инфраструктуру практически с нуля;</li> <li>Участие в разработке высоконагруженных платёжных решений с реальной бизнес-ценностью;</li> <li>Открытое руководство - для новых решений, идей и дискуссий.</li> </ul> <p><strong>Условия: </strong></p> <ul> <li>Официальное оформление, белая зарплата, отпуск и больничные - по ТК РФ;</li> <li>Удобный график работы: пятидневка с 9:00 до 18:00, без переработок;</li> <li>Комфортный офис в центре города — рядом все, что нужно, и приятная атмосфера внутри;</li> <li>Есть аккредитация как IT-компании + ДМС после прохождения испытательного срока.</li> </ul> <em>Интересно? Ждем ваш отклик! </em>",
+  "branded_description": "\n<style>\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;    \n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-weight: bold;\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n    line-height: inherit !important;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    margin: 0;\n    display: inline;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    z-index: 1;\n    font-family: Arial;\n    font-size: 18px;\n    line-height: 22px;\n    color: #1F282C;\n    overflow: hidden;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n}\n\n.tmpl_hh_content {   \n    position: relative;\n    padding: 32px 40px 20px;\n    z-index: 3;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    margin: 32px 0 16px;\n}\n\n.tmpl_hh_content b, \n.tmpl_hh_content strong {\n    display: inline-block;\n    font-size: 24px;\n    font-weight: 700;\n    line-height: 28px;\n}\n\n.tmpl_hh_content i b, \n.tmpl_hh_content i strong,\n.tmpl_hh_content em b, \n.tmpl_hh_content em strong,\n.tmpl_hh_content b em, \n.tmpl_hh_content strong em,\n.tmpl_hh_content b i, \n.tmpl_hh_content strong i {\n    font-weight: 700;\n    font-style: normal;\n    font-size: 18px;\n    line-height: 22px;\n}\n\n.tmpl_hh_content ol, .tmpl_hh_content ul {\n    margin-left: 17px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 12px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 12px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;    \n}\n\n.tmpl_hh_content li:before {\n    position: absolute;\n    left: -13px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"\";    \n    width: 5px;\n    height: 5px;\n    top: 7px;\n    border-radius: 50%;\n    background: #1F282C;\n\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter) '.';\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n\n.tmpl_hh_flex {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n}\n\n.tmpl_hh_header {\n    position: relative;\n    margin: 16px 16px 0;\n    background: url(https://hhcdn.ru/ichameleon/425603.png), url(https://hhcdn.ru/ichameleon/425612.png);\n    background-size: 58.3% auto, 100% 100%;\n    padding: 28.7% 23% 23px 23px;\n    background-repeat: no-repeat, no-repeat;\n    background-position: 106% -6px, 0 0;\n}\n\n.tmpl_hh_header__logo {\n    position: absolute;\n    left: 3.5%;\n    top: 15px;\n    width: 29.2%;\n}\n\n.tmpl_hh_header__textBlock {\n    font-size: 16px;\n    line-height: 20px;\n    color: rgba(255, 255, 255, 0.95);\n}\n\n.tmpl_hh_header__textBlock b {\n    font-size: 40px;\n    font-weight: 700;\n    line-height: 44px;\n    color: #fff;\n    display: block;\n    margin-bottom: 11px;\n}\n\n.tmpl_hh_offer {\n    background: #00833E url(https://hhcdn.ru/ichameleon/425611.png);\n    background-size: auto 100%;\n    background-repeat: no-repeat;\n    background-position: 100% 0;\n    margin: 0 16px;\n    border-radius: 20px;\n    padding: 34px 24px 24px;\n    font-size: 16px;\n    line-height: 22px;\n    color: #fff;\n}\n\np.tmpl_hh_offer__title {\n    font-size: 24px;\n    font-weight: 700;\n    line-height: 22px;\n    display: flex;\n    gap: 10px;\n    align-items: flex-end;\n    margin-bottom: 34px;\n}\n\np.tmpl_hh_offer__title img {\n    width: 145px;\n    flex-shrink: 0;\n}\n\n.tmpl_hh_offer__items {\n    display: grid;\n    grid-template-columns: repeat(2, 1fr);\n    gap: 24px 0;\n}\n\n.tmpl_hh_offer__item {\n    display: flex;\n    align-items: center;\n    gap: 12px;\n    box-sizing: border-box;\n    padding: 0 0 0;\n}\n\n.tmpl_hh_offer__icon {\n    width: 40px;\n    flex-shrink: 0;\n}\n\n.tmpl_hh_footnote {\n    font-size: 12px;\n    line-height: 22px;\n    padding: 24px 16px 16px;\n    text-align: center;\n    color: #AFAFAF;\n}\n\n@media screen and (max-width: 1019px) {\n    .tmpl_hh_header__textBlock b {\n        font-size: 34px;\n        line-height: 38px;\n    }\n\n    .tmpl_hh_offer__items {\n        gap: 24px 20px;\n    }\n}\n\n@media screen and (max-width: 699px) {\n    \n    .tmpl_hh_wrapper {\n        width: auto;\n        margin: 0 -15px;\n    }\n\n    .tmpl_hh_content {   \n        padding: 38px 15px 28px;\n    }\n\n    .tmpl_hh_content p,\n    .tmpl_hh_content b,\n    .tmpl_hh_content strong {\n        margin: 32px 0 12px;\n    }\n\n    .tmpl_hh_content b, \n    .tmpl_hh_content strong {\n        font-size: 22px;\n        line-height: 28px;\n    }\n\n    .tmpl_hh_header {\n        margin: 15px 15px 0;\n        background: url(https://hhcdn.ru/ichameleon/425603.png), url(https://hhcdn.ru/ichameleon/425613.png);\n        background-size: 101% auto, 100% 100%;\n        padding: 83% 16px 20px;\n        background-repeat: no-repeat, no-repeat;\n        background-position: 100% 27%, 0 0;\n    }\n\n    .tmpl_hh_header__logo {\n        position: absolute;\n        left: 4%;\n        top: 6px;\n        width: 46%;\n    }\n\n    .tmpl_hh_header__textBlock {\n        font-size: 14px;\n        line-height: 18px;\n    }\n\n    .tmpl_hh_header__textBlock b br{\n       display: none;\n    }\n\n    .tmpl_hh_header__textBlock b {\n        font-size: 28px;\n        line-height: 32px;\n        margin-bottom: 10px;\n    }\n\n    .tmpl_hh_offer {\n        background: #00833E;\n        margin: 0 15px;\n        padding: 26px 30px 22px 24px;\n    }\n\n    p.tmpl_hh_offer__title {\n        font-size: 22px;\n        line-height: 18px;\n        gap: 10px;\n        margin-bottom: 22px;\n    }\n\n    p.tmpl_hh_offer__title img {\n        width: 127px;\n    }\n\n    .tmpl_hh_offer__items {\n        grid-template-columns: repeat(1, 1fr);\n        gap: 12px 0;\n    }\n\n    .tmpl_hh_offer__item {\n        align-items: flex-start;\n        gap: 12px;\n        box-sizing: border-box;\n        padding: 0 0 0;\n    }\n\n    .tmpl_hh_offer__item:last-child {\n        align-items: center;\n    }\n\n    .tmpl_hh_offer__icon {\n        width: 25px;\n        position: relative;\n        top: -1px;\n    }\n\n    .tmpl_hh_footnote {\n        font-size: 12px;\n        line-height: 18px;\n        padding: 16px 15px 16px;\n        color: #A9A9A9;\n    }\n\n    .tmpl_hh_offer__item br {\n        display: none;\n    }\n}\n\n@media screen and (max-width: 375px) {\n    .tmpl_hh_offer__item br {\n        display: block;\n    }\n}\n</style>\n\n\n<div class=\"tmpl_hh_wrapper\">\n    <div class=\"tmpl_hh_header\">\n        <div class=\"tmpl_hh_header__logo\"><img src=\"https://hhcdn.ru/ichameleon/425602.svg\" alt=\"\"></div>\n        <div class=\"tmpl_hh_header__textBlock\"><p><b>Удобный сервис<br> приёма платежей</b> Мы стремимся обеспечить максимально эффективное функционирование независимого рынка электронной коммерции посредством инновационных финансовых технологий</p></div>\n    </div>\n    <div class=\"tmpl_hh_content\">\n        <p><em>Создаём умную финтех-инфраструктуру для быстрой, надежной и недорогой доставки платежей.</em></p> <p><strong>СДЭКPay</strong> — это быстрорастущий <strong>финтех-агрегатор</strong> и часть группы компаний СДЭК Глобал. Мы предоставляем полный спектр платёжных решений: от интернет-эквайринга и СБП до softPOS, факторинга, онлайн-касс и переводов. Все ключевые продукты разрабатываем собственными силами — и сейчас ищем в команду опытного DevOps-инженера, который поможет нам развивать и масштабировать платформу.</p> <p><strong>Чем предстоит заниматься: </strong></p> <ul> <li>Выбором технологических решений и стратегией развития инфраструктуры;</li> <li> <p>Исследовать, тестировать и внедрять новые инструменты в части DevOps, CI/CD, мониторинга;</p> </li> <li> <p>Поддерживать и оптимизировать текущую инфраструктуру;</p> </li> <li> <p>Работать совместно с разработчиками, чтобы обеспечить стабильность и производительность сервисов;</p> </li> <li> <p>Обеспечивать команде быструю и безопасную работу с данными, доступами, окружениями.</p> </li> </ul> <p><strong>Наши ожидания: </strong></p> <ul> <li>Опыт в работе Kubernetes/Docker и практический опыт работы с боевыми системами;</li> <li>Опыт администрирования различных семейств ОС Linux;</li> <li>Опыт конфигурирования систем мониторинга, логирования, трассировки (Prometheus, Grafana);</li> <li>Опыт работы с Helm/Ansible.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт конфигурирования и эксплуатации СУБД PostgreSQL, Clickhouse, в том числе оптимизация и миграция баз данных;</li> <li>Знание экосистемы с Yandex Cloud;</li> <li>Понимание особенностей работы в инфраструктуре, соответствующей требованиям PCI DSS.</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Возможность выстроить современную DevOps-инфраструктуру практически с нуля;</li> <li>Участие в разработке высоконагруженных платёжных решений с реальной бизнес-ценностью;</li> <li>Открытое руководство - для новых решений, идей и дискуссий.</li> </ul> <p><strong>Условия: </strong></p> <ul> <li>Официальное оформление, белая зарплата, отпуск и больничные - по ТК РФ;</li> <li>Удобный график работы: пятидневка с 9:00 до 18:00, без переработок;</li> <li>Комфортный офис в центре города — рядом все, что нужно, и приятная атмосфера внутри;</li> <li>Есть аккредитация как IT-компании + ДМС после прохождения испытательного срока.</li> </ul> <em>Интересно? Ждем ваш отклик! </em></div>\n    <div class=\"tmpl_hh_offer\">\n        <p class=\"tmpl_hh_offer__title\"><img src=\"https://hhcdn.ru/ichameleon/425609.svg\" alt=\"\"> — это</p>\n        <div class=\"tmpl_hh_offer__items\">\n                <div class=\"tmpl_hh_offer__item\">\n                    <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/425607.svg\" alt=\"\"></div>\n                    <p>Карьерный рост и горизонтальное развитие</p>\n                </div>\n                <div class=\"tmpl_hh_offer__item\">\n                    <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/425606.svg\" alt=\"\"></div>\n                    <p>Сильная команда единомышленников</p>\n                </div>\n                <div class=\"tmpl_hh_offer__item\">\n                    <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/425605.svg\" alt=\"\"></div>\n                    <p>Обучение в корпоративном университете СДЭК</p>\n                </div>\n                <div class=\"tmpl_hh_offer__item\">\n                    <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/425604.svg\" alt=\"\"></div>\n                    <p>Насыщенная корпоративная жизнь (праздники, тимбилдинги)</p>\n                </div>\n                <div class=\"tmpl_hh_offer__item\">\n                    <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/425610.svg\" alt=\"\"></div>\n                    <p>Конкурентная заработная<br> плата</p>\n                </div>\n                <div class=\"tmpl_hh_offer__item\">\n                    <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/425608.svg\" alt=\"\"></div>\n                    <p>ДМС</p>\n                </div>\n        </div>\n    </div>\n    <div class=\"tmpl_hh_footnote\">\n        <p>ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ «СДЭК ФИНАНС» предствляет <nobr>бренд CDEK PAY</nobr></p>\n    </div>\n</div>\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "DevOps"
+    },
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "CI/CD"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Prometheus"
+    },
+    {
+      "name": "Grafana"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "160",
+      "name": "DevOps-инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5264989",
+    "name": "CDEK Pay",
+    "url": "https://api.hh.ru/employers/5264989",
+    "alternate_url": "https://hh.ru/employer/5264989",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1152899.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6232054.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6232055.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5264989",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-22T13:14:56+0300",
+  "created_at": "2025-05-22T13:14:56+0300",
+  "initial_created_at": "2025-05-22T13:14:56+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120865326",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120865326",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

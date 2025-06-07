@@ -1,0 +1,125 @@
+{
+  "id": "120115184",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Frontend разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Привет! Мы <strong>«NAN Аgency»</strong> – разработчик и интегратор IT-решений для крупного бизнеса, развивающихся компаний и стартапов. А ещё, у нас своё продуктовое направление.</p><p>Мы создаём digital-продукты, которые улучшают жизнь людей и эффективность бизнеса. За плечами десятки успешных внедрений: от первого в России логистического маркетплейса до автоматизации федеральной аптечной сети из 13 000 аптек.</p><p>За 5 лет мы создали атмосферу, в которой хочется работать - вся наша команда состоит из опытных специалистов, рядом с которыми всегда есть, чему научиться.</p><p>Сейчас нам нужен универсальный <strong>Frontend разработчик</strong>, который не только знаком с актуальными технологиями, но и не против заниматься проектами с большим количеством легаси кода. Да-да, мы знаем, как это звучит, но старенькие проекты тоже заслуживают внимания и поддержки.</p><p><strong>Что мы ждём от тебя:</strong></p><ul><li><p>Уверенный опыт в JavaScript и jQuery</p></li><li><p>Коммерческий опыт с любым современным фреймворком</p></li><li><p>Опыт с HTML версткой и адаптивной версткой, знания масштабируемой верстки</p></li><li><p>Владение Figma и TypeScript</p></li><li><p>Понимание семантичности и экранной доступности</p></li><li><p>Умение конфигурировать сборщики WebPack, <span>Rollup, Parcel, Vite (любой из перечисленных)</span> и опыт с Docker - опционально.</p></li></ul><p><strong>Что предлагаем:</strong></p><ul><li><p>Трудоустройство по ТК РФ с первого рабочего дня</p></li><li><p>Для нас важен твой комфорт: у нас два современных офиса (в центре Новосибирска и в Академгородке), а ещё можно работать в гибридном или удалённом формате</p></li><li><p>Рабочее место, оборудованное современной техникой с учетом твоих пожеланий (даже на удалёнке!)</p></li><li><p>Мы ценим желание развиваться, поэтому с радостью компенсируем твое обучение и участие в конференциях</p></li><li><p>У нас есть внутренняя библиотека: за время работы мы приобрели множество курсов и материалов, доступ к которым ты получишь с первого дня</p></li></ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": {
+    "id": 45499,
+    "name": "Основной шаблон",
+    "top_picture": {
+      "height": 840,
+      "width": 2310,
+      "path": "https://img.hhcdn.ru/branding-pictures/3265889.jpeg",
+      "blurred_path": null
+    },
+    "bottom_picture": {
+      "height": 1055,
+      "width": 2310,
+      "path": "https://img.hhcdn.ru/branding-pictures/3267702.jpeg",
+      "blurred_path": null
+    }
+  },
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5093764",
+    "name": "NAN Agency",
+    "url": "https://api.hh.ru/employers/5093764",
+    "alternate_url": "https://hh.ru/employer/5093764",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1394366.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7197247.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7197248.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5093764",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T13:36:01+0300",
+  "created_at": "2025-06-06T13:36:01+0300",
+  "initial_created_at": "2025-04-30T13:56:02+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120115184",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120115184",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

@@ -43,7 +43,9 @@ OR CORRECTION.
 # License       : GNU GENERAL PUBLIC LICENSE
 
 import os
+from pathlib import Path
 from typing import Optional
+import argparse
 
 from src.analyzer import Analyzer
 from src.currency_exchange import Exchanger
@@ -51,7 +53,10 @@ from src.data_collector import DataCollector
 from src.parser import Settings
 from src.predictor import Predictor
 
-CACHE_DIR = os.path.join(os.path.abspath(os.path.dirname(__file__)), "cache")
+# Ensure cache directory exists
+CACHE_DIR = Path(__file__).parent / "cache"
+CACHE_DIR.mkdir(exist_ok=True)
+
 SETTINGS_PATH = "settings.json"
 
 
@@ -91,7 +96,35 @@ class ResearcherHH:
         print("[INFO]: Done! Exit()")
 
 
+def hh_analyzer():
+    """Main function for HH.ru vacancies researcher"""
+    settings = Settings("settings.json")
+    collector = DataCollector(settings.rates)
+    
+    # If list_roles flag is set, show roles and exit
+    if settings.options.get('list_roles'):
+        print("\nFetching professional roles from HH.ru API...")
+        roles = collector.get_professional_roles()
+        if roles:
+            print("\nAvailable Professional Roles:")
+            print("=" * 50)
+            for category in roles['categories']:
+                print(f"\n{category['name'].upper()}:")
+                print("-" * 50)
+                for role in category['roles']:
+                    print(f"ID: {role['id']:<4} | {role['name']}")
+        return
+
+    analyzer = Analyzer(settings.save_result)
+    print("[INFO]: Get exchange rates:", settings.rates)
+    print("[INFO]: Collect data from JSON. Create list of vacancies...")
+    vacancies = collector.collect_vacancies(
+        query=settings.options, refresh=settings.refresh, num_workers=settings.num_workers
+    )
+    df = analyzer.prepare_df(vacancies)
+    analyzer.analyze_df(df)
+    print("[INFO]: Done! Exit()")
+
+
 if __name__ == "__main__":
-    hh_analyzer = ResearcherHH()
-    hh_analyzer.update()
     hh_analyzer()

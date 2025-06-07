@@ -1,0 +1,161 @@
+{
+  "id": "121277493",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Аналитик ИТ продукта",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 80000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 80000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <ul> <li>Описание бизнес-процессов c использованием общепринятых нотаций и средств моделирования по результатам обсуждения в составе проектной группы;</li> <li>Общение с заказчиком по вопросам архитектуры, объектной модели, технологического стека решений;</li> <li>Взаимодействие с бизнес-заказчиками и смежными командами;</li> <li>Проведение первичной системной аналитики и постановка задач разработчикам;</li> <li>Участие в проектировании разрабатываемого ИТ продукта;</li> <li>Полный цикл документирования разработки: ТЗ, ЧТЗ, ПМИ, технические требования, инструкции, регламенты, руководства и пр. документации по проекту;</li> <li>Контроль над реализацией и тестирование реализованного функционала;</li> <li>Участие в приемо-сдаточных испытаниях;</li> <li>Подготовка отчетности по проведенным работам.</li> </ul> <strong>Требования:</strong> <ul> <li>Опыт работы бизнес-аналитиком и/или системным-аналитиком и/или техническим писателем от 2х лет;</li> <li>Знание нотаций, умение моделировать и описывать процессы;</li> <li>Опыт написания User Story, Use Case;</li> <li>Опыт полного цикла создания ИТ продуктов в сегменте b2b от идеи до вывода продукта на рынок;</li> <li>Опыт взаимодействия с распределенной командой разработки;</li> <li>Понимание основ ИИ и ML;</li> <li>Грамотный русский язык, как письменный, так и устный.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Знание SQL на базовом уровне;</li> <li>Опыт работы с интеграциями, проектирования API, описание архитектурных схем;</li> <li>Создание ИТ продуктов с использованием ИИ и ML.</li> </ul> <strong>Условия:</strong> <ul> <li>оформление по ТК РФ;</li> <li>оклад и премиальная часть;</li> <li>работа в развивающемся дружном коллективе;</li> <li>гибридный график работы;</li> <li>карьерный и профессиональный рост.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Аналитическое мышление"
+    },
+    {
+      "name": "Анализ бизнес-процессов"
+    },
+    {
+      "name": "Декомпозиция бизнес-процессов"
+    },
+    {
+      "name": "Разработка технических заданий"
+    },
+    {
+      "name": "Use case"
+    },
+    {
+      "name": "User Story"
+    },
+    {
+      "name": "Запуск новых продуктов"
+    },
+    {
+      "name": "Постановка задач разработчикам"
+    },
+    {
+      "name": "Грамотная письменная речь"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "148",
+      "name": "Системный аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11239056",
+    "name": "Нью Бренд",
+    "url": "https://api.hh.ru/employers/11239056",
+    "alternate_url": "https://hh.ru/employer/11239056",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1378484.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7133731.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7133732.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11239056",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T11:55:35+0300",
+  "created_at": "2025-06-06T11:55:35+0300",
+  "initial_created_at": "2025-06-03T11:55:35+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121277493",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121277493",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

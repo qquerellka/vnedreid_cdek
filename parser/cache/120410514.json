@@ -1,0 +1,173 @@
+{
+  "id": "120410514",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Верстальщик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 70000,
+    "to": 80000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 70000,
+    "to": 80000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "улица Чайковского",
+    "building": "29",
+    "lat": 59.946311,
+    "lng": 30.352268,
+    "description": null,
+    "raw": "Санкт-Петербург, улица Чайковского, 29",
+    "metro": {
+      "station_name": "Чернышевская",
+      "line_name": "Кировско-Выборгская",
+      "station_id": "14.198",
+      "line_id": "14",
+      "lat": 59.94453,
+      "lng": 30.359919
+    },
+    "metro_stations": [
+      {
+        "station_name": "Чернышевская",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.198",
+        "line_id": "14",
+        "lat": 59.94453,
+        "lng": 30.359919
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>SPIKS</strong> ищет опытного верстальщика, способного самостоятельно оценивать и решать задачи. Мы занимаемся аутсорс-разработкой: создаем большие платформы и сервисы для различных бизнесов и корпоративных клиентов. Мы не занимаемся небольшими проектами на пару месяцев, как правило это проекты от года и больше.</p> <p><strong>ВАЖНО: мы ищем человека в ОФИС в СПб (гибрид возможен, удаленный формат работы - невозможен)<br /><br />Наш стек: </strong></p> <p>разработка: pug, sass, js, jquery</p> <p>окружение: gulp, webpack, github actions</p> <p>документация: storybook</p> <p><strong>Обязанности:</strong></p> <p>Адаптивная верстка интернет-магазинов, корпоративных-сайтов, порталов, лендингов по макетам от дизайнеров (Figma, PSD)</p> <p><strong>Наши ожидания от кандидата:</strong></p> <p>Отличные знания HTML5, CSS3, JS6, JQuery;</p> <p>Использование препроцессора SASS/LESS;</p> <p>Уверенные знания Flexbox, Grid layout, Float, Columns;</p> <p>Знание методологии БЭМ;</p> <p>Чистый, валидный и поддерживаемый код.</p> <p>Опыт кроссбраузерной, адаптивной верстки;</p> <p>Опыт оптимизации скорости загрузки страниц Page Speed;</p> <p>Опыт использование SVG-спрайтов;</p> <p>Понимать и верстать по принципу Mobile First;</p> <p>Умение верстать Pixel Perfect.</p> <p>Опыт работы с Git;</p> <p>Владение графическими редакторами Figma, Sketch и программ из пакета Adobe (Photoshop, XD, Illustrator) будет преимуществом;</p> <p>Умение верстать по точным требованиями заказчиков.</p> <p>Умение говорить на одном языке с командой, формулировать свою мысль, задавать вопросы и давать обратную связь.</p> <p><strong>Плюсом будет:</strong></p> <p>Опыт разработки на React и Redux;</p> <p>Знание препроцессора Pug (Jade);</p> <p>Знание ECMAScript 6;</p> <p>Опыт работы с системами сборки (Gulp или Grunt);</p> <p>Умение работать с API Яндекc, MapBox, GoogleMaps.</p> <p>Умение работать с Canvas, WebGL;</p> <p>Знание библиотек для создания анимаций;</p> <p>Знание SVG и их анимации</p> <p>Опыт верстки для Retina-дисплеев и Safari.<br /><br /><strong>ОГРОМНЫЙ ПЛЮС:</strong> знания/опыт и/или желание развиваться в БИТРИКСЕ</p> <p> </p> <p><strong>Мы предоставляем:</strong></p> <ul> <li>Официальное оформление с первого рабочего дня. Оплата отпускных и больничных в соответствии с ТК РФ.</li> <li>График 5/2 с гибким началом дня. Не засекаем количество часов, которые ты провел за работой. Главное вовремя выполнять задачи </li> <li>Обеспечиваем необходимой техникой, оперативно реагируем на потребности.</li> <li>Молодой коллектив (средний возраст 26 лет). Между собой мы общаемся исключительно на «ты».</li> <li>Работам в современном офисе в историческом центре города 4 дня в неделю и 1 любой день удаленно (по желанию).</li> <li>Оборудованная кухня с кофемашиной. Стол для пинг-понга в офисе.</li> <li>Лояльное руководство, с которым можно обсудить любые вопросы.</li> <li>Отсутствие бюрократии и пустой трате времени. У нас нет долгих согласований, мы оперативно даем обратную связь по каждому предложению. Мы не проводим бесконечные созвоны, на которых нужно обязательное присутствие.</li> <li>Составим тебе ИПР и дадим возможность учиться, развиваться и расти в карьерном плане.</li> </ul> <p> </p> <p>Вакансия подразумевает выполнение тестового задания по верстке. Напиши пожалуйста в сопроводительном письме, что готов его выполнить :)</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "Верстка сайтов"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3520763",
+    "name": "SPIKS",
+    "url": "https://api.hh.ru/employers/3520763",
+    "alternate_url": "https://hh.ru/employer/3520763",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1233981.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6556365.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6556366.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3520763",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-12T13:49:19+0300",
+  "created_at": "2025-05-12T13:49:19+0300",
+  "initial_created_at": "2025-05-12T13:49:19+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120410514",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120410514",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

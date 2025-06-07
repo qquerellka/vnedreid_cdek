@@ -1,0 +1,164 @@
+{
+  "id": "120943355",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Frontend-разработчик (React.js)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 80000,
+    "to": 110000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 80000,
+    "to": 110000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "MONTHLY",
+      "name": "Раз в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>Разработка SPA-приложений на базе React.js</li> <li>Интеграция с REST API и/или GraphQL</li> <li>Реализация адаптивной и кроссбраузерной верстки</li> <li>Оптимизация производительности интерфейса</li> <li>Поддержка и развитие существующих проектов</li> <li>Code review и участие в улучшении архитектуры проекта</li> </ul> <strong>Требования:</strong> <ul> <li>Опыт коммерческой разработки от 2 лет</li> <li>Уверенное знание JavaScript (ES6+), HTML5, CSS3</li> <li>Глубокие знания React.js, включая хуки, контекст, роутинг</li> <li>Опыт работы с Redux / Zustand / другим стейт-менеджментом</li> <li>Понимание принципов компонентного подхода и архитектуры</li> <li>Навыки работы с Git</li> <li>Опыт работы с системами сборки (Webpack, Vite и др.)</li> <li>Умение писать чистый, читаемый и поддерживаемый код</li> <li>Базовые знания английского языка (для чтения документации)</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт работы с TypeScript</li> <li>Опыт SSR (Next.js)</li> <li>Навыки написания unit и e2e тестов (Jest, Cypress)</li> <li>Опыт работы с Figma, понимание дизайн-систем</li> <li>Знание принципов CI/CD</li> </ul> <strong>Условия:</strong> <ul> <li>Интересные и разноплановые проекты</li> <li>Современный стек и свобода технических решений</li> <li>Гибкий график и возможность удалённой работы</li> <li>Дружную команду и прозрачную коммуникацию</li> <li>Возможности для профессионального роста и обучения</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "React"
+    },
+    {
+      "name": "GitHub"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "GraphQL"
+    },
+    {
+      "name": "CSS3"
+    },
+    {
+      "name": "HTML5"
+    },
+    {
+      "name": "Webpack"
+    },
+    {
+      "name": "Redux"
+    },
+    {
+      "name": "Адаптивная верстка"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3162295",
+    "name": "Edison Studio",
+    "url": "https://api.hh.ru/employers/3162295",
+    "alternate_url": "https://hh.ru/employer/3162295",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/869168.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3917547.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3917548.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3162295",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-26T06:23:53+0300",
+  "created_at": "2025-05-26T06:23:53+0300",
+  "initial_created_at": "2025-05-26T06:23:53+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120943355",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120943355",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

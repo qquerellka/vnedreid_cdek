@@ -1,0 +1,140 @@
+{
+  "id": "121414284",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист по ручному тестированию (middle/middle+)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>ПРИВЕТ!</strong></p> <p>Мы PRO IT и мы работаем над созданием социально-значимых проектов, призванных решать вопросы современной жизни. Результат работы нашей команды – многофункциональные системы, которыми уже сейчас пользуются миллионы.</p> <p>Мы применяем только современные технологии и уделяем много времени проектированию и оптимизации кода, чтобы он выдерживал большую нагрузку, а наши сервисы работали бесперебойно. Проекты, которыми мы занимаемся, призваны автоматизировать деятельность учреждений государственного сектора.</p> <p><strong>Основные задачи:</strong></p> <ul> <li>Функциональное тестирование (модульное, интеграционное, регрессионное);</li> <li>Тестирование web-сервисов и web-приложений (фронт и бэк - 40/60% времени);</li> <li>Разработка тестовой документации (тест-кейсы, чек-листы, инструкции);</li> <li>Создание баг-репортов и управление ими в Jira.</li> </ul> <p><strong>Наши ожидания от кандидата:</strong></p> <ul> <li>Коммерческий опыт ручного тестирования от 2 лет;</li> <li>Опыт работы с инструментами: Devtools/Browserstack, Postman/Swagger;</li> <li>Понимание принципов работы web-сервисов (REST/SOAP) и знание основных структур данных JSON/XML;</li> <li>Опыт написания тестовой документации, опыт работы в TMS (TestRail, Test IT, Allure TestOps и др.);</li> <li>Опыт работы с одной из СУБД (PostgreSQL, MySQL, Oracle);</li> <li>Знание SQL на уровне средних запросов (join, group by).</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Работа в крупной коммерческой аккредитованной ИТ-компании;</li> <li>Официальное трудоустройство по ТК РФ;</li> <li>Персональное предложение по заработной плате и дополнительным условиям, соответствующее твоему опыту и ожиданиям: «белую» конкурентоспособную, стабильную и своевременную заработную плату;</li> <li>График работы гибкий, согласовывается с руководителем;</li> <li>У нас есть офисы в Перми и Москве, но сейчас все процессы адаптированы под удаленную работу. И сейчас и в будущем выбор формата работы будет за сотрудником;</li> <li>Амбициозные задачи, масштабные проекты и возможности для профессионального роста;</li> <li>Работу в команде профессионалов из разных сфер, которые всегда готовы поделиться опытом;</li> <li>Лояльное руководство, поддерживающее рациональные инициативы;</li> <li>100% оплату периодов отпусков;</li> <li>Приятную корпоративную культуру: дружелюбную атмосферу в командах, корпоративные мероприятия оффлайн и онлайн, персональные скидки в Ситилинк и BestBenefits;</li> <li>Предоставляем корпоративное оборудование для работы.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "REST"
+    },
+    {
+      "name": "SOAP"
+    },
+    {
+      "name": "Функциональное тестирование"
+    },
+    {
+      "name": "API"
+    },
+    {
+      "name": "Ручное тестирование"
+    },
+    {
+      "name": "JSON"
+    },
+    {
+      "name": "XML"
+    },
+    {
+      "name": "Интеграционное тестирование"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4554457",
+    "name": "Про Ай-Ти Ресурс",
+    "url": "https://api.hh.ru/employers/4554457",
+    "alternate_url": "https://hh.ru/employer/4554457",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1227143.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6529013.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6529014.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4554457",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T11:31:24+0300",
+  "created_at": "2025-06-06T11:31:24+0300",
+  "initial_created_at": "2025-06-06T11:31:24+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121414284",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121414284",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

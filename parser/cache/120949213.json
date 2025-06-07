@@ -1,0 +1,170 @@
+{
+  "id": "120949213",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Java-разработчик (Новосибирск)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "Красный проспект",
+    "building": "55",
+    "lat": 55.039367,
+    "lng": 82.917241,
+    "description": null,
+    "raw": "Новосибирск, Красный проспект, 55",
+    "metro": {
+      "station_name": "Красный проспект",
+      "line_name": "Ленинская",
+      "station_id": "52.296",
+      "line_id": "52",
+      "lat": 55.040998,
+      "lng": 82.917447
+    },
+    "metro_stations": [
+      {
+        "station_name": "Красный проспект",
+        "line_name": "Ленинская",
+        "station_id": "52.296",
+        "line_id": "52",
+        "lat": 55.040998,
+        "lng": 82.917447
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>One2work – агрегатор платформенной занятости, который помогает компаниям тестировать новые подходы к поиску, привлекать гибкую рабочую силу, оптимизировать документооборот. Инновационный продукт, который необходим каждому бизнесу</strong></p> <p>Мы молодая команда профессионалов, которая стремительно растет, как и наши амбициозные планы на развитие. У нас ты всегда получишь помощь и поддержку в лице коллег, которые готовы делиться знаниями</p> <p>В связи с расширением штата мы в поисках <strong>Java разработчика</strong></p> <p><strong>​​​Основной стек: </strong>Spring, PostgreSQL, MongoDB, Redis, Kubernetes, Docker, gRPC</p> <p><strong>Тебе предстоит заниматься:</strong></p> <ul> <li> <p>Проектировать и разрабатывать новые модули/сервисы</p> </li> <li> <p>Принимать участие в выборе архитектурных решений</p> </li> <li> <p>Осуществлять интеграцию с внешними сервисами</p> </li> <li> <p>Осуществлять выбор способов реализации, декомпозицию и оценку работ</p> </li> <li> <p>Анализировать/оптимизировать работу сервисов</p> </li> <li> <p>Управлять качеством продукта</p> </li> <li> <p>Подключаться к решению проблем в разработке и разбору инцидентов</p> </li> <li> <p>Поддерживать и рефакторить существующий сервис</p> </li> </ul> <p><strong>Взамен ожидаем от тебя:</strong></p> <ul> <li>Опыт коммерческой разработки на Java от 3х лет</li> <li>Умение писать чистый и поддерживаемый код</li> <li>Знание алгоритмов и архитектурных паттернов</li> </ul> <p><strong>Своим коллегам мы предлагаем:</strong></p> <ul> <li> <p>Работу в эстетичном офисе в Новосибирске, гибридный или удаленный формат работы</p> </li> <li> <p>Возможность внутреннего и внешнего обучения за счет компании</p> </li> <li> <p>Собственную онлайн и офлайн библиотеку с полезной литературой</p> </li> </ul> <p><strong>Чувствуешь, что все перечисленное это твое – оставляй отклик, мы ждем тебя на собеседовании :)</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Java"
+    },
+    {
+      "name": "Spring Framework"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Apache Kafka"
+    },
+    {
+      "name": "Redis"
+    },
+    {
+      "name": "gRPC"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Kubernetes"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9595987",
+    "name": "ВанТуВорк",
+    "url": "https://api.hh.ru/employers/9595987",
+    "alternate_url": "https://hh.ru/employer/9595987",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1207354.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6449865.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6449866.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9595987",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-26T07:51:04+0300",
+  "created_at": "2025-05-26T07:51:04+0300",
+  "initial_created_at": "2025-05-26T07:51:04+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120949213",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120949213",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

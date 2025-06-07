@@ -1,0 +1,146 @@
+{
+  "id": "120822848",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Junior Front-End Developer (удаленно)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 60000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 60000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong><em>Привет! Мы рады, что тебе приглянулась именно эта вакансия и наша компания. Давай знакомиться!</em></strong></p> <p><em><strong>Мы команда Sirius Future -</strong></em> международная онлайн-школа для детей. В нашей школе обучаются тысячи детей из 39 стран Мира по 7 направлениям.</p> <p>Для обучения используется собственная онлайн-платформа с геймификацией, интерактивами и персонализацией обучения. Мы уверены, что учёба может быть крутой, удобной и приносить удовольствие! Поэтому в нашей школе ученики не знают, что такое «<strong>скучно</strong>», «<strong>заставляют</strong>», «<strong>должен</strong>», «<strong>плохо</strong> <strong>объясняют</strong>».</p> <p>Наша компания быстро растет и это хорошая возможность получить карьерный рост.</p> <p><strong>Что тебе предстоит делать:</strong></p> <p>- верстка, программирование и участие в разработке сайта, личных кабинетов пользователей и сотрудников, собственной-онлайн платформы, CRM, развивающих игр и многое другое.</p> <p><strong>Обязателен коммерческий или учебный опыт и знание:</strong></p> <p>React ru.reactjs.org/</p> <p>Redux/toolkit redux.js.org/</p> <p>Redux Saga redux-saga.js.org/</p> <p>TypeScript typescriptlang.org/</p> <p><strong>Стек технологий:</strong></p> <p>NextJS nextjs.org/</p> <p>React ru.reactjs.org/</p> <p>Redux/toolkit https://redux-toolkit.js.org/</p> <p>Redux Saga redux-saga.js.org/</p> <p>TypeScript typescriptlang.org/</p> <p>Emotion emotion.sh/docs/introduction</p> <p><strong>На каких условиях мы будем взаимодействовать:</strong></p> <ul> <li> <p><strong>Нужно будет выполнить тестовое задание;</strong></p> </li> <li> <p><strong>Сильная команда, которая будет помогать и развивать тебя;</strong></p> </li> <li> <p>Оплата 1 раз месяц (всегда вовремя);</p> </li> <li> <p>Удаленная работа из любой страны;</p> </li> <li> <p>Испытательный срок.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "nextJS"
+    },
+    {
+      "name": "React"
+    },
+    {
+      "name": "emotion"
+    },
+    {
+      "name": "Redux Saga"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4234930",
+    "name": "Sirius Future",
+    "url": "https://api.hh.ru/employers/4234930",
+    "alternate_url": "https://hh.ru/employer/4234930",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/807785.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3672027.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3672028.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4234930",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-21T14:41:14+0300",
+  "created_at": "2025-05-21T14:41:14+0300",
+  "initial_created_at": "2025-05-21T14:41:14+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120822848",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120822848",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

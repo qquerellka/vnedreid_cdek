@@ -1,0 +1,138 @@
+{
+  "id": "120626508",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "React Native разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Казань",
+    "street": "улица Зинина",
+    "building": "3А",
+    "lat": 55.791086,
+    "lng": 49.157438,
+    "description": null,
+    "raw": "Казань, улица Зинина, 3А",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Команда MINT</strong> создаёт передовой сервис видеоконференций, который помогает людям легко и комфортно общаться в любом месте и с любого устройства. Наш продукт — это удобное, стабильное и безопасное решение для онлайн-встреч, вебинаров и совместной работы. Мы активно развиваем мобильное приложение, делая его ещё быстрее, удобнее и функциональнее.<br /><br /><strong>Сейчас мы ищем талантливого разработчика (г. Казань и её окрестности), который поможет нам вывести мобильный клиент на новый уровень.</strong> Если тебе интересно создавать технологичный и востребованный продукт, работать с современной архитектурой и улучшать пользовательский опыт, то мы будем рады видеть тебя в нашей команде!</p> <p><strong>Задачи, которые предстоит решать:</strong></p> <ul> <li>разработка и поддержка мобильных приложений на React Native (иногда возможны задачи в веб версии проекта);</li> <li>оптимизация производительности приложений для iOS и Android;</li> <li>работа с REST API, WebRTC и другими технологиями для видеозвонков;</li> <li>сборка мобильных приложений для платформ iOS и Android;</li> <li>публикация приложений в App Store и Google Play (включая подготовку необходимых материалов, настройку конфигураций и соблюдение требований платформ).</li> </ul> <strong>Наши ожидания от кандидата:</strong> <ul> <li><strong>опыт разработки мобильных приложений на React Native </strong>от 1 года;</li> <li>отличное знание JavaScript (ES6+), TypeScript;</li> <li>опыт работы с Redux, MobX или другими state-менеджерами;</li> <li>знание основных библиотек и инструментов для работы с React Native;</li> <li>понимание работы с React Navigation, AsyncStorage, Push-уведомлениями;</li> <li>навыки работы с REST API, WebSocket;</li> <li>опыт публикации приложений в App Store и Google Play будет плюсом;</li> <li>будет преимуществом: знание WebRTC;</li> <li>знание Redux (RTK, RTK Query) + одного из state management решений (MobX, MST, другие);</li> <li>базовые знания нативных платформ (iOS/Android) будут плюсом;</li> <li>умение взаимодействовать в команде;</li> <li>готовность предлагать идеи;</li> <li>желание расти профессионально.</li> </ul> <strong>Мы предлагаем:</strong> <ul> <li>работу в аккредитованной ИТ-компании;</li> <li>профессиональное развитие в перспективном амбициозном проекте (разработка российской системы видеоконференцсвязи, аналога Zoom, Teams);</li> <li>работу в офисе и удаленно — гибридный формат работы;</li> <li>гибкий график;</li> <li>социальную поддержку;</li> <li>корпоративные мероприятия;</li> <li>возможность участия в спортивных командах (волейбол, бег, настольный теннис);</li> <li>возможности обучения и профессионального роста (курсы, тренинги по согласованию).<br /><br /><strong>Уважаемые кандидаты, мы ищем разработчика строго с опытом React Native, с опытом только React кандидатов не рассматриваем.</strong></li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "React Native"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "TypeScript"
+    },
+    {
+      "name": "React"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "52515",
+    "name": "Центр",
+    "url": "https://api.hh.ru/employers/52515",
+    "alternate_url": "https://hh.ru/employer/52515",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1171511.jpeg",
+      "90": "https://img.hhcdn.ru/employer-logo/6306474.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6306475.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=52515",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-16T11:48:14+0300",
+  "created_at": "2025-05-16T11:48:14+0300",
+  "initial_created_at": "2025-05-16T11:48:14+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120626508",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120626508",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

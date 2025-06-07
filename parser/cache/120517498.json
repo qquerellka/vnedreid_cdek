@@ -1,0 +1,161 @@
+{
+  "id": "120517498",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Стажер-разработчик PHP",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 30000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 30000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "Советский район, микрорайон Академгородок, Инженерная улица",
+    "building": null,
+    "lat": 54.856725,
+    "lng": 83.110423,
+    "description": null,
+    "raw": "Новосибирск, Советский район, микрорайон Академгородок, Инженерная улица",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<div> <p>Стажировка рассчитана на 2 месяца, в общей сложности займет 280 часов, в течение которых Вы будете погружаться в PHP через освоение теоретического материала и решение практических задач, а также познакомитесь с фреймворком cakephp и основными возможностями Битрикс24 и Bitrix Framework.</p> <p>По мере обучения, в ходе стажировки, а также после ее удачного прохождения, у Вас будет возможность присоединиться к команде для выполнения задач на реальных проектах.</p> <p><strong>Мы ожидаем, что вы:</strong></p> <ul> <li> <p>Имеете базовые знания и понимание принципов ООП, а также базовые знания PHP7+, Mysql, HTML, CSS, JavaScript;</p> </li> <li> <p>Целеустремленны, стрессоустойчивы и коммуникабельны;</p> </li> </ul> <p><strong>Вашим преимуществом будет:</strong></p> <ul> <li> <p>Опыт работы с ОС семейства linux,</p> </li> <li> <p>Базовое представление о git,</p> </li> <li> <p>Умение работать в команде,</p> </li> <li> <p>Знание английского на уровне чтения технической документации.</p> </li> </ul> <p><strong>Мы предлагаем вам:</strong></p> <ul> <li> <p>оплачиваемую стажировка для студентов IT-специальностей и специалистов уровня Junior: 140 часов в месяц обучающих задач и практического применения полученных знаний;</p> </li> <li> <p>профессиональное развитие и рост в аккредитованной IT-компании;</p> </li> <li> <p>корпоративная библиотека;</p> </li> <li> <p>семинары внутри компании, на которых мы обсуждаем вопросы сложных технических решений, а также делимся своими навыками и опытом работы на разных проектах;</p> </li> <li> <p>регулярный пересмотр заработной платы. Начальный уровень определяется по результатам собеседования;</p> </li> <li> <p>дружный коллектив, благоприятная рабочая атмосфера, настольные игры и корпоративы на свежем воздухе;</p> </li> <li> <p>лояльные и неравнодушные руководители;</p> </li> <li> <p>официальное трудоустройство с первого дня стажировки, гибкое начало дня, своевременная “белая” зарплата;</p> </li> <li> <p>возможность выбора удобного места работы (офис в Академгородке г.Новосибирска или г.Бердске). После удачного прохождения стажировки возможен гибридный формат работы (офис/удаленно).</p> </li> </ul> <p><strong>Будем рады познакомиться с каждым из вас! </strong><br /><br /></p> <p><strong>В сопроводительном письме напишите ответы на следующие вопросы:<br />1. Где вы проживаете (Новосибирск/Бердск)<br />2. Какими навыками разработки Вы обладаете?<br />3. Обучаетесь или работаете в настоящее время?</strong></p> </div>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "HTML"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9988511",
+    "name": "23 программиста",
+    "url": "https://api.hh.ru/employers/9988511",
+    "alternate_url": "https://hh.ru/employer/9988511",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1394172.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7196471.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7196472.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9988511",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-14T10:27:39+0300",
+  "created_at": "2025-05-14T10:27:39+0300",
+  "initial_created_at": "2025-05-14T10:27:39+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120517498",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120517498",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_7",
+      "name": "7 часов"
+    },
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

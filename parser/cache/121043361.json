@@ -1,0 +1,187 @@
+{
+  "id": "121043361",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Frontend-разработчик Middle",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 150000,
+    "to": 250000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 150000,
+    "to": 250000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Требования:<br /><br /></p><ul><li>Опыт коммерческой разработки на React от 3 лет</li><li>Опыт коммерческой разработки на React Native от 2 лет</li><li>Уверенное владение Next.js, React, Redux/Redux Toolkit</li><li>Опыт написания тестов с использованием Jest</li><li>Глубокое знание HTML5, CSS3, SCSS и методологии БЭМ</li><li>Понимание принципов адаптивной и кроссбраузерной верстки</li><li>Опыт работы с REST API и асинхронными запросами</li><li>Умение оптимизировать производительность фронтенд-приложений</li><li>Понимание принципов строгой типизации в TypeScript</li><li>Опыт работы с системами контроля версий (Git)</li><li>Умение работать в команде и следовать код-стайлу проекта</li><li>Опыт работы с WebSocket для реализации real-time функциональности</li></ul><br /><p>Обязанности:</p><p><br /></p><ul><li>Разработка новых и совершенствование существующих пользовательских интерфейсов финансовых сервисов</li></ul><ul><li>Создание переиспользуемых React-компонентов для корпоративной UI-библиотеки</li><li>Интеграция платежных систем и финансовых API на клиентской стороне</li><li>Оптимизация процессов загрузки и обработки данных в реальном времени</li><li>Внедрение механизмов защиты пользовательских данных на фронтенде</li><li>Реализация сложных интерактивных элементов (графики, таблицы, калькуляторы)</li></ul><ul><li>Обеспечение стабильной работы приложения в высоконагруженной среде<br /><br /></li></ul><p>Будет плюсом:</p><p><br /></p><ul><li>Опыт разработки мобильных приложений с использованием React Native</li></ul><ul><li>Знание GraphQL для оптимизации API-запросов</li><li>Опыт работы со Storybook для документирования компонентов</li><li>Знакомство с Server Components в Next.js</li></ul><ul><li>Опыт использования React Query/SWR для эффективного управления серверным состоянием<br /><br /></li></ul><p>Условия работы:<br /><br /></p><ul><li>Официальное трудоустройство по ТК РФ</li></ul><ul><li>Белая заработная плата</li><li>Полный рабочий день с 9:00 до 18:00 по московскому времени</li><li>Полностью удаленный формат работы</li><li>Перспективы карьерного и профессионального роста в динамично развивающейся компании</li></ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "React"
+    },
+    {
+      "name": "React Native"
+    },
+    {
+      "name": "Next.js"
+    },
+    {
+      "name": "Redux"
+    },
+    {
+      "name": "Redux Toolkit"
+    },
+    {
+      "name": "Jest"
+    },
+    {
+      "name": "HTML5"
+    },
+    {
+      "name": "CSS3"
+    },
+    {
+      "name": "SCSS"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "TypeScript"
+    },
+    {
+      "name": "WebSocket"
+    },
+    {
+      "name": "GraphQL"
+    },
+    {
+      "name": "Storybook"
+    },
+    {
+      "name": "Server Components"
+    },
+    {
+      "name": "React Query"
+    },
+    {
+      "name": "SWR"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10246537",
+    "name": "Кибертех",
+    "url": "https://api.hh.ru/employers/10246537",
+    "alternate_url": "https://hh.ru/employer/10246537",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1230500.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6542441.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6542442.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10246537",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-27T16:41:54+0300",
+  "created_at": "2025-05-27T16:41:54+0300",
+  "initial_created_at": "2025-05-27T16:41:54+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121043361",
+  "has_test": true,
+  "test": {
+    "required": true
+  },
+  "alternate_url": "https://hh.ru/vacancy/121043361",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

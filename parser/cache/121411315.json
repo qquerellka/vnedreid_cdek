@@ -1,0 +1,178 @@
+{
+  "id": "121411315",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Специалист технической поддержки (2-я линия)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 77000,
+    "to": 85000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 77000,
+    "to": 85000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "переулок Гривцова",
+    "building": "5",
+    "lat": 59.929921,
+    "lng": 30.313506,
+    "description": null,
+    "raw": "Санкт-Петербург, переулок Гривцова, 5",
+    "metro": {
+      "station_name": "Садовая",
+      "line_name": "Фрунзенско-Приморская",
+      "station_id": "18.250",
+      "line_id": "18",
+      "lat": 59.926739,
+      "lng": 30.317753
+    },
+    "metro_stations": [
+      {
+        "station_name": "Садовая",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.250",
+        "line_id": "18",
+        "lat": 59.926739,
+        "lng": 30.317753
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Российский аукционный дом (РАД) - ведущий федеральный оператор онлайн-торгов в сегменте продаж и закупок.</p> <p>15 лет наша команда создает и развивает универсальные it - продукты - электронные платформы, помогая участникам рынка совершать выгодные сделки.</p> <p>Ежедневно мы проводим тысячи торгов в интересах государства, государственных компаний и корпораций, банков, крупного частного бизнеса, малого и среднего предпринимательства. РАД имеет сеть филиалов и представительств в 14 крупнейших городах России.</p> <p>Присоединяйтесь к нам, если вы заинтересованы работать в надежной, аккредитованной IT - компании и развиваться в профессиональной среде единомышленников.</p> <p><strong>Мы предлагаем:</strong></p> <ul> <li>график работы: 5/2, <strong>работа в офисе</strong></li> <li>оклад + ежемесячная премия по результатам работы</li> <li>2 премии в год, премия к отпуску</li> <li>надбавка к заработной плате за стаж работы</li> <li>материальная поддержка в разных жизненных ситуациях</li> <li>ДМС</li> <li>обучение, наставничество</li> <li>карьерный рост и профессиональное развитие</li> <li>дружная, поддерживающая команда</li> <li>тренинги, корпоративные мероприятия</li> <li>кафе, кофепоинты</li> <li>спортивный зал с видом на Исаакиевский собор</li> <li>комфортный офис в центре Санкт-Петербурга (5 мин. от метро Садовая/Сенная)</li> </ul> <p><strong>Чем вы будете заниматься:</strong></p> <ul> <li>оказание информационно-технической поддержки пользователям по вопросам функционирования электронной торговой площадки</li> <li>выявление и анализ проблем пути пользователя</li> <li>взаимодействие со смежными подразделениями, в т.ч. с командой разработки для устранения выявленных багов в системе</li> </ul> <p><strong>Наши ожидания:</strong></p> <ul> <li>опыт работы на аналогичной позиции от 1 года</li> <li>уверенный пользователь офисных продуктов, браузеров</li> <li>навыки бесконфликтного общения</li> <li>грамотная устная и письменная речь</li> <li>способность работать в многозадачном режиме</li> <li>умеете ясно и структурно излагать свои мысли</li> <li>способность принимать самостоятельные решения</li> </ul> <ul> </ul> <ul> </ul> <p>Вместе с нами Вы легко можете построить карьеру в it-сфере или в других направлениях компании.</p> <p>Мы обязательно рассмотрим Ваше резюме и свяжемся с Вами в случае решения о проведении собеседования.</p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Работа в команде"
+    },
+    {
+      "name": "Внимательность"
+    },
+    {
+      "name": "Умение работать в режиме многозадачности"
+    },
+    {
+      "name": "Стрессоустойчивость"
+    },
+    {
+      "name": "Грамотная устная и письменная речь"
+    },
+    {
+      "name": "Бесконфликтность"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "900282",
+    "name": "Российский аукционный дом",
+    "url": "https://api.hh.ru/employers/900282",
+    "alternate_url": "https://hh.ru/employer/900282",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1392496.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7189767.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7189768.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=900282",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T10:41:30+0300",
+  "created_at": "2025-06-06T10:41:30+0300",
+  "initial_created_at": "2025-06-06T10:41:30+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121411315",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121411315",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,162 @@
+{
+  "id": "120626327",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер по тестированию программного обеспечения",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 80000,
+    "to": 130000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 80000,
+    "to": 130000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Кантемировская улица",
+    "building": "8",
+    "lat": 59.982032,
+    "lng": 30.328292,
+    "description": null,
+    "raw": "Санкт-Петербург, Кантемировская улица, 8",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <p><strong>Уважаемые соискатели, работа на территории предприятия. Дистанционный формат и гибкий график - не предусмотрены.</strong></p> <p>1. Разработка тест кейсов.</p> <p>2. Функциональное и регрессивное тестирование.</p> <strong>Требования:</strong> <ul> <li>Высшее техническое образование, опыт работы - от 1 года;</li> <li>Опыт тестирования программного обеспечения;</li> <li>Знание основ клиент-серверных технологий, основ работы с СУБД;</li> <li>Навыки работы с документацией на программное обеспечение (спецификации, технические задания и т.д.);</li> <li>Способность корректно и точно описывать выявленные в процессе тестирования дефекты;</li> <li>Писать тест кейсы;</li> <li>Тестировать сервис на основе написанных тест кейсов;</li> <li>Проводить функциональное и регрессивное тестирование.</li> </ul> <p><strong>Условия:</strong></p> <p>Мы предлагаем:<br />1. Работу в надежной и стабильной компании с численностью более 700 человек;<br />2. Трудоустройство согласно ТК РФ, дополнительные отпуска;<br />3. График работы: 5/2 с 9:00 до 18:00 (пятница - до 17:00);<br />4. Заботу о здоровье: полный социальный пакет.<br />5. Частичную компенсацию отдыха сотрудникам и их детям, программу «Отдых с «Ростехом»;<br />6. Дополнительные выплаты в соответствии с коллективным договором;<br />7. Развитие с программами обучения Академии «Ростех», обучение в ВУЗах по целевому направлению;<br />8. Негосударственное пенсионное обеспечение НПФ «Ростех»;<br />10. Корпоративные программы от Новикомбанка;<br />11. Завтраки и обеды в коммерческой столовой на территории предприятия.</p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Тестирование десктопных приложений"
+    },
+    {
+      "name": "Тестирование по тест-кейсам"
+    },
+    {
+      "name": "Тестирование API"
+    },
+    {
+      "name": "Системное тестирование"
+    },
+    {
+      "name": "Docker"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5692452",
+    "name": "Информационные Телекоммуникационные Технологии",
+    "url": "https://api.hh.ru/employers/5692452",
+    "alternate_url": "https://hh.ru/employer/5692452",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/956797.png",
+      "90": "https://img.hhcdn.ru/employer-logo/4267716.png",
+      "240": "https://img.hhcdn.ru/employer-logo/4267717.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5692452",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-16T11:46:26+0300",
+  "created_at": "2025-05-16T11:46:26+0300",
+  "initial_created_at": "2025-05-16T11:46:26+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120626327",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120626327",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

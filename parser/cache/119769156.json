@@ -1,0 +1,163 @@
+{
+  "id": "119769156",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Python Backend-разработчик (Middle/Senior)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "72",
+    "name": "Пермь",
+    "url": "https://api.hh.ru/areas/72"
+  },
+  "salary": {
+    "from": 150000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 150000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Пермь",
+    "street": "Стахановская улица",
+    "building": "54Ж",
+    "lat": 57.988263,
+    "lng": 56.205467,
+    "description": null,
+    "raw": "Пермь, Стахановская улица, 54Ж",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Привет, будущий коллега!<br />Мы - <strong>РИГИНТЕЛ,</strong><br />Аккредитованная IT-компания, являемся резидентами «Сколково» и входим в группу компаний «НЕФТЬСЕРВИСХОЛДИНГ»<br /><strong>Основной вид деятельности</strong> – разработка программных решений, автоматизация и модернизация систем управления электроприводов в области бурения.<br />Один из продуктов : <strong>Цифровой двойник</strong> - веб-приложение по сбору и аналитике данных, планированию и мониторингу процессов бурения скважин.<br />На данный момент мы расширяем команду и ищем <strong>Python-разработчика</strong>, для работы над интересными задачами.</p> <p><br /><strong><em>Что нужно делать</em>:</strong></p> <ul> <li>Развивать backend модулей платформы;</li> <li>Разрабатывать новый функционал, поддерживать и дорабатывать существующий;</li> <li>Проводить оценку времени и трудоемкости реализации требований;</li> <li>Организация сборки клиентского приложения;</li> <li>Участвовать в Code review.</li> </ul> <p><em><strong>Мы ждем от тебя:</strong></em></p> <ul> <li> <p>Опыт работы с asyncio и хотя бы с одним фреймворком (aiohttp/fastapi/etc);</p> </li> <li> <p>Коммерческий опыт работы на Python 3.х в продуктовых командах от 2-х лет;</p> </li> <li>Знание Python 3.10 и выше;</li> <li>знание Git;</li> <li>понимание CI/CD;</li> <li>понимание принципов чистого кода, ООП, SOLID;</li> <li>знание паттернов проектирования;</li> <li>понимание асинхронного программирования;</li> <li>умение писать тесты (pytest);</li> <li>знание SQL и умение работать с реляционными СУБД (PostgreSQL);</li> <li>умение работать с нереляционными базами данных (Redis, MongoDB);</li> <li>умение работать с контейнеризацией (Docker);</li> <li>умение работать с unix-подобной оболочкой терминала;</li> <li>знания в области system design.</li> </ul> <p><strong><em>Здорово если у тебя есть:</em></strong></p> <ul> <li> <p>Навык реализации библиотек;</p> </li> <li> <p>опыт разработки высоконагруженных приложений;</p> </li> <li> <p>понимание принципов чистой архитектуры и DDD;</p> </li> <li> <p>навыки в области DevOps.</p> </li> </ul> <p><em><strong>Условия:</strong></em></p> <ul> <li>Оформление согласно ТК РФ;</li> <li>График работы- на выбор – офис/гибрид/удаленка, понедельник- четверг с 8:30 до 17:30, пятница- с 08:30 до 16:30 (гибкий график), выходные дни: суббота, воскресенье. Возможна удаленка;</li> <li>Новый просторный современный офис, удобная транспортная развязка, бесплатная парковка;</li> <li>Отсутствие дресс-кода;</li> <li>Возможность посещения профильных конференций за счет компании после испытательного срока;</li> <li>Возможность обучения английскому языку за счет компании или частичная компенсация спорта.</li> </ul>",
+  "branded_description": "\n<style>/*19.03.2025-hh-team-007*/\n.hht-vacancydescription {\n  padding: 0;\n}\n\n.tmpl_hh_wrapper {\n  position: relative;\n  z-index: 1;\n  overflow: hidden;\n  width: 100%;\n  max-width: 690px;\n  margin: 0 auto;\n  font-weight: 400;\n  font-size: 16px;\n  font-family: Arial, sans-serif;\n  line-height: 22px;\n  letter-spacing: 0.01em;\n  word-break: normal;\n}\n\n@media (max-width: 1019px) {\n  .tmpl_hh_wrapper {\n    max-width: 610px;\n  }\n}\n\n.tmpl_hh_wrapper p, .tmpl_hh_wrapper h1, .tmpl_hh_wrapper h2, .tmpl_hh_wrapper h3, .tmpl_hh_wrapper h4, .tmpl_hh_wrapper h5, .tmpl_hh_wrapper h6, .tmpl_hh_wrapper a, .tmpl_hh_wrapper img, .tmpl_hh_wrapper ol, .tmpl_hh_wrapper ul, .tmpl_hh_wrapper li {\n  vertical-align: baseline;\n  margin: 0;\n  padding: 0;\n  border: 0;\n  font-weight: inherit;\n  font-size: inherit;\n}\n\n.tmpl_hh_wrapper ul {\n  list-style: none;\n}\n\n.tmpl_hh_wrapper a {\n  text-decoration: none;\n}\n\n.tmpl_hh_wrapper a:hover {\n  color: inherit;\n}\n\n.tmpl_hh_wrapper img {\n  display: block;\n}\n\n.tmpl_hh_wrapper button {\n  display: block;\n  padding: 0;\n  border: none;\n  background-color: transparent;\n  outline: none;\n  cursor: pointer;\n}\n\n.tmpl_hh_wrapper button svg {\n  cursor: pointer;\n}\n\n.tmpl_hh_wrapper .l-cell, .tmpl_hh_wrapper .l-paddings {\n  padding: 0 !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n  margin-top: 0 !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n  overflow: visible !important;\n  line-height: inherit;\n}\n\n.tmpl_hh_content ol li b, .tmpl_hh_content ol li strong, .tmpl_hh_content ol li p b, .tmpl_hh_content ol li p strong, .tmpl_hh_content ul li b, .tmpl_hh_content ul li strong, .tmpl_hh_content ul li p b, .tmpl_hh_content ul li p strong {\n  margin: 0 !important;\n  color: inherit !important;\n  font-size: inherit !important;\n  line-height: inherit;\n  text-transform: none;\n}\n\n.tmpl_hh_content ol li p, .tmpl_hh_content ul li p {\n  margin: 0;\n  font-weight: normal;\n}\n\n.tmpl_hh_content p {\n  margin-bottom: 16px;\n}\n\n.tmpl_hh_content p b, .tmpl_hh_content p strong {\n  display: inline;\n  margin: 0;\n}\n\n.tmpl_hh_content ol, .tmpl_hh_content ul {\n  margin-bottom: 32px;\n  margin-left: 18px;\n  list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n  counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n  position: relative;\n  margin-bottom: 8px;\n  font-size: 16px;\n}\n\n.tmpl_hh_content li:last-child {\n  margin-bottom: 0;\n}\n\n.tmpl_hh_content ul ul, .tmpl_hh_content ul ol, .tmpl_hh_content ol ol, .tmpl_hh_content ol ul {\n  margin-top: 14px;\n}\n\n.tmpl_hh_content ol > li {\n  counter-increment: list_counter;\n}\n\n.tmpl_hh_content ul > li::before {\n  content: \"\";\n  position: absolute;\n  top: 9px;\n  left: -18px;\n  width: 5px;\n  height: 5px;\n  border-radius: 100%;\n  background-color: #000;\n}\n\n.tmpl_hh_content ol > li::before {\n  content: counter(list_counter) \".\";\n  right: 100%;\n  left: auto;\n  margin-right: 2px;\n}\n\n.tmpl_hh_content :last-child {\n  margin-bottom: 0;\n}\n\n/* stylelint-disable block-no-empty */\n\n/* stylelint-enable block-no-empty */\n\n.tmpl_hh_wrapper {\n  box-sizing: border-box;\n  border-radius: 4px;\n  color: #000;\n  box-shadow: 0 2px 12px 0 rgba(48, 50, 51, 0.1);\n  font-size: 18px;\n  line-height: 120%;\n}\n\n.tmpl_hh_wrapper h3.tmpl_hh_title {\n  color: #0055a1;\n  font-weight: 700;\n  font-size: 18px;\n  line-height: 130%;\n}\n\n.tmpl_hh_wrapper h3.tmpl_hh_title--white {\n  color: #fff;\n}\n\n.tmpl_hh_wrapper p.tmpl_hh_text {\n  color: #fff;\n  font-weight: 700;\n  font-size: 16px;\n  line-height: 120%;\n}\n\n.tmpl_hh_wrapper .tmpl_hh_box {\n  /* @include box-horisontal(px); */\n  padding-right: 20px;\n  padding-left: 20px;\n}\n\n.tmpl_hh_wrapper * {\n  box-sizing: border-box;\n}\n\n.tmpl_hh_wrapper br.tmpl_hh_xxl, .tmpl_hh_wrapper p.tmpl_hh_xxl, .tmpl_hh_wrapper div.tmpl_hh_xxl {\n  display: none;\n}\n\n@media (min-width: 1340px) {\n  .tmpl_hh_wrapper br.tmpl_hh_xxl, .tmpl_hh_wrapper p.tmpl_hh_xxl, .tmpl_hh_wrapper div.tmpl_hh_xxl {\n    display: block !important;\n  }\n}\n\n.tmpl_hh_wrapper br.tmpl_hh_xl, .tmpl_hh_wrapper p.tmpl_hh_xl, .tmpl_hh_wrapper div.tmpl_hh_xl {\n  display: none;\n}\n\n@media (min-width: 1020px) and (max-width: 1339px) {\n  .tmpl_hh_wrapper br.tmpl_hh_xl, .tmpl_hh_wrapper p.tmpl_hh_xl, .tmpl_hh_wrapper div.tmpl_hh_xl {\n    display: block !important;\n  }\n}\n\n.tmpl_hh_wrapper br.tmpl_hh_lg, .tmpl_hh_wrapper p.tmpl_hh_lg, .tmpl_hh_wrapper div.tmpl_hh_lg {\n  display: none;\n}\n\n@media (min-width: 656px) and (max-width: 1019px) {\n  .tmpl_hh_wrapper br.tmpl_hh_lg, .tmpl_hh_wrapper p.tmpl_hh_lg, .tmpl_hh_wrapper div.tmpl_hh_lg {\n    display: block !important;\n  }\n}\n\n.tmpl_hh_wrapper br.tmpl_hh_md, .tmpl_hh_wrapper p.tmpl_hh_md, .tmpl_hh_wrapper div.tmpl_hh_md {\n  display: none;\n}\n\n@media (min-width: 414px) and (max-width: 655px) {\n  .tmpl_hh_wrapper br.tmpl_hh_md, .tmpl_hh_wrapper p.tmpl_hh_md, .tmpl_hh_wrapper div.tmpl_hh_md {\n    display: block !important;\n  }\n}\n\n.tmpl_hh_wrapper br.tmpl_hh_sm, .tmpl_hh_wrapper p.tmpl_hh_sm, .tmpl_hh_wrapper div.tmpl_hh_sm {\n  display: none;\n}\n\n@media (min-width: 0px) and (max-width: 413px) {\n  .tmpl_hh_wrapper br.tmpl_hh_sm, .tmpl_hh_wrapper p.tmpl_hh_sm, .tmpl_hh_wrapper div.tmpl_hh_sm {\n    display: block !important;\n  }\n}\n\n.tmpl_hh_header {\n  display: flex;\n  flex-direction: column;\n  justify-content: space-between;\n  align-items: flex-start;\n  min-height: 430px;\n  padding: 20px 0;\n  background: url(\"https://img.hhcdn.ru/ichameleon/438262.jpg\") center/cover no-repeat;\n}\n\n@media (max-width: 530px) {\n  .tmpl_hh_header {\n    min-height: 355px;\n    background: url(\"https://img.hhcdn.ru/ichameleon/438269.jpg\") center/cover no-repeat;\n  }\n}\n\n@media (max-width: 413px) {\n  .tmpl_hh_header {\n    padding: 15px 0;\n  }\n}\n\n.tmpl_hh_header__logo, .tmpl_hh_header__title {\n  position: relative;\n  overflow: hidden;\n  padding: 20px;\n  border-radius: 10px;\n  background-color: rgba(255, 255, 255, 0.2);\n}\n\n@media (max-width: 413px) {\n  .tmpl_hh_header__logo, .tmpl_hh_header__title {\n    padding: 15px 20px;\n  }\n}\n\n.tmpl_hh_header__logo::before, .tmpl_hh_header__logo::after, .tmpl_hh_header__title::before, .tmpl_hh_header__title::after {\n  content: \"\";\n  position: absolute;\n  top: 0;\n  left: 0;\n  width: 100%;\n  height: 100%;\n  background-color: rgba(255, 255, 255, 0.75);\n  filter: blur(4px);\n}\n\n.tmpl_hh_header__logo::after, .tmpl_hh_header__title::after {\n  filter: blur(3px);\n}\n\n@media (max-width: 413px) {\n  .tmpl_hh_header__logo {\n    width: 100%;\n  }\n}\n\n.tmpl_hh_header__logo img {\n  position: relative;\n  z-index: 10;\n  width: 250px;\n  aspect-ratio: 3.96;\n}\n\n@media (max-width: 413px) {\n  .tmpl_hh_header__logo img {\n    width: 211px;\n    margin: 0 auto;\n  }\n}\n\n.tmpl_hh_header__title {\n  margin-left: auto;\n}\n\n@media (max-width: 530px) {\n  .tmpl_hh_header__title {\n    width: 100%;\n    margin-left: unset;\n  }\n}\n\n.tmpl_hh_header__title h3.tmpl_hh_title {\n  position: relative;\n  z-index: 10;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_header__title h3.tmpl_hh_title {\n    font-size: 16px;\n  }\n}\n\n@media (max-width: 530px) {\n  .tmpl_hh_header__title h3.tmpl_hh_title {\n    text-align: center;\n  }\n}\n\n.tmpl_hh_slogan h3.tmpl_hh_title {\n  padding: 20px;\n  background-color: #0055a1;\n  text-align: center;\n}\n\n.tmpl_hh_slogan img {\n  object-position: left;\n  height: 163px;\n}\n\n.tmpl_hh_content h2 {\n  display: block;\n  margin-bottom: 10px;\n  font-weight: 700;\n  font-style: normal;\n  font-size: 20px;\n  line-height: 120%;\n  color: inherit;\n}\n\n.tmpl_hh_content h2:first-of-type {\n  margin-top: 30px;\n}\n\n.tmpl_hh_content p, .tmpl_hh_content div {\n  font-weight: 400;\n  font-style: normal;\n  font-size: 16px;\n  line-height: 140%;\n}\n\n.tmpl_hh_content ul:not(:last-child) {\n  margin-bottom: 30px;\n}\n\n.tmpl_hh_content ul:last-child {\n  margin-bottom: 0;\n}\n\n.tmpl_hh_content ul li {\n  font-weight: 400;\n  font-style: normal;\n  font-size: 16px;\n  line-height: 140%;\n}\n\n.tmpl_hh_content ul li:not(:last-of-type) {\n  margin-bottom: 4px;\n}\n\n.tmpl_hh_content ul li::before {\n  width: 6px;\n  height: 6px;\n  background: #0055a1;\n  top: 7px;\n}\n\n.tmpl_hh_footer {\n  padding-top: 10px;\n  padding-bottom: 20px;\n}\n\n.tmpl_hh_footer img {\n  width: 100%;\n}\n\n.tmpl_hh_footer p.tmpl_hh_text {\n  padding: 10px 20px;\n  background-color: #0055a1;\n  text-align: center;\n}\n</style>\n<div>\n    <div class=\"tmpl_hh_wrapper\">\n      <header class=\"tmpl_hh_header tmpl_hh_box\">\n        <div class=\"tmpl_hh_header__logo\">\n          <img src=\"https://img.hhcdn.ru/ichameleon/438288.svg\" alt=\"\">\n        </div>\n\n        <div class=\"tmpl_hh_header__title\">\n          <h3 class=\"tmpl_hh_title\">\n            Инновации, честность, открытость\n          </h3>\n        </div>\n        \n      </header>\n\n      <section class=\"tmpl_hh_slogan\">\n        <h3 class=\"tmpl_hh_title tmpl_hh_title--white\">\n          Разработка программных решений, автоматизация и модернизация систем управления электроприводов в области бурения\n        </h3>\n\n        <img src=\"https://img.hhcdn.ru/ichameleon/438300.svg\" alt=\"\">\n      </section>\n\n      <main class=\"tmpl_hh_content tmpl_hh_box\">\n        <p>Привет, будущий коллега!<br>Мы - <strong>РИГИНТЕЛ,</strong><br>Аккредитованная IT-компания, являемся резидентами «Сколково» и входим в группу компаний «НЕФТЬСЕРВИСХОЛДИНГ»<br><strong>Основной вид деятельности</strong> – разработка программных решений, автоматизация и модернизация систем управления электроприводов в области бурения.<br>Один из продуктов : <strong>Цифровой двойник</strong> - веб-приложение по сбору и аналитике данных, планированию и мониторингу процессов бурения скважин.<br>На данный момент мы расширяем команду и ищем <strong>Python-разработчика</strong>, для работы над интересными задачами.</p> <p><br><strong><em>Что нужно делать</em>:</strong></p> <ul> <li>Развивать backend модулей платформы;</li> <li>Разрабатывать новый функционал, поддерживать и дорабатывать существующий;</li> <li>Проводить оценку времени и трудоемкости реализации требований;</li> <li>Организация сборки клиентского приложения;</li> <li>Участвовать в Code review.</li> </ul> <p><em><strong>Мы ждем от тебя:</strong></em></p> <ul> <li> <p>Опыт работы с asyncio и хотя бы с одним фреймворком (aiohttp/fastapi/etc);</p> </li> <li> <p>Коммерческий опыт работы на Python 3.х в продуктовых командах от 2-х лет;</p> </li> <li>Знание Python 3.10 и выше;</li> <li>знание Git;</li> <li>понимание CI/CD;</li> <li>понимание принципов чистого кода, ООП, SOLID;</li> <li>знание паттернов проектирования;</li> <li>понимание асинхронного программирования;</li> <li>умение писать тесты (pytest);</li> <li>знание SQL и умение работать с реляционными СУБД (PostgreSQL);</li> <li>умение работать с нереляционными базами данных (Redis, MongoDB);</li> <li>умение работать с контейнеризацией (Docker);</li> <li>умение работать с unix-подобной оболочкой терминала;</li> <li>знания в области system design.</li> </ul> <p><strong><em>Здорово если у тебя есть:</em></strong></p> <ul> <li> <p>Навык реализации библиотек;</p> </li> <li> <p>опыт разработки высоконагруженных приложений;</p> </li> <li> <p>понимание принципов чистой архитектуры и DDD;</p> </li> <li> <p>навыки в области DevOps.</p> </li> </ul> <p><em><strong>Условия:</strong></em></p> <ul> <li>Оформление согласно ТК РФ;</li> <li>График работы- на выбор – офис/гибрид/удаленка, понедельник- четверг с 8:30 до 17:30, пятница- с 08:30 до 16:30 (гибкий график), выходные дни: суббота, воскресенье. Возможна удаленка;</li> <li>Новый просторный современный офис, удобная транспортная развязка, бесплатная парковка;</li> <li>Отсутствие дресс-кода;</li> <li>Возможность посещения профильных конференций за счет компании после испытательного срока;</li> <li>Возможность обучения английскому языку за счет компании или частичная компенсация спорта.</li> </ul></main>\n\n      <footer class=\"tmpl_hh_footer\">\n        <picture>\n          <source media=\"(max-width: 530px)\" srcset=\"https://img.hhcdn.ru/ichameleon/438303.svg\"></source>\n          <img src=\"https://img.hhcdn.ru/ichameleon/438302.svg\">\n        </picture>\n\n        <p class=\"tmpl_hh_text\">Делай отклик и стань частью нашей команды!</p>\n      </footer>\n    </div>\n  </div>\n<script>\n//\n\n\nconst main = \"\";\nconst customTitle = () => {\n  const allUl = document.querySelectorAll(\".tmpl_hh_content ul\");\n  allUl.forEach((ul, i) => {\n    const ulTitle = ul.previousElementSibling;\n    if (ulTitle) {\n      ulTitle.classList.add(\"tmpl_hh_content_title\");\n      if (i === 0) {\n        ul.previousElementSibling.classList.add(\"tmpl_hh_content_title--first\");\n      }\n    }\n  });\n};\ndocument.addEventListener(\"DOMContentLoaded\", () => {\n  try {\n    customTitle();\n  } catch (error) {\n    console.log(error);\n  }\n});\n\n\n//\n</script>\n ",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "CI/CD"
+    },
+    {
+      "name": "SOLID"
+    },
+    {
+      "name": "ООП"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Redis"
+    },
+    {
+      "name": "MongoDB"
+    },
+    {
+      "name": "Docker"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4586593",
+    "name": "Ригинтел",
+    "url": "https://api.hh.ru/employers/4586593",
+    "alternate_url": "https://hh.ru/employer/4586593",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1140021.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6180665.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6180666.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4586593",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-20T09:27:53+0300",
+  "created_at": "2025-05-20T09:27:53+0300",
+  "initial_created_at": "2025-04-21T13:28:19+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119769156",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119769156",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

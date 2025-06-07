@@ -1,0 +1,164 @@
+{
+  "id": "121336224",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист по охране труда и безопасности дорожного движения",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 75200,
+    "to": 75200,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 75200,
+    "to": 75200,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Казань",
+    "street": "Беломорская улица",
+    "building": null,
+    "lat": 55.866142,
+    "lng": 49.043721,
+    "description": null,
+    "raw": "Казань, Беломорская улица",
+    "metro": {
+      "station_name": "Авиастроительная ",
+      "line_name": "Центральная",
+      "station_id": "49.462",
+      "line_id": "49",
+      "lat": 55.828897,
+      "lng": 49.081403
+    },
+    "metro_stations": [
+      {
+        "station_name": "Авиастроительная ",
+        "line_name": "Центральная",
+        "station_id": "49.462",
+        "line_id": "49",
+        "lat": 55.828897,
+        "lng": 49.081403
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Высшее образование – «Техносферная безопасность» или Высшее образование (непрофильное) - и дополнительное профессиональное образование - программы профессиональной переподготовки в области охраны труда «Техносферная безопасность».</p> <p>Обязанности:</p> <ul> <li>Организация системы управления охраной труда;</li> <li>Контролировать соблюдение требований охраны труда в подразделении; </li> <li>Проводить профилактическую работу по предупреждению производственного травматизма и профессиональных заболеваний; </li> <li>Информировать работников о состоянии условий и охраны труда на рабочих местах, существующих профессиональных рисках; </li> <li>Контролировать своевременность и полноту обеспечения работников средствами индивидуальной защиты; </li> <li> Выявлять потребность в обучении работников в области охраны труда:</li> </ul> <p> -общие вопросы охраны труда и функционирования системы управления охраной труда;</p> <p> -по использованию и применению средств индивидуальной защиты; по оказанию первой помощи.</p> <ul> <li>Проводить вводный инструктаж по ОТ, ПБ, ЭБ, ГО и ЧС; </li> <li>Участвовать в расследовании несчастных случаев на производстве и профессиональных заболеваний, анализировать причины производственного травматизма.</li> <li>Проведение специальной оценки условий труда; </li> <li>Идентификация опасностей и оценки профессиональных рисков.</li> </ul> <p> </p> <p> Ключевые навыки и знания:</p> <ol> <li>Отличное знание Законодательства об охране труда;</li> <li>Умение оперативно решать поставленные задачи;</li> <li>Уверенный пользователь excel, word.</li> </ol>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Охрана труда и техника безопасности"
+    },
+    {
+      "name": "Вводный инструктаж по охране труда и технике безопасности"
+    },
+    {
+      "name": "Взаимодействие с органами государственного контроля"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "116",
+      "name": "Специалист по информационной безопасности"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2051161",
+    "name": "НОП Сибирь-ТНХ",
+    "url": "https://api.hh.ru/employers/2051161",
+    "alternate_url": "https://hh.ru/employer/2051161",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2051161",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T13:12:57+0300",
+  "created_at": "2025-06-04T13:12:57+0300",
+  "initial_created_at": "2025-06-04T13:12:57+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121336224",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121336224",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

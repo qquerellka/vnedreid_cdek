@@ -1,0 +1,115 @@
+{
+  "id": "121048207",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Технический специалист Геткурс",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<ol> <li> <p>Настройка и администрирование платформы GetCourse:</p> </li> </ol> <p>— Создание автовебинарных воронок </p> <p>— Интеграция с сервисами при необходимости (SaleBot, Bothelp, SMSC.ru и другими);</p> <p>— Автоматизация выдачи доступов ученикам</p> <p>2. Организация и проведение онлайн-эфиров:</p> <p>— Настройка трансляций через OBS </p> <p>— Техническая поддержка во время вебинаров (решение проблем в реальном времени).</p> <p>3. Управление коммуникацией:</p> <p>— Настройка чат-ботов и автоматических рассылок </p> <p>4. Работа с контентом:</p> <p>— Верстка лендингов на GetCourse (HTML/CSS) - речь не буквально о дизайне, но понимание очерёдности блоков и умение вставлять HTML или создать блок HTML с чатом GPT</p> <p>5. Аналитика и отчетность:</p> <p>— Настройка UTM-меток и дашбордов;</p> <p>— Анализ данных по неоплаченным заказам</p> <p>6. Автоматизация школы, работа с процессами, сегментами</p> <p>7. Понимание приоритетности задач. Обратная связь по ходу выполнения задачи через планировщик.</p> <p>Включённость в проект на 100%: при поступлении нестандартной задачи надо понимать что, как и зачем, т.е. заранее продумать как выполнить оптимально и реально ли реализовать задачу, чтобы сделать работу эффективной, а не выполнять задачу мгновенно и в процессе понять, что что-то не получается, вообще не получится и возникает каскад ошибок.</p> <p>В работе используем YouGile</p> <p>Ежедневных планёрок нет.</p> <p>Созвоны по необходимости, если задача того требует.</p> <p>Классических выходных с полной тишиной, отпусков и тихих вечеров, особенно если эфиры выпадают на выходные и вечера не обещаем, но всегда можно обсудить расписание, варианты дежурств и сроки выполнения задач и найти оптимальный график для работы и отдыха.</p> <p>Зп от 50 000р. и дальше зависит от ваших профессиональных навыков.<br />Обсудим на собеседовании.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "11192078",
+    "name": "Школа метаболического здоровья",
+    "url": "https://api.hh.ru/employers/11192078",
+    "alternate_url": "https://hh.ru/employer/11192078",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1294360.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6797734.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6797735.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11192078",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T19:02:50+0300",
+  "created_at": "2025-06-05T19:02:50+0300",
+  "initial_created_at": "2025-05-27T19:02:50+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121048207",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121048207",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "OTHER",
+      "name": "Другое"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "FLEXIBLE",
+      "name": "По договорённости"
+    }
+  ],
+  "show_logo_in_search": null
+}

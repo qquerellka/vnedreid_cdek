@@ -1,0 +1,165 @@
+{
+  "id": "120940160",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Frontend-разработчик на поддержку и разработку сайта (мидл/сеньор)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 50000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 50000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "MONTHLY",
+      "name": "Раз в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "part",
+    "name": "Частичная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Требование к frontend-разработчик со знанием backend:<br />1. Опыт работы Frontend developer от 6-х лет;<br />2. Уверенные знания современного JavaScript (ES6+);<br />3. Опыт разработки приложений на React;<br />4. Опыт разработки приложений на Next (работа с компонентами, состоянием, оптимизация ререндеров, серверный рендеринг, знание SEO)<br />5. Понимание взаимодействия клиент-серверных приложений;<br />6. Развитые практические навыки в написании собственных и применении сторонних компонентов, используемых при создании веб-приложений;<br />7. Владение GIT;<br />8. Умение разбираться в чужом коде;<br />9. Самостоятельность – способность находить информацию и решать задачи без постоянного контроля;<br />10. Свое оборудование.</p> <p>Будем рады, если есть:<br />1. Умение настраивать webpack;<br />2. Опыт работы с Redux;<br />3. Опыт работы с figma на базовом уровне;</p> <p>Обязанности:<br />1. Реализовывать новые функционалы клиентской части приложений;<br />2. Улучшать и оптимизировать работу клиентской части приложений;<br />3. Участвовать в проектировании серверной архитектуры приложений(по желанию можно писать код под руководством backend-разработчика);<br />4. Дополнять документацию в wiki;<br />5. Обсуждать задачи с заказчиком, взаимодействовать с backend-разработчиком, поддерживать взаимодействие в tg-канале;<br />6. Влиять на продукт и предлагать улучшения;<br />7. Следить за метриками;<br />8. Рефакторинг.</p> <p>Мы используем:<br />1. В приложении основного сайта: TypeScript • React • Next.js • Tailwind;<br />2. В приложении админ-панели: TypeScript • React • React-hook-forms • Material;<br />3. На бэкенде: nestJS • postgreSQL;<br />4. Docker для локальной разработки;<br />5. Монорепозиторий nx;<br />6. Код храним в githab.</p> <p>Условия работы<br />1. Удаленная работа;<br />2. Не нормированный рабочий день, но желательно быть на связи с 9:00 до 18:00 МСК;<br />3. Стабильные выплаты - ежемесячные;<br />4. Быстрый темп и сложные задачи – будет интересно, скучать не придется;<br />5. Свобода в решениях – твои идеи действительно влияют на продукт, а не тонут в бюрократии (от разработчика до руководства 1 шаг).</p> <p>Ожидания от кандидата: нам требуется самостоятельный frontend-разработчик со знанием backend, который будет закрывать задачи, дорабатывая сайт на Next.js + React и улучшать админ-панель сайта. Адекватный, общительный, пунктуальный и умения четко и в срок выполнять свои обязательства.</p> <p>Ждем ваших предложений.</p> <p>TypeScript • React • Next.js • Tailwind • React-hook-forms • Material • Docker</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "TypeScript"
+    },
+    {
+      "name": "React"
+    },
+    {
+      "name": "NextGIS"
+    },
+    {
+      "name": "Node.js"
+    },
+    {
+      "name": "Material Design"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "SEO"
+    },
+    {
+      "name": "Figma"
+    },
+    {
+      "name": "Redux"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "GitHub"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3365585",
+    "name": "Хузиева Гульнара Салимовна",
+    "url": "https://api.hh.ru/employers/3365585",
+    "alternate_url": "https://hh.ru/employer/3365585",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3365585",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-25T18:43:43+0300",
+  "created_at": "2025-05-25T18:43:43+0300",
+  "initial_created_at": "2025-05-25T18:43:43+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120940160",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120940160",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "PART",
+    "name": "Частичная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FLEXIBLE",
+      "name": "Свободный"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "FLEXIBLE",
+      "name": "По договорённости"
+    }
+  ]
+}

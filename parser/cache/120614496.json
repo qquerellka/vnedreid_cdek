@@ -1,0 +1,148 @@
+{
+  "id": "120614496",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "QA-тестировщик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "улица Урицкого",
+    "building": "21",
+    "lat": 55.028156,
+    "lng": 82.91265,
+    "description": null,
+    "raw": "Новосибирск, улица Урицкого, 21",
+    "metro": {
+      "station_name": "Площадь Ленина",
+      "line_name": "Ленинская",
+      "station_id": "52.297",
+      "line_id": "52",
+      "lat": 55.029941,
+      "lng": 82.92069
+    },
+    "metro_stations": [
+      {
+        "station_name": "Площадь Ленина",
+        "line_name": "Ленинская",
+        "station_id": "52.297",
+        "line_id": "52",
+        "lat": 55.029941,
+        "lng": 82.92069
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong><em>&quot;Форвард&quot;</em> - </strong>компания, обладающая<strong> 10-летним опытом работы на финансовом рынке</strong></p> <p><strong>С 2014 года</strong> компания предоставляет полный комплекс услуг по взысканию задолженности физических и юридических лиц. <strong>Основная специализация</strong> - покупка портфелей проблемных кредитов.</p> <p>Сейчас мы в поиске <strong>Тестировщика</strong></p> <p><strong>В твои задачи будут входить:</strong></p> <ul> <li>Анализ логов и сообщений об ошибках;</li> <li>Регулярная проверка данных, введенных пользователями, на соответствие стандартам;</li> <li>Исправление ошибок и неточностей в заполненных формах;</li> <li>Выявление и устранение дубликатов и несоответствий;</li> <li>Подготовка рекомендаций по улучшению процесса ввода данных;</li> <li>Взаимодействие с пользователями для исправления некорректных данных;</li> <li>Составление и обновление инструкций для пользователей;</li> <li>Разработка и внедрение процедур для предотвращения и исправления ошибок;</li> <li>Документирование найденных ошибок и дефектов.</li> </ul> <strong>Мы ждём от будущего сотрудника:</strong> <ul> <li>Образование или опыт в сфере ручного тестирования, в т. ч. курсы;</li> <li>Внимательность к деталям;</li> <li>Способность к аналитическому мышлению;</li> <li>Желателен опыт работы в 1С.</li> </ul> <strong>Условия:</strong> <ul> <li>График работы 5/2;</li> <li>Белая з/п, официальное трудоустройство в соответствии с ТК;</li> <li>Возможность профессионального и карьерного развития внутри компании;</li> <li>Офис в тихом центре Новосибирска, 7 минут от метро Площадь Ленина;</li> <li>Лояльное руководство;</li> <li>Квартальные премии.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Тестирование"
+    },
+    {
+      "name": "Ручное тестирование"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4133853",
+    "name": "Форвард",
+    "url": "https://api.hh.ru/employers/4133853",
+    "alternate_url": "https://hh.ru/employer/4133853",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/658705.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3075968.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3075969.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4133853",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-16T08:53:13+0300",
+  "created_at": "2025-05-16T08:53:13+0300",
+  "initial_created_at": "2025-05-16T08:53:13+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120614496",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120614496",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

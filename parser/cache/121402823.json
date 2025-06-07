@@ -1,0 +1,143 @@
+{
+  "id": "121402823",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист поддержки",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "Фабричная улица",
+    "building": "11",
+    "lat": 55.016265,
+    "lng": 82.920007,
+    "description": null,
+    "raw": "Новосибирск, Фабричная улица, 11",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>R-Style Softlab — российская IT-компания, системный интегратор, разработчик программных, сервисных продуктов для банковской сферы, финансового рынка и АПК, входящая в группу Россельхозбанка.</p> <p>С 1994 года делаем сложные операционные процессы удобными для бизнеса и автоматизируем работу крупных предприятий, выстраиваем ИТ-экосистемы под задачи бизнеса и внедряем лучшие готовые решения в индустрии.</p> <p>Специализируемся на разработке банковского ПО, создаем решения для фронт-офиса, системы хранения и анализа данных, автоматизированные банковские системы, платформы для управления деятельностью на финансовых рынках, инструменты для взаимодействия с государственными информационными системами, а также продукты для цифровой трансформации бизнеса.</p> <p>R-style SoftLab сегодня – более 700 сотрудников в штате и более 120 проектов в портфеле.</p> <p> </p> <p><strong>Мы приглашаем специалиста поддержки</strong></p> <p> </p> <p><strong>О</strong><strong> проекте</strong>: Система автоматизирует работу специалиста бэк-офиса по сопровождению биржевых и внебиржевых операций на финансовых рынках</p> <p> </p> <p><strong>Используемые технологии: </strong>sql, pl/sql, rsl</p> <p> </p> <p><strong>Чем предстоит заниматься: </strong></p> <p> </p> <p>Разработка новой функциональности на sql, pl/sql, rsl</p> <p> </p> <p><strong>Для нас важно:</strong></p> <p> </p> <p>- Высшее профессиональное (техническое, инженерно-экономическое, юридическое или экономическое) образование.</p> <p>- Опыт работы с клиентами</p> <p>- Желателен опыт работы в компаниях, автоматизирующих работу финансовых организаций.</p> <p>- Навыки программирования sql, pl/sql</p> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Трудоустройство в аккредитованную ИТ-компанию;</li> <li>Работу в надёжной и стабильной компании, 30 лет на рынке;</li> <li>ИТ-отсрочку от мобилизации и срочной службы в армии;</li> <li>Удобный и комфортный график работы – плавающее начало рабочего дня;</li> <li>Комфортный формат работы – гибридный график в городах нашего присутствия (Москва, Вологда, Череповец, Брянск, Новосибирск) или полностью удаленная работа.</li> </ul> <p><strong>Бонусы:</strong></p> <ul> <li>Программы ДМС со стоматологией;</li> <li>ИТ-ипотека;</li> <li>Корпоративные скидки и предложения от партнеров (BestBenefits, X-fit, SkyEng, SkillBox)</li> <li>Возможность обучения в Корпоративном университете Россельхозбанка;</li> <li>Активная корпоративная жизнь и участие в интеллектуальных играх «Что? Где? Когда?».</li> </ul> <ul> <li> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Деловое общение"
+    },
+    {
+      "name": "Техническая поддержка"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2419",
+    "name": "R-Style Softlab (Эр-Стайл Софтлаб)",
+    "url": "https://api.hh.ru/employers/2419",
+    "alternate_url": "https://hh.ru/employer/2419",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1122488.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6110541.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6110542.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2419",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T07:20:55+0300",
+  "created_at": "2025-06-06T07:20:55+0300",
+  "initial_created_at": "2025-06-06T07:20:55+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121402823",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121402823",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

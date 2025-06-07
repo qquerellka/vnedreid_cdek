@@ -1,0 +1,139 @@
+{
+  "id": "120500295",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "улица Кирова",
+    "building": "86",
+    "lat": 55.013998,
+    "lng": 82.949634,
+    "description": null,
+    "raw": "Новосибирск, улица Кирова, 86",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Приглашаем<strong> системного аналитика </strong>в команду <strong>Koronatech.</strong></p> <p>Мы развиваем онлайн-сервис денежных переводов и займов. Благодаря нашему приложению миллионы пользователей в десятках стран быстро, удобно и безопасно решают свои регулярные финансовые задачи, не выходя из дома.</p> <p><strong>Задачи:</strong></p> <ul> <li>сбор и анализ требований, взаимодействие с бизнес-заказчиком;</li> <li>проработка и детализация требований, постановка задач по разработке новой или доработке существующей функциональности продукта;</li> <li>формирование требований для нескольких компонентов/платформ, в том числе UseCase, sequence-диаграммы;</li> <li>участие в проектировании технического решения, архитектуры и схем взаимодействий;</li> <li>согласование интеграции с другими системами;</li> <li>координация процесса разработки, тестирования, приемки и введения в эксплуатацию;</li> <li>ведение документации по продукту.</li> </ul> <p><strong>Что для нас важно:</strong></p> <ul> <li>опыт участия в разработке мобильных приложений в качестве системного аналитика/разработчика/тестировщика;</li> <li>опыт написания ТЗ, UseCase, UserStory;</li> <li>знание UML-нотаций и средств моделирования бизнес-процессов;</li> <li>понимание принципов микросервисной архитектуры, REST и HTTP методов;</li> <li>знание гибких методологий.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>понятную траекторию роста (performance review, карьерные консультации, индивидуальная карта развития и т.д.);</li> <li>обучение и развитие за счёт ресурсов компании (Учебный центр, корпоративная библиотека, оплата внешнего обучения);</li> <li>социальный пакет (ДМС с первого рабочего дня, скидки от партнёров, детская программа и т.д.);</li> <li>насыщенную корпоративную жизнь (радио, подкасты, кибертурнир, собственные мероприятия и участие в крупных событиях отрасли);</li> <li>возможность быть наставником, автором корпоративного блога, спикером – каждый выбирает то, что подходит именно ему;</li> <li>официальное трудоустройство с первого дня, полностью белую зарплату;</li> <li>удобный формат работы (удаленно по РФ или в офисе/гибридном формате).</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "UML"
+    },
+    {
+      "name": "REST"
+    },
+    {
+      "name": "HTTP"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "148",
+      "name": "Системный аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11810694",
+    "name": "Koronatech",
+    "url": "https://api.hh.ru/employers/11810694",
+    "alternate_url": "https://hh.ru/employer/11810694",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1394139.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7196339.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7196340.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11810694",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-14T06:34:19+0300",
+  "created_at": "2025-05-14T06:34:19+0300",
+  "initial_created_at": "2025-05-14T06:34:19+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120500295",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120500295",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

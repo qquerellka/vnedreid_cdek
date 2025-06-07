@@ -1,0 +1,122 @@
+{
+  "id": "120451077",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Старший разработчик 1С",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Хотите сосредоточиться на одном интересном проекте и стать экспертом в 1С:ЗУП? Тогда эта вакансия для вас. Забудьте о работе &quot;на потоке&quot;! Вы будете работать с одним, крупным и интересным клиентом, углубляясь в особенности его бизнес-процессов и помогая оптимизировать работу с конфигурацией 1С:ЗУП.</p> <p><strong>Вам предстоит:</strong></p> <ul> <li>Разработка и доработка функционала 1С:ЗУП 8 в рамках проектов внедрения и сопровождения только для одного клиента!</li> <li>Участие в проектных командах и взаимодействие с другими специалистами.</li> <li>Самостоятельное решение задач и ответственность за результат.</li> </ul> <p><strong>Мы ищем:</strong></p> <ul> <li>Специалиста, который горит 1С:ЗУП и хочет развиваться в этой области.</li> <li>Обязательное требование: наличие сертификата 1С:Специалист по 1С:ЗУП или готовность получить его в ближайшее время за счет компании!</li> <li>Опыт работы программистом 1С от 1 года.</li> <li>Умение уверенно кодить и любить это дело!</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Официальное трудоустройство в аккредитованной IT компании.</li> <li>Конкурентную заработную плату (обсуждается индивидуально по результатам собеседования).</li> <li>Возможность профессионального роста и развития (обучение, сертификация).</li> <li>Интересные и разнообразные проекты (в рамках работы с одним клиентом, но с разными задачами!).</li> <li>Гибкий формат работы: гибрид или удаленно.</li> <li>Работу в слаженной команде профессионалов!</li> <li>Комфортный офис в центре Екатеринбурга.</li> </ul> <p>Если вы цените стабильность, хотите сосредоточиться на глубоком изучении 1С:ЗУП и работать в комфортной обстановке, присоединяйтесь к нашей команде! Отправьте свое резюме, и мы обязательно с вами свяжемся!</p>",
+  "branded_description": " \n<style>/*22.04.2025-hh-team-007*/\n.hht-vacancydescription {\n  padding: 0;\n}\n\n.tmpl_hh_wrapper {\n  position: relative;\n  z-index: 1;\n  overflow: hidden;\n  width: 100%;\n  max-width: 690px;\n  margin: 0 auto;\n  font-weight: 400;\n  font-size: 16px;\n  font-family: Arial, sans-serif;\n  line-height: 22px;\n  letter-spacing: 0.01em;\n  word-break: normal;\n}\n\n@media (max-width: 1019px) {\n  .tmpl_hh_wrapper {\n    max-width: 610px;\n  }\n}\n\n.tmpl_hh_wrapper p, .tmpl_hh_wrapper h1, .tmpl_hh_wrapper h2, .tmpl_hh_wrapper h3, .tmpl_hh_wrapper h4, .tmpl_hh_wrapper h5, .tmpl_hh_wrapper h6, .tmpl_hh_wrapper a, .tmpl_hh_wrapper img, .tmpl_hh_wrapper ol, .tmpl_hh_wrapper ul, .tmpl_hh_wrapper li {\n  vertical-align: baseline;\n  margin: 0;\n  padding: 0;\n  border: 0;\n  font-weight: inherit;\n  font-size: inherit;\n}\n\n.tmpl_hh_wrapper ul {\n  list-style: none;\n}\n\n.tmpl_hh_wrapper a {\n  text-decoration: none;\n}\n\n.tmpl_hh_wrapper a:hover {\n  color: inherit;\n}\n\n.tmpl_hh_wrapper img {\n  display: block;\n}\n\n.tmpl_hh_wrapper button {\n  display: block;\n  padding: 0;\n  border: none;\n  background-color: transparent;\n  outline: none;\n  cursor: pointer;\n}\n\n.tmpl_hh_wrapper button svg {\n  cursor: pointer;\n}\n\n.tmpl_hh_wrapper .l-cell, .tmpl_hh_wrapper .l-paddings {\n  padding: 0 !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n  margin-top: 0 !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n  overflow: visible !important;\n  line-height: inherit;\n}\n\n.tmpl_hh_content ol li b, .tmpl_hh_content ol li strong, .tmpl_hh_content ol li p b, .tmpl_hh_content ol li p strong, .tmpl_hh_content ul li b, .tmpl_hh_content ul li strong, .tmpl_hh_content ul li p b, .tmpl_hh_content ul li p strong {\n  margin: 0 !important;\n  color: inherit !important;\n  font-size: inherit !important;\n  line-height: inherit;\n  text-transform: none;\n}\n\n.tmpl_hh_content ol li p, .tmpl_hh_content ul li p {\n  margin: 0;\n  font-weight: normal;\n}\n\n.tmpl_hh_content p {\n  margin-bottom: 16px;\n}\n\n.tmpl_hh_content p b, .tmpl_hh_content p strong {\n  display: inline;\n  margin: 0;\n}\n\n.tmpl_hh_content ol, .tmpl_hh_content ul {\n  margin-bottom: 32px;\n  margin-left: 18px;\n  list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n  counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n  position: relative;\n  margin-bottom: 8px;\n  font-size: 16px;\n}\n\n.tmpl_hh_content li:last-child {\n  margin-bottom: 0;\n}\n\n.tmpl_hh_content ul ul, .tmpl_hh_content ul ol, .tmpl_hh_content ol ol, .tmpl_hh_content ol ul {\n  margin-top: 14px;\n}\n\n.tmpl_hh_content ol > li {\n  counter-increment: list_counter;\n}\n\n.tmpl_hh_content ul > li::before {\n  content: \"\";\n  position: absolute;\n  top: 9px;\n  left: -18px;\n  width: 5px;\n  height: 5px;\n  border-radius: 100%;\n  background-color: #000;\n}\n\n.tmpl_hh_content ol > li::before {\n  content: counter(list_counter) \".\";\n  right: 100%;\n  left: auto;\n  margin-right: 2px;\n}\n\n.tmpl_hh_content :last-child {\n  margin-bottom: 0;\n}\n\n/* stylelint-disable block-no-empty */\n\n/* stylelint-enable block-no-empty */\n\n.tmpl_hh_wrapper {\n  box-sizing: border-box;\n  color: #141414;\n  font-size: 16px;\n  line-height: 120%;\n}\n\n.tmpl_hh_wrapper .tmpl_hh_designation {\n  color: #b5b5b5;\n  font-size: 14px;\n  line-height: 120%;\n}\n\n.tmpl_hh_flex {\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n}\n\n.tmpl_hh_header {\n  position: relative;\n}\n\n.tmpl_hh_header > img {\n  position: absolute;\n  top: 50px;\n  left: 50px;\n  width: 235px;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_header > img {\n    top: 25px;\n    left: 25px;\n  }\n}\n\n.tmpl_hh_header .tmpl_hh_thumb-wrap > video {\n  display: block;\n  width: 100%;\n  height: auto;\n  max-height: 100%;\n}\n\n.tmpl_hh_aside__first {\n  display: flex;\n  flex-direction: column;\n  gap: 15px;\n  padding: 50px;\n  background: #141414;\n  color: #fff;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_aside__first {\n    padding: 50px 25px;\n  }\n}\n\n.tmpl_hh_aside__first > h2 {\n  position: relative;\n  z-index: 9;\n  font-weight: 700;\n  font-size: 22px;\n  line-height: 120%;\n}\n\n.tmpl_hh_aside__first-text {\n  position: relative;\n  z-index: 9;\n  display: flex;\n  flex-direction: column;\n  gap: 15px;\n  font-size: 16px;\n  line-height: 140%;\n}\n\n.tmpl_hh_aside__first ul.tmpl_hh_aside__first-list {\n  position: relative;\n  z-index: 9;\n  display: grid;\n  grid-template-columns: repeat(2, 1fr);\n  gap: 20px;\n  padding-top: 10px;\n}\n\n.tmpl_hh_aside__first ul.tmpl_hh_aside__first-list > li {\n  display: flex;\n  gap: 5px;\n  align-items: center;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_aside__first ul.tmpl_hh_aside__first-list > li {\n    flex-direction: column;\n    align-items: flex-start;\n  }\n}\n\n.tmpl_hh_aside__first ul.tmpl_hh_aside__first-list > li > h4 {\n  font-weight: 400;\n  font-size: 50px;\n  line-height: 120%;\n}\n\n.tmpl_hh_aside__first ul.tmpl_hh_aside__first-list > li > p {\n  font-size: 16px;\n  line-height: 140%;\n}\n\n@media (max-width: 413px) {\n  .tmpl_hh_aside__first ul.tmpl_hh_aside__first-list > li > p {\n    font-size: 12px;\n  }\n}\n\n.tmpl_hh_aside__second {\n  position: relative;\n  display: flex;\n  flex-direction: column;\n  gap: 20px;\n  padding: 0 50px 50px;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_aside__second {\n    padding: 0 25px 50px;\n  }\n}\n\n.tmpl_hh_aside__second::before, .tmpl_hh_aside__second::after {\n  content: \"\";\n  position: absolute;\n  display: block;\n  width: 1200px;\n  height: 1200px;\n  background: url(\"https://hhcdn.ru/ichameleon/371425.svg\") no-repeat center/contain;\n  z-index: -1;\n}\n\n.tmpl_hh_aside__second::before {\n  top: 0;\n  left: -600px;\n}\n\n.tmpl_hh_aside__second::after {\n  right: -600px;\n  bottom: 80px;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_aside__second::after {\n    bottom: 25%;\n  }\n}\n\n.tmpl_hh_aside__second ul.tmpl_hh_aside__second-list {\n  position: relative;\n  z-index: 9;\n  display: grid;\n  grid-template-columns: repeat(2, 1fr);\n  gap: 25px;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_aside__second ul.tmpl_hh_aside__second-list {\n    grid-template-columns: 1fr;\n  }\n}\n\n.tmpl_hh_aside__second ul.tmpl_hh_aside__second-list:last-of-type {\n  grid-template-columns: 1fr;\n}\n\n.tmpl_hh_aside__second li.tmpl_hh_aside__second-card {\n  display: flex;\n  flex-direction: column;\n  gap: 15px;\n  padding: 25px 15px;\n  border-radius: 15px;\n  background: #fff;\n}\n\n.tmpl_hh_aside__second li.tmpl_hh_aside__second-card_accent {\n  justify-content: center;\n  align-items: center;\n  background: #dcb8f6;\n}\n\n.tmpl_hh_aside__second li.tmpl_hh_aside__second-card > h3 {\n  font-weight: 700;\n  font-size: 22px;\n  line-height: 120%;\n}\n\n@media (max-width: 413px) {\n  .tmpl_hh_aside__second li.tmpl_hh_aside__second-card > h3 {\n    font-size: 18px;\n  }\n}\n\n.tmpl_hh_aside__second__img {\n  height: 100%;\n  border-radius: 15px;\n  background: url(\"https://hhcdn.ru/ichameleon/371424.png\") no-repeat center/cover;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_aside__second__img {\n    min-height: 220px;\n    background: url(\"https://hhcdn.ru/ichameleon/370620.png\") no-repeat center/cover;\n  }\n}\n\n.tmpl_hh_aside__second ul.tmpl_hh_aside__second-advantages {\n  display: flex;\n  flex-wrap: wrap;\n  gap: 5px;\n}\n\n.tmpl_hh_aside__second ul.tmpl_hh_aside__second-advantages > li {\n  padding: 5px 15px;\n  border: 1px solid #141414;\n  border-radius: 100px;\n  font-size: 16px;\n  line-height: 140%;\n}\n\n@media (max-width: 413px) {\n  .tmpl_hh_aside__second ul.tmpl_hh_aside__second-advantages > li {\n    border-radius: 20px;\n    font-size: 12px;\n  }\n}\n\n.tmpl_hh_aside__second p.tmpl_hh_aside__footnote {\n  position: relative;\n  z-index: 9;\n  font-size: 12px;\n  line-height: 120%;\n  opacity: 0.5;\n}\n\n.tmpl_hh_content {\n  position: relative;\n  padding: 50px;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_content {\n    padding: 50px 25px;\n  }\n}\n\n.tmpl_hh_content::before {\n  content: \"\";\n  position: absolute;\n  top: -40%;\n  right: -600px;\n  display: block;\n  width: 1200px;\n  height: 1200px;\n  background: url(\"https://hhcdn.ru/ichameleon/371425.svg\") no-repeat center/contain;\n}\n\n.tmpl_hh_content p {\n  position: relative;\n  margin-bottom: 25px;\n  padding-bottom: 25px;\n  font-size: 16px;\n  line-height: 140%;\n}\n\n.tmpl_hh_content p::after {\n  content: \"\";\n  position: absolute;\n  bottom: 0;\n  left: 0;\n  display: block;\n  width: 100%;\n  height: 1px;\n  background: #141414;\n  opacity: 0.3;\n}\n\n.tmpl_hh_content p:last-of-type {\n  padding-bottom: 0;\n}\n\n.tmpl_hh_content p:last-of-type::after {\n  display: none;\n}\n\n.tmpl_hh_content ul {\n  position: relative;\n  margin: 15px 0 25px 18px;\n  padding-bottom: 25px;\n}\n\n.tmpl_hh_content ul::after {\n  content: \"\";\n  position: absolute;\n  bottom: 0;\n  left: 0;\n  display: block;\n  width: 100%;\n  height: 1px;\n  background: #141414;\n  opacity: 0.3;\n}\n\n.tmpl_hh_content ul:last-of-type {\n  padding-bottom: 0;\n}\n\n.tmpl_hh_content ul:last-of-type::after {\n  display: none;\n}\n\n.tmpl_hh_content li {\n  margin-bottom: 15px;\n  font-size: 16px;\n  line-height: 140%;\n}\n\n.tmpl_hh_content ul > li::before {\n  background: #9649ff;\n}\n\n.tmpl_hh_content p.tmpl_hh_content_title, .tmpl_hh_content b.tmpl_hh_content_title, .tmpl_hh_content strong.tmpl_hh_content_title {\n  margin-bottom: 15px;\n  padding: 0;\n  font-weight: 700;\n  font-size: 22px;\n  line-height: 120%;\n}\n\n.tmpl_hh_content p.tmpl_hh_content_title::after, .tmpl_hh_content b.tmpl_hh_content_title::after, .tmpl_hh_content strong.tmpl_hh_content_title::after {\n  display: none;\n}\n\n.tmpl_hh_content p.tmpl_hh_content_title > b, .tmpl_hh_content p.tmpl_hh_content_title > strong {\n  padding: 0;\n  font-weight: 700;\n  font-size: 22px;\n  line-height: 120%;\n}\n\n.tmpl_hh_content p.tmpl_hh_content_title > b::after, .tmpl_hh_content p.tmpl_hh_content_title > strong::after {\n  display: none;\n}\n</style>\n<div>\n    <div class=\"tmpl_hh_wrapper\">\n      <header class=\"tmpl_hh_header\">\n        <img src=\"https://img.hhcdn.ru/ichameleon/373005.svg\" alt=\"logo\">\n        <div class=\"tmpl_hh_thumb-wrap\">\n          <video muted=\"muted\" autoplay=\"autoplay\" loop=\"loop\" playsinline=\"playsinline\" preload=\"none\">\n            <source src=\"https://hhcdn.ru/file/17830792.mp4\" type=\"video/mp4\"></source>\n            <source src=\"https://hhcdn.ru/file/17830792.mp4\" type='video/webm; codecs=\"vp8, vorbis\"'></source>\n          </video>\n        </div>\n      </header>\n      <aside class=\"tmpl_hh_aside tmpl_hh_aside__first\">\n        <h2>DIGITECH является аккредитованной ИТ–компанией</h2>\n        <div class=\"tmpl_hh_aside__first-text\">\n          <p>\n            За годы работы мы успешно реализовали все проекты по разработке ПО и стали надёжным ИТ-партнёром для разных\n            бизнес-направлений: крупные оптово-розничные сети, логистические операторы и e-commerce.\n          </p>\n          <p>Мы ценим гибкость мышления, честность, открытость и командную работу.</p>\n        </div>\n        <ul class=\"tmpl_hh_aside__first-list\">\n          <li>\n            <h4>5+</h4>\n            <p>лет разработки</p>\n          </li>\n          <li>\n            <h4>250+</h4>\n            <p>сотрудников</p>\n          </li>\n        </ul>\n      </aside>\n      <main class=\"tmpl_hh_content\">\n        <p>Хотите сосредоточиться на одном интересном проекте и стать экспертом в 1С:ЗУП? Тогда эта вакансия для вас. Забудьте о работе \"на потоке\"! Вы будете работать с одним, крупным и интересным клиентом, углубляясь в особенности его бизнес-процессов и помогая оптимизировать работу с конфигурацией 1С:ЗУП.</p> <p><strong>Вам предстоит:</strong></p> <ul> <li>Разработка и доработка функционала 1С:ЗУП 8 в рамках проектов внедрения и сопровождения только для одного клиента!</li> <li>Участие в проектных командах и взаимодействие с другими специалистами.</li> <li>Самостоятельное решение задач и ответственность за результат.</li> </ul> <p><strong>Мы ищем:</strong></p> <ul> <li>Специалиста, который горит 1С:ЗУП и хочет развиваться в этой области.</li> <li>Обязательное требование: наличие сертификата 1С:Специалист по 1С:ЗУП или готовность получить его в ближайшее время за счет компании!</li> <li>Опыт работы программистом 1С от 1 года.</li> <li>Умение уверенно кодить и любить это дело!</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Официальное трудоустройство в аккредитованной IT компании.</li> <li>Конкурентную заработную плату (обсуждается индивидуально по результатам собеседования).</li> <li>Возможность профессионального роста и развития (обучение, сертификация).</li> <li>Интересные и разнообразные проекты (в рамках работы с одним клиентом, но с разными задачами!).</li> <li>Гибкий формат работы: гибрид или удаленно.</li> <li>Работу в слаженной команде профессионалов!</li> <li>Комфортный офис в центре Екатеринбурга.</li> </ul> <p>Если вы цените стабильность, хотите сосредоточиться на глубоком изучении 1С:ЗУП и работать в комфортной обстановке, присоединяйтесь к нашей команде! Отправьте свое резюме, и мы обязательно с вами свяжемся!</p></main>\n      <aside class=\"tmpl_hh_aside tmpl_hh_aside__second\">\n        <ul class=\"tmpl_hh_aside__second-list\" style=\"display: none;\">\n          <li class=\"tmpl_hh_aside__second-card\">\n            <h3>Языки программирования</h3>\n            <ul class=\"tmpl_hh_aside__second-advantages\">\n              <li>Java</li>\n              <li>JavaScript</li>\n              <li>Python</li>\n              <li>Dart</li>\n              <li>1C</li>\n            </ul>\n          </li>\n          <li class=\"tmpl_hh_aside__second-card\">\n            <h3>Методологии и инструменты</h3>\n            <ul class=\"tmpl_hh_aside__second-advantages\">\n              <li>Ajile</li>\n              <li>SCRUM</li>\n              <li>Jira</li>\n              <li>Confluence</li>\n            </ul>\n          </li>\n        </ul>\n        <ul class=\"tmpl_hh_aside__second-list\" style=\"display: none;\">\n          <li class=\"tmpl_hh_aside__second-card\">\n            <h3>Базы данных</h3>\n            <ul class=\"tmpl_hh_aside__second-advantages\">\n              <li>MS SQL</li>\n              <li>PostgreSQL</li>\n            </ul>\n          </li>\n          <li class=\"tmpl_hh_aside__second-card\">\n            <h3>Фреймворки</h3>\n            <ul class=\"tmpl_hh_aside__second-advantages\">\n              <li>React</li>\n              <li>Aiohttp</li>\n              <li>Flutter</li>\n            </ul>\n          </li>\n        </ul>\n        <ul class=\"tmpl_hh_aside__second-list\" style=\"display: none;\">\n          <li>\n            <div class=\"tmpl_hh_aside__second__img\"></div>\n          </li>\n          <li class=\"tmpl_hh_aside__second-card\">\n            <h3>Инструменты и подходы DevOps</h3>\n            <ul class=\"tmpl_hh_aside__second-advantages\">\n              <li>Kubernetes</li>\n              <li>GitLab</li>\n              <li>Docker</li>\n              <li>Grafana</li>\n              <li>Zabbix</li>\n              <li>Kafka</li>\n              <li>Cisco</li>\n            </ul>\n          </li>\n        </ul>\n        <ul class=\"tmpl_hh_aside__second-list\">\n          <li class=\"tmpl_hh_aside__second-card\" style=\"display: none;\">\n            <h3>Создаем комфортные условия</h3>\n            <ul class=\"tmpl_hh_aside__second-advantages\">\n              <li>Удаленка из любого города России</li>\n              <li>Поддержка на старте</li>\n              <li>Гибридный формат или офис в Москве и Екатеринбурге</li>\n              <li>Гибкое начало рабочего дня</li>\n              <li>Участие в конференциях</li>\n              <li>Все льготы для работников аккредитованных ИТ-компаний</li>\n            </ul>\n          </li>\n          <li class=\"tmpl_hh_aside__second-card tmpl_hh_aside__second-card_accent\">\n            <h3>Присоединяйтесь!</h3>\n          </li>\n        </ul>\n        \n        <p class=\"tmpl_hh_aside__footnote\">ООО «ДИДЖИ ТЕХ» представляет бренд DIGITECH</p>\n      </aside>\n    </div>\n  </div>\n<script>\n//\n\n\nconst main = \"\";\nconst customTitle = () => {\n  const allUl = document.querySelectorAll(\".tmpl_hh_content ul\");\n  allUl.forEach((ul, i) => {\n    const ulTitle = ul.previousElementSibling;\n    if (ulTitle) {\n      ulTitle.classList.add(\"tmpl_hh_content_title\");\n      if (i === 0) {\n        ul.previousElementSibling.classList.add(\"tmpl_hh_content_title--first\");\n      }\n    }\n  });\n};\ndocument.addEventListener(\"DOMContentLoaded\", () => {\n  try {\n    customTitle();\n  } catch (error) {\n    console.log(error);\n  }\n});\n\n\n//\n</script>\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "1С программирование"
+    },
+    {
+      "name": "1С: Зарплата и кадры"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9582396",
+    "name": "ДИДЖИ ТЕХ",
+    "url": "https://api.hh.ru/employers/9582396",
+    "alternate_url": "https://hh.ru/employer/9582396",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1320507.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6902074.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6902075.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9582396",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T09:38:52+0300",
+  "created_at": "2025-06-06T09:38:52+0300",
+  "initial_created_at": "2025-05-13T09:38:52+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120451077",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120451077",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

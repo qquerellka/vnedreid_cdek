@@ -1,0 +1,183 @@
+{
+  "id": "121097786",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Программист 1С",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 60000,
+    "to": 115000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 60000,
+    "to": 115000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Малый проспект Васильевского острова",
+    "building": "57к3",
+    "lat": 59.943692,
+    "lng": 30.255025,
+    "description": null,
+    "raw": "Санкт-Петербург, Малый проспект Васильевского острова, 57к3",
+    "metro": {
+      "station_name": "Василеостровская",
+      "line_name": "Невско-Василеостровская",
+      "station_id": "16.228",
+      "line_id": "16",
+      "lat": 59.942577,
+      "lng": 30.278254
+    },
+    "metro_stations": [
+      {
+        "station_name": "Василеостровская",
+        "line_name": "Невско-Василеостровская",
+        "station_id": "16.228",
+        "line_id": "16",
+        "lat": 59.942577,
+        "lng": 30.278254
+      },
+      {
+        "station_name": "Горный институт",
+        "line_name": "Лахтинско-Правобережная",
+        "station_id": "17.924",
+        "line_id": "17",
+        "lat": 59.931749,
+        "lng": 30.262667
+      },
+      {
+        "station_name": "Приморская",
+        "line_name": "Невско-Василеостровская",
+        "station_id": "16.227",
+        "line_id": "16",
+        "lat": 59.948521,
+        "lng": 30.23447
+      },
+      {
+        "station_name": "Спортивная",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.249",
+        "line_id": "18",
+        "lat": 59.952026,
+        "lng": 30.291338
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><em>Вакансия в IT-компании, входящей в производственный Холдинг &quot;Русская трапеза&quot; (с 1994 г. на рынке) и оказывающей ему техническую поддержку в обслуживании цифровых систем (1С-программирование, телефония, системное администрирование). Обучаем и передаем опыт в части программирования</em><em>, консультирования</em> <em>и аналитики в </em><em>1С</em></p> <p><strong>Обязанности:</strong></p> <ul> <li>Программное устранение ошибок программы</li> <li>Поиск причин ошибок, возникающих у пользователя (анализ)</li> <li>Доработка и адаптация программных продуктов</li> <li>Консультирование пользователей 1С</li> <li>Участие в проектах внедрения 1С: ERP в компаниях холдинга</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Знание языка запросов, СКД на среднем и выше уровне</li> <li>Законченные курсы «Программист / разработчик 1С» (длительность от 3 месяцев) и/или опыт работы от 1 года</li> <li>Умение находить информацию в интернете; умение доводить начатое до конца</li> <li>Внимательность, ответственность, нацеленность на результат, умение работать в команде</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Оформление в аккредитованную IT-компанию</li> <li>График 5/2 по 8 час., гибкое начало дня, с 8 / 9 /10 утра, 1 час обед</li> <li>Бесплатные обеды в корпоративной столовой</li> <li>Интересные, разнообразные задачи, возможность получить широкий и глубокий профессиональный опыт, с перспективами карьерного роста до руководителя проектов</li> <li>Полностью официальная зарплата, выплаты на карту 2 раза в мес. без задержек. На испытательный срок 1-3 мес. 60 тыс. руб., далее 90 тыс. + премии до 25 тыс.</li> <li>Корпоративная волейбольная команда, премии юбилярам, сладкие подарки и корпоративы к Новому году.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "712272",
+    "name": "Технопарк Смоленка",
+    "url": "https://api.hh.ru/employers/712272",
+    "alternate_url": "https://hh.ru/employer/712272",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1385489.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7161743.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7161744.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=712272",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-28T17:38:36+0300",
+  "created_at": "2025-05-28T17:38:36+0300",
+  "initial_created_at": "2025-05-28T17:38:36+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121097786",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121097786",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,160 @@
+{
+  "id": "121199553",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Программист для интеграции с API Диадок (MS SQL)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 50000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 50000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "Симская улица",
+    "building": "1",
+    "lat": 56.761418,
+    "lng": 60.617525,
+    "description": null,
+    "raw": "Екатеринбург, Симская улица, 1",
+    "metro": {
+      "station_name": "Ботаническая",
+      "line_name": "Север-Юг",
+      "station_id": "48.270",
+      "line_id": "48",
+      "lat": 56.797487,
+      "lng": 60.633362
+    },
+    "metro_stations": [
+      {
+        "station_name": "Ботаническая",
+        "line_name": "Север-Юг",
+        "station_id": "48.270",
+        "line_id": "48",
+        "lat": 56.797487,
+        "lng": 60.633362
+      }
+    ]
+  },
+  "allow_messages": false,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "project",
+    "name": "Проектная работа"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Вакансия: Программист для интеграции с API Диадок (MS SQL)</strong> <p> </p> <p><strong>Локация:</strong> удалённо / гибрид / офис<br /><strong>Тип занятости:</strong> проектная работа / частичная занятость / полная занятость (обсуждается)<br /><strong>Заработная плата:</strong> по договорённости</p> <p><strong>Описание проекта</strong></p> <p>Компания ищет программиста для разработки системы обмена электронными документами через <strong>API Диадок</strong>, с последующей интеграцией в существующее бизнес-приложение, использующее базу данных <strong>Microsoft SQL Server</strong></p> <p><strong>Основные задачи</strong></p> <ul> <li>Интеграция с API Диадок: отправка, получение, подписание и хранение электронных документов.</li> <li>Настройка маршрутов согласования и обработки входящих/исходящих документов.</li> <li>Разработка backend-логики для работы с API и взаимодействия с базой данных MS SQL.</li> </ul> <p>Обработка ошибок и логирование процессов обмена документами.</p> <p> </p> <p><strong>Требования</strong></p> <ul> <li>Опыт работы с <strong>API Диадок</strong> (Diadoc API от СКБ Контур).</li> <li>Отличные знания <strong>MS SQL Server</strong> (T-SQL, хранимые процедуры, триггеры).</li> <li>Умение работать с HTTP/REST API, сериализация JSON/XML.</li> <li>Опыт работы с .NET (C#) или другим языком, совместимым с API Диадок — будет плюсом.</li> </ul> <p>Понимание принципов информационной безопасности при обмене электронными документами.</p> <p> </p> <p><strong>Будет плюсом</strong></p> <ul> <li>Опыт интеграции с системами бизнес учета, бухгалтерскими документооборотными решениями.</li> <li>Знание архитектуры корпоративных информационных систем.</li> <li>Опыт участия в проектах электронного документооборота (ЭДО).</li> </ul> <p>Навыки построения пользовательских интерфейсов</p> <p><strong>Как откликнуться</strong></p> <p>дозвонитесь, договоритесь о встрече.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "38433",
+    "name": "ИНРОСТ",
+    "url": "https://api.hh.ru/employers/38433",
+    "alternate_url": "https://hh.ru/employer/38433",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/224026.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/317627.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/390484.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=38433",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T08:04:24+0300",
+  "created_at": "2025-06-02T08:04:24+0300",
+  "initial_created_at": "2025-06-02T08:04:24+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121199553",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121199553",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "PROJECT",
+    "name": "Проект или разовое задание"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FLEXIBLE",
+      "name": "Свободный"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "FLEXIBLE",
+      "name": "По договорённости"
+    }
+  ],
+  "show_logo_in_search": null
+}

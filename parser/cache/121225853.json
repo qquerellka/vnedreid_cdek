@@ -1,0 +1,176 @@
+{
+  "id": "121225853",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "React Native Developer / Разработчик мобильных приложений",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 300000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 300000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": null,
+    "lng": null,
+    "description": null,
+    "raw": null,
+    "metro": {
+      "station_name": "Чкаловская",
+      "line_name": "Фрунзенско-Приморская",
+      "station_id": "18.248",
+      "line_id": "18",
+      "lat": 59.961033,
+      "lng": 30.292006
+    },
+    "metro_stations": [
+      {
+        "station_name": "Чкаловская",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.248",
+        "line_id": "18",
+        "lat": 59.961033,
+        "lng": 30.292006
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Ищем React Native разработчика в Travel-tech стартап! :)</p> <p>FindGuide - новый развивающийся продукт, где турист может найти себе персонального гида в любой точке мира и на любом языке, своеобразный Uber или Профи ру для туристов и гидов.</p> <p>Сейчас мы находимся в поисках опытного Mobile разработчика <strong>(в офис в Санкт-Петербурге)</strong>, которому интересно реализовывать сложные решения на React Native, ответственного и готового к самостоятельному ведению задач от начала работы до доставки в прод.</p> <p><strong>Что предстоит делать:</strong></p> <ul> <li> <p>разрабатывать мобильное приложения на React Native для iOS и Android;</p> </li> <li> <p>самостоятельно выбирать фреймворки, библиотеки и т.п. для развития приложения,</p> </li> <li> <p>обеспечивать мультиязычность;</p> </li> <li> <p>обеспечивать поддержку различного поведения приложения для разных регионов/стран;</p> </li> <li> <p>работать с маркетингом (google analytics и прочее);</p> </li> <li> <p>обеспечивать логирование и мониторинг работы приложения, выявлять причины сбоев и оперативно устранять их;</p> </li> <li> <p>постоянно общаться, слушать других и быть частью команды.</p> </li> </ul> <p><strong>Наши ожидания от кандидата:</strong></p> <ul> <li> <p>опыт в создании многоэкранных кроссплатформенных приложений (IOS, Android);</p> </li> <li> <p>опыт разработки сложных адаптивных UI на React Native;</p> </li> <li> <p>опыт разработки с TypeScript, REST API, Design Patterns, OOP, SOLID, Git;</p> </li> <li> <p>хорошее понимание принципов UX-дизайна;</p> </li> <li> <p>опыт работы с многозадачностью / многопоточностью, асинхронными запросами, отладкой и ускорением производительности;</p> </li> <li> <p>хороший опыт работы с внутренними и сторонними API, UI и библиотеками;</p> </li> <li> <p>знание React hooks;</p> </li> <li> <p>знание Kotlin/Swift;</p> </li> <li> <p>опыт разработки нативных модулей;</p> </li> <li> <p>знание Turbomodule/Fabric;</p> </li> <li> <p>опыт использования mobx.</p> </li> </ul> <p><strong>Что мы предлагаем?</strong></p> <ul> <li> <p>Стабильную зарплату;</p> </li> <li> <p>Формат работы на выбор: офис или гибрид;</p> </li> <li> <p>ДМС со стоматологией;</p> </li> <li> <p>Компенсация спорта и обучения;</p> </li> <li> <p>Уютный офис в Питере возле ст. м. Чкаловская с вкусным кофе, массажным креслом и горячими завтраками;</p> </li> <li> <p>Интересный и амбициозный проект ;)</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "React Native"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "Kotlin"
+    },
+    {
+      "name": "Swift"
+    },
+    {
+      "name": "SOLID"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5190309",
+    "name": "H1.marketing",
+    "url": "https://api.hh.ru/employers/5190309",
+    "alternate_url": "https://hh.ru/employer/5190309",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/959467.png",
+      "90": "https://img.hhcdn.ru/employer-logo/4278392.png",
+      "240": "https://img.hhcdn.ru/employer-logo/4278393.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5190309",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T14:12:24+0300",
+  "created_at": "2025-06-02T14:12:24+0300",
+  "initial_created_at": "2025-06-02T14:12:24+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121225853",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121225853",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

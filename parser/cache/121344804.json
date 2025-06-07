@@ -1,0 +1,133 @@
+{
+  "id": "121344804",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Manual QA Engineer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": null,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "MONTHLY",
+      "name": "Раз в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><em>Мы - продуктовая компания, которая разрабатывает решения в сфере кибербезопасности и цифрового комфорта: AdBlock, Antivirus, Privacy Tools. Наши продукты будут защищать десятки тысяч пользователей по всему миру. Сейчас мы усиливаем QA-направление и ищем специалиста, который начнёт с ручного тестирования, а со временем сможет вырасти в сторону автоматизации.</em></p> <p>Manual QA Engineer (с ростом до Automation)</p> <p><strong>Что нужно будет делать:</strong></p> <p>- Ручное тестирование Web и Android приложений</p> <p>- Проверка новых фич, регрессия, smoke/sanity тесты</p> <p>- Заведение и верификация багов (Jira / Linear)</p> <p>- Написание тест-кейсов, чек-листов, отчётов</p> <p>- Проверка API через Postman</p> <p>- Взаимодействие с продуктовой и разработческой командой</p> <p>- Участие в планировании, уточнение требований</p> <p><strong>Что мы ждём от кандидата:</strong></p> <p>- Опыт ручного тестирования от 2 лет</p> <p>- Понимание client-server архитектуры и работы API</p> <p>- Знание техник тест-дизайна (boundary values, equivalence classes и т.д.)</p> <p>- Умение работать с документацией, внимательность к деталям</p> <p>- Желание учиться и развиваться в сторону автоматизации</p> <p><strong>Что будет плюсом: </strong></p> <p>- Опыт тестирования мобильных приложений (особенно с AdBlock, WebView, Payment Flow)</p> <p>- Навыки работы с Android Studio, Xcode</p> <p>- Базовые знания JavaScript, Python или Kotlin</p> <p>- Опыт написания автотестов (Playwright, Cypress, Appium, Detox и др.)</p> <p><strong>Перспектива развития:</strong></p> <p>- В течение 3 месяцев — обучение в Automation QA (оплачиваем курсы)</p> <p>- Работа с автоматизацией тестов UI и API (Playwright, Appium, CI/CD)</p> <p>- Влияние на процессы: внедрение автотестов, code review, покрытие smoke/regression</p> <p>- Возможность стать техническим лидом QA-направления при росте команды</p> <p><strong>Что мы предлагаем:</strong></p> <p>- Полностью удаленная работа!</p> <p>- Оплата через Самозанятость</p> <p>- Продукт, который развивается быстро и на реальных пользователей</p> <p>- Наставничество по автоматизации, участие в построении QA-процессов</p> <p>- Гибкий график, адекватный менеджмент и быстрые решения</p> <p>- Доступ к платным курсам, внутреннему обучению</p> <p>- Дружная команда без бюрократии</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10464528",
+    "name": "Affilyx (ООО Здоровье Онлайн)",
+    "url": "https://api.hh.ru/employers/10464528",
+    "alternate_url": "https://hh.ru/employer/10464528",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1185146.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6361010.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6361011.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10464528",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T15:13:13+0300",
+  "created_at": "2025-06-07T15:13:13+0300",
+  "initial_created_at": "2025-06-04T15:13:13+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121344804",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121344804",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

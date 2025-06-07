@@ -1,0 +1,135 @@
+{
+  "id": "121021760",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Водитель-экспедитор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 80000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 80000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирская область",
+    "street": "Н-1230",
+    "building": null,
+    "lat": 55.04677,
+    "lng": 82.223292,
+    "description": null,
+    "raw": "Новосибирская область, Н-1230",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Вакансия компании ООО &quot;АИСТРЕИД&quot; </strong></p> <p>Официальный дистрибьютор ООО Ангария фабрика мороженого. Ангария «Фабрика мороженого» является одним из крупнейших пищевых предприятий и ведущим производителем мороженого в Сибири и на Дальнем Востоке. Более 100 наименований мороженого (рожки, вафельные стаканчики, эскимо, домашний ассортимент (весовое), торты-мороженое, фруктовый лёд). В 2019 году сеть насчитывает более 30 магазинов в 6 городах России (Ангарск, Иркутск, Усолье-Сибирское, Шелехов, Слюдянка, Новосибирск) и в Монголии (Улан-Батор).</p> <p><strong>Обязанности:</strong></p> <ul> <li>Выполнение доставки товаров по адресам клиентов в установленные сроки.</li> <li>Принятие товаров на складе и их отгрузка.</li> <li>Соблюдение правил дорожного движения и технического обслуживания автомобиля.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Наличие водительских прав категории B, С.</li> <li>Опыт работы в сфере доставки и экспедирования будет преимуществом.</li> <li>Знание города и умение оперативно ориентироваться на местности.</li> <li>Ответственность, пунктуальность, исполнительность.</li> </ul> <p> </p> <p><strong>Условия:</strong></p> <ul> <li>Официальное трудоустройство по ТК РФ.</li> <li>График работы 5/2 с 9:00 до 18:00.</li> </ul> <p> </p> <p>Присоединяйтесь к нашей дружной команде водителей-экспедиторов и станьте частью успешного логистического процесса! Покажите свою мастерство за рулем и обеспечьте своевременную доставку товаров клиентам. Мы ждем именно Вас - активного, целеустремленного и ответственного специалиста!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "10",
+      "name": "Аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "2476133",
+    "name": "ЭКСПРЕСС",
+    "url": "https://api.hh.ru/employers/2476133",
+    "alternate_url": "https://hh.ru/employer/2476133",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1411009.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7263696.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7263697.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2476133",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T11:20:41+0300",
+  "created_at": "2025-06-05T11:20:41+0300",
+  "initial_created_at": "2025-05-27T11:20:41+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121021760",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121021760",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

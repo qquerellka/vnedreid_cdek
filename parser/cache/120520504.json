@@ -1,0 +1,134 @@
+{
+  "id": "120520504",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист технической поддержки",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": null,
+    "to": 64500,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 64500,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Привет! Мы — команда опытных специалистов, которые занимаются продвижением и созданием продуктов в IT сфере.</strong></p> <p><strong>Наша компания проделала длинный путь, от группы единомышленников до международной компании, которая помогла развиться большому числу проектов-стартапов вырасти в самостоятельный и успешный бизнес, который присутствует на рынках России, СНГ, Латинской Америки, Азии.</strong></p> <p><strong>Наши проекты развиваются и становятся крупнее, а это значит, нам нужны новые люди.</strong></p> <p> </p> <p>Сейчас, в связи с расширением команды, мы в поиске специалиста отдела технической поддержки.</p> <p> </p> <p><strong>Обязанности:</strong></p> <p>-Работа со внутренними инструментами;</p> <p>-Обрабатывать входящий поток вопросов в чате;</p> <p>-Закрывать внутренние запросы от клиента;</p> <p>-Помощь и консультация пользователей по техническим вопросам;</p> <p>-Контроль и управление внутренними ресурсами для обеспечения бесперебойной работы;</p> <p>-Совершение финансовых операций;</p> <p>-Ведение отчетности.</p> <p> </p> <p><strong>Требования:</strong></p> <p>- Опыт работы в клиентской или технической поддержке;</p> <p>- Владение английским языком не ниже уровня А2;</p> <p>- Опыт работы в Google документах и таблицах;</p> <p>- Внимательность к деталям;</p> <p>- Готовность к работе в режиме многозадачности;</p> <p>- Ответственность.</p> <p> </p> <p><strong>Условия:</strong></p> <p>-Работа в гибридном формате;</p> <p>-График работы 3/3 с 9.00 до 21.00 по МСК дневные смены.</p> <p>-Стабильная заработная плата : Оклад 49 500 рублей + премия;</p> <p>-Возможность карьерного роста;</p> <p>-Работа в команде, которой не все равно, что вы делаете;</p> <p>-Корпоративные, спортивные мероприятия;</p> <p>-Профессиональное обучение;</p> <p>-Выдача рабочей техники при необходимости.</p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "5819349",
+    "name": "Miles&Miles",
+    "url": "https://api.hh.ru/employers/5819349",
+    "alternate_url": "https://hh.ru/employer/5819349",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1267681.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6691042.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6691043.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5819349",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-14T10:53:47+0300",
+  "created_at": "2025-05-14T10:53:47+0300",
+  "initial_created_at": "2025-05-14T10:53:47+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120520504",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120520504",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "THREE_ON_THREE_OFF",
+      "name": "3/3"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_12",
+      "name": "12 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

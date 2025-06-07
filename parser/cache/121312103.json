@@ -1,0 +1,110 @@
+{
+  "id": "121312103",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Middle Java-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": false,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>О проекте:</p> <p>Сервис управления параметрами приложений, который позволяет пользователям изменять значения параметров без переустановки приложения, предоставляя для этого удобный интерфейс управления.</p> <p>Функции:</p> <p>- Изоляция параметров приложений по ролевой модели</p> <p>- Импорт значений параметров конфигураций</p> <p>- Изменение значений параметров конфигураций</p> <p>- Динамическое управление конфигурацией в runtime без необходимости перезапуска приложений</p> <p>- Хранение истории и откат на предыдущие значения параметров</p> <p>- Контроль изменений значения параметра конфигурации с подтверждением вторым администратором</p> <p>- Прикладная репликация данных между несколькими БД для обеспечения и надежности хранения данных</p> <p>Команда состоит из архитектора, backend/frontend разработчиков, аналитиков, тестировщиков.</p> <p>Основные библиотеки: Spring Framework</p> <p>Среда разработки: GigaIDE, Intellij IDEA, Visual Studio Code</p> <p>Технологии контейнеризации: OpenShift, Kubernetes</p><h3><strong>Обязанности</strong></h3> <p>Вам предстоит:</p> <p>- разработка высоконагруженных проектов на Java, стеке технологий и компонентов Apache Kafka, Kubernetes</p> <p>- анализ требований и проработка технических решений</p> <p>- рефакторинг существующего кода, проведение code review</p> <p>требования.</p><h3><strong>Требования</strong></h3> <p>Мы ожидаем, что Вы обладаете следующим опытом:</p> <p>- уверенные знания Java 11-21 SE – Core, Collections, Многопоточность (опыт от 4-х лет)</p> <p>- знание Spring Framework 5/6 (IoC, Security, Data, MVC) + Boot</p> <p>- разработка модульных тестов на JUnit</p> <p>- опыт работы в Git, Maven</p> <p>- знание и умение применять паттерны проектирования.</p> <p>Будет плюсом:</p> <p>- опыт работы с серверами приложений</p> <p>- знание Kubernetes/OpenShift</p> <p>- знание SQL, JavaScript, React + Redux, HTML, CSS, Go, Rust</p> <p>- опыт работы с Micronaut Framework</p> <p>- понимание принципов и технологий построения распределенных систем.</p><h3><strong>Условия</strong></h3> <p>Мы предлагаем:</p> <ul> <li>интересные задачи, огромные возможности для обучения и отличную команду</li> <li>стабильный оклад и социальная поддержка сотрудников</li> <li>расширенный ДМС с первого дня работы для сотрудников и льготная медицинская страховка для близких</li> <li>бесплатная подписка СберПрайм+, скидки на продукты компаний-партнеров</li> <li>корпоративная пенсионная программа</li> <li>корпоративное обучение за счет компании</li> <li>реферальная программа для сотрудников: можно пригласить в команду знакомых профессионалов и получить вознаграждение</li> <li>официальное оформление с первого дня</li> <li>корпоративный спортзал и скидки в спортзалы-партнеры.</li> </ul>",
+  "branded_description": "\n<style>\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;    \n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n    line-height: inherit;\n    font-family: inherit !important;\n    display: inline;\n    font-weight: bold;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    display: block;\n    margin: 48px 0 24px;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    overflow: hidden;\n    color: #000;\n    font-family: 'Arial', sans-serif;\n    font-size: 12px;\n    line-height: 16px;\n    z-index: 1;\n    background: #EBEBEB;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_content {\n    padding: 29px 31px 24px;\n    position: relative;\n    z-index: 1;\n    background: #fff;\n    border-radius: 16px;\n    margin: 33px 40px;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    margin: 24px 0 16px;\n}\n\n.tmpl_hh_content p+p {\n    margin: 0 0 25px;\n}\n\n.tmpl_hh_content b, \n.tmpl_hh_content strong {\n    display: inline-block;\n    font-weight: 400;\n    font-size: 22px;\n    line-height: 24px;\n}\n\n.tmpl_hh_content i, \n.tmpl_hh_content em {\n    font-weight: 700;\n    font-style: normal;\n    font-size: 12px;\n    line-height: 16px;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 21px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 8px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 8px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;    \n}\n\n.tmpl_hh_content li:before {\n    position: absolute;\n    left: -21px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"\";\n    width: 6px;\n    height: 6px;\n    border-radius: 1px;\n    background: #003FE1;\n    top: 5px;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter)'.';\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n\n.tmpl_hh_flex {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n}\n\n.tmpl_hh_header {\n    position: relative;\n    background: url(https://hhcdn.ru/ichameleon/301961.png) no-repeat;\n    background-size: cover;\n    margin: 39px 40px 0;\n    border-radius: 16px;\n    overflow: hidden;\n    color: #fff;\n    padding: 28px 38% 22px 32px;\n}\n\np.tmpl_hh_header__title {\n    font-size: 24px;\n    font-style: normal;\n    font-weight: 400;\n    line-height: 110%;\n    margin-bottom: 20.5%;\n}\n\np.tmpl_hh_header__text {\n    margin-bottom: 10px;\n    max-width: 92.5%;\n}\n\n.tmpl_hh_header__logo {\n    position: absolute;\n    right: 32px;\n    top: 32px;\n}\n\n.tmpl_hh_header__photo {\n    position: absolute;\n    bottom: 10.8%;\n    right: 5.2%;\n    width: 41.6%;\n}\n\n.tmpl_hh_items.tmpl_hh_flex {\n    margin: 0 40px 41px;\n    border-radius: 16px;\n    background: #FFF;\n    padding: 31px 31px;\n}\n\n.tmpl_hh_item {\n    width: 30%;\n    font-size: 10px;\n    line-height: 130%;\n}\n\n.tmpl_hh_item__icon {\n    width: 164px;\n    height: 110px;\n    border-radius: 8px;\n    background: #F1F5FF;\n    margin-bottom: 16px;\n}\n\n.tmpl_hh_item b {\n    font-size: 12px;\n    font-weight: 700;\n    line-height: 120%;\n    display: block;\n    margin-bottom: 10px;\n}\n\nstrong.tmpl_hh_strong.tmpl_hh_strong1:before {\n    content: \"\";\n    width: 160px;\n    height: 96px;\n    background: url(https://hhcdn.ru/ichameleon/302645.svg);\n    background-size: cover;\n    position: absolute;\n    bottom: 0;\n    right: 24px;\n}\n\nstrong.tmpl_hh_strong.tmpl_hh_strong2:before {\n    content: \"\";\n    width: 160px;\n    height: 96px;\n    background: url(https://hhcdn.ru/ichameleon/302647.svg);\n    background-size: cover;\n    position: absolute;\n    bottom: 0;\n    right: 24px;\n}\n\nstrong.tmpl_hh_strong.tmpl_hh_strong3:before {\n    content: \"\";\n    width: 160px;\n    height: 96px;\n    background: url(https://hhcdn.ru/ichameleon/302646.svg);\n    background-size: cover;\n    position: absolute;\n    bottom: -3px;\n    right: 24px;\n}\n\nstrong.tmpl_hh_strong {\n    display: block;\n    padding: 20px 184px 20px 24px;\n    border-radius: 8px;\n    background: #E3EAFC;\n    position: relative;\n}\n\n@media screen and (max-width: 1019px) {\n    .tmpl_hh_item__icon {\n        width: 100%;\n        height: 94px;\n    }\n\n    p.tmpl_hh_header__title {\n        font-size: 22px;\n        line-height: 110%;\n        margin-bottom: 14.5%;\n    }\n\n    strong.tmpl_hh_strong.tmpl_hh_strong1:before,\n    strong.tmpl_hh_strong.tmpl_hh_strong2:before,\n    strong.tmpl_hh_strong.tmpl_hh_strong3:before {\n        right: 0;\n    }\n}\n\n@media screen and (max-width: 699px) {\n\n    .tmpl_hh_content {\n        padding: 18px 12px 8px;\n        margin: 15px 16px 16px;\n    }\n\n    .tmpl_hh_content p b, .tmpl_hh_content p strong {\n        margin: 32px 0 16px;\n    }\n\n    .tmpl_hh_content p,\n    .tmpl_hh_content b,\n    .tmpl_hh_content strong {\n        margin: 16px 0 16px;\n    }\n\n    .tmpl_hh_content p+p {\n        margin: 0 0 16px;\n    }\n\n    .tmpl_hh_content b, \n    .tmpl_hh_content strong {\n        font-size: 18px;\n        line-height: 20px;\n    }\n\n    .tmpl_hh_content ol,\n    .tmpl_hh_content ul {\n        margin-left: 14px;\n    }\n\n    .tmpl_hh_content li:before {\n        left: -14px;\n    }\n\n    strong.tmpl_hh_strong {\n        padding: 12px 108px 12px 16px;\n    }\n\n    .tmpl_hh_header {\n        background: url(https://hhcdn.ru/ichameleon/301985.jpg) no-repeat;\n        background-size: cover;\n        margin: 16px 16px 0;\n        border-radius: 12px;\n        padding: 16px 12px 14px 12px;\n        font-size: 10px;\n        line-height: 13px;\n    }\n\n    p.tmpl_hh_header__title {\n        font-size: 18px;\n        line-height: 110%;\n        margin-bottom: 15px;\n    }\n\n    p.tmpl_hh_header__text {\n        margin-bottom: 6px;\n        max-width: 100%;\n    }\n\n    .tmpl_hh_header__logo {\n        position: relative;\n        right: 0;\n        top: 0;\n        width: 96px;\n        margin-bottom: 18px;\n    }\n\n    .tmpl_hh_header__photo {\n        position: relative;\n        bottom: 0;\n        right: 0;\n        left: -2.3%;\n        width: 61.5%;\n        margin: 13px auto 0;\n    }\n\n    .tmpl_hh_items.tmpl_hh_flex {\n        margin: 0 16px 16px;\n        padding: 13px 12px 14px;\n    }\n\n    .tmpl_hh_item {\n        width: 100%;\n        margin-bottom: 21px;\n    }\n\n    .tmpl_hh_item:last-child {\n        margin-bottom: 0;\n    }\n\n    .tmpl_hh_item__icon {\n        width: 100%;\n        height: 120px;\n        border-radius: 8px;\n        margin-bottom: 12px;\n    }\n\n    .tmpl_hh_item b {\n        margin-bottom: 9px;\n    }\n\n    .tmpl_hh_item__icon img {\n        width: auto;\n        height: 100%;\n        margin: 0 auto 0;\n    }\n\n    strong.tmpl_hh_strong.tmpl_hh_strong1:before,\n    strong.tmpl_hh_strong.tmpl_hh_strong2:before,\n    strong.tmpl_hh_strong.tmpl_hh_strong3:before {\n        width: 120px;\n        height: 72px;\n        right: -12px;\n    }\n}\n</style>\n\n<script type=\"text/javascript\">  \n//\n\nfunction DOM_HH_Ready() {\n    function tmpl_hh_list_number(parent) {\n        var list = parent.querySelectorAll('strong');\n\n        for (i = 0; i < list.length; i++) {\n            var template_el = list[i];\n            if(template_el){\n                switch (i % 3) {\n                    case 1:\n                        if (template_el.tagName === 'STRONG') {\n                            template_el.classList.add('tmpl_hh_strong', 'tmpl_hh_strong2');\n                        } else {  \n                            var template_el_el = template_el.querySelector('strong');\n                            if (template_el_el) {\n                                template_el_el.classList.add('tmpl_hh_strong', 'tmpl_hh_strong2');\n                            }\n                        }   \n                    break;\n                    case 2:\n                        if (template_el.tagName === 'STRONG') {\n                            template_el.classList.add('tmpl_hh_strong', 'tmpl_hh_strong3');\n                        } else {  \n                            var template_el_el = template_el.querySelector('strong');\n                            if (template_el_el) {\n                                template_el_el.classList.add('tmpl_hh_strong', 'tmpl_hh_strong3');\n                            }\n                        }   \n                    break;\n                    default:\n                        if (template_el.tagName === 'STRONG') {\n                            template_el.classList.add('tmpl_hh_strong', 'tmpl_hh_strong1');\n                        } else {  \n                            var template_el_el = template_el.querySelector('strong');\n\n                            if (template_el_el) {\n                                template_el_el.classList.add('tmpl_hh_strong', 'tmpl_hh_strong1');\n                            }\n                        }   \n                    }\n                }\n            }\n        }\n\n    var tmpl_hh_list_parent = document.querySelector('.tmpl_hh_content');\n    if (tmpl_hh_list_parent) tmpl_hh_list_number(tmpl_hh_list_parent);\n}\nif (document.readyState === \"loading\") {\n    document.addEventListener(\"DOMContentLoaded\", DOM_HH_Ready);\n} else {\n    DOM_HH_Ready();\n}\n//\n</script>\n\n<div class=\"tmpl_hh_wrapper\">\n    <div class=\"tmpl_hh_header\">\n        <div class=\"tmpl_hh_header__logo\"><img src=\"https://hhcdn.ru/ichameleon/301959.svg\" alt=\"\"></div>\n        <p class=\"tmpl_hh_header__title\">Создавайте инновационные продукты вместе с нами</p>\n        <p class=\"tmpl_hh_header__text\">СберТех — разработчик ПО и главный поставщик решений для Сбера. Мы делаем продукты, которые становятся основой цифровизации крупнейших российских компаний.</p>\n        <p class=\"tmpl_hh_header__text\">Присоединяйтесь к команде, чтобы создавать сложные и эффективные решения, которые меняют представления о российском IT.</p>\n        <div class=\"tmpl_hh_header__photo\"><img src=\"https://hhcdn.ru/ichameleon/301960.svg\" alt=\"\"></div>\n    </div>\n    <div class=\"tmpl_hh_content\">\n        <p>О проекте:</p> <p>Сервис управления параметрами приложений, который позволяет пользователям изменять значения параметров без переустановки приложения, предоставляя для этого удобный интерфейс управления.</p> <p>Функции:</p> <p>- Изоляция параметров приложений по ролевой модели</p> <p>- Импорт значений параметров конфигураций</p> <p>- Изменение значений параметров конфигураций</p> <p>- Динамическое управление конфигурацией в runtime без необходимости перезапуска приложений</p> <p>- Хранение истории и откат на предыдущие значения параметров</p> <p>- Контроль изменений значения параметра конфигурации с подтверждением вторым администратором</p> <p>- Прикладная репликация данных между несколькими БД для обеспечения и надежности хранения данных</p> <p>Команда состоит из архитектора, backend/frontend разработчиков, аналитиков, тестировщиков.</p> <p>Основные библиотеки: Spring Framework</p> <p>Среда разработки: GigaIDE, Intellij IDEA, Visual Studio Code</p> <p>Технологии контейнеризации: OpenShift, Kubernetes</p><h3><strong>Обязанности</strong></h3> <p>Вам предстоит:</p> <p>- разработка высоконагруженных проектов на Java, стеке технологий и компонентов Apache Kafka, Kubernetes</p> <p>- анализ требований и проработка технических решений</p> <p>- рефакторинг существующего кода, проведение code review</p> <p>требования.</p><h3><strong>Требования</strong></h3> <p>Мы ожидаем, что Вы обладаете следующим опытом:</p> <p>- уверенные знания Java 11-21 SE – Core, Collections, Многопоточность (опыт от 4-х лет)</p> <p>- знание Spring Framework 5/6 (IoC, Security, Data, MVC) + Boot</p> <p>- разработка модульных тестов на JUnit</p> <p>- опыт работы в Git, Maven</p> <p>- знание и умение применять паттерны проектирования.</p> <p>Будет плюсом:</p> <p>- опыт работы с серверами приложений</p> <p>- знание Kubernetes/OpenShift</p> <p>- знание SQL, JavaScript, React + Redux, HTML, CSS, Go, Rust</p> <p>- опыт работы с Micronaut Framework</p> <p>- понимание принципов и технологий построения распределенных систем.</p><h3><strong>Условия</strong></h3> <p>Мы предлагаем:</p> <ul> <li>интересные задачи, огромные возможности для обучения и отличную команду</li> <li>стабильный оклад и социальная поддержка сотрудников</li> <li>расширенный ДМС с первого дня работы для сотрудников и льготная медицинская страховка для близких</li> <li>бесплатная подписка СберПрайм+, скидки на продукты компаний-партнеров</li> <li>корпоративная пенсионная программа</li> <li>корпоративное обучение за счет компании</li> <li>реферальная программа для сотрудников: можно пригласить в команду знакомых профессионалов и получить вознаграждение</li> <li>официальное оформление с первого дня</li> <li>корпоративный спортзал и скидки в спортзалы-партнеры.</li> </ul></div>\n    <div class=\"tmpl_hh_items tmpl_hh_flex\">\n        <div class=\"tmpl_hh_item\">\n            <div class=\"tmpl_hh_item__icon\">\n                    <picture>\n                        <source srcset=\"https://hhcdn.ru/ichameleon/301988.svg\" media=\"(max-width: 699px)\"></source>\n                        <img src=\"https://hhcdn.ru/ichameleon/301956.svg\" alt=\"\">\n                    </picture>\n            </div>\n            <p><b>Люди и атмосфера</b> Открыто обсуждаем идеи, учимся друг у друга и на своих ошибках. Помогаем коллегам и ценим вклад каждого.</p>\n        </div>\n        <div class=\"tmpl_hh_item\">\n            <div class=\"tmpl_hh_item__icon\">\n                    <picture>\n                        <source srcset=\"https://hhcdn.ru/ichameleon/301987.svg\" media=\"(max-width: 699px)\"></source>\n                        <img src=\"https://hhcdn.ru/ichameleon/301958.svg\" alt=\"\">\n                    </picture>\n            </div>\n            <p><b>Комьюнити</b> Даем максимум возможностей для взаимодействия: IT bootcamp, митапы, конференции и всегда сильные профессионалы рядом.</p>\n        </div>\n        <div class=\"tmpl_hh_item\">\n            <div class=\"tmpl_hh_item__icon\">\n                    <picture>\n                        <source srcset=\"https://hhcdn.ru/ichameleon/301986.svg\" media=\"(max-width: 699px)\"></source>\n                        <img src=\"https://hhcdn.ru/ichameleon/301957.svg\" alt=\"\">\n                    </picture>\n            </div>\n            <p><b>Развитие</b> У нас много команд и продуктов: базы данных, алгоритмы, искусственный интеллект. Можно найти себе дело по душе или попробовать новое направление.</p>\n        </div>\n    </div>\n</div> \n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "906557",
+    "name": "SberTech",
+    "url": "https://api.hh.ru/employers/906557",
+    "alternate_url": "https://hh.ru/employer/906557",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/773368.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3534363.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3534364.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=906557",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T05:57:01+0300",
+  "created_at": "2025-06-04T05:57:01+0300",
+  "initial_created_at": "2025-06-04T05:57:01+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121312103",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121312103",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

@@ -1,0 +1,163 @@
+{
+  "id": "121275066",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Middle QA Engineer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Рубцовская набережная",
+    "building": "3с1",
+    "lat": 55.776613,
+    "lng": 37.699975,
+    "description": null,
+    "raw": "Москва, Рубцовская набережная, 3с1",
+    "metro": {
+      "station_name": "Бауманская",
+      "line_name": "Арбатско-Покровская",
+      "station_id": "3.17",
+      "line_id": "3",
+      "lat": 55.772405,
+      "lng": 37.67904
+    },
+    "metro_stations": [
+      {
+        "station_name": "Бауманская",
+        "line_name": "Арбатско-Покровская",
+        "station_id": "3.17",
+        "line_id": "3",
+        "lat": 55.772405,
+        "lng": 37.67904
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы — компания <strong>KTS</strong>, разрабатываем и внедряем собственные B2B-продукты, автоматизируем сложные процессы крупных компаний, создаем высоконагруженные игровые веб-сервисы для рекламных кампаний, а также развиваем собственную школу разработки. Нас уже больше <strong>180 человек</strong>, и мы продолжаем расти!</p> <p>Ищем <strong>Manual QA Engineer</strong> в команду, которая разрабатывает корпоративные веб- и мобильные сервисы.</p> <p><strong>Требования:</strong></p> <ul> <li> <p>Опыт работы в QA <strong>от 2 лет</strong>;</p> </li> <li> <p>Уверенное владение Postman и прокси-снифферами;</p> </li> <li> <p>Опыт работы с BrowserStack и кросс-браузерным тестированием;</p> </li> <li> <p>Навыки администрирования проектов в TMS;</p> </li> <li> <p>Глубокое понимание теории тестирования и умение применять её на практике;</p> </li> <li> <p>Опыт менторства или наставничества других QA;</p> </li> <li> <p>Умение составлять понятную и структурированную документацию для QA (понимание её важности);</p> </li> <li> <p>Способность самостоятельно решать проблемы и предлагать улучшения в процессах тестирования.</p> </li> </ul> <strong>Будет плюсом:</strong> <ul> <li> <p>Опыт тестирования мобильных приложений;</p> </li> <li> <p>Знакомство с Django Admin.</p> </li> </ul> <strong>Условия:</strong> <ul> <li> <p>Официальное трудоустройство по ТК РФ;</p> </li> <li> <p>ДМС (включая стоматологию) после испытательного срока;</p> </li> <li> <p>Гибридный или полностью удалённый формат работы;</p> </li> <li> <p>Гибкий график начала дня — с 9:00 до 11:00 по МСК;</p> </li> <li> <p>Корпоративная скидка на изучение английского в Skyeng;</p> </li> <li> <p>Система наставничества и прозрачный план карьерного роста;</p> </li> <li> <p>Уютный офис на Бауманской с летней верандой и потрясающим видом на Москву (а ещё — крутые тусовки на крыше!).</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Postman"
+    },
+    {
+      "name": "Регрессионное тестирование"
+    },
+    {
+      "name": "Test IT"
+    },
+    {
+      "name": "TMS"
+    },
+    {
+      "name": "Методология тестирования"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3202190",
+    "name": "KTS",
+    "url": "https://api.hh.ru/employers/3202190",
+    "alternate_url": "https://hh.ru/employer/3202190",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1001392.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5626348.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5626349.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3202190",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T11:27:25+0300",
+  "created_at": "2025-06-03T11:27:25+0300",
+  "initial_created_at": "2025-06-03T11:27:25+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121275066",
+  "has_test": true,
+  "test": {
+    "required": true
+  },
+  "alternate_url": "https://hh.ru/vacancy/121275066",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

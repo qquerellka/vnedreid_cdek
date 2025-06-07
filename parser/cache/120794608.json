@@ -1,0 +1,156 @@
+{
+  "id": "120794608",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер комплексной автоматизации",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "72",
+    "name": "Пермь",
+    "url": "https://api.hh.ru/areas/72"
+  },
+  "salary": {
+    "from": 100000,
+    "to": 130000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": 130000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "провинция Мерсин",
+    "street": null,
+    "building": null,
+    "lat": 36.794484,
+    "lng": 34.614055,
+    "description": null,
+    "raw": "провинция Мерсин",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Приглашаем кандидатов на вакансию Консультант-аналитик 1С (инженер комплексной автоматизации) на строительную площадку АЭС Аккую (Турция) - самую большую стройку в мире!<br />Жми откликнуться, мы ждем именно тебя!</strong></p> <p><strong>Обязанности:</strong></p> <ul> <li>Коммуникация с командой ключевых пользователей (строительный участок) для сбора функциональных требований (как в письменном формате, так и в устном), так и с командой разработки для реализации согласованных требований;</li> <li>Тестирование разработанного функционала согласно требованиям;</li> <li>Консультировать, обучать, сопровождать пользователей по типовому функционалу 1С Комплексная автоматизация;</li> <li>Собирать, уточнять и формализовывать запросы пользователей;</li> <li>При необходимости ставить задачи программистам на основе запросов пользователей;</li> <li>Анализ работы пользователей, выявление некорректного поведения системы;</li> <li>Оказание консультаций по разработанному функционалу пользователям системы. Отработка обращений по ошибкам системы.</li> </ul> <strong>Требования:</strong> <ul> <li> <p>Опыт работы консультантом/аналитиком 1С по управленческим блокам (закупки, продажи, склад) от 6 месяцев;</p> </li> <li> <p>Знание нотации проектирования бизнес-процессов;</p> </li> <li> <p>Умение работать с внешними отчетами и обработками;</p> </li> <li> <p>Знание механизмов платформы 1С: Предприятие 8.3 (либо работа с другими системами на платформе 1С);</p> </li> <li> <p>Знания строительной специфики или сметного дела;</p> </li> <li> <p>Аналитическое мышление, гибкий подход к решению поставленных задач, умение быстро осваивать новую информацию и применять ее на практике;</p> </li> <li> <p>Грамотная устная и письменная речь. Умение настраивать коммуникацию и поддерживать корпоративную культуру.</p> </li> </ul> <strong>Условия:</strong> <ul> <li> <p>Адрес: провинция Мерсин, строительная площадка АЭС АККУЮ.</p> <p>График: с 08:00 по 18:00 с часовым перерывом на обед между 12:00 и 13:00.</p> </li> <li> <p>Готовность к переезду в Турцию.</p> </li> <li> <p>Перелет, служебные квартиры, обеды предоставляем. </p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "1С: Комплексная автоматизация"
+    },
+    {
+      "name": "Автоматизация процессов"
+    },
+    {
+      "name": "Консультирование пользователей"
+    },
+    {
+      "name": "Документирование бизнес-требований"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "114",
+      "name": "Системный инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2536624",
+    "name": "ИнСетКом",
+    "url": "https://api.hh.ru/employers/2536624",
+    "alternate_url": "https://hh.ru/employer/2536624",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/438482.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/2195895.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/2195896.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2536624",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-21T08:59:40+0300",
+  "created_at": "2025-05-21T08:59:40+0300",
+  "initial_created_at": "2025-05-21T08:59:40+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120794608",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120794608",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_9",
+      "name": "9 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

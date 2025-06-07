@@ -1,0 +1,176 @@
+{
+  "id": "120414857",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 220000,
+    "to": 320000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 220000,
+    "to": 320000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Проекты: </strong>Банковский сектор, в целом нужно усиление в виде аналитика в команду Департамента банковского ПО.</p> <p>Так же есть проекты небанковского сектора!<br /><br /><strong>Описание проектов: </strong></p> <ul> <li>Заказная разработка по финансовым рынкам (ценные бумаги, ПФИ, налоги по сделкам с ценными бумагами, межбанковские кредиты) под крупного клиента.</li> <li>Увеличение продуктивности кредитных сотрудников и качества ключевых аналитических материалов за счет автоматизации и внедрения элементов искусственного интеллекта</li> <li>Развитие основной Retail системы сети магазинов. Система выполняет комплексную автоматизацию розничных магазинов Заказчика и полностью охватывает все торговые процессы деятельности сети.</li> </ul> <p> </p> <p><strong>Обязанности/функционал:</strong></p> <ul> <li>Знание предметной области кредитных продуктов</li> <li>Написание функциональных требований, ТЗ на реализацию функционала, постановка задач для разработчиков;</li> <li>Разбираться в смежных бизнес-процессах и принимать участие в в приемке смежного функционала;</li> <li>Согласовывать интеграционные требования со смежными командами и системами;</li> <li>Документировать спецификации к продукту команды;</li> <li>Верфицировать тестовые сценарии;</li> <li>Участвовать в тестировании и демонстрации готового продукта и проведении ПСИ.</li> </ul> <p><strong>Требования/необходимый опыт:</strong></p> <ul> <li>Знания предметной области по финансовым рынкам для банковских проектов (ценные бумаги, векселя, производные инструменты, депозитарий, межбанковское кредитование), бухгалтерского и налогового учета в банках, отчетности проф.участника;</li> <li>Знания основных бизнес-процессов банка по направлению финансовых рынков;</li> <li>Опыт формализации требований к ПО (бизнес-требования, сценарии (use-case), функциональные и нефункциональные требования, детальные постановки для разработчиков), на основе пожеланий заказчика и концепции архитектора;</li> <li>Опыт применения нотаций моделирования (UML Sequence diagram, BPMN);</li> <li>Опыт разработки всевозможных выборок из различных источников;</li> <li>Опыт в части проектирования и интеграции систем в SOAP архитектуре (REST API, JSON);</li> <li>Опыт моделирования схем баз данных, знание SQL для простых запросов (PostgreSQL, Oracle);</li> <li>Управление требованиями (Confluence), задачами (Jira), валидация тест-кейсов;</li> <li>Грамотная письменная и устная речь, хорошие коммуникативные навыки;</li> <li>Понимание и опыт работы с применением гибких методологий разработки.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Уровень оплаты обсуждается после собеседования (заработная плата полностью &quot;белая&quot; без задержек и опозданий);</li> <li>Оформление по Трудовому Кодексу РФ (так же сотрудничаем с Индивидуальными Предпринимателями);</li> <li>Работа <strong>удаленно</strong> по Московскому времени;</li> <li>График работы 5/2, с 09.00 до 18.00 (возможен сдвиг на более раннее или позднее время по согласованию с командой);</li> <li>Работа в команде профессионалов, с возможностью карьерного и профессионального роста;</li> <li>Приятная бонусная система;</li> <li>Веселые корпоративы;</li> <li>Персональный менеджер, который решит все вопросы за Вас :)</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "SOAP"
+    },
+    {
+      "name": "BPMN"
+    },
+    {
+      "name": "UML Sequence diagram"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "JSON API"
+    },
+    {
+      "name": "СУБД"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "ORACLE"
+    },
+    {
+      "name": "UML"
+    },
+    {
+      "name": "Системный анализ"
+    },
+    {
+      "name": "Работа с базами данных"
+    },
+    {
+      "name": "Базы данных"
+    },
+    {
+      "name": "Atlassian Confluence"
+    },
+    {
+      "name": "Анализ данных"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "148",
+      "name": "Системный аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2718944",
+    "name": "Джетлин",
+    "url": "https://api.hh.ru/employers/2718944",
+    "alternate_url": "https://hh.ru/employer/2718944",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/820340.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3722247.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3722248.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2718944",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-12T14:29:13+0300",
+  "created_at": "2025-05-12T14:29:13+0300",
+  "initial_created_at": "2025-05-12T14:29:13+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120414857",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120414857",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

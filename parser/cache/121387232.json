@@ -1,0 +1,162 @@
+{
+  "id": "121387232",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Manual QA (junior/middle)/ Ручной тестировщик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 40000,
+    "to": 60000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 40000,
+    "to": 60000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Королёв",
+    "street": "улица Фрунзе",
+    "building": "1А",
+    "lat": 55.924941,
+    "lng": 37.826404,
+    "description": null,
+    "raw": "Королёв, улица Фрунзе, 1А",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": false,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "Проект: bill4you.ru – официальная платформа Федерации Бильярдного Спорта России<br /><br /><strong>Обязанности:</strong> <ul> <li>Ручное тестирование входящих задач</li> <li>Проверка и актуализация багов (воспроизведение, логирование, поддержка актуального статуса)</li> <li>Работа с системой баг-трекинга</li> </ul> <strong>Требования:</strong> <ul> <li>Опыт работы тестировщиком от 6 месяцев</li> <li>Знание теории тестирования и техник тест-дизайна</li> <li>Знание и опыт разработки тестовой документации: баг-репортов, тест-кейсов, чек-листов и тест-планов</li> <li>Опыт работы в системах управления тестированием: Test Rail, TestIt, Zephyr, AIO Test и другие</li> <li>Уверенное владение Git: уметь клонировать репозиторий, переключаться между ветками, пушить изменения</li> <li>Опыт работы с Docker: запуск контейнеров, понимание базовых команд</li> <li>Опыт работы с Postman</li> <li>Уверенное владение SQL</li> <li>Хорошее представление о том, как устроен Web и HTML</li> <li>Высшее или среднее техническое образование желательно</li> <li>Пройденные курсы по тестированию, подтвержденные сертификатами будут преимуществом<br /><br /><strong>Качества:</strong></li> <li>Самостоятельность</li> <li>Готовность принимать решения и нести за них ответственность</li> <li>Потенциал развиваться: интерес к автотестам, готовность перейти на другие проекты в будущем</li> <li>Интерес к спортивной тематике</li> <li>Понимание турнирных сеток в спорте: групповые, плей-офф, круговые — важно для погружения в проект</li> <li>Внимательность к мелочам, системное мышление и умение/желание погрузиться в предметную область</li> </ul> <strong>Условия:</strong> <ul> <li>Официальное трудоустройство, полную занятость</li> <li>Удалённую работу, график 5/2 с 9 до 18 по мск</li> <li>Компенсация 50% стоимости абонемента в фитнес-клуб</li> <li>ДМС с клиниками по всей России, госпитализация, стоматология, круглосуточная онлайн-доступность врачей</li> <li>Корпоративная скидка на английский язык в Skyeng</li> <li>Возможность участвовать в длительных (больше года) проектах, достаточно сложных и требующих профессионализма и дальнейшего развития</li> <li>boost by request - всегда возможность сменить проект &quot;без смены компании&quot;, чтобы получить новый опыт в технологиях, процессах разработки</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Ручное тестирование"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Исправление багов"
+    },
+    {
+      "name": "TestRail"
+    },
+    {
+      "name": "Atlassian Confluence"
+    },
+    {
+      "name": "Atlassian Jira"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2525248",
+    "name": "Андагар",
+    "url": "https://api.hh.ru/employers/2525248",
+    "alternate_url": "https://hh.ru/employer/2525248",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1331905.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6947638.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6947639.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2525248",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T14:45:15+0300",
+  "created_at": "2025-06-05T14:45:15+0300",
+  "initial_created_at": "2025-06-05T14:45:15+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121387232",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121387232",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

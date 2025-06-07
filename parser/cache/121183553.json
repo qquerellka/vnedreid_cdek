@@ -1,0 +1,143 @@
+{
+  "id": "121183553",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Senior Backend-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 307001,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 307001,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Привет</strong></p> <p>Меня зовут Давид Арутюнян, я основатель whyme.agency — команды, которая разрабатывает цифровые продукты партнерам и клиентам.</p> <p>Ищем Senior backend-разработчика для SaaS-продукта</p> <p><span>Удаленная работа</span>, асинхронные коммуникации, полная вовлеченность.<br />Умение держать высокий темп разработки, ожи<span>дани</span>я сформированы текущей командой талантливых разработчиков.<br />Backend: PHP (Symfony), OpenAPI.</p> <p> </p> <h2>Кто мы и чем занимаемся</h2> <p>Мы — опытная и технически сильная команда, которая<span> 18 лет</span> последовательно развивается и строит собственный путь.<br />• Считаем себя партнерами наших клиентов<br />• <span>В 2025 году</span> мы подписали контракт на разработку SaaS-продукта, в котором наша команда имеет опцион, а объем инвестирования позволяет конкурировать с лидерами рынка</p> <p> </p> <h2>Стек</h2> <p>• Backend: PHP (Symfony), OpenAPI</p> <p> </p> <h2>Что ты будешь делать?</h2> <p>В течение первого года тебе предстоит пробежать много спринтов, разобраться в наших стандартах/коде. Если ты привык к модным ежедневным митингам и другим «командным ритуалам», где принято аплодировать - не наш формат. Планерки проводятся для повышения результативности в коммуникациях, остальные потребности закрываются корпоративными мероприятиями. Среди основателей - разработчики, которые когда-то ч<span>итали</span> такое же объявление. И они не терпят халтуры.<br /><br />Также мы активно развиваем внутренние продукты оптимизации бизнеса:<br />• ERP-система: финансы, контракты и планирование прибыли, трекинг задач, <span>авто</span>матические отчёты, боты,<br />• CMS для enterprise ecommerce<br />• Система seo-аналитики и конкурентного анализа<br />• Таймтрекер и <span>авто</span>матизированная отчетность</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Микросервисная архитектура"
+    },
+    {
+      "name": "Рефакторинг кода"
+    },
+    {
+      "name": "PHP"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9894434",
+    "name": "WHYME.agency",
+    "url": "https://api.hh.ru/employers/9894434",
+    "alternate_url": "https://hh.ru/employer/9894434",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1121225.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6105493.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6105494.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9894434",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-30T19:41:40+0300",
+  "created_at": "2025-05-30T19:41:40+0300",
+  "initial_created_at": "2025-05-30T19:41:40+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121183553",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121183553",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

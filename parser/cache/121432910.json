@@ -1,0 +1,196 @@
+{
+  "id": "121432910",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "HTML - верстальщик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 70000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 70000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "5 линия",
+    "building": "метро Обводный канал",
+    "lat": 59.914714,
+    "lng": 30.349699,
+    "description": null,
+    "raw": "Санкт-Петербург, 5 линия, метро Обводный канал",
+    "metro": {
+      "station_name": "Звенигородская",
+      "line_name": "Фрунзенско-Приморская",
+      "station_id": "18.251",
+      "line_id": "18",
+      "lat": 59.92065,
+      "lng": 30.329599
+    },
+    "metro_stations": [
+      {
+        "station_name": "Звенигородская",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.251",
+        "line_id": "18",
+        "lat": 59.92065,
+        "lng": 30.329599
+      },
+      {
+        "station_name": "Лиговский проспект",
+        "line_name": "Лахтинско-Правобережная",
+        "station_id": "17.239",
+        "line_id": "17",
+        "lat": 59.920811,
+        "lng": 30.355055
+      },
+      {
+        "station_name": "Обводный Канал",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.252",
+        "line_id": "18",
+        "lat": 59.914686,
+        "lng": 30.34815
+      },
+      {
+        "station_name": "Пушкинская",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.201",
+        "line_id": "14",
+        "lat": 59.92065,
+        "lng": 30.329599
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>EPC Hunters </strong>— ведущие эксперты в арбитраже трафика, помогаем бизнесам расти и процветать через точные стратегии, размещая рекламные объявления в различных источниках.</p> <p>Сейчас мы в поисках талантливого <strong>HTML- верстальщика.</strong><br /><br />Обладаешь знаниями HTML, CSS и JS? Мы готовы с тобой пообщаться!</p> <p><strong>Чем тебе предстоит заниматься:</strong></p> <ul> <li>работать с лендингами (изменение, редактирование уже готовых шаблонов);</li> <li>загружать лендинги в трекер;</li> <li>поддерживать коммуникацию в продакшн отделе;</li> <li>дружить с дедлайнами.</li> </ul> <p><strong>Твоим преимуществом будет:</strong></p> <ul> <li>базовое владение photoshop.</li> <li>адекватное отношение к монотонной работе.</li> <li>способность самостоятельно выстраивать тайм-менеджмент в своей деятельности.</li> </ul> <p><br /><strong>Что мы предлагаем:</strong></p> <ul> <li><strong>З/п:</strong> первый месяц 60.000 руб на руки, далее от 70.000 руб в мес на руки + примии;</li> <li><strong>График работы:</strong> с 12:00 до 20:00 по Мск (5х2);</li> <li><strong>Удалённый формат работы;</strong></li> <li>Комфортный коллектив с чувством юмора и готовностью прийти на помощь.</li> </ul> <p><strong>Ждём твой отклик!</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "Верстка сайтов"
+    },
+    {
+      "name": "Верстка"
+    },
+    {
+      "name": "JavaScript"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11065321",
+    "name": "EPC Hunters (ООО Тит)",
+    "url": "https://api.hh.ru/employers/11065321",
+    "alternate_url": "https://hh.ru/employer/11065321",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1275536.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6722446.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6722447.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11065321",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T18:49:56+0300",
+  "created_at": "2025-06-06T18:49:56+0300",
+  "initial_created_at": "2025-06-06T18:49:56+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121432910",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121432910",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

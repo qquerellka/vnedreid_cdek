@@ -1,0 +1,156 @@
+{
+  "id": "120630716",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист по промышленной безопасности",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 62000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 62000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "Тагильская улица",
+    "building": "2",
+    "lat": 56.861707,
+    "lng": 60.592255,
+    "description": null,
+    "raw": "Екатеринбург, Тагильская улица, 2",
+    "metro": {
+      "station_name": "Уральская",
+      "line_name": "Север-Юг",
+      "station_id": "48.264",
+      "line_id": "48",
+      "lat": 56.858056,
+      "lng": 60.600816
+    },
+    "metro_stations": [
+      {
+        "station_name": "Уральская",
+        "line_name": "Север-Юг",
+        "station_id": "48.264",
+        "line_id": "48",
+        "lat": 56.858056,
+        "lng": 60.600816
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Свердловский тепловозоремонтный завод, являющийся частью </strong><strong>холдинга &quot;Синара - Транспортные Машины&quot; (машиностроительный дивизион Группы Синара), </strong><strong>основан в 1934 году. Основным видом деятельности является проведение ремонта тепловозов 2ТЭ-116, ТЭМ-7.</strong></p> <p><strong><em>В данный момент мы находимся в поисках Специалиста по промышленной безопасности. </em></strong></p> <strong>Требования:</strong> <ul> <li>высшее образование (техносферная безопасность) или профпереподготовка в области охраны труда;</li> <li>опыт работы в аналогичной должности от 1 года;</li> <li>иметь аттестацию в области промбезопасности, электробезопасности, по работе на высоте и пожарно-технический минимум.</li> </ul> <p><strong><strong>Условия:</strong></strong></p> <ul> <li>официальное трудоустройство согласно ТК РФ c первого дня работы;</li> <li>социальный пакет в соответствии с ТК РФ;</li> <li>график работы: 5\\2, 7.30-16.15, 08.00 - 16.45;</li> <li>удобная транспортная доступность;</li> <li>компенсация проезда для иногородних;</li> <li>работа на стабильном, развивающемся предприятии одного из крупнейших машиностроительных холдингов;</li> <li>стабильная заработная плата без задержек. Выплачивается 2 раза в месяц.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "116",
+      "name": "Специалист по информационной безопасности"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "619245",
+    "name": "Свердловский ПРМЗ-Ремпутьмаш",
+    "url": "https://api.hh.ru/employers/619245",
+    "alternate_url": "https://hh.ru/employer/619245",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1274751.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6719306.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6719307.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=619245",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-22T13:21:35+0300",
+  "created_at": "2025-05-22T13:21:35+0300",
+  "initial_created_at": "2025-05-16T12:50:22+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120630716",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120630716",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

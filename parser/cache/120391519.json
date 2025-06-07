@@ -1,0 +1,147 @@
+{
+  "id": "120391519",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Java Developer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "Советский район, микрорайон Академгородок, улица Гнесиных",
+    "building": "10/1",
+    "lat": 54.87043,
+    "lng": 83.087786,
+    "description": null,
+    "raw": "Новосибирск, Советский район, микрорайон Академгородок, улица Гнесиных, 10/1",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>! Удалённая работа по данной вакансии не подразумевается.</strong></p> <p> </p> <p>Компания ScaleApps оказывает услуги по проектированию и разработке высоконагруженных веб-приложений, проектированию и разработке высоконагруженных API для мобильных приложений.</p> <p>Наша команда уже много лет занимается разработкой и поддержкой web e-commerce систем для спортивной отрасли стран Европы. Это продажа билетов на спортивные события, ведение реестров спортсменов и их результатов, система для благотворительных организаций.</p> <p>Неформальное общение, частые обсуждения технических новинок и новых методов в разработке дадут вам не только новый опыт, но и возможность развиваться как специалист с широким кругозором.</p> <p> </p> <p><strong>Данная вакансия для специалистов Middle/Middle+ уровня. </strong></p> <p>Работа в офисе в Академгородке.</p> <p><strong>Обязанности:</strong></p> <ul> <li>Разработка нового кода, поддержка существующего кода на Java</li> <li>Код ревью задач других разработчиков, юнит тесты и другие задачи по обеспечению качества кода</li> <li>Обсуждения решений и помощь другим разработчикам</li> </ul> <strong>Требования:</strong> <ul> <li><strong>Высшее или незаконченное высшее техническое образование</strong></li> <li>Отличное знание Core Java, ООП,</li> <li>Владение Spring Framework, Hibernate</li> <li>Знание SQL</li> <li>Базовые знания web-технологий: html, css, javascript</li> <li>Владение Maven, Git</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт работы с сервисами AWS, и в целом наличие опыта в DevOps</li> <li>Хорошее знание английского языка</li> <li>Опыт коммерческой разработки или участие в open-source проектах</li> <li>Опыт работы с Vue.js</li> </ul> <strong>Условия:</strong> <ul> <li>Официальное трудоустройство в аккредитованной ИТ компании</li> <li>Конкурентная заработная плата</li> <li>Гибкий график работы</li> <li>Офис в академгородке г. Новосибирска</li> <li>Чай-кофе, печеньки и фрукты</li> <li>Корпоративный английский</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Java"
+    },
+    {
+      "name": "Spring Framework"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Hibernate ORM"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2722874",
+    "name": "ScaleApps",
+    "url": "https://api.hh.ru/employers/2722874",
+    "alternate_url": "https://hh.ru/employer/2722874",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/891760.png",
+      "90": "https://img.hhcdn.ru/employer-logo/4007727.png",
+      "240": "https://img.hhcdn.ru/employer-logo/4007728.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2722874",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-12T10:56:25+0300",
+  "created_at": "2025-05-12T10:56:25+0300",
+  "initial_created_at": "2025-05-12T10:56:25+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120391519",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120391519",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b1",
+        "name": "B1 — Средний"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

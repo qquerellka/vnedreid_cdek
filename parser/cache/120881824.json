@@ -1,0 +1,157 @@
+{
+  "id": "120881824",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Казань",
+    "street": "Петербургская",
+    "building": "52",
+    "lat": 55.78041573278,
+    "lng": 49.1333124227822,
+    "description": null,
+    "raw": "Казань, Петербургская, 52",
+    "metro": {
+      "station_name": "Суконная слобода",
+      "line_name": "Центральная",
+      "station_id": "49.274",
+      "line_id": "49",
+      "lat": 55.777094,
+      "lng": 49.142275
+    },
+    "metro_stations": [
+      {
+        "station_name": "Суконная слобода",
+        "line_name": "Центральная",
+        "station_id": "49.274",
+        "line_id": "49",
+        "lat": 55.777094,
+        "lng": 49.142275
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>В Центр цифровой трансформации РТ – государственную IT-компанию, направленную на улучшение качества жизни жителей Республики через цифровизацию электронных сервисов, требуется <strong>системный аналитик</strong>! Если хочешь стать частью команды, работающей над инновационными проектами в области цифровой модернизации, то тебе к нам!</p> <strong>Обязанности:</strong> <ol> <li> <p>Анализ и проектирование систем управления данными:</p> </li> </ol> <ul> <li> <p>Исследование и сравнение ПО/open-source решений (Data Catalog, MDM, DQ-инструменты);</p> </li> <li> <p>Разработка ТЗ, технических требований и проектной документации для DWH, Data Lake и ETL-процессов;</p> </li> <li> <p>Проектирование логических и физических моделей данных (ERwin, DBeaver), схем интеграции (REST/SOAP/GraphQL).</p> </li> </ul> <p>2. Data Governance и качество данных:</p> <ul> <li> <p>Наполнение и администрирование Бизнес-глоссария и Каталога данных;</p> </li> <li> <p>Классификация данных (PII, коммерческие, открытые) и контроль политик доступа (ФЗ-152);</p> </li> <li> <p>Разработка правил Data Quality (мониторинг дубликатов, аномалий, контроль метаданных).</p> </li> </ul> <p>3. Интеграция и регуляторика:</p> <ul> <li> <p>Анализ API федеральных/региональных систем (ГИС ЖКХ, ФНС, «Госуслуги») для проектов цифровизации;</p> </li> <li> <p>Участие в разработке политик управления данными (Data Ownership, Retention Policy);</p> </li> <li> <p>Поддержка соответствия требованиям ФЗ-152, 44-ФЗ</p> </li> </ul> <p>4. Тестирование и мониторинг:</p> <ul> <li> <p>Разработка методик приемочных испытаний (тест-кейсы для ETL, нагрузочное тестирование);</p> </li> <li> <p>Настройка алертов при отклонениях от SLA (Prometheus, Grafana).</p> </li> </ul> <p>5. Обучение и сопровождение:</p> <ul> <li> <p>Проведение воркшопов по правилам работы с данными для команд;</p> </li> <li> <p>Документирование процессов (Confluence, Swagger).</p> </li> </ul> <p><strong>Требования:</strong></p> <ul> <li> <p>Навыки проектирование БД (PostgreSQL, Greenplum), знание нормализации;</p> </li> <li> <p>Навыки проектирования API (REST, SOAP, OpenAPI);</p> </li> <li> <p>Умение работать с метаданными и документацией (ER-диаграммы, UML, idef0, BPMN);</p> </li> <li> <p>Понимание процессов разработки ПО (цикл SDLC, модели и методологии);</p> </li> <li> <p>Навыки составления запросов SQL (оконные функции, оптимизация запросов).</p> </li> </ul> <p><em>Дополнительные навыки (приветствуются):</em></p> <ul> <li> <p>Опыт работы в проектах Data Governance, DWH, интеграция ИС;</p> </li> <li> <p>Знание ETL/ELT-процессов (dbt, Talend, apache airflow);</p> </li> <li> <p>Знание Data Governance-инструментов (Informatica, Collibra, Alation, Apache Atlas);</p> </li> <li> <p>Базовые навыки Python/Pandas для анализа данных;</p> </li> <li> <p>Участие в импортозамещении (миграция с Oracle на Postgres Pro).</p> </li> </ul> <strong>Условия:</strong> <ul> <li> <p>Современный оборудованный офис в центре города (ИТ-парк);</p> </li> <li> <p>График работы 5/2: стандартно с 9:00 до 18:00, но есть возможность гибкого утра (с 8:00-10:00) по договоренности с руководителем;</p> </li> <li> <p>Официальное трудоустройство, стабильная «белая» заработная плата (выплаты 2 раза в месяц);</p> </li> <li> <p>Заработная плата согласовывается по итогам собеседования с успешным кандидатом;</p> </li> <li> <p><strong>Офисный</strong> формат работы;</p> </li> <li> <p>Работа в молодом коллективе профессионалов;</p> </li> <li> <p>Поддержка наставника на адаптационный период;</p> </li> <li> <p>Активная корпоративная жизнь: тренинги, корпоративы за счет организации и другие различные мероприятия;</p> </li> <li> <p>А также все для твоего комфортного пребывания на рабочем месте: кофемашина, оборудованная комната отдыха и зона приема пищи, сладости, фрукты от организации в конце недели.</p> </li> </ul> <p><strong>Оставляй свой отклик, и мы обязательно рассмотрим твое резюме!</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Работа с базами данных"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "API"
+    },
+    {
+      "name": "UML"
+    },
+    {
+      "name": "BPML"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "148",
+      "name": "Системный аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4873921",
+    "name": "ГКУ «Центр цифровой трансформации РТ»",
+    "url": "https://api.hh.ru/employers/4873921",
+    "alternate_url": "https://hh.ru/employer/4873921",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/780237.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3561839.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3561840.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4873921",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-22T17:47:33+0300",
+  "created_at": "2025-05-22T17:47:33+0300",
+  "initial_created_at": "2025-05-22T17:47:33+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120881824",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120881824",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,202 @@
+{
+  "id": "121206377",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Frontend-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": null,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Варшавское шоссе",
+    "building": "1с6",
+    "lat": 55.703875,
+    "lng": 37.623905,
+    "description": null,
+    "raw": "Москва, Варшавское шоссе, 1с6",
+    "metro": {
+      "station_name": "Верхние Котлы",
+      "line_name": "МЦК",
+      "station_id": "95.532",
+      "line_id": "95",
+      "lat": 55.69,
+      "lng": 37.618889
+    },
+    "metro_stations": [
+      {
+        "station_name": "Верхние Котлы",
+        "line_name": "МЦК",
+        "station_id": "95.532",
+        "line_id": "95",
+        "lat": 55.69,
+        "lng": 37.618889
+      },
+      {
+        "station_name": "ЗИЛ",
+        "line_name": "МЦК",
+        "station_id": "95.531",
+        "line_id": "95",
+        "lat": 55.698333,
+        "lng": 37.648333
+      },
+      {
+        "station_name": "Тульская",
+        "line_name": "Серпуховско-Тимирязевская",
+        "station_id": "9.142",
+        "line_id": "9",
+        "lat": 55.70961,
+        "lng": 37.622569
+      },
+      {
+        "station_name": "Шаболовская",
+        "line_name": "Калужско-Рижская",
+        "station_id": "6.157",
+        "line_id": "6",
+        "lat": 55.718828,
+        "lng": 37.607892
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Frontend-разработчик</strong></p> <p>Мы ищем талантливого Frontend-разработчика, который поможет нам воплотить в жизнь самые смелые идеи!</p> <p><strong>Обязанности:</strong></p> <ul> <li>Разработка и поддержка пользовательских интерфейсов с использованием React.</li> <li>Взаимодействие с командой дизайнеров и бэкенд-разработчиков для создания целостного продукта.</li> <li>Оптимизация производительности приложений и обеспечение их кроссбраузерной совместимости.</li> <li>Участие в код-ревью и обсуждении архитектурных решений.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Опыт работы с React от 1 года.</li> <li>Знание HTML, CSS и JavaScript.</li> <li>Понимание принципов адаптивной и кроссбраузерной верстки.</li> <li>Умение работать с системами контроля версий (например, Git).</li> <li>Желание учиться и развиваться в команде профессионалов.</li> </ul> <p><strong>Условия и преимущества:</strong></p> <ul> <li>Гибкий формат работы: на месте работодателя, удалённо или гибридно.</li> <li>Пятидневная рабочая неделя с 8-часовым рабочим днём.</li> <li>Возможности для профессионального роста и обучения.</li> <li>Дружный коллектив и поддержка на всех этапах работы.</li> </ul> <p><strong>О компании:</strong> Мы занимаемся заказной разработкой программного обеспечения и стремимся создавать продукты, которые делают жизнь пользователей проще и удобнее. Присоединяйтесь к нашей команде и станьте частью чего-то великого!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "React"
+    },
+    {
+      "name": "CSS"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9653000",
+    "name": "AG Soft",
+    "url": "https://api.hh.ru/employers/9653000",
+    "alternate_url": "https://hh.ru/employer/9653000",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9653000",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T09:50:12+0300",
+  "created_at": "2025-06-02T09:50:12+0300",
+  "initial_created_at": "2025-06-02T09:50:12+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121206377",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121206377",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

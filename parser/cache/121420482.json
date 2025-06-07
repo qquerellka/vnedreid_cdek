@@ -1,0 +1,143 @@
+{
+  "id": "121420482",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 170000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 170000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Береговой проезд",
+    "building": "4/6с3",
+    "lat": 55.757364,
+    "lng": 37.503702,
+    "description": null,
+    "raw": "Москва, Береговой проезд, 4/6с3",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Наше предложение:</strong> <ul> <li>Обучение и адаптация на рабочем месте;</li> <li>График работы 5/2 (стандартные выходные);</li> <li>Возможность карьерного развития;</li> <li>Коллектив крутых профессионалов.</li> </ul> <p><strong>Чем предстоит заниматься:</strong></p> <p>-Установка и настройка операционных систем и прикладного ПО.<br />-Диагностика и устранение проблем с аппаратной и программной частью рабочих станций.<br />-Мониторинг и поддержка работы принтеров, сканеров и других периферийных устройств.<br />-Консультирование пользователей по вопросам работы с программным обеспечением и оборудованием.<br />-Поддержка работы локальной сети: проверка подключения, диагностика сетевых проблем.<br />-Регистрация новых пользователей, создание учётных записей и паролей;<br />-Диагностика и устранение проблем с телефонией, администрирование телефонии.</p> <p><strong>Наши пожелания:</strong></p> <p><strong>- </strong>Среднее специальное или высшее образование в области IT или технических наук;<br />-Базовые знания в области администрирования операционных систем;<br />-Знания основ сетевого администрирования и информационной безопасности;<br />-Опыт работы с технической поддержкой пользователей;<br />-Способность решать технические задачи и работать в команде.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1994048",
+    "name": "Независимость",
+    "url": "https://api.hh.ru/employers/1994048",
+    "alternate_url": "https://hh.ru/employer/1994048",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1423662.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7314297.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7314298.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1994048",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T13:36:12+0300",
+  "created_at": "2025-06-06T13:36:12+0300",
+  "initial_created_at": "2025-06-06T13:36:12+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121420482",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121420482",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,148 @@
+{
+  "id": "121081822",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Middle React Developer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": null,
+    "to": 165000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 165000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "улица Якубовича",
+    "building": "24",
+    "lat": 59.931733,
+    "lng": 30.296914,
+    "description": null,
+    "raw": "Санкт-Петербург, улица Якубовича, 24",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Привет! Мы - R<strong>osDev,и мы оказываем качественный IT-аутсорсинг с душой.</strong></p> <p>Мы — небольшая команда профессионалов, успешно реализовавшая более 50 проектов, охватывающих широкий спектр направлений,от банковской безопасности и шифрования до разработки уникальных систем для стартапов. Мы гордимся тем, что наши решения помогают бизнесу раскрывать свой потенциал, используя передовые технологии и лучшие кадры.<br />Ищем <strong>middle React Developer на один из наших внутренних проектов.</strong></p> <p><strong>Что нужно будет делать:</strong></p> <ul> <li>Программировать на React/JavaScript/TypeScript;</li> <li>Участвовать в разработке проектов;</li> <li>Верстать на HTML/CSS.</li> </ul> <p><strong>Мы ожидаем от тебя в обязательном порядке:</strong></p> <p> </p> <ul> <li>Знание нативного Javascript, ES6/7;</li> <li>Знание React, Redux, Redux Toolkit;</li> <li>Опыт работы c RESTful API;</li> <li>Опыт использования линтеров (Eslint, Stylelint);</li> <li>Styled components/SASS/PostCSS, адаптивная/кроссбраузерная верстка;</li> <li>Опыт использования Figma;</li> <li>Опыт работы с webpack, Git;</li> <li>Опыт разработки SPA.</li> </ul> <p><strong>Плюсы работать с нами:</strong><br />- Мы оформляем в белую, по ТК РФ. Но если нужны альтернативы - готовы обсудить.<br />- Мы аккредитованы<br />-“За деньги да” - мы понимаем, что люди работают за деньги, и платим достойную зарплату. А еще и регулярно ее пересматриваем, в рамках performance review<br />-Гибрид, удаленка, офис</p> <p><br /><strong>А еще:</strong><br />-Нам правда важны твои софты. Команда небольшая, нас всего 18, и мы стараемся находить коллег по духу для долгой, позитивной и плодотворной работы<br />-Мы не устраиваем “карусель из собеседований”, но будь готов пройти небольшой лайфкодинг на техинтервью<br />-Мы не против удаленки, но на первых порах будь готов к гибридному графику (офис в центре СПб. станция метро Адмиралтейская)</p> <p>Давай обсудим возможности нашего сотрудничества!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11678340",
+    "name": "RosDev",
+    "url": "https://api.hh.ru/employers/11678340",
+    "alternate_url": "https://hh.ru/employer/11678340",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1403706.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7234492.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7234493.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11678340",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-28T13:16:10+0300",
+  "created_at": "2025-05-28T13:16:10+0300",
+  "initial_created_at": "2025-05-28T13:16:10+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121081822",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121081822",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

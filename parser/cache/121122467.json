@@ -1,0 +1,160 @@
+{
+  "id": "121122467",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 80000,
+    "to": 85000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 80000,
+    "to": 85000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Казань",
+    "street": "улица Фатыха Амирхана",
+    "building": "50",
+    "lat": 55.847604,
+    "lng": 49.137038,
+    "description": null,
+    "raw": "Казань, улица Фатыха Амирхана, 50",
+    "metro": {
+      "station_name": "Авиастроительная ",
+      "line_name": "Центральная",
+      "station_id": "49.462",
+      "line_id": "49",
+      "lat": 55.828897,
+      "lng": 49.081403
+    },
+    "metro_stations": [
+      {
+        "station_name": "Авиастроительная ",
+        "line_name": "Центральная",
+        "station_id": "49.462",
+        "line_id": "49",
+        "lat": 55.828897,
+        "lng": 49.081403
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong><em>Медицинский холдинг «БСС» — инновационная биотехнологическая компания, в состав которой входят федеральная аптечная сеть «Алоэ», клиника превентивной медицины – «Источник Долголетия», семейная клиника «Доктора Пеля» и музей аптека «Доктора Пеля», также две производственных компаний &quot;Аспера&quot; и «ЭндоАрт» и собственная аккредитованная IT-компания - &quot;Dzen IT&quot; и др.<br /><br />Особую роль в компании занимает персонал. Мы ценим и обеспечиваем индивидуальное развитие каждого сотрудника. Творческий подход к решению поставленных задач – ключ к надежной коммуникации.</em></strong></p> <p><strong><em>Холдинг «БСС» ждет Вас в свою команду!</em></strong></p> <p><em><strong>Основными обязанностями будет:</strong></em></p> <p>- Консультации и техническая поддержка пользователей;<br />- Работа с заявками пользователей в тикет-системе;<br />- Техническое поддержание инфраструктуры, в том числе монтаж слаботочных сетей (витая пара);<br />- Обслуживание оргтехники и рабочих станций.<br />- Закупка оборудования.</p> <p><strong><em>Наши требования</em>:</strong></p> <p>- Хорошее знание ОС семейства Windows;<br />- Понимание принципов работы сети;<br />- Знание аппаратной части ПК;<br />- Опты работы с сетевым оборудованием Mikrotik;<br />- Обслуживание периферийной техники;<br />- Обслуживание кассовой техники;</p> <p><em><strong>Мы предлагаем:</strong></em></p> <p>- Официальное оформление по ТК РФ;</p> <p>- Заработная плата на испытательный срок 80 000 после 85 000 (на руки) + оплата амортизации + оплата ГСМ по чекам.;</p> <p>- График работы 5/2 с 9.00 до 18.00ч (удаленно) возможны командировки в другой регион;</p> <p>- Гарантируем стабильную и интересную работу.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "39014",
+    "name": "БСС",
+    "url": "https://api.hh.ru/employers/39014",
+    "alternate_url": "https://hh.ru/employer/39014",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1343376.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6993446.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6993447.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=39014",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-29T12:21:07+0300",
+  "created_at": "2025-05-29T12:21:07+0300",
+  "initial_created_at": "2025-05-29T12:21:07+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121122467",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121122467",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "FIELD_WORK",
+      "name": "Разъездной"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

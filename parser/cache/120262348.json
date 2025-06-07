@@ -1,0 +1,154 @@
+{
+  "id": "120262348",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "PHP-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": null,
+    "to": 226000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": null,
+    "to": 226000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Казань",
+    "street": "улица Габдуллы Тукая",
+    "building": "154/1",
+    "lat": 55.767301,
+    "lng": 49.124506,
+    "description": null,
+    "raw": "Казань, улица Габдуллы Тукая, 154/1",
+    "metro": {
+      "station_name": "Суконная слобода",
+      "line_name": "Центральная",
+      "station_id": "49.274",
+      "line_id": "49",
+      "lat": 55.777094,
+      "lng": 49.142275
+    },
+    "metro_stations": [
+      {
+        "station_name": "Суконная слобода",
+        "line_name": "Центральная",
+        "station_id": "49.274",
+        "line_id": "49",
+        "lat": 55.777094,
+        "lng": 49.142275
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>АО Нэфис Косметикс — крупнейший российский производитель бытовой химии и косметической продукции. Мы гордимся нашей историей и опытом, и продолжаем стремиться к новым достижениям.</strong></p> <p> </p> <p>В связи с расширением команды мы ищем PHP разработчика, который станет важной частью нашего коллектива.</p> <p> </p> <p><strong>Обязанности:</strong></p> <ul> <li>Разработка и доработка функционала на платформе 1С-Битрикс, включая создание новых модулей и компонентов;</li> <li>Интеграция сторонних сервисов и API, работа с REST API;</li> <li>Оптимизация и поддержка существующих решений, включая улучшение производительности и устранение ошибок.</li> </ul> <p> </p> <p><strong>Требования:</strong></p> <ul> <li>Опыт коммерческой разработки интернет-магазинов на платформе Битрикс;</li> <li>Уверенные навыки программирования на PHP.</li> </ul> <p> </p> <p><strong>Условия:</strong></p> <ul> <li>Официальное трудоустройство по ТК РФ;</li> <li>Конкурентоспособный фиксированный оклад;</li> <li>График работы: 5/2 — <strong>работа в офисе</strong> с возможностью перехода на гибридный или удаленный формат через полгода;</li> <li>Поддержка наставника и возможности для профессионального роста;</li> <li>Полный пакет социальных льгот, включая компенсацию питания и дополнительные бонусы.</li> </ul> <p> </p> <p>Если вы соответствуете требованиям и заинтересованы в данной позиции, пожалуйста, отправьте ваше резюме. Мы с радостью свяжемся с вами для обсуждения дальнейших шагов.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "15848",
+    "name": "Нэфис Косметикс",
+    "url": "https://api.hh.ru/employers/15848",
+    "alternate_url": "https://hh.ru/employer/15848",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/228743.JPG",
+      "90": "https://img.hhcdn.ru/employer-logo/312869.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/385726.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=15848",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T09:33:16+0300",
+  "created_at": "2025-06-03T09:33:16+0300",
+  "initial_created_at": "2025-05-06T09:19:11+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120262348",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120262348",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

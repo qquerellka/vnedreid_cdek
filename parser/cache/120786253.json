@@ -1,0 +1,205 @@
+{
+  "id": "120786253",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Аналитик данных",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 80000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 80000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "Выборная улица",
+    "building": "141",
+    "lat": 55.008609,
+    "lng": 83.026422,
+    "description": null,
+    "raw": "Новосибирск, Выборная улица, 141",
+    "metro": {
+      "station_name": "Золотая нива",
+      "line_name": "Дзержинская",
+      "station_id": "53.306",
+      "line_id": "53",
+      "lat": 55.037928,
+      "lng": 82.976044
+    },
+    "metro_stations": [
+      {
+        "station_name": "Золотая нива",
+        "line_name": "Дзержинская",
+        "station_id": "53.306",
+        "line_id": "53",
+        "lat": 55.037928,
+        "lng": 82.976044
+      },
+      {
+        "station_name": "Октябрьская",
+        "line_name": "Ленинская",
+        "station_id": "52.298",
+        "line_id": "52",
+        "lat": 55.018789,
+        "lng": 82.939007
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>НЕВАТОМ</strong> – один из крупнейших производителей вентиляционного оборудования в России. Наше неустанное стремление к профессионализму, надежности и инновациям во всех своих услугах и бизнес-процессах – это то, что выделяет нас на фоне крупных игроков рынка вентиляции.</p> <p>Мы расширяем штат и сегодня приглашаем в свою команду <strong>Аналитика данных</strong>!</p> <p><strong>Тебе предстоит:</strong></p> <ul> <li> <p>создавать математические модели для аналитических исследований. В т.ч заниматься сбором, обработкой и подготовкой необходимых данных для работы таких моделей;</p> </li> <li> <p>создавать прогнозирующие математические модели или инвестиционные модели проектов;</p> </li> <li> <p>заниматься подготовкой бизнес-процессов работы с данными к автоматизации через Bi.</p> </li> </ul> <p><strong>От тебя мы ожидаем:</strong></p> <ul> <li> <p>высшее или средне специальное образование, предпочтительнее математическое, экономическое, аналитическое;</p> </li> <li> <p>продвинутые навыки Exсel (макросы, дашборды, сводные таблицы);</p> </li> <li> <p>системное и аналитическое мышление, коммуникабельность, аккуратность;</p> </li> <li> <p>будет преимуществом владение аналитическими (класса ETL) или отчетными платформами (класса Bi).</p> </li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li> <p>трудоустройство согласно ТК РФ с первого дня работы;</p> </li> <li> <p>своевременную и полностью &quot;белую&quot; заработную плату;</p> </li> <li> <p>пятидневную рабочую неделю с 8-30 до 17-30;</p> </li> <li> <p>молодой дружный коллектив, поддержку на этапе адаптации от опытного наставника;</p> </li> <li> <p>возможность профессионального и карьерного роста.</p> </li> </ul> <p>Заинтересовала вакансия - откликайся, мы ждём встречи с тобой!</p> <p>Сегодня <strong>НЕВАТОМ </strong>насчитывает 29 торговых и складских представительств по всей России и ближнему зарубежью, от Владивостока до Москвы и Санкт-Петербурга, с производственными центрами в Новосибирске, Екатеринбурге и Самаре.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "MS Excel"
+    },
+    {
+      "name": "ETL"
+    },
+    {
+      "name": "Анализ данных"
+    },
+    {
+      "name": "аналитика"
+    },
+    {
+      "name": "Аналитический склад ума"
+    },
+    {
+      "name": "Работа с базами данных"
+    },
+    {
+      "name": "Ответственность"
+    },
+    {
+      "name": "Внимательность"
+    },
+    {
+      "name": "Системное мышление"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Loginom"
+    },
+    {
+      "name": "Работа в команде"
+    },
+    {
+      "name": "Коммуникабельность"
+    },
+    {
+      "name": "Бизнес-анализ"
+    },
+    {
+      "name": "Формирование аналитической отчетности"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "156",
+      "name": "BI-аналитик, аналитик данных"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1533366",
+    "name": "НЕВАТОМ",
+    "url": "https://api.hh.ru/employers/1533366",
+    "alternate_url": "https://hh.ru/employer/1533366",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/392298.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/2011446.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/2011447.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1533366",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-27T06:11:51+0300",
+  "created_at": "2025-05-27T06:11:51+0300",
+  "initial_created_at": "2025-05-21T05:33:08+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120786253",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120786253",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,172 @@
+{
+  "id": "120794274",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Специалист по техническому мониторингу Telegram и WhatsApp аккаунтов",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 60000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 60000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Казань",
+    "street": "улица Габдуллы Тукая",
+    "building": "113А",
+    "lat": 55.768441,
+    "lng": 49.125871,
+    "description": null,
+    "raw": "Казань, улица Габдуллы Тукая, 113А",
+    "metro": {
+      "station_name": "Суконная слобода",
+      "line_name": "Центральная",
+      "station_id": "49.274",
+      "line_id": "49",
+      "lat": 55.777094,
+      "lng": 49.142275
+    },
+    "metro_stations": [
+      {
+        "station_name": "Суконная слобода",
+        "line_name": "Центральная",
+        "station_id": "49.274",
+        "line_id": "49",
+        "lat": 55.777094,
+        "lng": 49.142275
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<h2><strong>Привет! Мы - студия портретов &quot;Монро Арт&quot;:</strong></h2> <ul> <li>Ежемесячно рисуем и изготавливаем более 5000 картин;</li> <li>Более 150 сотрудников участвует в общем процессе;</li> <li>В декабре нам исполнилось 10 лет;</li> <li> <p>Участники проекта «Сколково»;</p> </li> <li> <p>А еще мы - IT-компания!</p> </li> </ul> <div> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Работа из уютного офиса <strong>в центре Казани</strong>;</li> <li><strong>Удобный график 5/2 с 9:00 до 18:00 по МСК</strong>;</li> <li>Заработная плата: <strong>от 60 тыс. руб. (готовы обсуждать)</strong>;</li> <li><strong>Официальное трудоустройство по ТК РФ</strong>;</li> <li><strong>Бесплатные завтраки и обеды от компании, спортзал с тренером, сауна и душ в офисе</strong>;</li> <li>Зови друзей на открытые позиции в компании и получай денежные бонусы;</li> <li>Раз в квартал мы путешествуем вместе (были на Урале, Кипре, в Стамбуле, Калининграде и Санкт-Петербурге).</li> </ul> <p><strong>Чем предстоит заниматься:</strong></p> <p>1. Контроль статуса аккаунтов Telegram и WhatsApp, задействованных в рекламе и коммуникации:</p> <ul> <li>Мониторинг активности и состояния аккаунтов (заморозка, блок, недоступность);</li> <li>Проверка работоспособности рекламных ссылок, чатов, автоответов;</li> <li>Исключение &quot;проблемных&quot; аккаунтов из ротации по факту отклонения от нормы.</li> </ul> <p>2. Оперативная реакция на сбои и инциденты:</p> <ul> <li>Быстрое отключение замороженных или заблокированных аккаунтов;</li> <li>Информирование ответственных сотрудников о технических инцидентах;</li> <li>Ведение лога с указанием даты, причины и принятых мер.</li> </ul> <p>3. Поиск причин и закономерностей технических ограничений:</p> <ul> <li>Анализ факторов, которые могут приводить к блокировкам: IP, контент, скрипты, жалобы и т.д.;</li> <li>Сравнение ситуации между отделами (например, при разных результатах заморозки);</li> <li>Подготовка гипотез и технических предложений по снижению рисков.</li> <li>Коммуникация с подрядчиками и техническими партнёрами (например, Wazzup):</li> </ul> <p>4. Ведение внутренней базы/таблицы состояния аккаунтов:</p> <ul> <li>Ежедневное обновление статуса всех активных номеров;</li> <li>Создание системы тегов и фильтров: причина заморозки, дата, отдел, активность;</li> <li>Автоматизация процессов через Google Sheets, AppScript, Telegram-ботов (будет плюсом).</li> </ul> <p>5. Тестирование гипотез и развитие технической устойчивости:</p> <ul> <li>Совместная работа с маркетингом, продажами и продуктом по изменению подходов (добавление WA, изменение call-to-action, изменение расписания рассылок и пр.);</li> <li>Внедрение минимальных технических решений — скрипты, уведомления, интеграции;</li> <li>Подготовка отчётности по эффективности аккаунтов и частоте инцидентов.</li> </ul> <p><strong>Что мы ждём от тебя:</strong></p> <ul> <li>Опыт работы в сфере мониторинга и аналитики социальных сетей и мессенджеров <strong>не менее 1 года.</strong></li> <li>Знание платформ Telegram и WhatsApp с точки зрения принципов их работы, особенностей алгоритмов обеспечивающих безопасность, ограничений по автоматизации.</li> <li>Желательно понимание и опыт работы с сервисами омниканальных коммуникаций (wazzup, chat2desk, и др.)</li> <li>Навыки настройки и использования ботов, скриптов и специальных программ для мониторинга сообщений, комментариев и активности в аккаунтах.</li> <li>Умение анализировать полученные данные, составлять отчеты и выявлять ключевые тренды или проблемы.</li> <li>Ответственность, внимательность к деталям и умение работать в условиях многозадачности.</li> </ul> <p><strong>Что делать дальше:</strong></p> <ol> <li><strong>Оставляй отклик</strong></li> <li><strong>Заполняй анкету, которую мы тебе отправим, и</strong> <strong>мы с тобой свяжемся</strong>!)</li> </ol> </div>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Работа с большим объемом информации"
+    },
+    {
+      "name": "Составление отчетов"
+    },
+    {
+      "name": "Telegram"
+    },
+    {
+      "name": "Сбор и анализ информации"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "2680902",
+    "name": "Монро Арт",
+    "url": "https://api.hh.ru/employers/2680902",
+    "alternate_url": "https://hh.ru/employer/2680902",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/478663.png",
+      "90": "https://img.hhcdn.ru/employer-logo/2356504.png",
+      "240": "https://img.hhcdn.ru/employer-logo/2356505.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2680902",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T08:53:42+0300",
+  "created_at": "2025-06-05T08:53:42+0300",
+  "initial_created_at": "2025-05-21T08:53:42+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120794274",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120794274",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

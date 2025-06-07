@@ -1,0 +1,170 @@
+{
+  "id": "121436661",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "IOS-разработчик в амбициозный high-tech проект",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "улица Плеханова",
+    "building": "4а",
+    "lat": 55.754638,
+    "lng": 37.756596,
+    "description": null,
+    "raw": "Москва, улица Плеханова, 4а",
+    "metro": {
+      "station_name": "Шоссе Энтузиастов",
+      "line_name": "Калининская",
+      "station_id": "8.158",
+      "line_id": "8",
+      "lat": 55.75809,
+      "lng": 37.751703
+    },
+    "metro_stations": [
+      {
+        "station_name": "Шоссе Энтузиастов",
+        "line_name": "Калининская",
+        "station_id": "8.158",
+        "line_id": "8",
+        "lat": 55.75809,
+        "lng": 37.751703
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <p>Разработка приложений под iOS / iPadOS / watchOS.</p> <p>Архитектура, модули: GPS, 3D, AR, AI.</p> <p>Интеграция новых технологий (CoreML, Metal и др.).</p> <p>Решение сложных алгоритмических задач.</p> <p>Качественный, поддерживаемый код.</p> <strong>Требования:</strong> <p>Отличное знание Swift, Objective-C, C++.</p> <p>Понимание ООП, паттернов проектирования.</p> <p>Математическая и алгоритмическая база.</p> <p>Уверенное владение iOS SDK, Xcode, Metal, CoreML.</p> <p>Желателен релиз в App Store, опыт с App Store Connect.</p> <p>Английский — для чтения, обсуждений и документации.</p> <strong>Условия:</strong> <p>Формат обсуждается: светлый офис рядом с м.Шоссе Энтузиастов/ гибрид.</p> <p>Гибкий график, минимум бюрократии.</p> <p>Проект объединяет AR, AI и 3D — на выходе получается то, что раньше казалось фантастикой.</p> <p>Открытая команда с инженерным фокусом.<br /><br /><strong>Ищем в текущий проект, но также формируем команду под новый — можно присоединиться с самого старта.</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Objective-C"
+    },
+    {
+      "name": "C++"
+    },
+    {
+      "name": "Software Development"
+    },
+    {
+      "name": "iOS"
+    },
+    {
+      "name": "Git"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "770177",
+    "name": "DENIVIP Media",
+    "url": "https://api.hh.ru/employers/770177",
+    "alternate_url": "https://hh.ru/employer/770177",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/685210.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3181972.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3181973.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=770177",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T11:09:13+0300",
+  "created_at": "2025-06-07T11:09:13+0300",
+  "initial_created_at": "2025-06-07T11:09:13+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121436661",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121436661",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b1",
+        "name": "B1 — Средний"
+      }
+    }
+  ],
+  "approved": false,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

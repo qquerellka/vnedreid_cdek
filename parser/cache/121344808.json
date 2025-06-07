@@ -1,0 +1,115 @@
+{
+  "id": "121344808",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Технический директор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><em>Консалтинговая компания &quot;</em><strong><em>Nordcore</em></strong><em>&quot; занимается подбором и предоставлением квалифицированного персонала для крупных российских и международных предприятий нефтегазовой, нефтехимической и химической, горнодобывающей и металлургической, машиностроительной, а также других отраслей промышленности.</em></p> <p>На данный момент мы находимся в поиске <strong>Технического директора</strong> для нашего клиента, производителя смазочных материалов.</p> <p><strong>Обязанности:</strong></p> <ul> <li> <p>Руководство отделом </p> </li> <li> <p>Постановка целей, формирование ежеквартальных и ежегодных KPI, оценка результатов и компетенций, обратная связь</p> </li> <li> <p>Работа с рекламациями, написание заключений и информационных писем</p> </li> <li> <p>Развитие действующих сотрудников, формирование необходимого уровня компетенций, а также культуры поведения во внутренних и внешних коммуникациях</p> </li> <li> <p>Работа с технической информацией: поиск, аккумулирование, создание новых методических материалов и презентаций</p> </li> <li> <p>Участие в качестве технического эксперта во многих проектах компании</p> </li> <li> <p>Проведение тренингов и семинаров</p> </li> <li> <p>Полевая работа по территории ответственности</p> </li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Высшее техническое образование</li> <li>Опыт работы на должности технического директора или руководителя от 2 лет</li> <li>Знание регионального рынка смазочных материалов/запчастей, его конъюнктуры, особенности и специфику;</li> <li>Хорошие презентационные навыки (опыт ведения технических презентаций, преподавательская деятельность)</li> <li>Владение автомобильной и технической терминологией</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>График работы 5/2 с 9.00 до 18.00</li> <li>Заработная плата + бонусы</li> <li>Медицинское страхование</li> <li>Компенсация расходов</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "125",
+      "name": "Технический директор (CTO)"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "181500",
+    "name": "Nordcore (ex. Swift Technical)",
+    "url": "https://api.hh.ru/employers/181500",
+    "alternate_url": "https://hh.ru/employer/181500",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1293646.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6794878.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6794879.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=181500",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T15:13:14+0300",
+  "created_at": "2025-06-04T15:13:14+0300",
+  "initial_created_at": "2025-06-04T15:13:14+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121344808",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121344808",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

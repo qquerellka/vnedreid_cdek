@@ -1,0 +1,156 @@
+{
+  "id": "120780273",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Frontend-разработчик (React)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 180000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 180000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "улица Курчатова",
+    "building": "1",
+    "lat": 60.006557,
+    "lng": 30.356939,
+    "description": null,
+    "raw": "Санкт-Петербург, улица Курчатова, 1",
+    "metro": {
+      "station_name": "Площадь Мужества",
+      "line_name": "Кировско-Выборгская",
+      "station_id": "14.194",
+      "line_id": "14",
+      "lat": 59.999828,
+      "lng": 30.366159
+    },
+    "metro_stations": [
+      {
+        "station_name": "Площадь Мужества",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.194",
+        "line_id": "14",
+        "lat": 59.999828,
+        "lng": 30.366159
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>Разработка современных веб-приложений на основе React.</li> <li>Верстка компонентов с акцентом на семантическую структуру, адаптивность и производительность.</li> <li>Интеграция фронтенда с бэкендом через REST API, WebSockets и SSE.</li> <li>Участие в архитектурных обсуждениях и рефакторинге.</li> <li>Разработка собственных модулей и функциональности с нуля — без зависимости от «шаблонных» решений.</li> <li>Разработка простого серверного прокси (на Node.js/Express) для взаимодействия с Kafka/NATS.</li> <li>Работа с системами контроля версий Git + GitLab.</li> <li>Настройка и поддержка CI/CD пайплайнов в GitLab CI.</li> <li>Оптимизация производительности, чистоты кода и пользовательского опыта.</li> </ul> <strong>Требования:</strong> <ul> <li>Знание JavaScript и TypeScript</li> <li>Опыт коммерческой разработки на React от 2 лет</li> <li>Понимание принципов ООП, DRY, KISS, SOLID</li> <li>Опыт проектирования и рефакторинга архитектуры</li> <li>Знание принципов работы веб-сайтов (HTTP, запросы, рендеринг, безопасность)</li> <li>Уверенное использование Git</li> <li>Базовое понимание работы с Node.js и Express</li> <li>Опыт или готовность работать с Docker и Docker Compose</li> <li>Понимание принципов построения CI/CD (GitLab CI — плюс)</li> <li>Умение самостоятельно реализовывать сложные фичи, а не просто использовать готовые библиотеки</li> <li>Опыт написания чистой, семантической и кроссбраузерной верстки</li> <li>Знание программы React</li> <li> <p>Высшее техническое образование</p> </li> </ul> <strong>Условия:</strong> <ul> <li>Оформление в соответствии с ТК РФ (оплачиваемый больничный, ежегодный отпуск),</li> <li>испытательный срок 3 месяца;</li> <li>выплата зарплаты 2 раза в месяц;</li> <li>комфортабельный офис, хорошая оргтехника и мебель;</li> <li>ДМС РЕСО со стоматологией (частичной) и международным покрытием после испытательного срока;</li> <li>доброжелательный и высокопрофессиональный коллектив;</li> <li>мы нацелены на Ваш профессиональный рост;</li> <li>в общероссийские праздничные и выходные дни мы не работаем.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2814749",
+    "name": "НТЦ ЕЭС",
+    "url": "https://api.hh.ru/employers/2814749",
+    "alternate_url": "https://hh.ru/employer/2814749",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/502340.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/2451113.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/2451114.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2814749",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T17:24:12+0300",
+  "created_at": "2025-06-04T17:24:12+0300",
+  "initial_created_at": "2025-05-20T17:24:12+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120780273",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120780273",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

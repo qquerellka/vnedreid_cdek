@@ -1,0 +1,120 @@
+{
+  "id": "121393512",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "QA engineer (стажер)",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "улица Новый Арбат",
+    "building": "11с1",
+    "lat": 55.752085,
+    "lng": 37.596237,
+    "description": null,
+    "raw": "Москва, улица Новый Арбат, 11с1",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Требования:</strong></p> <p><strong>Базовые знания в области тестирования:</strong></p> <ul> <li> <p>Понимание теории тестирования и жизненного цикла разработки ПО;</p> </li> <li> <p>Понимание этапов жизненного цикла тестирования;</p> </li> <li> <p>Умение работать с тестовой документацией: чек-листы, тест-кейсы, баг-репорты, тест-планы, тестовые прогоны;</p> </li> <li> <p>Понимание ролей в команде разработки (QA, Dev, PM и т.д.).</p> </li> <li> <p>Понимание клиент серверной архитектуры</p> </li> </ul> <p><strong>Техническая база:</strong></p> <ul> <li> <p>Основы веб-технологий: HTTP, HTML, CSS;</p> </li> <li> <p>Знание REST API, опыт работы с Postman, Swagger (или аналогами);</p> </li> <li> <p>Начальные навыки работы с SQL (простые выборки);</p> </li> <li> <p>Умение пользоваться инструментами разработчика в браузере (DevTools и пр.).</p> </li> </ul> <p><strong>Методологии:</strong></p> <ul> <li> <p>Общее представление о методологиях разработки: Agile, Scrum, Kanban, Waterfall.<br /></p> </li> </ul> <p><strong>Что мы предлагаем?</strong></p> <ul> <li> <p>поддержка под ключ опытного ментора;</p> </li> <li> <p>стажировка в дружной, интеллектуальной, амбициозной команде;</p> </li> <li> <p>официальное трудоустройство с первых дней;</p> </li> <li> <p>заработная плата - 45 000 - 50 000 на руки, с постепенным наращиванием hard/soft skills и соответственно оклада;</p> </li> <li> <p>возможность после стажировки продолжить карьеру в компании с пролонгацией Трудового договора;</p> </li> <li> <p>формата работы: удаленный;</p> </li> <li> <p>IT плюшки от компании;</p> </li> </ul> <p><strong>Условия стажировки:</strong></p> <ul> <li> <p>стажировка - 6 месяцев, 5 дней в неделю, 10:00 до 19:00, с перерывом на обед;</p> </li> <li> <p>план стажировки составленный вместе с наставников и куратором;</p> </li> <li> <p>изучение теории на еженедельной основе, подкрепленной практическими задачами;</p> </li> <li> <p>практика под руководством опытного техлида;</p> </li> <li> <p>подготовка к собеседованию и самопрезентации, если Вы решите продолжить карьеру вне нашей компании+ рекомендации от компании</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11638366",
+    "name": "Джемини Софт",
+    "url": "https://api.hh.ru/employers/11638366",
+    "alternate_url": "https://hh.ru/employer/11638366",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11638366",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T16:35:24+0300",
+  "created_at": "2025-06-05T16:35:24+0300",
+  "initial_created_at": "2025-06-05T16:35:24+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121393512",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121393512",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

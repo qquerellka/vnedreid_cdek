@@ -1,0 +1,143 @@
+{
+  "id": "119690001",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Программист 1С (Senior)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "72",
+    "name": "Пермь",
+    "url": "https://api.hh.ru/areas/72"
+  },
+  "salary": {
+    "from": 200000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 200000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Пермь",
+    "street": "Промышленная улица",
+    "building": "153Б",
+    "lat": 57.906238,
+    "lng": 56.170846,
+    "description": null,
+    "raw": "Пермь, Промышленная улица, 153Б",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Группа компаний «Теплов и Сухов» с 2008 года производит качественные дымоходные системы из различных марок стали. ГК Теплов и Сухов – это Правильные дымоходы, Проверенное качество, Партнерские отношения, Перспективное развитие</p> <p><strong>Компания Теплов и Сухов считает свою конфигурацию 1С конкурентным преимуществом и постоянно развивает ее, используя современные подходы к разработке. ИТ команда у нас не большая, но дружная и очень плотно взаимодействует с бизнесом</strong></p> <p><strong>Обязанности:</strong></p> <ul> <li>Доработка типовых конфигураций под конкретные задачи компании; Компания, в текущий момент, осуществляет переход с УПП на ERP.<br />В идеале, мы ищем специалиста, который хорошо знает эти две конфигурации.</li> <li>Обновление доработанных типовых конфигураций; Мы стараемся максимально аккуратно подходить к доработке типовых конфигураций, наши конфигурации обновляются на регулярной основе. Нетиповые обновления (установка доработок) будут так же входить в должностные обязанности специалиста.</li> <li>Разработка нового функционала;</li> <li>Оптимизация 1С, разработка обмена данных между 1С и внешним программным обеспечением</li> <li>Поддержка системы 1С, решение инцидентов.</li> <li>Консультации пользователей по работе с 1С.</li> <li>Проведение технического тестирования.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Профессиональное владение платформой 1С</li> <li>Владение приемами разработки на управляемых формах</li> <li>Умение разрабатывать отчеты на СКД</li> <li>Владение языком запросов платформы 1С</li> <li>Опыт решения прикладных задач с помощью платформы 1С</li> <li>Понимание основ управленческого и регламентированного учета</li> <li>Среднее/высшее профессиональное образование.</li> <li>Аналитический склад ума‚ логическое мышление, внимательность, структурный подход к задачам, ориентация на результат.</li> <li>Умение составлять алгоритмы и разбираться в них</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Официальное трудоустройство c первого дня;</li> <li>График работы: с 08.00-17.00 (после испытательного срока возможен гибридный режим работы)</li> <li>Полностью «<strong>белая</strong>» заработная плата;</li> <li>Парковка для автомобилей сотрудников;</li> <li>Премирование по итогам года;</li> <li>Скидки на продукцию компании;</li> <li>Подарки для сотрудников и детей сотрудников к Новому году</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "3293597",
+    "name": "«Производственная компания «Теплов и Сухов»",
+    "url": "https://api.hh.ru/employers/3293597",
+    "alternate_url": "https://hh.ru/employer/3293597",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1390050.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7179987.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7179988.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3293597",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T06:20:30+0300",
+  "created_at": "2025-06-06T06:20:30+0300",
+  "initial_created_at": "2025-04-18T12:28:00+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119690001",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119690001",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

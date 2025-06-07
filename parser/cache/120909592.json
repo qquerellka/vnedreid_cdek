@@ -1,0 +1,176 @@
+{
+  "id": "120909592",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Junior Backend-разработчик (PHP; Laravel)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": null,
+    "lng": null,
+    "description": null,
+    "raw": null,
+    "metro": {
+      "station_name": "Бухарестская",
+      "line_name": "Фрунзенско-Приморская",
+      "station_id": "18.259",
+      "line_id": "18",
+      "lat": 59.883769,
+      "lng": 30.368932
+    },
+    "metro_stations": [
+      {
+        "station_name": "Бухарестская",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.259",
+        "line_id": "18",
+        "lat": 59.883769,
+        "lng": 30.368932
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>В связи с увеличением количества проектов мы ищем в команду разработки сотрудников на fulltime с перспективой роста</p> <p><strong>Обязанности</strong></p> <ul> <li>Разработка и поддержка сайтов на Yii, Laravel, 1С-Битрикс</li> <li>Разработка дополнительного функционала native PHP</li> <li>Поддержка и доработка существующих интернет-проектов</li> </ul> <p><strong>Требования</strong></p> <ul> <li>Понимание основ PHP, MySql, ООП, GIT</li> <li>Работа ведется исключительно в Linux или MacOS</li> </ul> <p><strong>Кого мы ищем</strong></p> <ul> <li>Ответственных, аккуратных и внимательных к мелочам людей</li> <li>Способных работать как в команде, так и принимать решения лично</li> <li>Способных обсудить задачу и найти лучшие продуктивные реализации</li> </ul> <p><strong>Что мы предлагаем</strong></p> <ul> <li>Интересные и разноплановые проекты</li> <li>Комфортный офис при желании работать realtime в команде</li> <li>Возможность удаленки, гибрида, совмещения с учебой</li> <li>Официальное трудоустройство и стабильность выплат</li> </ul> <p><strong>Этапы рассмотрения кандидатур</strong></p> <ul> <li>Вводное/Техническое собеседование с техлидоми и COO</li> <li>Оффер на период испытательного срока с перспективой трудоустройства</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Laravel"
+    },
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "1С-Битрикс"
+    },
+    {
+      "name": "Backend"
+    },
+    {
+      "name": "API"
+    },
+    {
+      "name": "ООП"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "jQuery"
+    },
+    {
+      "name": "JavaScript"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2902297",
+    "name": "Светлые головы",
+    "url": "https://api.hh.ru/employers/2902297",
+    "alternate_url": "https://hh.ru/employer/2902297",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/698286.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3234260.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3234261.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2902297",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T13:54:13+0300",
+  "created_at": "2025-06-07T13:54:13+0300",
+  "initial_created_at": "2025-05-23T13:54:13+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120909592",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120909592",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

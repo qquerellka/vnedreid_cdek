@@ -1,0 +1,138 @@
+{
+  "id": "121379416",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист чат-поддержки в Аренду",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 35000,
+    "to": 41000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 35000,
+    "to": 41000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": {
+    "id": "yandex-1740-poirekl",
+    "name": "Поиск и Рекламные технологии"
+  },
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Яндекс Аренда</strong> помогает быстро, просто и безопасно сдать или снять жильё. Сейчас мы ищем специалиста чат-поддержки, который усилит нашу команду. </p> <p><strong>Какие задачи вас ждут:</strong></p> <ul> <li> <p>Обрабатывать входящие чаты;</p> </li> <li> <p>Вести живую коммуникацию с пользователями (без скрипта);</p> </li> <li> <p>Помогать пользователям разобраться в вопросах оплаты ЖКХ, жалобы на жильца или собственника или бытовых вопросах.</p> </li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li> <p>Ежемесячный оклад — 35 000 рублей до вычета НДФЛ, премия до 6 000 рублей до вычета НДФЛ;</p> </li> <li> <p>График работы 2/2, с 11 до 23 по московскому времени;</p> </li> <li> <p>Удалённая работа — можно работать из тихого места в любом городе;</p> </li> <li> <p>Официальное трудоустройство, оплачиваемый отпуск и больничные;</p> </li> <li> <p>Компенсация расходов на интернет;</p> </li> <li> <p>Скидки от партнеров;</p> </li> <li> <p>Обучение и помощь опытных наставников: коллеги всегда готовы подсказать, оперативно ответить в чате, поделиться опытом.</p> </li> </ul> <p><strong>Мы ждем, что вы:</strong></p> <ul> <li> <p>Работали в сфере поддержки или хотели бы погрузиться в эту сферу;</p> </li> <li> <p>Готовы вникнуть в вопросы пользователей и помочь в их решении;</p> </li> <li> <p>Уверенно пользуетесь ПК;</p> </li> <li> <p>Имеете опыт удаленной работы.</p> </li> </ul> <p><strong>Ждём вашего отклика!</strong></p>",
+  "branded_description": "\n<style>\n@charset \"UTF-8\";\n\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li em,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ol li p em,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li em,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong,\n.tmpl_hh_content ul li p em {\n    font-weight: normal;\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n}\n\n.tmpl_hh_content ul li b em,\n.tmpl_hh_content ul li strong em,\n.tmpl_hh_content ul li em b,\n.tmpl_hh_content ul li em strong,\n.tmpl_hh_content ol li b em,\n.tmpl_hh_content ol li strong em,\n.tmpl_hh_content ol li em b,\n.tmpl_hh_content ol li em strong,\n.tmpl_hh_content ul li b i,\n.tmpl_hh_content ul li strong i,\n.tmpl_hh_content ul li i b,\n.tmpl_hh_content ul li i strong,\n.tmpl_hh_content ol li b i,\n.tmpl_hh_content ol li strong i,\n.tmpl_hh_content ol li i b,\n.tmpl_hh_content ol li i strong {\n    font-weight: bold;\n    font-style: normal;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    display: inline;\n    margin: 0;\n    font-size: 24px;\n    line-height: 1.15;\n}\n\n.tmpl_hh_content p b em,\n.tmpl_hh_content p strong em,\n.tmpl_hh_content p em b,\n.tmpl_hh_content p em strong,\n.tmpl_hh_content p b i,\n.tmpl_hh_content p strong i,\n.tmpl_hh_content p i b,\n.tmpl_hh_content p i strong {\n    font-style: normal;\n    font-weight: bold;\n    font-size: 16px;\n    line-height: 1.25;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    font-family: \"Arial\", sans-serif;\n    color: #121212;\n    font-size: 16px;\n    line-height: 1.25;\n    overflow: hidden;\n    -webkit-font-smoothing: antialiased;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_wrapper *,\n.tmpl_hh_wrapper *::before,\n.tmpl_hh_wrapper *::after {\n    -webkit-box-sizing: border-box;\n    box-sizing: border-box;\n    background-repeat: no-repeat;\n}\n\n.tmpl_hh_wrapper [role=button] {\n    outline: none;\n}\n\n.tmpl_hh_wrapper button {\n    border: none;\n    background: none;\n    padding: 0;\n}\n\n.tmpl_hh_content {\n    padding: 32px 55px 48px;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    margin: 32px 0 24px;\n}\n\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    display: inline-block;\n    font-weight: bold;\n}\n\n.tmpl_hh_content ul {\n    margin-left: 24px;\n    padding-bottom: 1px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n    list-style: none;\n    margin-left: 22px;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    line-height: 22px;\n}\n\n.tmpl_hh_content li:not(:last-child) {\n    margin-bottom: 8px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 10px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"—\";\n    position: absolute;\n    left: -24px;\n    top: 0;\n    color: #C7C7C7;\n    font-family: \"Tahoma\", \"Arial\", sans-serif;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter) \".\";\n    position: absolute;\n    left: -24px;\n    top: 0;\n    font-weight: 700;\n    color: #C7C7C7;\n}\n\n.tmpl_hh_head {\n    background-color: #121212;\n    padding: 27px 33px 27px 55px;\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-align: start;\n    -ms-flex-align: start;\n    align-items: flex-start;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n}\n\n.tmpl_hh_head__text {\n    -ms-flex-negative: 0;\n    flex-shrink: 0;\n}\n\n.tmpl_hh_head__text img.tmpl_hh_head__logo {\n    width: 180px;\n}\n\n.tmpl_hh_head__text img.tmpl_hh_head__title {\n    margin-top: 16px;\n    width: 274px;\n}\n\n.tmpl_hh_head__text img.tmpl_hh_head__icons {\n    margin-top: 47px;\n    width: 134px;\n}\n\n.tmpl_hh_head__img {\n    width: 46%;\n}\n\n.tmpl_hh_why {\n    background-color: #121212;\n    color: #fff;\n    padding: 32px 55px 48px;\n}\n\n.tmpl_hh_why strong {\n    display: block;\n    color: #fff;\n    font-size: 24px;\n    line-height: 1.15;\n}\n\n.tmpl_hh_why ul.tmpl_hh_why__list {\n    list-style: none;\n    margin-top: 32px;\n}\n\n.tmpl_hh_why li.tmpl_hh_why__item {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-align: start;\n    -ms-flex-align: start;\n    align-items: flex-start;\n    gap: 12px 16px;\n}\n\n.tmpl_hh_why li.tmpl_hh_why__item:not(:last-child) {\n    margin-bottom: 24px;\n}\n\n.tmpl_hh_why li.tmpl_hh_why__item img {\n    -ms-flex-negative: 0;\n    flex-shrink: 0;\n    width: 64px;\n}\n\n.tmpl_hh_why li.tmpl_hh_why__item b {\n    display: block;\n    font-size: 20px;\n    line-height: 22px;\n    margin-bottom: 8px;\n}\n\n.tmpl_hh_why img.tmpl_hh_why__title {\n    margin-top: 53px;\n    width: 479px;\n}\n\n@media (max-width: 1019px) {\n    .tmpl_hh_wrapper {\n        max-width: 610px;\n    }\n\n    .tmpl_hh_head {\n        -webkit-box-align: stretch;\n        -ms-flex-align: stretch;\n        align-items: stretch;\n    }\n\n    .tmpl_hh_head__img {\n        width: auto;\n    }\n}\n\n@media (max-width: 699px) {\n\n    .tmpl_hh_content p b,\n    .tmpl_hh_content p strong {\n        font-size: 22px;\n    }\n\n    .tmpl_hh_content p b em,\n    .tmpl_hh_content p strong em,\n    .tmpl_hh_content p em b,\n    .tmpl_hh_content p em strong,\n    .tmpl_hh_content p b i,\n    .tmpl_hh_content p strong i,\n    .tmpl_hh_content p i b,\n    .tmpl_hh_content p i strong {\n        font-size: 14px;\n        line-height: 1.25;\n    }\n\n    .tmpl_hh_wrapper {\n        font-size: 14px;\n        line-height: 1.25;\n    }\n\n    .tmpl_hh_content {\n        padding: 32px 16px;\n    }\n\n    .tmpl_hh_content p,\n    .tmpl_hh_content b,\n    .tmpl_hh_content strong {\n        margin: 24px 0 16px;\n    }\n\n    .tmpl_hh_head {\n        display: block;\n        padding: 16px;\n    }\n\n    .tmpl_hh_head__text img.tmpl_hh_head__logo {\n        width: 178px;\n    }\n\n    .tmpl_hh_head__text img.tmpl_hh_head__title {\n        margin-top: 14px;\n        width: 248px;\n    }\n\n    .tmpl_hh_head__text img.tmpl_hh_head__icons {\n        margin-top: 20px;\n        width: 116px;\n    }\n\n    .tmpl_hh_head__img {\n        margin-top: 20px;\n        margin-left: 38px;\n        width: 76%;\n    }\n\n    .tmpl_hh_why {\n        padding: 32px 16px;\n    }\n\n    .tmpl_hh_why strong {\n        font-size: 22px;\n    }\n\n    .tmpl_hh_why li.tmpl_hh_why__item {\n        -webkit-box-orient: vertical;\n        -webkit-box-direction: normal;\n        -ms-flex-direction: column;\n        flex-direction: column;\n    }\n\n    .tmpl_hh_why li.tmpl_hh_why__item b {\n        font-size: 16px;\n    }\n\n    .tmpl_hh_why img.tmpl_hh_why__title {\n        margin-top: 48px;\n        width: 100%;\n    }\n}\n</style>\n\n<script>\n//\nfunction DOM_HH_Ready() {}\n\nif (document.readyState === \"loading\") {\n    document.addEventListener(\"DOMContentLoaded\", DOM_HH_Ready);\n} else {\n    DOM_HH_Ready();\n}\n//\n</script>\n\n\n    <div class=\"tmpl_hh_wrapper\">\n        <div class=\"tmpl_hh_head\">\n            <div class=\"tmpl_hh_head__text\">\n                <img class=\"tmpl_hh_head__logo\" src=\"https://hhcdn.ru/ichameleon/407795.svg\" alt=\"Яндекс Вертикали\">\n                <img class=\"tmpl_hh_head__title\" src=\"https://hhcdn.ru/ichameleon/407797.svg\" alt=\"Развиваем сервисы для жизни\">\n                <img class=\"tmpl_hh_head__icons\" src=\"https://hhcdn.ru/ichameleon/407798.svg\" alt=\"\">\n            </div>\n            <div class=\"tmpl_hh_head__img\">\n                <img src=\"https://hhcdn.ru/ichameleon/407858.svg\" alt=\"\">\n            </div>\n        </div>\n        <div class=\"tmpl_hh_content\">\n        <p><strong>Яндекс Аренда</strong> помогает быстро, просто и безопасно сдать или снять жильё. Сейчас мы ищем специалиста чат-поддержки, который усилит нашу команду. </p> <p><strong>Какие задачи вас ждут:</strong></p> <ul> <li> <p>Обрабатывать входящие чаты;</p> </li> <li> <p>Вести живую коммуникацию с пользователями (без скрипта);</p> </li> <li> <p>Помогать пользователям разобраться в вопросах оплаты ЖКХ, жалобы на жильца или собственника или бытовых вопросах.</p> </li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li> <p>Ежемесячный оклад — 35 000 рублей до вычета НДФЛ, премия до 6 000 рублей до вычета НДФЛ;</p> </li> <li> <p>График работы 2/2, с 11 до 23 по московскому времени;</p> </li> <li> <p>Удалённая работа — можно работать из тихого места в любом городе;</p> </li> <li> <p>Официальное трудоустройство, оплачиваемый отпуск и больничные;</p> </li> <li> <p>Компенсация расходов на интернет;</p> </li> <li> <p>Скидки от партнеров;</p> </li> <li> <p>Обучение и помощь опытных наставников: коллеги всегда готовы подсказать, оперативно ответить в чате, поделиться опытом.</p> </li> </ul> <p><strong>Мы ждем, что вы:</strong></p> <ul> <li> <p>Работали в сфере поддержки или хотели бы погрузиться в эту сферу;</p> </li> <li> <p>Готовы вникнуть в вопросы пользователей и помочь в их решении;</p> </li> <li> <p>Уверенно пользуетесь ПК;</p> </li> <li> <p>Имеете опыт удаленной работы.</p> </li> </ul> <p><strong>Ждём вашего отклика!</strong></p></div>\n        <div class=\"tmpl_hh_why\">\n            <strong>Почему нас выбирают</strong>\n            <ul class=\"tmpl_hh_why__list\">\n                <li class=\"tmpl_hh_why__item\">\n                    <img src=\"https://hhcdn.ru/ichameleon/407786.svg\" alt=\"\">\n                    <div>\n                        <b>Удалённая работа</b>\n                        <p>Можно работать удаленно из дома или любой другой точки, сохраняя work&amp;life balance — главное иметь стабильный интернет</p>\n                    </div>\n                </li>\n                <li class=\"tmpl_hh_why__item\">\n                    <img src=\"https://hhcdn.ru/ichameleon/407824.svg\" alt=\"\">\n                    <div>\n                        <b>Оформление по ТК РФ</b>\n                        <p>Официально оформляем с первого дня работы, предоставляем конкурентный социальный пакет, выплачиваем зарплату всегда вовремя</p>\n                    </div>\n                </li>\n                <li class=\"tmpl_hh_why__item\">\n                    <img src=\"https://hhcdn.ru/ichameleon/407790.svg\" alt=\"\">\n                    <div>\n                        <b>Забота</b>\n                        <p>Бесплатно предоставляем психологическую<br>и юридическую поддержку, покрываем расходы<br>на интернет и ip-телефонию, привозим документы домой, оплачиваем больничные и отпуска</p>\n                    </div>\n                </li>\n                <li class=\"tmpl_hh_why__item\">\n                    <img src=\"https://hhcdn.ru/ichameleon/407825.svg\" alt=\"\">\n                    <div>\n                        <b>Скидки от партнеров</b>\n                        <p>Можно воспользоваться скидками от партнеров<br>на путешествия, обучение, спорт, покупки и технику</p>\n                    </div>\n                </li>\n                <li class=\"tmpl_hh_why__item\">\n                    <img src=\"https://hhcdn.ru/ichameleon/407792.svg\" alt=\"\">\n                    <div>\n                        <b>Развитие</b>\n                        <p>Учитесь у лучших наставников вместе с амбициозной<br>командой единомышленников.</p>\n                    </div>\n                </li>\n            </ul>\n            <picture>\n                <source srcset=\"https://hhcdn.ru/ichameleon/407822.svg\" media=\"(max-width: 699px)\"></source>\n                <img class=\"tmpl_hh_why__title\" src=\"https://hhcdn.ru/ichameleon/407821.svg\" alt=\"\">\n            </picture>\n        </div>\n    </div>\n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1740",
+    "name": "Яндекс",
+    "url": "https://api.hh.ru/employers/1740",
+    "alternate_url": "https://hh.ru/employer/1740",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/837491.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3790847.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3790848.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T12:33:10+0300",
+  "created_at": "2025-06-05T12:33:10+0300",
+  "initial_created_at": "2025-06-05T12:33:10+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121379416",
+  "has_test": true,
+  "test": {
+    "required": true
+  },
+  "alternate_url": "https://hh.ru/vacancy/121379416",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "TWO_ON_TWO_OFF",
+      "name": "2/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_12",
+      "name": "12 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

@@ -1,0 +1,160 @@
+{
+  "id": "121354341",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Веб-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 120000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 120000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "улица Красина",
+    "building": "74",
+    "lat": 55.051716,
+    "lng": 82.96018,
+    "description": null,
+    "raw": "Новосибирск, улица Красина, 74",
+    "metro": {
+      "station_name": "Березовая роща",
+      "line_name": "Дзержинская",
+      "station_id": "53.305",
+      "line_id": "53",
+      "lat": 55.043242,
+      "lng": 82.952913
+    },
+    "metro_stations": [
+      {
+        "station_name": "Березовая роща",
+        "line_name": "Дзержинская",
+        "station_id": "53.305",
+        "line_id": "53",
+        "lat": 55.043242,
+        "lng": 82.952913
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Мы - компания «Райт Окна»</strong>, <strong>занимаем лидирующие позиции по объёму розничных продаж в Новосибирске среди оконных компаний города.</strong> Собственное производство пластиковых и алюминиевых окон площадью 1500 кв.м., позволяет контролировать высокое качество, сроки готовой продукции и конкурентные цены.<br />Компания ценит своих сотрудников, поэтому создала прозрачную систему премирования, прогрессивную систему наставничества и созидательную корпоративную культуру.<br />В связи с активным развитием Компании, приглашаем в команду <strong>Веб-разработчика Bitriх.</strong></p> <p><strong>Круг обязанностей:</strong></p> <ul> <li>Разработка сайтов и лендингов на CMS и без использования CMS;</li> <li>Участие в интересных и высоконагруженных задачах в команде (ceo-специалист, UX/UI-дизайнер, менеджер проекта, копирайтер, СММ-специалист, фронтэнд и бэкэнд программист);</li> <li>Разработка приложений и интеграций для CRM Битрикс24</li> </ul> <strong>Наши требования к опыту:</strong> <ul> <li>Экспертные знания и опыт работы по проектам в CMS 1С-Битрикс и CMS Word Press от 2-х лет;</li> <li>Вёрстка на основании макетов Figma;</li> <li>Минимальный опыт технической поддержки сайтов и хостинга;</li> <li>Опыт работы с CRM Битрикс24;</li> <li>Реализация проектов на php, js, laravel;</li> <li>Наличие сертификатов по CRM Битрикс24 / CMS 1С-Битрикс.</li> <li>Опыт разработки на framework будет Вашим преимуществом.</li> </ul> <strong>Наше предложение:</strong> <ul> <li>Гибридный формат работы (1-2 раза в месяц офис). Готовы рассмотреть полностью удалённый формат;</li> <li>Гибкий график или проектная работа;</li> <li>Справедливая и прозрачная система мотивации: оклад + премия по результатам;</li> <li>Профессиональная команда, современные задачи и возможность влиять на ход развития проекта;</li> <li>Современный и комфортный офис по линии метро.</li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "5865837",
+    "name": "Райт Окна",
+    "url": "https://api.hh.ru/employers/5865837",
+    "alternate_url": "https://hh.ru/employer/5865837",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1411249.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7264656.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7264657.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5865837",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T18:28:33+0300",
+  "created_at": "2025-06-04T18:28:33+0300",
+  "initial_created_at": "2025-06-04T18:28:33+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121354341",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121354341",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

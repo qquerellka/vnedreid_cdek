@@ -1,0 +1,159 @@
+{
+  "id": "120930256",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Middle Frontend-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 250000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 250000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Компания</strong>: SKINBOX</p> <p><strong>— О компании</strong><br />SKINBOX – платформа для открытия пользователями лутбоксов, содержащих различной ценности внутриигровые предметы CS2 с дальнейшей возможностью вывода их в Steam</p> <p><strong>— Технологический стек</strong><br />Vue 3 (Composition API)<br />Nuxt 3<br />Vite<br />TypeScript<br />UnoCSS<br />Pinia<br />GraphQL (Apollo)<br />vue-i18n</p> <p><strong>— Обязанности</strong><br />Разработка и поддержка клиентской части веб-приложений на Vue 3 / Nuxt 3<br />Вёрстка интерфейсов по Figma с использованием UnoCSS<br />Интеграция с GraphQL API<br />Разработка и поддержка переиспользуемых компонентов<br />Поддержка локализации через vue-i18n<br />Работа в тесной связке с дизайнерами, backend-разработчиками и менеджерами продукта</p> <p><strong>— Требования</strong><br />Уверенные знания Vue 3 и Composition API<br />Опыт коммерческой разработки с Nuxt 3 от 1 года<br />Хорошее понимание TypeScript<br />Опыт работы с Vite, Pinia, GraphQL (Apollo)<br />Опыт создания адаптивной, семантичной и кроссбраузерной вёрстки<br />Навыки работы с системами контроля версий (Git)<br />Базовое понимание CI/CD, SSR/SSG</p> <p><strong>— Будет плюсом</strong><br />Опыт настройки локализации через vue-i18n<br />Опыт написания unit-тестов<br />Владение английским на уровне чтения технической документации</p> <p><strong>— Мы предлагаем</strong><br />Удалённый формат работы<br />Гибкий график<br />Прозрачный и быстрый процесс найма<br />Команда без бюрократии и с реальной возможностью влиять на продукт<br />Современный стек, понятная архитектура, CI/CD</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "VueJS"
+    },
+    {
+      "name": "Nuxt"
+    },
+    {
+      "name": "Vite"
+    },
+    {
+      "name": "Pinia"
+    },
+    {
+      "name": "UnoCSS"
+    },
+    {
+      "name": "GraphQL"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9530555",
+    "name": "TRUEGAME LIMITED PARTNERSHIP",
+    "url": "https://api.hh.ru/employers/9530555",
+    "alternate_url": "https://hh.ru/employer/9530555",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9530555",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T18:35:19+0300",
+  "created_at": "2025-06-05T18:35:19+0300",
+  "initial_created_at": "2025-05-24T18:35:19+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120930256",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120930256",
+  "working_days": [],
+  "working_time_intervals": [
+    {
+      "id": "from_four_to_six_hours_in_a_day",
+      "name": "Можно сменами по 4-6 часов в день"
+    }
+  ],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "SIX_ON_ONE_OFF",
+      "name": "6/1"
+    },
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_6",
+      "name": "6 часов"
+    }
+  ]
+}

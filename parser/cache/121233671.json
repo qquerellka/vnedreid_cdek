@@ -1,0 +1,159 @@
+{
+  "id": "121233671",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "IOS-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 295000,
+    "to": 295000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 295000,
+    "to": 295000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Аптекарский проспект",
+    "building": "2",
+    "lat": 59.96866,
+    "lng": 30.317764,
+    "description": null,
+    "raw": "Санкт-Петербург, Аптекарский проспект, 2",
+    "metro": {
+      "station_name": "Петроградская",
+      "line_name": "Московско-Петроградская",
+      "station_id": "15.215",
+      "line_id": "15",
+      "lat": 59.966389,
+      "lng": 30.311293
+    },
+    "metro_stations": [
+      {
+        "station_name": "Петроградская",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.215",
+        "line_id": "15",
+        "lat": 59.966389,
+        "lng": 30.311293
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>HEALBE</strong>— команда, разрабатывающая инновационные носимые устройства и приложения, которые помогают людям управлять своим здоровьем и улучшать качество жизни.<br /><strong>Наша миссия</strong>: Помогать людям лучше понимать свое тело и привычки, чтобы достичь лучшей версии себя.</p> <p><strong>Что делаем</strong><br />Ключевые задачи отдела — развитие основного приложения HEALBE и библиотеки HEALBE SDK iOS.</p> <p>HEALBE SDK — ключевой модуль, ядро приложений HEALBE, на котором строится вся работа нашего приложения и партнерских проектов.</p> <p><em>Разработка включает в себя:</em><br />взаимодействие приложений с носимыми устройствами ленейки HEALBE GoBe (посредством Bluetooth® Low Energy);<br />работу с данными (преобразование сырых данных в бизнес-объекты, работу с CoreData и файлами);<br />работу с сетью (взаимодействие с сервером);<br />реализацию внутренней бизнес-логики для запуска новых и улучшения уже запущенных функций;<br />поддержку выпуска новых устройств и изменений в ПО носимых устройств (обновлений прошивки).</p> <p><br /><strong>Требования к соискателю</strong><br />- Знание принципов ООП, основных паттернов проектирования ПО, архитектурных паттернов (MVC, MVP, VIPER, MVVM);<br />- Опыт разработки приложений под iOS — от 3-х лет (участие в разработке и публикации крупных проектов в AppStore);<br />- Уверенное владение инструментами нативной разработки под iOS (Swift 5, Xcode, iOS SDK)</p> <p>-Понимание принципов работы с данными и их хранением в iOS (CoreData, UserDefaults, Keychain, FileManager);<br />- Базовые знания для работы с реляционными базами данных (SQLite, на уровне достаточном для составления простых запросов);<br />- Опыт работы с бинарными данными (логические операции, битовые маски, преобразования HEX);<br />- Уверенные знания и опыт работы с многопоточностью в iOS, очереди и блоки (GCD, Thread, Operation, OperationQueue);<br />- Опыт командной работы с использованием систем контроля версий (Git, code review, pull requests);<br />- Английский язык (достаточный уровень для чтения технической документации).<br /></p> <p><strong>Будет плюсом</strong><br />- Опыт работы с KMM (Kotlin Multiplatform Mobile);<br />- Опыт работы с BLE (Bluetooth® Low Energy);<br />- Опыт работы с Health Kit / Apple Health;<br />- Опыт локализации iOS-приложений;<br />- Опыт работы с Crashlytics, Firebase;<br />- Опыт написания Unit-Tests.</p> <p><br /><strong>Что предложим</strong><br />- Опыт работы не только над приложением, но и над библиотеками.<br />- Возможность участия в проектировании архитектуры наших приложений и взаимодействия их с устройствами GoBe, сервером, внешними<br />сервисами;<br />- Возможность экспертного участия в формировании функциональных и технических требований к работе приложения;<br />- Плотное взаимодействие с командой разработки продукта (Product / Project Managers; UI / UX Designers; Backend Developers; Firmware<br />Developers; QA Engineers);<br />- Проектная документация (Wiki, Confluence, Jira).</p> <p><br />- Оформление по ТК РФ.<br />- Гибкий график работы.<br />- Открытая и поддерживающая команда</p> <p>- Аккредитованная IT компания</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1582278",
+    "name": "Хилби",
+    "url": "https://api.hh.ru/employers/1582278",
+    "alternate_url": "https://hh.ru/employer/1582278",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/259190.png",
+      "90": "https://img.hhcdn.ru/employer-logo/1479290.png",
+      "240": "https://img.hhcdn.ru/employer-logo/1479291.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1582278",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T16:11:20+0300",
+  "created_at": "2025-06-05T16:11:20+0300",
+  "initial_created_at": "2025-06-02T16:11:20+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121233671",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121233671",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

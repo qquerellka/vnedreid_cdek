@@ -1,0 +1,174 @@
+{
+  "id": "119066592",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер по тестированию / Software Tester",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": null,
+    "lng": null,
+    "description": null,
+    "raw": null,
+    "metro": {
+      "station_name": "Горьковская",
+      "line_name": "Московско-Петроградская",
+      "station_id": "15.216",
+      "line_id": "15",
+      "lat": 59.956112,
+      "lng": 30.31889
+    },
+    "metro_stations": [
+      {
+        "station_name": "Горьковская",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.216",
+        "line_id": "15",
+        "lat": 59.956112,
+        "lng": 30.31889
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Сейчас мы ищем в команду тестирования специалистов, которые помогут поддерживать качество наших продуктов на высоком уровне.</p> <p><strong>У нас вы найдете: </strong></p> <ul> <li>дружный коллектив;</li> <li>новые знания и опыт;</li> <li>интересные задачи по улучшению антивирусных решений Dr.Web.</li> </ul> <p><strong>Вам предстоит: </strong></p> <ul> <li>составлять тест-планы и тест-кейсы в условиях постоянно растущей функциональности;</li> <li>заниматься тестированием продуктов и документации Dr.Web;</li> <li>регистрировать и классифицировать найденные дефекты, а также контролировать их исправление;</li> <li>разворачивать и настраивать стенды для тестирования.</li> </ul> <p><strong>Мы ожидаем, что вы:</strong></p> <ul> <li>внимательны, умеете анализировать информацию и хотите развиваться в сфере тестирования;</li> <li>готовы взаимодействовать с коллегами и командой разработки;</li> <li>знакомы с теорией, понимаете процессы тестирования и разработки ПО;</li> <li>имеете опыт тестирования desktop приложений;</li> <li>имеете опыт написания и актуализации тестовой документации (тестплан, тесткейс, баг-репорт);</li> <li>знаете ОС семейства Windows на уровне продвинутого пользователя (реестр, службы, драйверы, процессы, виртуальная память);</li> <li>понимаете принципы работы сетей (HTTPS, TCP, UDP) умеете применять системы виртуализации (VirtualBox, HyperV), понимаете их плюсы и минусы.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>опыт работы с OS Linux/Unix;</li> <li>базовые знания Python и/или PowerShell, умение писать простые скрипты;</li> <li>опыт автоматизации рутинных задач;</li> <li>опыт администрирования Windows серверов;</li> <li>знание MS Exchange, ActiveDirectory;</li> <li>знание различных баз данных и умение писать SQL-запросы.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>официальное трудоустройство в аккредитованной компании;</li> <li>работу в офисе, гибкое начало рабочего дня;</li> <li>современный офис на Петроградской стороне;</li> <li>конкурентоспособную заработную плату (обсуждается индивидуально, зависит от вашего опыта и квалификации);</li> <li>ДМС, включая стоматологию;</li> <li>горячие обеды, фрукты, напитки;</li> <li>зону отдыха, тренажеры, полезные для работы книги.</li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "тестплан, тесткейс, баг-репорт"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "OS Linux/Unix"
+    },
+    {
+      "name": "HTTPS, TCP, UDP"
+    },
+    {
+      "name": "Dr.Web"
+    },
+    {
+      "name": "администрирования Windows серверов"
+    },
+    {
+      "name": "MS Exchange"
+    },
+    {
+      "name": "ActiveDirectory"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "SQL"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "8884",
+    "name": "Доктор Веб",
+    "url": "https://api.hh.ru/employers/8884",
+    "alternate_url": "https://hh.ru/employer/8884",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1386816.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7167051.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7167052.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=8884",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-30T18:56:39+0300",
+  "created_at": "2025-05-30T18:56:39+0300",
+  "initial_created_at": "2025-04-02T12:05:01+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119066592",
+  "has_test": true,
+  "test": {
+    "required": true
+  },
+  "alternate_url": "https://hh.ru/vacancy/119066592",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

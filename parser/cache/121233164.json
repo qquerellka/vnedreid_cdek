@@ -1,0 +1,125 @@
+{
+  "id": "121233164",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "QA тестировщик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Сейчас мы ждём тестировщика в нашу команду для работы над продуктом в iGaming-сфере для зарубежного рынка.</p> <p>Вам предстоит:</p> <ul> <li> <p>Взаимодействие с командой для определения требований функционалу; и определения области для тестирования;</p> </li> <li> <p>Функциональное, интеграционное тестирование web-приложений;</p> </li> <li> <p>Тестирование API;</p> </li> <li> <p>Подготовка тест-плана, тестовых сценариев;</p> </li> <li> <p>Писать автотесты</p> </li> </ul> <p><br />Что мы ждём от вас:</p> <ul> <li> <p>Понимание процесса разработки ПО и роли тестирования в обеспечении качества;</p> </li> <li> <p>Практический опыт в тестировании от 3 лет;</p> </li> <li> <p>Опыт работы с API (Postman);</p> </li> <li> <p>Опыт интеграционного тестирования;</p> </li> <li> <p>Опыт работы с тестовой документацией;</p> </li> <li> <p>Умение и желание работать в удаленной и распределенной команде.</p> </li> </ul> <p><br />Будет преимуществом:</p> <ul> <li> <p>Опыт написания автотестов</p> </li> <li> <p>Опыт тестирования игровых проектов.</p> </li> <li> <p>Знание технологий и принципов тестирования веб- и мобильных приложений,</p> </li> <li> <p>Знание и практическое применение техник тест-дизайна</p> </li> </ul> <p>Мы предлагаем:</p> <ul> <li> <p>Возможность работать удаленно;</p> </li> <li> <p>Достойную твоего профессионального уровня зарплату;</p> </li> <li> <p>Команду увлеченных людей, которые хорошо знают свое дело, не боятся экспериментировать с нестандартными решениями и болеют за продукт;</p> </li> <li> <p>Возможность осваивать новые технологии при поддержке опытных коллег;</p> </li> <li> <p>Плоскую организационную структуру с минимумом бюрократии, гибкостью в процессах и возможностью напрямую влиять на конечный результат.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5956154",
+    "name": "Альтентетех",
+    "url": "https://api.hh.ru/employers/5956154",
+    "alternate_url": "https://hh.ru/employer/5956154",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1061309.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5865869.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5865870.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5956154",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T16:01:11+0300",
+  "created_at": "2025-06-02T16:01:11+0300",
+  "initial_created_at": "2025-06-02T16:01:11+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121233164",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121233164",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

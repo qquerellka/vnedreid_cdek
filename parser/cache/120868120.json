@@ -1,0 +1,135 @@
+{
+  "id": "120868120",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер-программист",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 60000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 60000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Казань",
+    "street": "Тэцевская",
+    "building": "14",
+    "lat": 55.853365,
+    "lng": 49.023275,
+    "description": null,
+    "raw": "Казань, Тэцевская, 14",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Обязанности: </strong>Разработка и внедрение управляющих программ на обрабатывающие центры с ЧПУ, подбор инструмента, режимов резания, оснастки, разработка технологической документации.<br /><strong>Требования: </strong>Высшее образование по специальности &quot;Конструкторско-технологическое обеспечение машиностроительных производств&quot;. Опыт работы приветствуется. Знание CA​​​​​​​PR NX и умение работать​​​​​​​ ​​​​​​​в модуле обработки​​​​​​​ ​​​​​​​NX​​​​​​​. Знание технологии машиностроения​​​​​​​, в частности теории обработки металлов резанием.<br /><strong>Условия:</strong></p> <p>- трудоустройство по ТК РФ</p> <p>- режим работы; 5-дневка, 8 рабочих часов, 2 выходных, начало смены 8 ч. 15 мин., окончание 17 ч. 00 мин., включая 45 мин. обеденного перерыва</p> <p>- соц. пакет, включающий в том числе добровольное медицинское страхование, льготное санаторно-курортное лечение по мед. показаниям, летний оздоровительный отдых для детей сотрудников, льготные абонементы в фитнес центры и бассейны</p> <p>- повышение квалификации за счет предприятия</p> <p>- жилищная программа</p> <p>- платные парковочные места (250 руб.в месяц) для легковых автомобилей работников завода</p> <p>- вахтовый автобус:</p> <p>от м. Авиастроительная до проходной завода в 6 ч. 30 мин. и в 7 ч. 30 мин.; от проходной завода до м. Авиастроительная в 16 ч. 30 мин. и в 17 ч. 30 мин.<br />от остановки Адмиралтейская слобода в 6 ч. 30 мин. и далее ул. Б. Крыловка - Коммунаров, 2 в 06 ч. 35 мин.; ул. Серова в 06 ч. 40 мин.; ул. Восстания в 06 ч. 45 мин.; ул. Воровского в 06 ч. 50 мин.; ул. Дементьева в 06 ч. 55 мин.<br />от остановки Роддом № 1 в 6 ч. 30 мин. и далее 39 квартал в 06 ч. 35 мин.; Солнышко в 06 ч. 40 мин.; метро Яшлек в 06 ч. 45 мин.; ул. Воровского в 06 ч. 50 мин.; ул. Дементьева в 06 ч. 55 мин.</p> <p>- корпоративные скидки: Оптика Регион, Stand Up Club Kazan, Баскет-холл, Татнефть Арена, ГБУ Татарский государственный академический театр имени Галиаскара Камала, магазин спортивной одежды «Форвард», КДК им.В.И.Ленина, Додо Пицца, сеть магазинов автозапчастей и автосервисов «Кунцево»</p> <p>- другие льготы и компенсации, предусмотренные коллективным договором</p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": "135",
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "138430",
+    "name": "Казанский Вертолетный Завод",
+    "url": "https://api.hh.ru/employers/138430",
+    "alternate_url": "https://hh.ru/employer/138430",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/436405.png",
+      "90": "https://img.hhcdn.ru/employer-logo/2187591.png",
+      "240": "https://img.hhcdn.ru/employer-logo/2187592.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=138430",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-22T13:54:03+0300",
+  "created_at": "2025-05-22T13:54:03+0300",
+  "initial_created_at": "2025-05-22T13:54:03+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120868120",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120868120",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

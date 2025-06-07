@@ -89,6 +89,7 @@ class Settings:
         self.num_workers: int = 1
         self.save_result: bool = False
         self.update: bool = False
+        self.list_roles: bool = False
 
         # Get config from file
         with open(config_path, "r") as cfg:
@@ -99,7 +100,9 @@ class Settings:
 
             for key, value in params.items():
                 if value is not None:
-                    if key in config:
+                    if key == 'list_roles':
+                        self.list_roles = True
+                    elif key in config:
                         config[key] = value
                     if "options" in config and key in config["options"]:
                         config["options"][key] = value
@@ -155,6 +158,9 @@ class Settings:
         )
         parser.add_argument(
             "-u", "--update", action="store_true", default=None, help="Save command line args to file in JSON format.",
+        )
+        parser.add_argument(
+            "-l", "--list_roles", action="store_true", help="List all available professional roles from HH.ru",
         )
 
         params, unknown = parser.parse_known_args(inputs_args)

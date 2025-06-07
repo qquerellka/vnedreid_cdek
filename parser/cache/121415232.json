@@ -1,0 +1,148 @@
+{
+  "id": "121415232",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Python-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 150000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 150000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>В свою команду мы ищем опытного <strong>Backend-разработчика<br /><br />Обязанности:</strong></p> <ul> <li>Поддержка и разработка бэкэнд сервисов проекта, code review, рефакторинг кода (Python);</li> <li>Разработка и поддержка интеграций с сервисами (как внутри, так и снаружи продукта);</li> <li>Сопровождение и документирование написанного кода;</li> <li>Участие в проектировании систем;</li> <li>Оптимизация сервисов под высокие нагрузки;</li> <li>Участвовать в разработке продуктов компании на языке программирования - Python;</li> <li>Взаимодействовать с командой аналитиков, разработчиков и технической поддержки с целью обеспечения качества разрабатываемого продукта;</li> <li>Участвовать в code review.</li> </ul> <strong>Требования:</strong> <p>Python:</p> <ul> <li>Знание основ ООП;</li> <li>Опыт работы с сетевыми протоколами https, websocket;</li> <li>Знание фреймворка django;</li> </ul> <p>Powershell:</p> <ul> <li>Знание основ работы с ОС windows - ФС, правами NTFS, процессами, службами, WMI классами, COM объектами, реестром;</li> <li>Умение скриптовать любые административные задачи, связанные с конфигурацией ролей Windows Server;</li> <li>Опыт работы с COM объектами в коллекции приложений, в COMAdminCatalog.</li> </ul> <strong>Условия:</strong> <ul> <li> <p>Заработная плата складывается из фиксированной окладной части + платные заявки;</p> </li> <li> <p>Удаленный формат работы или же в уютном офисе по стандартному графику, выходные в выходные, праздники в праздники;</p> </li> <li>Эффективная система ввода в должность через индивидуальные планы развития, самообучение и наставничество;</li> <li>Внутреннее обучение за счёт компании на курсах, тренингах, учебном портале;</li> <li>Льготная программа ДМС и скидки для сотрудников на изучение языков, фитнесс, развлекательные мероприятия и т.д. Насыщенная корпоративная жизнь: совместный отдых, праздники и подарки;</li> <li>Оформление по трудовому договору с первого дня.</li> </ul>",
+  "branded_description": "\n<style>\n@charset \"UTF-8\";\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_wrapper * {\n    -webkit-box-sizing: border-box;\n    box-sizing: border-box;\n}\n\n.tmpl_hh_wrapper [role=button] {\n    outline: none;\n}\n\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content li strong,\n.tmpl_hh_content li em {\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n    display: inline;\n    background: transparent;\n}\n\n.tmpl_hh_content li strong {\n    font-weight: bold;\n}\n\n.tmpl_hh_content li em {\n    font-weight: normal;\n    font-style: italic;\n}\n\n.tmpl_hh_content li p {\n    font-size: inherit !important;\n    margin: 0;\n}\n\n.tmpl_hh_content>strong,\n.tmpl_hh_content div>strong {\n    display: inline-block;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    font-family: \"Arial\", sans-serif;\n    color: #000;\n    font-size: 16px;\n    line-height: 1.3;\n    overflow: hidden;\n    -webkit-font-smoothing: antialiased;\n}\n\n.tmpl_hh_video {\n    position: relative;\n    width: 100%;\n}\n\n.tmpl_hh_video img,\n.tmpl_hh_video iframe {\n    position: absolute;\n    left: 0;\n    top: 0;\n    width: 100%;\n    height: 100%;\n}\n\n.tmpl_hh_content {\n    padding: 33px 48px;\n    line-height: 1.33;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content>strong,\n.tmpl_hh_content div>strong {\n    margin: 16px 0 8px;\n}\n\n.tmpl_hh_content p:first-child strong {\n    margin-top: 0;\n}\n\n.tmpl_hh_content strong {\n    display: block;\n    margin: 29px 0 13px;\n    font-size: 18px;\n    font-weight: bold;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 22px;\n    padding-bottom: 1px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    line-height: 1.5;\n}\n\n.tmpl_hh_content li+li {\n    margin-top: 8px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 10px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;\n}\n\n.tmpl_hh_content li:before {\n    content: \"\";\n    position: absolute;\n    left: -16px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"•\";\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter) \".\";\n}\n\n.tmpl_hh_header {\n    margin-bottom: 48px;\n}\n\n.tmpl_hh_info {\n    margin-bottom: 24px;\n    padding-inline: 48px;\n}\n\np.tmpl_hh_info_title {\n    margin-bottom: 17px;\n    font-size: 18px;\n    font-weight: 700;\n    line-height: 1.33;\n}\n\np.tmpl_hh_info_title span {\n    color: #00000061;\n}\n\np.tmpl_hh_info_text {\n    font-size: 16px;\n    line-height: 1.37;\n}\n\n.tmpl_hh_statistics {\n    margin-bottom: 14px;\n    padding-inline: 48px;\n}\n\n.tmpl_hh_statistics_cards {\n    display: grid;\n    grid-template-columns: repeat(4, 1fr);\n    gap: 16px;\n}\n\n.tmpl_hh_statistics_card {\n    padding: 6px 16px 16px 16px;\n    background-color: #f4f4f4;\n}\n\np.tmpl_hh_statistics_card_title {\n    position: relative;\n    color: #e50071;\n    font-size: 42px;\n    font-weight: 700;\n    line-height: 1.2;\n    letter-spacing: -2px;\n}\n\np.tmpl_hh_statistics_card_title--1 span {\n    left: 65px;\n}\n\np.tmpl_hh_statistics_card_title--2 span {\n    left: 87px;\n}\n\np.tmpl_hh_statistics_card_title span {\n    position: absolute;\n    top: 19%;\n    color: #e50071;\n    font-size: 32px;\n    line-height: 1;\n    letter-spacing: -3.75px;\n}\n\np.tmpl_hh_statistics_card_subtitle {\n    margin-top: -3px;\n    color: #7a7a7a;\n    font-size: 14px;\n    font-weight: 700;\n    line-height: 1.57;\n    letter-spacing: -5%;\n}\n\n.tmpl_hh_work {\n    margin-top: 13px;\n    margin-bottom: 28px;\n    padding: 0 48px;\n}\n\n.tmpl_hh_work_cards {\n    display: grid;\n    grid-template-columns: repeat(2, 1fr);\n    gap: 24px;\n}\n\n.tmpl_hh_work_card {\n    padding: 24px 29px 24px 24px;\n    border: 1px solid #eeeeee;\n}\n\n.tmpl_hh_work_card--1 img.tmpl_hh_work_card_image {\n    max-width: 54px;\n    width: 54px;\n}\n\n.tmpl_hh_work_card--2 img.tmpl_hh_work_card_image {\n    max-width: 35px;\n    width: 35px;\n}\n\n.tmpl_hh_work_card--3 img.tmpl_hh_work_card_image {\n    max-width: 47px;\n    width: 47px;\n}\n\n.tmpl_hh_work_card--4 img.tmpl_hh_work_card_image {\n    max-width: 55px;\n    width: 55px;\n}\n\n.tmpl_hh_work_card--5 img.tmpl_hh_work_card_image {\n    max-width: 50px;\n    width: 50px;\n}\n\n.tmpl_hh_work_card--6 img.tmpl_hh_work_card_image {\n    max-width: 54px;\n    width: 54px;\n}\n\nimg.tmpl_hh_work_card_image {\n    margin-bottom: 16px;\n}\n\np.tmpl_hh_work_card_title {\n    font-size: 17px;\n    font-weight: 700;\n    line-height: 1.17;\n}\n\n.tmpl_hh_footer {\n    padding: 0 80px 30px 48px;\n}\n\np.tmpl_hh_footer_subtitle {\n    font-size: 21px;\n    font-weight: 700;\n    line-height: 1.5;\n    text-transform: uppercase;\n}\n\np.tmpl_hh_footer_title {\n    margin-bottom: 12px;\n    color: #e50071;\n    font-size: 21px;\n    font-weight: 700;\n    line-height: 1.5;\n    text-transform: uppercase;\n}\n\n.tmpl_hh_footer_note {\n    color: #0000002e;\n    font-size: 14px;\n    line-height: 1.28;\n}\n\n@media (max-width: 1019px) {\n    .tmpl_hh_statistics_cards {\n        grid-template-columns: repeat(2, 1fr);\n        gap: 12px;\n    }\n}\n\n@media (max-width: 699px) {\n    .tmpl_hh_wrapper {\n        width: auto;\n        max-width: initial;\n        margin: 0 -15px;\n    }\n\n    .tmpl_hh_content {\n        padding: 33px 15px;\n    }\n\n    .tmpl_hh_info {\n        padding-inline: 15px;\n    }\n\n    p.tmpl_hh_info_title {\n        margin-bottom: 13px;\n    }\n\n    .tmpl_hh_statistics {\n        margin-bottom: 16px;\n        padding-inline: 15px;\n    }\n\n    .tmpl_hh_statistics_card {\n        padding: 0px 16px 12px 16px;\n    }\n\n    p.tmpl_hh_statistics_card_title {\n        line-height: 1.4;\n    }\n\n    p.tmpl_hh_statistics_card_title--2 span {\n        left: 88px;\n    }\n\n    p.tmpl_hh_statistics_card_title span {\n        top: 27%;\n    }\n\n    p.tmpl_hh_statistics_card_subtitle {\n        margin-top: -4px;\n        font-size: 14px;\n        letter-spacing: -0.8px;\n    }\n\n    .tmpl_hh_work {\n        margin-top: 15px;\n        margin-bottom: 28px;\n        padding: 0 15px;\n    }\n\n    .tmpl_hh_work_cards {\n        grid-template-columns: 345px;\n        gap: 12px;\n        -webkit-box-pack: center;\n        -ms-flex-pack: center;\n        justify-content: center;\n    }\n\n    .tmpl_hh_work_card {\n        display: -webkit-box;\n        display: -ms-flexbox;\n        display: flex;\n        -webkit-box-align: center;\n        -ms-flex-align: center;\n        align-items: center;\n        gap: 15px;\n        padding: 18px 16px;\n    }\n\n    .tmpl_hh_work_card--1 img.tmpl_hh_work_card_image {\n        max-width: 48px;\n        width: 48px;\n    }\n\n    .tmpl_hh_work_card--2 img.tmpl_hh_work_card_image {\n        max-width: 31px;\n        width: 31px;\n    }\n\n    .tmpl_hh_work_card--3 img.tmpl_hh_work_card_image {\n        max-width: 42px;\n        width: 42px;\n    }\n\n    .tmpl_hh_work_card--4 img.tmpl_hh_work_card_image {\n        max-width: 49px;\n        width: 49px;\n    }\n\n    .tmpl_hh_work_card--5 img.tmpl_hh_work_card_image {\n        max-width: 44px;\n        width: 44px;\n    }\n\n    .tmpl_hh_work_card--6 img.tmpl_hh_work_card_image {\n        max-width: 48px;\n        width: 48px;\n    }\n\n    img.tmpl_hh_work_card_image {\n        margin-bottom: 0;\n    }\n\n    .tmpl_hh_footer {\n        padding: 0 15px 20px 15px;\n    }\n\n    p.tmpl_hh_footer_subtitle {\n        font-size: 17px;\n        line-height: 1.4;\n    }\n\n    p.tmpl_hh_footer_title {\n        margin-bottom: 9px;\n        font-size: 17px;\n        line-height: 1.4;\n    }\n}\n\n@media (max-width: 365px) {\n    .tmpl_hh_work_cards {\n        grid-template-columns: 1fr;\n    }\n}\n</style>\n\n<script>\n//\nfunction DOM_HH_Ready() {}\n\nif (document.readyState === \"loading\") {\n    document.addEventListener(\"DOMContentLoaded\", DOM_HH_Ready);\n} else {\n    DOM_HH_Ready();\n}\n//\n</script>\n\n<div class=\"tmpl_hh_wrapper\">\n    <div class=\"tmpl_hh_header\">\n        <picture>\n            <source srcset=\"https://img.hhcdn.ru/ichameleon/443402.jpg\" media=\"(max-width: 699px)\"></source>\n            <img src=\"https://img.hhcdn.ru/ichameleon/443401.jpg\" alt=\"\" class=\"tmpl_hh_header_image\">\n        </picture>\n    </div>\n    <div class=\"tmpl_hh_info\">\n        <p class=\"tmpl_hh_info_title\">\n            Первый Бит — ведущий<span>*</span> интегратор эффективных ИТ-решений.\n        </p>\n        <p class=\"tmpl_hh_info_text\">\n            Мы специализируемся на цифровизации и автоматизации учета\n            <nobr> и бизнес-процессов.</nobr> Наша миссия состоит в том, чтобы\n            делать бизнес клиента сильнее и создавать возможности для развития\n            с помощью\n            <nobr> ИТ-технологий. </nobr>\n        </p>\n    </div>\n    <div class=\"tmpl_hh_statistics\">\n        <div class=\"tmpl_hh_statistics_cards\">\n            <div class=\"tmpl_hh_statistics_card\">\n                <p class=\"tmpl_hh_statistics_card_title\">27</p>\n                <p class=\"tmpl_hh_statistics_card_subtitle\">\n                    <nobr>лет на рынке ИТ</nobr>\n                </p>\n            </div>\n            <div class=\"tmpl_hh_statistics_card tmpl_hh_statistics_card--2\">\n                <p class=\"tmpl_hh_statistics_card_title\">9</p>\n                <p class=\"tmpl_hh_statistics_card_subtitle\">стран</p>\n            </div>\n            <div class=\"tmpl_hh_statistics_card tmpl_hh_statistics_card--3\">\n                <p class=\"tmpl_hh_statistics_card_title tmpl_hh_statistics_card_title--1\">\n                    100<span>+</span>\n                </p>\n                <p class=\"tmpl_hh_statistics_card_subtitle\">офисов</p>\n            </div>\n            <div class=\"tmpl_hh_statistics_card tmpl_hh_statistics_card--4\">\n                <p class=\"tmpl_hh_statistics_card_title tmpl_hh_statistics_card_title--2\">\n                    9000<span>+</span>\n                </p>\n                <p class=\"tmpl_hh_statistics_card_subtitle\">сотрудников</p>\n            </div>\n        </div>\n    </div>\n    <div class=\"tmpl_hh_content\">\n        <p>В свою команду мы ищем опытного <strong>Backend-разработчика<br><br>Обязанности:</strong></p> <ul> <li>Поддержка и разработка бэкэнд сервисов проекта, code review, рефакторинг кода (Python);</li> <li>Разработка и поддержка интеграций с сервисами (как внутри, так и снаружи продукта);</li> <li>Сопровождение и документирование написанного кода;</li> <li>Участие в проектировании систем;</li> <li>Оптимизация сервисов под высокие нагрузки;</li> <li>Участвовать в разработке продуктов компании на языке программирования - Python;</li> <li>Взаимодействовать с командой аналитиков, разработчиков и технической поддержки с целью обеспечения качества разрабатываемого продукта;</li> <li>Участвовать в code review.</li> </ul> <strong>Требования:</strong> <p>Python:</p> <ul> <li>Знание основ ООП;</li> <li>Опыт работы с сетевыми протоколами https, websocket;</li> <li>Знание фреймворка django;</li> </ul> <p>Powershell:</p> <ul> <li>Знание основ работы с ОС windows - ФС, правами NTFS, процессами, службами, WMI классами, COM объектами, реестром;</li> <li>Умение скриптовать любые административные задачи, связанные с конфигурацией ролей Windows Server;</li> <li>Опыт работы с COM объектами в коллекции приложений, в COMAdminCatalog.</li> </ul> <strong>Условия:</strong> <ul> <li> <p>Заработная плата складывается из фиксированной окладной части + платные заявки;</p> </li> <li> <p>Удаленный формат работы или же в уютном офисе по стандартному графику, выходные в выходные, праздники в праздники;</p> </li> <li>Эффективная система ввода в должность через индивидуальные планы развития, самообучение и наставничество;</li> <li>Внутреннее обучение за счёт компании на курсах, тренингах, учебном портале;</li> <li>Льготная программа ДМС и скидки для сотрудников на изучение языков, фитнесс, развлекательные мероприятия и т.д. Насыщенная корпоративная жизнь: совместный отдых, праздники и подарки;</li> <li>Оформление по трудовому договору с первого дня.</li> </ul></div>\n    <div class=\"tmpl_hh_work\">\n        <div class=\"tmpl_hh_work_cards\">\n            <div class=\"tmpl_hh_work_card tmpl_hh_work_card--1\">\n                <img src=\"https://img.hhcdn.ru/ichameleon/443420.svg\" alt=\"\" class=\"tmpl_hh_work_card_image\">\n                <p class=\"tmpl_hh_work_card_title\">\n                    Гибкий формат <br>\n                    и график работы\n                </p>\n            </div>\n            <div class=\"tmpl_hh_work_card tmpl_hh_work_card--2\">\n                <img src=\"https://img.hhcdn.ru/ichameleon/443421.svg\" alt=\"\" class=\"tmpl_hh_work_card_image\">\n                <p class=\"tmpl_hh_work_card_title\">\n                    Карьерный и профессиональный рост\n                </p>\n            </div>\n            <div class=\"tmpl_hh_work_card tmpl_hh_work_card--3\">\n                <img src=\"https://img.hhcdn.ru/ichameleon/443422.svg\" alt=\"\" class=\"tmpl_hh_work_card_image\">\n                <p class=\"tmpl_hh_work_card_title\">Наставничество и обучение</p>\n            </div>\n            <div class=\"tmpl_hh_work_card tmpl_hh_work_card--4\">\n                <img src=\"https://img.hhcdn.ru/ichameleon/443423.svg\" alt=\"\" class=\"tmpl_hh_work_card_image\">\n                <p class=\"tmpl_hh_work_card_title\">Общение на равных</p>\n            </div>\n            <div class=\"tmpl_hh_work_card tmpl_hh_work_card--5\">\n                <img src=\"https://img.hhcdn.ru/ichameleon/443424.svg\" alt=\"\" class=\"tmpl_hh_work_card_image\">\n                <p class=\"tmpl_hh_work_card_title\">\n                    Скидки и бонусы от партнёров\n                </p>\n            </div>\n            <div class=\"tmpl_hh_work_card tmpl_hh_work_card--6\">\n                <img src=\"https://img.hhcdn.ru/ichameleon/443425.svg\" alt=\"\" class=\"tmpl_hh_work_card_image\">\n                <p class=\"tmpl_hh_work_card_title\">Яркие события и корпоративы</p>\n            </div>\n        </div>\n    </div>\n    <div class=\"tmpl_hh_footer\">\n        <p class=\"tmpl_hh_footer_subtitle\">\n            ЕСТЬ ЖЕЛАНИЕ ПОСТОЯННО РАЗВИВАТЬСЯ И ДОСТИГАТЬ САМЫХ АМБИЦИОЗНЫХ ЦЕЛЕЙ?\n        </p>\n        <p class=\"tmpl_hh_footer_title\">ПРИСОЕДИНЯЙСЯ К НАШЕЙ КОМАНДЕ!</p>\n        <p class=\"tmpl_hh_footer_note\">\n            *по версии TAdviser, 2024 год<br>ООО ФОРМУЛА ИТ представляет бренд\n            Первый\n        </p>\n    </div>\n</div>\n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "PostgreSQL"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3177",
+    "name": "Первый Бит",
+    "url": "https://api.hh.ru/employers/3177",
+    "alternate_url": "https://hh.ru/employer/3177",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/635336.png",
+      "90": "https://img.hhcdn.ru/employer-logo/2982496.png",
+      "240": "https://img.hhcdn.ru/employer-logo/2982497.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3177",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T11:47:26+0300",
+  "created_at": "2025-06-06T11:47:26+0300",
+  "initial_created_at": "2025-06-06T11:47:26+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121415232",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121415232",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

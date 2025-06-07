@@ -1,0 +1,189 @@
+{
+  "id": "119623540",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "AI-разработчик (RAG)",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": null,
+    "to": 300000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 300000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>&quot;StarShip.Pro&quot; </strong><em><strong>- международный стартап с лучшими доступными технологиями мирового уровня, включая решения от ведущих разработчиков. </strong></em></p> <p><em>Сейчас мы активно работаем над развитием передовых решений на базе AI, в связи с чем <strong>ищем опытного и увлеченного Python-разработчика уровня middle+ или Senior,</strong> который хочет расти <strong>в направлении RAG </strong>и создавать инновационные ИИ-агенты, а так же активно осваивать новые технологии!</em></p> <p><strong>Обязанности:</strong></p> <ul> <li>проектирование и разработка продуктов на основе RAG-подхода;</li> <li>разработка интеграций с внешними источниками данных и AI-моделями;</li> <li>создание и внедрение инновационных ИИ-агентов для решения реальных бизнес-задач;</li> <li>проведение экспериментов с новыми подходами, технологиями и инструментами;</li> <li>тесное взаимодействие с экспертами в области AI и продуктовой разработки.</li> </ul> <p><strong>Мы ждем от Вас:</strong></p> <ul> <li>аналогичный опыт работы будет Вашим преимуществом;</li> <li><strong><em>опыт коммерческой разработки на P</em>ython от 3-х лет <em>и создания систем RAG;</em></strong></li> <li> <p>навыки написания качественного, тестируемого и поддерживаемого кода в соответсвии с Рер8;</p> </li> <li>уверенное владение фреймворками Flask, FastAPI или Django;</li> <li>умение разрабатывать и использовать RESTful API;</li> <li>практический опыт работы с контейнеризацией (Docker) и оркестрацией (Kubernetes);</li> <li>знание инструментов CI/CD (Jenkins, Gitlab), опыт с OpenAI API и/или аналогичными API (например, Anthropic);</li> <li>глубокие знания Python, уверенное понимание ООП, паттернов проектирования, структур данных и алгоритмов;</li> <li>опыт автоматизированного тестирования и понимание архитектуры микросервисов;</li> <li> <p><em><strong>глубокий интерес к технологиям AI и желание развиваться в данной области.</strong></em></p> </li> </ul> <p><em><strong>Будет плюсом:</strong></em></p> <ul> <li>опыт работы с крупными языковыми моделями (GPT, Sonnet, LLaMA, DeepSeek,<br />Mistral);</li> <li>практический опыт работы с системами поиска (Elasticsearch, Solr, Vespa);</li> <li>знание векторных баз данных (FAISS, Pinecone, Qdrant, Chroma);</li> <li>навыки проектирования и оптимизации индексов;</li> <li>опыт работы с ML-фреймворками (PyTorch, TensorFlow);</li> <li>знание библиотек NLP: Hugging Face Transformers, SpaCy, NLTK;</li> </ul> <p><em><strong>Как преимущество:</strong></em></p> <ul> <li>инжиниринг промтов: создание и оптимизация, интеграция результатов поиска в контекст;</li> <li>управление контекстом и базами знаний: работа с корп. базами знаний и векторными хранилищами;</li> <li>оптимизация производительности: кэширование, параллельная обработка и оптимизация запросов;</li> <li>оценка качества и мониторинг: внедрение инструментов оценки релевантности и мониторинга в реальном времени;</li> <li>безопасность и соответствие стандартам: знание принципов шифрования, безопасного хранения данных и стандартов (ФЗ).</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li> <p>работу в международной компании с доступом к лучшим технологиями мирового уровня;</p> </li> <li> <p>конкурентную заработную плату, которую мы готовы обсудить лично (до 300 000 рублей на руки);</p> </li> <li> <p>обучение технологиям AI, включая работу с различными платформами;</p> </li> <li> <p>участие в создании и развитии продуктов, использующих AI для решения реальных бизнес-задач;</p> </li> <li> <p>работу с высоконагруженными системами и масштабируемыми архитектурами;</p> </li> <li> <p>гибкий график работы с полностью удаленным форматом;</p> </li> <li> <p>перспективу профессионального роста до Team Lead, Solution Architect или руководителя проектов в области AI;</p> </li> <li> <p>возможность поработать с новым уникальным продуктом, которого ранее не было на рынке РФ;</p> </li> <li>работу в динамичной и амбициозной команде, которая стремится к большому успеху.</li> </ul> <p><em><strong>Ждем вашего отклика, чтобы вместе создавать будущее интеллектуальных решений!</strong></em></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Django Framework"
+    },
+    {
+      "name": "Рефакторинг кода"
+    },
+    {
+      "name": "Flask"
+    },
+    {
+      "name": "CI/CD"
+    },
+    {
+      "name": "API"
+    },
+    {
+      "name": "AI"
+    },
+    {
+      "name": "FastAPI"
+    },
+    {
+      "name": "RAG"
+    },
+    {
+      "name": "PEP8"
+    },
+    {
+      "name": "GitHub"
+    },
+    {
+      "name": "PyTorch"
+    },
+    {
+      "name": "TensorFlow"
+    },
+    {
+      "name": "ML"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11943213",
+    "name": "StarShip.Pro",
+    "url": "https://api.hh.ru/employers/11943213",
+    "alternate_url": "https://hh.ru/employer/11943213",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1415408.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7281292.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7281293.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11943213",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-16T18:38:40+0300",
+  "created_at": "2025-05-16T18:38:40+0300",
+  "initial_created_at": "2025-04-17T09:53:14+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119623540",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119623540",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b2",
+        "name": "B2 — Средне-продвинутый"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    },
+    {
+      "id": "HOURS_9",
+      "name": "9 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

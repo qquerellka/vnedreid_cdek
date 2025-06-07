@@ -1,0 +1,183 @@
+{
+  "id": "121001119",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Java-разработчик (Middle/Senior)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": null,
+    "to": 280000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 280000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "Советский район, микрорайон Академгородок, улица Демакова",
+    "building": "23/5",
+    "lat": 54.862451,
+    "lng": 83.112921,
+    "description": null,
+    "raw": "Новосибирск, Советский район, микрорайон Академгородок, улица Демакова, 23/5",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Привет. Я — Сэм, крайний за разработку в компании Software Cats. Я ищу усиление для нашей backend-команды.</p> <p><strong>Что предлагаем:</strong></p> <ul> <li>Задачи из разных предметных областей;</li> <li>Работу над реальными бизнес-задачами клиентов, быстрый фидбэк;</li> <li>Перспективы роста;</li> <li>Неформальное общение и здоровое чувство юмора;</li> <li>Дружелюбные собеседования: никаких «экзаменов» и «погонять по теории».</li> </ul> <p><strong>Задачи:</strong></p> <p>1. Сначала:</p> <ul> <li>Познакомиться с нами и процессами;</li> <li>Пройти собеседование с заказчиками;</li> <li>Вникнуть в проект (тех.стек Java 8, 11, 17, Spring (Boot), PostgreSQL, REST \\ SOAP, Kafka \\ Rabbit, Jetty \\ Tomcat, Maven \\ Gradle). Понять, как работает система заказчика и к кому с какими вопросами надо идти;</li> <li>Писать код =) Писать по-разному: где-то быстро и срочно, где-то вдумчиво и продумывая риски.</li> </ul> <p>2. Дальше:</p> <ul> <li>Коммуницировать с заказчиком, по необходимости прояснять задачи и предлагать решения;</li> <li>Заниматься онбордингом новых членов команды, если будет необходимость в расширении;</li> <li>Продолжать писать полезный код =)</li> </ul> <p>3. Возможно:</p> <ul> <li>Готовить и проводить внутренние митапы для прокачки технических скиллов и навыков публичных выступлений;</li> <li>Предлагать свои идеи, если захочется чем-то еще заниматься в компании: мы всегда готовы обсуждать инициативы!</li> </ul> <p><strong>Что ждем от кандидатов:</strong></p> <ul> <li>3+ года опыта коммерческой разработки на Java;</li> <li>Понимание как работают Spring и Spring Boot, опыт их использования и отладки проблем;</li> <li>Понимание как приложения собираются, доставляются и эксплуатируются.</li> </ul> <p><strong>Плюсом будет:</strong></p> <ul> <li>Опыт коммерческой разработки на Kotlin;</li> <li>Опыт разработки через тестирование.</li> </ul> <p><strong>Наши условия:</strong></p> <ul> <li>Аккредитованная IT компания;</li> <li>Полная занятость, гибкий рабочий график;</li> <li>ДМС (со стоматологией) по прохождению испытательного срока (РФ);</li> <li>Офис в Академгородке (недалеко от Академпарка) или удаленная работа (внутри РФ).</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Apache Maven"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Spring Framework"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Hibernate ORM"
+    },
+    {
+      "name": "Spring Boot"
+    },
+    {
+      "name": "Java"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Design Patterns"
+    },
+    {
+      "name": "Unit Testing"
+    },
+    {
+      "name": "REST"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Kubernetes"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4809613",
+    "name": "Software Cats",
+    "url": "https://api.hh.ru/employers/4809613",
+    "alternate_url": "https://hh.ru/employer/4809613",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1390813.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7183039.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7183040.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4809613",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T05:40:48+0300",
+  "created_at": "2025-06-05T05:40:48+0300",
+  "initial_created_at": "2025-05-27T05:40:48+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121001119",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121001119",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

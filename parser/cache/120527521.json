@@ -1,0 +1,125 @@
+{
+  "id": "120527521",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Middle-Frontend разработчик",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "2 линия",
+    "building": "метро Петроградская",
+    "lat": 59.966399,
+    "lng": 30.311511,
+    "description": null,
+    "raw": "Санкт-Петербург, 2 линия, метро Петроградская",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Требуемый опыт работы: 1–3 года<br />Middle Frontend<br />Полная занятость, полный день</strong></p> <p><strong>OSLA это SaaS-платформа.</strong></p> <p><strong>Мы создаем интуитивно понятное и простое в использовании комплексное решение для цифровой трансформации бизнеса, доступное всем участникам рынка строительства не зависимо от масштаба деятельности.</strong></p> <p><strong>Даем свободу принятия решений тем, кто готов взять на себя ответственность. Готовы слушать и слышать вас. Обеспечиваем всем необходимым для комфортной работы, отсутствие формальностей.</strong></p> <p><strong>Предстоит заниматься:</strong><br />Реализацией нового функционала, писать на него тесты, делать багфиксинг, оптимизировать уже имеющийся функционал;<br />Проводить кодревью;</p> <p><strong>Требования:</strong></p> <p>Опыт продуктовой разработки от 1 года;<br />Уверенные знания JavaScript (es6);<br />Опыт работы с React+Redux стеком;<br />Опыт оптимизации React приложений;<br />Опыт работы с REST API;<br />Навыки работы с Git, понимание принципов gitflow;<br />Внимательность к деталям, и поэтому Вы напишете слово &quot;osla&quot; в отклике на вакансию;<br />Умение разбираться в бизнес-логике фичей, оптимизировать компоненты, проводить code-review;<br />Опыт работы со Storybook;<br />Опыт написания unit-тестов, скриншотных тестов;</p> <p><strong>Условия:</strong></p> <p>Просторный офис в центре Санкт-Петербурга;<br />Оформление по ТК.</p> <p><br /><strong>Ключевые навыки:</strong></p> <p>React<br />TypeScript<br />Git<br />Оптимизация кода<br />Unit/e2e тесты</p> <p><strong>Мы будем рады тем, кто по-настоящему любит свое дело, готов на практике создавать действительно крутой продукт,<br />стремится расти в hard и soft скиллах внутри нашей команда Osla</strong></p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2668672",
+    "name": "Osla",
+    "url": "https://api.hh.ru/employers/2668672",
+    "alternate_url": "https://hh.ru/employer/2668672",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/478094.png",
+      "90": "https://img.hhcdn.ru/employer-logo/2354228.png",
+      "240": "https://img.hhcdn.ru/employer-logo/2354229.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2668672",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T12:10:23+0300",
+  "created_at": "2025-06-07T12:10:23+0300",
+  "initial_created_at": "2025-05-14T12:10:23+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120527521",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120527521",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

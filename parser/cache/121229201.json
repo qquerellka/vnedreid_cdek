@@ -1,0 +1,159 @@
+{
+  "id": "121229201",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "C#/.NET-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "53",
+    "name": "Краснодар",
+    "url": "https://api.hh.ru/areas/53"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Краснодар",
+    "street": "Черниговская улица",
+    "building": "1",
+    "lat": 45.039731,
+    "lng": 39.018226,
+    "description": null,
+    "raw": "Краснодар, Черниговская улица, 1",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Если ты имеешь опыт работы с коммерческими проектами от 3 лет, то мы приглашаем тебя окунуться в микс из интересных проектов, фантастических ивентов и классной рабочей атмосферы в компании Justice IT.</p> <p>Наш идеальный кандидат:Умеет находить общий язык с коллегами и работать в команде;</p> <p>Имеет следующие навыки:</p> <p>● .NET и C#:</p> <p>Опыт работы с .NET 6+ и AspNetCore;</p> <p>Понимание принципов ООП и SOLID;</p> <p>Умение работать с асинхронностью и многопоточностью;</p> <p>Знание шаблонов проектирования и их применение на практике.</p> <p>● Базы данных:</p> <p>Опыт работы с реляционными СУБД (MySQL 8+);</p> <p>Умение писать оптимизированные SQL-запросы;</p> <p>Понимание принципов работы с транзакциями и индексами.</p> <p>● Инфраструктура и DevOps:</p> <p>Базовое понимание Kubernetes (k8s) на уровне команд (подключение к подам, просмотр логов, прокидывание портов и т.п.);</p> <p>Опыт работы с облачными платформами (Azure, Yandex Cloud);</p> <p>Базовое понимание IaaC и Terraform;</p> <p>Умение развернуть свой код в production самостоятельно, используя готовую инфраструктуру.</p> <p>● Дополнительные навыки:</p> <p>Опыт работы с Kafka и HTTP для межсервисного взаимодействия;</p> <p>Знание GitHub Actions для CI/CD;</p> <p>Опыт разработки приложений для разных стран с учетом локальных особенностей (языки, налоги, форматирование дат/адресов и т.п.).</p> <p>Мы уверены, что ты не пожалеешь, попав в нашу команду, ведь каждый наш сотрудник — неслучайный человек. Justice IT — это ребята, которые горят своим делом, колоссально вырастают за год и продолжают совершенствоваться.</p> <p>Присоединяйся к нам, и ты получишь:</p> <p>Понятный план развития в компании: ты будешь знать, как и куда тебе расти;</p> <p>Работу с интересными международными проектами и нестандартными задачами;</p> <p>Стабильную, официальную заработную плату, соответствующую рыночным условиям. Конкретная сумма обсуждается индивидуально с каждым кандидатом.</p> <p>А еще мы гарантируем постоянство в движении вперед, вдохновляющих на свершения коллег и множество возможностей раскрыться как личность.</p> <p>Мы готовы идти навстречу кандидату в его пожеланиях по зарплате, если они коррелируют с опытом.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "C#"
+    },
+    {
+      "name": ".NET Core"
+    },
+    {
+      "name": ".NET Framework"
+    },
+    {
+      "name": "ASP.NET Core"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "Azure"
+    },
+    {
+      "name": "Yandex Cloud"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4851335",
+    "name": "Justice IT",
+    "url": "https://api.hh.ru/employers/4851335",
+    "alternate_url": "https://hh.ru/employer/4851335",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1030195.jpeg",
+      "90": "https://img.hhcdn.ru/employer-logo/5741540.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/5741541.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4851335",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T14:58:54+0300",
+  "created_at": "2025-06-05T14:58:54+0300",
+  "initial_created_at": "2025-06-02T14:58:54+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121229201",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121229201",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "a2",
+        "name": "A2 — Элементарный"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

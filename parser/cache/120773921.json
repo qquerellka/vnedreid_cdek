@@ -1,0 +1,201 @@
+{
+  "id": "120773921",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 120000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 120000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": 59.947428678026824,
+    "lng": 30.27499504387379,
+    "description": null,
+    "raw": "Санкт-Петербург, 6-я линия В.О., 63",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Привет!<br />Мы - компания <strong>«BI Consult», </strong>аккредитованное IT с 15-ти летним опытом в интеграции<strong> BI-систем </strong>и построении<strong> DWH.</strong></p> <p>Мы не просто разрабатываем решения – мы создаём экспертизу:</p> <ul> <li> <p>Наш <strong>Учебный центр</strong> уже много лет помогает расти профессионалам.</p> </li> <li> <p>Исследовательский проект<strong> &quot;Круг Громова&quot;</strong> – это инновации и реальный вклад в развитие BI.</p> </li> <li> <p><strong>Команда</strong> – наша главная ценность. Мы работаем, совершенствуемся, и добиваемся результатов вместе.</p> </li> </ul> <p><strong>Чем у нас занимается Системный аналитик?</strong></p> <ul> <li> <p>Анализ, детализация и доработка требований совместно с заказчиком.</p> </li> <li> <p>Профилирование данных, работа со слоями DWH.</p> </li> <li> <p>Подготовка маппингов данных.</p> </li> <li> <p>Проведение мероприятий по тестированию загруженных данных, подготовка требований к тестированию.</p> </li> <li> <p>Разработка технической документации (ТЗ, архитектура, бизнес-процессы).</p> </li> <li> <p>Взаимодействие с командой разработки (постановка задач в Jira).</p> </li> </ul> <p><strong>Мы ищем профессионала, который:</strong></p> <ul> <li>Имеет опыт системного анализа в проектах <strong>DWH/BI</strong>.</li> <li>Понимает <strong>SQL</strong> (аналитические функции, оптимизация запросов, хранимые процедуры).</li> <li>Разбирается в <strong>REST/SOAP API</strong> и принципах работы <strong>СУБД</strong> (OLTP/OLAP, MPP, NoSQL).</li> <li>Знает <strong>ETL-инструменты</strong> (Airflow, NiFi).</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li> <p>Опыт с <strong>ClickHouse, GreenPlum, PostgreSQL</strong>.</p> </li> <li> <p>Навыки работы с BI-инструментами (<strong>Power BI, Tableau, Qlik</strong> и др.).</p> </li> <li> <p>Участие в построении потоковых пайплайнов.</p> </li> <li>Опыт работы со стеком <strong>ArenaData.</strong></li> </ul> <p><strong>Что предлагаем мы:</strong></p> <ul> <li><strong>Надёжность и комфорт</strong><br />Официальное оформление по ТК, белая зарплата.<br />Офис, где можно спокойно работать и проводить время с тиммейтами.<br />Всю технику для работы предоставляем, а HR/Team lead ответят на любые волнующие вопросы.</li> <li><strong>Onboarding</strong><br />Первое время всегда отводим на погружение в процессы.<br />Для каждого отдела свой онбординг.<br />Менторинг от buddy и коллег.</li> <li><strong>Развитие и экспертиза</strong><br />Неограниченное количество курсов в <strong>Учебном центре BI Consult</strong>.<br />Доступ к сертификациям от ведущих вендоров.<br />Широкий стек, возможность поработать с крупными известными заказчиками.<br />Возможность принять участие в наших исследовательских проектах.</li> <li><strong>Забота о сотрудниках</strong><br />ДМС (пакет &quot;комфорт +&quot;).<br />Йога в обед.<br />Кроссфит и АРБ по утрам.<br />1-to-1, Performance review, открытая обратная связь.<br />Ежегодно выпускаем HR-book, обновляем мерч.</li> <li>​​​​​​​<strong>Корпоративная культура</strong><br />Мы открыты к интересным идеям, запрашиваем обратную связь от сотрудников, регулярно внедряем новые практики.</li> <li>​​​​​​​​​​​​​​<strong>Совместный отдых</strong><br />Митапы, Книжный клуб, киновечера, турниры.<br />Выезды на природу, большие корпоративы.<br />Новые традиции – от пижамных дней до Newcomers&#39; party.</li> </ul> <p><strong>Офис в Санкт-Петербурге</strong> (гибкий график начала дня с 8:00 до 11:00).<br />​​​​​​​<br />​​​​​​​Направляй отклик, и обсудим всё подробнее!</p> <p><strong>BI Consult – там, где данные превращаются в решения. </strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Системный анализ"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Системная интеграция"
+    },
+    {
+      "name": "Apache Airflow"
+    },
+    {
+      "name": "Apache Kafka"
+    },
+    {
+      "name": "QlikView"
+    },
+    {
+      "name": "Greenplum"
+    },
+    {
+      "name": "Qlik Sense"
+    },
+    {
+      "name": "ETL"
+    },
+    {
+      "name": "DWH"
+    },
+    {
+      "name": "Clickhouse"
+    },
+    {
+      "name": "Big Data"
+    },
+    {
+      "name": "Apache NiFi"
+    },
+    {
+      "name": "JSON API"
+    },
+    {
+      "name": "MS SQL"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Постановка задач разработчикам"
+    },
+    {
+      "name": "Power BI"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "148",
+      "name": "Системный аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "594030",
+    "name": "BI Consult",
+    "url": "https://api.hh.ru/employers/594030",
+    "alternate_url": "https://hh.ru/employer/594030",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/168384.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/370671.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/443528.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=594030",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-20T15:45:50+0300",
+  "created_at": "2025-05-20T15:45:50+0300",
+  "initial_created_at": "2025-05-20T15:45:50+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120773921",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120773921",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

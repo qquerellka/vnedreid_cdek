@@ -1,0 +1,170 @@
+{
+  "id": "120995547",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер по тестированию / QA Engineer / Тестировщик ПО",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": null,
+    "to": 80000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 80000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Компания &quot;ЕДИНЫЙ ЦЕНТР ЗАЩИТЫ&quot; – лидер на рынке юридических услуг в 40 городах Российской Федерации, от Владивостока до Калининграда. Аккредитованная ИТ компания, разрабатываем собственные IT-решения для автоматизации юридических процессов.</p> <p> </p> <p><em>В связи с расширением команды ищем опытного тестировщика ПО, способного эффективно выявлять дефекты, разрабатывать тест-кейсы и участвовать в автоматизации тестирования для обеспечения высокого качества продукта.</em></p> <p> </p> <p><strong>УСЛОВИЯ:</strong></p> <ul> <li>Трудоустройство по ТК РФ (испытательный срок 3 месяца).</li> <li>График 5/2, удалённая работа.</li> <li>Зарплата: обсуждается по результатам собеседования</li> </ul> <p> </p> <p><strong>ОСНОВНЫЕ ОБЯЗАННОСТИ:</strong></p> <ul> <li>Проведение ручного тестирования ПО (веб, мобильные приложения, десктоп).</li> <li>Проведение функционального тестирования.</li> <li>Проведение регрессионного тестировании релизов.</li> <li>Составление тест-кейсов, чек-листов и баг-репортов.</li> <li>Анализ ошибок, взаимодействие с разработчиками для их устранения.</li> <li>Поддержка пользователей 1-й линии: обработка входящих запросов.</li> <li>Консультирование пользователей по базовым вопросам работы ПО.</li> <li>Фиксация технических проблем.</li> <li>Документирование типовых вопросов и решений (база знаний).</li> </ul> <p> </p> <p><strong>ЧТО МЫ ОЖИДАЕМ ОТ ВАС:</strong></p> <ul> <li>Базовые знания QA (виды тестирования, принципы составления тест-кейсов).</li> <li>Опыт работы в роли тестировщика.</li> <li>Умение понятно объяснять технические моменты.</li> <li>Внимательность, аналитическое мышление.</li> <li>Готовность работать в смежной роли (тестирование + поддержка)</li> </ul> <p> </p> <p><strong>ПОЧЕМУ МЫ?</strong></p> <ul> <li>Возможность работать над масштабным продуктом в юридической сфере.</li> <li>Удалённый формат с гибким подходом.</li> <li>Обучение и профессиональный рост в дружной команде.</li> </ul> <p> </p> <p><em>Мы будем рады видеть в нашем коллективе ответственных, инициативных и позитивных сотрудников, нацеленных на профессиональный рост и долгосрочную работу!</em></p> <p> </p> <p><strong><em>Уважаемые разработчики, к сожалению, не все соискатели читают описание вакансии и отправляют свои отклики не имея релевантного опыта. Мы ценим Ваше время и не будем приглашать на собеседование без сопроводительного письма. Также для ускорения рассмотрения откликов и принятия решения по кандидатам, просим в сопроводительном письме сообщить ожидаемый уровень заработной платы.</em></strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Ручное тестирование"
+    },
+    {
+      "name": "Интеграционное тестирование"
+    },
+    {
+      "name": "Кроссбраузерное тестирование"
+    },
+    {
+      "name": "Нагрузочное тестирование"
+    },
+    {
+      "name": "Модульное тестирование"
+    },
+    {
+      "name": "Функциональное тестирование"
+    },
+    {
+      "name": "Кроссплатформенное тестирование"
+    },
+    {
+      "name": "Регрессионное тестирование"
+    },
+    {
+      "name": "Тестирование"
+    },
+    {
+      "name": "A/B тесты"
+    },
+    {
+      "name": "Use case"
+    },
+    {
+      "name": "Beta-тестирования"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1976850",
+    "name": "Единый Центр",
+    "url": "https://api.hh.ru/employers/1976850",
+    "alternate_url": "https://hh.ru/employer/1976850",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/395132.png",
+      "90": "https://img.hhcdn.ru/employer-logo/2022782.png",
+      "240": "https://img.hhcdn.ru/employer-logo/2022783.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1976850",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-26T17:41:28+0300",
+  "created_at": "2025-05-26T17:41:28+0300",
+  "initial_created_at": "2025-05-26T17:41:28+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120995547",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120995547",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

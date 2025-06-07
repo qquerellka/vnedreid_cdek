@@ -1,0 +1,205 @@
+{
+  "id": "120753519",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "PHP-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": null,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Банковский переулок",
+    "building": "3",
+    "lat": 59.930455111495135,
+    "lng": 30.324314710483737,
+    "description": null,
+    "raw": "Санкт-Петербург, Банковский переулок, 3",
+    "metro": {
+      "station_name": "Садовая",
+      "line_name": "Фрунзенско-Приморская",
+      "station_id": "18.250",
+      "line_id": "18",
+      "lat": 59.926739,
+      "lng": 30.317753
+    },
+    "metro_stations": [
+      {
+        "station_name": "Садовая",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.250",
+        "line_id": "18",
+        "lat": 59.926739,
+        "lng": 30.317753
+      },
+      {
+        "station_name": "Сенная площадь",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.218",
+        "line_id": "15",
+        "lat": 59.927135,
+        "lng": 30.320316
+      },
+      {
+        "station_name": "Спасская",
+        "line_name": "Лахтинско-Правобережная",
+        "station_id": "17.237",
+        "line_id": "17",
+        "lat": 59.927135,
+        "lng": 30.320316
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Привет! Мы — дочерняя IT-компания сети отелей «Друзья». Более 10 лет мы используем собственную облачную PMS-систему для управления отелями и онлайн-бронированиями и сейчас находимся на старте нового масштабного и амбициозного проекта по её глобальному усовершенствованию и выходу с ней на рынок. В связи с этим мы расширяем нашу команду и ищем активного PHP-разработчика, который готов работать как с легаси-кодом,<br />так и участвовать в его обновлении, а также разрабатывать новые проекты.</p> <strong>Требования:</strong> <ul> <li>Уверенные знания PHP и фреймворка Laravel;</li> <li>Опыт работы с базами данных, у нас MariaDB и Redis;</li> <li>Опыт работы с очередями и RabbitMQ;</li> <li>Понимания принципов ООП, PSR (phpcs, phpstan);</li> <li>Использовал в работе Docker;</li> </ul> <p><strong>Будет плюсом, но не обязательно:</strong></p> <ul> <li>Опыта работы с фреймворком Yii (легаси);</li> <li>Опыт работы с React и Tailwind;</li> </ul> <p><strong>Наш стек:</strong></p> <ul> <li>PHP 8.2+, Laravel 10+, MariaDb, Redis, RabbitMQ;</li> <li>Используем Gitlab CI/CD, Docker;</li> <li>Есть легаси на PHP 5.6 и Yii;<br /></li> </ul> <strong>Условия:</strong> <ul> <li>Официальное трудоустройство;</li> <li>График 5/2, c 10:00 до 19:00;</li> <li>В сопроводительном напиши &quot;линк&quot;;</li> <li>Своевременная выплата заработной платы;</li> <li>Комфортный офис в центре Петербурга, на Банковском переулке;</li> <li>После испытательного срока возможен комбинированный режим работы (гибрид);</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "Laravel"
+    },
+    {
+      "name": "REST"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "Redis"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "ООП"
+    },
+    {
+      "name": "RabbitMQ"
+    },
+    {
+      "name": "SQL"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11009668",
+    "name": "Отельлинк",
+    "url": "https://api.hh.ru/employers/11009668",
+    "alternate_url": "https://hh.ru/employer/11009668",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11009668",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-20T11:22:50+0300",
+  "created_at": "2025-05-20T11:22:50+0300",
+  "initial_created_at": "2025-05-20T11:22:50+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120753519",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120753519",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "id": "120939419",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Backend-разработчик (Junior)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 30000,
+    "to": 60000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 30000,
+    "to": 60000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": null,
+    "lng": null,
+    "description": null,
+    "raw": null,
+    "metro": {
+      "station_name": "Октябрьская",
+      "line_name": "Ленинская",
+      "station_id": "52.298",
+      "line_id": "52",
+      "lat": 55.018789,
+      "lng": 82.939007
+    },
+    "metro_stations": [
+      {
+        "station_name": "Октябрьская",
+        "line_name": "Ленинская",
+        "station_id": "52.298",
+        "line_id": "52",
+        "lat": 55.018789,
+        "lng": 82.939007
+      },
+      {
+        "station_name": "Площадь Ленина",
+        "line_name": "Ленинская",
+        "station_id": "52.297",
+        "line_id": "52",
+        "lat": 55.029941,
+        "lng": 82.92069
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "flexible",
+    "name": "Гибкий график"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Требуются активные начинающие бэкенд разработчики, готовые развиваться и расти над собой в процессе профессиональной деятельности. Если тебе действительно нравится заниматься разработкой с использованием веб-технологий и ты ищешь место, раскрывающее весь твой потенциал - команда iTwis - это то, что тебе нужно!</p> <p>Мы создаём сложные IT-решения для бизнеса, там, где другие не справляются. Наши клиенты — компании из Австралии, Европы и США, а проекты — это системы с высокой нагрузкой и нестандартными задачами.</p> <p><strong>Сейчас мы работаем по четырем основным направлениям:</strong></p> <ul> <li> <p>Сбор данных и автоматизация работы с веб-интерфейсами;</p> </li> <li> <p>CRM/ERP - системы;</p> </li> <li> <p>Тестирование веб-систем на проникновение и аудит безопасности;</p> </li> <li> <p>Open-source и внутренние разработки.</p> </li> </ul> <p>Каждый наш проект - уникальная разработка и настоящий вызов, в каждом необходимо находить решение в рамках поставленных ограничений по времени отклика, качеству результата и срокам разработки.<strong> </strong></p> <p><strong>Разработчику предстоит работать в одном или нескольких из следующих направлений:</strong></p> <ul> <li> <p>Разработка бэкенда (Laravel, NodeJs, Symphony, Yii);</p> </li> <li> <p>Разработка ботов (PuppeterJS);</p> </li> <li> <p>Аудит безопасности и тесты на проникновение;</p> </li> <li> <p>Разработка смарт-контрактов и Web 3.0;</p> </li> <li> <p>Разработка гибридных приложений (React Native, Ionic, Flutter).</p> </li> </ul> <p><strong>Примеры наших проектов:</strong></p> <p><strong>PTMS (Property Tax Management System) </strong>- проект, разработанный совместно с Yashi India, представляет собой комплексный программный продукт для сбора и обработки информации о сборе налогов на недвижимость. Включает в себя портал для граждан, информационную систему о подотчетных объектах недвижимости, инструменты редактирования для администрации, программно-аппаратный комплекс для выезда административной группы, включающий девайс для обработки платежей “в поле” и замеров (редактирования) актуальной информации об объектах недвижимости.</p> <p>На данный момент система работает в 2х провинциях Индии еще 31 провинция готовится к внедрению комплекса. Общее число пользователей системы превышает 2 миллиона человек а после внедрения прогнозируется нагрузка в 50 миллионов пользователей (500-800 тысяч посетителей ежедневно)</p> <p><strong>DivyUp </strong>- приложение для австралийского рынка в сфере управления личными финансами. Приложение помогает регулярно откладывать с заработной платы фиксированные суммы в процентах. Есть интеграция с интернет-банкингом. Само приложение использует React Native для реализации гибридного приложения для iOS и андроид.</p> <p><strong>От будущего коллеги мы ждем:</strong></p> <ul> <li> <p>Опыт коммерческой разработки от полугода;</p> </li> <li> <p>Готовность работать над нетривиальными задачами, попадать в сроки (будет сложно, как мы любим!);</p> </li> <li> <p>Отличное знание PHP;</p> </li> <li> <p>Умение работать с менеджером зависимости Composer;</p> </li> <li> <p>Знание хотя бы одного PHP-фреймворка будет плюсом (Yii, Laravel, Symfony, Zend);</p> </li> <li> <p>Знание хотя бы одной системой управления базами данных (MySQL, PostgreSQL);</p> </li> <li> <p>Умение работать с хотя бы одной системой контроля версий (GIT, SVN, Hg);</p> </li> <li> <p>Отличное знание CSS, HTML;</p> </li> <li> <p>Высшее техническое или неоконченное высшее техническое образование (2й курс и выше) будет плюсом;</p> </li> <li> <p>Хорошее знание Node.js будет плюсом;</p> </li> <li> <p>Знание JavaScript будет плюсом.</p> </li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Официальное трудоустройство - белая зарплата, отпускные и больничные по ТК РФ.</li> <li> <p>Гибкий график, 40-часовая рабочая неделя.</p> </li> <li> <p>Менторство как инструмент приобретения опыта и профессионального роста;</p> </li> <li> <p>Оплата участия в конференциях;</p> </li> <li> <p>Пересмотр заработной платы каждые полгода;</p> </li> <li> <p>Компенсацию спорта;</p> </li> <li> <p>Современное и удобное рабочее место в полной комплектации (при формировании конфигурации компьютера учитываются индивидуальные пожелания разработчика);</p> </li> <li>Комфортный офис в центре Новосибирска с классным видом, снеками и пиццей по пятницам.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "Web Application Development"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "Laravel"
+    },
+    {
+      "name": "Yii"
+    },
+    {
+      "name": "Node.js"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "SVN"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3585385",
+    "name": "Itwis",
+    "url": "https://api.hh.ru/employers/3585385",
+    "alternate_url": "https://hh.ru/employer/3585385",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/682214.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3169988.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3169989.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3585385",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-25T15:28:26+0300",
+  "created_at": "2025-05-25T15:28:26+0300",
+  "initial_created_at": "2025-05-25T15:28:26+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120939419",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120939419",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FLEXIBLE",
+      "name": "Свободный"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_9",
+      "name": "9 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

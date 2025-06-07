@@ -1,0 +1,214 @@
+{
+  "id": "120996408",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Веб-мастер / Web-программист",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 100000,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Малый проспект Васильевского острова",
+    "building": "57к3",
+    "lat": 59.943692,
+    "lng": 30.255025,
+    "description": null,
+    "raw": "Санкт-Петербург, Малый проспект Васильевского острова, 57к3",
+    "metro": {
+      "station_name": "Василеостровская",
+      "line_name": "Невско-Василеостровская",
+      "station_id": "16.228",
+      "line_id": "16",
+      "lat": 59.942577,
+      "lng": 30.278254
+    },
+    "metro_stations": [
+      {
+        "station_name": "Василеостровская",
+        "line_name": "Невско-Василеостровская",
+        "station_id": "16.228",
+        "line_id": "16",
+        "lat": 59.942577,
+        "lng": 30.278254
+      },
+      {
+        "station_name": "Горный институт",
+        "line_name": "Лахтинско-Правобережная",
+        "station_id": "17.924",
+        "line_id": "17",
+        "lat": 59.931749,
+        "lng": 30.262667
+      },
+      {
+        "station_name": "Приморская",
+        "line_name": "Невско-Василеостровская",
+        "station_id": "16.227",
+        "line_id": "16",
+        "lat": 59.948521,
+        "lng": 30.23447
+      },
+      {
+        "station_name": "Спортивная",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.249",
+        "line_id": "18",
+        "lat": 59.952026,
+        "lng": 30.291338
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><em>Вакансия в компании &quot;Русавтоматика&quot; - поставщик оборудования для автоматизации производств.</em></p> <p> </p> <p><strong>Обязанности:</strong></p> <ul> <li>Поддержка, верстка, продвижение нескольких сайтов компании</li> <li>Добавление новых продуктов на сайт</li> <li>Модификация сайтов, разработка новых сайтов</li> </ul> <strong>Требования:</strong> <ul> <li>Обязательно: PHP, JavaScript, Ajax, HTML, MySQL</li> <li>Photoshop,Corel, навыки дизайна</li> <li>Английский (чтение и перевод)</li> <li>Желательно: SEO, Metrika, Direct, Adwords</li> <li>Опыт работы по созданию сайтов от 2-х лет</li> </ul> <strong>Условия:</strong> <ul> <li>Офисный формат работы. График 5/2 с 9:00 до 18:00, пятница до 17:00 (полный рабочий день в офисе)</li> <li>Бесплатные обеды в корпоративной столовой</li> <li>Официальное оформление</li> <li>ЗП 100 тыс. руб./мес. на руки. Выплаты 2 раза в мес. без задержек!</li> <li>Офис в пешей доступности от метро Василеостровская / Приморская / Горный инст-т</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "Ajax"
+    },
+    {
+      "name": "CorelDRAW Photo Draw"
+    },
+    {
+      "name": "Adobe Photoshop"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "712272",
+    "name": "Технопарк Смоленка",
+    "url": "https://api.hh.ru/employers/712272",
+    "alternate_url": "https://hh.ru/employer/712272",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1385489.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7161743.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7161744.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=712272",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-26T17:59:59+0300",
+  "created_at": "2025-05-26T17:59:59+0300",
+  "initial_created_at": "2025-05-26T17:59:59+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120996408",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120996408",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b1",
+        "name": "B1 — Средний"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

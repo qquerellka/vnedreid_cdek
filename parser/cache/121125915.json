@@ -1,0 +1,134 @@
+{
+  "id": "121125915",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "QA Engineer (Web & Mobile)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Наш клиент - IT компания, которая занимается разработкой и поддержкой высоконагруженных проектов для крупных компаний, в том числе с мировой известностью, основная часть которых представляет собой B2B решения развлекательной, игровой и спортивной тематики, сейчас в поиске QA-специалистов в две разные команды.</p> <div>1) В команду по разработке B2B WEB-сервиса нужен <strong>Middle QA-специалист для ручного тестирования Backend и Frontend</strong>, включая тестирование двух админок.</div> <div>Обязателен опыт с Postman, Swagger, DevTools и куками.</div> <div> </div> <div> </div> <div>2) В команду по разработке <strong>мобильного приложения</strong> нужен<strong> Middle QA-специалист для ручного тестирования</strong>.</div> <div>Обязателен опыт тестирования мобильных приложений и Charles Proxy.</div> <div> </div> <div> </div> <div><strong>Условия:</strong><br /></div> <ul> <li>офисный формат работы. Офисы расположены в Новосибирске, Брянске, Санкт-Петербурге;</li> <li>после прохождения испытательного срока возможен гибридный формат;</li> <li>скидка на изучение английского языка.</li> </ul> <p><strong>При отклике на вакансию в сопроводительном письме обязательно указывайте, в какую команду вы бы хотели попасть и в каком городе находитесь.</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "QA"
+    },
+    {
+      "name": "Postman"
+    },
+    {
+      "name": "Swagger"
+    },
+    {
+      "name": "Kotlin"
+    },
+    {
+      "name": "Android Studio"
+    },
+    {
+      "name": "Charles Proxy"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10574557",
+    "name": "STARTRIBE LTD",
+    "url": "https://api.hh.ru/employers/10574557",
+    "alternate_url": "https://hh.ru/employer/10574557",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1423245.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7312629.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7312630.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10574557",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T14:31:52+0300",
+  "created_at": "2025-06-06T14:31:52+0300",
+  "initial_created_at": "2025-05-29T13:14:52+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121125915",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121125915",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

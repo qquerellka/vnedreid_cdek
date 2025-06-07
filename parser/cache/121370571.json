@@ -1,0 +1,192 @@
+{
+  "id": "121370571",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Data Scientist / ML Engineer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "3-й проезд Перова Поля",
+    "building": "3А",
+    "lat": 55.753772,
+    "lng": 37.77387,
+    "description": null,
+    "raw": "Москва, 3-й проезд Перова Поля, 3А",
+    "metro": {
+      "station_name": "Перово",
+      "line_name": "Калининская",
+      "station_id": "8.107",
+      "line_id": "8",
+      "lat": 55.75098,
+      "lng": 37.78422
+    },
+    "metro_stations": [
+      {
+        "station_name": "Перово",
+        "line_name": "Калининская",
+        "station_id": "8.107",
+        "line_id": "8",
+        "lat": 55.75098,
+        "lng": 37.78422
+      },
+      {
+        "station_name": "Шоссе Энтузиастов",
+        "line_name": "Калининская",
+        "station_id": "8.158",
+        "line_id": "8",
+        "lat": 55.75809,
+        "lng": 37.751703
+      },
+      {
+        "station_name": "Шоссе Энтузиастов",
+        "line_name": "МЦК",
+        "station_id": "95.524",
+        "line_id": "95",
+        "lat": 55.758633,
+        "lng": 37.748477
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Аптечная сеть «Ваша №1»</strong> приглашает в команду <strong>Data Scientist / ML</strong> — специалиста, который поможет нам строить умные модели для прогнозирования спроса, расчёта LTV, Churn Prediction, персонализации коммуникаций и клиентского опыта и прочих ML/AI задач.<br /><br /><strong>О нас: </strong>«Ваша №1» — одна из крупнейших аптечных сетей России. Мы входим в ТОП аптечных брендов по данным РБК, DSM Group и Vademecum. Наша цель — не просто быть ближе к покупателю, но и опережать его ожидания за счёт персонализированных сервисов, цифровых решений и удобства покупки. <p> </p> <p><strong>Что вы будете делать:</strong></p> <ul> <li> <p>Разрабатывать и внедрять ML-модели.</p> </li> <li> <p>Работать с большими данными: формировать пайплайны, ETL, фичи, обучающие выборки.</p> </li> <li> <p>Тестировать гипотезы, запускать A/B-эксперименты.</p> </li> <li> <p>Внедрять модели в продакшен (в связке с разработчиками и BI).</p> </li> <li> <p>Работать в связке с CDO, BI и аналитиками.</p> </li> </ul> <p><strong>Стек:</strong></p> <ul> <li> <p>Хранилища: ClickHouse, Hadoop, SQL.</p> </li> <li> <p>Инфраструктура: Git, Airflow, Jupyter, MLflow, Docker.</p> </li> </ul> <p><strong>Что для нас важно:</strong></p> <ul> <li> <p>Опыт работы от 2–3 лет в роли Data Scientist или ML Engineer.</p> </li> <li> <p>Понимание основ статистики, теории вероятностей, математической логики.</p> </li> <li> <p>Навыки построения production-ready моделей: от гипотезы до внедрения.</p> </li> <li> <p>Способность говорить на языке бизнеса: объяснять метрики, обосновывать выбор моделей и оценивать экономический эффект.</p> </li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li> <p>Опыт в ритейле / e-commerce / аптечном сегменте.</p> </li> <li> <p>Опыт работы с большими объёмами данных (миллионы транзакций, сотни магазинов).</p> </li> <li> <p>Знание BI-инструментов или опыт взаимодействия с продуктовой аналитикой.</p> </li> </ul> <p><strong>Что предлагаем</strong></p> <ul> <li> <p>Работа в data-driven-компании: прямое влияние на решения.</p> </li> <li> <p>Живые данные: миллионы клиентов, транзакций, тысячи SKU.</p> </li> <li> <p>Гибкий график/гибрид, оформление по ТК РФ, уютный офис.</p> </li> <li> <p>Адекватное руководство, короткий цикл от идеи до внедрения.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": {
+    "id": 42666,
+    "name": "Брендированный шаблон 2",
+    "top_picture": {
+      "height": 560,
+      "width": 1540,
+      "path": "https://img.hhcdn.ru/branding-pictures/3348820.png",
+      "blurred_path": null
+    },
+    "bottom_picture": {
+      "height": 704,
+      "width": 1540,
+      "path": "https://img.hhcdn.ru/branding-pictures/3348853.png",
+      "blurred_path": null
+    }
+  },
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Clickhouse"
+    },
+    {
+      "name": "CatBoost"
+    },
+    {
+      "name": "XGBoost"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "165",
+      "name": "Дата-сайентист"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3344320",
+    "name": "АПТЕКА ВАША № 1",
+    "url": "https://api.hh.ru/employers/3344320",
+    "alternate_url": "https://hh.ru/employer/3344320",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1429298.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7336841.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7336842.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3344320",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T10:26:37+0300",
+  "created_at": "2025-06-05T10:26:37+0300",
+  "initial_created_at": "2025-06-05T10:26:37+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121370571",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121370571",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

@@ -1,0 +1,159 @@
+{
+  "id": "121265164",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "IT специалист",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 150000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 150000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Ленинский проспект",
+    "building": "15А",
+    "lat": 55.720905,
+    "lng": 37.60072,
+    "description": null,
+    "raw": "Москва, Ленинский проспект, 15А",
+    "metro": {
+      "station_name": "Шаболовская",
+      "line_name": "Калужско-Рижская",
+      "station_id": "6.157",
+      "line_id": "6",
+      "lat": 55.718828,
+      "lng": 37.607892
+    },
+    "metro_stations": [
+      {
+        "station_name": "Шаболовская",
+        "line_name": "Калужско-Рижская",
+        "station_id": "6.157",
+        "line_id": "6",
+        "lat": 55.718828,
+        "lng": 37.607892
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <ul> <li>Прием и решение обращений клиентов (звонки, письма, чаты).</li> <li>Установка/настройка ОС, ПО, принтеров, МФУ.</li> <li>Диагностика и ремонт ПК.</li> <li>Настройка сетевого оборудования.</li> <li>Конфигурирование, сборка ПК, серверов.</li> <li>Создание пользователей в AD.</li> <li>Заведение ПК в домен.</li> <li>Выполнение поручений руководителя.</li> <li>Ведение базы знаний.</li> </ul> <strong>Требования:</strong> <ul> <li>Знание ОС Windows, Linux желательно, MacOS желательно</li> <li>Желание развиваться в сфере ИТ</li> <li>Умение работать с компьютерным &quot;железом&quot;</li> <li>Настройка сетевого оборудования</li> <li>Знание аппаратной части ПК, умение диагностировать и устранять неполадки</li> <li>Самоорганизация, ответственность, готовность быть на связи с коллегами.</li> </ul> <strong>Условия:</strong> <ul> <li> <p>Структура заработной платы: должностной оклад = 150 000 руб. до вычета НДФЛ).</p> </li> <li> <p>ДМС после испытательного срока.</p> </li> <li> <p>Программа социальных льгот и компенсации.</p> </li> <li> <p>Место расположения – бизнес-центр в пешей доступности от метро Шаболовка.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2913382",
+    "name": "Нацпромлизинг",
+    "url": "https://api.hh.ru/employers/2913382",
+    "alternate_url": "https://hh.ru/employer/2913382",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/435646.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/2184555.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/2184556.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2913382",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T09:27:41+0300",
+  "created_at": "2025-06-06T09:27:41+0300",
+  "initial_created_at": "2025-06-03T09:27:41+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121265164",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121265164",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

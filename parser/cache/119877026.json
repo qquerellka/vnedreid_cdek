@@ -1,0 +1,150 @@
+{
+  "id": "119877026",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист по безопасной разработке (Application security)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "72",
+    "name": "Пермь",
+    "url": "https://api.hh.ru/areas/72"
+  },
+  "salary": {
+    "from": 250000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 250000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Летниковская улица",
+    "building": "10с2",
+    "lat": 55.725595,
+    "lng": 37.64312,
+    "description": null,
+    "raw": "Москва, Летниковская улица, 10с2",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <ul> <li>Формирование требований кибербезопасности на этапе проектирования архитектуры low-code платформы, API и взаимодействия с базами данных.</li> </ul> <p>Разработка проектной документации с акцентом на стандарты безопасности для кода, компонентов и схем баз данных.</p> <ul> <li>Внедрение и поддержка инструментов безопасности:</li> </ul> <p>Интеграция и эксплуатация решений в процессы разработки на low-code платформе с использованием.</p> <ol> <li>Анализ решений кибербезопасности (например, аутентификация, шифрование) для интеграции с платформой и бизнес-сервисами.</li> <li>Тестирование безопасности и управление уязвимостями:</li> </ol> <p>Проведение регулярного тестирования безопасности приложений платформы, включая анализ кода (и запросов к базам данных).</p> <strong>Требования:</strong> <ul> <li>Знание технологии SSDLC, WAF, JWT;</li> <li>Разработка приложения, используя стек Java, Spring, JavaScript, Postgre;</li> <li>Знание и умение эксплуатировать уязвимости кода в стеке технологий;</li> <li>Умение настраивать и обходить WAF;</li> <li>Умение правильно готовить SAST, DAST, SCA;</li> <li>Умение учиться и быть полезным членом команды.</li> </ul> <p><strong>Что будет конкурентным преимуществом:</strong></p> <ul> <li>Опыт задействования библиотек сертифицированных криптосредств;</li> <li>Опыт подготовки к оценке влияния (ССКЗИ)</li> <li>Адекватное чувство юмора.</li> </ul> <strong>Условия:</strong> <ul> <li>Гибридный или удаленный формат работы.</li> <li>Официальное оформление (в штат компании).</li> <li>Оклад обсуждается исходя из уровня знаний и навыков.</li> <li>Расширенный пакет ДМС (стоматолог, психолог, телемедицина).</li> <li>Постоянное профессиональное самосовершенствование и внешнее обучение.</li> <li>Ежеквартальная премия по результатам выполненных работ</li> </ul>",
+  "branded_description": " \n<style>/*30.05.2025-hh-team-007*/\n.hht-vacancydescription {\n  padding: 0;\n}\n\n.tmpl_hh_wrapper {\n  position: relative;\n  z-index: 1;\n  overflow: hidden;\n  width: 100%;\n  max-width: 690px;\n  margin: 0 auto;\n  font-weight: 400;\n  font-size: 16px;\n  font-family: Arial, sans-serif;\n  line-height: 22px;\n  letter-spacing: 0.01em;\n  word-break: normal;\n}\n\n@media (max-width: 1019px) {\n  .tmpl_hh_wrapper {\n    max-width: 610px;\n  }\n}\n\n.tmpl_hh_wrapper p, .tmpl_hh_wrapper h1, .tmpl_hh_wrapper h2, .tmpl_hh_wrapper h3, .tmpl_hh_wrapper h4, .tmpl_hh_wrapper h5, .tmpl_hh_wrapper h6, .tmpl_hh_wrapper a, .tmpl_hh_wrapper img, .tmpl_hh_wrapper ol, .tmpl_hh_wrapper ul, .tmpl_hh_wrapper li {\n  vertical-align: baseline;\n  margin: 0;\n  padding: 0;\n  border: 0;\n  font-weight: inherit;\n  font-size: inherit;\n}\n\n.tmpl_hh_wrapper ul {\n  list-style: none;\n}\n\n.tmpl_hh_wrapper a {\n  text-decoration: none;\n}\n\n.tmpl_hh_wrapper a:hover {\n  color: inherit;\n}\n\n.tmpl_hh_wrapper img {\n  display: block;\n}\n\n.tmpl_hh_wrapper button {\n  display: block;\n  padding: 0;\n  border: none;\n  background-color: transparent;\n  outline: none;\n  cursor: pointer;\n}\n\n.tmpl_hh_wrapper button svg {\n  cursor: pointer;\n}\n\n.tmpl_hh_wrapper .l-cell, .tmpl_hh_wrapper .l-paddings {\n  padding: 0 !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n  margin-top: 0 !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n  overflow: visible !important;\n  line-height: inherit;\n}\n\n.tmpl_hh_content ol li b, .tmpl_hh_content ol li strong, .tmpl_hh_content ol li p b, .tmpl_hh_content ol li p strong, .tmpl_hh_content ul li b, .tmpl_hh_content ul li strong, .tmpl_hh_content ul li p b, .tmpl_hh_content ul li p strong {\n  margin: 0 !important;\n  color: inherit !important;\n  font-size: inherit !important;\n  line-height: inherit;\n  text-transform: none;\n}\n\n.tmpl_hh_content ol li p, .tmpl_hh_content ul li p {\n  margin: 0;\n  font-weight: normal;\n}\n\n.tmpl_hh_content p {\n  margin-bottom: 16px;\n}\n\n.tmpl_hh_content p b, .tmpl_hh_content p strong {\n  display: inline;\n  margin: 0;\n}\n\n.tmpl_hh_content ol, .tmpl_hh_content ul {\n  margin-bottom: 32px;\n  margin-left: 18px;\n  list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n  counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n  position: relative;\n  margin-bottom: 8px;\n  font-size: 16px;\n}\n\n.tmpl_hh_content li:last-child {\n  margin-bottom: 0;\n}\n\n.tmpl_hh_content ul ul, .tmpl_hh_content ul ol, .tmpl_hh_content ol ol, .tmpl_hh_content ol ul {\n  margin-top: 14px;\n}\n\n.tmpl_hh_content ol > li {\n  counter-increment: list_counter;\n}\n\n.tmpl_hh_content ul > li::before {\n  content: \"\";\n  position: absolute;\n  top: 9px;\n  left: -18px;\n  width: 5px;\n  height: 5px;\n  border-radius: 100%;\n  background-color: #000;\n}\n\n.tmpl_hh_content ol > li::before {\n  content: counter(list_counter) \".\";\n  right: 100%;\n  left: auto;\n  margin-right: 2px;\n}\n\n.tmpl_hh_content :last-child {\n  margin-bottom: 0;\n}\n\n/* stylelint-disable block-no-empty */\n\n/* stylelint-enable block-no-empty */\n\n.tmpl_hh_wrapper {\n  box-sizing: border-box;\n  padding-bottom: 50px;\n  color: #000;\n  box-shadow: 0 0 19.2px 0 rgba(0, 0, 0, 0.1);\n  font-size: 18px;\n  line-height: 120%;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_wrapper {\n    padding-bottom: 40px;\n  }\n}\n\n.tmpl_hh_wrapper p.tmpl_hh_designation {\n  margin-top: 30px;\n  color: #b5b5b5;\n  font-weight: 400;\n  font-size: 12px;\n  line-height: 120%;\n  text-align: center;\n}\n\n.tmpl_hh_wrapper h3.tmpl_hh_title {\n  color: #193b5b;\n  font-weight: 700;\n  font-size: 32px;\n  line-height: normal;\n}\n\n.tmpl_hh_wrapper p.tmpl_hh_text {\n  color: #193b5b;\n  font-weight: 400;\n  line-height: 24px;\n}\n\n.tmpl_hh_wrapper p.tmpl_hh_text--16 {\n  font-size: 16px;\n}\n\n.tmpl_hh_wrapper p.tmpl_hh_text--18 {\n  font-size: 18px;\n}\n\n.tmpl_hh_wrapper p.tmpl_hh_text span {\n  font-weight: 700;\n  line-height: 120%;\n}\n\n.tmpl_hh_wrapper .tmpl_hh_box {\n  /* @include box-horisontal(px); */\n  padding-right: 50px;\n  padding-left: 50px;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_wrapper .tmpl_hh_box {\n    /* @include box-horisontal(px); */\n    padding-right: 16px;\n    padding-left: 16px;\n  }\n}\n\n.tmpl_hh_wrapper * {\n  box-sizing: border-box;\n}\n\n.tmpl_hh_wrapper br.tmpl_hh_xxl, .tmpl_hh_wrapper p.tmpl_hh_xxl, .tmpl_hh_wrapper div.tmpl_hh_xxl {\n  display: none;\n}\n\n@media (min-width: 1340px) {\n  .tmpl_hh_wrapper br.tmpl_hh_xxl, .tmpl_hh_wrapper p.tmpl_hh_xxl, .tmpl_hh_wrapper div.tmpl_hh_xxl {\n    display: block !important;\n  }\n}\n\n.tmpl_hh_wrapper br.tmpl_hh_xl, .tmpl_hh_wrapper p.tmpl_hh_xl, .tmpl_hh_wrapper div.tmpl_hh_xl {\n  display: none;\n}\n\n@media (min-width: 1020px) and (max-width: 1339px) {\n  .tmpl_hh_wrapper br.tmpl_hh_xl, .tmpl_hh_wrapper p.tmpl_hh_xl, .tmpl_hh_wrapper div.tmpl_hh_xl {\n    display: block !important;\n  }\n}\n\n.tmpl_hh_wrapper br.tmpl_hh_lg, .tmpl_hh_wrapper p.tmpl_hh_lg, .tmpl_hh_wrapper div.tmpl_hh_lg {\n  display: none;\n}\n\n@media (min-width: 656px) and (max-width: 1019px) {\n  .tmpl_hh_wrapper br.tmpl_hh_lg, .tmpl_hh_wrapper p.tmpl_hh_lg, .tmpl_hh_wrapper div.tmpl_hh_lg {\n    display: block !important;\n  }\n}\n\n.tmpl_hh_wrapper br.tmpl_hh_md, .tmpl_hh_wrapper p.tmpl_hh_md, .tmpl_hh_wrapper div.tmpl_hh_md {\n  display: none;\n}\n\n@media (min-width: 414px) and (max-width: 655px) {\n  .tmpl_hh_wrapper br.tmpl_hh_md, .tmpl_hh_wrapper p.tmpl_hh_md, .tmpl_hh_wrapper div.tmpl_hh_md {\n    display: block !important;\n  }\n}\n\n.tmpl_hh_wrapper br.tmpl_hh_sm, .tmpl_hh_wrapper p.tmpl_hh_sm, .tmpl_hh_wrapper div.tmpl_hh_sm {\n  display: none;\n}\n\n@media (min-width: 0px) and (max-width: 413px) {\n  .tmpl_hh_wrapper br.tmpl_hh_sm, .tmpl_hh_wrapper p.tmpl_hh_sm, .tmpl_hh_wrapper div.tmpl_hh_sm {\n    display: block !important;\n  }\n}\n\n.tmpl_hh_header {\n  position: relative;\n  margin-bottom: 50px;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_header {\n    margin-bottom: 16px;\n  }\n}\n\n.tmpl_hh_header img {\n  object-fit: cover;\n  width: 100%;\n  height: 100%;\n}\n\n.tmpl_hh_header img.tmpl_hh_slogan {\n  margin: 16px 0;\n}\n\n.tmpl_hh_header img.tmpl_hh_logo {\n  position: absolute;\n  bottom: 0;\n  left: 50%;\n  object-fit: contain;\n  width: 330px;\n  height: auto;\n  transform: translateX(-50%);\n  aspect-ratio: 5;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_header img.tmpl_hh_logo {\n    width: 250px;\n  }\n}\n\n@media (max-width: 530px) {\n  .tmpl_hh_header img.tmpl_hh_logo {\n    width: 190px;\n  }\n}\n\n@media (max-width: 413px) {\n  .tmpl_hh_header img.tmpl_hh_logo {\n    width: 170px;\n  }\n}\n\n@media (max-width: 370px) {\n  .tmpl_hh_header img.tmpl_hh_logo {\n    width: 155px;\n  }\n}\n\n.tmpl_hh_about {\n  margin: 0 50px;\n  padding: 32px;\n  border-radius: 14px;\n  background: linear-gradient(111deg, rgba(83, 80, 222, 0.3) -17.61%, rgba(0, 131, 255, 0.3) 49.14%, rgba(105, 249, 197, 0.3) 118.62%);\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_about {\n    margin: 0 20px;\n    padding: 20px 18px;\n  }\n}\n\n.tmpl_hh_about p.tmpl_hh_text {\n  color: #000;\n}\n\n.tmpl_hh_about p.tmpl_hh_text:not(:last-child) {\n  margin-bottom: 20px;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_about p.tmpl_hh_text:not(:last-child) {\n    margin-bottom: 16px;\n  }\n}\n\n.tmpl_hh_content {\n  padding: 50px 0;\n}\n\n.tmpl_hh_content h2, .tmpl_hh_content p.tmpl_hh_content_title, .tmpl_hh_content b.tmpl_hh_content_title, .tmpl_hh_content strong.tmpl_hh_content_title {\n  display: block;\n  margin-bottom: 12px;\n  font-weight: 700;\n  font-style: normal;\n  font-size: 24px;\n  line-height: 120%;\n  color: inherit;\n}\n\n.tmpl_hh_content h2.tmpl_hh_content_title--first, .tmpl_hh_content p.tmpl_hh_content_title--first, .tmpl_hh_content b.tmpl_hh_content_title--first, .tmpl_hh_content strong.tmpl_hh_content_title--first {\n  margin-top: 0;\n}\n\n.tmpl_hh_content h2, .tmpl_hh_content p.tmpl_hh_content_title > b, .tmpl_hh_content p.tmpl_hh_content_title > strong {\n  font-weight: 700;\n  font-style: normal;\n  font-size: 24px;\n  line-height: 120%;\n  color: inherit;\n}\n\n.tmpl_hh_content p, .tmpl_hh_content div {\n  font-weight: 400;\n  font-style: normal;\n  font-size: 16px;\n  line-height: 150%;\n}\n\n.tmpl_hh_content ul:not(:last-child) {\n  margin-bottom: 40px;\n}\n\n.tmpl_hh_content ul:last-child {\n  margin-bottom: 0;\n}\n\n.tmpl_hh_content ul li {\n  font-weight: 400;\n  font-style: normal;\n  font-size: 16px;\n  line-height: 150%;\n}\n\n.tmpl_hh_content ul li:not(:last-of-type) {\n  margin-bottom: 10px;\n}\n\n.tmpl_hh_content ul li::before {\n  width: 6px;\n  height: 6px;\n  background: #000;\n  top: 7px;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_content {\n    padding: 40px 0;\n  }\n  .tmpl_hh_content h2, .tmpl_hh_content p.tmpl_hh_content_title, .tmpl_hh_content b.tmpl_hh_content_title, .tmpl_hh_content strong.tmpl_hh_content_title {\n    display: block;\n    margin-bottom: 12px;\n    font-weight: 700;\n    font-style: normal;\n    font-size: 20px;\n    line-height: 120%;\n    color: inherit;\n  }\n  .tmpl_hh_content h2.tmpl_hh_content_title--first, .tmpl_hh_content p.tmpl_hh_content_title--first, .tmpl_hh_content b.tmpl_hh_content_title--first, .tmpl_hh_content strong.tmpl_hh_content_title--first {\n    margin-top: 0;\n  }\n  .tmpl_hh_content h2, .tmpl_hh_content p.tmpl_hh_content_title > b, .tmpl_hh_content p.tmpl_hh_content_title > strong {\n    font-weight: 700;\n    font-style: normal;\n    font-size: 20px;\n    line-height: 120%;\n    color: inherit;\n  }\n  .tmpl_hh_content p, .tmpl_hh_content div {\n    font-weight: 400;\n    font-style: normal;\n    font-size: 16px;\n    line-height: 150%;\n  }\n  .tmpl_hh_content ul:not(:last-child) {\n    margin-bottom: 32px;\n  }\n  .tmpl_hh_content ul:last-child {\n    margin-bottom: 0;\n  }\n  .tmpl_hh_content ul li {\n    font-weight: 400;\n    font-style: normal;\n    font-size: 16px;\n    line-height: 150%;\n  }\n  .tmpl_hh_content ul li:not(:last-of-type) {\n    margin-bottom: 8px;\n  }\n  .tmpl_hh_content ul li::before {\n    width: 6px;\n    height: 6px;\n    background: #000;\n    top: 7px;\n  }\n}\n\n.tmpl_hh_numbers {\n  margin-bottom: 40px;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_numbers {\n    margin-bottom: 32px;\n  }\n}\n\n.tmpl_hh_numbers ul {\n  display: flex;\n  justify-content: space-between;\n  align-items: flex-start;\n  padding: 32px;\n  border-radius: 14px;\n  background: linear-gradient(111deg, rgba(83, 80, 222, 0.3) -17.61%, rgba(0, 131, 255, 0.3) 49.14%, rgba(105, 249, 197, 0.3) 118.62%);\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_numbers ul {\n    flex-flow: column wrap;\n    gap: 24px;\n    align-items: center;\n    padding: 20px;\n  }\n}\n\n.tmpl_hh_numbers li {\n  text-align: center;\n}\n\n.tmpl_hh_numbers li h3.tmpl_hh_title {\n  margin-bottom: 2px;\n}\n\n.tmpl_hh_info ul {\n  display: flex;\n  flex-wrap: wrap;\n  gap: 40px 28px;\n  justify-content: space-between;\n  align-items: flex-start;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_info ul {\n    flex-direction: column;\n    gap: 24px;\n    align-items: center;\n  }\n}\n\n.tmpl_hh_info li {\n  display: flex;\n  flex-direction: column;\n  gap: 12px;\n  align-items: center;\n  width: calc(33.3333333333% - 28px + 9.3333333333px);\n  text-align: center;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_info li {\n    width: 100%;\n  }\n}\n\n.tmpl_hh_info li img {\n  width: 130px;\n  height: 90px;\n}\n</style>\n<div>\n    <div class=\"tmpl_hh_wrapper\">\n      <header class=\"tmpl_hh_header\">\n        <img class=\"tmpl_hh_slogan\" src=\"https://img.hhcdn.ru/ichameleon/455966.svg\" alt=\"\">\n\n\n        <picture>\n          <source media=\"(max-width: 655px)\" srcset=\"https://img.hhcdn.ru/ichameleon/449656.svg\"></source>\n          <img class=\"tmpl_hh_bg\" src=\"https://img.hhcdn.ru/ichameleon/449655.svg\">\n        </picture>\n\n        <img src=\"https://img.hhcdn.ru/ichameleon/449657.svg\" alt=\"\" class=\"tmpl_hh_logo\">\n      </header>\n\n      <section class=\"tmpl_hh_about\">\n        <p class=\"tmpl_hh_text tmpl_hh_text--16\">\n          <span>GreenData</span> — это инновационная <nobr>ИТ-компания</nobr>, один из лидеров* в разработке true <nobr>low-code</nobr>  платформы в России. \n        </p>\n        <p class=\"tmpl_hh_text tmpl_hh_text--16\">Low-code — стремительно развивающаяся технология, которая позволяет создавать и настраивать приложения без написания кода.</p>\n      </section>\n\n      <main class=\"tmpl_hh_content tmpl_hh_box\">\n        <p><strong>Обязанности:</strong></p> <ul> <li>Формирование требований кибербезопасности на этапе проектирования архитектуры low-code платформы, API и взаимодействия с базами данных.</li> </ul> <p>Разработка проектной документации с акцентом на стандарты безопасности для кода, компонентов и схем баз данных.</p> <ul> <li>Внедрение и поддержка инструментов безопасности:</li> </ul> <p>Интеграция и эксплуатация решений в процессы разработки на low-code платформе с использованием.</p> <ol> <li>Анализ решений кибербезопасности (например, аутентификация, шифрование) для интеграции с платформой и бизнес-сервисами.</li> <li>Тестирование безопасности и управление уязвимостями:</li> </ol> <p>Проведение регулярного тестирования безопасности приложений платформы, включая анализ кода (и запросов к базам данных).</p> <strong>Требования:</strong> <ul> <li>Знание технологии SSDLC, WAF, JWT;</li> <li>Разработка приложения, используя стек Java, Spring, JavaScript, Postgre;</li> <li>Знание и умение эксплуатировать уязвимости кода в стеке технологий;</li> <li>Умение настраивать и обходить WAF;</li> <li>Умение правильно готовить SAST, DAST, SCA;</li> <li>Умение учиться и быть полезным членом команды.</li> </ul> <p><strong>Что будет конкурентным преимуществом:</strong></p> <ul> <li>Опыт задействования библиотек сертифицированных криптосредств;</li> <li>Опыт подготовки к оценке влияния (ССКЗИ)</li> <li>Адекватное чувство юмора.</li> </ul> <strong>Условия:</strong> <ul> <li>Гибридный или удаленный формат работы.</li> <li>Официальное оформление (в штат компании).</li> <li>Оклад обсуждается исходя из уровня знаний и навыков.</li> <li>Расширенный пакет ДМС (стоматолог, психолог, телемедицина).</li> <li>Постоянное профессиональное самосовершенствование и внешнее обучение.</li> <li>Ежеквартальная премия по результатам выполненных работ</li> </ul></main>\n\n      <section class=\"tmpl_hh_numbers tmpl_hh_box\">\n        <ul>\n          <li>\n            <h3 class=\"tmpl_hh_title\">2014</h3>\n            <p class=\"tmpl_hh_text tmpl_hh_text--18\">год основания</p>\n          </li>\n          <li>\n            <h3 class=\"tmpl_hh_title\">450+</h3>\n            <p class=\"tmpl_hh_text tmpl_hh_text--18\">сотрудников</p>\n          </li>\n          <li>\n            <h3 class=\"tmpl_hh_title\">40 000+</h3>\n            <p class=\"tmpl_hh_text tmpl_hh_text--18\">зарегистрированных <br> пользователей</p>\n          </li>\n        </ul>\n      </section>\n\n      <section class=\"tmpl_hh_info tmpl_hh_box\">\n        <ul>\n          <li>\n            <img src=\"https://img.hhcdn.ru/ichameleon/449685.svg\" alt=\"\">\n            <p class=\"tmpl_hh_text tmpl_hh_text--16\">Работа в аккредитованной <br> <nobr>ИТ-компании</nobr></p>\n          </li>\n\n          <li>\n            <img src=\"https://img.hhcdn.ru/ichameleon/449681.svg\" alt=\"\">\n            <p class=\"tmpl_hh_text tmpl_hh_text--16\">Быстрый профессиональный <br> и карьерный рост</p>\n          </li>\n\n          <li>\n            <img src=\"https://img.hhcdn.ru/ichameleon/455964.svg\" alt=\"\">\n            <p class=\"tmpl_hh_text tmpl_hh_text--16\">Достойный уровень <br> заработной платы</p>\n          </li>\n\n          <li>\n            <img src=\"https://img.hhcdn.ru/ichameleon/449683.svg\" alt=\"\">\n            <p class=\"tmpl_hh_text tmpl_hh_text--16\">Удобный формат <br> работы</p>\n          </li>\n\n          <li>\n            <img src=\"https://img.hhcdn.ru/ichameleon/449686.svg\" alt=\"\">\n            <p class=\"tmpl_hh_text tmpl_hh_text--16\">ДМС <br class=\"tmpl_hh_xxl tmpl_hh_xl\"> + стоматология</p>\n          </li>\n\n          <li>\n            <img src=\"https://img.hhcdn.ru/ichameleon/449684.svg\" alt=\"\">\n            <p class=\"tmpl_hh_text tmpl_hh_text--16\">Корпоративное <br class=\"tmpl_hh_xxl tmpl_hh_xl\"> обучение</p>\n          </li>\n\n        </ul>\n      </section>\n\n      <p class=\"tmpl_hh_designation tmpl_hh_box\">\n        * Исследование Сколково и TAdviser «Российский рынок <nobr>Low-сode</nobr> платформ», март 2025 г.\n      </p>\n    </div>\n  </div>\n<script>\n//\n\n\nconst main = \"\";\nconst customTitle = () => {\n  const allUl = document.querySelectorAll(\".tmpl_hh_content ul\");\n  allUl.forEach((ul, i) => {\n    const ulTitle = ul.previousElementSibling;\n    if (ulTitle) {\n      ulTitle.classList.add(\"tmpl_hh_content_title\");\n      if (i === 0) {\n        ul.previousElementSibling.classList.add(\"tmpl_hh_content_title--first\");\n      }\n    }\n  });\n};\ndocument.addEventListener(\"DOMContentLoaded\", () => {\n  try {\n    customTitle();\n  } catch (error) {\n    console.log(error);\n  }\n});\n\n\n//\n</script>\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "SCA, SAST, DAST, Fuzzing"
+    },
+    {
+      "name": "SSDLC, WAF, JWT"
+    },
+    {
+      "name": "Java, Spring, JavaScript, Postgre"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "116",
+      "name": "Специалист по информационной безопасности"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1993100",
+    "name": "Гриндата",
+    "url": "https://api.hh.ru/employers/1993100",
+    "alternate_url": "https://hh.ru/employer/1993100",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1391989.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7187739.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7187740.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1993100",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-20T16:10:49+0300",
+  "created_at": "2025-05-20T16:10:49+0300",
+  "initial_created_at": "2025-04-23T16:06:02+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119877026",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119877026",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

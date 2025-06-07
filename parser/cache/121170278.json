@@ -1,0 +1,173 @@
+{
+  "id": "121170278",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Системный администратор\\Системный архитектор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "53",
+    "name": "Краснодар",
+    "url": "https://api.hh.ru/areas/53"
+  },
+  "salary": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Краснодар",
+    "street": "Садовая улица",
+    "building": "112",
+    "lat": 45.040356,
+    "lng": 38.995166,
+    "description": null,
+    "raw": "Краснодар, Садовая улица, 112",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Системный администратор\\системный архитектор в компанию &quot;Айти Решения&quot;</strong></p> <p>Мы — компания <strong>&quot;Айти Решения&quot;</strong>, занимаемся комплексным IT-аутсорсингом, обеспечивая наших клиентов качественными решениями в области информационных технологий. Сейчас мы в поиске <strong>настоящего профессионала в ИТ,</strong> который поможет нам развивать инфраструктуру и обеспечивать ее бесперебойную работу. Считаешь себя таким? Смело откликайся!</p> <p> </p> <p><strong>Чем предстоит заниматься:</strong></p> <p>- Проведение аудита IT-инфраструктуры заказчика, составление карт доступов, сетевых карт и карт информационных потоков.</p> <p>- Проектирование информационных систем, выявление узких мест и подбор оборудования.</p> <p>- Администрирование виртуализации (Hyper-V, Proxmox), СУБД (MS SQL, PostgreSQL) и сетевого оборудования (Mikrotik).</p> <p>- Настройка и сопровождение Firewall (Mikrotik, PFSense, Kerio), VPN (OpenVPN) и сервисов MS (Active Directory, DNS, DHCP, RDP).</p> <p>- Администрирование серверных ОС (Windows Server 2012-2022, Debian 12, CentOS) и web-серверов (IIS, nginx).</p> <p>- Работа с 1С: анализ запросов заказчика и их трансформация в техническое задание.</p> <p>- Полноценное ведение и курирование ИТ-проектов заказчика.</p> <p>- Координация работы подрядных служб.</p> <p>- При наличии опыта — управление IT-отделом.</p> <p><strong>Что мы ожидаем:</strong></p> <p>- Опыт работы системным администратором от <strong>2 лет</strong>.</p> <p>- Гибкость, внимание к мелочам, максимальная проактивность (Предлагаешь, решение задачи, а не спрашиваешь, как ее решить)</p> <p>- Глубокие знания архитектуры компьютеров и сетевых технологий.</p> <p>- Опыт администрирования виртуализации, баз данных, сетевого оборудования и серверов.</p> <p>- Умение работать с PKI, понимать принципы работы 1С и других информационных систем.</p> <p>- Аналитический склад ума, организаторские способности и умение самостоятельно принимать решения.</p> <p> </p> <p><strong>Что мы предлагаем:</strong></p> <p><strong>Официальное трудоустройство</strong>.</p> <p><strong>Конкурентную зарплату:оклад + % от проектов </strong>по результатам собеседования.</p> <p><strong>Работу в стабильной IT-компании</strong> с интересными проектами.</p> <p><strong>Возможность роста и развития</strong> в сфере IT.</p> <p><strong>Дружный коллектив и поддержку коллег</strong>.</p> <p> </p> <p><strong>Как откликнуться?</strong></p> <p>Присылайте резюме и пару слов о себе в отклике и мы с вами свяжемся!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Администрирование Kerio Winroute Firewall"
+    },
+    {
+      "name": "PowerShell"
+    },
+    {
+      "name": "MS SQL Server"
+    },
+    {
+      "name": "Kaspersky Labs"
+    },
+    {
+      "name": "Zabbix"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Active Directory"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "8933963",
+    "name": "Айти Решения",
+    "url": "https://api.hh.ru/employers/8933963",
+    "alternate_url": "https://hh.ru/employer/8933963",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1181764.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6347482.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6347483.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=8933963",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T14:04:50+0300",
+  "created_at": "2025-06-05T14:04:50+0300",
+  "initial_created_at": "2025-05-30T14:04:50+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121170278",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121170278",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

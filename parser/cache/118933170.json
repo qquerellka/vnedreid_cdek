@@ -1,0 +1,143 @@
+{
+  "id": "118933170",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер по информационной безопасности",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 60000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 60000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": 55.78676402056382,
+    "lng": 49.12285298109057,
+    "description": null,
+    "raw": "Казань, ул. Петербургская, д.52",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <p>1. Участие во внедрении средств защиты информации.</p> <p>2. Администрирование средств защиты информации.</p> <p>(SIEM, AV, IRP\\SOAR, сканеры уязвимостей и др.).</p> <p>3. Консультирование сотрудников организации и представителей заказчиков по вопросам использования СЗИ.</p> <strong>Требования:</strong> <p>- среднее / высшее техническое образование, приоритетный профиль: информационная безопасность;</p> <p>- знание основ сетевых технологий;</p> <p>- знание ОС Windows Server и Linux на уровне администратора;</p> <p>- знание законодательства РФ в части ИБ (федеральные законы, приказы ФСБ и ФТЭК, ГОСТы);</p> <p>- навыки деловой переписки.</p> <p>- умение работать самостоятельно и в команде.</p> <p>Дополнительно:</p> <p>Опыт администрирования СЗИ (PT: SIEM или NAD или PTAF или EDR, KSC, продукты RVISION).</p> <p>Приветствуется наличие специализированных сертификатов, курсов повышения квалификации в рассматриваемой области.</p> <strong>Условия:</strong> <ul> <li>Официальное трудоустройство в соответствии с ТК РФ;</li> <li>Стабильная «белая» заработная плата, выплаты два раза в месяц (5 и 20 число), уровень зарплаты обсуждается по итогам интервью; 100 процентная премия в размере оклада по итогам года;</li> <li>Комфортный офис в центре города (IT-парк);</li> <li>График работы, 5/2;</li> <li>Поддержка профессионального развития;</li> <li>Участие в конференциях и обучающих мероприятиях за счет компании;</li> <li>Индивидуальный подход во всех вопросах; бронирование </li> <li>Демократичный, молодой коллектив.</li> <li>Неформальные встречи и корпоративные мероприятия.</li> <li>Дресс-код casual.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "116",
+      "name": "Специалист по информационной безопасности"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "160643",
+    "name": "Центр информационных технологий Республики Татарстан",
+    "url": "https://api.hh.ru/employers/160643",
+    "alternate_url": "https://hh.ru/employer/160643",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/937757.png",
+      "90": "https://img.hhcdn.ru/employer-logo/4191572.png",
+      "240": "https://img.hhcdn.ru/employer-logo/4191573.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=160643",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T19:40:31+0300",
+  "created_at": "2025-06-03T19:40:31+0300",
+  "initial_created_at": "2025-03-29T16:33:14+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=118933170",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/118933170",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

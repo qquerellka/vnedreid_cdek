@@ -1,0 +1,178 @@
+{
+  "id": "120812947",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер-тестировщик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Большая Серпуховская улица",
+    "building": "19/37с4",
+    "lat": 55.726492,
+    "lng": 37.626493,
+    "description": null,
+    "raw": "Москва, Большая Серпуховская улица, 19/37с4",
+    "metro": {
+      "station_name": "Добрынинская",
+      "line_name": "Кольцевая",
+      "station_id": "5.36",
+      "line_id": "5",
+      "lat": 55.728994,
+      "lng": 37.622533
+    },
+    "metro_stations": [
+      {
+        "station_name": "Добрынинская",
+        "line_name": "Кольцевая",
+        "station_id": "5.36",
+        "line_id": "5",
+        "lat": 55.728994,
+        "lng": 37.622533
+      },
+      {
+        "station_name": "Серпуховская",
+        "line_name": "Серпуховско-Тимирязевская",
+        "station_id": "9.37",
+        "line_id": "9",
+        "lat": 55.726548,
+        "lng": 37.624792
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Компания Интегрис</strong> – это инновационные проекты в области создания интеллектуальных транспортных систем.</p> <p>Мы - <strong>компания «Интегрис»</strong> - коллектив экспертов в области транспортной автоматизации.</p> <p>Мы помогаем нашим партнерам создавать лучшие в отрасли решения для скоростных автомагистралей, железных дорог, железнодорожных вокзалов и аэропортов.</p> <p>Мы разрабатываем и производим инновационные компоненты для интеллектуальных транспортных систем - системы для управления дорожным движением, системы машинного зрения для транспорта, средства отображения информации, измерительные комплексы.</p> <p>Мы наращиваем портфель заказов и поэтому расширяем наши проектные команды!</p> <p>Приглашаем <strong>Инженера-тестировщика </strong>присоединиться к нашей команде!</p> <p><strong>Вам предстоит:</strong></p> <ul> <li>Участие в проекте тестирования крупного многоуровневого приложения со сложной архитектурой;</li> <li>Анализ результатов;</li> <li>Рецензирование тест-кейсов.</li> </ul> <p><strong>Мы ожидаем:</strong></p> <ul> <li>Высшее образование;</li> <li>Опыт тестирования web-приложений;</li> <li>Приветствуется опыт работы с инструментами, например, Selenium, Cypress для автоматизации тестирования web-приложений;</li> <li>Опыт: RESTApi, SOAP;</li> <li>Владение инструментами: Postman, SoapUI, JMeter и др.;</li> <li>Опыт написания тестовых планов, тест-кейсов и отчетов о тестировании;</li> <li>Будет плюсом если ваш опыт содержит:<br />- Умение писать тестовые сценарии и автоматизировать тестирование API с использованием языков программирования (например, Python, JavaScript);<br />- Умение проводить функциональное, регрессионное и пользовательское тестирование;<br />- Умение анализировать и понимать бизнес-требования и техническую документацию;<br />- Работу с базами данных и SQL для проверки данных;<br />- Работу с системами управления версиями (например, Git).</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Инновационные проекты на новых и строящихся скоростных трассах России, возможность получить уникальный опыт разработки высокопроизводительной системы, основанной на алгоритмах компьютерного зрения;</li> <li>Профессиональный коллектив в области создания интеллектуальных транспортных систем;</li> <li>Интересные и сложные задачи;</li> <li>Полную занятость, 5/2;</li> <li>Оклад + KPI (размер заработной платы обсуждается индивидуально с успешным кандидатом);</li> <li>Уютный офис в 3-х минутах от метро Серпуховская, планируется переезд на м. Бауманская.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "тестирование web-приложений"
+    },
+    {
+      "name": "Postman"
+    },
+    {
+      "name": "SoapUI"
+    },
+    {
+      "name": "JMeter"
+    },
+    {
+      "name": "Selenium"
+    },
+    {
+      "name": "Cypress"
+    },
+    {
+      "name": "RESTApi"
+    },
+    {
+      "name": "SOAP"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "JSON API"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3798396",
+    "name": "Интегрис",
+    "url": "https://api.hh.ru/employers/3798396",
+    "alternate_url": "https://hh.ru/employer/3798396",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3798396",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-21T12:19:30+0300",
+  "created_at": "2025-05-21T12:19:30+0300",
+  "initial_created_at": "2025-05-21T12:19:30+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120812947",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120812947",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

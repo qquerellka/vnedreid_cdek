@@ -1,0 +1,180 @@
+{
+  "id": "120866602",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Data Scientist",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 170000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 170000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "Советский район, микрорайон Академгородок, Разъездная улица",
+    "building": "12",
+    "lat": 54.87158,
+    "lng": 83.078353,
+    "description": null,
+    "raw": "Новосибирск, Советский район, микрорайон Академгородок, Разъездная улица, 12",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Привет!</strong><br />Robotmia – продуктовая IT-компания, специализирующаяся на технологиях машинного обучения, искусственного интеллекта и понимания естественного языка. На рынке больше 7 лет и каждый год растет минимум в 2 раза.<br /><br />Мы - сильное окружение из умных и приятных людей.<br />Наша команда ежедневно создает рабочее пространство, где каждый чувствует себя, как часть единого целого. Мы ценим самореализацию и инновации. У нас есть все возможности для раскрытия твоего потенциала, работая в команде профессионалов.</p> <p>Основные продукты – &quot;Голосовой ассистент&quot; и &quot;Модуль определения автоответчиков&quot;. С их помощью наши клиенты кратно увеличивают качество обслуживания своих пользователей и в разы сокращают расходы. А с операторов call-центров снимают скучную и рутинную работу.</p> <p>Наши клиенты — российские компании из самых разных сфер (логистика, медицина, банковский сектор и другие). Многих из них ты можешь найти в ежегодном рейтинге Forbes “ТОП-200 крупнейших частных компаний России”.</p> <p>Мы ищем талантливого и увлеченного <strong>Data Scientist</strong>, который будет заниматься исследовательской деятельностью, анализом данных и разработкой инновационных решений в области машинного обучения. Если ты любишь исследовать данные, находить скрытые закономерности и создавать модели, которые решают сложные задачи, то эта вакансия для тебя!</p> <p><strong>Чем предстоит заниматься:</strong></p> <p>- Проведение исследовательского анализа данных (EDA) для выявления закономерностей, трендов и аномалий.</p> <p>- Постановка гипотез и задач на основе анализа данных и бизнес требований.</p> <p>- Исследование и анализ аудиоданных визуализация и предобработка.</p> <p>- Разработка и обучение моделей для классификации аудио (например, распознавание речи, классификация звуков, идентификация голосов).</p> <p>- Создание и оптимизация моделей для коррекции аудио (шумоподавление, улучшение качества звука, разделение источников звука).</p> <p>- Исследование и применение современных архитектур нейронных сетей для работы с аудиоданными (CNN, RNN, LSTM, Transformer, WaveNet и др.).</p> <p>- Проведение экспериментов с различными подходами к обработке звука, включая временные и частотные методы.</p> <p>- Интеграция обученных моделей в production-среду и их дообучение на новых данных.</p> <p>- Анализ результатов работы моделей, интерпретация данных и подготовка отчетов.</p> <p>- Постоянное изучение новых методов и технологий в области обработки аудиоданных и машинного обучения.</p> <p><strong>Мы ожидаем от тебя:</strong></p> <p>- Опыт работы в области Data Science или Machine Learning от 3 лет.</p> <p>- Глубокое понимание основных алгоритмов машинного обучения и нейронных сетей.</p> <p>- Опыт работы с библиотеками для анализа данных и машинного обучения: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch.</p> <p>- Навыки программирования на Python.</p> <p>- Знание библиотек для работы с аудиоданными (Librosa, PyAudio, torchaudio).</p> <p>- Умение выбирать и настраивать архитектуры нейронных сетей для задач классификации и коррекции аудио (CNN, RNN, LSTM, Transformer и др.).</p> <p>- Навыки работы с инструментами для CI/CD (например, Git, Docker, Kubernetes)</p> <p>- Умение работать в команде и самостоятельно решать сложные задачи.</p> <p>- Умение доводить задачи от постановки гипотезы до внедрения и сопровождения, включая работу с production-средой.</p> <p><strong>Будет плюсом:</strong></p> <p>- Опыт работы с моделями для обработки аудио, такими как WaveNet, Tacotron, Speech2Text, Voice Conversion.</p> <p>- Знание методов шумоподавления, разделения источников звука (Source Separation) и улучшения качества аудио.</p> <p>- Опыт работы с потоковыми данными и реальными production-системами.</p> <p>- Участие в Kaggle-соревнованиях или наличие публичных проектов на GitHub.</p> <p>- Знание методов оптимизации моделей (квантзация, pruning, дистилляция).</p> <p>- Опыт работы с инструментами для управления ML-экспериментами (ClearML, MLflow, Weights &amp; Biases).</p> <p><strong>Мы предлагаем:</strong></p> <ul> <li> <p>Стабильную зарплату 2 раза в месяц, отпуска и больничные;</p> </li> <li> <p>Креативную команду, которая решает инновационные задачи;</p> </li> <li> <p>Удобный офис в Академгородке (2 мин. от станции Сеятель), возможный гибридный формат работы.</p> </li> </ul> <p>Мы не корпорация, наша стратегия основана на доверии и долгосрочных отношениях.<strong> Нам важно, чтобы новый человек был ответственным, вовлеченным и не боялся сложных задач.</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": {
+    "id": 38805,
+    "name": "Брендированный шаблон 1",
+    "top_picture": {
+      "height": 840,
+      "width": 2310,
+      "path": "https://img.hhcdn.ru/branding-pictures/3312152.jpeg",
+      "blurred_path": null
+    },
+    "bottom_picture": {
+      "height": 1056,
+      "width": 2310,
+      "path": "https://img.hhcdn.ru/branding-pictures/2406443.jpeg",
+      "blurred_path": null
+    }
+  },
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "NLP"
+    },
+    {
+      "name": "Английский язык"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "C/C++"
+    },
+    {
+      "name": "ML"
+    },
+    {
+      "name": "NLU"
+    },
+    {
+      "name": "Clickhouse"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "165",
+      "name": "Дата-сайентист"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5747653",
+    "name": "Робот Мия",
+    "url": "https://api.hh.ru/employers/5747653",
+    "alternate_url": "https://hh.ru/employer/5747653",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1134106.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6157013.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6157014.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5747653",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-22T13:30:50+0300",
+  "created_at": "2025-05-22T13:30:50+0300",
+  "initial_created_at": "2025-05-22T13:30:50+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120866602",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120866602",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

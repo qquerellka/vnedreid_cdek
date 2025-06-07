@@ -1,0 +1,186 @@
+{
+  "id": "121138761",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист внедрения и сопровождения ПО",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Москворецкая набережная",
+    "building": "9с1",
+    "lat": 55.748235,
+    "lng": 37.638889,
+    "description": null,
+    "raw": "Москва, Москворецкая набережная, 9с1",
+    "metro": {
+      "station_name": "Китай-город",
+      "line_name": "Калужско-Рижская",
+      "station_id": "6.50",
+      "line_id": "6",
+      "lat": 55.756498,
+      "lng": 37.631326
+    },
+    "metro_stations": [
+      {
+        "station_name": "Китай-город",
+        "line_name": "Калужско-Рижская",
+        "station_id": "6.50",
+        "line_id": "6",
+        "lat": 55.756498,
+        "lng": 37.631326
+      },
+      {
+        "station_name": "Китай-город",
+        "line_name": "Таганско-Краснопресненская",
+        "station_id": "7.51",
+        "line_id": "7",
+        "lat": 55.75436,
+        "lng": 37.633877
+      },
+      {
+        "station_name": "Новокузнецкая",
+        "line_name": "Замоскворецкая",
+        "station_id": "2.89",
+        "line_id": "2",
+        "lat": 55.742391,
+        "lng": 37.62928
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Аккредитованная организация в сфере ИТ. Компания «Кварта» работает на рынке информационных технологий и системной интеграции с 1992 года. Мы предоставляем полный комплекс услуг по реализации IТ проектов любого масштаба и уровня сложности.</strong></p> <p><em>В Управлении внедрения и сопровождения ПО по направлению кадры открыта позиция Специалиста.</em></p> <p><strong>От кандидата мы ожидаем:</strong></p> <ul> <li>Знание SQL на уровне написания запросов </li> <li>Опытный пользователь ПК</li> <li>Грамотная устная и письменная речь</li> <li>Обучаемость</li> </ul> <p><strong>Плюсом будет:</strong></p> <ul> <li>Опыт внедрения программного обеспечения и/или сопровождения ПО</li> <li>Знание кадровых процессов</li> <li> <p>Аналитическое мышление</p> </li> <li> <div> <p>Знание VBA для Excel, Word, написание макросов.</p> </div> </li> </ul> <p><strong>Задачи:</strong></p> <ul> <li>Работа с Заказчиком - Сопровождение и настройка кадрового портала организации.</li> <li>Обучение нового персонала Заказчика работе с ПО, консультация пользователей по возникающим вопросам.</li> <li>Сбор, анализ и систематизация требований пользователей, постановка задач разработчикам.</li> <li>Тестирование выполненных доработок.</li> <li>Регистрация обращений пользователей, подготовка ежемесячного отчета об оказанных услугах.</li> <li>Актуализация пользовательской документации</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Работа в офисе компании и на территории заказчика (центр Москвы)</li> <li>Офис в пешей доступности от м. Китай-город, м. Новокузнецкая</li> <li>График работы 5/2</li> <li>Оформление по ТК РФ, заработная плата полностью проходит по 2НДФЛ</li> <li>Возможность дальнейшего профессионального роста в Компании.</li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "VBA"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Кадровое делопроизводство"
+    },
+    {
+      "name": "Делопроизводство"
+    },
+    {
+      "name": "Грамотная речь"
+    },
+    {
+      "name": "Helpdesk"
+    },
+    {
+      "name": "Тестирование"
+    },
+    {
+      "name": "Постановка задач разработчикам"
+    },
+    {
+      "name": "Обучение"
+    },
+    {
+      "name": "Cистемы управления базами данных"
+    },
+    {
+      "name": "ORACLE"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "19",
+    "name": "КВАРТА ВК",
+    "url": "https://api.hh.ru/employers/19",
+    "alternate_url": "https://hh.ru/employer/19",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/233723.png",
+      "90": "https://img.hhcdn.ru/employer-logo/651971.png",
+      "240": "https://img.hhcdn.ru/employer-logo/651972.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=19",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-29T16:45:06+0300",
+  "created_at": "2025-05-29T16:45:06+0300",
+  "initial_created_at": "2025-05-29T16:45:06+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121138761",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121138761",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,141 @@
+{
+  "id": "119692211",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер СХД (Pre-sale)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "72",
+    "name": "Пермь",
+    "url": "https://api.hh.ru/areas/72"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "улица Радищева",
+    "building": "23",
+    "lat": 56.829965,
+    "lng": 60.594411,
+    "description": null,
+    "raw": "Екатеринбург, улица Радищева, 23",
+    "metro": {
+      "station_name": "Геологическая",
+      "line_name": "Север-Юг",
+      "station_id": "48.267",
+      "line_id": "48",
+      "lat": 56.826715,
+      "lng": 60.603754
+    },
+    "metro_stations": [
+      {
+        "station_name": "Геологическая",
+        "line_name": "Север-Юг",
+        "station_id": "48.267",
+        "line_id": "48",
+        "lat": 56.826715,
+        "lng": 60.603754
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>МЫ, Компания Лимарк, ИТ- интегратор и поставщик ИТ оборудования. Компания имеет государственную аккредитацию.</strong></p> <p><strong>В связи с ростом компании, открытием новых направлений бизнеса приглашаем в команду талантливого Инженера СХД.</strong></p> <p><strong>Мы предлагаем:</strong></p> <p>- Официальное трудоустройство с первого дня, социальные гарантии по ТК РФ<br />- Прогрессивный и сплоченный коллектив профессионалов<br />- Всестороннюю поддержку и наставничество на испытательном сроке<br />- Возможность самореализации в амбициозных ИТ-проектах<br />- Высокий, конкурентный уровень дохода: оклад + % от прибыли проектов<br />- Пятидневную рабочую неделю, гибкий подход ко времени рабочего дня, отсутствию по личным нуждам<br />- Комфортный офис в центре города, в котором всегда есть чай, кофе и вкусняшки<br />- Современное, оборудованное рабочее место с хорошей техникой и спокойной рабочей атмосферой<br />- Отсутствие строгого дресс-кода<br />- Корпоративный ДМС<br />- Частичную компенсацию занятий спортом<br />- Развитую культуру: возможность обучения, креативные корпоративные мероприятия и др.</p> <strong>Наши пожелания:</strong> <p>- Высшее или среднее профессиональное образование<br />- Высшее образование<br />- Знание 44ФЗ, 223ФЗ<br />- Отличное знание комплектующих серверов и СХД<br />- Умение сборки/настройки серверов и СХД любого типа и конфигурации<br />- Знание BIOS, BMC, а также системного ПО серверов / серверов, СХД<br />- Понимание принципов работы и настройки сетевых протоколов (SAN, iSCi,IP/TCP)<br />- Опыт конфигурирования серверов, СХД как в составе ЦОД, так и отдельно стоящих<br />- Навык по разработке и составлению технической документации.</p> <strong>Чем предстоит заниматься:</strong> <p>- Подбор оборудования и составление технических спецификаций<br />- Участие в разработке технической части ТЗ<br />- Анализ и оценка целесообразности участия в тендерных процедурах (серверное и телекоммуникационное оборудование)<br />- Анализ и корректировка спецификаций заказчика с учетом актуальности, доступности и совместимости компонентов<br />- Составление технического описания продуктовых решений<br />- Взаимодействие с заказчиками и отделом продаж для оказания технических консультаций<br />- Взаимодействие с отделом ВЭД для оказания консультаций по техническим вопросам и разрешительной документации на ввоз оборудования<br />- Взаимодействие с поставщиками для технического контроля поставки на этапе закупки: проверка конфигурации, работоспособности и комплектации оборудования<br />- Технический контроль поставки на этапе приемки на склад<br />- Сборка, диагностика и тестирование серверного оборудования<br />- Взаимодействие с заказчиками и поставщиками в качестве сервисного инженера.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "114",
+      "name": "Системный инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4664842",
+    "name": "Компания Лимарк",
+    "url": "https://api.hh.ru/employers/4664842",
+    "alternate_url": "https://hh.ru/employer/4664842",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1060506.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5862657.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5862658.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4664842",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-12T07:14:49+0300",
+  "created_at": "2025-05-12T07:14:49+0300",
+  "initial_created_at": "2025-04-18T13:10:07+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119692211",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119692211",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

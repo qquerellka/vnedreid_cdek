@@ -1,0 +1,143 @@
+{
+  "id": "121374844",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "QA инженер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>BAUM — ведущий российский разработчик инновационных решений в сфере ИТ и систем хранения данных. Мы создаем передовые продукты, которые обеспечивают надежное хранение больших объемов данных, гарантируя их безопасность и доступность. Наши разработки успешно используются крупнейшими компаниями государственного и частного секторов. Мы нацелены на лидерство в области ИТ как в России, так и за ее пределами.</p> <p><strong>Чем ты будешь у нас заниматься:</strong></p> <ul> <li> <p>активное взаимодействие в команде (с аналитиками, архитеторами, DevOps, командами разработки)</p> </li> <li> <p>участие при выстраивании процессов тестирования</p> </li> <li> <p>проведение анализа технической документации (уточнение требований и пр.)</p> </li> <li> <p>разработка плана тестирования (чек-листы, тест-кейсы, сценарии и пр.)</p> </li> <li> <p>покрытие приложений автотестами</p> </li> <li> <p>проведение ручного и автоматизированного тестирования</p> </li> <li> <p>ведение отчетной и статистической документации (баг-репорты, отчеты по тестированию)</p> </li> <li> <p>сопровождение работы в redmine</p> </li> </ul> <p><strong>Что мы ждем от тебя:</strong></p> <ul> <li> <p>опыт middle/senior QA от 3х лет</p> </li> <li> <p>опыт наставничества или управления QA командой</p> </li> <li> <p>знание теории тестирования</p> </li> <li> <p>умение работать с технической документацией (проводить анализ)</p> </li> <li> <p>опыт администрирования в Linux (работа с командной строкой)</p> </li> <li> <p>опыт работы с системами контроля версий ПО (git)</p> </li> <li> <p>опыт тестирования UI, REST API (Postman или подобное), back-сервисов</p> </li> <li> <p>знание python / bash / shell</p> </li> <li> <p>знание pytest + selenium (или другое)</p> </li> <li> <p>опыт работы с системами управления проектами</p> </li> <li> <p>способность разобраться в предметной области (СХД)</p> </li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li> <p>работа в аккредитованной IT-компании</p> </li> <li> <p>динамичная, активно развивающаяся компания с минимумом бюрократии</p> </li> <li> <p>участие в создании высококлассных продуктов и решении сложных задач</p> </li> <li> <p>профессиональный коллектив и комфортная атмосфера</p> </li> <li> <p>обучение за наш счёт и реальные карьерные перспективы</p> </li> <li> <p>расширенный полис ДМС со стоматологией</p> </li> </ul> <p><strong>​​Если предложение показалось интересным, будем рады отклику. Мы ждем тебя в &quot;BAUM&quot;!</strong></p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": {
+    "id": 41334,
+    "name": "Брендированный шаблон 3",
+    "top_picture": {
+      "height": 590,
+      "width": 1624,
+      "path": "https://img.hhcdn.ru/branding-pictures/2699724.png",
+      "blurred_path": null
+    },
+    "bottom_picture": {
+      "height": 704,
+      "width": 1540,
+      "path": "https://img.hhcdn.ru/branding-pictures/2705783.png",
+      "blurred_path": null
+    }
+  },
+  "key_skills": [
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "UI"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Python"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5465724",
+    "name": "BAUM",
+    "url": "https://api.hh.ru/employers/5465724",
+    "alternate_url": "https://hh.ru/employer/5465724",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1237844.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6571809.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6571810.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5465724",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T11:27:41+0300",
+  "created_at": "2025-06-05T11:27:41+0300",
+  "initial_created_at": "2025-06-05T11:27:41+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121374844",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121374844",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

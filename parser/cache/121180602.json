@@ -1,0 +1,178 @@
+{
+  "id": "121180602",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "PHP / Javascript программист",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 85000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 85000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Парковая улица",
+    "building": "6А",
+    "lat": 59.892726,
+    "lng": 30.335065,
+    "description": null,
+    "raw": "Санкт-Петербург, Парковая улица, 6А",
+    "metro": {
+      "station_name": "Московские ворота",
+      "line_name": "Московско-Петроградская",
+      "station_id": "15.221",
+      "line_id": "15",
+      "lat": 59.891788,
+      "lng": 30.317873
+    },
+    "metro_stations": [
+      {
+        "station_name": "Московские ворота",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.221",
+        "line_id": "15",
+        "lat": 59.891788,
+        "lng": 30.317873
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><em><strong>&quot;Вентавтоматика&quot; — инженерная команда, уже восемь лет создающая надёжные щиты управления для вентиляции, насосных станций и тепловых пунктов. Наши 25 000+ шкафов работают на ГЭС и АЭС, в «Пятёрочке», «Магните», на складах Ozon и «Все инструменты», а также в новостройках «ПИК» и «Самолёта». </strong></em></p> <p>Мы быстро растём и автоматизируем всё, что можно, — поэтому <strong>ищем разработчика (PHP / Javascript программиста)</strong> который вместе с нами выстроит удобные цифровые продукты для производства и сервиса.</p> <p><strong>Что предлагаем:</strong></p> <ul> <li><strong>заработная плата 85.000 р.</strong> + премии за проекты, сданные раньше срока;</li> <li><strong>корпоративное питание</strong> с частичной компенсацией, а также бесплатные чай и кофе в офисе;</li> <li><strong>полис ДМС</strong> через 6 месяцев работы — позволяет не думать о расходах на здоровье;</li> <li><strong>свободный дресс-код</strong>: выбирайте стиль, в котором чувствуете себя комфортно;</li> <li><strong>оформление по ТК РФ</strong> и полный соцпакет с первого рабочего дня;</li> <li><strong>гибкий график</strong>: стартуйте в 9:00–17:30 или 10:00–18:30 по вашему выбору, пн–пт;</li> <li><strong>средний возраст коллег — 28 лет</strong>: атмосфера живая, идеи внедряются быстро, и у каждого есть шанс влиять на продукт.</li> </ul> <p><strong>Что вам предстоит делать:</strong></p> <ul> <li> <p>разрабатывать внутренние порталы, которые ускоряют работу всех отделов;</p> </li> <li> <p>интегрировать наши системы с внешними сервисами;</p> </li> <li> <p>подключать дизайн-макеты к CMS, настраивать функциональность и выводить сайты в продакшн.</p> </li> </ul> <p><strong>Что поможет быстро войти в роль:</strong></p> <ul> <li> <p>базовые знания <strong>PHP и JavaScript</strong> и стремление развиваться в этих направлениях;</p> </li> <li> <p>уверенное владение <strong>Git</strong> и понимание, как задействовать нейросети для ускорения рутинных задач;</p> </li> <li> <p>готовность учиться новому и находить решения для нестандартных кейсов;</p> </li> <li> <p>умение эффективно работать в команде.</p> </li> </ul> <p><strong>При отклике приложите ссылки на реализованные проекты — нам важно увидеть ваши работы.</strong> Присоединяйтесь к команде, где ценят инициативу, качественный код и сервис для клиента!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Java"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "Интеграционное тестирование"
+    },
+    {
+      "name": "Интеграция программных модулей"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3223967",
+    "name": "ВентАвтоматика",
+    "url": "https://api.hh.ru/employers/3223967",
+    "alternate_url": "https://hh.ru/employer/3223967",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/849099.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3837271.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3837272.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3223967",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T17:07:55+0300",
+  "created_at": "2025-06-05T17:07:55+0300",
+  "initial_created_at": "2025-05-30T17:07:55+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121180602",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121180602",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

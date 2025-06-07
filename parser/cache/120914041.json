@@ -1,0 +1,139 @@
+{
+  "id": "120914041",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Frontend-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": null,
+    "to": 240000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 240000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "улица Максима Горького",
+    "building": "79",
+    "lat": 55.027918,
+    "lng": 82.926754,
+    "description": null,
+    "raw": "Новосибирск, улица Максима Горького, 79",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>О компании:</strong></p> <p><strong>ООО &quot;АБИЕ-С&quot; (аккредитованная IT компания) </strong>— профессиональная команда, которая более 10 лет занимается разработкой инновационных IT-решений в области автоматизации бизнес-процессов охраны труда.</p> <p>Плодами нашего труда ежедневно пользуются более 100 000 человек, поэтому у нас есть мотивация делать еще лучше!</p> <p>В связи с расширением штата, мы ищем в наш офис именно тебя: целеустремленного и инициативного специалиста в области IT!</p> <p><strong>Что будет входить в обязанности:</strong></p> <ul> <li> <p>Разработка и поддержка Web-приложений (SPA Angular, Electron).</p> </li> <li> <p>Адаптивная верстка.</p> </li> <li> <p>Выбор архитектуры, техническая экспертиза front-end части проектов.</p> </li> <li> <p>Работа в разных командах над разными проектами.</p> </li> <li> <p>Наставничество (над fullstack разработчиками) в рамках решаемых front-end разработчиками задач.</p> </li> </ul> <strong>Что мы ожидаем:</strong> <ul> <li> <p>Опыт коммерческой разработки от 2х лет на одном из (а лучше на нескольких) популярных фреймворках: React, Angular, Vue.</p> </li> <li> <p>Хороший опыт адаптивной верстки.</p> </li> <li> <p>Знание спецификации HTML5, знание CSS3, Typescript.</p> </li> <li> <p>Понимание основ JavaScript (цикл событий, очередь задач, микро-, макрозадачи).</p> </li> <li> <p>Принцип работы HTTPS, SSL/TLS.</p> </li> <li> <p>Проактивность, желание развиваться.</p> </li> </ul> <strong>Будет плюсом:</strong> <ul> <li> <p>Если вы знакомы с такими словами как: паттерн Store, RxJs, NGSX, NGRX.</p> </li> <li> <p>Опыт в построении front-end микросервисов.</p> </li> <li> <p>Если вы понимание и применяете на практике SOLID.</p> </li> <li> <p>Пишете тесты.</p> </li> </ul> <p><strong>Основной стек наших технологий:</strong></p> <ul> <li>Backend: .NET 6 и выше (Web API, Entity Framework).</li> <li> <p>Frontend: Angular 15 и выше, Electron.</p> </li> <li> <p>Базы данных: PostgreSQL, Citus, MartenDB.</p> </li> <li> <p>Среда разработки: Visual Studio, VS Code, DBeaver, Postman etc.</p> </li> <li> <p>Code Review, контроль версий GitLab.</p> </li> <li> <p>Kanban.</p> </li> </ul> <p><strong>Что тебя ждет в АБИЕ-С?</strong></p> <ul> <li><strong>Достойная заработная плата</strong>, официальное трудоустройство</li> <li>Комфортный офис в центре Новосибирска</li> <li>Лояльное руководство, классные коллеги, среди которых ты точно найдешь друзей!</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10433163",
+    "name": "Абие-С",
+    "url": "https://api.hh.ru/employers/10433163",
+    "alternate_url": "https://hh.ru/employer/10433163",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10433163",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-23T15:11:00+0300",
+  "created_at": "2025-05-23T15:11:00+0300",
+  "initial_created_at": "2025-05-23T15:11:00+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120914041",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120914041",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

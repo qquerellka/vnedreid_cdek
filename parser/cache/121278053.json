@@ -1,0 +1,195 @@
+{
+  "id": "121278053",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "ML Engineer / Инженер машинного обучения",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 130000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 130000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Выборгское шоссе",
+    "building": "17к1",
+    "lat": 60.054554,
+    "lng": 30.310568,
+    "description": null,
+    "raw": "Санкт-Петербург, Выборгское шоссе, 17к1",
+    "metro": {
+      "station_name": "Озерки",
+      "line_name": "Московско-Петроградская",
+      "station_id": "15.211",
+      "line_id": "15",
+      "lat": 60.037098,
+      "lng": 30.321495
+    },
+    "metro_stations": [
+      {
+        "station_name": "Озерки",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.211",
+        "line_id": "15",
+        "lat": 60.037098,
+        "lng": 30.321495
+      },
+      {
+        "station_name": "Проспект Просвещения",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.210",
+        "line_id": "15",
+        "lat": 60.051456,
+        "lng": 30.332544
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Компания <strong>Радиофид Системы</strong> – ведущий российский производитель промышленного сетевого оборудования под брендом iRZ. Мы занимаем лидирующие позиции на рынке и продолжаем динамично развиваться. У нас работают эксперты, влюбленные в электронику и всё, что с ней связано.</p> <p>Сейчас в отдел разработки мы ищем <strong>ML-разработчика</strong> для участия в различных проектах связанных с нейросетями.</p> <p>Если ты внимательно следишь за развитием нейросетей, уже экспериментировал с различными нейросетями, разворачивал их локально, дообучал, и вообще уверен, что за нейросетями будущее - то мы тебя ждем.</p> <p>Осталось только убедиться, что ты подходишь по требованиям к вакансии.</p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Проводить исследовательскую работу по выбору необходимых технологий под различные проекты;</li> <li>Разрабатывать сервисы с использованием нейросетей: текстовые модели, транскрибация аудио, синтез речи;</li> <li>Разворачивать локальные LLM и дообучать их исходя из потребностей;</li> <li>Изучать новые технологии и внедрять их в существующие проекты. Оптимизировать текущий код;</li> <li>Разворачивать и сопровождать разработанные сервисы;</li> <li>Работать в тесном взаимодействии с командой, предлагать идеи и улучшения для проектов.</li> </ul> <strong>Наши ожидания:</strong> <ul> <li>Профильное образование по IT специальностям;</li> <li>Понимание принципов работы с моделями машинного обучения и их применения в реальных проектах;</li> <li>Владение языком программирования Python;</li> <li>Знание архитектур LLM и методов их дообучения (Prompt Tuning, LoRA, Full Fine-Tuning);</li> <li>Выпуск и сопровождение обученных моделей в продакшне;</li> <li>Знание на уровне администратора ОС Linux и Bash;</li> <li>Опыт работы с базами данных;</li> <li>Опыт работы с Git и инструментами для автоматизации процессов разработки и деплоя.</li> </ul> <p><strong>Будет плюсом:</strong></p> <p>Опыт работы с аудио:</p> <ul> <li>Использование библиотек для обработки звука (Librosa, PyDub, TorchAudio);</li> <li>Знание методов шумоподавления, сегментации аудио, извлечения признаков (MFCC, спектрограммы);</li> <li>Опыт работы с моделями для транскрибации (например, Whisper, Wav2Vec) и синтеза речи (например, Google Text-to-Speech, WaveNet, FastSpeech);</li> <li>Понимание особенностей работы с аудиоданными (частота дискретизации, битрейт, форматы);</li> </ul> <p>2. Опыт работы с текстом:</p> <ul> <li>Использование NLP-библиотек (Hugging Face, NLTK, SpaCy);</li> <li>Работа с задачами классификации текста, генерации текста, извлечения сущностей;</li> </ul> <p>3. Знание методов оптимизации моделей (квантование, дистилляция);</p> <p>4. Опыт работы с контейнеризацией (Docker) и оркестрацией (Kubernetes);</p> <p>5. Опыт в математическом и статистическом моделировании, включая теорию вероятностей и статистику (распределения, проверка гипотез, расчет p-value).</p> <strong>Мы предлагаем:</strong> <ul> <li>Уютный офис недалеко от метро «Озерки» и «Проспект Просвещения»;</li> <li>Возможность развиваться в продуктовой IT-компании полного цикла, выполнять важные и интересные задачи;</li> <li>Комфортную атмосферу и команду, где любят работать и умеют отдыхать;</li> <li>Выплату заработной платы всегда вовремя;</li> <li>Безлимит чай/кофе/печенье в офисе;</li> <li>Компенсация обедов;</li> <li>Организация экскурсий для сотрудников и их близких</li> <li>Компенсация годовых безлимитных абонементов в фитнес клубы.</li> </ul> <p>Мы ценим желание учиться и открыто обсуждать задачи — даже если вы не знаете всего, мы готовы помочь!</p> <p><strong>Откликайся, а в сопроводительном письме напиши, с какими из перечисленных ниже технологий у тебя есть опыт. Ждём тебя!</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "GitHub"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "TensorFlow"
+    },
+    {
+      "name": "PyTorch"
+    },
+    {
+      "name": "Numpy"
+    },
+    {
+      "name": "NLTK/SpaCy"
+    },
+    {
+      "name": "Librosa/PyDub"
+    },
+    {
+      "name": "LoRA"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "165",
+      "name": "Дата-сайентист"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "849819",
+    "name": "Радиофид",
+    "url": "https://api.hh.ru/employers/849819",
+    "alternate_url": "https://hh.ru/employer/849819",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/128324.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/567017.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/567018.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=849819",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T12:03:00+0300",
+  "created_at": "2025-06-06T12:03:00+0300",
+  "initial_created_at": "2025-06-03T12:03:00+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121278053",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121278053",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

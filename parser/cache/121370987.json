@@ -1,0 +1,172 @@
+{
+  "id": "121370987",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Python разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>О нас</strong></p> <p>CPS.ai — это неформальная обстановка, крутые ИТ-проекты в области Big Data и решения, конкурирующие с лидерами рынка!</p> <p>Наша команда растёт и мы ищем Python разработчиков, которые помогут команде разработать микросервисы на крупном проекте.</p> <p>В твоих силах реализовать решения компании на самых современных платформах: Django, Flask, FastAPI, RabbitMQ, PostgreSQL, Clickhouse и другие</p> <p>BigData + Machine Learning + HighLoad &gt; Это про нас)</p> <p><strong>Чем придётся заниматься</strong></p> <ul> <li>Разработка инструментов оптимизации для задач производства, логистики, планирования цепочки поставок и других с использованием библиотек Python</li> <li>Разработка математических алгоритмов прогнозирования спроса с использованием библиотек Python</li> <li>Проектирование и разработка методов интеграции сервисов оптимизации и прогнозирования со смежными ИТ-сервисами и базами данных</li> <li>Разработка процедур преобразования данных с помощью Python / PostgreSQL</li> <li>Организация работы с базой данных (в частности PostgreSQL)</li> <li>Анализ применимости существующих внешних решателей для поставленных задач оптимизации и прогнозирования</li> <li>Участие в планировании и оценке задач</li> <li>Code review</li> </ul> <p><strong>Что ожидаем от тебя</strong></p> <ul> <li>Техническо-аналитический склад ума (ВУЗ, курсы, тесты)</li> <li>Опыт решения оптимизационных задач и задач прогнозирования на производстве и/или в логистике / ритейле</li> <li>Опыт работы с любой системой контроля версий. Понимание того, что такое git-flow, commit, merge request</li> <li>Опыт работы с командной строкой. Умение читать sh файлы</li> <li>Опыт работы с контейнеризацией. Умение писать Dockerfile</li> <li>Знание Python, в т.ч. распространённых пакетов для работы с данными</li> <li>Умение написать запрос / процедуру SQL, знание JOIN, UNION, CTE. Опыт работы с PostgreSQL</li> <li>Желание развиваться и расти вместе с продуктом</li> <li>Преимуществом будет знание RabbitMQ / Kafka, Redis / Hadoop, React, Java</li> </ul> <p><strong>Бенефиты:</strong></p> <ul> <li>Официально аккредитованный работодатель (ИТ-ипотека, отсрочка от призыва)</li> <li>Полноценная удалённая работа</li> <li>Максимально гибкий график</li> <li>Современное топовое оборудование</li> <li>Разнообразные технологичные проекты</li> <li>Профессиональный и личностный рост</li> <li>Оформление по ТК РФ, конкурентная заработная плата</li> <li>Профессиональное обучение и конференции по запросу</li> </ul> <p><strong>Минусы:</strong></p> <ul> <li> <p>Очень много интересных и сложных задач)))</p> </li> <li> <p>Будут спрашивать результаты работы</p> </li> </ul> <p><em>Готов создавать вместе с нами сервисы будущего?</em></p> <p><em>Готов брать на себя ответственность за сложные вызовы?</em></p> <p><em>Если да, ждём твоё резюме, рады будем видеть тебя в команде!</em></p> <ul> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "FastAPI"
+    },
+    {
+      "name": "Clickhouse"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Базы данных"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "Pytest"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Bash"
+    },
+    {
+      "name": "PGSQL"
+    },
+    {
+      "name": "Redis"
+    },
+    {
+      "name": "Gitlab"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "CI/CD"
+    },
+    {
+      "name": "MongoDB"
+    },
+    {
+      "name": "API"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4730370",
+    "name": "Corporate Performance Systems",
+    "url": "https://api.hh.ru/employers/4730370",
+    "alternate_url": "https://hh.ru/employer/4730370",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/750441.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3442725.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3442726.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4730370",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T10:32:45+0300",
+  "created_at": "2025-06-05T10:32:45+0300",
+  "initial_created_at": "2025-06-05T10:32:45+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121370987",
+  "has_test": true,
+  "test": {
+    "required": true
+  },
+  "alternate_url": "https://hh.ru/vacancy/121370987",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

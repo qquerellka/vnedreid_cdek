@@ -1,0 +1,123 @@
+{
+  "id": "121355223",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Frontend-разработчик (React)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>У нашего клиента, занимающегося разработкой сложных веб-приложений с интерактивными интерфейсами и 3D-визуализацией, открыта вакансия Frontend-разработчика (React)</p> <strong>Чем предстоит заниматься:</strong><br />- Разработка и поддержка адаптивных веб-приложений на React.js; <p>- Создание и управление 3D-объектами и их поведением в сцене;<br />- Реализация интерактивных взаимодействий;<br />- Оптимизация UI-компонентов для максимальной производительности во всех браузерах;<br />- Участие в обсуждении и планировании задач;<br />- Проведение Code Review и работа над улучшением качества кода;<br />- Наставничество для junior-разработчиков;</p> <p><strong>Наши ожидания:</strong><br />- 3+ года коммерческого опыта с React, TypeScript, ES6, Webpack, Babel, Yarn;<br />- Понимание принципов работы 2D/3D-графики в WebGL;<br />- Опыт создания адаптивных интерфейсов под разные устройства и браузеры;<br />- Навыки pixel-perfect верстки;<br />- Знакомство с SSR или Static Site Generation;</p> <p><strong>Что мы предлагаем:</strong><br />- ДМС с первого дня, а после испытательного срока — стоматология и льготы для семьи;<br />- Льготная ипотека и программы кредитования;<br />- Гибкий график + компенсация питания;<br />- Бесплатные кофе, снеки и фрукты в офисе;<br />- Реферальная программа и мультимедийная подписка за наш счет;<br />- Развитие: обучение, конференции;<br />- Яркая корпоративная жизнь и клубы по интересам.</p> <p><em>Хочешь создавать технологии будущего? </em><br />Откликайся, будем рады познакомиться!</p> <p> </p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "React"
+    },
+    {
+      "name": "TypeScript"
+    },
+    {
+      "name": "ES6"
+    },
+    {
+      "name": "Webpack"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4759060",
+    "name": "HR Prime",
+    "url": "https://api.hh.ru/employers/4759060",
+    "alternate_url": "https://hh.ru/employer/4759060",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1400210.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7220611.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7220612.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4759060",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T19:12:18+0300",
+  "created_at": "2025-06-04T19:12:18+0300",
+  "initial_created_at": "2025-06-04T19:12:18+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121355223",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121355223",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,189 @@
+{
+  "id": "121363702",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Аналитик 1С:ЗУП",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": null,
+    "to": 250000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": null,
+    "to": 250000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Казань",
+    "street": "Спартаковская улица",
+    "building": "2к1",
+    "lat": 55.780897,
+    "lng": 49.127309,
+    "description": null,
+    "raw": "Казань, Спартаковская улица, 2к1",
+    "metro": {
+      "station_name": "Аметьево",
+      "line_name": "Центральная",
+      "station_id": "49.275",
+      "line_id": "49",
+      "lat": 55.765346,
+      "lng": 49.165083
+    },
+    "metro_stations": [
+      {
+        "station_name": "Аметьево",
+        "line_name": "Центральная",
+        "station_id": "49.275",
+        "line_id": "49",
+        "lat": 55.765346,
+        "lng": 49.165083
+      },
+      {
+        "station_name": "Кремлевская",
+        "line_name": "Центральная",
+        "station_id": "49.272",
+        "line_id": "49",
+        "lat": 55.795206,
+        "lng": 49.105426
+      },
+      {
+        "station_name": "Площадь Тукая",
+        "line_name": "Центральная",
+        "station_id": "49.273",
+        "line_id": "49",
+        "lat": 55.787163,
+        "lng": 49.122126
+      },
+      {
+        "station_name": "Суконная слобода",
+        "line_name": "Центральная",
+        "station_id": "49.274",
+        "line_id": "49",
+        "lat": 55.777094,
+        "lng": 49.142275
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "Мы находимся в поиске <strong>аналитика 1С: ЗУП </strong>в российскую аккредитованную IT-компанию, осуществляющую комплексную автоматизацию бизнеса за счёт внедрения продуктов на базе 1С и Битрикс24. Компания помогает клиентам оптимизировать их операционные процессы и повышать эффективность работы с помощью передовых технологических решений.<br /><br /><strong>Обязанности:</strong> <ul> <li>Получение и анализ функциональных требований от заказчика/пользователя;</li> <li>Описание процессов и операций, принятых к автоматизации или корректируемых в рамках доработок конфигурации;</li> <li>Проведение диагностики заявленной пользователем проблемы в среде 1С;</li> <li>Составление технического задания программисту на реализацию функционала или исправление ошибки;</li> <li>Составление плана внедрения типовых решений и разработки новых.</li> </ul> <strong>Требования:</strong> <ul> <li>Умение проводить анализ функциональных требований на наличие в них конфликтов и несоответствий;</li> <li>Навыки составления технического задания на разработку (пользовательские сценарии, структуры данных, источники и ограничения);</li> <li>Опыт работы аналитиком на проектах 1С:ЗУП 3.1 в течение последних 2-х лет;</li> <li>Экспертные знания кадрового учета, расчета зарплаты, исчисления НДФЛ и страховых взносов, с учетом требований законодательства РФ для производственного предприятия;</li> <li>Понимание особенностей объектов метаданных платформы 1С:Предприятие;</li> </ul> <strong>Условия:</strong> <ul> <li>Работа в аккредитованной IT-компании;</li> <li>График 5/2 с 8-17:00 МСК (плавающее начало дня);</li> <li>Офисный или гибридный формат - офис в центре Казани;</li> <li>Белая зарплату, состоящая из оклада и премии;</li> <li>Дополнительный день к отпуску за каждый отработанный год в компании;</li> <li>Обучение и повышение квалификации за счет компании;</li> <li>Возможность профессионального и карьерного развития;</li> <li>Иногородним предоставляется помощь при переезде.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "1С"
+    },
+    {
+      "name": "1С: Зарплата и управление персоналом"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "10",
+      "name": "Аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5247511",
+    "name": "Онегова Юлия Сергеевна",
+    "url": "https://api.hh.ru/employers/5247511",
+    "alternate_url": "https://hh.ru/employer/5247511",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5247511",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T08:54:50+0300",
+  "created_at": "2025-06-05T08:54:50+0300",
+  "initial_created_at": "2025-06-05T08:54:50+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121363702",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121363702",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

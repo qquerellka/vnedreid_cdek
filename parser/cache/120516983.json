@@ -1,0 +1,158 @@
+{
+  "id": "120516983",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Senior QA Engineer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": null,
+    "lng": null,
+    "description": null,
+    "raw": null,
+    "metro": {
+      "station_name": "Белорусская",
+      "line_name": "Замоскворецкая",
+      "station_id": "2.19",
+      "line_id": "2",
+      "lat": 55.777439,
+      "lng": 37.582107
+    },
+    "metro_stations": [
+      {
+        "station_name": "Белорусская",
+        "line_name": "Замоскворецкая",
+        "station_id": "2.19",
+        "line_id": "2",
+        "lat": 55.777439,
+        "lng": 37.582107
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Xello – IT-компания, прошедшая путь от стартапа до одного из ключевых игроков на рынке информационной безопасности. Мы создаём передовые продукты в сфере кибербезопасности, направленные на предотвращение хакерских атак. Наши решения помогают бизнесам любого масштаба защищать свои критические данные и данные клиентов.<br />Мы аккредитованная IT-компания в Минцифры и резиденты Сколково, и наши сотрудники могут воспользоваться предлагаемыми льготами.</p> <p>Наша команда регулярно участвует в профильных конференциях, а проекты реализуются на современном технологическом стеке, что обеспечивает инновационность и качество наших решений.</p> <p>Мы работаем с передовым технологическим стеком и решаем сложные задачи, связанные с созданием высоконагруженных систем и архитектурных компонентов. У нас вы будете участвовать в разработке решений, которые взаимодействуют с операционными системами и инфраструктурой, обрабатывают сотни тысяч событий в секунду и оптимизируют процессы хранения данных и коммуникации между компонентами. Мы ценим инновации и открыты для экспериментов, постоянно используем современные подходы и инструменты в разработке.</p> <p>Сейчас мы ищем человека, который готов воспринимать каждую задачу QA, как инженерный вызов:)</p> <p><strong>Наш стек:</strong></p> <ul> <li>PostgreSQL;</li> <li>RabbitMQ, Kafka;</li> <li>Python, C#, C++;</li> <li>Backend – Spring, Kotlin, Java, Groovy;</li> <li>Frontend – TypeScript, JS, npm, node, ant, redux;</li> <li>Jira, TestRail, Jenkins, Confluence, Bitbucket, Figma, Slack;</li> <li>Docker, K8s.</li> </ul> <p><strong>Чем вам предстоит заниматься:</strong></p> <ul> <li>тестировать новые модули и функции продукта;</li> <li>участвовать в построении процесса тестирования (регресс, смоук, тестирование фичей, процесс выкатки, ретроспектива релиза);</li> <li>отвечать за стабильность работы платформы в релизе;</li> <li>участвовать в процессе автоматизации тестирования;</li> <li>взаимодействовать с инженерами и разработчиками в рамках процесса разработки.</li> </ul> <p><strong>Что ожидаем от кандидата:</strong></p> <ul> <li>знание способов и методик тестирования;</li> <li>опыт тестирования сложных технологических решений или систем (например системы с микросервисной архитектурой, программно-аппаратные комплексы или on-premise решения);</li> <li>опыт работы с linux-подобными операционными системами на уровне продвинутого пользователя;</li> <li>базовые представления принципов работы компьютерных сетей (начиная от модели OSI);</li> <li>опыт работы с SQL базами данных и написания SQL-запросов;</li> <li>опыт тестирования web-приложений (frontend &amp; backend);</li> <li>умение по stack trace выяснить, в чем ошибка или куда смотреть дальше.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>понимание работы основных протоколов обмена данными;</li> <li>опыт работы с системами виртуализации (VMWare, VirtualBox);</li> <li>опыт работы c Docker;</li> <li>опыт работы с системами контроля версий (git);</li> <li>опыт автоматизации процесса тестирования (написание автоматических тестов);</li> <li>умение читать и запускать код на python или java;</li> <li>инженерный бэкграунд и опыт работы на смежных ролях.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>гибкий гибридный график работы;</li> <li>возможность удаленной работы;</li> <li>достойную заработную плату, которая обсуждается с каждым кандидатом индивидуально и зависит от знаний и опыта;</li> <li>пересмотр заработной платы в соответствии с профессиональным ростом;</li> <li>возможность максимально влиять на продукт;</li> <li>профессиональный рост в роли инженера, возможность работы над сложными инженерными задачами в рамках уникального продукта;</li> <li>возможность принимать участие в профильных мероприятиях и конференциях.</li> <li>Качественный пакет ДМС, day-off pack, и т.д.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Atlassian Jira"
+    },
+    {
+      "name": "Bash"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "SQL"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "4712081",
+    "name": "Xello",
+    "url": "https://api.hh.ru/employers/4712081",
+    "alternate_url": "https://hh.ru/employer/4712081",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/750355.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3442381.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3442382.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4712081",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-14T10:22:26+0300",
+  "created_at": "2025-05-14T10:22:26+0300",
+  "initial_created_at": "2025-05-14T10:22:26+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120516983",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120516983",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

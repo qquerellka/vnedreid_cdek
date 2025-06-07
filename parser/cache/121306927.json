@@ -1,0 +1,214 @@
+{
+  "id": "121306927",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Golang-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 80000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 80000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "4-й Лихачёвский переулок",
+    "building": "15",
+    "lat": 55.858352,
+    "lng": 37.530265,
+    "description": null,
+    "raw": "Москва, 4-й Лихачёвский переулок, 15",
+    "metro": {
+      "station_name": "Грачёвская",
+      "line_name": "МЦД-3",
+      "station_id": "135.846",
+      "line_id": "135",
+      "lat": 55.869444,
+      "lng": 37.509167
+    },
+    "metro_stations": [
+      {
+        "station_name": "Грачёвская",
+        "line_name": "МЦД-3",
+        "station_id": "135.846",
+        "line_id": "135",
+        "lat": 55.869444,
+        "lng": 37.509167
+      },
+      {
+        "station_name": "Лихоборы",
+        "line_name": "МЦД-3",
+        "station_id": "135.848",
+        "line_id": "135",
+        "lat": 55.85,
+        "lng": 37.5525
+      },
+      {
+        "station_name": "Моссельмаш",
+        "line_name": "МЦД-3",
+        "station_id": "135.847",
+        "line_id": "135",
+        "lat": 55.862222,
+        "lng": 37.526389
+      },
+      {
+        "station_name": "Селигерская",
+        "line_name": "Люблинско-Дмитровская",
+        "station_id": "10.597",
+        "line_id": "10",
+        "lat": 55.86483,
+        "lng": 37.55005
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Расширяем команду golang-разработчиков. Широкий набор задач от backend-приложений до высоконагруженных сервисов. Разрабатываем преимущественно в рамках микросервисного подхода (Linux/k8s).</p> <p><strong>Обязанности:</strong></p> <ul> <li>Разработка и поддержка высоконагруженных приложений на языке Golang</li> <li>Участие в проектировании и разработке баз данных</li> <li>Разработка и оптимизация алгоритмов для работы с большими массивами информации</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Знание языка программирования Golang</li> <li>Умение писать unit-тесты, опыт работы с git, приветствуется опыт работы с CI/CD системами</li> <li>Понимание принципов проектирования и разработки баз данных</li> </ul> <p><strong>Условия и преимущества:</strong></p> <ul> <li>Возможность профессионального роста и обучения</li> <li>Участие в интересных и значимых проектах</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Git"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "GitLab CI"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "NoSQL"
+    },
+    {
+      "name": "Микросервисная архитектура"
+    },
+    {
+      "name": "Golang"
+    },
+    {
+      "name": "RabbitMQ"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Unit Testing"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "566866",
+    "name": "ФГУП НИИ Квант",
+    "url": "https://api.hh.ru/employers/566866",
+    "alternate_url": "https://hh.ru/employer/566866",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/435063.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/2182223.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/2182224.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=566866",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T17:58:06+0300",
+  "created_at": "2025-06-06T17:58:06+0300",
+  "initial_created_at": "2025-06-03T17:58:06+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121306927",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121306927",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

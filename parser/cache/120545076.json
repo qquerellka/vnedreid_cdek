@@ -1,0 +1,214 @@
+{
+  "id": "120545076",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Middle Python developer в офис г.Казань (FastAPI, PostgreSQL)",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 200000,
+    "to": 250000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 200000,
+    "to": 250000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "MONTHLY",
+      "name": "Раз в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Казань",
+    "street": "улица Островского",
+    "building": "14",
+    "lat": 55.7889,
+    "lng": 49.114292,
+    "description": null,
+    "raw": "Казань, улица Островского, 14",
+    "metro": {
+      "station_name": "Козья слобода",
+      "line_name": "Центральная",
+      "station_id": "49.271",
+      "line_id": "49",
+      "lat": 55.817608,
+      "lng": 49.097646
+    },
+    "metro_stations": [
+      {
+        "station_name": "Козья слобода",
+        "line_name": "Центральная",
+        "station_id": "49.271",
+        "line_id": "49",
+        "lat": 55.817608,
+        "lng": 49.097646
+      },
+      {
+        "station_name": "Кремлевская",
+        "line_name": "Центральная",
+        "station_id": "49.272",
+        "line_id": "49",
+        "lat": 55.795206,
+        "lng": 49.105426
+      },
+      {
+        "station_name": "Площадь Тукая",
+        "line_name": "Центральная",
+        "station_id": "49.273",
+        "line_id": "49",
+        "lat": 55.787163,
+        "lng": 49.122126
+      },
+      {
+        "station_name": "Суконная слобода",
+        "line_name": "Центральная",
+        "station_id": "49.274",
+        "line_id": "49",
+        "lat": 55.777094,
+        "lng": 49.142275
+      }
+    ]
+  },
+  "allow_messages": false,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Приветствуем! Мы — молодая и динамично развивающаяся компания Axiomica, занимаемся <strong>разработкой и развитием блокчейн проектов</strong>. Сейчас мы расширяем команду и <strong>ищем Python бэкенд разработчика middle, middle+ уровня </strong>в офис в Казани, который усилит команду разработки одного из наших продуктов.</p> <p><strong>Задачи:</strong></p> <ul> <li> <p>изучение и поддержка проекта, написанного предыдущим разработчиком с ответами разработчика на вопросы</p> </li> <li> <p>доведение проекта до финального состояния, согласно ТЗ</p> </li> <li> <p>реализация новых функций проекта</p> </li> <li> <p>участие в планировании, оценке трудоемкости и т.д.</p> </li> <li> <p>предложение рекомендаций по модернизации и улучшению архитектуры.</p> </li> </ul> <p> </p> <p><strong>Требования:</strong></p> <ul> <li> <p>работа в офисе в центре Казани с 10 до 19 ч.</p> </li> <li> <p>уверенное владение Python, опыт работы с FastAPI, tronpy, Alembic, Kafka, Docker, Kubernetes, PostgreSQL</p> </li> <li> <p>профессиональное написание кода с документированием и использованием Github, Swagger</p> </li> <li> <p>умение самостоятельно тестировать свой код, проводить стресс-тесты</p> </li> <li> <p>английский язык: чтение документации.</p> </li> </ul> <p> </p> <p><strong>Будет плюсом:</strong></p> <ul> <li> <p>навык написания тестов с использованием unittest/pytest, mock</p> </li> <li> <p>опыт работы с Django</p> </li> <li> <p>опыт работы с Prometheus и построения дашбордов на Grafana</p> </li> <li> <p>понимание особенностей микросервисной архитектуры и опыт решения проблем микросервисного взаимодействия</p> </li> <li>понимание процессов CI/CD</li> </ul> <p> </p> <p><strong>Условия:</strong></p> <ul> <li> <p>работа в комфортном офисе в центре Казани пн-пт 10:00 - 19:00</p> </li> <li> <p>обед 1 час</p> </li> <li> <p>испытательный срок 2 мес.</p> </li> <li> <p>график работы 5/2</p> </li> <li> <p>премии за инициативность, успешное выполнение стратегически важных этапов.</p> </li> </ul> <p> </p> <p><strong>Наш стек:</strong></p> <ul> <li>Python, FastAPI, Alembic, PostgreSQL, Docker, Kafka, Kubernetes на проде.</li> </ul> <p> </p> <p><strong>Если вы Python backend разработчик middle уровня и хотите развиваться, знакомясь с технологиями блокчейн, ИИ, участвовать в разработке серьезных финтех проектов, влияющих на рынок – смело откликайтесь на вакансию!</strong></p> <p>В отклике обязательно опишите свои знания и опыт работы в этой сфере.</p> <p>СТРОГО В ОФИС!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "GitHub"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "Pytest"
+    },
+    {
+      "name": "FastAPI"
+    },
+    {
+      "name": "tronpy"
+    },
+    {
+      "name": "Apache Kafka"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Kubernetes"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11691902",
+    "name": "Axiomica",
+    "url": "https://api.hh.ru/employers/11691902",
+    "alternate_url": "https://hh.ru/employer/11691902",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1421311.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7304893.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7304894.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11691902",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T11:44:17+0300",
+  "created_at": "2025-06-02T11:44:17+0300",
+  "initial_created_at": "2025-05-14T16:01:59+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120545076",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120545076",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_9",
+      "name": "9 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

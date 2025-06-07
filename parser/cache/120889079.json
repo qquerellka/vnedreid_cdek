@@ -1,0 +1,153 @@
+{
+  "id": "120889079",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист по ГО и ЧС",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "72",
+    "name": "Пермь",
+    "url": "https://api.hh.ru/areas/72"
+  },
+  "salary": {
+    "from": 40600,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 40600,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Пермь",
+    "street": "улица Крупской",
+    "building": "2",
+    "lat": 58.023445,
+    "lng": 56.271089,
+    "description": null,
+    "raw": "Пермь, улица Крупской, 2",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>Организация и осуществление управления гражданской обороной в Филиале;</li> <li>Подготовка сотрудников к действиям в чрезвычайных ситуациях ;</li> <li>Совершенствование систем защиты персонала и объектов от ЧС;</li> <li>Организация обучения персонала способам защиты от ЧС;</li> <li>Участие в организации работ по ликвидации ЧС.</li> </ul> <strong>Требования:</strong> <ul> <li>Высшее образование;</li> <li>Знание нормативной и организационной документации по направлению ГО и ЧС;</li> <li> <p>Опыт планирования и проведения мероприятий по ГО и ЧС;</p> </li> <li> <p>Знание ПК: пакет программ MS Office;</p> <p><br />Деловые и личностные качества:</p> </li> <li> <p>Ответственность, внимательность;</p> </li> <li> <p>Умение анализировать;</p> </li> <li> <p>Коммуникабельность;</p> </li> <li> <p>Умение расставлять приоритеты.</p> </li> </ul> <strong>Условия:</strong> <ul> <li>Сотрудничество с крупнейшим в России провайдером цифровых услуг и решений;</li> <li>Официальное оформление по ТК РФ;</li> <li>График работы: 08.30 - 17.30;</li> <li>Возможность повысить свой профессиональный уровень благодаря сотрудничеству с опытными коллегами и бесплатному обучению в корпоративном онлайн-университете, электронным библиотекам компании, участию в вебинарах;</li> <li>Насыщенная жизнь внутри компании: спортивные события и турниры, лидерские программы, киберспорт, конкурсы и яркие праздники, волонтерство и благотворительность;</li> <li>Скидки на услуги Ростелекома, выгодные предложения от партнеров: рестораны и магазины, фитнес-центры, банки, отели и базы отдыха.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Охрана труда и техника безопасности"
+    },
+    {
+      "name": "Внутренний контроль"
+    },
+    {
+      "name": "го и чс"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "116",
+      "name": "Специалист по информационной безопасности"
+    }
+  ],
+  "code": "328846",
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2748",
+    "name": "Ростелеком",
+    "url": "https://api.hh.ru/employers/2748",
+    "alternate_url": "https://hh.ru/employer/2748",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/592930.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/2812975.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/2812976.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2748",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-23T07:48:30+0300",
+  "created_at": "2025-05-23T07:48:30+0300",
+  "initial_created_at": "2025-05-23T07:48:30+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120889079",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120889079",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

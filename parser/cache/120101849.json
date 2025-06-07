@@ -1,0 +1,128 @@
+{
+  "id": "120101849",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инспектор инженерных сетей",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "72",
+    "name": "Пермь",
+    "url": "https://api.hh.ru/areas/72"
+  },
+  "salary": {
+    "from": 40000,
+    "to": 45000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 40000,
+    "to": 45000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>проведение первичной и повторной приемки приборов учета тепловой энергии и ГВС потребителей, с опломбировкой и вводом в эксплуатацию, составление актов ввода;</li> <li> приемка (первичная, ежегодная) тепловых энергоустановок потребителей в соответствии с правилами технической эксплуатации тепловых энергоустановок;</li> <li> приемка, актирование, опломбирование сужающих устройств, приборов учета тепловой энергии и ГВС, контрольно-измерительных приборов перед каждым отопительным сезоном</li> </ul> <strong>Требования:</strong> <ul> <li>Среднее профессиональное образование по программам подготовки специалистов среднего звена.</li> <li> <p>Инспектор инженерных сетей должен знать:</p> основы теплотехники, гидравлики;</li> <li>правила технической эксплуатации тепловых энергоустановок;</li> <li>правила безопасности при работе с инструментом и приспособлениями;</li> <li>чтение эксплуатационной документации (рабочие чертежи и схемы).</li> <li>Инспектор инженерных сетей должен обладать навыками обеспечения выполнения поставленных руководством задач, контроля, анализа, систематизации и планирования деятельности в порученной сфере, навыками ведения деловых переговоров, навыками работы со служебными документами, пользоваться оргтехникой и персональным компьютером.</li> </ul> <strong>Условия:</strong> <ul> <li>место работы: мкр. Вышка-2, мкр. Железнодорожный</li> <li> <p>5-дневная рабочая неделя:</p> <p>пн-чт: с 8-00 до 17-00</p> <p>пт с 8-00 до 16-00</p> перерыв для отдыха и питания: с 12-00 до 12-48</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "112",
+      "name": "Сетевой инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "11840835",
+    "name": "ПМУП ГКТХ",
+    "url": "https://api.hh.ru/employers/11840835",
+    "alternate_url": "https://hh.ru/employer/11840835",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11840835",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-29T11:10:29+0300",
+  "created_at": "2025-05-29T11:10:29+0300",
+  "initial_created_at": "2025-04-30T10:00:42+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120101849",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120101849",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

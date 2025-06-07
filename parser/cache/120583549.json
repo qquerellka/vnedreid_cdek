@@ -1,0 +1,115 @@
+{
+  "id": "120583549",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "IOS Developer (Swift)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>О компании и команде</p><p><strong>KOLSA </strong>— продуктовая IT-компания, создающая приложение для здоровья и фитнеса. У нас уже есть кроссплатформенное приложение, но мы решили переписать его на натив для лучшей производительности и UX.</p><p>В команде уже есть один iOS-разработчик и мы ищем еще одного специалиста, который поможет нам ускорить процесс и реализовать лучшие решения в нативной разработке.</p><p>С марта мы запускаем масштабирование — начнем привлекать пользователей из наших соцсетей (более 2 млн подписчиков) в приложение. Отличный момент, чтобы присоединиться к активно растущему проекту!</p><p>У нас сильная продуктовая команда, четкие цели и амбиции. Если хочешь работать над значимым продуктом — присоединяйся! </p><p><br /></p><p><strong>Кого мы ищем?</strong></p><p>Мы в поиске iOS-разработчика, который сможет работать в команде, предлагать лучшие архитектурные решения и писать чистый, поддерживаемый код. Нам важно, чтобы ты разбирался в Swift, паттернах проектирования, многопоточности и умел работать с современными технологиями iOS-разработки.</p><p><br /></p><p><strong>Технические требования</strong></p><ul><li>Swift, принципы ООП, работа со структурой памяти.</li><li>Архитектура: MVVM, MVC, MVP, принципы SOLID, DRY, KISS, YAGNI.</li><li>Auto Layout без Storyboard/XIB (SnapKit, UIStackView, UILayoutGuide).</li><li>URLSession, Alamofire, понимание REST API, JSON.</li><li>Хранение данных: UserDefaults, Keychain, FileManager, основы Core Data, Realm.</li><li>Асинхронность: GCD, OperationQueue, async/await.</li><li>Git Flow, Pull Requests, Code Review.</li><li>Анимации: UIViewPropertyAnimator, Core Animation, Lottie.</li></ul><p><strong>Дополнительные требования</strong></p><ul><li>Опыт работы с Firebase (Crashlytics, Analytics, Remote Config, Push).</li><li>Знание Swift Package Manager (SPM), CocoaPods.</li><li>Опыт работы с Custom UI Components.</li></ul><p>Soft Skills:</p><ul><li>Умение писать чистый код и проводить Code Review.</li><li>Быстрая адаптация в чужом коде, аналитическое мышление.</li><li>Готовность учиться и осваивать новые технологии.</li></ul><p><br /></p><p><strong>Условия</strong></p><p>Что мы предлагаем?</p><p>✅ Работа в сильной продуктовой команде, где ценят инициативу и профессионализм.</p><p>✅ Возможность разрабатывать нативное приложение с нуля.</p><p>✅ Гибкий график, возможность удаленной работы.</p><p>✅ Масштабирование продукта и работа с большой аудиторией.</p><p>✅ Перспективы роста в развивающемся проекте.<br /><br /></p><p><br /></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "6105087",
+    "name": "Kolsanovafit",
+    "url": "https://api.hh.ru/employers/6105087",
+    "alternate_url": "https://hh.ru/employer/6105087",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1115186.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6081341.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6081342.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6105087",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T12:42:57+0300",
+  "created_at": "2025-06-05T12:42:57+0300",
+  "initial_created_at": "2025-05-15T12:42:57+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120583549",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120583549",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

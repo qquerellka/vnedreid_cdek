@@ -1,0 +1,174 @@
+{
+  "id": "117716026",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "QA Engineer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 100000,
+    "to": 220000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": 220000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>DataWorks</strong> – разрабатываем компоненты на JavaScript и .NET для разработчиков, дизайнеров и архитекторов, включая отчеты, электронные таблицы, API документов и элементы управления.</p> <p><strong>Стек технологий и фреймворки: </strong>C#, .NET, WinForms, WPF, Aspnet, Blazor, TypeScript, ReactJS и др.</p> <p><strong>Наш принцип</strong> – комфортная работа миллионов пользователей, которые используют наш продукт. Поэтому мы уделяем большое внимание <strong>дизайну и производительности системы, качеству кода и надежности алгоритмов. </strong></p> <p><strong>Какие задачи предстоит решать: </strong></p> <ul> <li> <p>составлять тестовую документацию (тест–планы, чек–листы, тест–инструкции);</p> </li> <li> <p>тестировать наши десктопные приложения под Windows и веб-приложения;</p> </li> <li> <p>проводить регрессионное тестирование;</p> </li> <li> <p>вести переписку на английском (уровень intermediate).</p> </li> </ul> <p><strong>Наши ожидания от тебя: </strong></p> <ul> <li> <p>опыт работы тестировщиком от трех лет, понимание жизненного цикла ПО;</p> </li> <li> <p>знания и понимание теории тестирования, техник тест–дизайна;</p> </li> <li> <p>владение любым багтрекером, тасктрекером, системой автоматической сборки, системой управления базами данных, виртуальными машинами;</p> </li> <li> <p>знакомство с Visual Studio или любой другой IDE, базовый уровень знания языков C#/JavaScript/SQL;</p> </li> </ul> <ul> <li> <p>ориентироваться в технологиях .NET.</p> </li> </ul> <p> </p> <p><strong>Мы предлагаем:</strong></p> <ul> <li>возможность полностью удаленной работы из любой точки мира, с гибким графиком;</li> <li>официальное оформление и полный соцпакет;</li> <li>&quot;белая&quot; ЗП и годовая премия по результатам работы;</li> <li>возможность поработать над технологичным и сложным проектом, прокачав свои технические навыки;</li> <li>возможность внести свои идеи и увидеть результат своей работы;</li> <li>команда профессионалов, адекватное руководство, отсутствие бюрократии и прозрачный рост;</li> <li>собственный бюджет на обучение, повышение квалификации, участие в тренингах/митапах, а также корпоративный English.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Тестирование"
+    },
+    {
+      "name": "C#"
+    },
+    {
+      "name": "QA"
+    },
+    {
+      "name": "Test case"
+    },
+    {
+      "name": "Test plan"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": ".NET Core"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Visual Studio"
+    },
+    {
+      "name": "Atlassian Jira"
+    },
+    {
+      "name": "TeamCity"
+    },
+    {
+      "name": "VirtualBox"
+    },
+    {
+      "name": "Hyper-V"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1881533",
+    "name": "DataWorks",
+    "url": "https://api.hh.ru/employers/1881533",
+    "alternate_url": "https://hh.ru/employer/1881533",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1881533",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-27T08:47:51+0300",
+  "created_at": "2025-05-27T08:47:51+0300",
+  "initial_created_at": "2025-02-26T08:47:48+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=117716026",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/117716026",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b1",
+        "name": "B1 — Средний"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

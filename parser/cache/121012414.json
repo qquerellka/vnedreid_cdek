@@ -1,0 +1,136 @@
+{
+  "id": "121012414",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Консультант СЭД Directum RX",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Казань",
+    "street": "улица Марселя Салимжанова",
+    "building": "1",
+    "lat": 55.78439,
+    "lng": 49.12076,
+    "description": null,
+    "raw": "Казань, улица Марселя Салимжанова, 1",
+    "metro": {
+      "station_name": "Площадь Тукая",
+      "line_name": "Центральная",
+      "station_id": "49.273",
+      "line_id": "49",
+      "lat": 55.787163,
+      "lng": 49.122126
+    },
+    "metro_stations": [
+      {
+        "station_name": "Площадь Тукая",
+        "line_name": "Центральная",
+        "station_id": "49.273",
+        "line_id": "49",
+        "lat": 55.787163,
+        "lng": 49.122126
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <ul> <li>Консультирование и обучение пользователей;</li> <li>Подготовка инструкций;</li> <li>Произведение настроек на уровне системы (справочники, регламенты, раздача прав, создание ролей и т.д.)</li> <li>Работа по задачам и инцидентам в ticket-системе;</li> <li>Обеспечение доступности сервисов согласно SLA.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Высшее техническое образование;</li> <li> <p>Желательно знакомство с СЭД Directum RX;</p> </li> <li>Умение работать с информацией (искать, обрабатывать, передавать, анализировать, использовать в работе);</li> <li>Знание принципов ЭДО и ЭП.</li> <li>Опыт администрирования СЭД;</li> <li>Опыт работы с пользователями.</li> </ul> <p><strong>Будет плюсом: </strong></p> <ul> <li>Наличие сертификатов по системе Directum RX;</li> <li>Опыт работы в Service Desk (ITSM Инфра Менеджер);</li> <li>Опыт работы с технической документацией (чтение и написание);</li> <li>Опыт работы в техподдержке (желательно IT);</li> <li>Знание ОС семейства Linux и Windows на уровне пользователя и глубже</li> </ul> <p><strong>Личностные характеристики:</strong></p> <ul> <li>Коммуникабельность;</li> <li>Стрессустойчивость;</li> <li>Самостоятельность и ответственность;</li> <li>Внимательность;</li> <li>Умение работать в команде;</li> <li>Высокий уровень обучаемости и готовность самостоятельно изучать предметную область;</li> <li>Грамотность (письменная и устная);</li> <li>Организованность</li> </ul> <p><strong>Условия: </strong></p> <p> </p> <ul> <li>Официальное трудоустройство в соответствии с ТК РФ;</li> <li>График работы: 5 рабочих дней / 2 выходных;</li> <li>8-и часовой рабочий день;</li> <li>Оплачиваемый отпуск.</li> </ul> <ul> <li>Стабильная выплата заработной платы (два раза в месяц);</li> <li>Современный офис и удобное рабочее место в 5-ти минутах от метро «Площадь Тукая» ;</li> <li>13-я зарплата;</li> <li>Доплата за выслугу лет;</li> <li>Добровольное медицинское страхование (ДМС);</li> <li>Возмещение затрат по спорту;</li> </ul> <p><strong>Обучение и карьера:</strong></p> <ul> <li>Возможность обучения за счет средств Компании</li> <li>Сдача сертификационных экзаменов за счет средств Компании</li> <li>Возможность для профессионального и карьерного роста</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "10",
+      "name": "Аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1620234",
+    "name": "ТатАИСЭнерго",
+    "url": "https://api.hh.ru/employers/1620234",
+    "alternate_url": "https://hh.ru/employer/1620234",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/411195.png",
+      "90": "https://img.hhcdn.ru/employer-logo/2086854.png",
+      "240": "https://img.hhcdn.ru/employer-logo/2086855.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1620234",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-27T09:24:11+0300",
+  "created_at": "2025-05-27T09:24:11+0300",
+  "initial_created_at": "2025-05-27T09:24:11+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121012414",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121012414",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

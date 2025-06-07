@@ -1,0 +1,172 @@
+{
+  "id": "120648877",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер-программист",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 55000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 55000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Казань",
+    "street": "Московский район, улица Исаева",
+    "building": "5",
+    "lat": 55.835427,
+    "lng": 49.066205,
+    "description": null,
+    "raw": "Казань, Московский район, улица Исаева, 5",
+    "metro": {
+      "station_name": "Яшьлек (Юность)",
+      "line_name": "Центральная",
+      "station_id": "49.460",
+      "line_id": "49",
+      "lat": 55.827843,
+      "lng": 49.082905
+    },
+    "metro_stations": [
+      {
+        "station_name": "Яшьлек (Юность)",
+        "line_name": "Центральная",
+        "station_id": "49.460",
+        "line_id": "49",
+        "lat": 55.827843,
+        "lng": 49.082905
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <ol> <li>Монтаж/демонтаж, подключение и настройка локальной вычислительной сети.</li> <li>Администрирование серверов на базе Windows Server 2008 r2 (терминальный сервер, файловый сервер)</li> <li>Установка, настройка, поддержание в рабочем состоянии сетевого оборудования.</li> <li>Организация, настройка и сопровождение рабочих мест сотрудников.</li> <li>Поддержка компьютерного оборудования и оргтехники в исправном состоянии.</li> <li>Администрирование сайта учреждение, наполнение информацией.</li> <li>Сопровождение настройка систем видеонаблюдения, СКУД.</li> <li>Заполнение/сдача отчетов.</li> <li>Обеспечению безопасности информационных систем персональных данных в соответствии с требованиями Федерального закона № 152-ФЗ «О персональных данных».</li> <li>Инструктаж сотрудников по вопросам обработки, защиты и правилам работы со средствами защиты ПДн.</li> <li>Участие во внутренних проверка текущего состояния системы защиты ПДн.</li> <li>Организация обучения сотрудников по программам ЗПДн.</li> <li>Изготовление ключей электронной подписи, ключей проверки электронной подписи и квалифицированных сертификатов ключа проверки электронной подписи.</li> </ol> <p><strong>Требования:</strong></p> <ul> <li>Высшее образование по специальности &quot;Инженер-программист&quot;.</li> <li>Обязателен опыт работы.</li> <li>Знание операционных систем Windows, Linux.</li> <li>Навыки по прокладке и настройки ЛВС и сетевого оборудования.</li> <li>Опыт работы с ЭЦП.</li> <li>Опыт установки и настройкой ПО Vipnet.</li> <li>Желателен опыт работы с ГИС ЭЗ РТ.</li> <li>Знание офисных, графических программ.</li> <li>Коммуникабельность, умение и желание общаться с людьми.</li> <li>Ответственность</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>работа по графику 5/2,</li> <li>оформление по ТК РФ,</li> <li>полный социальный пакет,</li> <li>регулярно выплачиваемая белая зар.плата 2 раза в месяц</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Умение работать с большим количеством информации"
+    },
+    {
+      "name": "Настройка ПК"
+    },
+    {
+      "name": "Администрирование сетевого оборудования"
+    },
+    {
+      "name": "Работа с базами данных"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1712978",
+    "name": "ГАУЗ Госпиталь для ветеранов войн г.Казани",
+    "url": "https://api.hh.ru/employers/1712978",
+    "alternate_url": "https://hh.ru/employer/1712978",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1394240.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7196743.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7196744.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1712978",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-16T17:49:25+0300",
+  "created_at": "2025-05-16T17:49:25+0300",
+  "initial_created_at": "2025-05-16T17:49:25+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120648877",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120648877",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

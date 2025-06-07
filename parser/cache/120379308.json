@@ -1,0 +1,133 @@
+{
+  "id": "120379308",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер по тестированию (автотесты)",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 220000,
+    "to": 230000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 220000,
+    "to": 230000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Cyberbird</strong> – это группа высокотехнологичных финансовых компаний, специализирующихся на разработке и сопровождении цифровых продуктов альтернативного онлайн-кредитования с 2016 года.</p> <p>Проекты нашей финтех-группы ежегодно отмечаются значимыми премиями рынка (Bankiros Awards 2021, ВЗО 2023) и входят<strong> в ТОП-15 компаний России </strong>по портфелю и объему выданных займов по версии «Эксперт РA» за 1 п-е 2022 г.</p> <p><br />Компания непрерывно развивается и запускает продукты на международные рынки, поэтому у нас есть много возможностей для карьерного роста.</p> <p>Мы предлагаем своим сотрудникам достойные условия труда, и возможности для профессионального развития. Сейчас мы в поиске активного и нацеленного на результат тестировщика.</p> <p><br /><br /><strong>Требования к знаниям, умениям и навыкам: </strong></p> <ul> <li>Знание жизненного цикла программного обеспечения и теории тестирования;</li> <li>Уверенные знания Python, Pytest, Requests, Selenium, Postman, Swagger;</li> <li>Понимание основ тестирования и владение техниками тест-дизайна;</li> <li>Умение структурировано и доступно выражать свои мысли;</li> <li>Понимание базовых принципов работы HTTP, REST API и WebSocket; </li> <li>Навыки работы с Allure, TestRail или другими инструментами отчетности по тестам;</li> </ul> <p> <strong>Требования к опыту работы:</strong></p> <ul> <li>Опыт написания авто-тестов для API и UI;</li> <li>Опыт анализа функциональных и нефункциональных требований;</li> <li>Опыт работы с регрессионным тестированием и подготовкой релизов;</li> <li>Опыт автоматизации тестирования проектов, построенных на микросервисной архитектуре;</li> <li>Проверка продукта на соответствие спецификации;</li> <li>Опыт работы с системами контроля версий Git (GitHub, GitLab, Bitbucket);</li> <li>Опыт работы с CI/CD (GitLab CI, Jenkins, TeamCity);</li> <li>Опыт работы с базами данных на уровне написания SQL-запросов;</li> <li>Опыт тестирования логирования и мониторинга (ELK, Grafana, Prometheus);</li> <li>Опыт работы с Docker и контейнеризацией тестовой среды;</li> <li>Опыт тестирования распределенных систем и взаимодействия сервисов;<br /><br /><strong>Условия:</strong></li> <li> <p>Официальное оформление по ТК РФ в аккредитованную ИТ-компанию;</p> </li> <li> <p><strong>Удаленный формат работы;</strong></p> </li> <li> <p>График работы: 5/2 с 9:00 до 18:00;</p> </li> <li>Работа в современной и стабильной компании.<br /><br /><strong>Присоединяйся к команде лучших!</strong></li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10246537",
+    "name": "Кибертех",
+    "url": "https://api.hh.ru/employers/10246537",
+    "alternate_url": "https://hh.ru/employer/10246537",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1230500.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6542441.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6542442.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10246537",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-12T09:24:38+0300",
+  "created_at": "2025-05-12T09:24:38+0300",
+  "initial_created_at": "2025-05-12T09:24:38+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120379308",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120379308",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

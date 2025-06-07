@@ -1,0 +1,154 @@
+{
+  "id": "121075409",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист (Отдел исследований)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 150000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 150000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "дорога в Каменку",
+    "building": "60",
+    "lat": 60.056162,
+    "lng": 30.239601,
+    "description": null,
+    "raw": "Санкт-Петербург, дорога в Каменку, 60",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Государственная компания<strong> ПАО «Россети» (www.rosseti.ru)</strong>, крупнейший в мире электросетевой холдинг, обеспечивающий электроснабжением потребителей в 78 регионах России, на базе ресурсов дочерней компании АО «Россети Управление имуществом» построил в Санкт-Петербурге Центр кибербезопасности с инфраструктурой киберполигона, призванной помочь участникам рынка энергетики противостоять компьютерным угрозам.</p> <p>Приглашаем в команду- <strong>Специалист (Отдел исследований).</strong></p> <p> </p> <p><strong>Обязанности:</strong></p> <ul> <li>Выполнение работ по тестированию программного обеспечения методами статистического анализа (SAST);</li> <li>Подготовка отчетов с результатами анализа;</li> <li>Взаимодействие с командой DevOps, PenTest и с другими структурными подразделениям.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Высшее техническое образование по направлению «Информационная безопасность», «Информационные технологии», «Прикладная математика и информатика», «Информатика и вычислительная техника» и т.п.;</li> <li>Рассмотрим кандидатов с минимальным опытом или без опыта работы (в том числе выпускников профильных ВУЗов);</li> <li><strong>Уверенное знание языка С\\С++;</strong></li> <li>Знание основ языка Python (версия 3);</li> <li>Знание основ программной инженерии;</li> <li>Знание основ дискретной математики;</li> <li>Навыки работы с ОС Linux, умение работать с интерфейсом командной строки.</li> <li>Английский язык на уровне чтения технической документации.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Работа в структуре крупной государственной компании, карьерный рост;</li> <li>Официальное трудоустройство в соответствии с ТК РФ;</li> <li>Конкурентная заработная плата;</li> <li>Премирование по итогам года;</li> <li>Единовременная выплата к отпуску;</li> <li>График работы 5/2;</li> <li>Формат работы – офисный, гибридный (после испытательного срока);</li> <li>Комфортный офис (спортзал, комната отдыха и игровая зона в здании);</li> <li>Обеды в офисе за счет Компании;</li> <li>Медицинское страхование (ДМС) (после испытательного срока);</li> <li>Возможно обучение за счёт Компании;</li> <li>Место работы: г. Санкт-Петербург, ОЭЗ Новоорловская (ближайшие станции метро: Озерки, Проспект Просвещения, Комендантский проспект).</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "C/C++"
+    },
+    {
+      "name": "Python"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "538244",
+    "name": "Россети Управление Имуществом",
+    "url": "https://api.hh.ru/employers/538244",
+    "alternate_url": "https://hh.ru/employer/538244",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1185814.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6363678.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6363679.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=538244",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-28T11:44:10+0300",
+  "created_at": "2025-05-28T11:44:10+0300",
+  "initial_created_at": "2025-05-28T11:44:10+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121075409",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121075409",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,146 @@
+{
+  "id": "120585628",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Flutter-разработчик / кроссплатформенный разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 100000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>О проекте:</strong><br />Мы создали корпоративный ИТ ресурс для пользователей рынка FMCG!</p> <p>Новая Технология: мы работаем с крупнейшими торговыми сетями: Окей, Магнит, Перекресток, Пятерочка, Дикси.</p> <p>С нашим сервисом поставщики могут увеличить доступность товаров на полках магазинов и значительно повысить свои продажи, а также сократить убытки из-за списаний продуктов с истекшим сроком годности.</p> <p><strong>Мы ищем опытного</strong> Flutter-разработчика для создания и улучшения мобильного приложения Proviante, которое помогает фудсейверам эффективно проверять товары (от 100 до 900 ед. в смену). Ваша задача — разработка новых функций, обеспечение стабильности приложения (сбои ≤ 0.5%) и интеграция с backend-системами.</p> <p><strong>Ключевые обязанности:</strong></p> <ul> <li> <p>Разработка новых функций на <strong>Dart/Flutter</strong> (кроссплатформенно для iOS и Android).</p> </li> <li> <p>Оценка сроков задач, тестирование кода перед слиянием с основной веткой.</p> </li> <li> <p>Оптимизация производительности приложения и минимизация ошибок передачи данных.</p> </li> <li> <p>Взаимодействие с <strong>руководителем проекта</strong> и <strong>продукт-оунером</strong> на всех этапах разработки.</p> </li> <li> <p>Поддержка кодовой базы, работа с чужим кодом, выбор библиотек.</p> </li> </ul> <p><strong>Требования к кандидату:</strong></p> <ul> <li> <p>Опыт коммерческой разработки на <strong>Flutter ≥ 3 лет</strong> (портфолио или примеры проектов).</p> </li> <li> <p>Глубокое знание <strong>Dart</strong>, понимание шаблонов проектирования (BLoC, Provider и др.).</p> </li> <li> <p>Умение работать с <strong>чужим кодом</strong>, навыки отладки и оптимизации.</p> </li> <li> <p>Опыт с инструментами: <strong>Git</strong>, CI/CD, Google Sheets, трекеры задач (ЯндексТрекер).</p> </li> <li> <p>Ответственность, пунктуальность, соблюдение дедлайнов.</p> </li> <li> <p>Готовность к постоянному обучению и работе в команде.</p> </li> </ul> <p><strong>Условия работы:</strong></p> <ul> <li> <p><strong>График</strong> 5/2 с 9:00 до 18:00</p> </li> <li> <p><strong>Полностью удалённая работа</strong></p> </li> <li> <p>Проектная работа с современным стеком технологий.</p> </li> <li> <p>Возможность влиять на продукт, используемый тысячами пользователей.<br /><br /><strong>Становитесь частью инновационной команды, которая меняет рынок ритейла и делает мир лучше!</strong></p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Dart"
+    },
+    {
+      "name": "GitHub"
+    },
+    {
+      "name": "Оптимизация"
+    },
+    {
+      "name": "Flutter"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10141878",
+    "name": "В Теме",
+    "url": "https://api.hh.ru/employers/10141878",
+    "alternate_url": "https://hh.ru/employer/10141878",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1368412.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7093550.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7093551.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10141878",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-15T13:11:25+0300",
+  "created_at": "2025-05-15T13:11:25+0300",
+  "initial_created_at": "2025-05-15T13:11:25+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120585628",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120585628",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

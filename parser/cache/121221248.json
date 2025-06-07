@@ -1,0 +1,149 @@
+{
+  "id": "121221248",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Frontend-разработчик (Лукоморье)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": null,
+    "lng": null,
+    "description": null,
+    "raw": null,
+    "metro": {
+      "station_name": "Проспект Вернадского",
+      "line_name": "Сокольническая",
+      "station_id": "1.118",
+      "line_id": "1",
+      "lat": 55.676549,
+      "lng": 37.504584
+    },
+    "metro_stations": [
+      {
+        "station_name": "Проспект Вернадского",
+        "line_name": "Сокольническая",
+        "station_id": "1.118",
+        "line_id": "1",
+        "lat": 55.676549,
+        "lng": 37.504584
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<h2>Мы – РТК ИТ, компания, оказывающая полный комплекс услуг по разработке и внедрению программных решений.</h2> <p><br />Каждый день на наших проектах задействовано <strong>3600+ сотрудников</strong>, у нас<strong> 70+ направлений разработки</strong> различных решений. <strong>За 9 лет</strong> нашей работы мы успешно реализовали <strong>более 60 ИТ-продуктов.</strong></p> <h2>О проекте:</h2> <p><br /><strong>Мы разрабатываем платформу под кодовым названием «Лукоморье» для полного цикла разработки программных продуктов российскими IT-специалистами в рамках импортозамещения иностранных решений.</strong></p> <p>Группа продуктов Лукоморье призвана полностью заменить стек иностранных продуктов Atlassian (Trello, Jira, Confluence).<br /><br />Мы делаем <strong>самые удобные и красивые</strong> системы, которые являются полностью кастомизируемым инструментом для управления задачами.<br /><br /><strong>Яга</strong> - это система, которая предназначена для управления проектами – от генерации идей до управления установкой релизов.</p> <p><strong>Ёжка </strong>– это упрощённая версия Яги. Прекрасно подходит для управления проектами небольших команд или индивидуальных задач.</p> <p><br /><strong>Яга.Статьи</strong> - система управления знаниями, закрывающая нишу Confluence.<br /><br />Проект находится на стадии разработки.<br /><br />Сейчас мы усиливаем нашу команду frontend-разработки и, если ты ориентирован на работу в современном стеке и классной команде - смело откликайся!</p> <h2>Чем предстоит заниматься?</h2> <p> </p> <ul> <li><span>Разр</span><span>аботка и поддержка продукта компании;</span></li> <li>Проведение код-ревью;</li> <li>Оценка трудоемкости задач;</li> <li>Взаимодействие с другими командами: backend-разработчиками; тестировщиками, аналитиками;</li> <li>Разработка экранов по макетам Figma, взаимодействие с дизайнерами;</li> </ul> <p> </p> <h2>Что нам требуется?</h2> <p> </p> <ul> <li>Отличное знание JavaScript, HTML, CSS;</li> <li>Опыт работы с любым CSS препроцессором: SASS, LESS, Stylus;</li> <li>Уверенное знание TypeScript;</li> <li>Хорошее знание библиотеки React и опыт ее использования в коммерческих проектах не менее 3 лет;</li> <li>Опыт работы от 2 лет с MobX или effector или Signals;</li> <li>Опыт написания Unit-тестов;</li> <li>Опыт работы с Node.js на уровне написания скриптов для работы с файловой системой;</li> <li>Понимание современного стека web-разработки, REST API;</li> <li>Знания методологии FSD будет плюсом;</li> </ul> <h2>Что мы предлагаем?</h2> <p> </p> <ul> <li>Гибридный формат работы в комфортном офисе г. Москвы, проспект Вернадского, 41 (БЦ Академик) либо <strong>удаленно</strong>;</li> <li>Чай, кофе, фрукты в офисе в неограниченном количестве :)</li> <li>Возможность принимать участие в конференциях, проходить обучение за счет компании;</li> <li>Полностью &quot;белая&quot; заработная плата: оклад + квартальная премия;</li> <li>Кафетерий льгот;</li> <li>График работы гибкий: начало работы с 08:00 до 10:00 МСК, окончание - с 17:00 до 19:00 МСК, Сб-Вс – выходные.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "TypeScript"
+    },
+    {
+      "name": "React"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3144945",
+    "name": "Ростелеком Информационные Технологии",
+    "url": "https://api.hh.ru/employers/3144945",
+    "alternate_url": "https://hh.ru/employer/3144945",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/607382.png",
+      "90": "https://img.hhcdn.ru/employer-logo/2870680.png",
+      "240": "https://img.hhcdn.ru/employer-logo/2870681.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3144945",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T13:07:11+0300",
+  "created_at": "2025-06-02T13:07:11+0300",
+  "initial_created_at": "2025-06-02T13:07:11+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121221248",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121221248",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

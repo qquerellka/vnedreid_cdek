@@ -1,0 +1,149 @@
+{
+  "id": "116769191",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Backend-разработчик (PHP, Symfony)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Elfsight </strong>‒ мировой лидер в сфере разработки встраиваемых решений для веб-сайтов.</p> <p>Нам доверяют более<strong> 2 000 000</strong> клиентов по всему миру, большинство из которых находятся в США и странах Европы. Наши приложения нашли свое применение и пользуются популярностью среди компаний различного масштаба - от небольших интернет-магазинов и локальных маркетинговых агентств до мировых брендов таких как NBA, Canon, Fujifilm, Disney, Veet.</p> <p>Партнерами компании являются крупнейшие на рынке конструкторы сайтов и интернет-магазинов ‒ Shopify, Wix, Weebly, BigCommerce и Webflow.</p> <p>Мы ищем опытного, целеустремленного и ответственного разработчика для работы над созданием и развитием различных API, интеграций со сторонними сервисами и поставщиками данных.</p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Проектировать, разрабатывать и поддерживать API данных для виджетов.</li> <li>Реализовывать новые и развивать имеющиеся интеграции с популярными сервисами и поставщиками данных.</li> </ul> <p><strong>Что требуется:</strong></p> <ul> <li>Опыт проектирования и разработки API.</li> <li>Отличное знание PHP.</li> <li>Практический опыт разработки сервисов с использованием Symfony.</li> <li>Хорошее знание SQL, опыт проектирования баз данных и оптимизации запросов.</li> <li>Опыт работы с Redis.</li> <li>Опыт работы с RabbitMQ или другими брокерами сообщений.</li> <li>Навыки применения ChatGPT или других LLM для решения рабочих задач.</li> </ul> <p><strong>Что мы используем:</strong></p> <p>PHP 8+, Symfony 5+, Doctrine; MariaDB, Redis; RabbitMQ; GitLab, k8s; Cloudflare, GCP.</p> <p><strong>Условия:</strong></p> <ul> <li>Оформление по ТК РФ или ТК РА (Армения) - на выбор.</li> <li>Достойное вознаграждение и регулярный пересмотр заработной платы</li> <li>Доплата до 100% размера зарплаты в случае болезни.</li> <li>Обширные возможности для развития профессиональных навыков.</li> <li>Участие в регулярных корпоративных мероприятиях.</li> </ul> <p><strong>ООО &quot;Эльфсайт&quot; является аккредитованной IT-компанией, специализирующейся на разработке и внедрении современных информационных технологий.</strong></p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": {
+    "id": 30700,
+    "name": "Брендированный шаблон 2",
+    "top_picture": {
+      "height": 699,
+      "width": 1920,
+      "path": "https://img.hhcdn.ru/branding-pictures/1470576.jpeg",
+      "blurred_path": null
+    },
+    "bottom_picture": {
+      "height": 1056,
+      "width": 2310,
+      "path": "https://img.hhcdn.ru/branding-pictures/2246316.jpeg",
+      "blurred_path": null
+    }
+  },
+  "key_skills": [
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "Symfony"
+    },
+    {
+      "name": "Redis"
+    },
+    {
+      "name": "RabbitMQ"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "ChatGPT"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1844772",
+    "name": "Elfsight Inc.",
+    "url": "https://api.hh.ru/employers/1844772",
+    "alternate_url": "https://hh.ru/employer/1844772",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/340629.png",
+      "90": "https://img.hhcdn.ru/employer-logo/1804782.png",
+      "240": "https://img.hhcdn.ru/employer-logo/1804783.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1844772",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-29T12:28:23+0300",
+  "created_at": "2025-05-29T12:28:23+0300",
+  "initial_created_at": "2025-02-04T17:40:48+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=116769191",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/116769191",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

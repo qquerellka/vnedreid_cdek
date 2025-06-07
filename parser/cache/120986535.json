@@ -1,0 +1,187 @@
+{
+  "id": "120986535",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 80000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 80000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Казань",
+    "street": "улица Рашида Вагапова",
+    "building": null,
+    "lat": 55.783787,
+    "lng": 49.233067,
+    "description": null,
+    "raw": "Казань, улица Рашида Вагапова",
+    "metro": {
+      "station_name": "Аметьево",
+      "line_name": "Центральная",
+      "station_id": "49.275",
+      "line_id": "49",
+      "lat": 55.765346,
+      "lng": 49.165083
+    },
+    "metro_stations": [
+      {
+        "station_name": "Аметьево",
+        "line_name": "Центральная",
+        "station_id": "49.275",
+        "line_id": "49",
+        "lat": 55.765346,
+        "lng": 49.165083
+      },
+      {
+        "station_name": "Горки",
+        "line_name": "Центральная",
+        "station_id": "49.276",
+        "line_id": "49",
+        "lat": 55.760763,
+        "lng": 49.189679
+      },
+      {
+        "station_name": "Дубравная",
+        "line_name": "Центральная",
+        "station_id": "49.640",
+        "line_id": "49",
+        "lat": 55.7425,
+        "lng": 49.2197
+      },
+      {
+        "station_name": "Проспект Победы",
+        "line_name": "Центральная",
+        "station_id": "49.277",
+        "line_id": "49",
+        "lat": 55.750109,
+        "lng": 49.207735
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Системный аналитик</strong></p> <p>Мы ищем системного аналитика, который поможет нам в постановке задач и разработке функциональных требований и документации для проектов, реализуемых в сфере образования и медицины.</p> <p><strong>Обязанности:</strong></p> <ul> <li>Сбор и описание функциональных требований.</li> <li>Написание постановок для разработчиков в Яндекс Трекер.</li> <li>Использование UML и BPMN аннотаций для моделирования процессов.</li> <li>Разработка проектной документации</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Опыт работы от 1 года в области системного анализа, если уверены в своих силах, можно и без опыта.</li> <li>Знание UML и BPMN аннотаций.</li> <li>Опыт работы с Яндекс Трекер.</li> <li>Умение собирать и описывать функциональные требования.</li> <li>Навыки написания постановок для разработчиков.</li> <li>Понимание и знание современных IT технологий</li> <li>Понимание процесса моделирования система, формирования документации(RD, FSD/SRS, руководства пользователя, инструкции, регламенты, база знаний и т.д.)</li> <li>Знать модели, методологии и подходы к управлению разработкой ПО </li> <li>Умение выделять, декомпозировать и приоритизировать задачи, управлять сроками</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Полная занятость с графиком 5/2.</li> <li>Возможность работать как на месте работодателя, так и удалённо.</li> <li>Рабочий день 8 часов.</li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "148",
+      "name": "Системный аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9717315",
+    "name": "DzetaLabs",
+    "url": "https://api.hh.ru/employers/9717315",
+    "alternate_url": "https://hh.ru/employer/9717315",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1425543.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7321821.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7321822.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9717315",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-26T15:20:05+0300",
+  "created_at": "2025-05-26T15:20:05+0300",
+  "initial_created_at": "2025-05-26T15:20:05+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120986535",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120986535",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

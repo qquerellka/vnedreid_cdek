@@ -1,0 +1,152 @@
+{
+  "id": "120997917",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 100000,
+    "to": 130000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": 130000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы i2crm.ru - SaaS-сервис в сегменте B2B, интегрирующий соцсети и мессенджеры с CRM-системами с 2016 года. Наш проект — это сложная экосистема из трёх продуктов (и их может стать больше), где большие объемы операций должны работать безупречно.</p> <p>Наши продукты помогают предпринимателям масштабироваться, быть ближе к клиентам и больше зарабатывать. Нас уже больше 40 человек — все мы живем в разных городах и даже странах, но при этом умеем слаженно работать и тепло общаться.</p> <p><strong>Обязанности:</strong></p> <ul> <li> <p>Проведение исследований и оцифровка бизнес-процессов компании (внутренний заказчик) с целью улучшения и повышения эффективности работы компании;</p> </li> <li> <p>Сбор , анализ и формулировка требований, подготовка , написание подробных технических заданий и технической документации;</p> </li> <li> <p>Проектирование прототипов при необходимости;</p> </li> <li> <p>Диагностика ошибок и задач;</p> </li> <li> <p>Взаимодействие с командой разработки;</p> </li> <li> <p>Составление BPMN диаграмм бизнес-процессов.</p> </li> </ul> <p><strong>Ты нам подходишь, если у тебя есть:</strong></p> <ul> <li> <p>Опыт работы системным аналитиком в IT от 1 года;</p> </li> <li> <p>Образный склад ума, умение работать с большим объемом информации;</p> </li> <li> <p>Опыт анализа существующих решений и отраслевых стандартов;</p> </li> <li> <p>Навыки работы с API;</p> </li> <li> <p>Умение быстро разбираться в новых системах и процессах;</p> </li> <li> <p>Умение самостоятельно доводить до конца поставленные задачи;</p> </li> <li> <p>Умение читать код на PHP , GO, знание SQL (уровень INNER JOIN);</p> </li> <li> <p>Понимание принципов ООП, написание технической документации;</p> </li> <li> <p>Опыт составления и постановки ТЗ разработчикам.</p> </li> </ul> <p><strong>Тебе у нас понравится, потому что:</strong></p> <ul> <li>У нас 100% удаленка. 5/2, гибкое начало рабочего дня;</li> <li>Оплачиваемый отпуск 28 дней и больничные + 3 отгула, выходные по российскому календарю, московский часовой пояс;</li> <li>Уровень заработной платы определяется по итогам собеседования;</li> <li>Корпоративная программа лояльности BestBenefits от 700 + партнеров;</li> <li>Внутренняя библиотека для сотрудников;</li> <li>Удобный способ взаимодействия внутри команды и отсутствие бюрократии;</li> <li>Дружный коллектив и ощущение сплоченности, несмотря на удаленную работу.</li> </ul> <p><strong>Ответственно подходим к найму, поэтому у нас будет несколько этапов:</strong></p> <ul> <li>Телефонной интервью;</li> <li>Интервью в Zoom;</li> <li>Небольшое тестовое задание;</li> <li>Оффер :)</li> </ul> <p><br />Будем рады твоему отклику!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Аналитическое мышление"
+    },
+    {
+      "name": "Автоматизация процессов"
+    },
+    {
+      "name": "Аналитика"
+    },
+    {
+      "name": "Визуализация данных"
+    },
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "API"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "10",
+      "name": "Аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2808032",
+    "name": "i2crm",
+    "url": "https://api.hh.ru/employers/2808032",
+    "alternate_url": "https://hh.ru/employer/2808032",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/874555.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3939095.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3939096.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2808032",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-26T19:15:53+0300",
+  "created_at": "2025-05-26T19:15:53+0300",
+  "initial_created_at": "2025-05-26T19:15:53+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120997917",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120997917",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

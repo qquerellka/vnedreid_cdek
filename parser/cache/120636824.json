@@ -1,0 +1,149 @@
+{
+  "id": "120636824",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Frontend-разработчик на React / Vue",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 130000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 130000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "project",
+    "name": "Проектная работа"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Компания &quot;Цифровая жизнь&quot; приглашает на работу фронтенд-разработчика на React. Мы занимаемся разработкой и поддержкой самых разнообразных интернет-проектов. От простых одностраничных сайтов до интернет-магазинов с интеграцией 1С и CRM и сложных многоуровневых проектов, мобильных приложений.</p> <p><strong>Обязанности:</strong></p> <p>Работа над фронтендом крупного проекта с частично реализованным функционалом. Фронтенд реализован на React + Next, Vue + Nuxt. Уровень: middle +.</p> <p>Необходимо дорабатывать функционал текущих страниц и разрабатывать новый. Все данные получаются по RestAPI. Так как бэкенд пишется параллельно, какие-то вещи необходимо будет мокать с Mirage, в последующим заменяя на реальные end-point. При разработке пригодится умение использовать Gitlab, Docker.</p> <p><strong>Требования:</strong></p> <ul> <li>React + Next</li> <li>Vue + Nuxt</li> <li>Mirage</li> <li>Git</li> <li>Docker</li> <li>HTML+CSS</li> </ul> <strong>Условия:</strong> <p>Проектная работа на полную занятость минимум 3 месяца с возможность последующего продления, NDA. Возможна удаленная работа с нахождением в офисе 1-2 дня в неделю. Зарплата обсуждается, окончательная З/П по резульататм собеседования.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "React"
+    },
+    {
+      "name": "VueJS"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1224602",
+    "name": "Цифровая жизнь",
+    "url": "https://api.hh.ru/employers/1224602",
+    "alternate_url": "https://hh.ru/employer/1224602",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/885450.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3982499.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3982500.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1224602",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-16T14:23:21+0300",
+  "created_at": "2025-05-16T14:23:21+0300",
+  "initial_created_at": "2025-05-16T14:23:21+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120636824",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120636824",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "PROJECT",
+    "name": "Проект или разовое задание"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    },
+    {
+      "id": "FLEXIBLE",
+      "name": "Свободный"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    },
+    {
+      "id": "FLEXIBLE",
+      "name": "По договорённости"
+    }
+  ],
+  "show_logo_in_search": null
+}

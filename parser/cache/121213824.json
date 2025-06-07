@@ -1,0 +1,157 @@
+{
+  "id": "121213824",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Руководитель отдела IT-инфраструктуры",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 150000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 150000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>«Белая Техника» — </strong>один из лидеров рынка в сегменте бытовой техники и сервисного обслуживания.<br />90+ человек, активный рост по всей стране, выручка растёт на десятки % в год.<br />Мы строим структуру, <strong>где IT — не бэкофис</strong>, а платформа масштабирования бизнеса.</p> <p><strong>Что предстоит делать:</strong></p> <ul> <li>Провести аудит IT-инфраструктуры (1С, Bitrix24, CRM, сайт, Roistat и др.)</li> <li>Управлять подрядчиками и техническими командами (1С, Dev, Системное администрирование)</li> <li>Взаимодействовать с руководителями: сбор, приоритизация и реализация задач</li> <li>Оптимизировать процессы через цифровые инструменты</li> <li>Формировать отчётность и презентовать результаты собственнику</li> </ul> <p><strong>Мы ждём от вас:</strong></p> <ul> <li>Опыт работы в IT-инфраструктуре на руководящих позициях (от 3 лет)</li> <li>Опыт работы с 1С</li> <li>Навыки управления подрядчиками и проектами</li> <li>Понимание интеграций и бизнес-архитектуры</li> <li>Умение не ломать, а усиливать действующие процессы</li> <li>Способность работать автономно, держать фокус и приоритеты</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Удалённый формат работы</li> <li>Участие в стратегических сессиях, прямой контакт с собственниками Компании</li> <li>Заработная плата: от 130 000 ₽ (обсуждаем индивидуально)</li> <li>Выплаты дважды в месяц, без задержек</li> <li>Доступ к ключевым системам, возможность влиять на подрядчиков</li> </ul> <p><strong>Если вы хотите быть не просто IT-руководителем, а цифровым архитектором растущего бизнеса — давайте знакомиться.<br />Мы ищем сильного игрока, которому доверим важнейшую часть компании.</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "1С"
+    },
+    {
+      "name": "ИТ-инфраструктура"
+    },
+    {
+      "name": "Организация управления данными"
+    },
+    {
+      "name": "Внешний аудит информационных систем"
+    },
+    {
+      "name": "Автоматизация процессов"
+    },
+    {
+      "name": "Управление бизнес процессами"
+    },
+    {
+      "name": "Ответственность"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "36",
+      "name": "Директор по информационным технологиям (CIO)"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5017646",
+    "name": "Белая техника",
+    "url": "https://api.hh.ru/employers/5017646",
+    "alternate_url": "https://hh.ru/employer/5017646",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/790597.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/3603279.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3603280.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5017646",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T11:25:16+0300",
+  "created_at": "2025-06-05T11:25:16+0300",
+  "initial_created_at": "2025-06-02T11:25:16+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121213824",
+  "has_test": true,
+  "test": {
+    "required": true
+  },
+  "alternate_url": "https://hh.ru/vacancy/121213824",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_9",
+      "name": "9 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

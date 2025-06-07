@@ -1,0 +1,135 @@
+{
+  "id": "121415334",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист по мобильному сопровождению ИТ-решений",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": {
+    "id": "gpn-39305-it",
+    "name": "ПАО «Газпром нефть» ИТ"
+  },
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы – команда «<strong>Газпромнефть – Цифровые решения</strong>», часть ИТ-функции «Газпром нефти». Команда, которая научила нейросети находить нефть, запустила первую в мире цифровую систему управления арктической логистикой и первой в мире заправила самолет по блокчейн. Мы переводим в «цифру» каждый этап работы современного нефтяника: от геологической разведки и бурения скважин до процесса переработки нефти и момента, когда она в виде топлива попадает в баки автомобиля, самолета или, например, становится битумом для строительства дорог. Активы «Газпром нефти» – это сотни петабайт данных, которые генерируют объекты компании в России и за рубежом. Нас вдохновляет идея развития цифрового будущего нефтегазовой отрасли и промышленности в целом.</p> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Работу в аккредитованной IT компании;</li> <li>Компенсация ГСМ и амортизации автомобиля;</li> <li>Качественную программу ДМС со стоматологией с первого месяца работы;</li> <li>Компенсация 50% стоимости абонемента в фитнес залы и спортивные клубы;</li> <li>Компенсация переработок;</li> <li>Корпоративная связь.</li> </ul> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Сервисное обслуживание ИТ инфраструктуры объектов заказчика, АЗС.</li> <li>Участие в проектах и тиражных активностях на АЗС в части СКС и установки\\монтажа\\модернизации ИТ-оборудования (без настройки).</li> <li>Поддержка АРМ, офисной орг. техники, IP телефонии, аппаратная замена частей системы управления АЗС.</li> <li>Взаимодействие с пользователями.</li> </ul> <p><strong>От Вас ожидаем:</strong></p> <ul> <li>Высшее или среднее профессиональное образование по ИТ профилю.</li> <li><strong>Готовность к <em>разъезд</em>ному характеру работы.</strong></li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Автоматизированное рабочее место (АРМ)"
+    },
+    {
+      "name": "Добровольное медицинское страхование"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": "60647",
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "39305",
+    "name": "Газпром нефть",
+    "url": "https://api.hh.ru/employers/39305",
+    "alternate_url": "https://hh.ru/employer/39305",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1123842.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6115957.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6115958.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=39305",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T11:49:11+0300",
+  "created_at": "2025-06-06T11:49:11+0300",
+  "initial_created_at": "2025-06-06T11:49:11+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121415334",
+  "has_test": true,
+  "test": {
+    "required": true
+  },
+  "alternate_url": "https://hh.ru/vacancy/121415334",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": true,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "FIELD_WORK",
+      "name": "Разъездной"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    },
+    {
+      "id": "OTHER",
+      "name": "Другое"
+    }
+  ],
+  "show_logo_in_search": null
+}

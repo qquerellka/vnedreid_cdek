@@ -1,0 +1,178 @@
+{
+  "id": "121158191",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер-программист (Python-developer)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 90000,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 90000,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Корабельная",
+    "building": "6",
+    "lat": 59.87878,
+    "lng": 30.238882,
+    "description": null,
+    "raw": "Санкт-Петербург, Корабельная, 6",
+    "metro": {
+      "station_name": "Кировский завод",
+      "line_name": "Кировско-Выборгская",
+      "station_id": "14.205",
+      "line_id": "14",
+      "lat": 59.879688,
+      "lng": 30.261921
+    },
+    "metro_stations": [
+      {
+        "station_name": "Кировский завод",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.205",
+        "line_id": "14",
+        "lat": 59.879688,
+        "lng": 30.261921
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong><em>ПАО Судостроительный завод &quot;Северная верфь&quot; приглашает на работу активных и ответственных сотрудников!</em></strong> <em><strong>Судостроительный завод &quot;Северная верфь&quot; входит в Объединенную судостроительную корпорацию. Завод выполняет государственные заказы на строительство военных кораблей для ВМФ России, а также экспортные заказы по линии военно-технического сотрудничества, строит современный флот для работы в море, на шельфе и на внутренних водных путях.</strong></em><br /><strong><em><em>Верфь является одним из ведущих предприятий оборонной промышленности России. За столетнюю историю на верфи построено около 600 надводных кораблей и коммерческих судов для ВМФ и гражданских флотов, в том числе ракетные крейсера, корабли противовоздушной обороны, большие противолодочные корабли и эскадренные миноносцы, пассажирские и сухогрузные суда, контейнеровозы, суда типа ро-ро, балкеры, буксиры, суда снабжения, паромы и плавучие доки.</em></em></strong></p> <p> </p> <p><strong>НЕТ удаленного формата работы</strong></p> <p> </p> <p><em><strong>Обязанности:</strong></em></p> <ul> <li> <p>Обеспечивать поддержку и доработку (переработку) корпоративного портала и web-сервисов;</p> </li> <li> <p>Реализация интеграционных механизмов;</p> </li> <li> <p>Участие в проектах автоматизации бизнес-процессов предприятия совместно с другими разработчиками;</p> </li> <li> <p>Обеспечивать документирование разработанного программного обеспечения;</p> </li> <li> <p>Взаимодействие с пользователями по отдельным вопросам (иногда включается в обязанности).</p> </li> </ul> <p><em><strong>Требования:</strong></em></p> <ul> <li> <p>Профильное ИТ-образование;</p> </li> <li> <p>Уверенное знание языка и библиотек Python;</p> </li> <li> <p>Знание SQL, опыт работы с реляционными базами данных (PostgreSQL, MySQL, Oracle);</p> </li> <li> <p>Работа с ТЗ на разработку или доработку ПО;</p> </li> <li> <p>Тестирование и адаптация реализованной функциональности.</p> </li> </ul> <em><strong>Условия:</strong></em> <ul> <li>ДМС;</li> <li>компенсация расходов на питание;</li> <li>график работы пн-чт с 8-00 до 17-00, пт до 16-00;</li> <li>оформление по ТК РФ, предусмотрены все социальные гарантии (ежегодный оплачиваемый отпуск, оплачиваемый больничный и т.д.);</li> <li>ежемесячные премии по результатам работы, возможность самостоятельно регулировать свой доход, уровень заработной платы обсуждается на собеседовании;</li> <li>предприятие оборонно-промышленного комплекса (гос.заказ);</li> <li>удобная транспортная доступность (парковка);</li> <li>молодежные и спортивные мероприятия, социальная поддержка сотрудников, обучение и развитие персонала, социальные льготы и компенсации;</li> <li>надежный работодатель и дружный коллектив.</li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Базы данных"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Docker-compose"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Git"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "61020",
+    "name": "Северная Верфь, судостроительный завод",
+    "url": "https://api.hh.ru/employers/61020",
+    "alternate_url": "https://hh.ru/employer/61020",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/218300.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/323398.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/396255.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=61020",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-30T10:34:32+0300",
+  "created_at": "2025-05-30T10:34:32+0300",
+  "initial_created_at": "2025-05-30T10:34:32+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121158191",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121158191",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

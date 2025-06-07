@@ -1,0 +1,115 @@
+{
+  "id": "121352006",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Senior Backend Developer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Компания разработчик приложений для бизнеса приглашает в свою команду Senior Backend разработчиков</strong></p> <p>Мы ждем, что вы</p> <ul> <li>Уверенно владеете одним из ЯП - Java, Python, Go или C++</li> <li>Разрабатывали коммерческие приложения не менее 5 лет</li> <li>Поддерживали программное обеспечение от написания до выкладки в продакшен</li> <li>Качественно тестируете свой код и свободно работаете с чужим</li> <li>Умеете мониторить работу готового ПО и оперативно реагировать на проблемы</li> <li>Занимались многопоточным программированием</li> <li>Разбираетесь в классических алгоритмах и структурах данных</li> <li>Обладаете широким техническим кругозором</li> </ul> <p>Будет плюсом, если вы</p> <ul> <li>Проектировали архитектуру и разрабатывали продуктовые фичи</li> <li>Занимались разработкой для Unix/Linux и сетевым программированием</li> <li>Понимаете основы TCP/IP и HTTP</li> <li>Понимаете принципы работы СУБД</li> </ul> <p>Условия работы:</p> <ul> <li>Аккредитованная IT- компания</li> <li>Официальное трудоустройство в соответствии с ТК <em>РФ</em></li> <li>Ваши финансовые ожидания конструктивно обсуждаются</li> <li>Динамичная команда, напряженная работа в комфортной и дружной среде</li> <li>Нацеленность на профессиональный рост приветствуется</li> <li>Проектный характер работы поможет найти для вас вариант максимальной самореализации.</li> <li> <p>Льготная ипотека</p> </li> <li> <p>Расширенный ДМС</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "72461",
+    "name": "Версус Сервис",
+    "url": "https://api.hh.ru/employers/72461",
+    "alternate_url": "https://hh.ru/employer/72461",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1386249.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7164783.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7164784.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=72461",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T17:16:14+0300",
+  "created_at": "2025-06-04T17:16:14+0300",
+  "initial_created_at": "2025-06-04T17:16:14+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121352006",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121352006",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

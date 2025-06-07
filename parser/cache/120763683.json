@@ -1,0 +1,125 @@
+{
+  "id": "120763683",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Мобильный разработчик (React Native)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "улица Романова",
+    "building": "39",
+    "lat": 55.035705,
+    "lng": 82.922136,
+    "description": null,
+    "raw": "Новосибирск, улица Романова, 39",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "flexible",
+    "name": "Гибкий график"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Мы крупная международная сеть семейных паназиатских ресторанов «TomYumBar»</strong><br /><strong><strong>Более 30 </strong></strong>ресторанов в<strong> 3</strong> странах мира;<br /><br /><strong>Свыше</strong> <strong>1 миллиона</strong> проданных порций нашего фирменного &quot;TomYum&quot;;<br />Неизменно высокое качество блюд<strong> уже более 7 лет;</strong><br />Стабильное развитие сети и благодарные постоянные гости - это все про нас!<br /><br /><strong>Чем предстоит заниматься:</strong></p> <ul> <li> <p>Разработка и улучшение мобильного приложения на React Native (да, на TypeScript!).</p> </li> <li> <p>Работа с GraphQL (Apollo) и REST (Axios) — бэкенд уже готов, но будет ещё круче.</p> </li> <li> <p>Оптимизация, фиксы, новые фичи — чтобы приложение летало.</p> </li> <li> <p>Сборка и публикация в App Store / Google Play (если уже делал — отлично, нет — научим).</p> </li> <li> <p>Взаимодействие с бэкенд-разработчиками (у них PHP + GraphQL).</p> </li> </ul> <p><strong>Что должно быть в твоём арсенале: </strong></p> <ul> <li> <p>Опыт с React Native (от 1 года) и TypeScript.</p> </li> <li> <p>Работал с Apollo Client и Redux (или аналогами).</p> </li> <li> <p>Понимаешь, как пушить приложения в сторизы.</p> </li> <li> <p>Умеешь делать адаптивный интерфейс, который не разваливается на разных устройствах.</p> </li> <li> <p>Знаешь, как работать в команде (Git, Code Review, Agile).</p> </li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li> <p>Опыт с нативными модулями (Swift/Kotlin).</p> </li> <li> <p>Встречался с Docker и CI/CD (билды, деплои).</p> </li> <li> <p>Знаешь, как устроен бэкенд (PHP, GraphQL), чтобы говорить с разработчиками на одном языке.</p> </li> </ul> <p><strong>Что предлагаем:</strong></p> <ul> <li> <p>Работу в быстрорастущей сети (да, мы международные!).</p> </li> <li> <p>Работу в <strong>офисе</strong> в центре Новосибирска (10 мин от пл. Ленина) (работа в офисе обязательна).</p> </li> <li> <p>Работа с 9:00 до 18:00 по <em><strong>Новосибирскому</strong></em> часовому поясу.</p> </li> <li> <p>Официальное трудоустройство и адекватные процессы.</p> </li> <li> <p>Команду, которая не грузит бюрократией, но грузит интересными задачами.</p> </li> <li> <p>Зарплату, которую обсудим после знакомства (покажи, на что способен!).</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3258435",
+    "name": "TomYumBar",
+    "url": "https://api.hh.ru/employers/3258435",
+    "alternate_url": "https://hh.ru/employer/3258435",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/568187.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/2714217.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/2714218.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3258435",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T14:57:50+0300",
+  "created_at": "2025-06-02T14:57:50+0300",
+  "initial_created_at": "2025-05-20T13:33:21+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120763683",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120763683",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "OTHER",
+      "name": "Другое"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "FLEXIBLE",
+      "name": "По договорённости"
+    }
+  ],
+  "show_logo_in_search": null
+}

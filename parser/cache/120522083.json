@@ -1,0 +1,166 @@
+{
+  "id": "120522083",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Бизнес-аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 150000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 150000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": null,
+    "lng": null,
+    "description": null,
+    "raw": null,
+    "metro": {
+      "station_name": "Бауманская",
+      "line_name": "Арбатско-Покровская",
+      "station_id": "3.17",
+      "line_id": "3",
+      "lat": 55.772405,
+      "lng": 37.67904
+    },
+    "metro_stations": [
+      {
+        "station_name": "Бауманская",
+        "line_name": "Арбатско-Покровская",
+        "station_id": "3.17",
+        "line_id": "3",
+        "lat": 55.772405,
+        "lng": 37.67904
+      }
+    ]
+  },
+  "allow_messages": false,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>ООО «ГОРТ» выполняет работы по проектированию, разработке, поставке, производству строительно-монтажных и пусконаладочных работ, постгарантийному техническому обслуживанию автоматизированных систем управления технологическими и производственными процессами.</p> <p>Наша компания ищет специалиста в сфере автоматизации внутренних бизнес-процессов. Нам нужен специалист, который станет связующим звеном между бизнесом и разработчиками 1С. Цель работы - улучшение работы внутренних бизнес-процессов компании.</p> <p><strong>Основные задачи:</strong></p> <ul> <li>Собирать, уточнять и формализовывать запросы пользователей;</li> <li>Описание, посторенние бизнес-процессов в виде блок-схем, моделирование бизнес-задач;</li> <li>Выявление функциональных разрывов;</li> <li>Ставить задачи разработчикам на основе ТЗ от заказчиков;</li> <li>Проведение тестирования и написание инструкций;</li> <li>Обучение пользователей;</li> <li>Консультировать пользователей по функционалу 1С.</li> </ul> <p> </p> <p><strong>Требования к кандидату:</strong></p> <ul> <li>Высшее образование;</li> <li>Опыт описания, построения и моделирование бизнес-процессов;</li> <li>Опыт написания документации (ТЗ, инструкции, регламенты, отчеты об обследовании, протоколы встреч);</li> <li>Знание конфигурации 1С: УТ, 1С: УПП, 1С: ERP на уровне пользователя, будет плюсом.</li> <li>Удаленный режим работы</li> </ul> <p> </p> <p><strong>Мы предлагаем нашим сотрудникам:</strong></p> <ul> <li>работу в стабильной, успешной, динамично развивающейся компании на высокодоходном рынке;</li> <li>возможность зарабатывать достойную, конкурентную оплату труда. Уровень оклада обсуждается после проведения очного собеседования;</li> <li>график работы: 5/2, с 9.00 до 18.00. Удаленная работа;</li> <li>официальное трудоустройство согласно ТК РФ.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Автоматизация бизнес-процессов"
+    },
+    {
+      "name": "Разработка бизнес-модели"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "150",
+      "name": "Бизнес-аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5334281",
+    "name": "ГОРТ",
+    "url": "https://api.hh.ru/employers/5334281",
+    "alternate_url": "https://hh.ru/employer/5334281",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/836678.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3787595.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3787596.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5334281",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T11:09:29+0300",
+  "created_at": "2025-06-07T11:09:29+0300",
+  "initial_created_at": "2025-05-14T11:09:29+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120522083",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120522083",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

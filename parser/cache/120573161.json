@@ -1,0 +1,152 @@
+{
+  "id": "120573161",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Игровой аналитик (Gamedev)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>ROCKSTONE</strong> — компания разработчик мобильных игр ищет в свою команду Аналитика, который не просто «ведёт метрики», а формирует полноценную систему аналитической отчетности, которая помогает принимать ключевые стратегические решения.</p> <p>Наш идеальный кандидат умеет превращать массивы данных в понятные, логично структурированные и визуально наглядные отчеты, выявлять тренды и аномалии, строить гипотезы и формулировать обоснованные рекомендации для роста игровых продуктов.<br />Если вы умеете говорить с бизнесом на языке цифр, а в работе руководствуетесь принципом data-driven product development — будем рады видеть вас в команде.</p> <p> </p> <p><strong>Функциональные обязанности:</strong></p> <ul> <li> <p>формировать грамотную регулярную отчетность по продукту — от ежедневных метрик до глубоких аналитических срезов (в том числе для директора и других ключевых лиц);</p> </li> <li> <p>строить дашборды в Redash: визуализация ключевых показателей, автоматизация трекинга и быстрое выявление отклонений;</p> </li> <li> <p>следить за качеством и актуальностью аналитических инструментов;</p> </li> <li> <p>выдвигать гипотезы по улучшению игровых метрик;</p> </li> <li> <p>делать глубокий анализ поведения игроков и давать продуктовой команде конкретные предложения по улучшению;</p> </li> <li> <p>вести логи проекта, отслеживать данные в ClickHouse и обеспечивать целостность метрик.</p> </li> <li> <p>вести раздел аналитики в GDD;</p> </li> <li> <p>исследовать тренды и делиться инсайтами о рынке мобильных игр.</p> </li> </ul> <p><br /><strong>Hard-skills:</strong></p> <ul> <li> <p>опыт построения понятных и ценных аналитических отчетов — с акцентом на стратегическую значимость;</p> </li> <li> <p>умение структурировать выводы и формулировать предложения на основе данных.</p> </li> <li> <p>отличные знания SQL, опыт работы с Redash, MySQL, ClickHouse;</p> </li> <li> <p>уверенное владение Excel/Google Sheets (в том числе сложные формулы и сводные таблицы);</p> </li> <li> <p>знания в области математики, статистики и анализа данных;</p> </li> <li> <p>понимание продуктовых метрик, жизненного цикла игроков, игровых воронок;</p> </li> <li> <p>опыт в проведении и анализе A/B-тестов.</p> </li> </ul> <p><strong>Soft-skills:</strong></p> <ul> <li> <p>умение доносить аналитические выводы простым и точным языком;</p> </li> <li> <p>проактивность — не просто заметить проблему, но и предложить решение;</p> </li> <li> <p>ответственность и высокая самоорганизация;</p> </li> <li> <p>внимательность к деталям и грамотность в отчетах;</p> </li> <li> <p>умение работать в команде и обсуждать идеи с продюсерами, геймдизайнерами и разработчиками.<br /><br /><strong>Условия:</strong></p> </li> <li> <p>работа в перспективной и развивающейся компании;</p> </li> <li> <p>молодой и дружный коллектив;</p> </li> <li> <p>удаленная работа и гибкое начало рабочего дня;</p> </li> <li> <p>официальное оформление и финансовая стабильность;</p> </li> <li> <p>привычный отпуск 28 календарных дней в году;</p> </li> <li> <p>компенсация затрат на мед. услуги и спорт;</p> </li> <li> <p>компенсация изучения английского языка в школе SkyEng;</p> </li> <li> <p>поддержка в значимых событиях;</p> </li> <li> <p>активная корпоративная жизнь для всех сотрудников;</p> </li> <li> <p>возможность расти профессионально: оплачиваемые конференции и курсы, покупка профессиональной литературы.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Redash"
+    },
+    {
+      "name": "Clickhouse"
+    },
+    {
+      "name": "А/В тесты"
+    },
+    {
+      "name": "Анализ данных"
+    },
+    {
+      "name": "Игровые метрики"
+    },
+    {
+      "name": "Метрики"
+    },
+    {
+      "name": "База данных"
+    },
+    {
+      "name": "Python"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "10",
+      "name": "Аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "923083",
+    "name": "ROCKSTONE",
+    "url": "https://api.hh.ru/employers/923083",
+    "alternate_url": "https://hh.ru/employer/923083",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/357612.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/1872710.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/1872711.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=923083",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-15T10:27:57+0300",
+  "created_at": "2025-05-15T10:27:57+0300",
+  "initial_created_at": "2025-05-15T10:27:57+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120573161",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120573161",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b1",
+        "name": "B1 — Средний"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

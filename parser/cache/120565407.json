@@ -1,0 +1,152 @@
+{
+  "id": "120565407",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор (администрирование группы серверов и POS-терминалов)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "72",
+    "name": "Пермь",
+    "url": "https://api.hh.ru/areas/72"
+  },
+  "salary": {
+    "from": null,
+    "to": 140000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 140000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Пермь",
+    "street": "1-я Красноармейская улица",
+    "building": "21",
+    "lat": 58.001895,
+    "lng": 56.263049,
+    "description": null,
+    "raw": "Пермь, 1-я Красноармейская улица, 21",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Компания «ИРИС»</strong> является ведущим поставщиком программного обеспечения, оборудования и компонентов для создания автоматизированных систем управления розницей.</p> <p><em>Профиль компании</em>: оказание полного комплекса услуг в области автоматизации розничного бизнеса и оптово-розничной реализации нефтепродуктов и потребительских товаров. География деятельности «ИРИС» охватывает практически все регионы России: собственные региональные подразделения компании представлены в более, чем 70 городах. Наши партнёры: ПАО «Лукойл», АО «ЭР-Телеком Холдинг» и другие.</p> <p><strong>Обязанности:</strong></p> <ul> <li>Администрирование группы серверов и POS-терминалов Заказчика</li> <li> <p>- Парк более 2000 позиций</p> <p>- Поддержка (массовое обновление) специального ПО</p> <p>- Поддержка терминального торгового оборудования (удаленно)</p> <p>- Подготовка эталонного образа ОС</p> </li> <li>Централизованное управление конфигурацией</li> <li>Автоматизация процессов администрирования</li> <li>Настройка мониторинга основных объектов системы</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Высшее образование (инженер) или средне-техническое (техник)</li> <li>Уверенные навыки администрирования Windows, Файловые серверы, Active Directory</li> <li>Скриптинг: CMD, PowerShell</li> <li>Желательно наличие знаний и опыта работы: SCCM, Zabbix, Radmin, VNC, Devolutions RDM, Acronis TrueImage</li> <li>Владение техническим английским (чтение)</li> <li>Вашим преимуществом будет:<br />- Опыт работы с ГК &quot;ЛУКОЙЛ&quot;<br />- Опыт со специальным ПО (КАСУ Petronics)<br />- Опыт работы в технической поддержке, в т.ч. круглосуточной</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Трудоустройство в соответствии с ТК РФ</li> <li>Официальная и своевременная заработная плата</li> <li>Трудовой договор бессрочный</li> <li>Пятидневная рабочая неделя</li> <li>Зарплата состоит: оклад+премия+районный-подоходный=итоговая сумма указана в вакансии</li> <li>Стационарное рабочее место в офисе</li> <li>Адреса места работы: Пермь, 1-я Красноармейская улица, 21</li> <li>При наличии условий работы дома, возможно рассмотрение специалиста из других городов и удаленная работа (из дома).</li> </ul> <p>В сопроводительном письме просим указать опыт работы непосредственно по нашему функционалу.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "2639644",
+    "name": "ИРИС",
+    "url": "https://api.hh.ru/employers/2639644",
+    "alternate_url": "https://hh.ru/employer/2639644",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/900873.png",
+      "90": "https://img.hhcdn.ru/employer-logo/4044179.png",
+      "240": "https://img.hhcdn.ru/employer-logo/4044180.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2639644",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-15T08:43:03+0300",
+  "created_at": "2025-05-15T08:43:03+0300",
+  "initial_created_at": "2025-05-15T08:43:03+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120565407",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120565407",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b1",
+        "name": "B1 — Средний"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

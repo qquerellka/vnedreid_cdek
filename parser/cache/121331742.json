@@ -1,0 +1,142 @@
+{
+  "id": "121331742",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист по тестированию (ручное/manual)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Крупная ретейл компания в поиске специалиста по ручному тестированию (но с базовым пониманием и теоретической базы ЯП Java) на активно развивающийся внутренний проект.</p> <p> </p> <p><strong>Чем нужно будет заниматься:</strong></p> <ul> <li> <p>Проводить функциональное тестирование backend части проекта;</p> </li> <li> <p>Активно работать с базой данных Oracle и немного PostgreSQL, писать SQL запросы напрямую к базе (джойны, агрегатные функции, запросы к нескольким таблицам);</p> </li> <li> <p>Плотно погружаться в работу с продуктом, погружаться &quot;под капот&quot;, разбираться в его логике.</p> </li> </ul> <p> </p> <p><strong>Что для этого нужно:</strong></p> <ul> <li> <p>Важно знать основы и теорию ЯП Java, ООП;</p> </li> <li> <p>Опыт работы с БД Oracle, умение писать SQL запросы (среднего/сложного уровня) - pl/sql;</p> </li> <li> <p>Работать, читать, взаимодействовать с CI/CD пайплайнами, Docker, K8s;</p> </li> <li> <p>Иметь понимание интеграций по REST, опыт работы со swagger.</p> </li> </ul> <p> </p> <p><strong>Что предлагает компания:</strong></p> <ul> <li> <p>официальное трудоустройство и белая ЗП, it аккредитация;</p> </li> <li> <p>ДМС после прохождения испытательного срока;</p> </li> <li> <p>возможность работать в комфортном формате: есть офис в Москве, Краснодаре и коворкинг в Санкт-Петербурге, либо можно работать удаленно;</p> </li> <li> <p>возможность работать в команде с лучшими практиками крупных продуктовых компаний.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Java"
+    },
+    {
+      "name": "ORACLE"
+    },
+    {
+      "name": "Oracle Pl/SQL"
+    },
+    {
+      "name": "Функциональное тестирование"
+    },
+    {
+      "name": "REST"
+    },
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "CI/CD"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1111058",
+    "name": "Hi, Rockits!",
+    "url": "https://api.hh.ru/employers/1111058",
+    "alternate_url": "https://hh.ru/employer/1111058",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/857842.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/3872243.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3872244.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1111058",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T15:54:57+0300",
+  "created_at": "2025-06-06T15:54:57+0300",
+  "initial_created_at": "2025-06-04T12:04:21+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121331742",
+  "has_test": true,
+  "test": {
+    "required": true
+  },
+  "alternate_url": "https://hh.ru/vacancy/121331742",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

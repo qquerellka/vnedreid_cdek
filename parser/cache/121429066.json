@@ -1,0 +1,125 @@
+{
+  "id": "121429066",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Администратор баз данных",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "улица Жуковского",
+    "building": "3",
+    "lat": 59.935791,
+    "lng": 30.350247,
+    "description": null,
+    "raw": "Санкт-Петербург, улица Жуковского, 3",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>С 2021г</strong>. <strong>Санкт-Петербургское государственное казенное учреждение<br />«Служба сопровождения программных комплексов»</strong><br /><br />осуществляет техническую поддержку и обеспечение бесперебойной работы ИТ-проектов в различных сферах жизни<br />города, от строительства до архивного дела:<br /><br />- «Туристский реестр Санкт-Петербурга»;<br />- «Государственные архивы Санкт-Петербурга»;<br />- «Объекты городской среды Санкт-Петербурга»;<br />и многое другое<br /><br /><strong>Сейчас мы находимся в активном поиске специалистов и приглашаем:<br />Аналитиков, Специалистов технической поддержки, Специалистов по БД, Системных администраторов</strong><br /><br /><strong>Начни карьеру в Государственном IT Аккредитованном Учреждении!</strong><br /><br />Если Вы целеустремленный, коммуникабельный, жадный до знаний и готов к самореализации на благо города и его жителей, Мы будем рады рассмотреть Вашу кандидатуру!</p> <p> </p> <p><strong>Условия:</strong></p> <ol> <li>Работа в центре города в шаговой доступности от м. пл. Восстания/ Маяковская;</li> <li>Оформление по ТК РФ;</li> <li>Уровень заработной платы по итогам технического собеседования;</li> <li>Стабильная государственная компания с надежными перспективами;</li> <li>Интересные задачи ( типовые и творческие);</li> <li>Индивидуальная работа и работа в команде;</li> <li>Индивидуальный подход в работе к каждому сотруднику;</li> <li>Возможность обучения и повышения квалификации за счет:</li> </ol> <ul> <li>работодателя в специализированных учебных центрах.</li> <li>работы в коллективе профессионалов.</li> <li>возможности изучать реальные проекты на уровне города (большое разнообразия систем);</li> </ul> <p><strong>Обязанности:</strong></p> <ol> <li>Обеспечение функционирования БД (Oracle, MSSQL, PostgreSQL);</li> <li>Оптимизация функционирования БД (мониторинг работы, сбор статистической информации, оптимизация производительности);</li> <li>Предотвращение потерь и повреждений данных (разработка стратегии и автоматических процедур резервного копирования и восстановления баз данных);</li> <li>Анализ системных проблем обработки информации на уровне БД, подготовка предложений по перспективному развитию БД;</li> <li>Контроль обновления версий БД и миграции БД на новые платформы и новые версии ПО;</li> <li>Подготовка отчетов о функционировании БД, прогнозирование и оценка рисков сбоев в работе БД;</li> </ol> <p><strong>Пожелания:</strong></p> <ol> <li>Высшее профильное образование либо высшее образование + курсы повышения квалификации в области информационных технологий;</li> <li>Опыт работы по специальности свыше 1 года;</li> <li>Навыки работы со специальным ПО для администрирования БД на Windows и Linux-серверах;</li> </ol> <p><strong>Ждем Ваши резюме!</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5840966",
+    "name": "СПб ГКУ ССПК",
+    "url": "https://api.hh.ru/employers/5840966",
+    "alternate_url": "https://hh.ru/employer/5840966",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1151956.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6228282.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6228283.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5840966",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T16:20:26+0300",
+  "created_at": "2025-06-06T16:20:26+0300",
+  "initial_created_at": "2025-06-06T16:20:26+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121429066",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121429066",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

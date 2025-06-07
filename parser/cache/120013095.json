@@ -1,0 +1,178 @@
+{
+  "id": "120013095",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Программист (junior)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 65000,
+    "to": 70000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 65000,
+    "to": 70000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "улица Максима Горького",
+    "building": "24",
+    "lat": 55.026143,
+    "lng": 82.911707,
+    "description": null,
+    "raw": "Новосибирск, улица Максима Горького, 24",
+    "metro": {
+      "station_name": "Площадь Ленина",
+      "line_name": "Ленинская",
+      "station_id": "52.297",
+      "line_id": "52",
+      "lat": 55.029941,
+      "lng": 82.92069
+    },
+    "metro_stations": [
+      {
+        "station_name": "Площадь Ленина",
+        "line_name": "Ленинская",
+        "station_id": "52.297",
+        "line_id": "52",
+        "lat": 55.029941,
+        "lng": 82.92069
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Требование к образованию: </strong></p> <p>Высшее профессиональное образование или среднее профессиональное образование и опыт разработки программного обеспечения не менее 6 месяцев</p> <p><strong>Задачи:</strong></p> <ul> <li>сопровождение и развитие информационных систем</li> <li>разработка нового функционала и сервисов</li> <li>создание и оптимизация запросов SQL (хранимых процедур, триггеров, функций, представлений)</li> <li>анализ исходного программного кода информационных систем и его оптимизация</li> <li>написание интеграционных сервисов</li> </ul> <p>Наш отдел занимается сопровождением и развитием информационных систем в здравоохранении Новосибирской области. Кроме этого, мы обрабатываем и анализируем большие объемы данных.</p> <p>У нас есть системы, использующие PostgreSQL, Oracle, MySQL, Posgres, и написанные на PHP, Python, JavaScript (React), Perl.</p> <p><strong>Требования к кандидатам:</strong></p> <ul> <li>Знание SQL, PL/SQL и средств оптимизации запросов</li> <li>Знание PHP, Html, Css, JavaScript, Python</li> <li>Умение разбираться в чужом коде и документировать свой</li> <li>Умение работать с git</li> <li>Аналитический склад ума, желание учиться и развиваться.</li> <li>Позитивное отношение и стрессоустойчивость.</li> </ul> <ul> <li>Коммуникабельность.</li> </ul> <p><strong>Будем рады если Вы:</strong></p> <ul> <li>Хорошо владеете SQL</li> <li>Умеете программировать на любом языке, упомянутом выше;</li> <li>Не боитесь осваивать новые технологии</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Масштабные региональные проекты в сфере здравоохранения, работа в крупной команде, интересные проекты, приносящие реальную пользу.</li> <li>Команду молодых профессионалов (аналитики, разработчики, специалисты поддержки, специалисты по методологии и не только).</li> <li>Если вы считаете, что вашего опыта недостаточно, не стесняйтесь отправлять нам резюме. Вполне возможно, что для вас у нас тоже найдутся задачи.</li> <li>Возможность профессионального и карьерного роста.</li> <li>Современный офис в шаговой доступности от станции метро «пл. Ленина».</li> <li>Официальное трудоустройство согласно ТК РФ, социальный пакет, полноценный отпуск.</li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "Oracle Pl/SQL"
+    },
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "Python"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3237113",
+    "name": "ГБУЗ НСО МИАЦ",
+    "url": "https://api.hh.ru/employers/3237113",
+    "alternate_url": "https://hh.ru/employer/3237113",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1059597.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5859029.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5859030.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3237113",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T07:54:02+0300",
+  "created_at": "2025-06-06T07:54:02+0300",
+  "initial_created_at": "2025-04-28T09:41:59+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120013095",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120013095",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

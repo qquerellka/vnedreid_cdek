@@ -1,0 +1,144 @@
+{
+  "id": "116599633",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Web-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Невский проспект",
+    "building": "82",
+    "lat": 59.932617,
+    "lng": 30.349654,
+    "description": null,
+    "raw": "Санкт-Петербург, Невский проспект, 82",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>В ОТДЕЛ СТРАТЕГИЧЕСКОГО ПЛАНИРОВАНИЯ ПРИГЛАШАЕМ W</strong><strong>EB</strong><strong>-РАЗРАБОТЧИКА </strong></p> <p><strong>ПРЕДЛАГАЕМ:</strong></p> <ul> <li>Индивидуальный подход к кандидатам</li> <li>Коллектив профессионалов</li> <li>Комфортные условия</li> <li>Оформление полиса добровольного медицинского страхования;</li> <li>Получение медицинских услуг в клиниках МЕДИ на льготных условиях для сотрудников и их родственников</li> <li>Организованное корпоративное питание</li> <li>График работы: 5/2 - с 10.00 до 18.30.</li> </ul> <p><strong>МЕСТО РАБОТЫ: </strong><strong>НЕВСКИЙ ПР., Д.82.</strong></p> <p><strong>ОБРАЗОВАНИЕ:</strong></p> <ul> <li>Высшее/не законченное высшее техническое образование</li> <li>Знание английского языка (уверенное чтение документации и обучающих материалов).</li> <li>Опыт работы от 1-го года.</li> </ul> <p><strong>ТРЕБОВАНИЯ И ОБЯЗАННОСТИ</strong><strong>:</strong></p> <ul> <li>Знание PHP: поддержка и развитие существующих проектов. Мы используем MODX и BITRIX</li> <li>Навыки работы с CMS MODX Revolution: правки, написание собственных компонентов, вёрстка</li> <li>Знание диалектов SQL: навыки написания запросов, оптимизации, создания таблиц</li> <li>JavaScript (вкл. JQuery), HTML 5, CSS 3: навыки адаптивной верстки.</li> </ul> <p><strong>ДОПОЛНИТЕЛЬНО:</strong></p> <ul> <li>Ссылки на проекты, которые вы разрабатывали или в которых принимали участие (укажите, пожалуйста, на вашу часть работы).</li> </ul> <p><strong>ЛИЧНОСТНЫЕ КАЧЕСТВА</strong><strong>:</strong></p> <ul> <li>Самостоятельность, инициативность, высокая работоспособность, ответственность</li> <li>Опыт ведения нескольких проектов одновременно.</li> </ul>",
+  "branded_description": " <style>\n  .tmpl_hh_wrapper p,\n  .tmpl_hh_wrapper a,\n  .tmpl_hh_wrapper img,\n  .tmpl_hh_wrapper ol,\n  .tmpl_hh_wrapper ul,\n  .tmpl_hh_wrapper li {\n      margin: 0;\n      padding: 0;\n      border: 0;\n      font-size: 100%;\n      font: inherit;\n      vertical-align: baseline;\n  }\n  \n  .hht-vacancydescription {\n      padding: 0px;\n  }\n  \n  .tmpl_hh_wrapper .l-cell,\n  .tmpl_hh_wrapper .l-paddings {\n      padding: 0px !important;\n  }\n  \n  .tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n      margin-top: 0px !important;\n  }\n  \n  .tmpl_hh_wrapper .b-vacancy-desc {\n      overflow: visible !important;\n      line-height: inherit;\n  }\n  \n  .tmpl_hh_content ol li b,\n  .tmpl_hh_content ol li strong,\n  .tmpl_hh_content ol li p b,\n  .tmpl_hh_content ol li p strong,\n  .tmpl_hh_content ul li b,\n  .tmpl_hh_content ul li strong,\n  .tmpl_hh_content ul li p b,\n  .tmpl_hh_content ul li p strong {\n      font-weight: normal;\n      font-size: inherit !important;\n      color: inherit !important;\n      margin: 0 !important;\n      text-transform: none;\n  }\n  \n  .tmpl_hh_content ol li p,\n  .tmpl_hh_content ul li p {\n      font-weight: normal;\n      margin: 0;\n  }\n  \n  .tmpl_hh_content p b,\n  .tmpl_hh_content p strong {\n      display: inline;\n      margin: 0;\n  }\n\n  .tmpl_hh_wrapper button {\n      display: block;\n      border: none;\n      background-color: transparent;\n      cursor: pointer;\n      outline: none;\n      padding: 0;\n}\n\n  .tmpl_hh_wrapper button svg {\n      cursor: pointer;\n}\n  \n  .tmpl_hh_wrapper {\n      width: 100%;\n      margin: 0 auto;\n      max-width: 690px;\n      position: relative;\n      word-break: normal;\n      font-family: 'Arial';\n      color: #000;\n      font-size: 14px;\n      line-height: 1.2;\n  }\n  \n  .tmpl_hh_wrapper img {\n      display: block;\n      width: 100%;\n      -webkit-user-select: none;\n      -moz-user-select: none;\n      -ms-user-select: none;\n      user-select: none;\n  }\n  \n  .tmpl_hh_head {\n      padding: 4.7% 7.7% 4% 5.7%;\n      display: -webkit-box;\n      display: -ms-flexbox;\n      display: flex;\n      -webkit-box-pack: justify;\n      -ms-flex-pack: justify;\n      justify-content: space-between;\n      -webkit-box-align: end;\n      -ms-flex-align: end;\n      align-items: flex-end;\n      border-bottom: 3px solid #006ab6;\n  }\n  \n  .tmpl_hh_logo {\n      width: 180px;\n  }\n  \n  .tmpl_hh_slogan {\n      color: #006ab6;\n      margin-bottom: -2px;\n  }\n  \n  .tmpl_hh_content {\n      padding: 50px 40px 42px;\n  }\n  \n  .tmpl_hh_content p:first-child,\n  .tmpl_hh_content>strong:first-child,\n  .tmpl_hh_content div>strong:first-child {\n      margin-top: 0 !important;\n  }\n  \n  .tmpl_hh_content p,\n  .tmpl_hh_content b,\n  .tmpl_hh_content strong {\n      margin: 25px 0 9px;\n  }\n  \n  .tmpl_hh_content b,\n  .tmpl_hh_content strong {\n      display: inline-block;\n      font-weight: bold;\n      font-size: 16px;\n      color: #006ab6;\n      text-transform: uppercase;\n  }\n  \n  .tmpl_hh_content ol,\n  .tmpl_hh_content ul {\n      margin-left: 25px;\n      list-style: none !important;\n  }\n  \n  .tmpl_hh_content ol {\n      counter-reset: list_counter;\n  }\n  \n  .tmpl_hh_content li {\n      position: relative;\n      margin-bottom: 8px;\n  }\n  \n  .tmpl_hh_content ul ul,\n  .tmpl_hh_content ul ol,\n  .tmpl_hh_content ol ol,\n  .tmpl_hh_content ol ul {\n      margin-top: 8px;\n  }\n  \n  .tmpl_hh_content ol>li {\n      counter-increment: list_counter;\n  }\n  \n  .tmpl_hh_content li:before {\n      content: '';\n      position: absolute;\n      left: -25px;\n      top: 0;\n  }\n  \n  .tmpl_hh_content ul>li:before {\n      content: '—';\n  }\n  \n  .tmpl_hh_content ol>li:before {\n      content: counter(list_counter) \".\";\n  }\n  .tmpl_hh_thumb-wrap {\n    position: relative;\n    overflow: hidden;\n    width: 100%;\n}\n\n.tmpl_hh_thumb-wrap video{\n    width: 100%;\n}\n\n.tmpl_hh_thumb-wrap video::-webkit-media-controls {\n    display: none;\n}\n\n.tmpl_hh_thumb-wrap video {\n    pointer-events: none;\n}\n\n@supports (-webkit-touch-callout: none) {\n    @media screen and (max-width: 699px) {\n        .tmpl_hh_thumb-wrap {\n            background: #407cb7;\n        }\n    }\n\n}\n\n.tmpl_hh_thumb-button {\n    display: flex;\n}\n\n.tmpl_hh_thumb-button .pause-btn{\n    display: none;\n}\n\n.tmpl_hh_thumb-button .pause-btn {\n    transition: all 0.4s;\n    opacity: 1;\n}\n\n@media not all and (pointer: coarse) {\n    .tmpl_hh_thumb-button .pause-btn:hover {\n        opacity: 1 !important;\n    }\n}\n\n.tmpl_hh_thumb-button button {\n    position: absolute;\n    border: none;\n    background: none;\n    z-index: 3;\n    left: 50%;\n    top: 50%;\n    width: 138px;\n    height: 138px;\n    transform: translateY(-50%) translateX(-50%);\n    cursor: pointer;\n}\n\n.tmpl_hh_thumb-button button svg {\n    width: 138px;\n    height: 138px;\n}\n\n.tmpl_hh_thumb-wrap > iframe {\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n    border-width: 0;\n    outline-width: 0;\n}\n  \n  \n  @media screen and (max-width: 699px) {\n      .tmpl_hh_head {\n          padding-left: 3.3%;\n          padding-right: 3.3%;\n          -ms-flex-wrap: wrap;\n          flex-wrap: wrap;\n      }\n  \n      .tmpl_hh_slogan {\n          width: 100%;\n          margin: 33px 0 0;\n      }\n  \n      .tmpl_hh_content {\n          padding: 31px 10px 34px;\n      }\n      .tmpl_hh_thumb-button button {\n        width: 77px;\n        height: 77px;\n        transform: translateY(-50%) translateX(-60%);\n    }\n\n    .tmpl_hh_thumb-button button svg {\n        width: 77px;\n        height: 77px;\n    }\n  }\n\n\n\n</style>\n  \n      <div class=\"tmpl_hh_wrapper\">\n          <div class=\"tmpl_hh_head\">\n              <div class=\"tmpl_hh_logo\">\n                  <img src=\"https://hhcdn.ru/ichameleon/307847.png\" alt=\"\">                \n              </div>\n              <div class=\"tmpl_hh_slogan\">Приглашаем вас в нашу команду! </div>\n          </div>\n          \n          <div class=\"tmpl_hh_content\">\n              <p><strong>В ОТДЕЛ СТРАТЕГИЧЕСКОГО ПЛАНИРОВАНИЯ ПРИГЛАШАЕМ W</strong><strong>EB</strong><strong>-РАЗРАБОТЧИКА </strong></p> <p><strong>ПРЕДЛАГАЕМ:</strong></p> <ul> <li>Индивидуальный подход к кандидатам</li> <li>Коллектив профессионалов</li> <li>Комфортные условия</li> <li>Оформление полиса добровольного медицинского страхования;</li> <li>Получение медицинских услуг в клиниках МЕДИ на льготных условиях для сотрудников и их родственников</li> <li>Организованное корпоративное питание</li> <li>График работы: 5/2 - с 10.00 до 18.30.</li> </ul> <p><strong>МЕСТО РАБОТЫ: </strong><strong>НЕВСКИЙ ПР., Д.82.</strong></p> <p><strong>ОБРАЗОВАНИЕ:</strong></p> <ul> <li>Высшее/не законченное высшее техническое образование</li> <li>Знание английского языка (уверенное чтение документации и обучающих материалов).</li> <li>Опыт работы от 1-го года.</li> </ul> <p><strong>ТРЕБОВАНИЯ И ОБЯЗАННОСТИ</strong><strong>:</strong></p> <ul> <li>Знание PHP: поддержка и развитие существующих проектов. Мы используем MODX и BITRIX</li> <li>Навыки работы с CMS MODX Revolution: правки, написание собственных компонентов, вёрстка</li> <li>Знание диалектов SQL: навыки написания запросов, оптимизации, создания таблиц</li> <li>JavaScript (вкл. JQuery), HTML 5, CSS 3: навыки адаптивной верстки.</li> </ul> <p><strong>ДОПОЛНИТЕЛЬНО:</strong></p> <ul> <li>Ссылки на проекты, которые вы разрабатывали или в которых принимали участие (укажите, пожалуйста, на вашу часть работы).</li> </ul> <p><strong>ЛИЧНОСТНЫЕ КАЧЕСТВА</strong><strong>:</strong></p> <ul> <li>Самостоятельность, инициативность, высокая работоспособность, ответственность</li> <li>Опыт ведения нескольких проектов одновременно.</li> </ul></div>\n\n          <div class=\"tmpl_hh_thumb-wrap tmpl_hh_thumb-wrap__pause\">\n            <div class=\"tmpl_hh_thumb-button\">\n                <button class=\"play-btn\">\n                    <svg width=\"138\" height=\"138\" viewBox=\"0 0 138 138\" fill=\"none\">\n                        <circle cx=\"69\" cy=\"69\" r=\"69\" fill=\"white\"></circle>\n                        <path d=\"M93 69L57 89.7846L57 48.2154L93 69Z\" fill=\"#00458E\"></path>\n                    </svg>\n                </button>\n\n                <button class=\"pause-btn\">\n                    <svg id=\"Capa_1\" fill=\"#ffffff\" height=\"800px\" stroke=\"#ffffff\" version=\"1.1\" viewBox=\"0 0 512 512\" width=\"800px\" xml:space=\"preserve\">\n                        <g id=\"SVGRepo_bgCarrier\" stroke-width=\"0\"></g>\n                        <g id=\"SVGRepo_tracerCarrier\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></g>\n                        <g id=\"SVGRepo_iconCarrier\">\n                            <g>\n                                <g>\n                                    <path d=\"M256,0C114.842,0,0,114.842,0,256s114.842,256,256,256s256-114.842,256-256S397.158,0,256,0z M256,465.455 c-115.493,0-209.455-93.961-209.455-209.455S140.507,46.545,256,46.545S465.455,140.507,465.455,256S371.493,465.455,256,465.455z \"></path>\n                                </g>\n                            </g>\n                            <g>\n                                <g>\n                                    <path d=\"M318.061,139.636c-12.853,0-23.273,10.42-23.273,23.273v186.182c0,12.853,10.42,23.273,23.273,23.273 c12.853,0,23.273-10.42,23.273-23.273V162.909C341.333,150.056,330.913,139.636,318.061,139.636z\"></path>\n                                </g>\n                            </g>\n                            <g>\n                                <g>\n                                    <path d=\"M193.939,139.636c-12.853,0-23.273,10.42-23.273,23.273v186.182c0,12.853,10.42,23.273,23.273,23.273 c12.853,0,23.273-10.42,23.273-23.273V162.909C217.212,150.056,206.792,139.636,193.939,139.636z\"></path>\n                                </g>\n                            </g>\n                        </g>\n\n                    </svg>\n                </button>\n            </div>\n            <video class=\"tmpl_hh_thumb-video\" src=\"https://hhcdn.ru/file/17605324.mp4\" playsinline=\"playsinline\" poster=\"https://hhcdn.ru/ichameleon/310766.png\"></video>\n          </div>\n\n      </div>\n<script>\n    //\n    const media = document.getElementsByClassName('tmpl_hh_thumb-video')[0];\n    const playBtn = document.getElementsByClassName('play-btn')[0];\n    const pauseBtn = document.getElementsByClassName('pause-btn')[0];\n    const layout = document.getElementsByClassName('tmpl_hh_thumb-wrap__pause')[0]\n\n    media.controls = false;\n\n    function onPlayMediaHandler() {\n        pauseBtn.style.display = \"block\";\n        playBtn.style.display = \"none\";\n        pauseBtn.style.opacity = 1;\n        layout.classList.remove('tmpl_hh_thumb-wrap__pause')\n        setTimeout(() => pauseBtn.style.opacity = 0, 1000)\n    }\n\n    function playPauseMedia() {\n        if (media.paused) {\n            media.play();\n            layout.classList.remove('tmpl_hh_thumb-wrap__pause')\n        } else {\n            playBtn.style.display = \"block\";\n            pauseBtn.style.display = \"none\";\n            layout.classList.add('tmpl_hh_thumb-wrap__pause')\n            media.pause();\n        }\n    }\n\n    media.addEventListener('play', onPlayMediaHandler);\n    media.addEventListener('click', playPauseMedia);\n    playBtn.addEventListener('click', playPauseMedia);\n    pauseBtn.addEventListener('click', playPauseMedia);\n    //\n</script>",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Знание PHP: поддержка и развитие существующих проектов. Мы используем MODX и BITRIX Навыки работы с"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "302",
+    "name": "МЕДИ",
+    "url": "https://api.hh.ru/employers/302",
+    "alternate_url": "https://hh.ru/employer/302",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1170751.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6303438.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6303439.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=302",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T11:14:09+0300",
+  "created_at": "2025-06-02T11:14:09+0300",
+  "initial_created_at": "2025-01-31T12:06:33+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=116599633",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/116599633",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

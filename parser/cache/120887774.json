@@ -1,0 +1,138 @@
+{
+  "id": "120887774",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер инфраструктурных решений",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 300000,
+    "to": 300000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 300000,
+    "to": 300000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Южно-Сахалинск",
+    "street": "улица Ленина",
+    "building": "123",
+    "lat": 46.96389,
+    "lng": 142.728878,
+    "description": null,
+    "raw": "Южно-Сахалинск, улица Ленина, 123",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Работа в Южно-Сахалинске</strong></p> <p>Мы ищем профессионала в команду наших системных администраторов, который займется сопровождением уже имеющихся инфраструктурных хостов и провижинингом новых, а также мониторингом всего этого в Zabbix. Хорошо знакомого с Linux, немного с Windows, не боящегося VMWare и умеющего писать скрипты на Bash, Python или Go. В своей инфраструктуре мы стремимся к автоматизации процессов, предупреждению сбоев, кластеризации и высокой доступности критичных узлов.</p> <p><strong>Обязанности:</strong></p> <ul> <li>Администрирование инфраструктурных узлов (аппаратных серверов и виртуальных машин);</li> <li>Администрирование системы виртуализации (vmware vcenter);</li> <li> Поддержка отказоустойчивых систем;</li> <li>Оптимизация и автоматизация IT-процессов компании;</li> <li>Мониторинг работы серверов и сети (Zabbix); </li> <li>Масштабирование нагрузки.</li> </ul> <strong>Требования:</strong> <ul> <li>Хорошее знание linux-based систем (debian based в основном);</li> <li>Опыт работы с серверным и сетевым оборудованием;</li> <li>Опыт установки и администрирования серверного ПО (nginx, bind, mysql, postgres, redis, asterisk, docker и прочее);</li> <li>Знание и понимание базовых сетевых протоколов (DNS, DHCP, HTTP, BGP, VPN, SIP) и умение все это настраивать;</li> <li>Опыт работы с системами виртуализации.</li> </ul> <p><strong>Будет плюсом если есть:</strong></p> <ul> <li>Умение автоматизировать все с помощью bash/python/go;</li> <li>Опыт работы с ansible;</li> <li>Опыт работы со средствами оркестрации контейнеров (docker-compose/kubernetes).</li> </ul> <strong>Условия:</strong> <ul> <li>Официальное трудоустройство;</li> <li>Стабильная заработная плата;</li> <li>Проживание и проезд за счет компании</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "160",
+      "name": "DevOps-инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3983515",
+    "name": "Эксперт Плюс",
+    "url": "https://api.hh.ru/employers/3983515",
+    "alternate_url": "https://hh.ru/employer/3983515",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3983515",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-23T07:13:50+0300",
+  "created_at": "2025-05-23T07:13:50+0300",
+  "initial_created_at": "2025-05-23T07:13:50+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120887774",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120887774",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

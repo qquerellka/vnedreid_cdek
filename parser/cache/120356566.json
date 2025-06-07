@@ -1,0 +1,158 @@
+{
+  "id": "120356566",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Системный аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 120000,
+    "to": 175000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 120000,
+    "to": 175000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Добрый день!</p> <p>InstaDev - аккредитованная IT-компания. Мы предоставляем полный комплекс услуг по разработке нативных и кросс-платформенных мобильных приложений на базе iOS и Android.<br />Наша основная цель - создание высококачественного и понятного продукта, который поможет в реализации бизнес-планов наших клиентов. Мы очень ценим качество и красоту, за это нас любят партнеры и их клиенты.</p> <p><strong>Рассматриваем кандидатов с:</strong></p> <ul> <li>Опытом работы в качестве системного аналитика от двух лет.</li> <li>Знанием нотаций UML и BPMN.</li> <li>Пониманием клиент-серверного взаимодействия.</li> </ul> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Сбор, анализ и документирование бизнес-требований.</li> <li>Создание прототипов интерфейсов и проектирование бизнес-процессов.</li> <li>Сбор, детализация, формализация и согласование функциональных требований.</li> <li>Написание технических заданий и спецификаций для разработчиков.</li> <li>Написание ключевой документации.</li> </ul> <p><strong>Желательные знания и навыки:</strong></p> <ul> <li>Понимание архитектурных методов разработки высоконагруженных автоматизированных систем.</li> <li>Знание форматов данных, применяемых в веб-разработке: XML, HTML, JSON, WSDL.</li> <li>Знание таких технологий, как REST, SOAP, SQL, шифрование, балансировка нагрузки</li> </ul> <p><strong>Мы ждём от тебя:</strong></p> <ul> <li>Способность давать результат;</li> <li>Ответственный подход к работе;</li> <li>Желание изучать новые технологии и работать в команде.</li> </ul> <p> </p> <p><strong>Мы готовы предложить:</strong></p> <ul> <li>Гибкий рабочий график;</li> <li>Возможность делиться экспертностью с нашими сотрудниками, а также с теми, кто только начинает свой путь в IT;</li> <li>Большие возможности для развития;</li> </ul> <p>З/п зависит от вашего грейда и обсуждается на собеседовании.</p> <p> </p> <p>Процесс трудоустройства выглядит следующим образом:</p> <ol> <li>Ваш отклик на вакансию;</li> <li>Техническое собеседование в Zoom;</li> </ol>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Atlassian Jira"
+    },
+    {
+      "name": "UML"
+    },
+    {
+      "name": "BPMN"
+    },
+    {
+      "name": "XML"
+    },
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "JSON"
+    },
+    {
+      "name": "WSDL"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "SOAP"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "148",
+      "name": "Системный аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "4897029",
+    "name": "ИнстаДев",
+    "url": "https://api.hh.ru/employers/4897029",
+    "alternate_url": "https://hh.ru/employer/4897029",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1392294.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7188959.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7188960.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4897029",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T16:13:16+0300",
+  "created_at": "2025-06-06T16:13:16+0300",
+  "initial_created_at": "2025-05-10T16:13:16+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120356566",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120356566",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,165 @@
+{
+  "id": "121383199",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Тестировщик ПО (junior/junior+)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Зоологическая улица",
+    "building": null,
+    "lat": 55.765063,
+    "lng": 37.583589,
+    "description": null,
+    "raw": "Москва, Зоологическая улица",
+    "metro": {
+      "station_name": "Баррикадная",
+      "line_name": "Таганско-Краснопресненская",
+      "station_id": "7.16",
+      "line_id": "7",
+      "lat": 55.760793,
+      "lng": 37.581242
+    },
+    "metro_stations": [
+      {
+        "station_name": "Баррикадная",
+        "line_name": "Таганско-Краснопресненская",
+        "station_id": "7.16",
+        "line_id": "7",
+        "lat": 55.760793,
+        "lng": 37.581242
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Привет! </strong>Мы – продуктовая IT компания Виасат Тех. Наш продукт – это <strong>стриминговый сервис нового поколения viju.</strong></p> <p><strong>viju</strong> – это уникальные для российского рынка фильмы, сериалы и эксклюзивные телеканалы по подписке, доступные на платформах web, iOS, Android, Smart TV и Android TV.</p> <p><strong>Чем мы отличаемся от остальных сервисов смотрения?</strong></p> <p>Всем знакома ситуация, когда больше времени уходит на выбор фильма или сериала, чем на сам просмотр. Мы создаем стриминговый сервис, который решает эту проблему с помощью современных ML-технологий и продуманных механизмов рекомендаций. У нас не просто умные алгоритмы – мы разрабатываем уникальные способы подачи и выбора контента, чтобы каждый зритель быстро находил то, что ему действительно интересно, и сразу переходил к просмотру.</p> <p>Сейчас мы в поисках <strong>QA для ручного тестирования</strong> нашего viju на разных платформах <strong>(web, mobile, SmartTV).</strong></p> <p><strong>Чем нужно будет заниматься:</strong></p> <ul> <li> <p>Анализ требований и приёмка технической документации</p> </li> <li> <p>Создание чек-листов и тест-кейсов</p> </li> <li> <p>Ручное тестирование ПО (браузерное, мобильное, SmartTV)</p> </li> <li> <p>Оформление дефектов и проверка их исправления</p> </li> <li> <p>Активное взаимодействие с аналитиками и разработчиками</p> </li> </ul> <strong>Мы ожидаем, что у тебя есть:</strong> <ul> <li> <p>Опыт тестирования клиент-серверных приложений от 6 месяцев (web или mobile)</p> </li> <li> <p>Опыт в тест-анализе и тест-дизайне</p> </li> <li> <p>Знания основ тестирования и опыт применения знаний на практике</p> </li> <li> <p>Опыт работы с багтрекинговыми системами</p> </li> <li> <p>Опыт работы с системами управления тестирования</p> </li> <li> <p>Опыт тестирования API (знание основ Rest API, HTTP, JSON)</p> </li> </ul> <strong>У нас есть:</strong> <ul> <li> <p>Полностью белая заработная плата (обсуждается по результатам собеседования)</p> </li> <li> <p>График работы - полный рабочий день, <strong>гибридный формат (от 1 до 3 дней работа из офиса)</strong></p> </li> <li> <p>Офис в 5-ти минутах ходьбы от станции метро «Баррикадная»</p> </li> <li> <p>Отсутствие бюрократии и быстрое принятие решений</p> </li> <li> <p>Возможность карьерного роста</p> </li> <li> <p>Пакет ДМС (по окончании испытательного срока 3 месяца)</p> </li> <li> <p>Предоставление техники для работы</p> </li> <li>Внешнее обучение и конференции за счет компании</li> <li> <p>Мега-классная, интересная, увлечённая и молодая команда профессионалов</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Тестирование"
+    },
+    {
+      "name": "Ручное тестирование"
+    },
+    {
+      "name": "Функциональное тестирование"
+    },
+    {
+      "name": "Регрессионное тестирование"
+    },
+    {
+      "name": "Интеграционное тестирование"
+    },
+    {
+      "name": "Postman"
+    },
+    {
+      "name": "Swagger"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5856000",
+    "name": "Виасат Тех",
+    "url": "https://api.hh.ru/employers/5856000",
+    "alternate_url": "https://hh.ru/employer/5856000",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1355357.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7041358.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7041359.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5856000",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T13:39:38+0300",
+  "created_at": "2025-06-05T13:39:38+0300",
+  "initial_created_at": "2025-06-05T13:39:38+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121383199",
+  "has_test": true,
+  "test": {
+    "required": true
+  },
+  "alternate_url": "https://hh.ru/vacancy/121383199",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

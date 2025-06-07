@@ -1,0 +1,143 @@
+{
+  "id": "120418502",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Программист-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 140000,
+    "to": 400000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 140000,
+    "to": 400000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Большеохтинский проспект",
+    "building": "15к2",
+    "lat": 59.9507,
+    "lng": 30.411682,
+    "description": null,
+    "raw": "Санкт-Петербург, Большеохтинский проспект, 15к2",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Программист-разработчик</strong></p> <p>Вы мечтаете создавать инновационные решения и работать с передовыми технологиями? Присоединяйтесь к нашей команде и воплотите свои идеи в жизнь!</p> <p><strong>Обязанности:</strong></p> <ul> <li>Разработка и внедрение программных продуктов по учету материальных ценностей.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Опыт работы от 3 до 6 лет в области программирования и разработки.</li> <li>Опыт в создании программного обеспечения.</li> <li>Знание современных языков программирования и технологий.</li> <li>Способность работать в команде и самостоятельно решать задачи.</li> <li> <p>Linux/BSD</p> </li> <li> <p>PostgreSQL</p> </li> <li> <p>PHP</p> </li> <li> <p>nginx</p> </li> <li> <p>HTML/CSS</p> </li> <li> <p>Javascript, vue.js, jQuery</p> <p> </p> <p>Желательный опыт</p> </li> <li> <p>Python, 1C, Jupyter</p> </li> <li> <p>аналитика данных, построение отчетов. системное администрирование, внедрение систем учета на производстве.</p> <p><strong>Условия и преимущества:</strong></p> </li> <li>Полная занятость с графиком 5/2.</li> <li>Работа на месте работодателя в Санкт-Петербурге.</li> <li>Официальное трудоустройство и социальные гарантии.</li> <li>Возможности для профессионального роста и развития.</li> </ul> <p><strong>О компании:</strong> ООО &quot;ОТК&quot; является частью группы компаний Iron Logic, одного из крупнейших производителей оборудования для контроля доступа. Мы располагаем собственным производственным оборудованием в Санкт-Петербурге и широкой сбытовой сетью по всей России, Европейскому Союзу и в странах СНГ. Наш ассортимент включает автономные и сетевые контроллеры, RFID-считыватели, конвертеры, адаптеры и программное обеспечение. Присоединяйтесь к нам и станьте частью команды профессионалов, создающих будущее технологий!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10030312",
+    "name": "ОТК",
+    "url": "https://api.hh.ru/employers/10030312",
+    "alternate_url": "https://hh.ru/employer/10030312",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1125634.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6123125.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6123126.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10030312",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T15:08:27+0300",
+  "created_at": "2025-06-05T15:08:27+0300",
+  "initial_created_at": "2025-05-12T15:08:27+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120418502",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120418502",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

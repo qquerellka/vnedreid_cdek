@@ -1,0 +1,149 @@
+{
+  "id": "105882773",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "QA-инженер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "проспект Стачек",
+    "building": "47",
+    "lat": 59.88144287139574,
+    "lng": 30.261433286051574,
+    "description": null,
+    "raw": "Санкт-Петербург, проспект Стачек, 47",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Datagile</strong> - продуктовая компания. Основное наше направление - это разработка продуктов в сфере информационной безопасности, автоматизации и баз данных.</p> <p>Разрабатываем собственный софт и сейчас у нас около 20 продуктов: спутниковый мониторинг транспорта, СУБД, системы защиты серверов, системы поведенческого анализа, системы защиты SAP-систем</p> <p>Технологии, которые используем в работе: C# Java Selenium JMeter Appium Python</p> <p><strong>Задачи:</strong></p> <ul> <li>Поиск дефектов в функционировании, логике работы и документации на ПО;</li> <li>Разработка тестовых сценариев и тест-кейсов;</li> <li>Разработка и поддержка в актуальном состоянии технической документации по тестированию.</li> </ul> <p><strong>Для нас важно:</strong></p> <ul> <li>Знание методологии тестирования ПО;</li> <li>Опыт коммерческой разработки от года;</li> <li>Опыт самостоятельного тестирования на всем цикле разработки ПО;</li> <li>Опыт тестирования клиент-серверных систем;</li> <li>Опыт разработки тест-кейсов;</li> <li>Опыт анализа требований и документации;</li> <li>Навыки формализации требований с точки зрения тестирования (что проверять и как проверять).</li> </ul> <p><strong><em>Желательно:</em></strong></p> <ul> <li>Опыт автоматизации тестирования;</li> <li>Опыт проведения нагрузочного тестирования;</li> <li>Знание SQL и навыки работы с базами данных;</li> <li>Плюсом будет опыт работы с сетевым оборудованием, администрированием Linux.</li> </ul> <p><strong>Работать в Datagile это:</strong></p> <p><strong>Развитие: </strong>Наставничество, работа в команде экспертов, внешнее обучение и профессиональные конференции за счет компании, компенсация занятий иностранным языком;</p> <p><strong>Работа с комфортом: </strong>Формат на выбор - удаленно из любой точки, офис, гибрид. Гибкое начало рабочего дня (обязательные часы присутствия с 11-16 по МСК), техника для работы;</p> <p><strong>Забота о здоровье: </strong>ДМС с психологом, офисный врач, компенсация занятий спортом, хобби или любых других увлечений, зона отдыха в офисе (чай/кофе/печеньки);</p> <p><strong>Забота о близких: </strong>Подарки детям на праздники, дотации на приобретение детских путевок в лагерь, материальная поддержка в важные периоды жизни;</p> <p><strong>Для общения:</strong> Корпоративные мероприятия, сквош, футбол, настольные игры в офисе;</p> <p><strong>Стабильность: </strong>Аккредитованная ИТ компания, официальное трудоустройство по ТК РФ, ежеквартальные премии, работа над масштабными проектами.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Apache JMeter"
+    },
+    {
+      "name": "Java"
+    },
+    {
+      "name": "C#"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Selenium IDE"
+    },
+    {
+      "name": "REST"
+    },
+    {
+      "name": "Linux"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5756945",
+    "name": "Датаджайл",
+    "url": "https://api.hh.ru/employers/5756945",
+    "alternate_url": "https://hh.ru/employer/5756945",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/917111.png",
+      "90": "https://img.hhcdn.ru/employer-logo/4109123.png",
+      "240": "https://img.hhcdn.ru/employer-logo/4109124.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5756945",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-14T12:14:30+0300",
+  "created_at": "2025-05-14T12:14:30+0300",
+  "initial_created_at": "2024-08-15T19:19:52+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=105882773",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/105882773",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    },
+    {
+      "id": "FLEXIBLE",
+      "name": "Свободный"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

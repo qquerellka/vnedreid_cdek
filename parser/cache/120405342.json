@@ -1,0 +1,141 @@
+{
+  "id": "120405342",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист технической поддержки",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "улица Седова",
+    "building": "11А",
+    "lat": 59.900137,
+    "lng": 30.401954,
+    "description": null,
+    "raw": "Санкт-Петербург, улица Седова, 11А",
+    "metro": {
+      "station_name": "Елизаровская",
+      "line_name": "Невско-Василеостровская",
+      "station_id": "16.232",
+      "line_id": "16",
+      "lat": 59.89669,
+      "lng": 30.423656
+    },
+    "metro_stations": [
+      {
+        "station_name": "Елизаровская",
+        "line_name": "Невско-Василеостровская",
+        "station_id": "16.232",
+        "line_id": "16",
+        "lat": 59.89669,
+        "lng": 30.423656
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>ТелеСтор</strong> — оператор IP-телефонии и провайдер виртуальных АТС. Мы работаем в Санкт-Петербурге и Москве с 2016 года. Инфраструктура компании спроектирована и реализована очень эффективно, благодаря чему доступность услуг почти 100%. Благодаря продуманной архитектуре продукта и проработанному UX мы предоставляем одну из лучших виртуальных АТС в России. Стандарты оказания услуг для нас являются одним из самых важных аспектов в вопросах предоставления. Мы всегда показываем клиенту заинтересованность в решении его задачи и практически всегда добиваемся результата. Всё это — безупречный сервис — наша гордость, преимущество и одно из важнейших достоинств.</p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>работать с обращениями конечных клиентов и партнеров (чаты, email и телефон);</li> <li>обрабатывать вопросы, связанные с работой виртуальных АТС и телефонии;</li> <li>взаимодействовать со службами технической поддержки операторов связи;</li> <li>мониторить и контролировать функционирование узлов связи;</li> <li>разрабатывать решения по включению услуг телефонии и их внедрение;</li> <li>настраивать виртуальные АТС, IP-телефоны и VoIP-шлюзы;</li> <li>вести техническую документацию.</li> </ul> <p><strong>Мы будем рады видеть вас в команде, если вы:</strong></p> <ul> <li> <p>обладаете хорошими знаниями, даже при небольшом опыте</p> </li> </ul> <ul> <li>работали на аналогичной должности — будет плюсом</li> </ul> <ul> <li>есть желание развиваться и учиться новому</li> <li>любите общаться с клиентами и помогать им</li> <li>знаете Linux; понимаете принципы работы сетей связи, сети интернет и протоколов IP-телефонии;</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>небольшой и очень дружный коллектив, дружелюбная атмосфера</li> <li>график работы: 5/2 с 09-00 до 18-00;</li> <li>офис: м. Елизаровская, БЦ Эврика (бесплатный автобус или 15 минут пешком);</li> <li>оформление по ТК;</li> <li>перспективы роста;</li> <li>есть отсрочка от армии.</li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2530478",
+    "name": "ТЕЛЕСТОР",
+    "url": "https://api.hh.ru/employers/2530478",
+    "alternate_url": "https://hh.ru/employer/2530478",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1393314.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7193039.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7193040.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2530478",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-12T12:56:46+0300",
+  "created_at": "2025-05-12T12:56:46+0300",
+  "initial_created_at": "2025-05-12T12:56:46+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120405342",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120405342",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

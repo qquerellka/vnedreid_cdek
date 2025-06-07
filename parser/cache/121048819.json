@@ -1,0 +1,119 @@
+{
+  "id": "121048819",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "AI Engineer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": false,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p> </p> <p>Всем привет!</p> <p>Мы — <strong>AIP</strong>, занимаемся разработкой в сферах финтех, блокчейн и ml технологий.</p> <p>Сейчас мы ищем <strong>AI Engineer</strong> в наш новый проект, который запускаем с полного 0— мобильное приложение с глубокой AI-интеграцией в области <strong>travel-tech</strong>.</p> <p>Проект направлен на переосмысление пользовательского опыта в путешествиях — от планирования до взаимодействия с локацией.</p> <p> </p> <p>Мы ищем инженера, который горит работой с искусственным интеллектом и готов реализовывать продвинутые AI/ML-решения в реальном продукте с нуля — от идеи до продакшна.</p> <p> </p> <p><strong>Задачи:</strong></p> <p>- Разрабатывать и внедрять AI/ML-решения в travel-продукт с нуля</p> <p>- Работать в связке с CTO, бэкенд- и мобильными разработчиками</p> <p>- Проектировать пайплайны для инференса и обучения моделей</p> <p>- Интегрировать большие языковые модели и другие нейросетевые решения в пользовательские сценарии</p> <p>- Оптимизировать производительность AI-инфраструктуры</p> <p>- Исследовать и предлагать новые подходы к применению AI в продукте</p> <p>- Помогать формировать технический roadmap по части AI</p> <p> </p> <p><strong>Для нас важно:</strong></p> <ul> <li>Опыт в applied AI/ML и инженерии от 1,5 лет, включая продакшн-интеграцию моделей в продукты</li> <li>Понимание prompt engineering, RAG, memory, API-ориентированных пайплайнов</li> <li>Опыт работы с LangChain / LlamaIndex, базовое знание Python</li> <li>Практика быстрого прототипирования: собрать MVP, довести до работающего состояния</li> <li>Способность объяснять и документировать архитектуру и логику модели</li> <li>Понимание роли AI внутри бизнес-продукта, работа в паре с техлидом</li> <li>Самостоятельность, критичность мышления, готовность тестировать, ошибаться и улучшать</li> <li> • Умение фокусироваться на главном и двигать систему от идеи до работающей логики, не застревая</li> </ul> <p> </p> <p><strong>Условия работы:</strong></p> <ul> <li>На старте первые пару месяцев офис/гибрид</li> <li>Высокий уровень влияния на продукт</li> <li>Офис в Санкт-Петербурге (м Петроградская)</li> <li>Свобода и доверие</li> <li>Рыночная ЗП с перспективой роста</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "165",
+      "name": "Дата-сайентист"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3367342",
+    "name": "AIPeople",
+    "url": "https://api.hh.ru/employers/3367342",
+    "alternate_url": "https://hh.ru/employer/3367342",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1312982.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6872186.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6872187.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3367342",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T20:03:46+0300",
+  "created_at": "2025-06-05T20:03:46+0300",
+  "initial_created_at": "2025-05-27T20:03:46+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121048819",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121048819",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

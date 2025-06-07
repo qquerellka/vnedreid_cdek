@@ -1,0 +1,160 @@
+{
+  "id": "120833931",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Московский проспект",
+    "building": "120Ас1",
+    "lat": 59.89013,
+    "lng": 30.321501,
+    "description": null,
+    "raw": "Санкт-Петербург, Московский проспект, 120Ас1",
+    "metro": {
+      "station_name": "Московские ворота",
+      "line_name": "Московско-Петроградская",
+      "station_id": "15.221",
+      "line_id": "15",
+      "lat": 59.891788,
+      "lng": 30.317873
+    },
+    "metro_stations": [
+      {
+        "station_name": "Московские ворота",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.221",
+        "line_id": "15",
+        "lat": 59.891788,
+        "lng": 30.317873
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Уважаемые соискатели, ищем в нашу команду системного администратора.<br /><br />Чем предстоит заниматься:</strong></p> <ul> <li>Администрирование VMWare, OC Windows, Astra Linux;</li> <li>Сопровождение 1С и другого ПО (Р7 офис, КриптоПро, Bitrix24);</li> <li>Поддержка работоспособности, устранение возникающих неполадок локальной сети;</li> <li>Мониторинг работоспособности сетевого оборудования;</li> <li>Работа по событиям, инцидентам и исправлению ошибок в программном и аппаратном обеспечении;</li> <li>Диагностика, модернизация, установка, сборка/разборка ПК;</li> <li>Настройка и обслуживание офисной техники;</li> <li>Установка и настройка операционных систем и пользовательских;</li> <li>Администрирование корпоративной почты;</li> <li>Настройка мониторинга IT-инфраструктуры.</li> </ul> <p><strong>Что мы ожидаем:</strong></p> <ul> <li>Техническое образование;</li> <li>Опыт работы с инфраструктурой PKI;</li> <li>Опыт работы от 1 года;</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Дружный коллектив профессионалов;</li> <li>Удобный офис в шаговой доступности от станции метро Московские ворота;</li> <li><strong>График работы 5/2 с 10 до 18 в офисе;</strong></li> <li>Отличные условия для отдыха в течение рабочего дня: оборудованная кухня, открытая летняя терраса, тренажерный зал;</li> <li>ДМС после испытательного срока;</li> <li>Возможность обучения и сертификации сотрудников, профессионального и карьерного развития.</li> </ul> <p><strong>Мы будем рады предложить Вам присоединиться к Crafttech team!</strong></p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Настройка ПО"
+    },
+    {
+      "name": "Администрирование"
+    },
+    {
+      "name": "Настройка сетевых подключений"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "OC Windows"
+    },
+    {
+      "name": "PKI"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2524472",
+    "name": "КРАФТТЕК",
+    "url": "https://api.hh.ru/employers/2524472",
+    "alternate_url": "https://hh.ru/employer/2524472",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1343366.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6993406.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6993407.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2524472",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-21T17:31:51+0300",
+  "created_at": "2025-05-21T17:31:51+0300",
+  "initial_created_at": "2025-05-21T17:31:51+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120833931",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120833931",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

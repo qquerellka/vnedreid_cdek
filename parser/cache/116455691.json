@@ -1,0 +1,135 @@
+{
+  "id": "116455691",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Помощник системного администратора",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 50000,
+    "to": 70000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 50000,
+    "to": 70000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "проспект Шаумяна",
+    "building": "8",
+    "lat": 59.936052,
+    "lng": 30.416399,
+    "description": null,
+    "raw": "Санкт-Петербург, проспект Шаумяна, 8",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <p>Удаленное администрирование и выезды на объекты;<br />Поддержка работоспособности рабочих станций, офисного оборудования, активного сетевого оборудования, оборудования общего пользования.<br />Установка, настройка, перемещение оборудования.<br />Установка, настройка и обслуживание операционных систем, устранение проблем их функционирования.<br />Настройка и управление системами электронной почты.<br />Сборка компьютеров и их апгрейд. Поиск неисправностей на уровне узлов.<br />Чистка ПК и ноутбуков, замена термоинтерфейсов. Проведение профилактических работ на объектах.<br /><br /><strong>Требования:</strong><br />Нужно знать свое дело, быстро «щелкать» типовые задачи или учиться их решать с помощью старших системных администраторов и в приемлемые сроки находить решения для нестандартных ситуаций.<br />Ответственность. Начав дело, нужно доводить его до конца и отвечать за результат.<br />Коммуникабельность.</p> <p><strong>УМЕТЬ планировать время при выполнении задач!</strong><br /><br /><strong>Условия:</strong><br />5-дневная рабочая неделя с 9 до 18<br />Стабильно дважды в месяц выплачиваемая заработная плата, оплата «отпускных» и «больничных».<br />Оформление по ТК. Полностью оплачиваемый отпуск.<br />Офис в 10 минутах ходьбы от м. Новочеркасская.<br />Компенсация служебных расходов (транспорт, телефония).<br />И конечно – дружный молодой коллектив:)<br />Зарплата и тип работ определяется после собеседования и зависит от уровня знаний.<br />Полный рабочий день<br />На территории работодателя</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1354287",
+    "name": "Ай Ти Сервис",
+    "url": "https://api.hh.ru/employers/1354287",
+    "alternate_url": "https://hh.ru/employer/1354287",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/38713.png",
+      "90": "https://img.hhcdn.ru/employer-logo/942740.png",
+      "240": "https://img.hhcdn.ru/employer-logo/942741.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1354287",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-21T08:15:11+0300",
+  "created_at": "2025-05-21T08:15:11+0300",
+  "initial_created_at": "2025-01-28T14:03:02+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=116455691",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/116455691",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

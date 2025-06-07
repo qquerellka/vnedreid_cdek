@@ -1,0 +1,190 @@
+{
+  "id": "121094979",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Junior C# разработчик (Desktop/API/Mobile)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 100000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Лифляндская улица",
+    "building": "6к6",
+    "lat": 59.905795,
+    "lng": 30.264368,
+    "description": null,
+    "raw": "Санкт-Петербург, Лифляндская улица, 6к6",
+    "metro": {
+      "station_name": "Нарвская",
+      "line_name": "Кировско-Выборгская",
+      "station_id": "14.204",
+      "line_id": "14",
+      "lat": 59.901218,
+      "lng": 30.274908
+    },
+    "metro_stations": [
+      {
+        "station_name": "Нарвская",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.204",
+        "line_id": "14",
+        "lat": 59.901218,
+        "lng": 30.274908
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы IDENT — один из лидеров medtech-рынка России. Нашим ПО для управления стоматологическими клиниками пользуются уже более 3800 клиник (каждая 9-я стоматология страны).</p> <p>Мы специализируемся на комплексной автоматизации частных стоматологических клиник, помогая им выйти на новый уровень качества обслуживания. Наша главная цель — сделать стоматологию удобнее и эффективнее как для врачей, так и для пациентов, внедряя действительно полезные цифровые решения. А чем больше автоматизации — тем больше разработчиков нам нужно!</p> <p><strong>Что предстоит делать:</strong></p> <ul> <li> <p>Участвовать в развитии продукта IDENT: преимущественно back-end, UI — на WPF;</p> </li> <li> <p>Участвовать в развитии сервера приложений IDENT API на ASP.NET Core;</p> </li> <li> <p>Участвовать в разработке мобильного приложения IDENT.</p> </li> </ul> <p><strong>Наши ожидания:</strong></p> <ul> <li> <p>Знание C# и .NET Framework 4.8+ (особенно LINQ);</p> </li> <li> <p>Навыки работы с SQL и понимание принципов СУБД;</p> </li> <li> <p>Самостоятельность и внимательность при тестировании собственного кода;</p> </li> <li> <p>Студент последнего курса или выпускник профильного вуза.</p> </li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li> <p>Опыт работы с WPF или WinForms;</p> </li> <li> <p>Знание ORM;</p> </li> <li> <p>Навыки работы с инструментами JetBrains (ReSharper, dotTrace);</p> </li> <li> <p>Участие в коммерческих проектах на C#;</p> </li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li> <p>Участие в продуктовой разработке с приоритетом на качество, а не дедлайны;</p> </li> <li> <p>Правильную архитектуру, современный стек и работу исключительно на .NET;</p> </li> <li> <p>Поддержку и менторство со стороны более опытных коллег;</p> </li> <li> <p>Уровень зарплаты зависит от квалификации и определяется по итогам технического собеседования;</p> </li> <li> <p>Комфортный офис в Санкт-Петербурге: 8 минут от м. Нарвская / 3 минуты от ЗСД (есть парковка, окна выходят на парк Екатерингоф);</p> </li> <li> <p>Полный рабочий день (пн–пт, 8 часов), гибкий старт — до 11:00;</p> </li> <li> <p>Аккредитация как ИТ-компании: возможна отсрочка от призыва / частичной мобилизации для кандидатов с высшим образованием.</p> </li> </ul> <p><strong><em>Ключевые технологии:</em></strong><br />C#, WPF, .NET Framework, MS SQL Server, LINQ, SQL.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "C#"
+    },
+    {
+      "name": "WPF"
+    },
+    {
+      "name": ".NET Framework"
+    },
+    {
+      "name": "MS SQL Server"
+    },
+    {
+      "name": "LINQ"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "API"
+    },
+    {
+      "name": "ASP.NET"
+    },
+    {
+      "name": "ORM"
+    },
+    {
+      "name": "Разработка ПО"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2953546",
+    "name": "STOMODOMO GROUP",
+    "url": "https://api.hh.ru/employers/2953546",
+    "alternate_url": "https://hh.ru/employer/2953546",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/633151.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/2973756.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/2973757.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2953546",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-28T16:43:18+0300",
+  "created_at": "2025-05-28T16:43:18+0300",
+  "initial_created_at": "2025-05-28T16:43:18+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121094979",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121094979",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

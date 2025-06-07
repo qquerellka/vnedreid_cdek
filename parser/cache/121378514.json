@@ -1,0 +1,209 @@
+{
+  "id": "121378514",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Java-разработчик (офис на ИС, после удаленно)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 180000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 180000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "улица Вавилова",
+    "building": "23с1",
+    "lat": 55.697914,
+    "lng": 37.573034,
+    "description": null,
+    "raw": "Москва, улица Вавилова, 23с1",
+    "metro": {
+      "station_name": "Академическая",
+      "line_name": "Калужско-Рижская",
+      "station_id": "6.3",
+      "line_id": "6",
+      "lat": 55.687147,
+      "lng": 37.5723
+    },
+    "metro_stations": [
+      {
+        "station_name": "Академическая",
+        "line_name": "Калужско-Рижская",
+        "station_id": "6.3",
+        "line_id": "6",
+        "lat": 55.687147,
+        "lng": 37.5723
+      },
+      {
+        "station_name": "Ленинский проспект",
+        "line_name": "Калужско-Рижская",
+        "station_id": "6.74",
+        "line_id": "6",
+        "lat": 55.70678,
+        "lng": 37.58499
+      },
+      {
+        "station_name": "Площадь Гагарина",
+        "line_name": "МЦК",
+        "station_id": "95.534",
+        "line_id": "95",
+        "lat": 55.706944,
+        "lng": 37.585833
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Мы команда SNAP IT </strong>- представители самой технологичной и стремительно эволюционирующей индустрии IT, входим в ГК Технос, которая работает на рынке IT с 1991 года.</p> <p>Мы создаем ПО для ФинТеха. Мы верим, что роботизация бизнеса - это будущее, которое наступило уже сегодня. Топовые банки уже доверили нам самые сложные высокотехнологичные проекты.</p> <p>Приглашаем тебя в один из интересных и высокотехнологичных проектов<strong> </strong>Сбера<strong> - SberUser - команда СУДИР. Управление учётными записями.</strong> SberUser это<strong> </strong>департамент, в котором сконцентрированы сервисы для ежедневной работы 300 тысяч сотрудников банка и экосистемы.<br /><br />Целью проекта является замещение продукта с HP Service Manager — флагманский продукт Hewlett-Packard для автоматизации процессов службы поддержки и управления ИТ-услугами.</p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li> <p>backend разработка внутренних приложений на Java;</p> </li> <li> <p>решение новых бизнес-задач;</p> </li> <li> <p>рефакторинг кода, unit-тесты, проведение Code Review;</p> </li> <li> <p>ведение разработки по Agile, участие в Scrum-церемониях;</p> </li> <li> <p>решение и расследование проблемных ситуаций возникающих при эксплуатации системы.</p> </li> </ul> <p><strong>Мы с удовольствием рассмотрим твою кандидатуру, если ты имеешь:</strong></p> <ul> <li>опыт работы Java-разработчиком более <strong>2 лет</strong>;</li> <li> <p>знание Java, SQL, Spring Framework, Hibernate ORM;</p> </li> <li> <p>опыт проектирования реляционных баз данных;</p> </li> <li> <p>понимание процессов разработки и тестирования;</p> </li> <li> <p>знание архитектуры построения высоконагруженных веб приложений;</p> </li> <li> <p>опыт проектирования REST API;</p> </li> <li> <p>знание протокола SOAP;</p> </li> <li> <p>опыт использования WildFly или аналогичного ПО;</p> </li> <li> <p>знание и умение использования паттернов проектирования и разработки ПО;</p> </li> <li> <p>умение читать чужой код.</p> </li> </ul> <p><strong>Будет преимуществом, если ты имеешь:</strong></p> <ul> <li>знание Ignite, Kafka, Openshift или аналогичных решений;</li> <li>опыт использования NGINX;</li> <li>понимание процесса DevOps и используемых инструментов;</li> <li>желание делать задачи из смежных областей (Front End и DevOps);</li> <li>понимание работы CI/CD;</li> <li>опыт работы с нерялиционными СУБД;</li> <li>опыт построения микросервисной архитектуры;</li> <li>опыт удаленной работы.</li> </ul> <p><strong>Что предлагаем мы:</strong></p> <ul> <li>оформление в соответствии с ТК РФ;</li> <li><strong>формат работы: на испытательный срок - работа в офисе в Москве</strong>, после испытательного срока - удаленный формат, при условии проживания <strong>на территории РФ</strong>;</li> <li>своевременную заработную плату – выплачивается 2 раза в месяц, готовы обсуждать финальную сумму на собеседовании;</li> <li> <p>график 5/2 с 9:00 до 18:00; СБ, ВС - выходные;</p> </li> <li> <p>мы входим в список IT лицензированных аккредитованных компаний;</p> </li> <li>ДМС+стоматология после окончания испытательного срока;</li> <li>предоставление техники;</li> <li> <p>отсутствие бюрократии, прозрачность, быстрое принятие решений, а также уважение к каждому члену команды;</p> </li> <li>корпоративные активности: профессиональные митапы, изучение английского;</li> <li>поддержка в значимых событиях.</li> </ul> <ol> </ol> <p>Откликайся и стань частью команды увлеченных профессионалов!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Java"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Spring Framework"
+    },
+    {
+      "name": "Hibernate ORM"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "SOAP"
+    },
+    {
+      "name": "Apache Kafka"
+    },
+    {
+      "name": "DevOps"
+    },
+    {
+      "name": "Nginx"
+    },
+    {
+      "name": "OpenShift"
+    },
+    {
+      "name": "Unit Testing"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10842295",
+    "name": "Снэп АйТи",
+    "url": "https://api.hh.ru/employers/10842295",
+    "alternate_url": "https://hh.ru/employer/10842295",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1242735.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6591373.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6591374.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10842295",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T12:17:36+0300",
+  "created_at": "2025-06-05T12:17:36+0300",
+  "initial_created_at": "2025-06-05T12:17:36+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121378514",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121378514",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

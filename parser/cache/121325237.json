@@ -1,0 +1,135 @@
+{
+  "id": "121325237",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Менеджер чата",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "76",
+    "name": "Ростов-на-Дону",
+    "url": "https://api.hh.ru/areas/76"
+  },
+  "salary": {
+    "from": 300,
+    "to": null,
+    "currency": "USD",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 300,
+    "to": null,
+    "currency": "USD",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Казань",
+    "street": "улица Николая Ершова",
+    "building": "1А",
+    "lat": 55.7939,
+    "lng": 49.149506,
+    "description": null,
+    "raw": "Казань, улица Николая Ершова, 1А",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Мы международная Fintech компания,</strong> предоставляющая топовое платежное решение для компаний по всему миру.</p> <p>Сейчас мы ставим перед собой амбициозные цели по привлечению новых клиентов и усиляем нашу команду продаж новыми талантами.</p> <p>Если ты считаешь себя хорошим продажником и у тебя есть <strong>опыт интернет-продаж в мессенджерах </strong>- то ты тот, кто нам нужен!</p> <p><strong>Обязанности:</strong></p> <ul> <li>Общение<strong> в чатах</strong> с большим количеством потенциальных клиентов по готовой базе.</li> <li>Развитие текущей партнерской базы, выстраивание доверительных отношений.</li> <li>Структурировано везти информацию.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Инициативность и трудолюбие.</li> <li>Умение красиво, лаконично и грамотно писать.</li> <li><strong>Опыт работы с клиентами от 6 месяцев!</strong></li> <li>Способность находить общий язык с людьми и убеждать их.</li> <li>Знание английского будет преимуществом.</li> <li>Желание учиться и стремление к постоянному профессиональному росту.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Удаленный формат работы (не подработка !!).</li> <li>Зарплата привязана к доллару<strong>.Оклад 300$ + KPI.</strong></li> <li> <p>График работы 6/1 (суббота сокращенный день до 14:00).</p> </li> </ul> <p> </p> <p><strong>Кандидаты с незаполненными резюме рассматриваться не будут!!</strong></p> <ul> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "4260572",
+    "name": "Простые Решения",
+    "url": "https://api.hh.ru/employers/4260572",
+    "alternate_url": "https://hh.ru/employer/4260572",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4260572",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T10:40:11+0300",
+  "created_at": "2025-06-04T10:40:11+0300",
+  "initial_created_at": "2025-06-04T10:40:11+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121325237",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121325237",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "SIX_ON_ONE_OFF",
+      "name": "6/1"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

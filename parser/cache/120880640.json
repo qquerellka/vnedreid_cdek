@@ -1,0 +1,155 @@
+{
+  "id": "120880640",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Go (Golang) разработчик",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": null,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Привет! На связи HR-менеджер компании<strong> TouchOn:)</strong></p> <p><strong>TouchOn</strong> - разработчик системы комплексной автоматизации. Мы делаем <strong>уникальные решения</strong> в сфере систем &quot;<strong>Умный дом</strong>&quot;, разрабатываем аппаратное и программное обеспечение по комплексной автоматизации инженерных сетей.</p> <p>Мы - <strong>первый производитель в РФ</strong>, который создал готовое решение по комплексной автоматизации сетей дома, квартиры или офиса.</p> <p>Компания основана<strong> в 2018 году </strong>и сейчас находится <strong>в стадии стабильного</strong> роста. На данный момент мы в поиске крутого специалиста, который станет частью нашей дружной команды и примет участие в разработке приложения для нашего инновационного продукта.</p> <p><strong>Что мы предлагаем: </strong><br />— Самый надежный способ <strong>трудоустройства c первого дня - по ТК РФ</strong>;<br />— Работу в <strong>аккредитованной</strong> IT-компании;<br />— Всю необходимую для работы <strong>технику </strong>полностью <strong>за счёт компании</strong>;<br />— Конкурентную и <strong>полностью официальную заработную плату</strong> с периодической её индексацией;<br />— <strong>Карьерный рост</strong>: мы составим тебе индивидуальный план развития, исходя из твоих профессиональных целей и интересов;<br />—<strong> Полную оплату профильного обучения </strong>и частичную оплату непрофильных курсов;<br />— Возможность работать из любой точки мира;<br />— Плавающее начало рабочего дня.</p> <p><strong>А также у нас есть:</strong><br />— Реферальная программа: <strong>приведи</strong> к нам своего <strong>друга или </strong>нового <strong>клиента и получи денежное вознаграждение</strong> за рекомендацию;<br />— Регулярные <strong>корпоративные мероприятия</strong>. Мы ценим трудолюбие, но и понимаем важность отдыха от рабочей рутины:)</p> <p><strong>Наш стек: </strong>Golang, REST API, Websockets, MQTT, MySQL, SQLite, Docker.</p> <p><strong>Задачи для нового сотрудника в TouchOn мы видим такими: </strong><br />— Разработка функционала микросервисов;<br />— Проектирование моделей данных, работа со структурами и базами данных по оптимизации хранения и выборки информации;<br />— Проектирование, документирование API;<br />— Написание юнит-тестов;<br />— Составление документации;<br />— Взаимодействие с другими членами нашей команды, участие в обсуждении функционала приложений.</p> <p><strong>Кого мы ищем:</strong><br />— Разработчика с коммерческим опытом от 1 года;<br />— Самостоятельного, инициативного сотрудника с клёвыми идеями для реализации их нашем проекте.</p> <p><strong>Будет плюсом, если:</strong><br />— У тебя есть профильное образование или пройденные дополнительные курсы;<br />— Можешь продемонстрировать свои проекты;<br />— Интересуешься сферой автоматизации.</p> <p><em><strong>А теперь, если ты дочитал(а) до этого момента, и тебя заинтересовала наша вакансия, то самое время для отклика. Начни своё сопроводительное письмо с фразы &quot;Хочу работать в TouchOn потому, что...&quot;. Так мы поймём, что ты внимательный соискатель:)</strong></em></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Golang"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "Websockets"
+    },
+    {
+      "name": "MQTT"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "SQLite"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Backend"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3071566",
+    "name": "TouchOn",
+    "url": "https://api.hh.ru/employers/3071566",
+    "alternate_url": "https://hh.ru/employer/3071566",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1338423.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6973670.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6973671.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3071566",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-22T17:29:04+0300",
+  "created_at": "2025-05-22T17:29:04+0300",
+  "initial_created_at": "2025-05-22T17:29:04+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120880640",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120880640",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

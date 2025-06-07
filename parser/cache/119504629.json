@@ -1,0 +1,152 @@
+{
+  "id": "119504629",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Front-end (React) developer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 1400,
+    "to": 2100,
+    "currency": "EUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 1400,
+    "to": 2100,
+    "currency": "EUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <ul> <li>Разработка фронтенда проекта</li> <li>Улучшение текущего функционала и разработка новых решений</li> </ul> <p><strong>Необходимые технические навыки:</strong></p> <ul> <li>Отличные знания JavaScript, Typescript, HTML, CSS</li> <li>Опыт работы с системами сборки (используем Webpack)</li> <li>Опыт работы c React</li> <li>Опыт работы c NextJS</li> <li>Опыт работы c Tailwind</li> <li>Опыт работы с системой управления версиями (Git)</li> <li>Работать обязательно на Linux или MacOs</li> </ul> <p><strong>Необходимые социальные навыки:</strong></p> <ul> <li>Умение и желание работать в команде</li> <li>Ответственный подход к выполнению задач: работу надо не просто сделать, а сделать ее хорошо</li> <li>Умение грамотно и понятно излагать мысли</li> <li>Знание английского языка на уровне: могу вести переписку с людьми не владеющими русским. Звонки с командой разработки проходят на русском языке</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>NodeJS</li> <li>NestJS</li> <li>MongoDb</li> <li>Docker</li> <li>Написание тестов</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Удаленная работа</li> <li>Достойная заработная плата ( постоянный ежегодный рост )</li> <li>Оплачиваемый отпуск</li> <li><strong>Возмещение расходов на занятия спортом ( 50€ / месяц )​​​​​​​</strong></li> <li><strong>Возмещение расходов на занятия по изучению английского языка ( 150€ / год )</strong></li> <li><strong>​​​​​​​Ежемесячная компенсация амортизации в размере 80€ за использование личной техники в рабочих целях</strong></li> <li><strong>Ежемесячная оплата подписки нa GitHub Copilot / JetBrains AI / СhatGPT </strong></li> <li>Гибкий график начала рабочего дня</li> <li>Отсутствие бюрократии и бессмысленных процессов</li> <li>Всесторонняя поддержка в росте и развитии</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "ReactJS"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Next.js"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5201237",
+    "name": "ITACWT",
+    "url": "https://api.hh.ru/employers/5201237",
+    "alternate_url": "https://hh.ru/employer/5201237",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/816841.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3708251.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3708252.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5201237",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-14T15:24:52+0300",
+  "created_at": "2025-05-14T15:24:52+0300",
+  "initial_created_at": "2025-04-14T15:24:51+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119504629",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119504629",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b1",
+        "name": "B1 — Средний"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

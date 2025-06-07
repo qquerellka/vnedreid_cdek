@@ -1,0 +1,163 @@
+{
+  "id": "121252329",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Manual QA инженер (Платежные системы)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "улица Тимура Фрунзе",
+    "building": "24",
+    "lat": 55.735626,
+    "lng": 37.587614,
+    "description": null,
+    "raw": "Москва, улица Тимура Фрунзе, 24",
+    "metro": {
+      "station_name": "Парк культуры",
+      "line_name": "Кольцевая",
+      "station_id": "5.104",
+      "line_id": "5",
+      "lat": 55.735221,
+      "lng": 37.593095
+    },
+    "metro_stations": [
+      {
+        "station_name": "Парк культуры",
+        "line_name": "Кольцевая",
+        "station_id": "5.104",
+        "line_id": "5",
+        "lat": 55.735221,
+        "lng": 37.593095
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Эвотор </strong>создает собственные технологии и сервисы для автоматизации и повышения эффективности бизнесов. Наши продукты - это онлайн-кассы, которыми пользуется каждый четвертый предприниматель страны, и собственный магазин приложений «Эвотор.Маркет» с более чем 900 сервисами.</p> <p><strong>Задачи</strong><br />Ищем <strong>QA инженера (manual) </strong>в команду, которая разрабатывает экосистему сервисных приложений, обеспечивающих функционирование смарт-терминалов. Задачи будут лежать в области тестирования <strong>платежных систем</strong>:</p> <ul> <li>низкоуровневого слоя: взаимодействие терминалов с картами/стикерами/телефонами,</li> <li>проведение платежа на стороне терминала (UI и взаимодействие с прошивкой модуля эквайринга): создание платежа, корректность заполнения EMV тэгов, поведение UI в зависимости от EMV настроек, </li> <li>взаимодействие с процессингом: формирование запросы к ПЦ, обработка ответов при всех типах платежей,</li> <li>ТМС: обработка пушей, отправка мониторинга и отчетов, получение и обработка EMV конфигураций,</li> <li>взаимодействие с бизнес подразделениями и производством: помощь в настройке терминалов для показов и демонстраций, в предпродажной подготовке терминалов, а также решение проблем с получением сертификатов и ключей.</li> </ul> <p><strong>Для нас важно</strong></p> <ul> <li>опыт ручного тестирования от 1 года,</li> <li>знания и опыт работы в области платежных систем (от полугода): понимание, как формируется платеж, в чем различие между различными платежными системами, типами карты (Visa, MasterCard, NSPK и т.д.), </li> <li>знание протоколов: OpenWay, SmartVista, Way4, Tieto,</li> <li>знание техник тест-дизайна и умение применять их на практике,</li> <li>опыт составления чек-листов и тест-кейсов по документации от аналитика и по техническому заданию, </li> <li>опыт анализа требований с целью выявления их недостатков;</li> </ul> <p><strong>Будет плюсом</strong></p> <ul> <li>опыт в тестировании Android приложений,</li> <li>будет плюсом опыт тестирования кассового по.</li> </ul> <p> </p> <p><strong>Что предлагаем</strong></p> <ul> <li>оформление по ТК РФ, белая зарплата, уровень вознаграждения обсуждается с успешным кандидатом;</li> <li><strong>формат работы: гибрид</strong> (офис на м. Парк Культуры);</li> <li>ДМС после испытательного срока;</li> <li>работу в аккредитованной IT-компании, скидки от компаний партнеров, обучение;</li> <li>рабочая техника;</li> <li>3 day off.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "QA"
+    },
+    {
+      "name": "Payments"
+    },
+    {
+      "name": "Платежные системы"
+    },
+    {
+      "name": "Acquiring"
+    },
+    {
+      "name": "Android"
+    },
+    {
+      "name": "ADB"
+    },
+    {
+      "name": "Test case"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2425896",
+    "name": "Эвотор",
+    "url": "https://api.hh.ru/employers/2425896",
+    "alternate_url": "https://hh.ru/employer/2425896",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/575957.png",
+      "90": "https://img.hhcdn.ru/employer-logo/2745099.png",
+      "240": "https://img.hhcdn.ru/employer-logo/2745100.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2425896",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T18:20:40+0300",
+  "created_at": "2025-06-02T18:20:40+0300",
+  "initial_created_at": "2025-06-02T18:20:40+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121252329",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121252329",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,132 @@
+{
+  "id": "121375637",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "QA Engineer - Тестировщик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Мы создаём масштабируемую B2B-платформу в сфере i-gaming и спорта. Уже сегодня ей доверяют партнёры по всему миру, а наш фокус — делать продукт удобным для конечных пользователей и безопасным для бизнеса.</p> <p>Чтобы каждый фича-релиз проходил безболезненно, мы расширяем QA-команду и ищем <strong>тестировщика (Manual / Automation)</strong>, который поможет поддерживать высокое качество как клиентских, так и внутренних сервисов </p> <p><strong>Ты</strong></p> <ul> <li> <p><strong>Обладаешь опытом от 2 лет</strong> в тестировании web- или backend-систем</p> </li> <li> <p><strong>Понимаешь жизненный цикл разработки</strong> и основные методологии тестирования</p> </li> <li> <p><strong>Умеешь писать</strong> понятные тест-кейсы и чек-листы, а также баг-репорты, после которых разработчики говорят «спасибо» </p> </li> <li> <p><strong>Разбираешься в SQL</strong> и можешь самостоятельно проверять данные в базе</p> </li> <li> <p><strong>Уверенно тестируешь API</strong> — REST/gRPC (Postman, Insomnia, Swagger)</p> </li> <li> <p><strong>Готов автоматизировать тесты</strong> на Go или TypeScript + Playwright</p> </li> <li> <p><strong>Работаешь в команде</strong> и предлагаешь улучшения без страха и упрёка </p> </li> </ul> <p><strong>Будет плюсом</strong></p> <ul> <li> <p><strong>Опыт настройки тестовой инфраструктуры</strong>: тестовые стенды, заглушки, моки</p> </li> <li> <p><strong>Опыт с микросервисной архитектурой</strong> и компонентами вроде Kafka, Redis, RabbitMQ</p> </li> <li> <p><strong>Знание инструментов для нагрузочного тестирования:</strong> Locust, JMeter или k6</p> </li> <li> <p><strong>Умение читать логи и трейсы</strong> (Grafana, Sentry, Jaeger)</p> </li> <li> <p><strong>Базовое понимание безопасной разработки</strong> и common уязвимостей</p> </li> </ul> <p><strong>А ещё…</strong></p> <p>Если у тебя есть <strong>опыт или желание двигаться в сторону лидства</strong> — у нас есть пространство для роста. Мы будем рады делегировать тебе подбор и развитие QA-команды, чтобы вместе выстроить сильный отдел с инженерным подходом и упором на автоматизацию </p> <p><strong>Основные задачи</strong></p> <ul> <li> <p><strong>Анализировать требования</strong> и помогать команде оценивать объём тестирования</p> </li> <li> <p><strong>Составлять и актуализировать документацию</strong>: чек-листы, кейсы, матрицы покрытия</p> </li> <li> <p><strong>Проводить ручное тестирование</strong>: функциональное, регрессионное и интеграционное</p> </li> <li> <p><strong>Проверять интеграции</strong> между сервисами: API, кеш, очереди</p> </li> <li> <p><strong>Автоматизировать тесты и встраивать их в CI/CD</strong></p> </li> <li> <p><strong>Следить за метриками качества</strong> (Coverage, Defect Leakage, MTBF) и подсказывать, где болит</p> </li> <li> <p><strong>Взаимодействовать с разработкой</strong>: backend, frontend, DevOps — в тесной связке</p> </li> </ul> <p><strong>Мы предлагаем</strong></p> <ul> <li> <p><strong>Современный стек</strong> без legacy: Kubernetes, облачная инфраструктура, GitLab CI</p> </li> <li> <p><strong>Влияние на продукт</strong>: QA участвует в grooming’ах и влияет на требования</p> </li> <li> <p><strong>Зону роста и влияния</strong>: можно взять на себя найм, процессы, автоматизацию</p> </li> <li> <p><strong>Релокацию на Кипр</strong> и помощь с документами <strong>(или гибкий удалённый формат)</strong></p> </li> <li> <p><strong>Конкурентную зарплату</strong>, которую обсудим индивидуально</p> </li> <li> <p><strong>Прозрачные процессы</strong>: двухнедельные спринты, code review, регулярные tech talks</p> </li> </ul> <p><strong>Наш стек </strong></p> <ul> <li> <p><strong>Backend</strong>: Go, PostgreSQL, Kafka, Redis, gRPC</p> </li> <li> <p><strong>Frontend</strong>: TypeScript, React, Playwright</p> </li> <li> <p><strong>Инфраструктура</strong>: GitLab CI, Docker, Kubernetes, AWS</p> </li> <li> <p><strong>Observability</strong>: Grafana, Prometheus, Sentry, Jaeger</p> </li> <li> <p><strong>E2E тесты</strong>: Typescript, Playwright, Gitlab CI</p> </li> </ul> <p><strong>Процесс найма </strong></p> <ol> <li> <p><strong>Созвон с рекрутером</strong> (15–30 минут)</p> </li> <li> <p><strong>Техническое интервью</strong> с инженерами и тимлидом (90 минут, практические задачи + обсуждение подходов)</p> </li> <li> <p><strong>Финальная встреча</strong> с тимлидом и PO (разговор о командах, продуктах и культуре)</p> </li> <li> <p><strong>Оффер</strong> — и welcome on board </p> </li> </ol> <p><strong>Хочешь тестировать то, чем каждый день пользуются тысячи людей, и влиять на качество настоящего продукта?</strong></p> <p> Напиши нам — будем рады познакомиться! Резюме можно отправлять также в ТГ @recruiter_pasul </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2479629",
+    "name": "Букмекерская компания МЕЛБЕТ",
+    "url": "https://api.hh.ru/employers/2479629",
+    "alternate_url": "https://hh.ru/employer/2479629",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/749277.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/3438069.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3438070.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2479629",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T11:39:41+0300",
+  "created_at": "2025-06-05T11:39:41+0300",
+  "initial_created_at": "2025-06-05T11:39:41+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121375637",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121375637",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "a1",
+        "name": "A1 — Начальный"
+      }
+    },
+    {
+      "id": "rus",
+      "name": "Русский",
+      "level": {
+        "id": "c2",
+        "name": "C2 — В совершенстве"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

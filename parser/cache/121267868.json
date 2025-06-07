@@ -1,0 +1,156 @@
+{
+  "id": "121267868",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист по тестированию на проникновение (junior +) / Инженер Red Team (junior +)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 60000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 60000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Заневский проспект",
+    "building": "30 к2",
+    "lat": 59.931959,
+    "lng": 30.420666,
+    "description": null,
+    "raw": "Санкт-Петербург, Заневский проспект, 30 к2",
+    "metro": {
+      "station_name": "Новочеркасская",
+      "line_name": "Лахтинско-Правобережная",
+      "station_id": "17.241",
+      "line_id": "17",
+      "lat": 59.929092,
+      "lng": 30.411915
+    },
+    "metro_stations": [
+      {
+        "station_name": "Новочеркасская",
+        "line_name": "Лахтинско-Правобережная",
+        "station_id": "17.241",
+        "line_id": "17",
+        "lat": 59.929092,
+        "lng": 30.411915
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Что предстоит делать:</strong></p> <ul> <li>Проводить проекты по тестированию на проникновение внешнего периметра</li> <li>Автоматизировать работы по проведению тестирования на проникновение</li> <li>Участвовать в написании отчётов и составлении рекомендаций</li> <li>Участие в развитии внутренних методологий</li> <li>Проведение разведки по открытым источникам (OSINT)</li> </ul> <p> </p> <p><strong>Что мы ожидаем:</strong></p> <ul> <li>Понимание сетей, модели OSI, знание базовых сетевых протоколов (HTTP, DNS, FTP, SSH)</li> <li>Умение пользоваться терминалом Linux</li> <li>Знание OWASP Top 10</li> <li>Навык использования основных инструментов пентестера (Burp, dirsearch/gobuster, Nmap и прочие)</li> <li>Умение тестирования веб-приложений и сетевых сервисов</li> <li>Знание английского языка на уровне чтения технической документации</li> <li>Базовые навыки программирования</li> <li>Желание учиться новому</li> </ul> <p> </p> <p><strong>Будет плюсом:</strong></p> <ul> <li>Понимание Active Directory</li> <li>Опыт тестирования внутренних сетей</li> <li>Участие в CTF и BugBounty</li> <li>Опыт работы специалистом по тестированию на проникновение</li> <li>Опыт работы разработчиком веб-приложений или системным администратором</li> <li>Опыт написания собственных инструментов</li> </ul> <p> </p> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Участие в различных соревнованиях от имени компании</li> <li>Возможность участия в конференциях и написании статей</li> <li>Широкие возможности для профессионального обучения и развития за счет компании;</li> <li>Интересные и нестандартные задачи;</li> <li>Просторный современный офис со своей парковкой и классной зоной отдыха (кикер, настольный теннис, аэрохоккей, массажное кресло, библиотека, обеденная зона).</li> </ul>",
+  "branded_description": "\n<style>/*08.10.2024-hh-team-007*/\n.hht-vacancydescription {\n  padding: 0;\n}\n\n.tmpl_hh_wrapper {\n  position: relative;\n  z-index: 1;\n  overflow: hidden;\n  width: 100%;\n  max-width: 690px;\n  margin: 0 auto;\n  font-weight: 400;\n  font-size: 16px;\n  font-family: Arial, sans-serif;\n  line-height: 22px;\n  letter-spacing: 0.01em;\n  word-break: normal;\n}\n\n@media (max-width: 1019px) {\n  .tmpl_hh_wrapper {\n    max-width: 610px;\n  }\n}\n\n.tmpl_hh_wrapper p, .tmpl_hh_wrapper h1, .tmpl_hh_wrapper h2, .tmpl_hh_wrapper h3, .tmpl_hh_wrapper h4, .tmpl_hh_wrapper h5, .tmpl_hh_wrapper h6, .tmpl_hh_wrapper a, .tmpl_hh_wrapper img, .tmpl_hh_wrapper ol, .tmpl_hh_wrapper ul, .tmpl_hh_wrapper li {\n  vertical-align: baseline;\n  margin: 0;\n  padding: 0;\n  border: 0;\n  font-weight: inherit;\n  font-size: inherit;\n}\n\n.tmpl_hh_wrapper ul {\n  list-style: none;\n}\n\n.tmpl_hh_wrapper a {\n  text-decoration: none;\n}\n\n.tmpl_hh_wrapper a:hover {\n  color: inherit;\n}\n\n.tmpl_hh_wrapper img {\n  display: block;\n}\n\n.tmpl_hh_wrapper button {\n  display: block;\n  padding: 0;\n  border: none;\n  background-color: transparent;\n  outline: none;\n  cursor: pointer;\n}\n\n.tmpl_hh_wrapper button svg {\n  cursor: pointer;\n}\n\n.tmpl_hh_wrapper .l-cell, .tmpl_hh_wrapper .l-paddings {\n  padding: 0 !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n  margin-top: 0 !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n  overflow: visible !important;\n  line-height: inherit;\n}\n\n.tmpl_hh_content ol li b, .tmpl_hh_content ol li strong, .tmpl_hh_content ol li p b, .tmpl_hh_content ol li p strong, .tmpl_hh_content ul li b, .tmpl_hh_content ul li strong, .tmpl_hh_content ul li p b, .tmpl_hh_content ul li p strong {\n  margin: 0 !important;\n  color: inherit !important;\n  font-size: inherit !important;\n  line-height: inherit;\n  text-transform: none;\n}\n\n.tmpl_hh_content ol li p, .tmpl_hh_content ul li p {\n  margin: 0;\n  font-weight: normal;\n}\n\n.tmpl_hh_content p {\n  margin-bottom: 16px;\n}\n\n.tmpl_hh_content p b, .tmpl_hh_content p strong {\n  display: inline;\n  margin: 0;\n}\n\n.tmpl_hh_content ol, .tmpl_hh_content ul {\n  margin-bottom: 32px;\n  margin-left: 18px;\n  list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n  counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n  position: relative;\n  margin-bottom: 8px;\n  font-size: 16px;\n}\n\n.tmpl_hh_content li:last-child {\n  margin-bottom: 0;\n}\n\n.tmpl_hh_content ul ul, .tmpl_hh_content ul ol, .tmpl_hh_content ol ol, .tmpl_hh_content ol ul {\n  margin-top: 5px;\n}\n\n.tmpl_hh_content ol > li {\n  counter-increment: list_counter;\n}\n\n.tmpl_hh_content ul > li::before {\n  content: \"\";\n  position: absolute;\n  top: 9px;\n  left: -18px;\n  width: 5px;\n  height: 5px;\n  border-radius: 100%;\n  background-color: #000;\n}\n\n.tmpl_hh_content ol > li::before {\n  content: counter(list_counter) \".\";\n  right: 100%;\n  left: auto;\n  margin-right: 2px;\n}\n\n.tmpl_hh_content :last-child {\n  margin-bottom: 0;\n}\n\n.tmpl_hh_wrapper {\n  box-sizing: border-box;\n  color: #000;\n  font-size: 18px;\n  line-height: 120%;\n}\n\n.tmpl_hh_wrapper .tmpl_hh_designation {\n  color: #b5b5b5;\n  font-size: 14px;\n  line-height: 120%;\n}\n\n.tmpl_hh_wrapper .tmpl_hh_box {\n  /* @include box-horisontal(px); */\n  padding-right: 40px;\n  padding-left: 40px;\n  /* @include box-vertical(px); */\n  padding-top: 60px;\n  padding-bottom: 60px;\n}\n\n@media (max-width: 1019px) {\n  .tmpl_hh_wrapper .tmpl_hh_box {\n    /* @include box-horisontal(px); */\n    padding-right: 20px;\n    padding-left: 20px;\n    /* @include box-vertical(px); */\n    padding-top: 40px;\n    padding-bottom: 40px;\n  }\n}\n\n.tmpl_hh_wrapper .tmpl_hh_box.tmpl_hh_about {\n  padding-top: 0;\n}\n\n.tmpl_hh_wrapper .tmpl_hh_box-t {\n  padding-top: 0;\n}\n\n.tmpl_hh_wrapper .tmpl_hh_box-b {\n  padding-bottom: 0;\n}\n\n.tmpl_hh_flex {\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n}\n\n.tmpl_hh_header__top {\n  display: flex;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_header__top {\n    flex-direction: column;\n  }\n}\n\n.tmpl_hh_header__banner {\n  width: 100%;\n  height: 312px;\n  background: url(\"https://hhcdn.ru/ichameleon/394322.jpg\") center/cover no-repeat;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_header__banner {\n    order: 2;\n    height: 220px;\n  }\n}\n\n.tmpl_hh_header__text {\n  position: relative;\n  flex-shrink: 0;\n  box-sizing: border-box;\n  width: 290px;\n  padding: 20px 20px 50px;\n  background-color: #e5eaf0;\n  text-align: center;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_header__text {\n    order: 1;\n    width: auto;\n  }\n}\n\n.tmpl_hh_header__text img {\n  width: 55px;\n  height: 80px;\n  margin: 0 auto 25px;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_header__text img {\n    margin: 0 auto 10px;\n  }\n}\n\n.tmpl_hh_header__text h3 {\n  color: rgba(0, 0, 0, 0.7);\n  font-weight: 700;\n  font-size: 30px;\n  line-height: normal;\n}\n\n.tmpl_hh_header__text p {\n  position: absolute;\n  right: 0;\n  bottom: 0;\n  padding: 8px 10px;\n  background-color: #d81d45;\n  color: white;\n  font-weight: 700;\n  font-size: 12px;\n  line-height: normal;\n}\n\n.tmpl_hh_header__bottom {\n  display: grid;\n  grid-template-columns: repeat(4, 1fr);\n  gap: 20px;\n  padding: 30px 40px;\n  border-bottom: 8px solid #e5eaf0;\n  box-shadow: 1px 6px 8.8px 0 rgba(0, 0, 0, 0.05);\n}\n\n@media (max-width: 1019px) {\n  .tmpl_hh_header__bottom {\n    padding: 30px 20px;\n  }\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_header__bottom {\n    grid-template-columns: repeat(2, 1fr);\n    padding: 20px;\n  }\n}\n\n.tmpl_hh_header__value p {\n  font-size: 20px;\n  text-align: center;\n}\n\n.tmpl_hh_header__value img {\n  margin: 0 auto;\n}\n\n.tmpl_hh_content h2, .tmpl_hh_content p.tmpl_hh_content_title, .tmpl_hh_content b.tmpl_hh_content_title, .tmpl_hh_content strong.tmpl_hh_content_title {\n  margin-bottom: 10px;\n  font-weight: 700;\n  font-style: normal;\n  font-size: 20px;\n  line-height: 110%;\n  text-transform: uppercase;\n  color: #1373b9;\n}\n\n.tmpl_hh_content h2, .tmpl_hh_content p.tmpl_hh_content_title > b, .tmpl_hh_content p.tmpl_hh_content_title > strong {\n  font-weight: 700;\n  font-style: normal;\n  font-size: 18px;\n  line-height: 110%;\n  text-transform: uppercase;\n  color: #1373b9;\n}\n\n.tmpl_hh_content p, .tmpl_hh_content div {\n  font-weight: 400;\n  font-style: normal;\n  font-size: 15px;\n  line-height: 145%;\n}\n\n.tmpl_hh_content ul:not(:last-child) {\n  margin-bottom: 20px;\n}\n\n.tmpl_hh_content ul:last-child {\n  margin-bottom: 0;\n}\n\n.tmpl_hh_content ul li {\n  font-weight: 400;\n  font-style: normal;\n  font-size: 15px;\n  line-height: 145%;\n}\n\n.tmpl_hh_content ul li:not(:last-of-type) {\n  margin-bottom: 5px;\n}\n\n.tmpl_hh_content ul li::before {\n     content: '–';\n    width: 0;\n    height: 0;\n    color:  #1373b9;\n    font-size: 16px;\n    line-height: 110%;\n    top: 2px;\n}\n\n@media (max-width: 1019px) {\n  .tmpl_hh_about {\n    padding: 40px 20px;\n  }\n}\n\n.tmpl_hh_about__wrap-1 {\n  display: grid;\n  grid-template-columns: 200px auto;\n  gap: 20px;\n}\n\n@media (max-width: 1019px) {\n  .tmpl_hh_about__wrap-1 {\n    gap: 15px;\n  }\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_about__wrap-1 {\n    display: block;\n  }\n}\n\n.tmpl_hh_about__group:not(:last-child) {\n  margin-bottom: 20px;\n}\n\n@media (max-width: 1019px) {\n  .tmpl_hh_about__group:not(:last-child) {\n    margin-bottom: 15px;\n  }\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_about__group:not(:last-child) {\n    margin-bottom: 20px;\n  }\n}\n\n.tmpl_hh_about__group-1 {\n  margin-bottom: 20px;\n}\n\n@media (max-width: 1019px) {\n  .tmpl_hh_about__group-1 .tmpl_hh_about__item {\n    padding-bottom: 30px;\n  }\n}\n\n@media (max-width: 1019px) {\n  .tmpl_hh_about__group-1 {\n    margin-bottom: 15px;\n  }\n}\n\n.tmpl_hh_about__group-1 .tmpl_hh_about__logo {\n  margin-bottom: 20px;\n}\n\n@media (max-width: 1019px) {\n  .tmpl_hh_about__group-1 {\n    margin-bottom: 15px;\n  }\n}\n\n.tmpl_hh_about__group-1 .tmpl_hh_about__item--mobile {\n  display: none;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_about__group-1 .tmpl_hh_about__item--mobile {\n    display: block;\n    margin-bottom: 20px;\n  }\n}\n\n.tmpl_hh_about__group-2 {\n  margin-bottom: 20px;\n}\n\n@media (max-width: 1019px) {\n  .tmpl_hh_about__group-2 {\n    margin-bottom: 15px;\n  }\n}\n\n.tmpl_hh_about__group-2 .tmpl_hh_about__item:first-of-type {\n  margin-bottom: 20px;\n}\n\n@media (max-width: 1019px) {\n  .tmpl_hh_about__group-2 .tmpl_hh_about__item:first-of-type {\n    margin-bottom: 15px;\n  }\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_about__group-2 .tmpl_hh_about__item:first-of-type {\n    display: none;\n  }\n}\n\n.tmpl_hh_about__group-2 .tmpl_hh_about__item:last-of-type {\n  top: -2px;\n  width: 170px;\n}\n\n@media (max-width: 1019px) {\n  .tmpl_hh_about__group-2 .tmpl_hh_about__item:last-of-type {\n    top: 0;\n    width: 165px;\n    min-height: 148px;\n  }\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_about__group-2 .tmpl_hh_about__item:last-of-type {\n    display: none;\n    min-height: auto;\n  }\n}\n\n.tmpl_hh_about__group-3 {\n  display: flex;\n  gap: 20px;\n  margin-top: -178px;\n}\n\n@media (max-width: 1019px) {\n  .tmpl_hh_about__group-3 {\n    gap: 15px;\n    margin-top: -164px;\n  }\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_about__group-3 {\n    display: block;\n    margin: 0;\n  }\n}\n\n.tmpl_hh_about__group-3 .tmpl_hh_about__item:first-of-type {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_about__group-3 .tmpl_hh_about__item:first-of-type {\n    display: none;\n  }\n}\n\n.tmpl_hh_about__group-3 .tmpl_hh_about__item:nth-child(2) {\n  padding-bottom: 40px;\n}\n\n@media (max-width: 1019px) {\n  .tmpl_hh_about__group-3 .tmpl_hh_about__item:nth-child(2) {\n    padding-bottom: 20px;\n  }\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_about__group-3 .tmpl_hh_about__item:nth-child(2) {\n    width: 100%;\n    margin-top: 0;\n    margin-bottom: 20px;\n  }\n}\n\n.tmpl_hh_about__group-3 .tmpl_hh_about__item--mobile {\n  display: none;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_about__group-3 .tmpl_hh_about__item--mobile {\n    display: block;\n    margin-bottom: 20px;\n  }\n}\n\n.tmpl_hh_about__group-4 {\n  display: flex;\n  gap: 30px;\n  justify-content: space-between;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_about__group-4 {\n    flex-wrap: wrap;\n    gap: 20px;\n  }\n}\n\n@media (max-width: 413px) {\n  .tmpl_hh_about__group-4 .tmpl_hh_about__logo {\n    margin: 0 auto;\n  }\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_about__group-4 .tmpl_hh_about__logo img {\n    height: 84px;\n  }\n}\n\n.tmpl_hh_about__group-4 .tmpl_hh_about__item--mobile {\n  display: none;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_about__group-4 .tmpl_hh_about__item--mobile {\n    display: flex;\n    flex-grow: 1;\n    justify-content: center;\n    align-items: center;\n  }\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_about__group {\n    width: 100%;\n  }\n}\n\n.tmpl_hh_about__item {\n  position: relative;\n  box-sizing: border-box;\n  height: fit-content;\n  padding: 20px;\n  border: 1px solid transparent;\n  border-radius: 10px;\n  border-image-slice: 1;\n  background-color: #fff;\n  background-clip: padding-box;\n}\n\n@media (max-width: 1019px) {\n  .tmpl_hh_about__item {\n    padding: 15px;\n  }\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_about__item {\n    padding: 20px;\n  }\n}\n\n.tmpl_hh_about__item_4 {\n  max-width: 170px;\n}\n\n.tmpl_hh_about__item_5 {\n  align-self: flex-end;\n  padding: 20px 98px;\n}\n\n.tmpl_hh_about__item::before {\n  content: \"\";\n  position: absolute;\n  inset: 0;\n  z-index: -1;\n  margin: -1px;\n  border-radius: inherit;\n  background: linear-gradient(150deg, #d81d45 0%, #1373b9 100%);\n}\n\n.tmpl_hh_about__item p {\n  margin-bottom: 10px;\n  color: rgba(0, 0, 0, 0.7);\n  font-weight: 400;\n  font-size: 12px;\n  line-height: normal;\n}\n\n.tmpl_hh_about__item p:last-of-type {\n  margin-bottom: 0;\n}\n\n.tmpl_hh_about__item p.tmpl_hh_about__title {\n  margin-bottom: 20px;\n  color: rgba(0, 0, 0, 0.7);\n  font-weight: 700;\n  font-size: 20px;\n  line-height: 110%;\n}\n\n@media (max-width: 1019px) {\n  .tmpl_hh_about__item p.tmpl_hh_about__title {\n    font-size: 18px;\n  }\n}\n\n.tmpl_hh_about__item .tmpl_hh_about__text-wrap {\n  display: grid;\n  grid-template-columns: 1fr 1fr;\n  column-gap: 20px;\n}\n\n@media (max-width: 340px) {\n  .tmpl_hh_about__item .tmpl_hh_about__text-wrap {\n    grid-template-columns: 1fr;\n  }\n}\n</style>\n<div>\n    <div class=\"tmpl_hh_wrapper\">\n      <header class=\"tmpl_hh_header\">\n        <div class=\"tmpl_hh_header__top\">\n          <div class=\"tmpl_hh_header__banner\"></div>\n          <div class=\"tmpl_hh_header__text\">\n            <img src=\"https://hhcdn.ru/ichameleon/394597.png\" alt=\"\">\n            <h3>Превращаем работу в удовольствие</h3>\n            <p>Аккредитованная IT компания</p>\n          </div>\n        </div>\n        <div class=\"tmpl_hh_header__bottom\">\n          <div class=\"tmpl_hh_header__value\">\n            <img src=\"https://hhcdn.ru/ichameleon/392378.svg\" alt=\"30+\">\n            <p>лет<br>в бизнесе</p>\n          </div>\n          <div class=\"tmpl_hh_header__value\">\n            <img src=\"https://hhcdn.ru/ichameleon/392379.svg\" alt=\"32000+\">\n            <p>довольных клиентов</p>\n          </div>\n          <div class=\"tmpl_hh_header__value\">\n            <img src=\"https://hhcdn.ru/ichameleon/392377.svg\" alt=\"14+\">\n            <p>проектных команд</p>\n          </div>\n          <div class=\"tmpl_hh_header__value\">\n            <img src=\"https://hhcdn.ru/ichameleon/392380.svg\" alt=\"10+\">\n            <p>собственных продуктов</p>\n          </div>\n        </div>\n      </header>\n      <main class=\"tmpl_hh_content tmpl_hh_box\">\n        <p><strong>Что предстоит делать:</strong></p> <ul> <li>Проводить проекты по тестированию на проникновение внешнего периметра</li> <li>Автоматизировать работы по проведению тестирования на проникновение</li> <li>Участвовать в написании отчётов и составлении рекомендаций</li> <li>Участие в развитии внутренних методологий</li> <li>Проведение разведки по открытым источникам (OSINT)</li> </ul> <p> </p> <p><strong>Что мы ожидаем:</strong></p> <ul> <li>Понимание сетей, модели OSI, знание базовых сетевых протоколов (HTTP, DNS, FTP, SSH)</li> <li>Умение пользоваться терминалом Linux</li> <li>Знание OWASP Top 10</li> <li>Навык использования основных инструментов пентестера (Burp, dirsearch/gobuster, Nmap и прочие)</li> <li>Умение тестирования веб-приложений и сетевых сервисов</li> <li>Знание английского языка на уровне чтения технической документации</li> <li>Базовые навыки программирования</li> <li>Желание учиться новому</li> </ul> <p> </p> <p><strong>Будет плюсом:</strong></p> <ul> <li>Понимание Active Directory</li> <li>Опыт тестирования внутренних сетей</li> <li>Участие в CTF и BugBounty</li> <li>Опыт работы специалистом по тестированию на проникновение</li> <li>Опыт работы разработчиком веб-приложений или системным администратором</li> <li>Опыт написания собственных инструментов</li> </ul> <p> </p> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Участие в различных соревнованиях от имени компании</li> <li>Возможность участия в конференциях и написании статей</li> <li>Широкие возможности для профессионального обучения и развития за счет компании;</li> <li>Интересные и нестандартные задачи;</li> <li>Просторный современный офис со своей парковкой и классной зоной отдыха (кикер, настольный теннис, аэрохоккей, массажное кресло, библиотека, обеденная зона).</li> </ul></main>\n      <section class=\"tmpl_hh_about tmpl_hh_box\">\n        <div class=\"tmpl_hh_about__wrap-1\">\n          <div class=\"tmpl_hh_about__group tmpl_hh_about__group-1\">\n            <div class=\"tmpl_hh_about__logo tmpl_hh_flex\">\n              <img src=\"https://hhcdn.ru/ichameleon/392374.svg\" alt=\"СофтБаланс\">\n            </div>\n            <div class=\"tmpl_hh_about__item tmpl_hh_about__item_1 tmpl_hh_about__item--mobile\">\n              <p class=\"tmpl_hh_about__title\">Ценим в работе</p>\n              <p>Открытость — у нас нет «закрытых» тем и информации</p>\n              <p>Свободу — у нас нет жесткой иерархии и бюрократии</p>\n              <p>Возможности — быть услышанным и реализовать свои идеи</p>\n            </div>\n            <div class=\"tmpl_hh_about__item tmpl_hh_about__item_2\">\n              <p class=\"tmpl_hh_about__title\">Растем и развиваемся каждый день</p>\n              <p>Обучение за счет компании</p>\n              <p>Менеджер по обучению и программа наставничества</p>\n              <p>Проводим, выступаем и посещаем конференции</p>\n              <p>Составим твой карьерный трек вместе</p>\n            </div>\n          </div>\n\n          <div class=\"tmpl_hh_about__group tmpl_hh_about__group-2\">\n            <div class=\"tmpl_hh_about__item tmpl_hh_about__item_3\">\n              <p class=\"tmpl_hh_about__title\">Ценим в работе</p>\n              <p>Открытость — у нас нет «закрытых» тем и информации</p>\n              <p>Свободу — у нас нет жесткой иерархии и бюрократии</p>\n              <p>Возможности — быть услышанным и реализовать свои идеи</p>\n            </div>\n            <div class=\"tmpl_hh_about__item tmpl_hh_about__item_4\">\n              <p class=\"tmpl_hh_about__title\">С любовью к людям</p>\n              <p>ДМС и Дни донора</p>\n              <p>Эко-проекты и благотворительность</p>\n            </div>\n          </div>\n        </div>\n        <div class=\"tmpl_hh_about__group tmpl_hh_about__group-3\">\n          <div class=\"tmpl_hh_about__item tmpl_hh_about__item_5\">\n            <img src=\"https://hhcdn.ru/ichameleon/392375.svg\" alt=\"\">\n          </div>\n          <div class=\"tmpl_hh_about__item tmpl_hh_about__item_6\">\n            <p class=\"tmpl_hh_about__title\">В СофтБаланс тебя ждет</p>\n            <p>Работа с крупными клиентами и проектами</p>\n            <p>Обмен опытом в команде экспертов</p>\n            <p>Современные практики и технологии</p>\n            <p>Задачи, которые бросают вызов</p>\n          </div>\n          <div class=\"tmpl_hh_about__item tmpl_hh_about__item_7 tmpl_hh_about__item--mobile\">\n            <p class=\"tmpl_hh_about__title\">С любовью к людям</p>\n            <p>ДМС и Дни донора</p>\n            <p>Эко-проекты и благотворительность</p>\n          </div>\n        </div>\n        <div class=\"tmpl_hh_about__group tmpl_hh_about__group-4\">\n          <div class=\"tmpl_hh_about__item tmpl_hh_about__item_8\">\n            <p class=\"tmpl_hh_about__title\">Хорошо работаем и еще лучше отдыхаем!</p>\n            <div class=\"tmpl_hh_about__text-wrap\">\n              <p>Праздники — профессиональные, календарные, для детей или просто без повода</p>\n              <p>Клубы на любой вкус — профессиональные, по интересам, спортивные команды</p>\n              <p>Дни здоровья, тимбилдинги и выезды на природу</p>\n              <p>Корпоративные скидки — обучение, фитнес, иностранные языки и многое другое</p>\n              <p>Йога, спортивные турниры и мероприятия</p>\n            </div>\n          </div>\n          <div class=\"tmpl_hh_about__item tmpl_hh_about__item_9 tmpl_hh_about__item--mobile\">\n            <img src=\"https://hhcdn.ru/ichameleon/392375.svg\" alt=\"\">\n          </div>\n          <div class=\"tmpl_hh_about__logo tmpl_hh_flex\">\n            <img src=\"https://hhcdn.ru/ichameleon/392376.svg\" alt=\"СофтБаланс\">\n          </div>\n        </div>\n      </section>\n    </div>\n  </div>\n<script>\n//\n\n\nconst main = \"\";\nconst customTitle = () => {\n  const allUl = document.querySelectorAll(\".tmpl_hh_content ul\");\n  allUl.forEach((ul, i) => {\n    const ulTitle = ul.previousElementSibling;\n    if (ulTitle) {\n      ulTitle.classList.add(\"tmpl_hh_content_title\");\n      if (i === 0) {\n        ul.previousElementSibling.classList.add(\"tmpl_hh_content_title--first\");\n      }\n    }\n  });\n};\ndocument.addEventListener(\"DOMContentLoaded\", () => {\n  try {\n    customTitle();\n  } catch (error) {\n    console.log(error);\n  }\n});\n\n\n//\n</script>\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "116",
+      "name": "Специалист по информационной безопасности"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "343",
+    "name": "СофтБаланс",
+    "url": "https://api.hh.ru/employers/343",
+    "alternate_url": "https://hh.ru/employer/343",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1038930.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/5776476.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/5776477.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=343",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T10:03:27+0300",
+  "created_at": "2025-06-03T10:03:27+0300",
+  "initial_created_at": "2025-06-03T10:03:27+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121267868",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121267868",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

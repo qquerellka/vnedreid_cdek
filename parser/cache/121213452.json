@@ -1,0 +1,175 @@
+{
+  "id": "121213452",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист по системному администрированию",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "53",
+    "name": "Краснодар",
+    "url": "https://api.hh.ru/areas/53"
+  },
+  "salary": {
+    "from": null,
+    "to": 101433,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": null,
+    "to": 101433,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Краснодар",
+    "street": "Центральный округ, микрорайон Черёмушки, Ставропольская улица",
+    "building": "2",
+    "lat": 45.012134,
+    "lng": 38.981089,
+    "description": null,
+    "raw": "Краснодар, Центральный округ, микрорайон Черёмушки, Ставропольская улица, 2",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>Конфигурация, настройка и администрирование серверов, администрирования UNIX и Win* систем, администрирования MS SQL, администрирование виртуализации, администрирование Kaspersky Security Center; администрирование Usergate, администрирование доменной службы Active Directory, администрирование почтовой системы, администрирование мониторинга Zabbix.</li> <li>Поддержка локальной (LAN), глобальной (WAN) и телефонной сетей.</li> <li>Инсталляция, настройка, обновление операционной системы, прочего программного обеспечения (включая антивирусное).</li> <li>Резервное копирование и восстановление данных.</li> <li>Обеспечение информационной безопасности системы.</li> <li>Ведение технической документации.</li> <li>Консультирование пользователей.</li> <li>Обеспечение информационной безопасности системы.</li> </ul> <strong>Требования:</strong> <ul> <li>Высшее образование</li> </ul> <p><strong>Должен знать:</strong></p> <ul> <li>Основы информатики, высшей математики;</li> <li>Пользования оргтехникой и ПК на уровне администратора;</li> <li>Принципы управления локальными и сетевыми ресурсами, методы организации файловых систем;</li> <li>Принципы построения сетевого взаимодействия;</li> <li>Аппаратное обеспечение серверов и систем хранения данных;</li> <li>Принципы построения IP сетей;</li> <li>Принципы работы сетевого программного обеспечения;</li> <li>Администрировать сервера и системы виртуализации;</li> <li>Администрировать почтовый сервер;</li> <li>Администрировать межсетевой экран;</li> <li>Администрирование систем информационной безопасности.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Удобный график работы: 5/2 с 08-00 до 17-00 (пятница до 16-00).</li> <li>Оформление в соответствии с ТК РФ с первого рабочего дня;</li> <li>Официальная, стабильная заработная плата;</li> <li>Ежегодный оплачиваемый отпуск 28 календарных дней;</li> <li>Социальное страхование в порядке и на условиях, установленных действующим законодательством РФ;</li> <li>Бронирование;</li> <li>Хороший дружный коллектив;</li> <li>Транспортная доступность.</li> </ul> <p><strong>Заинтересовала вакансия и условия работы? Звоните прямо сейчас, чтобы обсудить детали либо напишите в чат и мы Вам перезвоним.</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Работа с большим объемом информации"
+    },
+    {
+      "name": "Техническая поддержка"
+    },
+    {
+      "name": "Настройка сетевых подключений"
+    },
+    {
+      "name": "Офисная техника"
+    },
+    {
+      "name": "Настройка ПК"
+    },
+    {
+      "name": "Администрирование сетевого оборудования"
+    },
+    {
+      "name": "Администрирование серверов Windows"
+    },
+    {
+      "name": "Информационные технологии"
+    },
+    {
+      "name": "Информационная безопасность"
+    },
+    {
+      "name": "Обеспечение антивирусной защиты"
+    },
+    {
+      "name": "Тестирование безопасности"
+    },
+    {
+      "name": "Защита персональных данных"
+    },
+    {
+      "name": "Настройка почтовых серверов"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "114",
+      "name": "Системный инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4595709",
+    "name": "Краснодартеплосеть",
+    "url": "https://api.hh.ru/employers/4595709",
+    "alternate_url": "https://hh.ru/employer/4595709",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1137227.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6169493.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6169494.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4595709",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T11:19:06+0300",
+  "created_at": "2025-06-02T11:19:06+0300",
+  "initial_created_at": "2025-06-02T11:19:06+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121213452",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121213452",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

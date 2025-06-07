@@ -1,0 +1,125 @@
+{
+  "id": "121374773",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист Битрикс24 (г. Казань)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Казань",
+    "street": null,
+    "building": null,
+    "lat": 55.81551112693094,
+    "lng": 49.140917936766385,
+    "description": null,
+    "raw": "Казань",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "part",
+    "name": "Частичная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>настройка и доработка Битрикс24 / amoCRM</li> <li>настройка и разработка интеграций для Битрикс24 / amoCRM</li> <li>сопровождение и поддержка порталов Битрикс24​​​​​​</li> </ul> <strong>Условия:</strong> <ul> <li>гибридный график (первое время в офисе, далее удаленный формат)</li> <li>оплата почасовая</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "155",
+      "name": "Методолог"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "6001650",
+    "name": "РИДА",
+    "url": "https://api.hh.ru/employers/6001650",
+    "alternate_url": "https://hh.ru/employer/6001650",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1174240.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6317386.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6317387.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6001650",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T11:26:28+0300",
+  "created_at": "2025-06-05T11:26:28+0300",
+  "initial_created_at": "2025-06-05T11:26:28+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121374773",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121374773",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "PART",
+    "name": "Частичная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "OTHER",
+      "name": "Другое"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

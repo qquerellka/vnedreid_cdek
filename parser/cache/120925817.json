@@ -1,0 +1,170 @@
+{
+  "id": "120925817",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Программист 1С/Начинающий специалист",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 45000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 45000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "улица Красного Курсанта",
+    "building": "16",
+    "lat": 59.9574538956792,
+    "lng": 30.286235154769273,
+    "description": null,
+    "raw": "Санкт-Петербург, улица Красного Курсанта, 16",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>Разработка новых подсистем и усовершенствование существующих нетиповых механизмов на платформе 1С: Предприятие 8.3.</li> <li>Разработка и доработка отчетов, обработок и печатных форм.</li> <li>Администрирование программ 1С.</li> </ul> <strong>Требования:</strong> <ul> <li>Желательно Высшее образование, но рассматриваются и другое образование.</li> <li>Понимание архитектуры платформы 1С:Предприятие 8.</li> <li>Знание языка запросов 1С.</li> <li>Знание синтаксиса языка 1С.</li> <li>Желание работать и развиваться.</li> </ul> <strong>Условия:</strong> <ul> <li>Посещение спортзала.</li> <li>Оформление по ТК РФ (полностью белая заработная плата, оплачиваемый отпуск, больничный).</li> <li>График работы Пн-Пт с 8.30 до 17.30 (1 час обед).</li> <li>Дружная профессиональная команда.</li> <li>Программа профессионального развития сотрудников.</li> <li>Станция м. Спортивная, м. Чкаловская.</li> <li>На территории работодателя.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "1С программирование"
+    },
+    {
+      "name": "1С: Предприятие 8"
+    },
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "Ответственность"
+    },
+    {
+      "name": "Исполнительность"
+    },
+    {
+      "name": "Инициативность"
+    },
+    {
+      "name": "MS SQL Server"
+    },
+    {
+      "name": "Веб-программирование"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Разработка ПО"
+    },
+    {
+      "name": "Инженер-программист"
+    },
+    {
+      "name": "Администрирование 1С"
+    },
+    {
+      "name": "Git"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2583223",
+    "name": "Военно-космическая академия имени А.Ф. Можайского",
+    "url": "https://api.hh.ru/employers/2583223",
+    "alternate_url": "https://hh.ru/employer/2583223",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2583223",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-24T01:09:40+0300",
+  "created_at": "2025-05-24T01:09:40+0300",
+  "initial_created_at": "2025-05-24T01:09:40+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120925817",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120925817",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

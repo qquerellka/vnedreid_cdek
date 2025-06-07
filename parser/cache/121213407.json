@@ -1,0 +1,148 @@
+{
+  "id": "121213407",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Аналитик 1С (2ая линия)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 180000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 180000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Ленинский проспект",
+    "building": "140Л",
+    "lat": 59.85327,
+    "lng": 30.284849,
+    "description": null,
+    "raw": "Санкт-Петербург, Ленинский проспект, 140Л",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы в поисках системного аналитика на продукты: 1С ERP WE, 1C KA2, 1С БП, 1С ЗУП</p> <p><strong>Ключевые задачи:</strong></p> <ul> <li>Консультация пользователей о возможностях продуктов 1С.</li> <li>Выявление актуальных проблем и потребностей пользователей.</li> <li>Поиск решения задач на основе функционала продуктов «1С».</li> <li>Написание технического задания для разработки или модификации программных продуктов на платформе 1С для разработчиков.</li> <li>Координация процесса разработки.</li> <li>Презентация разработанных систем и решений пользователям.</li> <li>Организация и проведение обучения пользователей.</li> </ul> <strong>Мы ожидаем:</strong> <ul> <li> <p>Опыт работы Аналитиком от 1 года.</p> </li> <li> <p>Профильное образование (техническое или экономическое), а также дополнительное обучение в области 1С</p> </li> <li> <p>Знание конфигураций 1С ERP WE, 1C KA2</p> </li> </ul> <strong>Мы предлагаем:</strong> <ul> <li> <p><strong>Развитие в стабильной, международной компании с офисами в России, странах СНГ, Китае, Индии, Турции.</strong></p> </li> <li> <p>«Белую зарплату».</p> </li> <li> <p>ДМС после 6 месяцев в компании.</p> </li> <li> <p>Адаптация и наставничество в первые месяцы работы.</p> </li> <li> <p>Профессиональный рост и реализацию интересных проектов.<br />У нас большие планы =)</p> </li> <li> <p>Оплату профессиональны курсов, участие в конференциях, корпоративный английский и т.д.</p> </li> <li> <p>Комфортный офис, удобные рабочие места и вся необходимая техника.</p> </li> <li> <p><em><strong>График работы 5/2 до с 9:00 до 18:00 (только офис).</strong></em></p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "1С: Предприятие 8"
+    },
+    {
+      "name": "1С: Комплексная автоматизация"
+    },
+    {
+      "name": "Обновление конфигурации 1С"
+    },
+    {
+      "name": "1C: ERP"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "10",
+      "name": "Аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3015440",
+    "name": "ЕТС, Группа Компаний",
+    "url": "https://api.hh.ru/employers/3015440",
+    "alternate_url": "https://hh.ru/employer/3015440",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/949455.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/4238356.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/4238357.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3015440",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T11:18:25+0300",
+  "created_at": "2025-06-02T11:18:25+0300",
+  "initial_created_at": "2025-06-02T11:18:25+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121213407",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121213407",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

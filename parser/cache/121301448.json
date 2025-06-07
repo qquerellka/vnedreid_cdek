@@ -1,0 +1,143 @@
+{
+  "id": "121301448",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Программист",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2490",
+    "name": "Пушкин",
+    "url": "https://api.hh.ru/areas/2490"
+  },
+  "salary": {
+    "from": 100000,
+    "to": 130000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": 130000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Пушкин",
+    "street": "Красносельское шоссе",
+    "building": "14/28Т",
+    "lat": 59.699108,
+    "lng": 30.364431,
+    "description": null,
+    "raw": "Пушкин, Красносельское шоссе, 14/28Т",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>Написание прикладных программ.</li> <li>Отладка программ, поиск ошибок.</li> </ul> <strong>Требования:</strong> <ul> <li>Уверенное программирование на языке Python (опыт работы с веб-фреймворками и бэкенд-разработкой).</li> <li>Опыт работы с СУБД PostgreSQL (проектирование, оптимизация запросов, администрирование).</li> <li>Понимание принципов работы операционных систем (Linux/Windows)<br />• Базовые знания сетевых технологий (TCP/IP, маршрутизация, диагностика сетевых проблем).</li> <li>Знание систем ввода/вывода информации, умение интегрировать различные источники данных.<br />Будет плюсом:</li> <li>Знание других языков программирования (JavaScript / C++) и промышленных протоколов.</li> <li> Владение RabbitMQ (настройка, интеграция, обмен сообщениями между сервисами).</li> <li>Опыт взаимодействия с промышленными контроллерами (ПЛК) и протоколом Modbus.</li> </ul> <strong>Условия:</strong> <ul> <li>Оформление в соответствии с ТК РФ.</li> <li>Режим работы с 08-30 до 17-00, перерыв на обед с 12-00 до 12-30. Работа в офисе.</li> <li>Предприятие входит в реестр ОПК.</li> <li>Удаленную работу сотрудников не рассматриваем.</li> <li>ТЕРРИТОРИАЛЬНО НАХОДИМСЯ В ПУШКИНЕ!!!!!!!!!!!</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "9669273",
+    "name": "А-Версия",
+    "url": "https://api.hh.ru/employers/9669273",
+    "alternate_url": "https://hh.ru/employer/9669273",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1071821.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5907913.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5907914.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9669273",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T16:09:31+0300",
+  "created_at": "2025-06-06T16:09:31+0300",
+  "initial_created_at": "2025-06-03T16:09:31+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121301448",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121301448",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

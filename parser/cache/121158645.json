@@ -1,0 +1,205 @@
+{
+  "id": "121158645",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Старший системный администратор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 120000,
+    "to": 170000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 120000,
+    "to": 170000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "Каменская улица",
+    "building": "7",
+    "lat": 55.026298,
+    "lng": 82.929009,
+    "description": null,
+    "raw": "Новосибирск, Каменская улица, 7",
+    "metro": {
+      "station_name": "Октябрьская",
+      "line_name": "Ленинская",
+      "station_id": "52.298",
+      "line_id": "52",
+      "lat": 55.018789,
+      "lng": 82.939007
+    },
+    "metro_stations": [
+      {
+        "station_name": "Октябрьская",
+        "line_name": "Ленинская",
+        "station_id": "52.298",
+        "line_id": "52",
+        "lat": 55.018789,
+        "lng": 82.939007
+      },
+      {
+        "station_name": "Площадь Ленина",
+        "line_name": "Ленинская",
+        "station_id": "52.297",
+        "line_id": "52",
+        "lat": 55.029941,
+        "lng": 82.92069
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Старший системный администратор</strong></p> <p>Вас привлекает мир IT и вы хотите стать частью команды, которая ценит креативность и личные качества? Тогда мы ищем именно вас! Присоединяйтесь к Региональному Бюро Взысканий и помогите нам создавать инновационные решения в сфере взыскания.</p> <p><strong>Обязанности:</strong></p> <ul> <li>Управление и поддержка локальной вычислительной сети (ЛВС) и настройка коммутации.</li> <li>Работа с фаерволом Kerio для обеспечения безопасности сети.</li> <li>Настройка и администрирование систем виртуализации ESXI и Proxmox.</li> <li>Установка и настройка SFTP на базе Linux.</li> <li>Администрирование серверов 1С и работа с программами для бэкапа данных.</li> <li>Управление внутренним сетевым хранилищем на базе Linux (Openmediavault).</li> <li>Работа с DLP системами (Staffcop) для защиты данных.</li> <li>Сбор и анализ статистики, подготовка отчетов в Excel для контрагентов.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Опыт работы от 3 до 6 лет в области системного администрирования.</li> <li>Глубокие знания в области настройки и управления ЛВС.</li> <li>Опыт работы с фаерволами и системами виртуализации.</li> <li>Уверенные навыки работы с Linux и администрирования серверов.</li> <li>Знание программ для бэкапа и защиты данных.</li> <li>Умение работать с отчетностью и анализировать данные.</li> </ul> <p><strong>Условия и преимущества:</strong></p> <ul> <li>Официальное трудоустройство и стабильная заработная плата.</li> <li>Комфортный офис в центре города и возможность удаленной работы.</li> <li>Гибкий график работы: 5/2, 8-часовой рабочий день.</li> <li>Бонусы и поощрительные выплаты для лучших сотрудников.</li> <li>Возможности для профессионального роста и развития.</li> <li>Участие в мотивационных и обучающих тренингах.</li> </ul> <p><strong>О компании:</strong> Мы – Региональное Бюро Взысканий, активно развивающаяся компания с высокой культурой и современным стилем управления. Мы не просто взыскиваем задолженности, но и помогаем людям по всей стране улучшать свою финансовую грамотность. С 2013 года мы растем и развиваемся, и сейчас в нашей команде более 70 человек. Мы ценим каждого сотрудника и создаем условия для комфортной работы и уверенности в будущем. Присоединяйтесь к нам и станьте частью нашей команды!</p>",
+  "branded_description": " \n<style>\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_wrapper * {\n    -webkit-box-sizing: border-box;\n    box-sizing: border-box;\n}\n\n.tmpl_hh_wrapper [role=button] {\n    outline: none;\n}\n\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content li p {\n    font-size: inherit !important;\n    margin: 0;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content h2:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    font-family: \"Arial\", sans-serif;\n    color:  #000;    \n    font-size: 16px;\n    line-height: 24px;\n    overflow: hidden;\n    -webkit-font-smoothing: antialiased;\n    background: url(https://hhcdn.ru/ichameleon/433088.png);\n    background-position: 0% 100%;\n    background-size: 100%;\n    background-repeat: no-repeat;\n}\n\n.tmpl_hh_video {\n    position: relative;\n    width: 100%;\n}\n\n.tmpl_hh_video img,\n.tmpl_hh_video iframe {\n    position: absolute;\n    left: 0;\n    top: 0;\n    width: 100%;\n    height: 100%;\n}\n\n.tmpl_hh_content {\n    padding: 50px 50px;\n}\n\n.tmpl_hh_content p {\n    margin: 12px 0 12px;\n}\n\n.tmpl_hh_content h2 {\n    margin: 30px 0 30px;\n    font-weight: 700;\n    font-size: 16px;\n    line-height: 19px;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 25px;\n    padding-bottom: 1px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 12px;\n}\n\n.tmpl_hh_content li:last-child {\n    margin-bottom: 0;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 12px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;\n}\n\n.tmpl_hh_content li:before {\n    content: \"\";\n    position: absolute;\n    left: -25px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"\";\n    width: 5px;\n    height: 5px;\n    top: 10px;\n    border-radius: 50%;\n    background: #000;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter) \".\";\n}\n\n.tmpl_hh_header {\n    background: url(https://hhcdn.ru/ichameleon/433087.jpg);\n    background-position: 50% 50%;\n    background-size: cover;\n    background-repeat: no-repeat;\n    padding: 60px 50px 40px;\n}\n\n.tmpl_hh_header__logo {\n    width: 248px;\n}\n\np.tmpl_hh_header__text {\n    margin: 20px 0 0;\n}\n\np.tmpl_hh_header__slogan {\n    font-weight: 700;\n    font-size: 36px;\n    line-height: 43px;\n    max-width: 90%;\n    margin: 50px 0 0;\n}\n\n.tmpl_hh_photos {\n    margin: 0 50px 0px;\n    display: grid;\n    grid-template-columns: repeat(3, 1fr);\n    gap: 10px;\n}\n\n.tmpl_hh_photo {\n    border-radius: 20px;\n    overflow: hidden;\n}\n\n.tmpl_hh_advantages {\n    margin: 44px 50px 50px;\n}\n\np.tmpl_hh_advantages__title {\n    font-weight: 700;\n    font-size: 24px;\n    line-height: 29px;\n    margin-bottom: 45px;\n}\n\n.tmpl_hh_advantages__items {\n    display: grid;\n    gap: 30px;\n}\n\n.tmpl_hh_advantages__item {\n    position: relative;\n    padding: 0 0 0 56px;\n}\n\n.tmpl_hh_advantages__icon {\n    position: absolute;\n    left: 0;\n    top: -1px;\n}\n\n.tmpl_hh_advantages__item p {\n    font-weight: 700;\n    font-size: 18px;\n    line-height: 27px;\n    letter-spacing: 0.01em;\n    margin-bottom: 10px;\n}\n\n.tmpl_hh_advantages__item ul {\n    list-style: none;\n    display: grid;\n    gap: 8px;\n    font-size: 16px;\n    line-height: 24px;\n    letter-spacing: 0.01em;\n}\n\n.tmpl_hh_advantages__item li {\n    position: relative;\n    padding: 0 0 0 24px;\n}\n\n.tmpl_hh_advantages__item li:before {\n    content: \"\\2022\";\n    position: absolute;\n    letter-spacing: 0;\n    left: 10px;\n    top: 0;\n}\n\n\n@media screen and (max-width: 1019px) {\n    p.tmpl_hh_header__slogan {\n        max-width: 100%;\n    }\n}\n\n@media screen and (max-width: 699px) {\n    .tmpl_hh_wrapper {  \n        font-size: 14px;\n        line-height: 21px;\n        background: url(https://hhcdn.ru/ichameleon/433090.png);\n        background-position: 0% 100%;\n        background-size: 100%;\n        background-repeat: no-repeat;\n    }\n\n    .tmpl_hh_content {\n        padding: 40px 20px;\n    }\n\n    .tmpl_hh_content h2 {\n        font-size: 14px;\n        line-height: 17px;\n    }\n\n    .tmpl_hh_content ul>li:before {\n        top: 8px;\n    }\n\n    .tmpl_hh_header {\n        background: url(https://hhcdn.ru/ichameleon/433089.jpg);\n        background-position: 50% 50%;\n        background-size: cover;\n        background-repeat: no-repeat;\n        padding: 40px 20px 40px;\n    }\n\n    p.tmpl_hh_header__slogan {\n        font-size: 24px;\n        line-height: 29px;\n        margin: 14px 0 14px;\n    }\n\n    .tmpl_hh_photos {\n        margin: 0 20px 0px;\n    }\n\n    .tmpl_hh_photo {\n        border-radius: 10px;\n    }\n\n    .tmpl_hh_advantages {\n        margin: 36px 20px 40px;\n    }\n\n    p.tmpl_hh_advantages__title {\n        font-size: 18px;\n        line-height: 22px;\n        margin-bottom: 25px;\n    }\n\n    .tmpl_hh_advantages__item p {\n        font-size: 14px;\n        line-height: 21px;\n        margin-bottom: 10px;\n    }\n\n    .tmpl_hh_advantages__item ul {\n        gap: 8px;\n        font-size: 14px;\n        line-height: 21px;\n    }\n\n    .tmpl_hh_advantages__item li {\n        padding: 0 0 0 21px;\n    }\n\n    .tmpl_hh_advantages__item li:before {\n        left: 8px;\n    }\n\n}\n\n@media screen and (max-width: 360px) {\n\n}\n\n</style>\n\n<div class=\"tmpl_hh_wrapper\">\n    <div class=\"tmpl_hh_header\">\n        <div class=\"tmpl_hh_header__logo\"><img src=\"https://hhcdn.ru/ichameleon/432959.svg\" alt=\"\"></div>\n        <p class=\"tmpl_hh_header__text\">Мы работаем с 2013 года и уверенно растём во всех направлениях деятельности компании благодаря команде профессионалов.</p>\n        <p class=\"tmpl_hh_header__slogan\">Поэтому мы уверены — с нами у тебя все получится</p>\n    </div>\n    <div class=\"tmpl_hh_content\">\n        <p><strong>Старший системный администратор</strong></p> <p>Вас привлекает мир IT и вы хотите стать частью команды, которая ценит креативность и личные качества? Тогда мы ищем именно вас! Присоединяйтесь к Региональному Бюро Взысканий и помогите нам создавать инновационные решения в сфере взыскания.</p> <p><strong>Обязанности:</strong></p> <ul> <li>Управление и поддержка локальной вычислительной сети (ЛВС) и настройка коммутации.</li> <li>Работа с фаерволом Kerio для обеспечения безопасности сети.</li> <li>Настройка и администрирование систем виртуализации ESXI и Proxmox.</li> <li>Установка и настройка SFTP на базе Linux.</li> <li>Администрирование серверов 1С и работа с программами для бэкапа данных.</li> <li>Управление внутренним сетевым хранилищем на базе Linux (Openmediavault).</li> <li>Работа с DLP системами (Staffcop) для защиты данных.</li> <li>Сбор и анализ статистики, подготовка отчетов в Excel для контрагентов.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Опыт работы от 3 до 6 лет в области системного администрирования.</li> <li>Глубокие знания в области настройки и управления ЛВС.</li> <li>Опыт работы с фаерволами и системами виртуализации.</li> <li>Уверенные навыки работы с Linux и администрирования серверов.</li> <li>Знание программ для бэкапа и защиты данных.</li> <li>Умение работать с отчетностью и анализировать данные.</li> </ul> <p><strong>Условия и преимущества:</strong></p> <ul> <li>Официальное трудоустройство и стабильная заработная плата.</li> <li>Комфортный офис в центре города и возможность удаленной работы.</li> <li>Гибкий график работы: 5/2, 8-часовой рабочий день.</li> <li>Бонусы и поощрительные выплаты для лучших сотрудников.</li> <li>Возможности для профессионального роста и развития.</li> <li>Участие в мотивационных и обучающих тренингах.</li> </ul> <p><strong>О компании:</strong> Мы – Региональное Бюро Взысканий, активно развивающаяся компания с высокой культурой и современным стилем управления. Мы не просто взыскиваем задолженности, но и помогаем людям по всей стране улучшать свою финансовую грамотность. С 2013 года мы растем и развиваемся, и сейчас в нашей команде более 70 человек. Мы ценим каждого сотрудника и создаем условия для комфортной работы и уверенности в будущем. Присоединяйтесь к нам и станьте частью нашей команды!</p></div>\n    <div class=\"tmpl_hh_photos\">\n        <div class=\"tmpl_hh_photo\"><img src=\"https://hhcdn.ru/ichameleon/432961.jpg\" alt=\"\"></div>\n        <div class=\"tmpl_hh_photo\"><img src=\"https://hhcdn.ru/ichameleon/432962.jpg\" alt=\"\"></div>\n        <div class=\"tmpl_hh_photo\"><img src=\"https://hhcdn.ru/ichameleon/432960.jpg\" alt=\"\"></div>\n    </div>\n    <div class=\"tmpl_hh_advantages\">\n        <p class=\"tmpl_hh_advantages__title\">Наши преимущества</p>\n        <div class=\"tmpl_hh_advantages__items\">\n            <div class=\"tmpl_hh_advantages__item\">\n                <div class=\"tmpl_hh_advantages__icon\"><img src=\"https://hhcdn.ru/ichameleon/432966.svg\" alt=\"\"></div>\n                <p>Стабильность</p>\n                <ul>\n                    <li>Официальное трудоустройство в соответствии с ТК РФ, оплачиваемый отпуск и больничный.</li>\n                    <li>Регулярные выплаты заработной платы 2 раза в месяц.</li>\n                    <li>Динамика профессионального развития.</li>\n                    <li>Предоставление материальной помощи.</li>\n                </ul>\n            </div>\n            <div class=\"tmpl_hh_advantages__item\">\n                <div class=\"tmpl_hh_advantages__icon\"><img src=\"https://hhcdn.ru/ichameleon/432965.svg\" alt=\"\"></div>\n                <p>Сплоченный коллектив</p>\n                <ul>\n                    <li>Команда энергичных и нацеленных на общий результат специалистов.</li>\n                    <li>Мы талантливы, дружны и перспективны.</li>\n                </ul>\n            </div>\n            <div class=\"tmpl_hh_advantages__item\">\n                <div class=\"tmpl_hh_advantages__icon\"><img src=\"https://hhcdn.ru/ichameleon/432964.svg\" alt=\"\"></div>\n                <p>Корпоративная жизнь</p>\n                <ul>\n                    <li>Высокоразвитая корпоративная культура, поздравление сотрудников в дни рождения и ключевые праздники.</li>\n                </ul>\n            </div>\n            <div class=\"tmpl_hh_advantages__item\">\n                <div class=\"tmpl_hh_advantages__icon\"><img src=\"https://hhcdn.ru/ichameleon/432967.svg\" alt=\"\"></div>\n                <p>Современный офис</p>\n                <ul>\n                    <li>Офис распололожен в самом центре города с удобной транспортной развязкой.</li>\n                    <li>Отдельная обеденная зона, чай, кофе за счет компании.</li>\n                </ul>\n            </div>\n            <div class=\"tmpl_hh_advantages__item\">\n                <div class=\"tmpl_hh_advantages__icon\"><img src=\"https://hhcdn.ru/ichameleon/432963.svg\" alt=\"\"></div>\n                <p>Главная ценность</p>\n                <ul>\n                    <li>Мы придерживаемся и подтверждаем своими действиями давно избитую истину — бизнес делают люди.</li>\n                    <li>«Кадры решают всё» — для нас человек — главная ценность.</li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</div>\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "SIP-телефония"
+    },
+    {
+      "name": "ESXi"
+    },
+    {
+      "name": "OSI"
+    },
+    {
+      "name": "Организация работы сотрудников"
+    },
+    {
+      "name": "PowerShell"
+    },
+    {
+      "name": "Обслуживание офисной техники"
+    },
+    {
+      "name": "Ubuntu"
+    },
+    {
+      "name": "Контроль сотрудников"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Удаленное администрирование"
+    },
+    {
+      "name": "Администрирование серверов"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3177763",
+    "name": "Профессиональная Коллекторская организация Региональное Бюро Взысканий",
+    "url": "https://api.hh.ru/employers/3177763",
+    "alternate_url": "https://hh.ru/employer/3177763",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1009573.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5659068.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5659069.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3177763",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T10:42:31+0300",
+  "created_at": "2025-06-05T10:42:31+0300",
+  "initial_created_at": "2025-05-30T10:42:31+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121158645",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121158645",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

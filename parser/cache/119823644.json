@@ -1,0 +1,129 @@
+{
+  "id": "119823644",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Технический писатель",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": 55.81706738590785,
+    "lng": 49.181207368968735,
+    "description": null,
+    "raw": "Казань, Сибирский тракт,34",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <ul> <li> <p>корректировка конструкторской документации в соответствии с ГОСТ ЕСКД;</p> </li> <li> <p>сопровождение документации в производстве;</p> </li> <li> <p>поддержание конструкторской документации в актуальном состоянии, проведение изменений;</p> </li> <li> <p>разработка конструкторской документации на технические средства в соответствии с действующей ЕСКД.</p> </li> </ul> <p><strong>Требования:</strong></p> <ul> <li>знание ПК на уровне уверенного пользователя;</li> <li>знание ГОСТ 2 серии и норм разработки конструкторской документации в соответствии с ЕСКД.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>уровень зарплаты зависит от <em>опыт</em>а и обсуждается индивидуально;</li> <li>100% &quot;белая&quot; зарплата, стабильная выплата 2 раза в месяц;</li> <li>официальное трудоустройство, отпуска, больничные согласно ТК РФ;</li> <li>профессиональный рост (обучение и возможность сдачи сертификационных экзаменов за счет компании);</li> <li>дополнительные выплаты к отпуску и значимым событиям в жизни сотрудников;</li> <li>ДМС;</li> <li>интересные и веселые корпоративные мероприятия.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "ЕСКД"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "126",
+      "name": "Технический писатель"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "32570",
+    "name": "ГК ICL",
+    "url": "https://api.hh.ru/employers/32570",
+    "alternate_url": "https://hh.ru/employer/32570",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/953054.png",
+      "90": "https://img.hhcdn.ru/employer-logo/4252748.png",
+      "240": "https://img.hhcdn.ru/employer-logo/4252749.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=32570",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-22T14:03:27+0300",
+  "created_at": "2025-05-22T14:03:27+0300",
+  "initial_created_at": "2025-04-22T14:03:26+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119823644",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119823644",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

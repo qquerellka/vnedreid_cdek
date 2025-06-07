@@ -1,0 +1,146 @@
+{
+  "id": "120926723",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Казань",
+    "street": "улица Лукницкого",
+    "building": "2",
+    "lat": 55.813212,
+    "lng": 49.06528,
+    "description": null,
+    "raw": "Казань, улица Лукницкого, 2",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>В связи с расширением команды приглашаем в нашу команду аналитика. Если Вы стремитесь к профессиональному росту, любите разбираться в сложных бизнес-процессах и создавать эффективные IT-решения, эта вакансия для Вас!</p> <p><em><strong>Обязанности:</strong></em></p> <p>- Анализ бизнес-требований и разработка функциональных спецификаций.<br />- Моделирование и оптимизация бизнес-процессов с использованием UML, BPMN и других методологий.<br />- Подготовка технических заданий для разработчиков.<br />- Взаимодействие с командами разработки, тестирования и поддержки для обеспечения качественной реализации проектов.<br />- Мониторинг и анализ эффективности существующих систем, предложение путей их совершенствования.<br />- Участие в проектировании архитектуры новых IT-решений.<br /><br /><strong><em>Требования:</em></strong></p> <p>- Высшее образование в области информационных технологий, прикладной математики или смежных дисциплин.<br />- Опыт работы на аналогичной позиции от 2-х лет, предпочтительно в IT-сфере.<br />- Знание методологий системного анализа и моделирования бизнес-процессов (UML, BPMN и др.).<br />- Опыт работы с инструментами для анализа и проектирования систем.<br />- Отличные аналитические способности и умение структурировать информацию.<br />- Хорошие коммуникативные навыки и способность работать в команде.</p> <p> </p> <strong>Условия:</strong> <p>- Гибкое начала рабочего дня<br />- IT аккредитация у компании<br />- Минимум бюрократии</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "UML"
+    },
+    {
+      "name": "BPMN"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Системная интеграция"
+    },
+    {
+      "name": "Разработка бизнес-требований"
+    },
+    {
+      "name": "User Story"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "10",
+      "name": "Аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11826659",
+    "name": "Технокап",
+    "url": "https://api.hh.ru/employers/11826659",
+    "alternate_url": "https://hh.ru/employer/11826659",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11826659",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-24T07:36:04+0300",
+  "created_at": "2025-05-24T07:36:04+0300",
+  "initial_created_at": "2025-05-24T07:36:04+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120926723",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120926723",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

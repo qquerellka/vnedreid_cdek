@@ -1,0 +1,149 @@
+{
+  "id": "121360182",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Senior Java developer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 300000,
+    "to": 400000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 300000,
+    "to": 400000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы динамично растущая компания и специализируемся на разработке программного обеспечения для финансового сектора. Наши клиенты - более 50-ти ведущих банков РФ. Наши продукты — высокоинтеллектуальные, отказоустойчивые системы, обеспечивающие одновременную работу нескольких сотен пользователей.</p> <p><strong><strong>Как Senior Java Developer вы будете:</strong></strong></p> <ul> <li>Участвовать в проработке концепции продукта вместе с владельцем продукта и архитектором</li> <li>Осуществлять выбор способов реализации, декомпозицию и оценку работ вместе с командой разработчиков</li> <li>Осуществлять разработку сложных частей подсистемы, помогать другим членам команды в достижении общей цели</li> <li>Проводить review кода, управлять качеством продукта</li> <li>Заниматься проектированием интеграций</li> </ul> <p><strong><strong>Что будет способствовать вашему успеху</strong></strong>:</p> <ul> <li>Java 17</li> <li>Spring (boot, data, web, ws), Hibernate</li> <li>Понимание микросервисной архитектуры</li> <li>Хорошее понимание смежных технологий: SQL (Oracle, Postgres...), NoSQL и кэши (Redis...), очереди (AMQ, Kafka..), прокси (nginx, haproxy...), сетевых протоколов и шифрования (TCP/IP/HTTP/TLS), Linux, HTML/CSS/JS</li> <li>Apache Calcite желательно</li> <li>Понимание принципов ООП</li> <li>Понимание различных методологий разработки (Agile, TDD)</li> <li>Умение работать с системой контроля версий GIT (или подобной)</li> <li>Понимание паттернов разработки и архитектуры приложений</li> <li>Опыт работы от 5 лет</li> <li>Высшее профильное образование</li> </ul> <p><strong><strong>Что мы предлагаем:</strong></strong></p> <ul> <li>Работа удаленно / либо в офисах компании (Москва, Новосибирск)</li> <li>Гибкий рабочий график</li> <li>Конкурентоспособная заработная плата</li> <li>Официальное трудоустройство</li> <li>Аккредитованная ИТ-компания</li> <li>Перспектива профессионального и карьерного развития</li> <li>Корпоративные мероприятия (командные парусные регаты, ежегодный выезд команды в Москву или Санкт-Петербург)</li> <li>Широкий спектр направлений деятельности – мы развиваем собственные ИТ-продукты</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Java"
+    },
+    {
+      "name": "Kafka"
+    },
+    {
+      "name": "Spring Framework"
+    },
+    {
+      "name": "Hibernate ORM"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Spring Boot"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2166518",
+    "name": "Динамика",
+    "url": "https://api.hh.ru/employers/2166518",
+    "alternate_url": "https://hh.ru/employer/2166518",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/967928.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5490824.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5490825.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2166518",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T07:16:16+0300",
+  "created_at": "2025-06-05T07:16:16+0300",
+  "initial_created_at": "2025-06-05T07:16:16+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121360182",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121360182",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

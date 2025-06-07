@@ -1,0 +1,125 @@
+{
+  "id": "119505674",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Backend developer (PHP)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": null,
+    "to": 160000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 160000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Мы - продуктовая IT-компания, </strong>которая разрабатывает <strong>платформу для создания интернет-магазина по приёму онлайн-заказов на печатную продукцию.</strong> <strong>Облачный сервис по подписке, модель SaaS.</strong></p> <p>Более 250 полиграфических предприятий и рекламных агентств по всей России, странам СНГ и Восточной Европы запустили онлайн-сервис по приёму заказов на печать, взяли прохождение заказов под контроль и расширили географию бизнеса. <strong>Сервис интегрируется с банками, транспортными компаниями, АСУП, CRM, сервисами аналитики и 1С (API).</strong></p> <p><strong>Что мы предлагаем:</strong></p> <ul> <li><strong>Оформление по ТК РФ, ИП, СЗ;</strong></li> <li><strong>Аккредитованная IT компания;</strong></li> <li>Возможность быстрого профессионального роста;</li> <li><strong>Гибридный формат работы (офис в центре Казани);</strong></li> <li>Прозрачный процесс пересмотра заработной платы;</li> <li>Интересные задачи и современный стек технологий;</li> <li>Много свободы и ответственности в решении задач.</li> </ul> <p><strong>Что мы ожидаем:</strong></p> <ul> <li><strong>Опыт с PHP и Yii/Yii2</strong>;</li> <li><strong>ООП</strong> (объектно-ориентированное программирование);</li> <li>Работа с базами данных (MySQL);</li> <li>Принципы SOLID, DRY, KISS;</li> <li>Паттерны проектирования;</li> <li>Опыт с очередями (RabbitMQ);</li> <li><strong>Умение работать с Legacy-кодом</strong>.</li> </ul> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Заниматься веб-разработкой в рамках развития и улучшения SaaS-сервиса;</li> <li>Принимать участие в интересных, сложных спец. проектах, в которых вы сможете проявить себя и реализовать весь свой потенциал;</li> <li>Помогать коллегам реализовывать сложные &quot;архитектурные&quot; задачи программирования, которые приходится решать для оптимизации структуры и эффективной работы SaaS-сервиса;</li> <li>Участвовать в совместных мозговых штурмах, предлагать идеи для развития SaaS-сервиса;</li> <li>Вы должны будете работать с установкой: &quot;Все возможно&quot;, другого у нас не предусмотрено.</li> </ul> <p> </p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5174849",
+    "name": "Wanted",
+    "url": "https://api.hh.ru/employers/5174849",
+    "alternate_url": "https://hh.ru/employer/5174849",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1331476.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6945922.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6945923.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5174849",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-13T18:03:20+0300",
+  "created_at": "2025-05-13T18:03:20+0300",
+  "initial_created_at": "2025-04-14T15:39:32+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119505674",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119505674",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

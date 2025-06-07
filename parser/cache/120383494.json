@@ -1,0 +1,118 @@
+{
+  "id": "120383494",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Главный специалист по сопровождению добычи и повышению эффективности резервуара (Ханты-Мансийск)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "72",
+    "name": "Пермь",
+    "url": "https://api.hh.ru/areas/72"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": {
+    "id": "gpn-39305-razved",
+    "name": "ПАО «Газпром нефть» Разведка и добыча"
+  },
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li> <p>Осуществлять реализацию проектов по достижению потенциала кластера;</p> </li> <li> <p>Осуществлять краткосрочное и среднесрочное (до 1 года) планирование, аналитику, моделирование добычи и потенциала;</p> </li> <li> <p>Осуществлять контроль за работой фонда скважин Общества, в том числе сокращение неработающего фонда скважин, повышение дебита, выдача рекомендаций и реализация мероприятий по снижению бездействующего фонда, разработка и реализация программы по работе с малодебитным фондом;</p> </li> <li> <p>Формировать и реализовывать мероприятия по повышению добычи;</p> </li> <li> <p>Составлять график добычи нефти и газа на следующий месяц/год;</p> </li> <li> <p>Осуществлять контроль за выводом показаний АГЗУ на телеметрию в АСОДУ, АДКУ, ШТР;</p> </li> <li> <p>Проводить анализ вывода скважин на режим.</p> </li> </ul> <strong>Требования:</strong> <ul> <li>Высшее образование;</li> <li>Опыт в аналогичном направлении.</li> </ul> <strong>Условия:</strong> <ul> <li>График работы 5/2 (г.Ханты-Мансийск);</li> <li> <p>Работа в стабильной, динамично развивающейся компании;</p> </li> <li> <p>Перспектива карьерного роста, возможность обучения;</p> </li> <li> <p>ДМС, страхование жизни;</p> </li> <li> <p>Годовой бонус по итогам работы;</p> </li> <li> <p>Заработная плата обсуждается по итогам собеседования.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "155",
+      "name": "Методолог"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "39305",
+    "name": "Газпром нефть",
+    "url": "https://api.hh.ru/employers/39305",
+    "alternate_url": "https://hh.ru/employer/39305",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1123842.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6115957.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6115958.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=39305",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-12T09:58:20+0300",
+  "created_at": "2025-05-12T09:58:20+0300",
+  "initial_created_at": "2025-05-12T09:58:20+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120383494",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120383494",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

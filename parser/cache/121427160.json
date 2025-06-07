@@ -1,0 +1,159 @@
+{
+  "id": "121427160",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Frontend-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 230000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 230000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Ленинградский проспект",
+    "building": "36с40",
+    "lat": 55.790529,
+    "lng": 37.569063,
+    "description": null,
+    "raw": "Москва, Ленинградский проспект, 36с40",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>MAINS Lab</strong> - это активно развивающаяся международная компания, являющаяся лидером в международном insuretech. Мы разрабатываем и внедряем сервисы на базе искусственного интеллекта для разных областей страхования, помогая страховым компаниям оптимизировать затраты. С нами работают большинство крупных и средних страховых компаний на рынке России, Саудовской Аравии, Бахрейна, ОАЭ и др.<br /><br />Мы активно растем и развиваемся - нас уже более 70 человек, и сейчас мы находимся в поиске лучшего <strong>Frontend разработчика </strong>в нашу команду!<br /><br /><strong>Проект</strong>: Личный кабинет по корпоративному медицинскому страхованию. Заказная разработка для крупнейшей страховой компании.</p> <p><strong>Чем предстоит заниматься</strong><strong>:</strong></p> <ul> <li>Участвовать в разработке клиентского сервиса в области страхования.</li> <li>Проектировать и реализовывать новое фронтенд приложение.</li> </ul> <p><strong>Мы подойдем друг другу, если у тебя есть</strong></p> <ul> <li>Опыт коммерческой разработки от 4 лет.</li> <li>Опыт разработки с нуля SPA приложения на TS, React, Styled components, REST API.</li> <li>Опыт написания собственной библиотеки компонентов UI Kit, Storybook.</li> <li>Опыт настройки webpack.</li> <li><strong>Будет особенно круто:</strong><br />• Понимание микро-фронтендов, опыт с Module Federation.<br />• Опыт разработки BFF на Node js.<br />• Понимание основ UI/UX.<br />• Опыт работы в сфере страхования.</li> </ul> <p><strong>Мы готовы предложить:</strong></p> <ul> <li>Удаленная работа из любой точки мира (можно получать зарплату на карту банка другой страны).</li> <li>Аккредитованная ИТ компания, резидент Сколково.</li> <li>Регулярная индексация и прозрачные критерии роста дохода.</li> <li>Горизонтальная корпоративная культура с атмосферой стартапа.</li> <li>ДМС для тебя + члена твоей семьи (РФ).</li> <li>Гибкость в принятии решений и свобода в выборе инструментов.</li> <li>Работа с талантливой командой и интересными задачами.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "TypeScript"
+    },
+    {
+      "name": "React"
+    },
+    {
+      "name": "REST"
+    },
+    {
+      "name": "Webpack"
+    },
+    {
+      "name": "UIKit"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3828176",
+    "name": "Мэйнс Лаборатория",
+    "url": "https://api.hh.ru/employers/3828176",
+    "alternate_url": "https://hh.ru/employer/3828176",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/608509.png",
+      "90": "https://img.hhcdn.ru/employer-logo/2875188.png",
+      "240": "https://img.hhcdn.ru/employer-logo/2875189.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3828176",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T15:45:36+0300",
+  "created_at": "2025-06-06T15:45:36+0300",
+  "initial_created_at": "2025-06-06T15:45:36+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121427160",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121427160",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

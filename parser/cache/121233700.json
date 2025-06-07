@@ -1,0 +1,133 @@
+{
+  "id": "121233700",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Cистемный администратор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "53",
+    "name": "Краснодар",
+    "url": "https://api.hh.ru/areas/53"
+  },
+  "salary": {
+    "from": 140000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 140000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Компании СёрчИнформ требуется системный администратор/ специалист по тестированию</strong></p> <p><strong>Должностные обязанности:</strong></p> <ul> <li>тестирование всей линейки ПО в рамках виртуальных сред</li> <li>составление отчетов.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>знание принципов построения сетей и основных протоколов;</li> <li>опыт работы с ОС Windows Server 2003 и выше; AD, proxy, с базами данных MSSQL (администрирования, запросы);</li> <li>UNIX;</li> <li>опыт работы с системами виртуализации VMWare/Hyper-V;</li> <li>представления о почтовых серверах (Exchange, Lotus, Kerio и т.д.);</li> <li>опыт программирования (скрипты)</li> <li>ответственность, коммуникабельность и стрессоустойчивость.</li> </ul> <p><strong>Компания предлагает:</strong></p> <ul> <li>оплата over-time, (rate), бонусы</li> <li>фиксированный оклад 140000 RUR</li> <li>оплата мобильной связи;</li> <li>оплачиваемые больничные, отпуска, корпоративные мероприятия;</li> <li>ДМС;</li> <li>оборудованное рабочее место, комфортные условия работы в офисе;</li> <li>график 5/2 с 9 до 18 сб, воскр выходные</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "719820",
+    "name": "SearchInform",
+    "url": "https://api.hh.ru/employers/719820",
+    "alternate_url": "https://hh.ru/employer/719820",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/940031.png",
+      "90": "https://img.hhcdn.ru/employer-logo/4200668.png",
+      "240": "https://img.hhcdn.ru/employer-logo/4200669.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=719820",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T16:11:43+0300",
+  "created_at": "2025-06-02T16:11:43+0300",
+  "initial_created_at": "2025-06-02T16:11:43+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121233700",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121233700",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

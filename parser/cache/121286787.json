@@ -1,0 +1,156 @@
+{
+  "id": "121286787",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Senior Frontend (React, TypeScript)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 400000,
+    "to": 500000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 400000,
+    "to": 500000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>О компании</strong></p> <p>Наш клиент – крупная IT-компания, разрабатывающая продукты и услуги для российского и международного рынка.</p> <p><strong>О команде</strong></p> <p>В команду, занимающуюся разработкой и поддержкой внутренних инструментов, которые помогают сотрудникам компании эффективно взаимодействовать с IT- и HR-отделами ищем Senior Frontend-developer. В сферу ответственности входят такие проекты, как портал ServiceDesk, вендинговые аппараты для получения компьютерных аксессуаров, внутренние чат-боты, электронные очереди для сервисных центров и другие.</p> <p><strong>Текущий технологический стек:</strong></p> <p>React, TypeScript, Zustand, Redux-Toolkit, Effector;</p> <p>HTML, CSS (Sass/Scss, CSS-modules);</p> <p>Vite, Webpack.<br />Testplane (Hermione).</p> <p>✅ <strong>Основные задачи</strong></p> <p>— Участвовать в полном цикле разработки внутренних инструментов: продумывать архитектуру, создавать MVP, внедрять, тестировать и оптимизировать.<br />— Решать задачи различной сложности — от исправления незначительных ошибок до проектирования и создания сложных SPA.<br />— Постоянно улучшать технические характеристики сервисов: масштабировать, повышать производительность и надежность.<br />— Сотрудничать с другими командами, владельцами и менеджерами продуктов.<br />— Проводить код-ревью для коллег.</p> <p>✅ <strong>От вас мы ожидаем, что вы</strong></p> <p>— Имеете опыт разработки на React и TypeScript не менее трёх лет.<br />— Знакомы с инструментами сборки: Vite, Webpack, Babel.<br />— Умеете работать с WebSocket, Docker и Figma (или другими инструментами для прототипирования).<br />— Понимаете стандарты REST и применяете их в работе.<br />— Занимались разработкой мобильных версий интерфейсов.<br />— Имеете представление о современных веб-сервисах.<br />— Умеете писать эффективный и читаемый код.<br />— Самостоятельны и готовы к командной работе.</p> <p>✅ <strong>Большим плюсом будет</strong></p> <p>— Опыт написания тестов на Playwright или Testplane.<br />— Знания в Node.js.</p> <p>— Опыт работы с микро-фронтенд архитектурой.</p> <p>✅<strong>Условия</strong></p> <p>— Официальное трудоустройство в крупную ИТ-компанию.</p> <p>— Конкурентоспособный оклад и премии, регулярная оценка достижений и по итогам пересмотр заработной платы.</p> <p>— Профессиональная команда опытных инженеров, серьезный масштаб инфраструктуры, интересные и развивающие задачи.</p> <p>— Полностью удаленный или гибридный формат работы (Москва или Петербург), гибкое начало и окончание рабочего дня.</p> <p>— Расширенная программа ДМС.</p> <p>— Льготная программа кредитования для сотрудников.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "React"
+    },
+    {
+      "name": "TypeScript"
+    },
+    {
+      "name": "Webpack"
+    },
+    {
+      "name": "WebSocket"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "REST"
+    },
+    {
+      "name": "Figma"
+    },
+    {
+      "name": "Vite"
+    },
+    {
+      "name": "Node.js."
+    },
+    {
+      "name": "Babel"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9196211",
+    "name": "JFoRecruitment",
+    "url": "https://api.hh.ru/employers/9196211",
+    "alternate_url": "https://hh.ru/employer/9196211",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1266930.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6688038.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6688039.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9196211",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T14:10:21+0300",
+  "created_at": "2025-06-03T14:10:21+0300",
+  "initial_created_at": "2025-06-03T14:10:21+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121286787",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121286787",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

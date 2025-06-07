@@ -1,0 +1,187 @@
+{
+  "id": "121302521",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Руководитель центра информационных технологий",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 50000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 50000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Казань",
+    "street": "Н. Ершова ",
+    "building": "58",
+    "lat": 55.795327,
+    "lng": 49.174219,
+    "description": null,
+    "raw": "Казань, Н. Ершова , 58",
+    "metro": {
+      "station_name": "Суконная слобода",
+      "line_name": "Центральная",
+      "station_id": "49.274",
+      "line_id": "49",
+      "lat": 55.777094,
+      "lng": 49.142275
+    },
+    "metro_stations": [
+      {
+        "station_name": "Суконная слобода",
+        "line_name": "Центральная",
+        "station_id": "49.274",
+        "line_id": "49",
+        "lat": 55.777094,
+        "lng": 49.142275
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Руководство отделом, обеспечение бесперебойной работы всей информационной инфраструктуры организации, которое расположено в 3 зданиях и включает в себя:</p> <ol> <li>400 персональных компьютеров;</li> <li>60 принтеров и МФУ;</li> <li>6 серверных станций, 28 коммутаторов;</li> <li>24 проектора;</li> <li>52 ip-телефона.</li> </ol> <p>Интернет ресурсы Института:</p> <ol> <li>официальный сайт Института;</li> <li>рейтинговая система оценки знаний студентов;</li> <li>электронная информационно-образовательная среда Moodle;</li> </ol> <p>Домен Active Directory, DNS, DHCP.</p> <p>Автоматизацию учебного процесса обеспечивает 1С.</p> <p>Антивирусную защиту обеспечивает Kaspersky Security Center.</p> <p>А также выполнения ряда задач, входящих в компетенцию центра информационных технологий:</p> <ol> <li>Фото, видео съемка мероприятий;</li> <li>Администрирование актового и конференц-зала. Звуковое, световое, проекционное оформление мероприятий. Обслуживание оборудования, профилактика неисправностей, очистка от пыли, замена ламп.</li> <li>Администрирование системы видеонаблюдения Trassir, контроль физического состояния видеокамер и периодическая очистка от загрязнений, контроль состояния сервера, профилактика неисправностей.</li> <li>Контроль над функционированием подсветки здания Института и вывески, управление таймером включения.</li> <li>Конвертация банков тестовых заданий для студентов, размещение их на сервере подключений.</li> </ol> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Администрирование сайтов"
+    },
+    {
+      "name": "Знание компьютера"
+    },
+    {
+      "name": "Работа с ПК"
+    },
+    {
+      "name": "Владение компьютером"
+    },
+    {
+      "name": "Высокая энергичность и инициативность"
+    },
+    {
+      "name": "Настройка серверов"
+    },
+    {
+      "name": "Настройка сетевых подключений"
+    },
+    {
+      "name": "Администрирование сетевого оборудования"
+    },
+    {
+      "name": "Управление отделом"
+    },
+    {
+      "name": "1C: Предприятие"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "36",
+      "name": "Директор по информационным технологиям (CIO)"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "867113",
+    "name": "Российский университет кооперации, Казанский кооперативный институт",
+    "url": "https://api.hh.ru/employers/867113",
+    "alternate_url": "https://hh.ru/employer/867113",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/363304.png",
+      "90": "https://img.hhcdn.ru/employer-logo/1895474.png",
+      "240": "https://img.hhcdn.ru/employer-logo/1895475.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=867113",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T16:25:14+0300",
+  "created_at": "2025-06-03T16:25:14+0300",
+  "initial_created_at": "2025-06-03T16:25:14+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121302521",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121302521",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

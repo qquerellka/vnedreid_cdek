@@ -1,17 +1,38 @@
 {
   "options": {
-    "text": "Data Scientist",
-    "area": 1,
-    "per_page": 50,
-    "professional_roles": [96, 10]
+    "text": "",
+    "area": [1, 2, 3, 4, 66, 78, 88, 76, 99, 104, 68, 72, 53, 54, 63],
+    "per_page": 100,
+    "professional_roles": [
+      96,
+      160,
+      165,
+      156,
+      10,
+      150,
+      164,
+      148,
+      116,
+      124,
+      157,
+      112,
+      113,
+      114,
+      121,
+      125,
+      126,
+      155,
+      73,
+      36
+    ],
+    "list_roles": false
   },
-  "refresh": false,
-  "num_workers": 10,
-  "save_result": false,
+  "refresh": true,
+  "num_workers": 20,
+  "save_result": true,
   "rates": {
-    "USD": 0.012641,
-    "EUR": 0.010831,
-    "UAH": 0.35902,
-    "RUR": 1
+    "RUR": 1,
+    "USD": null,
+    "EUR": null
   }
 }

@@ -1,0 +1,201 @@
+{
+  "id": "121118091",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор / Специалист по информационной безопасности / Ведущий специалист",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 80000,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 80000,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Казань",
+    "street": "Московская улица",
+    "building": "55",
+    "lat": 55.784582,
+    "lng": 49.113906,
+    "description": null,
+    "raw": "Казань, Московская улица, 55",
+    "metro": {
+      "station_name": "Площадь Тукая",
+      "line_name": "Центральная",
+      "station_id": "49.273",
+      "line_id": "49",
+      "lat": 55.787163,
+      "lng": 49.122126
+    },
+    "metro_stations": [
+      {
+        "station_name": "Площадь Тукая",
+        "line_name": "Центральная",
+        "station_id": "49.273",
+        "line_id": "49",
+        "lat": 55.787163,
+        "lng": 49.122126
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <p>• Обеспечение компьютерной, сетевой и информационной безопасности;<br />• Разработка организационных и технических мероприятий по обеспечению защиты информации;<br />• Методологическая работа в части информационной безопасности (политики, руководства, инструкции);<br />• Осуществление технической защиты информации от несанкционированного доступа и безопасности информации;<br />• Обеспечение технической защиты конфиденциальной информации и персональных данных;<br />• Установка и обслуживание компьютерной и офисной техники, оргтехники;<br />• Обеспечение работы системного программного обеспечения (ОС Windows, Windows Server, ОС Astra Linux);<br />• Установка, настройка и обновление офисного и прикладного ПО;<br />• Обслуживание локальной сети, доменной структуры, AD;<br />• Техническая поддержка и помощь пользователей.</p> <p><strong>Требования:</strong></p> <p>• Знание требований законодательства РФ и подзаконных актов, нормативно-методических документов ФСТЭК и ФСБ в области информационной безопасности<br />• Опыт установки, настройки и поддержки средств защиты информации;<br />• Базовые знания по применению средств защиты информации ПАК «Соболь», Secret Net, Криптопро CSP, принцип работы сетей ViPNet и т,д.<br />• Знание семейства ОС Windows на уровне администратора;<br />• Понимание основ функционирования локальной сети, протоколов ТСР/IP;<br />• Опыт работы с DNS, DHCP, GPO,AD;<br />• Знание аппаратной части ПК и принтеров с возможностью диагностики и устранения неполадок;<br />• Linux, Windows, настройка, администрирование;</p> <p><strong>• </strong>Высшее образование - <strong>обязательное требование!!!</strong></p> <p><strong>Условия:</strong></p> <p>• График работы 5/2, с 9.00 до 18.00, суббота, воскресенье выходные.<br />• Оформление в полном соответствии с действующим законодательством РФ.<br />• Социальные гарантии (оплата больничного, отпусков, ОМС).<br />• Госслужба.<br />• З/п: Оклад + премии (ежеквартальная, годовая, к отпуску). Средняя з/п по итогу года 80-100 тыс. руб. (в зависимости от стажа гос.службы и классного чина).</p> <p> </p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Настройка сетевых подключений"
+    },
+    {
+      "name": "Настройка ПО"
+    },
+    {
+      "name": "Настройка ПК"
+    },
+    {
+      "name": "Active Directory"
+    },
+    {
+      "name": "Администрирование сетевого оборудования"
+    },
+    {
+      "name": "Обеспечение антивирусной защиты"
+    },
+    {
+      "name": "Средства криптографической защиты информации"
+    },
+    {
+      "name": "Администрирование"
+    },
+    {
+      "name": "Антивирусная защита сети"
+    },
+    {
+      "name": "TCP/IP"
+    },
+    {
+      "name": "DHCP"
+    },
+    {
+      "name": "Администрирование серверов Windows"
+    },
+    {
+      "name": "Информационная безопасность"
+    },
+    {
+      "name": "Информационные технологии"
+    },
+    {
+      "name": "Локальные сети"
+    },
+    {
+      "name": "Офисная техника"
+    },
+    {
+      "name": "Техническая поддержка"
+    },
+    {
+      "name": "Linux"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2627816",
+    "name": "Министерство экономики Республики Татарстан",
+    "url": "https://api.hh.ru/employers/2627816",
+    "alternate_url": "https://hh.ru/employer/2627816",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2627816",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-29T11:17:30+0300",
+  "created_at": "2025-05-29T11:17:30+0300",
+  "initial_created_at": "2025-05-29T11:17:30+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121118091",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121118091",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

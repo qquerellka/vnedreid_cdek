@@ -1,0 +1,137 @@
+{
+  "id": "121437077",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "React разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Bell Integrator – </strong>один из ведущих системных интеграторов страны<strong>.</strong></p> <p><strong>Мы аккредитованная ИТ-компания и являемся частью большой семьи ГК Softline.</strong></p> <p>Bell Integrator активно реализует проекты по всей России, среди наших заказчиков – крупнейшие системообразующие финансовые, телеком и ритейл компании страны.</p> <p><strong>Проект:</strong></p> <p>Пространство для информирования клиентов.<br /><br /><strong>Требования:</strong></p> <p>Опыт коммерческой разработки на React не менее 3х лет<br />Отличное знание JavaScript (ES5, ES6), понимание, как работает язык, и его особенности.<br />Уверенные знания CSS3(SASS/LESS/PostCSS/ CSS-in-JS), HTML5.<br />Понимание принципов работы браузеров и веб-серверов.<br />Опыт разработки на TypeScript.<br />Понимание RESTful.<br />Умение работать со сборщиками Webpack.<br />Опыт работы с макетами Figma.<br />Опыт использования Git.<br />Опыт написания Unit-тестов (jest, testing-library).<br /><br /><strong>Обязанности:</strong><br />Разработка новой функциональности и поддержка существующего решения<br />Покрытие кода тестами<br />Написание чистого, понятного кода<br />Проведение Сode Review<br />Исследование и диагностика дефектов<br /><br /><strong><strong>Условия:</strong></strong></p> <p>Возможность профессионального и карьерного роста в компании, возможность поучаствовать в разных проектах;</p> <p>Опыт работы в распределенной команде профессионалов;</p> <p>Уровень заработной платы обсуждается индивидуально;</p> <p>Удаленный формат работы на территории РФ</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "React"
+    },
+    {
+      "name": "TypeScript"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "CSS3"
+    },
+    {
+      "name": "HTML5"
+    },
+    {
+      "name": "RESTful"
+    },
+    {
+      "name": "Git"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "6189",
+    "name": "Bell Integrator",
+    "url": "https://api.hh.ru/employers/6189",
+    "alternate_url": "https://hh.ru/employer/6189",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1279701.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6739102.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6739103.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6189",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T12:27:52+0300",
+  "created_at": "2025-06-07T12:27:52+0300",
+  "initial_created_at": "2025-06-07T12:27:52+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121437077",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121437077",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": false,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

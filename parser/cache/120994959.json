@@ -1,0 +1,139 @@
+{
+  "id": "120994959",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Rust-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": null,
+    "to": 300000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 300000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "Советский район, микрорайон Академгородок, проспект Академика Лаврентьева",
+    "building": "2/2",
+    "lat": 54.853138,
+    "lng": 83.09853,
+    "description": null,
+    "raw": "Новосибирск, Советский район, микрорайон Академгородок, проспект Академика Лаврентьева, 2/2",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Компании <strong>ООО &quot;Передовые Технологии&quot;</strong> - разработчику отечественного программного обеспечения RuDesktop в сфере удаленного доступа и управления, администрирования пользовательскими устройствами на наиболее популярных ОС - требуется разработчик.</p> <p>Клиентами компании являются как частные лица, так и корпоративные с парком в десятки тысяч устройств с различной архитектурой и работающих под управлением различных операционных систем.</p> <p>Rudesktop решает рутинные задачи системного администрирования: Удалённый доступ к ПК пользователя, Установка\\Удаление программ, Настройка операционных систем, Исполнение скриптов и политик, Инвентаризация ПО и оборудования и выполняет множество другой работы, которую обычно выполняют решения класса UEM.</p> <p>Наше программное обеспечение предоставляет как облачное решение в виде сервера, так и возможность развернуть локальный сервер, чтобы клиенты могли установить его на своем парке оборудования.</p> <p><em><strong>Чем предстоит заниматься:</strong></em><br />- Разработка, поддержка, развитие кроссплатформенного приложения Rudesktop;<br />- Интеграция решений на базе Rust и Sciter для создания клиента;<br />- Исследование проблем и решение сложных технических, прикладных и архитектурны задач.</p> <p><strong><em>Для нас важно:</em></strong><br />- Опыт Rust-разработки;<br />- Опыт кросплатформенной разработки;<br />- Опыт системной разработки;<br />- Понимание работы с IPC через Unix Domain Socket для обеспечения взаимодействия между несколькими процессами;<br />- Опыт работы с RPC и использование protobuf для передачи сообщений между процессами и между сервером и клиентом;<br />- Навыки асинхронного программирования с использованием крейта Tokio;<br />- Опыт работы с примитивами синхронизации, такими как мьютексы (Mutex), rwlock.</p> <p><strong><em>Будет плюсом:</em></strong><br />- Опыт работы с Ansible;<br />- Опыт работы со Sciter\\Flutter или аналогичными GUI-фреймворками;</p> <p><strong><em>Мы предлагаем:</em></strong><br />Официальное трудоустройство с первого дня в аккредитованную it- компанию;</p> <p>Возможность участвовать в жизни и развитии компании, предлагать свои идеи, реализовывать их, заниматься интересными задачами;</p> <p>Конкурентная заработная плата;</p> <p>Компенсация ДМС и спорта;</p> <p>Кофе, чай, сладости;</p> <p>У нас нет бюрократии и тайм-трекеров, работаем в комфортном режиме;</p> <p>До встречи в RuDesktop!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Rust"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9150066",
+    "name": "Передовые технологии",
+    "url": "https://api.hh.ru/employers/9150066",
+    "alternate_url": "https://hh.ru/employer/9150066",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1081518.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/5946701.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/5946702.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9150066",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T04:49:15+0300",
+  "created_at": "2025-06-07T04:49:15+0300",
+  "initial_created_at": "2025-05-26T17:32:57+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120994959",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120994959",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,160 @@
+{
+  "id": "116538365",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист по защите информации",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 80000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 80000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": 59.93853099680896,
+    "lng": 30.313496980816158,
+    "description": null,
+    "raw": "Санкт-Петербург, 15 линия ВО, дом 4-6",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>Разработка организационно-распорядительной документации в области защиты информации, а также поддержание в актуальном состоянии системы ЛНА;</li> <li>согласование технических заданий при разработке проектов и внедрении новых объектов информатизации;</li> <li>Контроль жизненного цикла учетных записей пользователей информационных систем;</li> <li>Консультирование пользователей по работе с информационными системами</li> <li>Проведение обучения персонала и инструктажей по ИБ;</li> <li>Ведение учета средств криптографической защиты информации (СКЗИ)</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Высшее образование по специальности &quot;Информационная безопасность&quot; или иное высшее и пройденное обучение по программе профессиональной переподготовки по направлению № Информационная безопасность&quot; в объеме не менее 500 часов;</li> <li>Знание действующего законодательства РФ в области защиты информации, в т.ч. персональных данных;</li> <li>Опыт обеспечения безопасности в среде Windows и Linux;</li> <li>Навыки администрирования Windows и Linux;</li> <li>Опыт работы с антивирусным ПО</li> </ul> <strong>Условия:</strong> <ul> <li>официальное оформление в соответствии с ТК РФ;</li> <li>график работы 5-ти дневный (суббота, воскресенье - выходные дни);</li> <li>полный социальный пакет</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Информационная безопасность"
+    },
+    {
+      "name": "Разработка внутренней документации"
+    },
+    {
+      "name": "Разработка политики информационной безопасности"
+    },
+    {
+      "name": "Управление информационной безопасностью"
+    },
+    {
+      "name": "Обеспечение антивирусной защиты"
+    },
+    {
+      "name": "Аудит информационной безопасности"
+    },
+    {
+      "name": "Защита персональных данных"
+    },
+    {
+      "name": "Тестирование безопасности"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "116",
+      "name": "Специалист по информационной безопасности"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1155612",
+    "name": "Городская психиатрическая больница №7 имени И.П.Павлова",
+    "url": "https://api.hh.ru/employers/1155612",
+    "alternate_url": "https://hh.ru/employer/1155612",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1155612",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T09:39:14+0300",
+  "created_at": "2025-06-02T09:39:14+0300",
+  "initial_created_at": "2025-01-30T09:04:44+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=116538365",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/116538365",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

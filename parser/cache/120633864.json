@@ -1,0 +1,143 @@
+{
+  "id": "120633864",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Аналитик данных (Data Analist)",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 60000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 60000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "Красный проспект",
+    "building": "14",
+    "lat": 55.019501,
+    "lng": 82.923807,
+    "description": null,
+    "raw": "Новосибирск, Красный проспект, 14",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Что ты будешь делать:</strong></p> <ul> <li> <p>Преобразовывать хаос данных в точные решения: собирать, структурировать и анализировать цифровые данные, чтобы оптимизировать процессы и находить точки роста.</p> </li> <li> <p>Создавать дашборды и отчёты, которые не просто красивые, а говорят: «Вот куда идти».</p> </li> <li> <p>Работать с маркетингом и продажами: помогать им видеть картину целиком и принимать обоснованные решения.</p> </li> <li> <p>Следить за KPI: подсвечивать риски, выявлять закономерности, предлагать улучшения.</p> </li> </ul> <p> </p> <p><strong>Что мы ждём от тебя:</strong></p> <ul> <li> <p>Опыт в цифровой аналитике от 2 лет — самостоятельная работа, уверенность и точность в выводах.</p> </li> <li> <p>Владение SQL и Excel (будет круто, если ещё Power BI или Python).</p> </li> <li> <p>Умение находить закономерности, объяснять сложное простым языком и делать выводы, от которых у маркетологов и руководства «щёлкает».</p> </li> <li> <p>Структурность, скрупулёзность, здравый скепсис и любовь к ясным цифрам<br /><br /><strong>Что ты получишь:</strong></p> </li> <li> <p>Прозрачную зарплату и бонусы</p> </li> <li> <p>Обучение и рост</p> </li> <li> <p>Реальное влияние — твои цифры будут влиять на продукт, процессы и стратегию.</p> </li> <li> <p>Команду, которая ценит результат, инициативу и точность</p> </li> <li> <p>⏳ Готов анализировать не ради отчёта, а ради результата?</p> <p>Жми «Откликнуться» — и давай создавать цифровую прозрачность бизнеса вместе.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "156",
+      "name": "BI-аналитик, аналитик данных"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9796521",
+    "name": "Агентство Недвижимости Жилфонд",
+    "url": "https://api.hh.ru/employers/9796521",
+    "alternate_url": "https://hh.ru/employer/9796521",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1400451.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7221575.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7221576.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9796521",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T13:38:29+0300",
+  "created_at": "2025-06-06T13:38:29+0300",
+  "initial_created_at": "2025-05-16T13:38:29+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120633864",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120633864",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

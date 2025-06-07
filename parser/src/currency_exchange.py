@@ -26,48 +26,78 @@ OR CORRECTION.
 ------------------------------------------------------------------------
 """
 import json
-from typing import Dict
+from typing import Dict, Optional
 
 import requests
 
 
 class Exchanger:
-    __EXCHANGE_URL = "https://api.exchangerate-api.com/v4/latest/RUB"
+    """Get currency exchange rates from remote server."""
 
     def __init__(self, config_path: str):
         self.config_path = config_path
+        self._rates = None
+        self._update_rates()
 
-    def update_exchange_rates(self, rates: Dict):
-        """Parse exchange rates for RUB, USD, EUR and save them to `rates`
+    def _update_rates(self):
+        """Update exchange rates from remote server."""
+        try:
+            response = requests.get("https://www.cbr-xml-daily.ru/daily_json.js")
+            if response.status_code == 200:
+                data = response.json()
+                self._rates = {
+                    "RUR": 1.0,
+                    "USD": 1.0 / float(data["Valute"]["USD"]["Value"]),
+                    "EUR": 1.0 / float(data["Valute"]["EUR"]["Value"])
+                }
+            else:
+                print(f"[WARNING]: Failed to get exchange rates. Status code: {response.status_code}")
+                self._rates = {"RUR": 1.0, "USD": None, "EUR": None}
+        except Exception as e:
+            print(f"[WARNING]: Failed to get exchange rates: {str(e)}")
+            self._rates = {"RUR": 1.0, "USD": None, "EUR": None}
+
+    def update_exchange_rates(self, rates: Dict[str, Optional[float]]) -> Dict[str, float]:
+        """Update exchange rates in the given dictionary.
 
         Parameters
         ----------
-        rates : dict
-            Dict of currencies. For example: {"RUB": 1, "USD": 0.001}
+        rates : Dict[str, Optional[float]]
+            Dictionary of currency rates to update
+
+        Returns
+        -------
+        Dict[str, float]
+            Updated dictionary with exchange rates
         """
+        if self._rates is None:
+            self._update_rates()
+        
+        # Update only None values
+        for currency, rate in self._rates.items():
+            if currency in rates and rates[currency] is None:
+                rates[currency] = rate
+        
+        return rates
 
+    def save_rates(self, rates: Dict[str, Optional[float]]):
+        """Save exchange rates to config file.
+
+        Parameters
+        ----------
+        rates : Dict[str, Optional[float]]
+            Dictionary of currency rates to save
+        """
         try:
-            response = requests.get(self.__EXCHANGE_URL)
-            new_rates = response.json()["rates"]
-        except requests.exceptions.SSLError:
-            raise AssertionError("[FAIL] Cannot get exchange rate! Try later or change the host API")
-
-        for curr in rates:
-            rates[curr] = new_rates[curr]
-
-        # Change 'RUB' to 'RUR'
-        rates["RUR"] = rates.pop("RUB")
-
-    def save_rates(self, rates: Dict):
-        """Save rates to JSON config."""
-
-        with open(self.config_path, "r") as cfg:
-            data = json.load(cfg)
-
-        data["rates"] = rates
-
-        with open(self.config_path, "w") as cfg:
-            json.dump(data, cfg, indent=2)
+            with open(self.config_path, "r") as f:
+                config = json.load(f)
+            
+            config["rates"] = rates
+            
+            with open(self.config_path, "w") as f:
+                json.dump(config, f, indent=2)
+        except Exception as e:
+            print(f"[WARNING]: Failed to save exchange rates: {str(e)}")
 
 
 if __name__ == "__main__":

@@ -1,0 +1,174 @@
+{
+  "id": "99177632",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Казань",
+    "street": "улица Николая Ершова",
+    "building": "55В",
+    "lat": 55.800732,
+    "lng": 49.176312,
+    "description": null,
+    "raw": "Казань, улица Николая Ершова, 55В",
+    "metro": {
+      "station_name": "Аметьево",
+      "line_name": "Центральная",
+      "station_id": "49.275",
+      "line_id": "49",
+      "lat": 55.765346,
+      "lng": 49.165083
+    },
+    "metro_stations": [
+      {
+        "station_name": "Аметьево",
+        "line_name": "Центральная",
+        "station_id": "49.275",
+        "line_id": "49",
+        "lat": 55.765346,
+        "lng": 49.165083
+      },
+      {
+        "station_name": "Площадь Тукая",
+        "line_name": "Центральная",
+        "station_id": "49.273",
+        "line_id": "49",
+        "lat": 55.787163,
+        "lng": 49.122126
+      },
+      {
+        "station_name": "Суконная слобода",
+        "line_name": "Центральная",
+        "station_id": "49.274",
+        "line_id": "49",
+        "lat": 55.777094,
+        "lng": 49.142275
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>О компании:</strong></p> <p>ТТК Диджитал - дочерняя IT-компания ПАО «Таттелеком», которая занимается разработкой программного обеспечения полного цикла.</p> <p>Мы разрабатываем и развиваем продукты для пользователей услуг связи, умные домофоны и внутренние сервисы. Более 700 тысяч пользователей используют наши приложения.</p> <p>Мы приглашаем присоединиться к нашей команде Системного аналитика, который готов решать сложные задачи и погрузиться в проекты регионального масштаба.</p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Работа с проектной командой, постановка задач разработчикам и контроль за исполнением;</li> <li>Поиск и устранение узких мест в функциональности и бизнес-процессах системы;</li> <li>Сбор, анализ, формализация, документирование и согласование требований к системе;</li> <li>Контроль качества и полноты реализации требований;</li> <li>Проектирование БД и интерфейса;</li> <li>Проведение review-документации и верификации результатов на соответствие требованиям;</li> <li>Разработка проектной документации (технических заданий, регламентов и инструкций);</li> <li> <p>Ведение внутренней проектной документации (спецификации требований, варианты использования) и наполнение базы знаний проекта.</p> </li> </ul> <p><strong>Для нас важно:</strong></p> <ul> <li>Опыт работы в системном анализе от 2-х лет;</li> <li>Высшее техническое образование;</li> <li>Владение SQL на уровне написания средних запросов и понимание структуры реляционных БД;</li> <li>Навык работы с нотациями моделирования бизнес-процессов (BPMN, UML);</li> <li>Понимание REST API, навыки проектирования API;</li> <li>Умение представлять и защищать результат работы (постановка задач разработчикам и представление результата заказчикам);</li> <li>Опыт составления технической документации по проекту (ТЗ, ЧТЗ, формирование общего описания системы, руководство пользователя, инструкций и т.д.).</li> </ul> <p><strong>Плюсом будет:</strong></p> <ul> <li>Опыт проектирования сложных систем, сервисов и интерфейсов;</li> <li>Опыт работы с системами Jira и Confluence.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Оформление по ТК РФ, белая заработная плата;</li> <li>Можно работать как в офисе (Казань, ул. Ершова, 55В), так и в гибридном формате, с 8:00 до 17:00, либо с 9:00 до 18:00;</li> <li>Работа в команде профессионалов из разных сфер, которые всегда готовы поделиться опытом;</li> <li>Комфортные условия труда (полная организация рабочего места, предоставление необходимого оборудования);</li> <li>Возможности профессионального развития: проведение внутренних митапов, хакатонов, оплачиваемые профессиональные курсы;</li> <li>Релокационный пакет для сотрудников в том числе из другого региона.</li> </ul>",
+  "branded_description": "\n<style>\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    font-family: \"Arial\", sans-serif;\n    color: #3A3A3A;\n    font-size: 18px;\n    line-height: 24px;\n    overflow: hidden;\n}\n.tmpl_hh_wrapper *{\n    box-sizing: border-box;\n}\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n.hht-vacancydescription {\n    padding: 0px;\n}\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;    \n}\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-weight: normal;\n    font-size: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n    display: inline;\n}\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    margin: 0 0 20px;\n}\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    display: block;\n    font-size: 32px;\n    line-height: 37px;\n}\n.tmpl_hh_content b em,\n.tmpl_hh_content strong em,\n.tmpl_hh_content em b,\n.tmpl_hh_content em strong {\n    font-size: initial;\n    line-height: initial;\n    font-style: normal;\n    font-weight: bold;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong{\n    margin: 0;   \n    display: inline;\n}\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 27px;\n    list-style: none !important;\n    margin-bottom: 42px;\n}\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 20px;\n}\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ul li strong em,\n.tmpl_hh_content ol li strong em,\n.tmpl_hh_content ul li em strong,\n.tmpl_hh_content ol li em strong {\n    font-size: initial;\n    line-height: initial;\n    font-weight: bold;\n    font-style: normal;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 8px;\n    margin-bottom: 8px;\n}\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;    \n}\n.tmpl_hh_content li:before {\n    content: '';\n    position: absolute;\n    left: -18px;\n    top: 0;\n}\n.tmpl_hh_content ul>li:before {\n    width: 4px;\n    height: 4px;\n    border-radius: 100%;\n    background-color: #3A3A3A;\n    left: -16px;\n    top: 9px;\n}\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter)'.';\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n.tmpl_hh_video {\n    position: relative;\n    width: 100%;\n}\n.tmpl_hh_video img,\n.tmpl_hh_video iframe {\n    position: absolute;\n    left: 0;\n    top: 0;\n    width: 100%;\n    height: 100%;\n}\n\n.tmpl_hh_wrapper img{\n    width: 100%;\n    display: block;\n}\n.tmpl_hh_content {\n    padding: 42px 0 1px;\n}\n.tmpl_hh_content .tmpl_hh_margin{\n    margin-top: 41px;\n}\n\n.tmpl_hh_wrapper__inner{\n    padding: 40px;\n}\n.tmpl_hh_content .tmpl_hh_title{\n    margin-top: 42px;\n}\n\n.tmpl_hh_header{\n    position: relative;\n    height: 0;\n    padding-bottom: 50%;\n    background: url(https://hhcdn.ru/ichameleon/369054.jpg) top center/cover no-repeat;\n    border-radius: 20px;\n}\n.tmpl_hh_header .tmpl_hh_bold{\n    position: absolute;\n    bottom: 24px;\n    left: 32px;\n    width: 50%;\n}\n\n.tmpl_hh_footer{\n    border-radius: 20px;\n    background-color: #05113E;\n    height: 218px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n}\n.tmpl_hh_footer .tmpl_hh_text{\n    width: 66%;\n    margin: 0 auto;\n}\n    .tmpl_hh_hero__logo {\ndisplay: none;\n}\n@media (max-width: 699px) {\n    .tmpl_hh_hero__logo {\ndisplay: block;\nopacity: 0.66;\n        width: 68px;\n    position: absolute;\n    top: 15px;\n    left: 20px;\n    }\nimg.tmpl_hh_texts {\ndisplay: none;\n}\n    .tmpl_hh_wrapper{\n        font-size: 15px;\n        line-height: 18px;\n        margin-left: -5px;\n        width: calc(100% + 10px);\n    }\n    .tmpl_hh_wrapper__inner {\n        padding: 0;\n    }\n    .tmpl_hh_header{\n        background-image: url(https://hhcdn.ru/ichameleon/370148.png);\n        padding-bottom: 103%;\n    }\n    .tmpl_hh_header .tmpl_hh_bold {\n        bottom: auto;\n           left: 20px;\n        width: 60%;\n        top: 55px;\n        max-width: 320px;\n    }\n    .tmpl_hh_content {\n        padding: 30px 5px 1px;\n    }\n    .tmpl_hh_content ol, .tmpl_hh_content ul{\n        margin-left: 22px;\n    }\n    .tmpl_hh_content ul>li:before{\n        left: -13px;\n        top: 6px;\n    }\n    .tmpl_hh_content b, .tmpl_hh_content strong{\n        font-size: 24px;\n        line-height: 28px;\n    }\n    .tmpl_hh_footer{\n        margin-top: -2px;\n        margin-left: 4px;\n        margin-right: 4px;\n        height: 200px;\n    }\n    .tmpl_hh_footer .tmpl_hh_text{\n        width: 212px;\n    }\n}\n</style>\n\n<script>\n//\n\n    function DOM_HH_Ready() {\n\n    const initTitles = () => {\n        const lists = document.querySelectorAll('.tmpl_hh_content ul, .tmpl_hh_content ol');\n        lists.forEach((item) => {\n            const beforeEl = item.previousElementSibling;\n            beforeEl.classList.add('tmpl_hh_title');\n        });\n    }\n    initTitles();\n\n    }\n    if (document.readyState === \"loading\") {\n        document.addEventListener(\"DOMContentLoaded\", DOM_HH_Ready);\n    } else {\n        DOM_HH_Ready();\n    }\n\n//\n</script>\n\n    <div class=\"tmpl_hh_wrapper\">\n        <div class=\"tmpl_hh_wrapper__inner\">\n            <div class=\"tmpl_hh_header\">         \n              <div class=\"tmpl_hh_hero__logo\">\n                <img src=\"https://hhcdn.ru/ichameleon/370118.svg\" width=\"92\" height=\"30\" alt=\"\">\n            </div>       \n                <picture>\n                    <source srcset=\"https://hhcdn.ru/ichameleon/369060.svg\" media=\"(max-width: 699px)\"></source>\n                    <img src=\"https://hhcdn.ru/ichameleon/369057.svg\" alt=\"\" class=\"tmpl_hh_texts\">\n                </picture>\n                <img src=\"https://hhcdn.ru/ichameleon/369055.svg\" alt=\"\" class=\"tmpl_hh_bold\">\n            </div>\n            \n            <div class=\"tmpl_hh_content\">\n                <p><strong>О компании:</strong></p> <p>ТТК Диджитал - дочерняя IT-компания ПАО «Таттелеком», которая занимается разработкой программного обеспечения полного цикла.</p> <p>Мы разрабатываем и развиваем продукты для пользователей услуг связи, умные домофоны и внутренние сервисы. Более 700 тысяч пользователей используют наши приложения.</p> <p>Мы приглашаем присоединиться к нашей команде Системного аналитика, который готов решать сложные задачи и погрузиться в проекты регионального масштаба.</p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Работа с проектной командой, постановка задач разработчикам и контроль за исполнением;</li> <li>Поиск и устранение узких мест в функциональности и бизнес-процессах системы;</li> <li>Сбор, анализ, формализация, документирование и согласование требований к системе;</li> <li>Контроль качества и полноты реализации требований;</li> <li>Проектирование БД и интерфейса;</li> <li>Проведение review-документации и верификации результатов на соответствие требованиям;</li> <li>Разработка проектной документации (технических заданий, регламентов и инструкций);</li> <li> <p>Ведение внутренней проектной документации (спецификации требований, варианты использования) и наполнение базы знаний проекта.</p> </li> </ul> <p><strong>Для нас важно:</strong></p> <ul> <li>Опыт работы в системном анализе от 2-х лет;</li> <li>Высшее техническое образование;</li> <li>Владение SQL на уровне написания средних запросов и понимание структуры реляционных БД;</li> <li>Навык работы с нотациями моделирования бизнес-процессов (BPMN, UML);</li> <li>Понимание REST API, навыки проектирования API;</li> <li>Умение представлять и защищать результат работы (постановка задач разработчикам и представление результата заказчикам);</li> <li>Опыт составления технической документации по проекту (ТЗ, ЧТЗ, формирование общего описания системы, руководство пользователя, инструкций и т.д.).</li> </ul> <p><strong>Плюсом будет:</strong></p> <ul> <li>Опыт проектирования сложных систем, сервисов и интерфейсов;</li> <li>Опыт работы с системами Jira и Confluence.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Оформление по ТК РФ, белая заработная плата;</li> <li>Можно работать как в офисе (Казань, ул. Ершова, 55В), так и в гибридном формате, с 8:00 до 17:00, либо с 9:00 до 18:00;</li> <li>Работа в команде профессионалов из разных сфер, которые всегда готовы поделиться опытом;</li> <li>Комфортные условия труда (полная организация рабочего места, предоставление необходимого оборудования);</li> <li>Возможности профессионального развития: проведение внутренних митапов, хакатонов, оплачиваемые профессиональные курсы;</li> <li>Релокационный пакет для сотрудников в том числе из другого региона.</li> </ul><div class=\"tmpl_hh_margin\"></div>\n            </div>\n    \n            <div class=\"tmpl_hh_footer\">\n                <div class=\"tmpl_hh_text\">\n                    <picture>\n                        <source srcset=\"https://hhcdn.ru/ichameleon/369062.svg\" media=\"(max-width: 699px)\"></source>\n                        <img src=\"https://hhcdn.ru/ichameleon/369058.svg\" alt=\"\">\n                    </picture>\n                </div>\n            </div>\n        </div>\n    </div>\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Базы данных"
+    },
+    {
+      "name": "Системный анализ"
+    },
+    {
+      "name": "BPMN"
+    },
+    {
+      "name": "UML"
+    },
+    {
+      "name": "Atlassian Jira"
+    },
+    {
+      "name": "REST API"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "10",
+      "name": "Аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "6137125",
+    "name": "ТТК Диджитал",
+    "url": "https://api.hh.ru/employers/6137125",
+    "alternate_url": "https://hh.ru/employer/6137125",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/964230.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5390940.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5390941.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6137125",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-27T08:41:22+0300",
+  "created_at": "2025-05-27T08:41:22+0300",
+  "initial_created_at": "2024-05-16T17:28:56+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=99177632",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/99177632",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

@@ -1,0 +1,159 @@
+{
+  "id": "119842041",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Технический писатель",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "Планетная улица",
+    "building": "30",
+    "lat": 55.049478,
+    "lng": 82.959991,
+    "description": null,
+    "raw": "Новосибирск, Планетная улица, 30",
+    "metro": {
+      "station_name": "Березовая роща",
+      "line_name": "Дзержинская",
+      "station_id": "53.305",
+      "line_id": "53",
+      "lat": 55.043242,
+      "lng": 82.952913
+    },
+    "metro_stations": [
+      {
+        "station_name": "Березовая роща",
+        "line_name": "Дзержинская",
+        "station_id": "53.305",
+        "line_id": "53",
+        "lat": 55.043242,
+        "lng": 82.952913
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>АО &quot;Электроагрегат&quot; приглашает технического писателя.</p> <p>Мы предлагаем стабильную работу в надежном предприятии с богатой историей.</p> <p><strong>УСЛОВИЯ:</strong></p> <ul> <li>Официальное трудоустройство, полный соц. пакет согласно ТК РФ, заработная плата обговаривается на собеседовании с руководителем.</li> <li>Удобная транспортная развязка. Находимся по адресу ул. Планетная, д.30 - остановка ул. Красина, 10 минут от метро &quot;Березовая Роща&quot;.</li> <li>На территории имеются удобные бесплатные автомобильная и велосипедная парковки.</li> <li>График работы: пн-чт с 8.00. до 17:00, пятница сокращенный день до 15:45.</li> <li>Помощь наставника на первоначальном этапе.</li> <li>Прохождение медосмотра за счет работодателя.</li> <li>Действует программа поддержки начинающих специалистов.</li> <li>Оплачивается содержание детей в детском саду.</li> <li>Материальная помощь и другие меры социальной поддержки сотрудников.</li> <li>Внешнее обучение, курсы повышения квалификации по направлениям деятельности предприятия.</li> <li>Внутрикорпоративные праздничные мероприятия.</li> </ul> <p><strong>Обязанности:</strong></p> <p>Разработка технической документации для дизельных электростанций (Технические условия, Руководства по эксплуатации, Программы и методики испытаний).</p> <p>Работа с техническим заданием, выполнение технических расчетов.</p> <p>Согласование применения комплектующих изделий.</p> <p>Оформление конструкторской документации в соответствии с требованиями ЕСКД.</p> <p>Сопровождение производства.</p> <p><strong>Требования:</strong></p> <p>Высшее техническое образование, опыт работы на аналогичной должности.</p> <p>Опыт работы в Компас 3D, Компас-График.</p> <p>Опыт оформления конструкторской документации согласно ЕСКД.</p> <p> </p> <p><strong>Мы будем рады вам!</strong></p>",
+  "branded_description": "\n<style>\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    font-family: \"Arial\", sans-serif;\n    color: #000;\n    font-size: 15px;\n    line-height: 20px;\n    overflow: hidden;\n    border-radius: 4px;\n    background: #EAEAE9;\n}\n.tmpl_hh_wrapper *{\n    box-sizing: border-box;\n}\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n.hht-vacancydescription {\n    padding: 0px;\n}\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;    \n}\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-weight: normal;\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n    display: inline;\n}\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    margin: 0 0 20px;\n}\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    color: #000;\n    display: block;\n    font-size: 26px;\n    line-height: 30px;\n    text-transform: uppercase;\n    font-weight: normal;\n}\n.tmpl_hh_content b em,\n.tmpl_hh_content strong em,\n.tmpl_hh_content em b,\n.tmpl_hh_content em strong {\n    font-size: initial;\n    line-height: initial;\n    font-style: normal;\n    font-weight: bold;\n    color: initial;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong{\n    margin: 0;   \n    display: inline;\n}\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 17px;\n    list-style: none !important;\n    margin-bottom: 40px;\n}\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 12px;\n}\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ul li strong em,\n.tmpl_hh_content ol li strong em,\n.tmpl_hh_content ul li em strong,\n.tmpl_hh_content ol li em strong {\n    font-size: initial;\n    line-height: initial;\n    font-weight: bold;\n    font-style: normal;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 8px;\n    margin-bottom: 8px;\n}\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;    \n}\n.tmpl_hh_content li:before {\n    content: '';\n    position: absolute;\n    left: -18px;\n    top: 0;\n}\n.tmpl_hh_content ul>li:before {\n    width: 5px;\n    height: 5px;\n    border-radius: 100%;\n    background-color: #000;\n    left: -17px;\n    top: 7px;\n}\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter)'.';\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n.tmpl_hh_video {\n    position: relative;\n    width: 100%;\n}\n.tmpl_hh_video img,\n.tmpl_hh_video iframe {\n    position: absolute;\n    left: 0;\n    top: 0;\n    width: 100%;\n    height: 100%;\n}\n\n.tmpl_hh_wrapper img{\n    width: 100%;\n    display: block;\n}\n.tmpl_hh_content {\n    padding: 48px 40px 1px;\n}\n.tmpl_hh_header{\n    background: #1E1E1E;\n    color: #fff;\n    position: relative;\n}\n.tmpl_hh_header__img{\n    position: relative;\n    width: 94.3%;\n    height: 0;\n    padding-bottom: 52%;\n    background: url(https://hhcdn.ru/ichameleon/326688.jpg) no-repeat top center/cover;\n}\n.tmpl_hh_header__img:before{\n    content: '';\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n    background: rgba(0, 0, 0, 0.45);\n}\n.tmpl_hh_header__img:after{\n    content: '';\n    position: absolute;\n    bottom: -38px;\n    right: -38px;\n    width: 70px;\n    height: 70px;\n    background-color: #1E1E1E;\n    transform: rotate(45deg);\n}\n.tmpl_hh_header__text{\n    position: absolute;\n    top: 96px;\n    left: 40px;\n    font-size: 40px;\n    line-height: 46px;\n    text-transform: uppercase;\n}\n.tmpl_hh_header__text b{\n    display: block;\n}\n.tmpl_hh_header__btn{\n    position: absolute;\n    top: 220px;\n    left: 40px;\n    font-size: 14px;\n    line-height: 16px;\n    padding: 14px 48px 14px 20px;\n    background: rgba(53, 113, 227, 0.80);\n    text-transform: uppercase;\n}\n.tmpl_hh_header__btn .tmpl_hh_arrow{\n    position: absolute;\n    top: 14px;\n    right: 19px;\n    width: 12px;\n}\n.tmpl_hh_header__about{\n    padding: 48px 40px;\n    display: flex;\n    justify-content: space-between;\n    flex-wrap: wrap;\n}\n.tmpl_hh_header__about b{\n    font-size: 40px;\n    line-height: 46px;\n    text-shadow: 0px 4px 20px rgba(0, 0, 0, 0.20);\n    font-weight: normal;\n}\n.tmpl_hh_header__about p{\n    font-size: 14px;\n    line-height: 20px;\n    text-shadow: 0px 4px 20px rgba(0, 0, 0, 0.20);\n    width: 68.8%;\n}\n.tmpl_hh_content .tmpl_hh_title{\n    margin-top: 40px;\n    display: block;\n}\n.tmpl_hh_content .tmpl_hh_anchor{\n    margin-top: 76px;\n}\n\n.tmpl_hh_lawyer{\n    padding: 24px 40px 24px;\n    color: #878787;\n    font-size: 13px;\n    line-height: 20px;\n}\n.tmpl_hh_footer__img{\n    position: relative;\n    height: 0;\n    padding-bottom: 45.7%;\n    background: url(https://hhcdn.ru/ichameleon/326691.jpg) no-repeat top center/cover;\n    display: flex;\n    align-items: center;\n}\n.tmpl_hh_footer__img .tmpl_hh_man{\n    position: absolute;\n    bottom: 0;\n    left: 8.5%;\n    width: 47.5%;\n}\n.tmpl_hh_footer__img .tmpl_hh_logo{\n    width: 165px;\n    margin: 0 auto 20px;\n}\n.tmpl_hh_footer__img .tmpl_hh_text{\n    width: 250px;\n    position: absolute;\n    top: 50%;\n    transform: translateY(-50%);\n    right: 40px;\n}\n.tmpl_hh_footer__img .tmpl_hh_item{\n    color: #fff;\n    margin-bottom: 10px;\n    text-align: center;\n    width: 100%;\n    padding: 12px;\n    font-size: 20px;\n    line-height: 23px;\n    background: url(https://hhcdn.ru/ichameleon/326692.svg) no-repeat top left/100%;\n    padding: 8px;\n}\n\n@media (max-width: 1019px) {\n    \n    .tmpl_hh_header__text{\n        top: 85px;\n    }\n    .tmpl_hh_header__btn{\n        top: 205px;\n    }\n    .tmpl_hh_header__about {\n        padding: 40px 40px;\n    }\n    .tmpl_hh_header__about p{\n        width: 69.8%;\n    }\n    .tmpl_hh_header__about b{\n        font-size: 36px;\n        line-height: 40px;\n    }\n    .tmpl_hh_footer__img .tmpl_hh_logo {\n        width: 150px;\n    }\n    .tmpl_hh_footer__img .tmpl_hh_item{\n        font-size: 18px;\n        line-height: 20px;\n    }\n    .tmpl_hh_footer__img .tmpl_hh_text{\n        width: 200px;\n    }\n\n}\n@media (max-width: 699px) {\n\n    .tmpl_hh_wrapper{\n        font-size: 14px;\n        line-height: 20px;\n        margin-left: -5px;\n        width: calc(100% + 10px);\n    }\n    .tmpl_hh_content b, .tmpl_hh_content strong{\n        font-size: 22px;\n        line-height: 25px;\n    }\n    .tmpl_hh_content ol, .tmpl_hh_content ul{\n        margin-bottom: 32px;\n    }\n    .tmpl_hh_content{\n        padding: 33px 22px 1px;\n    }\n    .tmpl_hh_header__img{\n        background-image: url(https://hhcdn.ru/ichameleon/326694.jpg);\n        width: calc(100% - 22px);\n        padding-bottom: 51%;\n    }\n    .tmpl_hh_header__img:before{\n        opacity: 0;\n    }\n    .tmpl_hh_header__img:after{\n        right: -63px;\n    }\n    .tmpl_hh_header__text{\n        position: relative;\n        top: 0;\n        left: 0;\n        padding: 33px 18px 0 22px;\n        font-size: 27px;\n        line-height: 34px;\n    }\n    .tmpl_hh_header__btn{\n        position: relative;\n        top: 0;\n        left: 0;\n        margin-left: 22px;\n        width: calc(100% - 44px);\n        font-size: 12px;\n        line-height: 14px;\n        margin-top: 16px;\n        padding: 12px 44px 12px 20px;\n    }\n    .tmpl_hh_header__btn .tmpl_hh_arrow{\n        top: 11px;\n        right: 20px;\n        width: 11px;\n    }\n    .tmpl_hh_header__about{\n        padding: 32px 22px 31px;\n    }\n    .tmpl_hh_header__about b {\n        font-size: 27px;\n        line-height: 34px;\n        margin-bottom: 12px;\n    }\n    .tmpl_hh_header__about p{\n        width: 100%;\n    }\n    .tmpl_hh_content .tmpl_hh_title{\n        margin-top: 32px;\n    }\n    .tmpl_hh_content .tmpl_hh_anchor {\n        margin-top: 50px;\n    }\n    .tmpl_hh_footer__img{\n        padding-bottom: 46%;\n    }\n    .tmpl_hh_footer__img .tmpl_hh_text {\n        width: 110px;\n        right: 17px;\n    }\n    .tmpl_hh_footer__img .tmpl_hh_logo {\n        width: 71px;\n        margin: 0 auto 7px;\n    }\n    .tmpl_hh_footer__img .tmpl_hh_item {\n        font-size: 13px;\n        line-height: 15px;\n        margin-bottom: 2px;\n        padding: 5px;\n        background-image: url(https://hhcdn.ru/ichameleon/326695.svg);\n    }\n    .tmpl_hh_lawyer{\n        padding: 21px 22px 24px;\n        line-height: 18px;\n    }\n}\n\n</style>\n\n<script>\n//\n\n    function DOM_HH_Ready() {\n\n        var lists = [].slice.call(document.querySelectorAll('.tmpl_hh_content ul, .tmpl_hh_content ol'));\n        lists.forEach(function(item){\n            var beforeEl = item.previousElementSibling;\n            beforeEl.classList.add('tmpl_hh_title');\n        });\n\n    }\n    if (document.readyState === \"loading\") {\n        document.addEventListener(\"DOMContentLoaded\", DOM_HH_Ready);\n    } else {\n        DOM_HH_Ready();\n    }\n\n//\n</script>\n\n    <div class=\"tmpl_hh_wrapper\">\n        <div class=\"tmpl_hh_header\">\n            <div class=\"tmpl_hh_header__img\"></div>\n            <div class=\"tmpl_hh_header__text\">С нами <b>всегда надежно</b></div>\n            <div class=\"tmpl_hh_header__btn\">ОЗНАКОМИТЬСЯ С ВАКАНСИЕЙ <img src=\"https://hhcdn.ru/ichameleon/326687.svg\" class=\"tmpl_hh_arrow\" alt=\"\"></div>\n            <div class=\"tmpl_hh_header__about\">\n                <b>О НАС</b>\n                <p>АО «Электроагрегат» на протяжении многих лет является одним из ключевых предприятий по производству и ремонту дизельных электроагрегатов и электростанций специального \n                    и общепромышленного назначения. ЭТРО осуществляет полный цикл изготовления изделий: от разработки до производства.</p>\n            </div>\n        </div>\n        \n        <div class=\"tmpl_hh_content\">\n            <p>АО \"Электроагрегат\" приглашает технического писателя.</p> <p>Мы предлагаем стабильную работу в надежном предприятии с богатой историей.</p> <p><strong>УСЛОВИЯ:</strong></p> <ul> <li>Официальное трудоустройство, полный соц. пакет согласно ТК РФ, заработная плата обговаривается на собеседовании с руководителем.</li> <li>Удобная транспортная развязка. Находимся по адресу ул. Планетная, д.30 - остановка ул. Красина, 10 минут от метро \"Березовая Роща\".</li> <li>На территории имеются удобные бесплатные автомобильная и велосипедная парковки.</li> <li>График работы: пн-чт с 8.00. до 17:00, пятница сокращенный день до 15:45.</li> <li>Помощь наставника на первоначальном этапе.</li> <li>Прохождение медосмотра за счет работодателя.</li> <li>Действует программа поддержки начинающих специалистов.</li> <li>Оплачивается содержание детей в детском саду.</li> <li>Материальная помощь и другие меры социальной поддержки сотрудников.</li> <li>Внешнее обучение, курсы повышения квалификации по направлениям деятельности предприятия.</li> <li>Внутрикорпоративные праздничные мероприятия.</li> </ul> <p><strong>Обязанности:</strong></p> <p>Разработка технической документации для дизельных электростанций (Технические условия, Руководства по эксплуатации, Программы и методики испытаний).</p> <p>Работа с техническим заданием, выполнение технических расчетов.</p> <p>Согласование применения комплектующих изделий.</p> <p>Оформление конструкторской документации в соответствии с требованиями ЕСКД.</p> <p>Сопровождение производства.</p> <p><strong>Требования:</strong></p> <p>Высшее техническое образование, опыт работы на аналогичной должности.</p> <p>Опыт работы в Компас 3D, Компас-График.</p> <p>Опыт оформления конструкторской документации согласно ЕСКД.</p> <p> </p> <p><strong>Мы будем рады вам!</strong></p><div class=\"tmpl_hh_anchor\"></div>\n        </div>\n\n        <div class=\"tmpl_hh_footer\">\n            <div class=\"tmpl_hh_footer__img\">\n                <img src=\"https://hhcdn.ru/ichameleon/326689.png\" alt=\"\" class=\"tmpl_hh_man\">\n                <div class=\"tmpl_hh_text\">\n                    <img src=\"https://hhcdn.ru/ichameleon/326690.png\" alt=\"\" class=\"tmpl_hh_logo\">\n                    <div class=\"tmpl_hh_item\">Призвание</div>\n                    <div class=\"tmpl_hh_item\">Труд</div>\n                    <div class=\"tmpl_hh_item\">Уважение</div>\n                </div>\n            </div>\n            <div class=\"tmpl_hh_lawyer\">АО «Электроагрегат» работает под брендом Этро</div>\n        </div>\n    </div>\n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "126",
+      "name": "Технический писатель"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "806439",
+    "name": "Электроагрегат",
+    "url": "https://api.hh.ru/employers/806439",
+    "alternate_url": "https://hh.ru/employer/806439",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1385518.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7161859.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7161860.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=806439",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-28T05:32:33+0300",
+  "created_at": "2025-05-28T05:32:33+0300",
+  "initial_created_at": "2025-04-23T05:25:55+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119842041",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119842041",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

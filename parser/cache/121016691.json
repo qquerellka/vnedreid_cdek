@@ -1,0 +1,221 @@
+{
+  "id": "121016691",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Веб-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "набережная Мартынова",
+    "building": "4",
+    "lat": 59.973843,
+    "lng": 30.263398,
+    "description": null,
+    "raw": "Санкт-Петербург, набережная Мартынова, 4",
+    "metro": {
+      "station_name": "Крестовский остров",
+      "line_name": "Фрунзенско-Приморская",
+      "station_id": "18.247",
+      "line_id": "18",
+      "lat": 59.971821,
+      "lng": 30.259436
+    },
+    "metro_stations": [
+      {
+        "station_name": "Крестовский остров",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.247",
+        "line_id": "18",
+        "lat": 59.971821,
+        "lng": 30.259436
+      },
+      {
+        "station_name": "Старая Деревня",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.246",
+        "line_id": "18",
+        "lat": 59.989433,
+        "lng": 30.255163
+      },
+      {
+        "station_name": "Чкаловская",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.248",
+        "line_id": "18",
+        "lat": 59.961033,
+        "lng": 30.292006
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p><p>• Администрирование работы сайта;</p><ul><li>Разработка, программирование и ведение онлайн проектов;</li><li>Оптимизация, разработка нового функционала;</li><li>Настройка и системное администрирование сервера Linux/Unix;</li><li>Администрирование и модерирование официальных ресурсов компании (сайт, интернет-порталы, аккаунты в социальных сетях);</li><li>Обеспечение бесперебойной работы сайта. Поддержание сайта в актуальном информационном техническом состоянии, оптимизация под поисковые агрегаторы;</li><li>Взаимодействие с хостинговыми компаниями;</li><li>Работа с компаниями, предоставляющими сторонние модули для сайтов;</li><li>Рекомендации по улучшению кода и защиты сайта.</li></ul><p><strong>Требования:</strong>​​​​​​​Уверенное владение: PHP, HTML, CSS, JS, баз данных (СУБД MySQL), Bash, Python;</p><ul><li>Опыт работы с web серверами (Apache, Nginx);</li><li>Умение читать и править чужой код;</li><li>Знание CMS WordPress, Drupal;</li><li>Умение работать в режиме многозадачности.</li></ul><p><strong>Условия:</strong>​​​​​​​Оформление в соответствии с ТК РФ;</p><ul><li>Комфортные условия: спокойные уютные кабинеты, местонахождение клиники у парка и на набережной - прекрасный вид из окна, при этом - в 5 минутах от метро;</li><li>5-тидневный режим работы, 10-19.</li><li>Заработная плата по результатам собеседования</li></ul><p>Собеседование с кандидатами проходит в очном формате.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Веб-программирование"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "PHP5"
+    },
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "Bash"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Apache"
+    },
+    {
+      "name": "Nginx"
+    },
+    {
+      "name": "CMS Wordpress"
+    },
+    {
+      "name": "Администрирование серверов Linux"
+    },
+    {
+      "name": "Unix"
+    },
+    {
+      "name": "Администрирование сайтов"
+    },
+    {
+      "name": "Многозадачность"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11722553",
+    "name": "Центр Медицины и Научных Исследований Medical Factum",
+    "url": "https://api.hh.ru/employers/11722553",
+    "alternate_url": "https://hh.ru/employer/11722553",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1391220.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7184667.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7184668.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11722553",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-27T10:18:07+0300",
+  "created_at": "2025-05-27T10:18:07+0300",
+  "initial_created_at": "2025-05-27T10:18:07+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121016691",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121016691",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

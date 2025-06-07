@@ -1,0 +1,169 @@
+{
+  "id": "120837001",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Младший разработчик C# (.Net Core)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "набережная реки Мойки",
+    "building": "82",
+    "lat": 59.930223,
+    "lng": 30.303373,
+    "description": null,
+    "raw": "Санкт-Петербург, набережная реки Мойки, 82",
+    "metro": {
+      "station_name": "Адмиралтейская",
+      "line_name": "Фрунзенско-Приморская",
+      "station_id": "18.258",
+      "line_id": "18",
+      "lat": 59.935867,
+      "lng": 30.31523
+    },
+    "metro_stations": [
+      {
+        "station_name": "Адмиралтейская",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.258",
+        "line_id": "18",
+        "lat": 59.935867,
+        "lng": 30.31523
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>С 2001 года наша компания «Офис-Док» внедряет, поддерживает, интегрирует, разрабатывает системы электронного документооборота и оказывает техническую поддержку заказчикам (бизнес и госсектор).</p> <p>Мы делаем процессы организаций и госучреждений быстрее, прозрачнее, проще и эффективнее. Наш опыт насчитывает 500+ проектов. Регулярно мы увеличиваем масштабы проектов и расширяем нашу команду.</p> <p>Сейчас в команде разработки 6 сотрудников. В связи с быстрым ростом компании и значительным увеличением кол-ва проектов мы <strong>открываем дополнительную вакансию младшего программиста C#</strong></p> <p><strong>Обязанности:</strong></p> <ul> <li>разработка серверного кода на С#</li> <li>установка разработок в виде dll</li> <li>обобщенное итоговое тестирование разработанной функции</li> </ul> <p><strong>Требования:</strong></p> <ul> <li><strong>опыт коммерческой разработки на C# от 1 года;</strong></li> <li>опыт написания приложений и плагинов в среде Visual Studio</li> <li>навыки работы с одной из СУБД Microsoft SQL Server или PostgreSQL</li> <li><strong>Желательно, но не является обязательным требованием:</strong></li> <li>знание и опыт работы с .Net Core</li> <li>опыт создания собственных библиотек dll;</li> <li>высшее техническое образование;</li> <li>понимание работы клиент-серверных приложений</li> </ul> <p><strong>Условия:</strong></p> <ul> <li> <p>Оклад от 100 000 руб. &quot;на руки&quot; - обсуждаем индивидуально с интересными кандидатами. Возможны премии (индивидуально за высокие показатели работы или иные заслуги)</p> </li> <li> <p>график 5/2 с 09.00 до 18.00, после исп.срока - <strong>гибридный формат</strong> работы (обсуждаемо)</p> </li> <li> <p>работа в просторном офисе в центре города с красивым видом из окна - наб.реки Мойки, д.82 (ближайшая ст.м.Адмиралтейская)</p> </li> <li> <p>Официальное трудоустройство в полном соответствии с ТК РФ, полностью &quot;белая&quot; з/п</p> </li> <li> <p>Мы являемся аккредитованной ИТ-компанией. Система аккредитация ИТ-компаний дает право на различные льготы (отсрочка, льготная ипотека)</p> </li> <li> <p>Мы предоставим опытного наставника на период первого месяца Вашей работы в компании</p> </li> <li> <p>Будем с нетерпением ждать Ваших откликов! До связи)!</p> </li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "MS SQL Server"
+    },
+    {
+      "name": "C#"
+    },
+    {
+      "name": ".NET Core"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "72964",
+    "name": "Офис-Док",
+    "url": "https://api.hh.ru/employers/72964",
+    "alternate_url": "https://hh.ru/employer/72964",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/252278.png",
+      "90": "https://img.hhcdn.ru/employer-logo/1451745.png",
+      "240": "https://img.hhcdn.ru/employer-logo/1451746.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=72964",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T19:40:39+0300",
+  "created_at": "2025-06-05T19:40:39+0300",
+  "initial_created_at": "2025-05-21T19:40:39+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120837001",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120837001",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

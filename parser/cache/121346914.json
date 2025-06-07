@@ -1,0 +1,149 @@
+{
+  "id": "121346914",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Senior Python разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 5000,
+    "to": 9000,
+    "currency": "USD",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 5000,
+    "to": 9000,
+    "currency": "USD",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы - динамично развивающийся стартап, решаем различные задачи на стыке разработки и ML: генерации текста, аудио и видео, обогащению данных (сбор данных из соцсетей, видеохостингов и тд). В том числе работаем с задачами, связанными с блокчейном.</p> <p>Мы сконцентрированы на решении технических задач с элементами соревнования. Осуществляем полный цикл работы над задачей: от анализа бизнес-задачи до вывода в продакшен полноценного решения, также осуществляем поддержку и мониторинг работающих решений. Находимся в поиске SE.</p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>разрабатывать MVP-решения для задач из различных областей (генерация текста / аудио, сбор данных, извлечение блокчейн данных).</li> <li>проектировать и разрабатывать архитектуру решения задач, интегрировать внешние решения (в том числе ML)</li> <li>анализировать существующие open-source решения (в том числе ML), адаптировать их под конкретную задачу.</li> <li>работать с различными БД, выбирать подходящие для решения задач</li> </ul> <p><strong>Требования к кандидату:</strong></p> <ul> <li>Отличное знание Python, опыт работы с микросервсными фрейворками</li> <li>Опыт работы от 4 лет; опыт разработки на Python от 3 года</li> <li>Хорошее знание SQL, опыт работы с СУБД, NoSQL-БД</li> <li>Понимание System Design, опыт проектирования систем, опыт работы с брокерами сообщений, балансировщиками нагрузки</li> <li>Опыт работы с высоконагруженными системами</li> <li>Высшее образование в области компьютерных технологий / прикладной математики и (или) прикладной информатики;</li> <li>Английский язык B2 и выше.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт работы с ML-проектами</li> <li>Опыт работы с блокчейн-данными</li> <li>Опыт с C++/ Go / Java</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Участие в разработке динамично развивающегося продукта, работающего на рынке в реальном времени;</li> <li>Справедливую заработную плату по результатам собеседования и вашей квалификации <strong>в вилке 5-9К$;</strong></li> <li>Возможность прокачивать свою экспертизу за счет работы с топовыми коллегами и обучения в моменте;</li> <li>Классный молодой коллектив профессионалов, заряженных на результат. Ценим порядочность, честность и открытость;</li> <li>Горизонтальную структуру, отсутствие бюрократии и синдромов «больших начальников»;</li> <li>Мы за результат, а не процесс. У всех наших сотрудников удобный график и полностью удаленная работа без привязке к стране.</li> </ul> <p><strong>Если увидел в этом описании себя - скорее откликайся, чтобы стать частью нашей команды!</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Machine Learning"
+    },
+    {
+      "name": "ML"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "NoSQL"
+    },
+    {
+      "name": "System Design"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11612915",
+    "name": "High Sky",
+    "url": "https://api.hh.ru/employers/11612915",
+    "alternate_url": "https://hh.ru/employer/11612915",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1358444.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/7053686.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/7053687.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11612915",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T15:44:19+0300",
+  "created_at": "2025-06-04T15:44:19+0300",
+  "initial_created_at": "2025-06-04T15:44:19+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121346914",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121346914",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "OTHER",
+      "name": "Другое"
+    }
+  ],
+  "show_logo_in_search": null
+}

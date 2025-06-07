@@ -1,0 +1,170 @@
+{
+  "id": "114810199",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Frontend-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 200000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 200000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "Ипподромская улица",
+    "building": "42",
+    "lat": 55.056991,
+    "lng": 82.938504,
+    "description": null,
+    "raw": "Новосибирск, Ипподромская улица, 42",
+    "metro": {
+      "station_name": "Гагаринская",
+      "line_name": "Ленинская",
+      "station_id": "52.295",
+      "line_id": "52",
+      "lat": 55.051071,
+      "lng": 82.91477
+    },
+    "metro_stations": [
+      {
+        "station_name": "Гагаринская",
+        "line_name": "Ленинская",
+        "station_id": "52.295",
+        "line_id": "52",
+        "lat": 55.051071,
+        "lng": 82.91477
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Русский букет </strong>— это компания по доставке цветов №1 в России по версии Яндекс.Радар. За 12 лет работы мы построили самую большую сеть международной доставки с партнёрами более чем в 100 странах мира.</p> <p><strong>Мы создаём современные IT-решения, которые помогают эффективно работать с заказами и объединять флористов и курьеров по всему миру в единую инфраструктуру.</strong></p> <p><strong>Наши основные продукты:</strong></p> <ul> <li> <p><strong>rus-buket.ru </strong>- один из самых известных на рынке интернет-магазинов по доставке цветов в любую точку России.</p> </li> <li> <p><strong>flomarket.com</strong> - новый, более современный и перспективный маркетплейс по доставке цветов не только по России и странам СНГ, но и по всему миру.</p> </li> <li> <p><strong>myglobalflowers.com</strong> - сервис, который дает возможность доставить сюрприз в любую точку мира несмотря на расстояния.</p> </li> </ul> <p><strong>Наша цель — </strong>войти в число крупнейших сервисов доставки цветов уже не только в России, но и во всем мире. Мы быстро развиваемся в этом направлении и подключаем к партнёрской сети крупные европейские страны.</p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Перевод флагманского проекта компании на серверный рендеринг</li> <li>Проектирование и пересмотр текущей архитектуры приложения совместно с frontend-лидом</li> <li>Отказ от устаревших подходов, технологий и компонентов системы</li> <li>Участие в редизайне разделов сайта, вёрстка новых UI-элементов</li> <li>Активно взаимодействовать с backend-разработчиками</li> </ul> <p><strong>Необходимые навыки:</strong></p> <ul> <li>Уверенное знание js и css</li> <li>Опыт коммерческой командной разработки от 2х лет</li> <li>Опыт взаимодействия с экосистемой Vue.js</li> <li>Опыт использования SSR-подходов (Nuxt.js)</li> <li>Опыт адаптивной и семантической вёрстки</li> <li>Умение собирать приложения с помощью Webpack / Vite</li> <li>Базовые навыки git</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт использования Inertia.js</li> <li>Знакомство с шаблонизатором Blade (Laravel)</li> <li>Работа с макетами в Figma</li> <li>Понимание принципов SEO-оптимизации</li> <li>Опыт тестирования через Vitest</li> <li>Знание TypeScript</li> <li>Базовый опыт взаимодействия с Docker (docker compose)</li> </ul> <p><strong>Что ты получаешь на работе?</strong></p> <ul> <li>высокая скорость роста компании и скорость нашей работы</li> <li>увлеченная команда</li> <li>профессиональное и позитивное руководство</li> <li>профессиональный рост и обучение</li> <li>оформление согласно ТК РФ, своевременная оплата труда, белая заработная плата</li> <li>ДМС после 2-х лет сотрудничества с компанией</li> <li>комфортный современный офис с парковкой</li> </ul> <p>Мы любим, когда наши коллеги стремятся к развитию и прокачке своих скиллов, и стараемся всячески помогать им в этом, поэтому заинтересованы в сотрудниках с профессиональными амбициями.</p> <p><strong>Стало интересно, и хочешь работать с нами? Откликайся на сайте или пиши на почту, и познакомимся!</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "frontend"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "vue2"
+    },
+    {
+      "name": "vue3"
+    },
+    {
+      "name": "nuxt"
+    },
+    {
+      "name": "CSS"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2284205",
+    "name": "Русский Букет",
+    "url": "https://api.hh.ru/employers/2284205",
+    "alternate_url": "https://hh.ru/employer/2284205",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1052555.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/5830869.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/5830870.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2284205",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T08:02:38+0300",
+  "created_at": "2025-06-02T08:02:38+0300",
+  "initial_created_at": "2024-12-25T10:09:00+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=114810199",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/114810199",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,125 @@
+{
+  "id": "121391058",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Frontend Developer",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": false,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Tiger.Trade с 2015 года разрабатывает инновационные инструменты для трейдеров. Сегодня более 200 000 пользователей выбирают флагманские продукты нашей экосистемы — торгово-аналитическую платформу для Windows и macOS и брокерское решение для торговли на крипторынке и мобильное приложение для быстрого реагирования. Скоро мы запускаем собственную криптобиржу. Компания активно развивается: базируясь в Швейцарии мы предоставляем возможность работать удаленно из любой точки мира.<br /><br />Сейчас мы ищем фронтенд-разработчика в команду Tiger.com Broker — веб-платформы с личным кабинетом трейдера для мониторинга и управления торговыми ключами и активами. Платформа позволяет пользователям отслеживать сделки в реальном времени, управлять активами и интегрируется с ведущими биржами, а также с продуктами экосистемы Tiger.com.</p> <p>Стек проекта: React, Redux, Redux Toolkit, TypeScript, Websockets</p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li> <p>Разработкой новых ui модулей приложения и расширением функционала личного кабинета трейдера.</p> </li> <li> <p>Работой над логикой получения и агрегацией данных.</p> </li> <li> <p>Проработкой технических решений вместе с командой.</p> </li> <li> <p>Поддержкой существующих компонентов приложения.</p> </li> <li> <p>Интеграцией с API сторонних платформ.</p> </li> </ul> <p><strong>Мы ожидаем:</strong></p> <ul> <li> <p>Опыт разработки на React + Typescript.</p> </li> <li> <p>Опыт работы с Redux и хорошее понимание стейт-менеджмента.</p> </li> <li> <p>Опыт трейдинга и/или работы в сфере блокчейна/трейдинга/бирж.</p> </li> <li> <p>Опыт работы со сборщиками и понимание их принципов работы, npm.</p> </li> <li> <p>Понимание работы http-протокола и REST-API, Websockets.</p> </li> <li> <p>Опыт адаптивной кроссбраузерной верстки, работа с Storybook.</p> </li> <li> <p>VCS - работа с Git.</p> </li> <li> <p>Опыт работы с i18n или подобными инструментами для интернационализации.</p> </li> <li> <p>Опыт работы с CI/CD (github Actions / gitlab CI).</p> </li> <li> <p>Английский язык уровня B1 и выше.</p> </li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Удалённая работа с гибким графиком: начало рабочего дня — до 11:00 по МСК.</li> <li>Оформление по контракту в ОАЭ с выплатой заработной платы в валюте.</li> <li>Доступ к корпоративным программам: онлайн-сессии с психологом «Ясно», программа корпоративных скидок и другие бонусы.</li> <li>Работа в международной команде профессионалов, ориентированных на высокое качество продукта и постоянное развитие.</li> </ul> <p> </p> <p><em><strong>В сопроводительном письме напишите, пожалуйста:</strong></em></p> <p><em><strong>1. Работали ли вы с торговыми платформами или аналитическими инструментами для трейдинга?</strong></em></p> <p><em><strong>2. Ваши финансовые ожидания</strong></em></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "React"
+    },
+    {
+      "name": "Redux"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5524188",
+    "name": "Тайгер Трейд",
+    "url": "https://api.hh.ru/employers/5524188",
+    "alternate_url": "https://hh.ru/employer/5524188",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1398526.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7213875.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7213876.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5524188",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T15:51:29+0300",
+  "created_at": "2025-06-05T15:51:29+0300",
+  "initial_created_at": "2025-06-05T15:51:29+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121391058",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121391058",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

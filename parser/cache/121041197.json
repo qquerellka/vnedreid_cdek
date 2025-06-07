@@ -1,0 +1,115 @@
+{
+  "id": "121041197",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "AI Engineer / Machine Learning Engineer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>SOFTINTERMOB</strong> специализируется на разработке мобильных приложений для различных сегментов AppStore и Google Play, включая игры, здоровье и фитнес, путешествия и навигацию, фото и видео, образование, а также многое другое. В нашем портфолио более <strong>300 выпущенных проектов</strong> и каждый день наши приложения <strong>скачивают более 200 000 человек по всему миру</strong>.</p> <p><strong>Наша команда</strong> состоит более чем из 400 талантливых специалистов, которые объединены общей целью создания уникальных мобильных приложений.</p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li> <p>Разработка и внедрение AI/ML-моделей для решения задач автоматизации (прогнозирование сроков разработки, оптимизация кода (C#/Python), RAG-системы для анализа документации);</p> </li> <li> <p>Полный цикл создания ML-решений: от исследования и обучения моделей (PyTorch/TensorFlow) до production-интеграции в Unity-проекты;</p> </li> <li> <p>Работа с LLM (GPT-4, LLaMA) и мультиагентными системами (MCP) для автоматизации процессов в Jira/Confluence;</p> </li> <li> <p>Оптимизация моделей для мобильных платформ: квантование, дистилляция, снижение latency.</p> </li> </ul> <p><strong>Наши ожидания:</strong></p> <ul> <li> <p>1+ года коммерческого опыта в Machine Learning (проектирование, обучение и внедрение моделей в production);</p> </li> <li> <p>Экспертные знания: Python (NumPy, Pandas, Scikit-learn), PyTorch/TensorFlow, ML-фреймворки (Hugging Face, LangChain);</p> </li> <li> <p>Опыт работы с LLM (тонкая настройка, RAG, генеративные модели) и векторными БД (Pinecone, FAISS);</p> </li> <li> <p>Умение проектировать ML-пайплайны (предобработка данных, feature engineering, валидация);</p> </li> <li> <p>Понимание принципов Agile и интеграции AI-инструментов в Jira-процессы.</p> </li> <li> <p>Практика с мультиагентными системами (MCP) и автоматизацией задач (n8n, Make).</p> </li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li> <p>Знание Unity и C# (для интеграции моделей в процесс разработки/прогнозирование);</p> </li> </ul> <p><strong>Будет отклонено без рассмотрения: </strong></p> <ul> <li> <p>Нет опыта с production-внедрением ML-моделей (только теоретические знания или учебные проекты);</p> </li> <li> <p>Неумение работать с облачными ML-платформами (AWS SageMaker, GCP Vertex AI);</p> </li> <li> <p>Отсутствие примеров кода (GitHub) или кейсов по решению реальных бизнес-задач.</p> </li> </ul> <p><strong>Что мы предлагаем: </strong></p> <ul> <li> <p>Удаленный формат сотрудничества;</p> </li> <li> <p>Комфортный график сотрудничества: 5/2 с 9:00 до 18:00, час перерыва;</p> </li> <li> <p>Оперативное и эффективное взаимодействие через Element и Jira;</p> </li> <li> <p>Конкурентоспособную оплату за то, что вы будете заниматься любимым делом;</p> </li> <li> <p>Возможность профессионального роста и развития в области создания игрового контента;</p> </li> <li> <p>Поддерживающую и креативную рабочую атмосферу, где ваше мнение и идеи будут цениться;</p> </li> <li> <p>Сотрудничество по системе самозанятости с покрытием налогов со стороны компании.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "165",
+      "name": "Дата-сайентист"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10259650",
+    "name": "Softintermob LLC",
+    "url": "https://api.hh.ru/employers/10259650",
+    "alternate_url": "https://hh.ru/employer/10259650",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1270705.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6703130.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6703131.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10259650",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-27T16:09:21+0300",
+  "created_at": "2025-05-27T16:09:21+0300",
+  "initial_created_at": "2025-05-27T16:09:21+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121041197",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121041197",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

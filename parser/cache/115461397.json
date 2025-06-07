@@ -1,0 +1,220 @@
+{
+  "id": "115461397",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Golang-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 250000,
+    "to": 600000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 250000,
+    "to": 600000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Наличная улица",
+    "building": "44к1",
+    "lat": 59.952074,
+    "lng": 30.232891,
+    "description": null,
+    "raw": "Санкт-Петербург, Наличная улица, 44к1",
+    "metro": {
+      "station_name": "Приморская",
+      "line_name": "Невско-Василеостровская",
+      "station_id": "16.227",
+      "line_id": "16",
+      "lat": 59.948521,
+      "lng": 30.23447
+    },
+    "metro_stations": [
+      {
+        "station_name": "Приморская",
+        "line_name": "Невско-Василеостровская",
+        "station_id": "16.227",
+        "line_id": "16",
+        "lat": 59.948521,
+        "lng": 30.23447
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>В продуктовую команду Shvacher открыта вакансия на позицию Golang-разработчика.</p> <p> </p> <p>Если вы опытный специалист с глубокими знаниями в области разработки управляющих подсистем в ОС Linux и хотите работать над передовыми проектами, присоединяйтесь к нам!</p> <p> </p> <p><strong>Чего мы ждем:</strong></p> <p>- Опыт разработки приложений на Go (Golang) от 3-х лет;</p> <p>- Глубокие знания устройства и принципов работы ОС Linux;</p> <p>- Опыт взаимодействия с модулями ядра Linux или с приложениями на основе DPDK/SPDK.</p> <p> </p> <p><strong>Чем предстоит заниматься:</strong></p> <p>- Проектирование и разработка управляющей подсистемы (control plane) для кластерных систем хранения данных (СХД) в технологическом стеке Go/C/Linux;</p> <p>- Разработка компонентов для управления сетью, файловыми системами, драйверами физических устройств;</p> <p>- Разработка компонентов мониторинга и телеметрии;</p> <p>- Разработка unit-тестов и участие в code-review для обеспечения качества и надежности кода;</p> <p>- Формирование дизайн-документов для разработанных компонентов;</p> <p>- Взаимодействие с командами разработки data plane, frontend и тестирования.</p> <p> </p> <p><strong>Будем плюсом:</strong></p> <p>- Опыт проектирования, разработки и сопровождения многопоточных, отказоустойчивых, масштабируемых информационных систем;</p> <p>- Базовое знание сетей и протоколов передачи данных;</p> <p>- Понимание принципов работы файловых систем и устройств хранения данных;</p> <p>- Опыт работы с gRPC;</p> <p>- Опыт работы с eBPF;</p> <p>- Опыт разработки на C/C++;</p> <p>- Опыт работы с CGo;</p> <p>- Опыт взаимодействия с подсистемами ядра Linux (block, filesystems, network, device drivers);</p> <p>- Опыт в open source проектах.</p> <p> </p> <p><strong>Что предлагаем:</strong></p> <p>- Гибкий график работы, возможность работы в любом формате (удаленный формат/гибрид/офис);</p> <p>- ДМС со стоматологией, льготное страхование родственников;</p> <p>- Все льготы и преимущества работы в аккредитованной ИТ-компании;</p> <p>- Оформление согласно ТК РФ.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": {
+    "id": 44720,
+    "name": "Брендированный шаблон 1",
+    "top_picture": {
+      "height": 560,
+      "width": 1540,
+      "path": "https://img.hhcdn.ru/branding-pictures/3039727.jpeg",
+      "blurred_path": null
+    },
+    "bottom_picture": {
+      "height": 704,
+      "width": 1540,
+      "path": "https://img.hhcdn.ru/branding-pictures/3039734.jpeg",
+      "blurred_path": null
+    }
+  },
+  "key_skills": [
+    {
+      "name": "Go"
+    },
+    {
+      "name": "Golang"
+    },
+    {
+      "name": "CGo"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Storage"
+    },
+    {
+      "name": "NAS"
+    },
+    {
+      "name": "SAN"
+    },
+    {
+      "name": "gRPC"
+    },
+    {
+      "name": "eBPF"
+    },
+    {
+      "name": "OpenTelemetry"
+    },
+    {
+      "name": "NVMeOF"
+    },
+    {
+      "name": "iSCSI"
+    },
+    {
+      "name": "NFS"
+    },
+    {
+      "name": "SMB"
+    },
+    {
+      "name": "S3"
+    },
+    {
+      "name": "Software-defined storage"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "11003864",
+    "name": "Shvacher",
+    "url": "https://api.hh.ru/employers/11003864",
+    "alternate_url": "https://hh.ru/employer/11003864",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1267290.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6689478.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6689479.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11003864",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T09:03:54+0300",
+  "created_at": "2025-06-06T09:03:54+0300",
+  "initial_created_at": "2025-01-14T02:37:20+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=115461397",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/115461397",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

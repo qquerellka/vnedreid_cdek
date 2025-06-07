@@ -1,0 +1,157 @@
+{
+  "id": "110116142",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Владелец продукта/Product Lead",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": null,
+    "lng": null,
+    "description": null,
+    "raw": null,
+    "metro": {
+      "station_name": "Деловой центр",
+      "line_name": "Солнцевская",
+      "station_id": "133.468",
+      "line_id": "133",
+      "lat": 55.7491,
+      "lng": 37.5395
+    },
+    "metro_stations": [
+      {
+        "station_name": "Деловой центр",
+        "line_name": "Солнцевская",
+        "station_id": "133.468",
+        "line_id": "133",
+        "lat": 55.7491,
+        "lng": 37.5395
+      },
+      {
+        "station_name": "Москва-Сити",
+        "line_name": "Филевская",
+        "station_id": "4.179",
+        "line_id": "4",
+        "lat": 55.748056,
+        "lng": 37.532778
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Работа в Правительстве Москвы — это возможность делать наш город современнее и удобнее. Если ты тоже неравнодушен к Москве, хочешь развивать ее и развиваться сам, присоединяйся к нашей команде!</p> <p><strong>МЭШ (Московская электронная школа)</strong> — это единая образовательная платформа, которая помогает ребенку учиться, педагогу — учить, а родителям — быть в курсе процесса.</p> <p>Команда работает над созданием новых и оптимизацией текущих бизнес-процессов, интеграциями с внешними информационными системами, рефакторингом системы, построенной на современных принципах сервисной архитектуры и содержащей десятки продуктов.<br /><br />Сейчас мы ищем <strong>head of product</strong> или <strong>senior продакт-менеджера</strong>, который возглавит часть продуктов и сможет взять на себя управление всеми процессами по развитию их.</p> <p><strong>Обязанности:</strong></p> <ul> <li>Разрабатывать и внедрять стратегию развития продуктов на ближайший год</li> <li>Разрабатывать и внедрять систему метрик продуктов</li> <li>Развивать продукт(-ы) на основе аналитических показателей и метрик</li> <li>Выстраивать эффективную коммуникацию в продуктовой команде</li> <li>Вести непрерывную работу с продуктовым бэклогом (отслеживание и, при необходимости, изменение приоритетов задач)</li> <li>Управление командой продукта, постановка задач, контроль исполнения, решение вопросов ресурсного обеспечения</li> <li>Управление документацией, контроль соблюдения стандартов документирования командой</li> <li>Анализ текущих бизнес-процессов в продуктовой команде и оптимизировать их согласно стандартам компании</li> <li>Подготовка отчетов по продуктовым метрикам и исполнению стратегии</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Опыт управления созданием программных продуктов от концепции до выпуска в продуктив от 2 лет</li> <li>Умение приоритизировать бэклог на основе фактов и цифр, понимание, как донести ценность каждой задачи до команды и стейкхолдеров</li> <li>Понимание как работать с командой, как управлять внешней и внутренней командой</li> <li>Готовность брать ответственность за качество своего продуктового направления и результаты работы команды</li> <li>MS Project, Jira, Confluence, Git, UML, Mindmap</li> <li>Быть драйвером продуктового подхода</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Гибридный график, с гибким началом рабочего дня</li> <li>Офис класса А в Москва Сити</li> <li>Отсутствие микроменеджмента: нам важен - результат работы</li> <li>Причастность к масштабному проекту и возможность направлять его в сторону новейших технологий, вносить свой вклад в развитие проекта;</li> <li>Работа в аккредитованной IT-компании</li> </ul>",
+  "branded_description": "\n<style>\n@charset \"UTF-8\";\n\n.tmpl_hh_wrapper img {\n    display: block;\n    width: 100%;\n    height: auto;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_wrapper * {\n    -webkit-box-sizing: border-box;\n    box-sizing: border-box;\n}\n\n.tmpl_hh_wrapper [role=button] {\n    outline: none;\n}\n\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content li strong,\n.tmpl_hh_content li em {\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n    display: inline;\n    background: transparent;\n}\n\n.tmpl_hh_content li strong {\n    font-weight: bold;\n}\n\n.tmpl_hh_content li em {\n    font-weight: normal;\n    font-style: italic;\n}\n\n.tmpl_hh_content li p {\n    font-size: inherit !important;\n    margin: 0;\n}\n\n.tmpl_hh_content>strong,\n.tmpl_hh_content div>strong {\n    display: inline-block;\n}\n\n.tmpl_hh_content p strong {\n    margin: 0;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    font-family: \"Arial\", sans-serif;\n    color: #000;\n    font-size: 16px;\n    line-height: 1.4;\n    overflow: hidden;\n    -webkit-font-smoothing: antialiased;\n    -webkit-box-sizing: border-box;\n    box-sizing: border-box;\n    padding: 14px;\n}\n\n.tmpl_hh_flex {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n}\n\n.tmpl_hh_grid {\n    display: grid;\n    grid-template-columns: repeat(3, 1fr);\n    gap: 12px;\n}\n\n.tmpl_hh_video {\n    position: relative;\n    width: 100%;\n    aspect-ratio: 1920/1080;\n    overflow: hidden;\n}\n\n.tmpl_hh_video img,\n.tmpl_hh_video iframe,\n.tmpl_hh_video .tmpl_hh_video__content {\n    position: absolute;\n    left: -1px;\n    top: -1px;\n    width: calc(100% + 2px);\n    height: calc(100% + 2px);\n    border: 1px solid transparent;\n}\n\n.tmpl_hh_title {\n    font-weight: 700;\n    font-size: 24px;\n    line-height: normal;\n    letter-spacing: -0.01em;\n}\n\n.tmpl_hh_content {\n    padding: 40px 40px;\n}\n\n.tmpl_hh_content * {\n    letter-spacing: 0.02em;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content>strong,\n.tmpl_hh_content div>strong {\n    margin: 39.5px 0 16px;\n}\n\n.tmpl_hh_content strong {\n    padding-left: 1px;\n    font-weight: 700;\n    font-size: 24px;\n    line-height: normal;\n    letter-spacing: -0.01em;\n}\n\n.tmpl_hh_content strong>em,\n.tmpl_hh_content em>strong {\n    font-weight: 700;\n    font-style: normal;\n    font-size: 16px;\n    line-height: 1.4;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    padding-bottom: 1px;\n    list-style: none !important;\n    font-size: 14px;\n    line-height: 1.43;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 10px;\n    padding-left: 15px;\n}\n\n.tmpl_hh_content li:last-child {\n    margin-bottom: 0 !important;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 10px;\n    margin-bottom: 10px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;\n}\n\n.tmpl_hh_content li::before {\n    content: \"\";\n    position: absolute;\n    left: 0;\n}\n\n.tmpl_hh_content ul>li::before {\n    content: \"•\";\n    top: 0.2em;\n    font-size: 1.2em;\n    line-height: 1;\n}\n\n.tmpl_hh_content ol>li::before {\n    content: counter(list_counter) \".\";\n    top: 0.2em;\n    font-weight: 700;\n    font-size: 0.8em;\n}\n\n.tmpl_hh_head {\n    position: relative;\n    border-radius: 20px;\n    overflow: hidden;\n}\n\n.tmpl_hh_head__title {\n    position: absolute;\n    z-index: 2;\n    top: 16px;\n    left: 16px;\n    width: 43.2%;\n    padding: 14px 16px 17px;\n    border-radius: 12px 12px 12px 0;\n    background-color: #fff;\n}\n\n.tmpl_hh_head__title::after {\n    content: \"\";\n    position: absolute;\n    top: calc(100% - 7px);\n    left: 0;\n    display: block;\n    width: 38px;\n    height: 25px;\n    background: url(\"https://hhcdn.ru/ichameleon/423960.svg\") 0 0/contain no-repeat;\n}\n\n.tmpl_hh_stats {\n    padding-top: 16px;\n}\n\n.tmpl_hh_stats__items {\n    gap: 9px 16px;\n}\n\n.tmpl_hh_stats__item {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n    -webkit-box-align: start;\n    -ms-flex-align: start;\n    align-items: flex-start;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n    gap: 11px;\n    -webkit-box-flex: 1;\n    -ms-flex-positive: 1;\n    flex-grow: 1;\n    width: calc((100% - 32px) / 3);\n    padding: 24px;\n    color: #fff;\n    background-color: #1A1230;\n    border-radius: 20px;\n}\n\n.tmpl_hh_stats__number {\n    -webkit-box-ordinal-group: 0;\n    -ms-flex-order: -1;\n    order: -1;\n    max-width: calc(100% - 11px - 33px);\n    font-weight: 700;\n    font-size: 32px;\n    line-height: 1;\n}\n\n.tmpl_hh_stats__text {\n    width: 100%;\n    font-size: 14px;\n    line-height: 1.2;\n}\n\n.tmpl_hh_stats__icon {\n    -ms-flex-negative: 0;\n    flex-shrink: 0;\n    width: 33px;\n}\n\n.tmpl_hh_perks__title {\n    margin: 0 41px;\n}\n\n.tmpl_hh_perks__items {\n    margin-top: 16px;\n}\n\n.tmpl_hh_perks__item {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-orient: vertical;\n    -webkit-box-direction: normal;\n    -ms-flex-direction: column;\n    flex-direction: column;\n    gap: 9px;\n    min-height: 144px;\n    padding: 12px 19px 25.5px 25.5px;\n    font-size: 14px;\n    line-height: 1.4;\n    letter-spacing: 0.01em;\n    background-color: #F6F6F6;\n    border-radius: 12px;\n}\n\n.tmpl_hh_perks__icon {\n    -ms-flex-item-align: start;\n    align-self: flex-start;\n    -ms-flex-negative: 0;\n    flex-shrink: 0;\n    width: 33px;\n}\n\n@media (max-width: 1019px) {\n    .tmpl_hh_wrapper {\n        max-width: 610px;\n        font-size: 16px;\n        line-height: 1.4;\n    }\n\n    .tmpl_hh_title {\n        font-size: 22px;\n    }\n\n    .tmpl_hh_content strong {\n        font-size: 22px;\n    }\n\n    .tmpl_hh_content strong {\n        padding-left: 0;\n    }\n\n    .tmpl_hh_content strong>em,\n    .tmpl_hh_content em>strong {\n        font-size: 16px;\n        line-height: 1.4;\n    }\n\n    .tmpl_hh_stats__item {\n        padding: 20px;\n    }\n\n    .tmpl_hh_stats__number {\n        font-size: 28px;\n    }\n\n    .tmpl_hh_perks__item {\n        padding: 12px 20px 20px;\n    }\n}\n\n@media (max-width: 699px) {\n    .tmpl_hh_wrapper {\n        max-width: none;\n        padding: 10px;\n        font-size: 16px;\n        line-height: 1.39;\n    }\n\n    .tmpl_hh_grid {\n        grid-template-columns: 1fr;\n    }\n\n    .tmpl_hh_title {\n        font-size: 20px;\n    }\n\n    .tmpl_hh_content {\n        padding: 29px 0 22px;\n    }\n\n    .tmpl_hh_content p,\n    .tmpl_hh_content>strong,\n    .tmpl_hh_content div>strong {\n        margin: 22.5px 0 10px;\n    }\n\n    .tmpl_hh_content strong {\n        font-size: 20px;\n    }\n\n    .tmpl_hh_content strong>em,\n    .tmpl_hh_content em>strong {\n        font-size: 16px;\n        line-height: 1.39;\n    }\n\n    .tmpl_hh_content li {\n        margin-bottom: 5px;\n        padding-left: 14px;\n    }\n\n    .tmpl_hh_content ul ul,\n    .tmpl_hh_content ul ol,\n    .tmpl_hh_content ol ol,\n    .tmpl_hh_content ol ul {\n        margin-top: 5px;\n        margin-bottom: 5px;\n    }\n\n    .tmpl_hh_content ul>li::before {\n        top: 0.1em;\n        left: -1px;\n    }\n\n    .tmpl_hh_head {\n        border-radius: 12px;\n    }\n\n    .tmpl_hh_head__title {\n        top: 7.85px;\n        left: 7.85px;\n        padding: 7px 7.8px 8px;\n        border-radius: 7px 7px 7px 0;\n    }\n\n    .tmpl_hh_head__title::after {\n        width: 28px;\n        height: 17px;\n    }\n\n    .tmpl_hh_stats {\n        padding-top: 10px;\n    }\n\n    .tmpl_hh_stats__items {\n        gap: 10px;\n    }\n\n    .tmpl_hh_stats__item {\n        gap: 0;\n        width: 100%;\n        padding: 15px 17px 15px 15px;\n        border-radius: 12px;\n    }\n\n    .tmpl_hh_stats__number {\n        max-width: calc(100% - 10px - 24px);\n        margin-bottom: 5px;\n        font-size: 24px;\n    }\n\n    .tmpl_hh_stats__text {\n        max-width: calc(100% - 50px);\n        margin-top: -3.5px;\n    }\n\n    .tmpl_hh_perks__title {\n        margin: 0;\n    }\n\n    .tmpl_hh_perks__items {\n        margin-top: 25px;\n    }\n\n    .tmpl_hh_perks__item {\n        -webkit-box-orient: horizontal;\n        -webkit-box-direction: normal;\n        -ms-flex-direction: row;\n        flex-direction: row;\n        -webkit-box-align: center;\n        -ms-flex-align: center;\n        align-items: center;\n        gap: 15px;\n        min-height: 54px;\n        padding: 15px;\n        line-height: 1.42;\n    }\n\n    .tmpl_hh_perks__item br {\n        display: none;\n    }\n\n    .tmpl_hh_perks__icon {\n        width: 24px;\n    }\n}\n</style>\n\n<script>\n//\nfunction DOM_HH_Ready() {}\n\nif (document.readyState === \"loading\") {\n    document.addEventListener(\"DOMContentLoaded\", DOM_HH_Ready);\n} else {\n    DOM_HH_Ready();\n}\n//\n</script>\n\n<div class=\"tmpl_hh_wrapper\">\n    <div class=\"tmpl_hh_head\">\n        <div class=\"tmpl_hh_head__bg\">\n            <img src=\"https://hhcdn.ru/ichameleon/424041.jpg\" width=\"662\" height=\"440\" alt=\"\">\n        </div>\n        <div class=\"tmpl_hh_head__title\">\n            <img src=\"https://hhcdn.ru/ichameleon/424040.svg\" width=\"254\" height=\"168\" alt=\"\">\n        </div>\n    </div>\n    <div class=\"tmpl_hh_stats\">\n        <div class=\"tmpl_hh_stats__items tmpl_hh_flex\">\n            <div class=\"tmpl_hh_stats__item tmpl_hh_stats__item--1\">\n                <div class=\"tmpl_hh_stats__icon\">\n                    <img src=\"https://hhcdn.ru/ichameleon/423883.svg\" width=\"32\" height=\"32\" alt=\"\">\n                </div>\n                <div class=\"tmpl_hh_stats__number\">46</div>\n                <div class=\"tmpl_hh_stats__text\">органов исполнительной власти</div>\n            </div>\n            <div class=\"tmpl_hh_stats__item tmpl_hh_stats__item--2\">\n                <div class=\"tmpl_hh_stats__icon\">\n                    <img src=\"https://hhcdn.ru/ichameleon/423884.png\" width=\"32\" height=\"32\" alt=\"\">\n                </div>\n                <div class=\"tmpl_hh_stats__number\">132</div>\n                <div class=\"tmpl_hh_stats__text\">территориальных органа</div>\n            </div>\n            <div class=\"tmpl_hh_stats__item tmpl_hh_stats__item--3\">\n                <div class=\"tmpl_hh_stats__icon\">\n                    <img src=\"https://hhcdn.ru/ichameleon/423882.svg\" width=\"32\" height=\"32\" alt=\"\">\n                </div>\n                <div class=\"tmpl_hh_stats__number\">2 500+</div>\n                <div class=\"tmpl_hh_stats__text\">подведомственных организаций</div>\n            </div>\n            <div class=\"tmpl_hh_stats__item tmpl_hh_stats__item--4\">\n                <div class=\"tmpl_hh_stats__icon\">\n                    <img src=\"https://hhcdn.ru/ichameleon/423881.svg\" width=\"32\" height=\"32\" alt=\"\">\n                </div>\n                <div class=\"tmpl_hh_stats__number\">4 000+</div>\n                <div class=\"tmpl_hh_stats__text\">вакансий каждый месяц</div>\n            </div>\n            <div class=\"tmpl_hh_stats__item tmpl_hh_stats__item--5\">\n                <div class=\"tmpl_hh_stats__icon\">\n                    <img src=\"https://hhcdn.ru/ichameleon/423885.svg\" width=\"32\" height=\"32\" alt=\"\">\n                </div>\n                <div class=\"tmpl_hh_stats__number\">900 000+</div>\n                <div class=\"tmpl_hh_stats__text\">сотрудников</div>\n            </div>\n        </div>\n    </div>\n    <div class=\"tmpl_hh_content\">\n        <p>Работа в Правительстве Москвы — это возможность делать наш город современнее и удобнее. Если ты тоже неравнодушен к Москве, хочешь развивать ее и развиваться сам, присоединяйся к нашей команде!</p> <p><strong>МЭШ (Московская электронная школа)</strong> — это единая образовательная платформа, которая помогает ребенку учиться, педагогу — учить, а родителям — быть в курсе процесса.</p> <p>Команда работает над созданием новых и оптимизацией текущих бизнес-процессов, интеграциями с внешними информационными системами, рефакторингом системы, построенной на современных принципах сервисной архитектуры и содержащей десятки продуктов.<br><br>Сейчас мы ищем <strong>head of product</strong> или <strong>senior продакт-менеджера</strong>, который возглавит часть продуктов и сможет взять на себя управление всеми процессами по развитию их.</p> <p><strong>Обязанности:</strong></p> <ul> <li>Разрабатывать и внедрять стратегию развития продуктов на ближайший год</li> <li>Разрабатывать и внедрять систему метрик продуктов</li> <li>Развивать продукт(-ы) на основе аналитических показателей и метрик</li> <li>Выстраивать эффективную коммуникацию в продуктовой команде</li> <li>Вести непрерывную работу с продуктовым бэклогом (отслеживание и, при необходимости, изменение приоритетов задач)</li> <li>Управление командой продукта, постановка задач, контроль исполнения, решение вопросов ресурсного обеспечения</li> <li>Управление документацией, контроль соблюдения стандартов документирования командой</li> <li>Анализ текущих бизнес-процессов в продуктовой команде и оптимизировать их согласно стандартам компании</li> <li>Подготовка отчетов по продуктовым метрикам и исполнению стратегии</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Опыт управления созданием программных продуктов от концепции до выпуска в продуктив от 2 лет</li> <li>Умение приоритизировать бэклог на основе фактов и цифр, понимание, как донести ценность каждой задачи до команды и стейкхолдеров</li> <li>Понимание как работать с командой, как управлять внешней и внутренней командой</li> <li>Готовность брать ответственность за качество своего продуктового направления и результаты работы команды</li> <li>MS Project, Jira, Confluence, Git, UML, Mindmap</li> <li>Быть драйвером продуктового подхода</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Гибридный график, с гибким началом рабочего дня</li> <li>Офис класса А в Москва Сити</li> <li>Отсутствие микроменеджмента: нам важен - результат работы</li> <li>Причастность к масштабному проекту и возможность направлять его в сторону новейших технологий, вносить свой вклад в развитие проекта;</li> <li>Работа в аккредитованной IT-компании</li> </ul></div>\n    <div class=\"tmpl_hh_perks\">\n        <div class=\"tmpl_hh_perks__title tmpl_hh_title\">Наши преимущества:</div>\n        <div class=\"tmpl_hh_perks__items tmpl_hh_grid\">\n            <div class=\"tmpl_hh_perks__item\">\n                <div class=\"tmpl_hh_perks__icon\">\n                    <img src=\"https://hhcdn.ru/ichameleon/423946.svg\" width=\"33\" height=\"32\" alt=\"\">\n                </div>\n                <p>стабильная<br> заработная плата</p>\n            </div>\n            <div class=\"tmpl_hh_perks__item\">\n                <div class=\"tmpl_hh_perks__icon\">\n                    <img src=\"https://hhcdn.ru/ichameleon/423945.svg\" width=\"33\" height=\"32\" alt=\"\">\n                </div>\n                <p>работа в команде профессионалов</p>\n            </div>\n            <div class=\"tmpl_hh_perks__item\">\n                <div class=\"tmpl_hh_perks__icon\">\n                    <img src=\"https://hhcdn.ru/ichameleon/423942.svg\" width=\"33\" height=\"32\" alt=\"\">\n                </div>\n                <p>самореализация через ключевые проекты Москвы</p>\n            </div>\n            <div class=\"tmpl_hh_perks__item\">\n                <div class=\"tmpl_hh_perks__icon\">\n                    <img src=\"https://hhcdn.ru/ichameleon/423947.svg\" width=\"33\" height=\"32\" alt=\"\">\n                </div>\n                <p>официальное трудоустройство </p>\n            </div>\n            <div class=\"tmpl_hh_perks__item\">\n                <div class=\"tmpl_hh_perks__icon\">\n                    <img src=\"https://hhcdn.ru/ichameleon/424044.svg\" width=\"33\" height=\"32\" alt=\"\">\n                </div>\n                <p>неординарные задачи на практике</p>\n            </div>\n            <div class=\"tmpl_hh_perks__item\">\n                <div class=\"tmpl_hh_perks__icon\">\n                    <img src=\"https://hhcdn.ru/ichameleon/423944.svg\" width=\"33\" height=\"32\" alt=\"\">\n                </div>\n                <p>профессиональное обучение и развитие</p>\n            </div>\n            <div class=\"tmpl_hh_perks__item\">\n                <div class=\"tmpl_hh_perks__icon\">\n                    <img src=\"https://hhcdn.ru/ichameleon/424042.svg\" width=\"33\" height=\"32\" alt=\"\">\n                </div>\n                <p>увидите, как результатом вашей работы пользуется Москва</p>\n            </div>\n            <div class=\"tmpl_hh_perks__item\">\n                <div class=\"tmpl_hh_perks__icon\">\n                    <img src=\"https://hhcdn.ru/ichameleon/424043.svg\" width=\"33\" height=\"32\" alt=\"\">\n                </div>\n                <p>возможность построить карьеру с главным работодателем Москвы</p>\n            </div>\n            <div class=\"tmpl_hh_perks__item\">\n                <div class=\"tmpl_hh_perks__icon\">\n                    <img src=\"https://hhcdn.ru/ichameleon/424045.svg\" width=\"33\" height=\"32\" alt=\"\">\n                </div>\n                <p>участие в уникальных проектах, не имеющих аналогов в мире</p>\n            </div>\n        </div>\n    </div>\n</div>\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Agile Project Management"
+    },
+    {
+      "name": "Kanban"
+    },
+    {
+      "name": "Roadmap"
+    },
+    {
+      "name": "Product Led Growth"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "73",
+      "name": "Менеджер продукта"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "895945",
+    "name": "Правительство Москвы",
+    "url": "https://api.hh.ru/employers/895945",
+    "alternate_url": "https://hh.ru/employer/895945",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/121148.gif",
+      "90": "https://img.hhcdn.ru/employer-logo/596591.png",
+      "240": "https://img.hhcdn.ru/employer-logo/596592.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=895945",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-15T12:04:15+0300",
+  "created_at": "2025-05-15T12:04:15+0300",
+  "initial_created_at": "2024-11-05T12:04:09+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=110116142",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/110116142",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

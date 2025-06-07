@@ -1,0 +1,144 @@
+{
+  "id": "119826550",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "PHP-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Казань",
+    "street": "улица Лукницкого",
+    "building": "2",
+    "lat": 55.813212,
+    "lng": 49.06528,
+    "description": null,
+    "raw": "Казань, улица Лукницкого, 2",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Наша Компания ищет PHP-разработчика на полный день.</p> <p> </p> <p>Обязанности:</p> <p>- Разработка и поддержка веб-приложений на основе PHP (Laravel).</p> <p>- Создание и поддержка фронтенда на Livewire.</p> <p>- Оптимизация производительности приложений.</p> <p>- Написание качественного и поддерживаемого кода.</p> <p> </p> <p>Технологический стек:</p> <p> - Back-end: </p> <p> - Уверенное владение PHP и Laravel — ключевые технологии для вашей компании.</p> <p> - Знание RESTful API и опыт их разработки.</p> <p> - Опыт работы с Filament</p> <p> - Front-end: </p> <p> - Опыт работы с Livewire. Знания в HTML, CSS, и JavaScript, возможно знание одного из фреймворков (React, Vue.js, Angular).</p> <p> - Базы данных: </p> <p> -Понимание работы с PostgreSQL, включая оптимизацию запросов и проектирование структуры базы данных.</p> <p> - Инструменты разработки: </p> <p> - Знания в работе с системами контроля версий (Git).</p> <p> - Автоматизация и DevOps: </p> <p> - Описание опыта внедрения Continuous Integration и Continuous Deployment (CI/CD).</p> <p> - Работа с контейнеризацией и оркестровкой (Docker, Kubernetes).</p> <p> </p> <p>Требования к опыту и навыкам:</p> <p> - Желание участвовать в обсуждениях и принятии архитектурных решений.</p> <p> - Умение работать с кросс-функциональными командами и не бояться делиться опытом и знаниями.</p> <p> - Опыт написания юнит-тестов и понимание тестового покрытия.</p> <p> - Опыт работы в Agile-среде (Scrum, Kanban).</p> <p> - Знание CI/CD — реализация и поддержка пайплайнов.</p> <p> - Навыки документооборота для хорошей организации кода.</p> <p> </p> <p>Другое:</p> <p> - Знание общепринятых стандартов кодирования.</p> <p> - Опыт работы с системами кэширования (Redis, Memcached) будет преимуществом.</p> <p> - Отличные коммуникативные способности и навыки решения проблем.</p> <p> </p> <p>Мы предлагаем:</p> <p>- Гибкий график работы.</p> <p>- Интересные проекты и задачи.</p> <p>- Возможность работы удаленно и/или в офисе г. Казань</p> <p>- Дружный и профессиональный коллектив.</p> <p>- Возможность профессионального роста и развития.</p> <p>- Трудоустройство в аккредитованную ИТ компанию .</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Laravel"
+    },
+    {
+      "name": "API"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11826659",
+    "name": "Технокап",
+    "url": "https://api.hh.ru/employers/11826659",
+    "alternate_url": "https://hh.ru/employer/11826659",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11826659",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-22T14:48:35+0300",
+  "created_at": "2025-05-22T14:48:35+0300",
+  "initial_created_at": "2025-04-22T14:48:33+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119826550",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119826550",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "id": "121430071",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Разработчик C#",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": null,
+    "to": 400000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 400000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": null,
+    "lng": null,
+    "description": null,
+    "raw": null,
+    "metro": {
+      "station_name": "Деловой центр",
+      "line_name": "Солнцевская",
+      "station_id": "133.468",
+      "line_id": "133",
+      "lat": 55.7491,
+      "lng": 37.5395
+    },
+    "metro_stations": [
+      {
+        "station_name": "Деловой центр",
+        "line_name": "Солнцевская",
+        "station_id": "133.468",
+        "line_id": "133",
+        "lat": 55.7491,
+        "lng": 37.5395
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>В компанию <strong>КриптоПро</strong> — ведущий российский разработчик решений в области информационной безопасности и криптографии, в связи с расширением команды мы ищем <strong><em>Разработчика C# (middle/senior)</em></strong>. Мы создаем надежные продукты для защиты данных и электронного документооборота, обеспечивая безопасность бизнеса и государственных структур.</p> <p>Присоединяйтесь к нашей команде профессионалов, если хотите стать частью инновационного процесса и внести вклад в развитие отечественной IT-индустрии!</p> <p> </p> <p>⚡️<strong>Мы предлагаем:</strong></p> <ul> <li>фикс до 400К на руки</li> <li> <p>оформление ТК РФ</p> </li> <li> <p>гибридный формат работы, гибкий график</p> </li> <li> <p>годовая премия</p> </li> <li> <p>IT аккредитация</p> </li> <li> <p>ДМС</p> </li> <li> <p>развитая корпоративная культура</p> <p> </p> </li> </ul> <p>#️⃣ <strong>Задачи, которыми предстоит заниматься:</strong></p> <ul> <li> <p>разработка модулей бизнес-логики;</p> </li> <li> <p>разработка интеграционных модулей с другими системами;</p> </li> <li> <p>проектирование структуры БД;</p> </li> <li> <p>написание модульных (XUnit), функциональных и интеграционных тестов;</p> </li> <li> <p>документирование кода.</p> <p> </p> </li> </ul> <p><strong> Мы ждём, что у тебя:</strong></p> <ul> <li> <p>опыт в разработке от 3-х лет, высшее техническое или математическое образование;</p> </li> <li> <p>уверенное знание C#, NET Core, асинхронного программирования, опыт работы с ORM (мы</p> <p>используем EF Core);</p> </li> <li> <p>знание СУБД PostgreSQL и MS SQL Server, понимание принципов работы оптимизатора стоимости, умение читать план выполнения запроса;</p> </li> <li> <p>использование REST API и очередей сообщений для взаимодействия между сервисами;</p> </li> <li> <p>понимание принципов SOLID и DDD.</p> </li> </ul> <p>➕ <strong>Будет плюсом:</strong></p> <ul> <li> <p>опыт работы с колоночной БД для аналитических систем (ClickHouse);</p> </li> <li> <p>опыт разработки с использованием Vue.js.</p> </li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "C#"
+    },
+    {
+      "name": ".NET Core"
+    },
+    {
+      "name": "SOLID"
+    },
+    {
+      "name": "SQL Server Profiler"
+    },
+    {
+      "name": "PostgreSQL"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5708649",
+    "name": "SmartyHR",
+    "url": "https://api.hh.ru/employers/5708649",
+    "alternate_url": "https://hh.ru/employer/5708649",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1128693.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6135361.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6135362.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5708649",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T16:45:28+0300",
+  "created_at": "2025-06-06T16:45:28+0300",
+  "initial_created_at": "2025-06-06T16:45:28+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121430071",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121430071",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

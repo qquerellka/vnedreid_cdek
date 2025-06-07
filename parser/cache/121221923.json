@@ -1,0 +1,125 @@
+{
+  "id": "121221923",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Программист 1С",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 60000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 60000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<ul> <li><strong>Знание платформы 1С</strong>. Включает умение работать с типовыми и нетиповыми конфигурациями, настраивать, обновлять и дорабатывать функционал платформы, знать механизмы работы с метаданными и объектами.</li> <li><strong>Владение языком программирования 1С</strong>. Программист должен разбираться в его синтаксисе и встроенных библиотеках, уметь разрабатывать новый функционал, оптимизировать существующий код, использовать стандартные модули и механизмы.</li> <li><strong>Работа с базами данных (SQL)</strong>. Многие задачи 1С-программиста связаны с обработкой больших объёмов данных, поэтому важно уметь оптимизировать запросы, создавать индексы и работать с реляционными базами данных.</li> <li><strong>Разработка сложных отчётов и обработок</strong>. Навыки создания кастомных отчётов с использованием языка запросов 1С.</li> <li><strong>Работа с механизмами обмена данными</strong>. Умение настраивать обмен между конфигурациями 1С и другими системами.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11217050",
+    "name": "Телепорт Г",
+    "url": "https://api.hh.ru/employers/11217050",
+    "alternate_url": "https://hh.ru/employer/11217050",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11217050",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T13:15:49+0300",
+  "created_at": "2025-06-05T13:15:49+0300",
+  "initial_created_at": "2025-06-02T13:15:49+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121221923",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121221923",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "OTHER",
+      "name": "Другое"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "OTHER",
+      "name": "Другое"
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "id": "120689534",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Support Specialist / Специалист поддержки",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "32",
+    "name": "Иваново (Ивановская область)",
+    "url": "https://api.hh.ru/areas/32"
+  },
+  "salary": {
+    "from": 65000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 65000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "MONTHLY",
+      "name": "Раз в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "3 линия",
+    "building": "метро Маяковская",
+    "lat": 59.931386,
+    "lng": 30.355313,
+    "description": null,
+    "raw": "Санкт-Петербург, 3 линия, метро Маяковская",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Привет!</p> <p>Представляем Вашему вниманию вакансию <strong>международной Компании Gartwell с головным офисом в Великобритании.</strong><br />Мы специализируемся на разработке высококачественных ресурсов для реализации потокового вещания и предлагаем индивидуальные решения для потокового видео в реальном времени на всех типах ОС и устройств.</p> <p>Мы активно ищем сотрудников на позицию <strong>Support Specialist </strong>в <strong>вечерние и ночные смены</strong>, которые будут заниматься поддержкой продукта у одного из наших партнеров. Это сервис coomeet.com. <strong>на английском языке </strong></p> <p><br /><strong>Что для нас важно:</strong></p> <p>- свободное владение английским языком на уровне С1 или выше;</p> <p>- грамотный русский язык;</p> <p>- опыт работы в сфере поддержки пользователей (от 1 года);</p> <p>- знание интернет-технологий, умение пользоваться Google Docs;</p> <p>- целеустремленность и ответственность, желание общаться и помогать людям.</p> <p><strong>Чем предстоит заниматься:</strong></p> <p>- помогать нашим пользователям, отвечая на их вопросы на английском и русском языках через чат и тикеты;</p> <p>- создавать баг-репорты;</p> <p>- пополнять базу знаний.</p> <p><strong>Что будет плюсом?</strong></p> <p><em>- </em>понимание основ криптовалют и финтех-сектора;</p> <p>- опыт работы с логами (особенно в геймдев);</p> <p>- опыт общения с носителем английского языка.</p> <p><strong>Что мы предлагаем:</strong></p> <p>- 8-часовые смены (2/2), предусмотрена возможность брать дополнительные смены;</p> <p>- полностью удаленная работа+ можно работать из любой точки мира;</p> <p>- зарплата: оклад 55 т.р на испытательном сроке, после 65 т.р;<br />- за ночные смены доплата 25% за смену;</p> <p>- со временем есть возможность получать зарплату в долларах, евро, криптовалюте;</p> <p>- бонусы в дни рождения;</p> <p>- крутая и приятная команда, комфортная система обучения и наставничества.</p> <p><strong>График работы:</strong></p> <p>- полная занятость, без совмещения;</p> <p>- вечерние смены с 16:00 до 00:00, ночные с 00:00 до 08:00 или с 20:00 до 4:00 по Москве;</p> <p>- в среднем 120 рабочих часов в месяц (3 или 4 смены в неделю)</p> <p> </p> <p>Просьба оставлять свой отклик с сопроводительным письмом на английском языке!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Техническая поддержка"
+    },
+    {
+      "name": "Работа в команде"
+    },
+    {
+      "name": "Английский язык"
+    },
+    {
+      "name": "Составление баг-репортов"
+    },
+    {
+      "name": "Коммуникативные навыки"
+    },
+    {
+      "name": "Грамотная письменная речь"
+    },
+    {
+      "name": "Деловые коммуникации"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11290830",
+    "name": "SpaceHub",
+    "url": "https://api.hh.ru/employers/11290830",
+    "alternate_url": "https://hh.ru/employer/11290830",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1308669.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6854938.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6854939.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11290830",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-19T10:38:51+0300",
+  "created_at": "2025-05-19T10:38:51+0300",
+  "initial_created_at": "2025-05-19T10:38:51+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120689534",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120689534",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "c1",
+        "name": "C1 — Продвинутый"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": true,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "TWO_ON_TWO_OFF",
+      "name": "2/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

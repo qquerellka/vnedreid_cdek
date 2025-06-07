@@ -1,0 +1,150 @@
+{
+  "id": "118723651",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер-программист АСУ ТП",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "72",
+    "name": "Пермь",
+    "url": "https://api.hh.ru/areas/72"
+  },
+  "salary": {
+    "from": 120000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 120000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Пермский муниципальный округ",
+    "street": "территория Шоссе Космонавтов",
+    "building": "433",
+    "lat": 57.92708,
+    "lng": 56.024556,
+    "description": null,
+    "raw": "Пермский муниципальный округ, территория Шоссе Космонавтов, 433",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Компании ООО &quot;РОБОТЕХ&quot; требуется инженер программист АСУТП в отдел нестандартного оборудования. Вас ждет работа с инновационными технологиями 3д-печати, разработка роботизированных ячеек и прочих увлекательных проектов.</p> <p><strong>Обязанности:</strong></p> <ul> <li> <p>Подбор оборудования АСУТП для автоматизированных и роботизированных комплексов</p> </li> <li> <p>Разработка программного обеспечения ПЛК и HMI(SCADA) интерфейсов</p> </li> <li> <p>Участие в пуско-наладочных работах</p> </li> <li> <p>Разработка рабочей документации</p> </li> </ul> <p><strong>Требования:</strong></p> <ul> <li> <p>Знание теории АСУТП, теории управления электродвигателем</p> </li> <li> <p>Умение читать принципиальные электрические схемы</p> </li> <li> <p>Опыт работы с приводами с частотным регулированием, шаговыми двигателями, сервоприводами</p> </li> <li> <p>Опыт работы в программных средах Tia Portal, Codesys.</p> </li> <li> <p>Знание языков стандарта МЭК 61131-3. Будет плюсом наличие опыта разработки на языке ST</p> </li> <li> <p>Опыт работы с протоколами передачи данных: TCP/IP, Profinet, Ethercat, Modbus, и пр</p> </li> </ul> <p><strong>Условия:</strong></p> <ul> <li> <p>В случае релокации - компания предоставляет компенсацию за оплату жилья.​</p> </li> <li> <p>Гарантии в соответствии с трудовым кодексом: официальное трудоустройство, белая заработная плата, пенсионное обеспечение и стаж работы, оплачиваемые больничные и отпуска.</p> </li> <li> <p>Безопасность работы на производстве: оборудованные рабочие места, обеспечение спец. одеждой и средствами индивидуальной защиты</p> </li> <li> <p>Развитие: чем выше Ваш профессионализм, тем выше уровень заработной платы.</p> </li> <li> <p>Обучение за счет компании.</p> </li> <li> <p>ДМС</p> </li> <li> <p>Частичное возмещение ланчей</p> </li> <li> <p>Корпоративный транспорт</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Промышленная автоматизация"
+    },
+    {
+      "name": "Программирование ПЛК"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "4455940",
+    "name": "Роботех",
+    "url": "https://api.hh.ru/employers/4455940",
+    "alternate_url": "https://hh.ru/employer/4455940",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1404526.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7237772.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7237773.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4455940",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-15T12:14:50+0300",
+  "created_at": "2025-05-15T12:14:50+0300",
+  "initial_created_at": "2025-03-24T15:16:43+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=118723651",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/118723651",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,159 @@
+{
+  "id": "121221317",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор (DevOps)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 80000,
+    "to": 300000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 80000,
+    "to": 300000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "улица Николаева",
+    "building": "7",
+    "lat": 54.856735,
+    "lng": 83.107207,
+    "description": null,
+    "raw": "Новосибирск, улица Николаева, 7",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><br />InlyIT - это компания, занимающаяся разработкой цифровых продуктов для широкого круга пользователей по всему миру. Мы создаем мобильные и десктоп приложения в различных тематиках и категориях (Утилиты, Развлечение, Образование, Игры и др), а также для целого ряда платформ (iOS, Android, PC, macOS и Amazon).</p> <p>Наша компания приглашает на работу талантливых и инициативных сотрудников, которые готовы внести свой вклад в развитие технологий, которые делают жизнь пользователей проще и интереснее.</p> <p>Наш офис находится в Новосибирском Академгородке - центре интеллектуальной жизни столицы Сибири. В стенах нашего уютного и современного офиса трудится более 100 специалистов из различных сфер - разработчики, дизайнеры, маркетологи, переводчики и др. Каждый сотрудник нашей компании оснащён всем необходимым для продуктивной и комфортной работы - от удобного рабочего места до бесплатных обедов в ближайших кафе и столовых.</p> <p>Главная ценность нашей компании - это <strong>постоянное развитие не только компании в целом, но и персональный рост каждого ее сотрудника</strong>, профессионала своей области. Обучение, система мотивации, персональные задачи роста, использование самых современных технологий разработки и повышение навыков наших специалистов помогают нам в достижении этой цели.</p> <p><strong>Компания предоставляет современное и комфортабельное рабочее место в офисе Новосибирска. Удаленный формат работы отсутствует.</strong></p> <p><strong>Какие задачи предстоит решать:</strong></p> <ul> <li>Администрирование серверов на базе CentOS, Debian, Ubuntu.</li> <li>Управление системами виртуализации (ESXi).</li> <li>Управление контейнерными платформами (Docker, Kubernetes).</li> <li>Настройка, развертывание и поддержка кластеров Kubernetes для обеспечения масштабируемости и отказоустойчивости приложений.</li> <li>Написание скриптов на Bash, Python, Ansible для автоматизации процессов.</li> <li>Установка, настройка и поддержка серверного оборудования в соответствии с требованиями и спецификациями.</li> <li>Настройка сетевого оборудования, включая коммутаторы, маршрутизаторы и файрволы.</li> <li>Совместное использование и работа с системами мониторинга (Zabbix, Prometheus).</li> <li>Автоматизировать деплой инфраструктуры</li> </ul> <p> </p> <p><strong>Необходимый опыт и знания:</strong></p> <ul> <li>Опыт администрирования серверов на Linux.</li> <li>Знание системы мониторинга Zabbix, Prometheus.</li> </ul> <p><br /><strong>Мы предлагаем:</strong></p> <ul> <li>официальное трудоустройство в аккредитованной IT-компании;</li> <li>полностью белую заработную плату (выплаты 2 раза в месяц);</li> <li>персональные задачи на рост, возможность ежеквартального повышения по результатам выполненной работы;</li> <li>корпоративную программу оплачиваемого питания LunchGo (работает в ближайших к офису кафе и столовых);</li> <li>современную технику от Apple;</li> <li>современный и комфортабельный open-space офис, включающий рабочее пространство, а также зону отдыха и переговорные комнаты;</li> <li>удобную парковку рядом с офисом;</li> <li>корпоративные мероприятия;</li> <li>уровень заработной платы определяется по результатам собеседования и выполнения тестового задания.</li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Zabbix"
+    },
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "TCP/IP"
+    },
+    {
+      "name": "Администрирование сетевого оборудования"
+    },
+    {
+      "name": "Настройка серверов"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5998412",
+    "name": "InlyIT",
+    "url": "https://api.hh.ru/employers/5998412",
+    "alternate_url": "https://hh.ru/employer/5998412",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1224492.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6518409.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6518410.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5998412",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T13:08:13+0300",
+  "created_at": "2025-06-02T13:08:13+0300",
+  "initial_created_at": "2025-06-02T13:08:13+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121221317",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121221317",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

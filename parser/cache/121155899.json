@@ -1,0 +1,145 @@
+{
+  "id": "121155899",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "QA Engineer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Data-Driven Lab –</strong> международная IT-компания с распределенными командами из разных стран.<br />Мы используем передовые практики и реализуем масштабные проекты: наши самые известные продукты — это торговые платформы и финтех инструменты, доступные в 150 странах.</p> <p>Нам доверяют более 24 миллионов пользователей.</p> <p>В своей работе мы применяем исследования, анализ данных и ML, оптимизированный маркетинг и современный стек технологий для разработки наших продуктов.</p> <p><strong>Команда</strong><br />В нашей мультикультурной команде более 400 человек по всему миру. Мы поставили перед собой амбициозные цели, поэтому собираем одну из сильнейших команд профессионалов.</p> <p><strong>Что нужно делать:</strong></p> <ul> <li> <p>Проводить функциональное и нефункциональное тестирование backend-сервисов компании, веб- и мобильных приложений (WEB &amp; Mobile App);</p> </li> <li> <p>Поддерживать и актуализировать автотесты (Python);</p> </li> <li>Поддерживать тестовое окружение;</li> <li>Выявлять, документировать и верифицировать дефекты;</li> <li>Анализировать требования в описанных задачах;</li> <li>Готовить тестовые сценарии по новому функционалу и корректировать кейсы по уже существующему;</li> <li>Контролировать качество на всех этапах разработки;</li> <li>Участвовать в выстраивании и оптимизации процессов тестирования;</li> </ul> <p><strong>Идеальный кандидат:</strong></p> <ul> <li>Имеет опыт работы с микросервисной backend архитектурой;</li> <li> <p>Имеет опыт тестирования мобильных приложений (iOS/Android) или веб-приложений;</p> </li> <li>Имеет опыт работы с автотестами;</li> <li>Имеет опыт разработки тестовой документации, работы с баг-трекинговыми системами и системами управления тестированием;</li> <li>Понимает методологии и подходы тестирования;</li> <li>Понимание клиент-серверное взаимодействие;</li> <li>Имеет опыт использования снифферов (Charles, Fiddler);</li> <li>Имеет опыт тестирования API, знает инструменты (Swagger, Postman);</li> <li>Имеет опыт работы с логами сервисов и командной строкой Linux;</li> <li> <p>Работает с базами данных и умеет писать базовые SQL запросы;</p> </li> <li> <p>Имеет опыт работы с очередями RabbitMQ/Kafka;</p> </li> </ul> <p><strong>Будет преимуществом:</strong></p> <ul> <li>Опыт работы с GRPC.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li> <p>Реальную возможность для каждого влиять на результат и процессы;</p> </li> <li> <p>Высокую скорость и гибкость в принятии решений;</p> </li> <li> <p>Использование современных технологий и лучших мировых практик в работе;</p> </li> <li> <p>Работу в мультикультурной команде экспертов;</p> </li> <li> <p>Постоянные челленджи и возможность выбора инструментов и путей решения проблем;</p> </li> <li> <p>Активную корпоративную жизнь: клубы по интересам, открытый микрофон, корпоративные ивенты;</p> </li> <li> <p>Комфортные условия: медицинская компенсация, конкурентная зарплата, полностью удаленная работа.</p> </li> <li> <p><strong>Оформление в формате ИП/Service Agreement в любой локации.</strong></p> </li> </ul> <p><strong>Преимущественно, рассматриваем кандидатов с опытом работы в автоматизации. Python, навыки работы с библиотеками pytest, requests, selenium, webdriver (учебный опыт, также, рассматривается).</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Postman"
+    },
+    {
+      "name": "API"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Apache Kafka"
+    },
+    {
+      "name": "RabbitMQ"
+    },
+    {
+      "name": "gRPC"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "HTTP"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "681575",
+    "name": "Data-Driven Lab",
+    "url": "https://api.hh.ru/employers/681575",
+    "alternate_url": "https://hh.ru/employer/681575",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1024261.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5717812.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5717813.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=681575",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-30T09:58:50+0300",
+  "created_at": "2025-05-30T09:58:50+0300",
+  "initial_created_at": "2025-05-30T09:58:50+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121155899",
+  "has_test": true,
+  "test": {
+    "required": true
+  },
+  "alternate_url": "https://hh.ru/vacancy/121155899",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

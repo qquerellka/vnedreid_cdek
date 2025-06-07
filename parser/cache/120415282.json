@@ -1,0 +1,150 @@
+{
+  "id": "120415282",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист технической поддержки клиентов (чат линия)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "53",
+    "name": "Краснодар",
+    "url": "https://api.hh.ru/areas/53"
+  },
+  "salary": {
+    "from": 45000,
+    "to": 60000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 45000,
+    "to": 60000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "WEEKLY",
+      "name": "Раз в неделю"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Привет,меня зовут Алёна, я hr-менеджер компании “Спорт Групп”, связи с расширением команды мы находимся в поисках “специалиста технической поддержки клиентов на линии чаты”</strong></p> <p><strong>Что нужно делать:</strong></p> <ul> <li> <p> принимать входящие сообщения в чате и оказывать техническую консультацию водителям нашего Таксопарка;</p> </li> <li> <p>отвечать на вопросы с заботой и вниманием;</p> </li> <li> <p> вносить информацию и вести отчётность</p> </li> </ul> <p><strong>Нам важно:</strong></p> <ul> <li> <p> наличие компьютера/ноутбука, хороший интернет;</p> </li> <li> <p>быстрая скорость печати, грамотная речь;</p> </li> <li> <p> готов вникать в детали нестандартных вопросов, но и рутина тебя не пугает.</p> </li> </ul> <p><strong>Что тебя ждёт:</strong></p> <p>- Заработная плата от 45.000 до 60.000 рублей в месяц (Выплаты каждый четверг);</p> <p>- График работы с 9:00 до 21:00 по МСК, 2/2 ;;<br />- Удаленная работа, трудоустройство по самозанятости;</p> <p>- Прозрачные KPI - вы сами влияете на свой доход;<br />- Перспектива быстрого карьерного роста.<br />- Оплачиваемое обучение на входе в должность и внутренне наставничество;<br />- Адекватное руководство и дружный коллектив, всегда готовый прийти на помощь;</p> <p>- Доступ к современным инструментам. Работаем с телефонией UIS, CRM Битрикс24</p> <p><strong>• Главная ценность — наши люди.</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Работа с большим объемом информации"
+    },
+    {
+      "name": "Деловая переписка"
+    },
+    {
+      "name": "Сопровождение клиентов"
+    },
+    {
+      "name": "Работа с CRM"
+    },
+    {
+      "name": "Работа с клиентами"
+    },
+    {
+      "name": "Грамотная письменная речь"
+    },
+    {
+      "name": "Техническая поддержка пользователей"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10381844",
+    "name": "Спорт Групп",
+    "url": "https://api.hh.ru/employers/10381844",
+    "alternate_url": "https://hh.ru/employer/10381844",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10381844",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-12T14:33:30+0300",
+  "created_at": "2025-05-12T14:33:30+0300",
+  "initial_created_at": "2025-05-12T14:33:30+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120415282",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120415282",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "TWO_ON_TWO_OFF",
+      "name": "2/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_12",
+      "name": "12 часов"
+    }
+  ]
+}

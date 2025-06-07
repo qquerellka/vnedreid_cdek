@@ -1,0 +1,145 @@
+{
+  "id": "121387401",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер по тестированию",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "шоссе Энтузиастов",
+    "building": "14",
+    "lat": 55.749628,
+    "lng": 37.710791,
+    "description": null,
+    "raw": "Москва, шоссе Энтузиастов, 14",
+    "metro": {
+      "station_name": "Авиамоторная",
+      "line_name": "Калининская",
+      "station_id": "8.1",
+      "line_id": "8",
+      "lat": 55.751933,
+      "lng": 37.717444
+    },
+    "metro_stations": [
+      {
+        "station_name": "Авиамоторная",
+        "line_name": "Калининская",
+        "station_id": "8.1",
+        "line_id": "8",
+        "lat": 55.751933,
+        "lng": 37.717444
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><em><strong>Мы — Центр Информационных Технологий &quot;Роскадастр-Инфотех&quot; (ЦИТ &quot;Роскадастр-Инфотех&quot;) – крупная государственная IT- компания.</strong></em></p> <p><em><strong>Наша компания является главным оператором информационных систем Росреестра, мы ведем такие крупные проекты как Федеральная государственная информационная система Единого государственного реестра недвижимости (ФГИС ЕГРН), Публичная кадастровая карта (ПКК), Единая цифровая платформа «Национальная система пространственных данных» (ФГИС ЕЦП НСПД) и многие другие.</strong></em></p> <p>Приглашаем в нашу команду <strong>инженера по тестированию </strong>в<strong> </strong><em>отдел координации работ по созданию и технической поддержке функционирования ФГИС ЕЦП НСПД.</em></p> <p><strong>Обязанности:</strong></p> <ul> <li>Тестирование функциональное, регрессивное, смоук, ui/ux, интеграционное, кросс-браузерное, ручное/автоматизированное;</li> <li>Поиск и оформление дефектов, документирование, контроль исправления;</li> <li>Разработка тестовой документации (чек-листы, тест-кейсы,баг-репорты);</li> <li>Разработка инструкций;</li> <li>Сопровождение релизов;</li> <li>Взаимодействие с аналитиками, разработчиками, дизайнерами, внутренними и внешними командами.</li> </ul> <strong>Требования:</strong> <ul> <li>Опыт работы от 2-х лет;</li> <li>Опыт тестирования Frontend от одного года;</li> <li>Образование высшее;</li> <li>Опыт разработки автоматизированных сценариев;</li> <li>Опыт работы с микросервисной архитектурой, прохождения ПСИ;</li> <li>Опыт работы с DevTools, Postman, REST API, Swagger, HTTP/HTTPS и JSON;</li> <li>Знание SQL, (желательно опыт работы с Git, Kibana, Grafana, Figma).</li> </ul> <p><strong>Условия:</strong></p> <ul> <li> <p>Официальное оформление по ТК РФ с первого рабочего дня;</p> </li> <li> <p>Участие в уникальных цифровых проектах, результаты реализации которых используются по всей стране;</p> </li> <li> <p>Работникам предоставляется бесплатное обучение в магистратуре по направлению IT (обучение 1 год 5 месяцев);</p> </li> <li> <p>Возможности карьерного и профессионального роста;</p> </li> <li> <p>График работы 5/2 с 09-00 до 18-00, в пятницу до 16-45;</p> </li> <li> <p>Комфортабельный офис в г. Москве;</p> </li> <li> <p>Дружная команда профессионалов.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9613936",
+    "name": "Центр Информационных технологий Роскадастр-Инфотех Филиал Роскадастр",
+    "url": "https://api.hh.ru/employers/9613936",
+    "alternate_url": "https://hh.ru/employer/9613936",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1129386.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6138133.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6138134.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9613936",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T14:48:06+0300",
+  "created_at": "2025-06-05T14:48:06+0300",
+  "initial_created_at": "2025-06-05T14:48:06+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121387401",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121387401",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

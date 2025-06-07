@@ -1,0 +1,150 @@
+{
+  "id": "120938272",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "PHP-разработчик (Битрикс)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "72",
+    "name": "Пермь",
+    "url": "https://api.hh.ru/areas/72"
+  },
+  "salary": {
+    "from": 150000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 150000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Пермь",
+    "street": "Екатерининская улица",
+    "building": "177А",
+    "lat": 58.00179,
+    "lng": 56.201299,
+    "description": null,
+    "raw": "Пермь, Екатерининская улица, 177А",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><em><strong>Работа в офисе (возможен гибридный формат работы), полной удаленки нет!</strong></em></p> <p> </p> <p><strong>В связи с развитием IT отдела, для реализации поставленных перед отделом целей приглашаем квалифицированного специалиста на позицию PHP-разработчик.</strong></p> <p><br /><strong>В задачи будет входить:</strong></p> <ul> <li>Разработка/доработка/настройка/адаптация/тестирование в соответствии с техническим заданием от внутреннего заказчика</li> <li>Участие в подготовке технической документации</li> <li>Участие в проекте внедрения 1С ERP</li> <li>Интеграция Битрикс и 1с ERP</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Работу в стабильной и перспективной компании;</li> <li>Обучение по необходимости за счет компании и профессиональный рост;</li> <li>Отзывчивые коллеги;</li> <li>Уверенность в завтрашнем дне: белая з/п строго 2 раза в месяц, з/п всегда вовремя, трудоустройство по ТК РФ;</li> <li>График работы: с 9-00 до 18-00, 5/2 (летом по пятницам работаем до 17-00).</li> <li>Премию от компании в честь дня рождения;</li> <li>Корпоративные мероприятия;</li> <li>Комфортные условия труда: красивый офис в центре города на ул. Екатерининская, 177а (новостройка Дипломат), уютный и светлый кабинет, есть кухня для приема пищи, оборудованная всем необходимым. Парковка около офиса БЕСПЛАТНАЯ.</li> </ul> <strong>Мы ждем от кандидата:</strong> <ul> <li>Знание методов и стандартов разработки;</li> <li>Опыт работы с Битрикс24;</li> <li>Готовность развиваться, изучать предметные области, постоянно повышать уровень компетенций;</li> <li>Системное мышление;</li> <li>Самостоятельность в работе;</li> <li>Ответственность;</li> <li>Умение работать в команде;</li> <li>Готовность развиваться</li> </ul>",
+  "branded_description": "\n<style>\n@charset \"UTF-8\";\n\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li em,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ol li p em,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li em,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong,\n.tmpl_hh_content ul li p em {\n    font-weight: normal;\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    display: inline;\n    margin: 0;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    font-family: \"Arial\", sans-serif;\n    color: #000;\n    font-size: 16px;\n    line-height: 1.3;\n    overflow: hidden;\n    -webkit-font-smoothing: antialiased;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_wrapper * {\n    -webkit-box-sizing: border-box;\n    box-sizing: border-box;\n}\n\n.tmpl_hh_wrapper [role=button] {\n    outline: none;\n}\n\n.tmpl_hh_wrapper .tmpl_hh_flex {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-orient: horizontal;\n    -webkit-box-direction: normal;\n    -ms-flex-direction: row;\n    flex-direction: row;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n}\n\n.tmpl_hh_content {\n    padding: 20px 30px 30px 40px;\n    line-height: 145%;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content em {\n    font-weight: 400;\n    font-style: normal;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    margin: 25px 0 8px;\n    font-weight: 400;\n    font-style: normal;\n}\n\n.tmpl_hh_content em strong,\n.tmpl_hh_content em b {\n    font-weight: 400;\n    font-style: normal;\n}\n\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    display: inline-block;\n    font-weight: bold;\n}\n\n.tmpl_hh_content p em {\n    display: block;\n    padding-bottom: 15px;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 24px;\n    padding-bottom: 1px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 10px;\n    line-height: 144%;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 10px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;\n}\n\n.tmpl_hh_content li:before {\n    content: \"\";\n    position: absolute;\n    left: -24px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"•\";\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter) \".\";\n}\n\n.tmpl_hh_head {\n    padding-top: 40px;\n    padding-bottom: 20px;\n    padding-left: 40px;\n    background-repeat: no-repeat;\n    background-position: 100% 0;\n    background-size: 184px auto;\n    background-image: url(\"https://hhcdn.ru/ichameleon/221156.png\");\n}\n\n.tmpl_hh_head__logo {\n    width: 166px;\n    height: auto;\n}\n\n.tmpl_hh_head__logo img {\n    width: 100%;\n    height: auto;\n}\n\n.tmpl_hh_head .tmpl_hh_head__title {\n    position: relative;\n    z-index: 2;\n    display: block;\n    margin-top: 51px;\n    font-size: 30px;\n    line-height: 42px;\n    font-weight: 900;\n}\n\n.tmpl_hh_head .tmpl_hh_head__title::before {\n    content: \"\";\n    position: absolute;\n    z-index: -1;\n    top: -3px;\n    left: -40px;\n    display: block;\n    width: 60px;\n    height: 60px;\n    background-repeat: no-repeat;\n    background-position: 50% 50%;\n    background-size: contain;\n    background-image: url(\"https://hhcdn.ru/ichameleon/221157.svg\");\n}\n\n.tmpl_hh_head .tmpl_hh_head__caption {\n    margin-top: 31px;\n    font-size: 18px;\n    line-height: 21px;\n}\n\n.tmpl_hh_head__info {\n    margin-top: 27px;\n    margin-left: 32px;\n}\n\n.tmpl_hh_info {\n    padding-top: 38px;\n    padding-bottom: 14px;\n    padding-left: 74px;\n    padding-right: 48px;\n    color: #fff;\n    background-color: #3663A1;\n    background-repeat: no-repeat;\n    background-position: -1px -1px;\n    background-size: 74px auto;\n    background-image: url(\"https://hhcdn.ru/ichameleon/221160.svg\");\n}\n\n.tmpl_hh_info b {\n    display: block;\n    font-weight: bold;\n    font-size: 20px;\n    line-height: 23px;\n}\n\n.tmpl_hh_info__items_wrapper {\n    margin-top: 19px;\n}\n\n.tmpl_hh_info__item {\n    width: 229px;\n    margin-bottom: 28px;\n    padding-left: 39px;\n    font-size: 18px;\n    line-height: 140%;\n    background-repeat: no-repeat;\n    background-position: 0 0;\n    background-size: 25px 25px;\n    background-image: url(\"https://hhcdn.ru/ichameleon/221158.svg\");\n}\n\n.tmpl_hh_footer__text {\n    position: relative;\n    width: 260px;\n    padding-top: 49px;\n    padding-bottom: 49px;\n    padding-left: 40px;\n    padding-right: 38px;\n    color: #fff;\n    background-color: #31446C;\n}\n\n.tmpl_hh_footer__text::before {\n    content: \"\";\n    position: absolute;\n    z-index: 2;\n    top: 0;\n    right: 0;\n    -webkit-transform: scaleX(-1);\n    -ms-transform: scaleX(-1);\n    transform: scaleX(-1);\n    display: block;\n    width: 54px;\n    height: 54px;\n    background-repeat: no-repeat;\n    background-position: -1px -1px;\n    background-size: contain;\n    background-image: url(\"https://hhcdn.ru/ichameleon/221160.svg\");\n}\n\n.tmpl_hh_footer p {\n    margin-bottom: 20px;\n    font-weight: bold;\n    font-size: 18px;\n    line-height: 140%;\n}\n\n.tmpl_hh_footer__img {\n    position: relative;\n    width: 420px;\n    height: 193px;\n    overflow: hidden;\n}\n\n.tmpl_hh_footer__img::before {\n    content: \"\";\n    position: absolute;\n    z-index: 2;\n    display: block;\n    width: 52px;\n    height: 52px;\n    background-repeat: no-repeat;\n    background-position: -1px -1px;\n    background-size: contain;\n    background-image: url(\"https://hhcdn.ru/ichameleon/221160.svg\");\n}\n\n.tmpl_hh_footer__img--1 {\n    margin-bottom: 10px;\n}\n\n.tmpl_hh_footer__img--1::before {\n    bottom: 0;\n    left: 0;\n    -webkit-transform: scaleY(-1);\n    -ms-transform: scaleY(-1);\n    transform: scaleY(-1);\n}\n\n.tmpl_hh_footer__img--2::before {\n    top: 0;\n    right: 0;\n    -webkit-transform: scaleX(-1);\n    -ms-transform: scaleX(-1);\n    transform: scaleX(-1);\n}\n\n.tmpl_hh_footer__img img {\n    position: relative;\n    left: 50%;\n    -webkit-transform: translateX(-50%);\n    -ms-transform: translateX(-50%);\n    transform: translateX(-50%);\n    width: auto;\n}\n\n@media (max-width: 1019px) {\n    .tmpl_hh_info {\n        padding-left: 60px;\n        padding-right: 30px;\n    }\n\n    .tmpl_hh_info__item {\n        width: 48%;\n        font-size: 16px;\n    }\n\n    .tmpl_hh_footer {\n        -ms-flex-wrap: nowrap;\n        flex-wrap: nowrap;\n    }\n\n    .tmpl_hh_footer__text {\n        width: 37%;\n        padding-top: 55px;\n        padding-left: 30px;\n        padding-right: 30px;\n    }\n\n    .tmpl_hh_footer p {\n        font-size: 16px;\n    }\n\n    .tmpl_hh_footer__imgs {\n        width: 60%;\n    }\n\n    .tmpl_hh_footer__img {\n        width: 100%;\n    }\n}\n\n@media (max-width: 699px) {\n    .tmpl_hh_content {\n        padding-left: 20px;\n        padding-right: 20px;\n        padding-bottom: 37px;\n    }\n\n    .tmpl_hh_content p,\n    .tmpl_hh_content b,\n    .tmpl_hh_content strong {\n        margin-top: 10px;\n    }\n\n    .tmpl_hh_content ol,\n    .tmpl_hh_content ul {\n        padding-bottom: 15px;\n    }\n\n    .tmpl_hh_head {\n        padding-top: 30px;\n        padding-left: 0;\n        background-size: 71px auto;\n    }\n\n    .tmpl_hh_head__logo {\n        width: 130px;\n        margin-left: 20px;\n    }\n\n    .tmpl_hh_head .tmpl_hh_head__title {\n        margin-top: 33px;\n        margin-left: 20px;\n        font-size: 18px;\n        line-height: 25px;\n    }\n\n    .tmpl_hh_head .tmpl_hh_head__title::before {\n        left: -20px;\n        width: 35px;\n        height: 35px;\n    }\n\n    .tmpl_hh_head .tmpl_hh_head__caption {\n        margin-top: 20px;\n        margin-left: 20px;\n        font-size: 16px;\n    }\n\n    .tmpl_hh_head__info {\n        margin-left: 0;\n    }\n\n    .tmpl_hh_info {\n        padding-top: 42px;\n        padding-bottom: 29px;\n        padding-left: 20px;\n        padding-right: 20px;\n        background-size: 42px auto;\n    }\n\n    .tmpl_hh_info__items_wrapper {\n        -webkit-box-orient: vertical !important;\n        -webkit-box-direction: normal !important;\n        -ms-flex-direction: column !important;\n        flex-direction: column !important;\n        margin-top: 18px;\n    }\n\n    .tmpl_hh_info__item {\n        width: 100%;\n        margin-bottom: 20px;\n        font-size: 18px;\n        line-height: 140%;\n    }\n\n    .tmpl_hh_info__item br {\n        display: none;\n    }\n\n    .tmpl_hh_info__item--1 {\n        -webkit-box-ordinal-group: 2;\n        -ms-flex-order: 1;\n        order: 1;\n    }\n\n    .tmpl_hh_info__item--2 {\n        -webkit-box-ordinal-group: 5;\n        -ms-flex-order: 4;\n        order: 4;\n    }\n\n    .tmpl_hh_info__item--3 {\n        -webkit-box-ordinal-group: 3;\n        -ms-flex-order: 2;\n        order: 2;\n    }\n\n    .tmpl_hh_info__item--4 {\n        -webkit-box-ordinal-group: 6;\n        -ms-flex-order: 5;\n        order: 5;\n    }\n\n    .tmpl_hh_info__item--5 {\n        -webkit-box-ordinal-group: 4;\n        -ms-flex-order: 3;\n        order: 3;\n    }\n\n    .tmpl_hh_info__item--6 {\n        -webkit-box-ordinal-group: 7;\n        -ms-flex-order: 6;\n        order: 6;\n    }\n\n    .tmpl_hh_footer__text {\n        width: 100%;\n        padding: 38px 21px 15px;\n    }\n\n    .tmpl_hh_footer p {\n        font-size: 18px;\n    }\n\n    .tmpl_hh_footer__imgs {\n        width: 100%;\n        margin-top: 10px;\n    }\n\n    .tmpl_hh_footer__img {\n        height: auto;\n    }\n\n    .tmpl_hh_footer__img::before {\n        width: 38px;\n        height: 38px;\n    }\n\n    .tmpl_hh_footer__img img {\n        width: 100%;\n        height: auto;\n    }\n}\n</style>\n\n<script>\n//\nfunction DOM_HH_Ready() {}\n\nif (document.readyState === \"loading\") {\n    document.addEventListener(\"DOMContentLoaded\", DOM_HH_Ready);\n} else {\n    DOM_HH_Ready();\n}\n//\n</script>\n\n\n    <div class=\"tmpl_hh_wrapper\">\n        <div class=\"tmpl_hh_head\">\n            <div class=\"tmpl_hh_head__logo\">\n                <img src=\"https://hhcdn.ru/ichameleon/221155.svg\" width=\"166\" height=\"59\" alt=\"\">\n            </div>\n            <b class=\"tmpl_hh_head__title\">Металлообрабатывающее оборудование. Сервис. Комплектующие.</b>\n            <p class=\"tmpl_hh_head__caption\">Работаем с 2014 года</p>\n            <div class=\"tmpl_hh_head__info tmpl_hh_info\">\n                <b>«ИНКОР» – это:</b>\n                <div class=\"tmpl_hh_info__items_wrapper tmpl_hh_flex\">\n                    <div class=\"tmpl_hh_info__item tmpl_hh_info__item--1\">\n                        <p>команда единомышленников-профессионалов в своей области</p>\n                    </div>\n                    <div class=\"tmpl_hh_info__item tmpl_hh_info__item--2\">\n                        <p>интересные задачи и масштабные проекты</p>\n                    </div>\n                    <div class=\"tmpl_hh_info__item tmpl_hh_info__item--3\">\n                        <p>ответственный<br> подход к  работе</p>\n                    </div>\n                    <div class=\"tmpl_hh_info__item tmpl_hh_info__item--4\">\n                        <p>забота<br> о сотрудниках</p>\n                    </div>\n                    <div class=\"tmpl_hh_info__item tmpl_hh_info__item--5\">\n                        <p>поощрение инициатив</p>\n                    </div>\n                    <div class=\"tmpl_hh_info__item tmpl_hh_info__item--6\">\n                        <p>развитие талантов</p>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"tmpl_hh_content\">\n        <p><em><strong>Работа в офисе (возможен гибридный формат работы), полной удаленки нет!</strong></em></p> <p> </p> <p><strong>В связи с развитием IT отдела, для реализации поставленных перед отделом целей приглашаем квалифицированного специалиста на позицию PHP-разработчик.</strong></p> <p><br><strong>В задачи будет входить:</strong></p> <ul> <li>Разработка/доработка/настройка/адаптация/тестирование в соответствии с техническим заданием от внутреннего заказчика</li> <li>Участие в подготовке технической документации</li> <li>Участие в проекте внедрения 1С ERP</li> <li>Интеграция Битрикс и 1с ERP</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Работу в стабильной и перспективной компании;</li> <li>Обучение по необходимости за счет компании и профессиональный рост;</li> <li>Отзывчивые коллеги;</li> <li>Уверенность в завтрашнем дне: белая з/п строго 2 раза в месяц, з/п всегда вовремя, трудоустройство по ТК РФ;</li> <li>График работы: с 9-00 до 18-00, 5/2 (летом по пятницам работаем до 17-00).</li> <li>Премию от компании в честь дня рождения;</li> <li>Корпоративные мероприятия;</li> <li>Комфортные условия труда: красивый офис в центре города на ул. Екатерининская, 177а (новостройка Дипломат), уютный и светлый кабинет, есть кухня для приема пищи, оборудованная всем необходимым. Парковка около офиса БЕСПЛАТНАЯ.</li> </ul> <strong>Мы ждем от кандидата:</strong> <ul> <li>Знание методов и стандартов разработки;</li> <li>Опыт работы с Битрикс24;</li> <li>Готовность развиваться, изучать предметные области, постоянно повышать уровень компетенций;</li> <li>Системное мышление;</li> <li>Самостоятельность в работе;</li> <li>Ответственность;</li> <li>Умение работать в команде;</li> <li>Готовность развиваться</li> </ul></div>\n        <div class=\"tmpl_hh_footer tmpl_hh_flex\">\n            <div class=\"tmpl_hh_footer__text\">\n                <p>Целеустремленные и ответственные сотрудники – наш главный ресурс!</p>\n                <p>Присоединяйтесь!</p>\n            </div>\n            <div class=\"tmpl_hh_footer__imgs\">\n                <div class=\"tmpl_hh_footer__img tmpl_hh_footer__img--1\">\n                    <img src=\"https://hhcdn.ru/ichameleon/221164.jpg\" width=\"420\" height=\"194\" alt=\"\">\n                </div>\n                <div class=\"tmpl_hh_footer__img tmpl_hh_footer__img--2\">\n                    <img src=\"https://hhcdn.ru/ichameleon/221165.jpg\" width=\"420\" height=\"194\" alt=\"\">\n                </div>\n            </div>\n        </div>\n    </div>\n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "Битрикс24"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1916393",
+    "name": "Инкор",
+    "url": "https://api.hh.ru/employers/1916393",
+    "alternate_url": "https://hh.ru/employer/1916393",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/937923.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/4192236.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/4192237.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1916393",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-25T10:53:47+0300",
+  "created_at": "2025-05-25T10:53:47+0300",
+  "initial_created_at": "2025-05-25T10:53:47+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120938272",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120938272",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

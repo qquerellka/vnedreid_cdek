@@ -1,0 +1,150 @@
+{
+  "id": "121211572",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Backend разработчик python (junior)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": null,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": 55.74146507524133,
+    "lng": 37.63113245701637,
+    "description": null,
+    "raw": "Москва, Озерковский переулок, 12.",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>BND - консалтинговая компания, специализирующаяся на предоставлении услуг в области бизнес-аналитики (BI, Business Intelligence), риск-менеджмента, управления взаимоотношениями с клиентами (CRM), финансовой консолидации и электронного бизнеса.</strong></p> <p>В одном из наших проектов, мы создаем систему видеоаналитики в реальном времени для крупной производственной компании с ИИ.</p> <p>А в дальнейшем и многих других проектов.<br /><br /><strong>Сейчас мы в поисках Backend разработчика python уровня junior!<br /><br />Пожалуйста, откликаясь прикладывайте ссылку на свой git или проекты.</strong></p> <p><br /><strong>Ваши будущие задачи:</strong></p> <ul> <li> <p>Поддержка существующих и разработка новых Backend сервисов и компонент (веб-приложения и инфраструктурные сервисы для систем видеоаналитики)</p> </li> <li> <p>Анализ требований и выработка технических решений</p> </li> <li> <p>Оценка ресурсов и сроков выполнения задач в рамках своего участка работ</p> </li> <li> <p>Проектирование баз данных, анализ разработанного кода</p> </li> <li> <p>Рефакторинг существующего кода, проведение code review</p> </li> <li> <p>Внедрение новых технологий, инструментов и методов разработки</p> </li> <li> <p>Устранение дефектов</p> </li> </ul> <p><strong>Стек проекта:</strong> FastAPI + SQLAlchemy, Flask, PostgreSQL, Docker, Kubernetes, Helm, Git, RabbitMQ</p> <p> </p> <p><strong>Требования:</strong></p> <ul> <li> <p>Высшее образование в сфере IT (рассмотрим также студентов последних курсов, которые могут работать фултайм).</p> </li> <li> <p>Опыт разработки Backend (Python) приложений от 1 года</p> </li> <li> <p>Опыт применения фреймворков/библиотек под Python.</p> </li> <li> <p>Знание паттернов проектирования: GOF, SOLID</p> </li> <li> <p>Опыт разработки различных request-reply API (REST, graphQL, gRPC) и message-based API (AMQP, Kafka, MQTT).</p> </li> <li> <p>Опыт работы с одной или несколькими реляционными (Oracle DB, PostgreSQL, MySQL)</p> </li> <li> <p>Знание системы git и Gitlab</p> </li> <li> <p>Опыт работы с ORM SQLAlchemy</p> </li> <li> <p>Опыт работы с FastAPI (плюсом будет опыт работы с Flask)</p> </li> <li> <p>Опыт написания тестов с использованием pytest</p> </li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт использования docker, docker-compose, k8s</li> <li> <p>Знание ОС Linux</p> </li> </ul> <p><br /><br /><strong>Что мы готовы вам предложить:</strong></p> <ul> <li> <p>Работу на интересном проекте с прозрачным результатом</p> </li> <li> <p>Возможность реально влиять на проект</p> </li> <li> <p>Достойный уровень компенсации</p> </li> <li> <p>Оформление по ТК РФ</p> </li> <li> <p>График 5/2</p> </li> <li> <p>ДМС, после прохождения испытательного срока</p> </li> <li> <p>Гибридный формат работы (офис 1-2 раза в неделю)</p> </li> <li> <p>Офис в центре Москвы 5 минут от м. Новокузнецкая / м. Третьяковская</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Flask"
+    },
+    {
+      "name": "PostgreSQL"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1056818",
+    "name": "BND LLC",
+    "url": "https://api.hh.ru/employers/1056818",
+    "alternate_url": "https://hh.ru/employer/1056818",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1029013.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/5736812.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/5736813.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1056818",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T10:55:26+0300",
+  "created_at": "2025-06-05T10:55:26+0300",
+  "initial_created_at": "2025-06-02T10:55:26+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121211572",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121211572",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

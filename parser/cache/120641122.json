@@ -1,0 +1,185 @@
+{
+  "id": "120641122",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Программист Микроконтроллеров",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 120000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 120000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Казань",
+    "street": "улица Дементьева",
+    "building": "2Б",
+    "lat": 55.848887,
+    "lng": 49.08975,
+    "description": null,
+    "raw": "Казань, улица Дементьева, 2Б",
+    "metro": {
+      "station_name": "Авиастроительная ",
+      "line_name": "Центральная",
+      "station_id": "49.462",
+      "line_id": "49",
+      "lat": 55.828897,
+      "lng": 49.081403
+    },
+    "metro_stations": [
+      {
+        "station_name": "Авиастроительная ",
+        "line_name": "Центральная",
+        "station_id": "49.462",
+        "line_id": "49",
+        "lat": 55.828897,
+        "lng": 49.081403
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Привет, мы <strong>MyHeat</strong>!</p> <p>Основное направления деятельности нашей компании - производство электротехнического оборудования и разработка ПО (программного обеспечения) для автоматизации систем отопления на Российском и Европейском рынках.</p> <p>Сейчас мы набираем в команду разработчиков, которые вместе с нами будут работать над развитием проекта. Мы ищем амбициозного разработчика с хорошим знанием С/С++, опытом разработки ПО для микроконтроллеров и интересом в области создания новых продуктов.</p> <p> </p> <p><strong>Какие требуются знания:</strong></p> <ul> <li>Уверенное знание C/C++;</li> <li>Опыт разработки под один или несколько микроконтроллеров: STM32 (желателен опыт работы с HAL), ESP32, микроконтроллеры TI (CC1310);</li> <li>Умение пользоваться Git;</li> <li>Будет полезен опыт работы с Platformio.</li> </ul> <p><strong>Чем будете заниматься:</strong></p> <ul> <li>Разработка прошивок для новых модулей;</li> <li>Поддержка существующего кода и его доработка;</li> <li>Совместное участие в обсуждении новых возможностей и оптимизации старых.</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Достойная заработная плата по результатам собеседования;</li> <li>Официальное трудоустройство согласно ТК РФ;</li> <li>Гибкий график работы, если требуется;</li> <li>Молодая, дружная и целеустремленная команда профессионалов;</li> <li>Корпоративная культура, а это значит, что у нас есть свои традиции;</li> <li>Минимум формальностей и множество возможностей проявить себя;</li> </ul> <p><strong>У нас</strong>: увеличивается число клиентов, растут объемы продаж. Мы знаем потребности рынка. Поэтому мы активно расширяем нашу команду и создаем новые инновационные устройства. История начинается уже сегодня, будем рады знакомству с тобой.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Git"
+    },
+    {
+      "name": "C/C++"
+    },
+    {
+      "name": "Assembler"
+    },
+    {
+      "name": "STM32"
+    },
+    {
+      "name": "ESP32"
+    },
+    {
+      "name": "C++"
+    },
+    {
+      "name": "CC1310"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4166496",
+    "name": "Майхит",
+    "url": "https://api.hh.ru/employers/4166496",
+    "alternate_url": "https://hh.ru/employer/4166496",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/663558.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3095364.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3095365.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4166496",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-16T15:29:50+0300",
+  "created_at": "2025-05-16T15:29:50+0300",
+  "initial_created_at": "2025-05-16T15:29:50+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120641122",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120641122",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    },
+    {
+      "id": "FLEXIBLE",
+      "name": "Свободный"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

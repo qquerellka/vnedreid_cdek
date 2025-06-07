@@ -1,0 +1,153 @@
+{
+  "id": "120714342",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист по отчетности (строительный объект)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "72",
+    "name": "Пермь",
+    "url": "https://api.hh.ru/areas/72"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Пермь",
+    "street": "Промышленная улица",
+    "building": null,
+    "lat": 57.916221,
+    "lng": 56.151847,
+    "description": null,
+    "raw": "Пермь, Промышленная улица",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li> <p>Контроль хода выполнения проекта (строительные работы, установка оборудования); составление еженедельных/ежемесячных отчётов, отмечая достижения и риски;</p> </li> <li> <p>Взаимодействие с проектными группами для сбора данных, информировать об обновлениях;</p> </li> <li> <p>Составление отчетности в MS Office (Word, Excel, PPT).</p> </li> </ul> <strong>Требования:</strong> <ul> <li>Высшее техническое образование;</li> <li>Опыт работы от 1 года на такой же или смежной должности;</li> <li>Знание английского языка на уровне Upper-intermediate (свободное владение письменным и устным);</li> <li>Знание китайского языка будет преимуществом;</li> <li> <p>Хорошие навыки в офисном программном обеспечении.</p> </li> <li> <p>Умение анализировать данные;</p> </li> <li> <p>Опыт работы с MS Project или другим программным обеспечением по планирования будет плюсом;</p> </li> <li> <p>Сертификат PMP или аналогичный будет плюсом.</p> </li> </ul> <strong>Условия:</strong> <ul> <li>Работа в российском филиале стабильной и динамичной развивающейся иностранной компании;</li> <li>Достойный уровень оплаты труда – обсуждается с успешным кандидатом;</li> <li>Официальное оформление согласно ТК РФ;</li> <li>ДМС (после испытательного срока).</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Строительство"
+    },
+    {
+      "name": "Проектная документация"
+    },
+    {
+      "name": "Внимательность"
+    },
+    {
+      "name": "Работа в команде"
+    },
+    {
+      "name": "Ведение отчётности"
+    },
+    {
+      "name": "Составление документации"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "10",
+      "name": "Аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "8919692",
+    "name": "WISON",
+    "url": "https://api.hh.ru/employers/8919692",
+    "alternate_url": "https://hh.ru/employer/8919692",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1048318.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/5813925.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/5813926.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=8919692",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-19T14:58:33+0300",
+  "created_at": "2025-05-19T14:58:33+0300",
+  "initial_created_at": "2025-05-19T14:58:33+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120714342",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120714342",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "c1",
+        "name": "C1 — Продвинутый"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "SIX_ON_ONE_OFF",
+      "name": "6/1"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

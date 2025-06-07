@@ -1,0 +1,143 @@
+{
+  "id": "119464175",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Ведущий специалист технической группы",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "72",
+    "name": "Пермь",
+    "url": "https://api.hh.ru/areas/72"
+  },
+  "salary": {
+    "from": null,
+    "to": 54500,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 54500,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Пермь",
+    "street": "улица Фрезеровщиков",
+    "building": "50",
+    "lat": 58.023283,
+    "lng": 56.27294,
+    "description": null,
+    "raw": "Пермь, улица Фрезеровщиков, 50",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>Участие в разработке, внедрении и сопровождении эксплуатируемой в Обществе информационной системы;</li> <li>Обеспечение своевременной актуализации нормативно-справочной информации, используемой в информационной системе;</li> <li>Осуществление проведения обучения, консультаций пользователей;</li> <li>Осуществление сбора, анализа и разрешения проблемных ситуаций, возникающих в процессе эксплуатации информационной системы.</li> </ul> <strong>Требования:</strong> <ul> <li>Высшее техническое образование;</li> <li>Опыт работы на инженерно-технических должностях от одного года;</li> <li>Уверенный пользователь программ MS Office;</li> <li>Умение разрабатывать проекты нормативно-правовых актов.</li> </ul> <strong>Условия:</strong> <ul> <li>Рабочее место расположено: г. Пермь, ул. Фрезеровщиков, 50;</li> <li>Официальное трудоустройство;</li> <li>Официальная &quot;белая&quot; заработная плата;</li> <li>ДМС;</li> <li>Основной режим работы: Пн - Пт с 08:00 до 17:00;</li> <li>Работа в крупной стабильной компании;</li> <li>Возможность карьерного роста.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "2064",
+    "name": "Российские Коммунальные Системы",
+    "url": "https://api.hh.ru/employers/2064",
+    "alternate_url": "https://hh.ru/employer/2064",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/828408.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3754515.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3754516.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2064",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-14T06:34:15+0300",
+  "created_at": "2025-05-14T06:34:15+0300",
+  "initial_created_at": "2025-04-14T06:34:14+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119464175",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119464175",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

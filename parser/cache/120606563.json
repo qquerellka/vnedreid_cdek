@@ -1,0 +1,143 @@
+{
+  "id": "120606563",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Go Developer (Middle +)",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 2000,
+    "to": null,
+    "currency": "USD",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 2000,
+    "to": null,
+    "currency": "USD",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "MONTHLY",
+      "name": "Раз в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<h2><strong>О проекте</strong></h2> <p>Start-up в сфере монетизации социальных сетей.<br />Мы строим платформу, где рекламодатели смогут найти подходящую площадку для своей рекламы.</p> <h2><strong>О команде и рабочем процессе</strong></h2> <ul> <li> <p>Это новый продукт в холдинговой компании. С одной стороны, это дает преимущества стартапа - гибкость в подходах, отсутствие legacy, небольшая команда с минимумом бюрократии.. С другой, приносит преимущества сложившейся компании: финансовую стабильность и выстроенные процессы.</p> </li> <li> <p>Работа полностью удаленная. Никаких офисов. Мы подразумеваем, что вы умеете управлять своим временем и организовывать свой рабочий процесс.</p> </li> <li> <p>Мы работаем по классическому scrum-у 2-х недельными спринтами.</p> </li> <li> <p>Так как сложный продукт невозможно построить без коммуникации с коллегами мы выбрали GMT+3 для командных активностей.</p> </li> <li> <p>Мы ожидаем, что вы уже работали в команде, понимаете важность коммуникаций и умеете их выстраивать.</p> </li> </ul> <h2><strong>Что мы ожидаем от кандидата</strong></h2> <ul> <li> <p>Опыт разработки на Go от 3-х лет</p> </li> <li> <p>Опыт работы с PostgreSQL от 1-го года</p> </li> <li> <p>Опыт написания тестов (unit/table/integration)</p> </li> <li> <p>Опыт работы с Linux/Unix (ресурсы, процессы, шелл, docker)</p> </li> <li> <p>Опыт работы в команде</p> </li> <li> <p>Самоконтроль. Навыки дистанционной работы.</p> </li> <li> <p>Умение писать код самостоятельно без ИИ</p> </li> </ul> <h2><strong>Наш стек</strong></h2> <ul> <li> <p>Go</p> </li> <li> <p>PostgreSQL</p> </li> <li> <p>Nomad</p> </li> <li> <p>Gitlab</p> </li> </ul> <h2><strong>Условия работы</strong></h2> <ul> <li> <p>Полный рабочий день</p> </li> <li> <p>От $2000 мес на руки (определяется индивидуально в соответствии со скилом)</p> </li> <li> <p>Профессиональный рост</p> </li> <li> <p>Интересные задачи</p> </li> <li> <p>Удаленная работа</p> </li> </ul> <h2><strong>Условия отбора</strong></h2> <ul> <li> <div>Ссылка на Github с кодом на Go обязательна! Либо любой другой репозитарий где мы можем ознакомиться с примером вашего кода на Go.<br />Отклики без примеров кода будут рассматриваться в последнюю очередь.</div> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Golang"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Git"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2026188",
+    "name": "MyShows.me",
+    "url": "https://api.hh.ru/employers/2026188",
+    "alternate_url": "https://hh.ru/employer/2026188",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/957533.png",
+      "90": "https://img.hhcdn.ru/employer-logo/4270660.png",
+      "240": "https://img.hhcdn.ru/employer-logo/4270661.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2026188",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-15T22:03:33+0300",
+  "created_at": "2025-05-15T22:03:33+0300",
+  "initial_created_at": "2025-05-15T22:03:33+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120606563",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120606563",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "OTHER",
+      "name": "Другое"
+    }
+  ],
+  "show_logo_in_search": null
+}

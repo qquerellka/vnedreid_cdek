@@ -1,0 +1,169 @@
+{
+  "id": "121431285",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "ML-инженер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "Инженерная улица",
+    "building": "4А",
+    "lat": 54.857849,
+    "lng": 83.108124,
+    "description": null,
+    "raw": "Новосибирск, Инженерная улица, 4А",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Вакансия: ML-инженер</strong></p> <p><strong>О нас:</strong> Мы — инновационная компания, занимающаяся полным циклом производства систем обнаружения беспилотников. Наша работа охватывает все этапы: от сборки и монтажа оборудования до разработки программного обеспечения для радиолокационной разведки с использованием алгоритмов машинного обучения и не только. Мы также занимаемся интеграцией с системами сторонних производителей и обеспечиваем поддержку работающих систем.</p> <p><strong>Обязанности:</strong></p> <ul> <li>Разработка и внедрение алгоритмов машинного обучения для систем обнаружения беспилотников.</li> <li>Анализ и обработка данных для улучшения точности и эффективности систем.</li> <li>Сотрудничество с командой разработчиков для интеграции алгоритмов в программное обеспечение.</li> <li>Участие в тестировании и оптимизации систем.</li> <li>Поддержка и обновление существующих моделей машинного обучения.</li> <li>Постановка гипотез и их проверка.</li> <li>Командировки и выезды на объекты.</li> <li>Настройка систем обнаружения и детекции.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Опыт работы от 1 до 3 лет в области машинного обучения или анализа данных.</li> <li>Знание языков программирования Python и C++.</li> <li>Будет плюсом знание фреймворков FastApi, Flask.</li> <li>Опыт работы с библиотеками машинного обучения (например, TensorFlow, PyTorch).</li> <li>Понимание принципов работы различных CV архитектур и опыт работы с ними.</li> <li>Знание библиотек обработки данных numpy, scipy, opencv.</li> <li>Будет плюсом умение работать с большими объемами данных и инструментами их обработки Apach Spark и Hadoop.</li> <li>Уверенные знания и навыки работы с системой контроля версий git.</li> <li>Навыки работы с docker-compose и kubernetes.</li> <li>Будет плюсом умения работы с системой версионирования данных dvc.</li> <li>Приветствуются базовый знания радиофизики и электродинамики.</li> <li>Навыки командной работы и коммуникации.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>График работы: 5/2, полный рабочий день.</li> <li>Работа на месте работодателя.</li> <li>Возможности для профессионального роста и развития.</li> <li>Дружный и профессиональный коллектив.</li> <li>Своевременная выплата заработной платы.</li> <li>Оплачиваемые командировки.</li> </ul> <p><strong>Присоединяйтесь к нам, чтобы работать над передовыми технологиями и вносить вклад в безопасность и инновации!</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Deep Learning"
+    },
+    {
+      "name": "Numpy"
+    },
+    {
+      "name": "OpenCV"
+    },
+    {
+      "name": "PyTorch"
+    },
+    {
+      "name": "GitHub"
+    },
+    {
+      "name": "Flask"
+    },
+    {
+      "name": "pandas"
+    },
+    {
+      "name": "Computer Vision"
+    },
+    {
+      "name": "Алгоритмы и структуры данных"
+    },
+    {
+      "name": "Matplotlib"
+    },
+    {
+      "name": "TensorFlow"
+    },
+    {
+      "name": "Linux"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "165",
+      "name": "Дата-сайентист"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11729198",
+    "name": "Сибсайнс",
+    "url": "https://api.hh.ru/employers/11729198",
+    "alternate_url": "https://hh.ru/employer/11729198",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11729198",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T17:19:21+0300",
+  "created_at": "2025-06-06T17:19:21+0300",
+  "initial_created_at": "2025-06-06T17:19:21+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121431285",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121431285",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b1",
+        "name": "B1 — Средний"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

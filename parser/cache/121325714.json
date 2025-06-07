@@ -1,0 +1,144 @@
+{
+  "id": "121325714",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Тестировщик (Middle)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": null,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "улица Марата",
+    "building": "51",
+    "lat": 59.923473,
+    "lng": 30.350013,
+    "description": null,
+    "raw": "Санкт-Петербург, улица Марата, 51",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Привет, будущий коллега!</strong></p> <p><strong>Неватех</strong> — продуктовая IT компания на стеке современных fintech технологий.<br /><br />Сейчас мы в поиске<strong> </strong>Тестировщика (Middle)<strong> в Санкт-Петербурге</strong>, который усилит нашу команду своим опытом и примет активное участие в формировании и развитии отдела тестирования.<br /><br /><strong>Чем предстоит заниматься:</strong></p> <ul> <li>взаимодействие с разработчиками, аналитиками проектной команды;</li> <li>тестирование сервисов;</li> <li>документирование обнаруженных ошибок и контроль их исправления разработчиками.</li> </ul> <p><strong>Чего мы от тебя ждём:</strong></p> <ul> <li>опыт работы тестировщиком от 2х лет;</li> <li>опыт работы с учетными/CRM системами (Jira, Yandex Tracker);</li> <li>знание инструментов тестирования API (Postman или аналог);</li> <li>знание основных браузеров (Chrome, Firefox, Safari) и их devtools;</li> <li>понимание работы сетей (запросы GET/POST, троттлинг, пакеты);</li> <li>знание IDE (VSCode или аналог);</li> <li>понимание Git;</li> <li>основы JS/HTML/CSS (будет преимуществом).</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>работа в аккредитованной, федеральной IT-компании;</li> <li>официальное оформление, &quot;белая&quot; зарплата, ДМС;</li> <li>современный стек и отсутствие бюрократии;</li> <li>комфортный офис с зоной отдыха, SonyPlaystation, теннисным столом;</li> <li>гибрид из офиса в центре Санкт-Петербурга.<br />​​​​​​​</li> </ul> <p><strong><strong>Если ты ищешь команду, где ценят экспертизу, готовы давать сложные задачи и возможность влиять на процессы — откликайся!</strong></strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11005457",
+    "name": "Неватех",
+    "url": "https://api.hh.ru/employers/11005457",
+    "alternate_url": "https://hh.ru/employer/11005457",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1328764.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6935074.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6935075.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11005457",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T10:46:34+0300",
+  "created_at": "2025-06-04T10:46:34+0300",
+  "initial_created_at": "2025-06-04T10:46:34+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121325714",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121325714",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

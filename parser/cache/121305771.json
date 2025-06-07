@@ -1,0 +1,165 @@
+{
+  "id": "121305771",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Оператор баз данных (госслужба)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 25000,
+    "to": 45000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 25000,
+    "to": 45000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Казань",
+    "street": "Вахитовский район, Большая Красная улица",
+    "building": "15/9",
+    "lat": 55.798014,
+    "lng": 49.119511,
+    "description": null,
+    "raw": "Казань, Вахитовский район, Большая Красная улица, 15/9",
+    "metro": {
+      "station_name": "Кремлевская",
+      "line_name": "Центральная",
+      "station_id": "49.272",
+      "line_id": "49",
+      "lat": 55.795206,
+      "lng": 49.105426
+    },
+    "metro_stations": [
+      {
+        "station_name": "Кремлевская",
+        "line_name": "Центральная",
+        "station_id": "49.272",
+        "line_id": "49",
+        "lat": 55.795206,
+        "lng": 49.105426
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<h2><em><strong>Государственная жилищная инспекция Республики Татарстан ищет специалиста по аналитике в сектор аналитики и контроля</strong></em></h2> <p> </p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>администрирование информационных систем;</li> <li>подготовка сводных отчетов;</li> <li>контроль и размещение информации на официальном сайте ГЖИ РТ.</li> </ul> <p><strong>Мы ожидаем от Вас:</strong></p> <ul> <li>среднее профессиональное образование;</li> <li>развитые навыки работы с компьютером и его устройствами, в т.ч. сетевыми;</li> <li>навыки работы с базами данных, электронной почтой, работы в текстовом редакторе; работы с электронными таблицами;</li> <li>умение работать в режиме многозадачности, ответственность, высокая мотивация к работе, способность выстраивать процессы.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>оформление по ТК РФ, социальный пакет;</li> <li>отпуск от 30 календарных дней;</li> <li>место работы в центре г. Казани;</li> <li>стабильная заработная плата (аванс выплачивается в середине месяца);</li> <li>график работы 5/2, с 8:30 до 17:30, пятница сокращенный день.</li> </ul>",
+  "branded_description": "\n<style>\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;    \n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-weight: bold;\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n    line-height: inherit !important;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    margin: 0;\n    display: inline;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    z-index: 1;\n    font-family: Arial;\n    font-size: 14px;\n    line-height: 20px;\n    letter-spacing: 0.03em;\n    color: #000;\n    overflow: hidden;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n}\n\n.tmpl_hh_content {\n    position: relative;\n    padding: 41px 50px 30px;\n    z-index: 3;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    margin: 24px 0 16px;\n}\n\n.tmpl_hh_content b, \n.tmpl_hh_content strong {\n    display: inline-block;\n    font-weight: 700;\n    font-size: 18px;\n    line-height: 20.7px;\n    letter-spacing: 0;\n    text-transform: uppercase;\n}\n\n.tmpl_hh_content i b, \n.tmpl_hh_content i strong,\n.tmpl_hh_content em b, \n.tmpl_hh_content em strong,\n.tmpl_hh_content b em, \n.tmpl_hh_content strong em,\n.tmpl_hh_content b i, \n.tmpl_hh_content strong i {\n    font-weight: 700;\n    font-style: normal;\n    font-size: 14px;\n    line-height: 20px;\n    letter-spacing: 0.03em;\n    text-transform: none;\n}\n\n.tmpl_hh_content ol, .tmpl_hh_content ul {\n    margin-left: 14px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 10px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 10px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;    \n}\n\n.tmpl_hh_content li:before {\n    position: absolute;\n    left: -14px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"\";\n    background: #000;\n    width: 4px;\n    height: 4px;\n    top: 8px;\n    border-radius: 50%;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter)'.';\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n\n.tmpl_hh_flex {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n}\n\n.tmpl_hh_header {\n    margin: 24px 24px 0;\n    border-radius: 24px;\n    overflow: hidden;\n}\n\n.tmpl_hh_header__textBlock {\n    background: #009846;\n    border-radius: 25px;\n    margin: -38px 0 0;\n    position: relative;\n    padding: 29px 30px 38px;\n    color: #fff;\n    font-size: 18px;\n    line-height: 25.2px;\n    letter-spacing: 0;\n}\n\np.tmpl_hh_headet__title {\n    font-size: 20px;\n    font-weight: 700;\n    line-height: 28px;\n    margin: 25px 0 1px;\n    text-transform: uppercase;\n}\n\n.tmpl_hh_advantages {\n    margin: 0 24px;\n}\n\np.tmpl_hh_advantages__title {\n    font-size: 18px;\n    font-weight: 700;\n    line-height: 20.7px;\n    letter-spacing: 0;\n    text-transform: uppercase;\n    margin: 1px 29px 28px;\n}\n\n.tmpl_hh_advantages__items {\n    display: grid;\n    grid-template-columns: repeat(4, 1fr);\n    font-size: 14px;\n    line-height: 18.2px;\n    letter-spacing: 0.01em;\n    gap: 8px;\n}\n\n.tmpl_hh_advantages__item {\n    background: #F3F3F3;\n    border-radius: 12px;\n    padding: 16px 20px 15px 11px;\n    height: 153px;\n    display: flex;\n    box-sizing: border-box;\n    flex-wrap: wrap;\n    align-content: space-between;\n}\n\n.tmpl_hh_advantages__icon {\n    width: 32px;\n    flex-shrink: 0;\n}\n\n.tmpl_hh_advantages__item p {\n    width: 100%;\n}\n\n.tmpl_hh_footer {\n    margin: 40px 24px 0;\n    background: url(https://hhcdn.ru/ichameleon/401700.jpg);\n    background-repeat: no-repeat;\n    background-size: auto 100%;\n    padding: 0 0 0 46.5%;\n    border-radius: 24px;\n}\n\n.tmpl_hh_footer__textBlock {\n    background: #009846;\n    color: #fff;\n    padding: 24px;\n    font-size: 18px;\n    font-weight: 700;\n    line-height: 25.2px;\n    letter-spacing: 0;\n    height: 229px;\n    box-sizing: border-box;\n    display: flex;\n    flex-wrap: wrap;\n    border-radius: 24px;\n    align-content: space-between;\n}\n\n.tmpl_hh_footer__textBlock p:last-child {\n    font-size: 20px;\n    font-weight: 700;\n    line-height: 28px;\n    text-transform: uppercase;\n}\n\np.tmpl_hh_footnote {    \n    font-size: 11px;\n    line-height: 15.4px;\n    letter-spacing: 0.03em;\n    color: #0000004D;\n    margin: 20px 30px 24px;\n}\n\n\n@media screen and (max-width: 1019px) {\n\n}    \n\n@media screen and (max-width: 699px) {\n    .tmpl_hh_wrapper {\n        width: auto;\n        margin: 0 -15px;\n    }\n\n    .tmpl_hh_content {\n        padding: 24px 31px 22px;\n    }\n\n    .tmpl_hh_content ol, .tmpl_hh_content ul {\n        margin-left: 11px;\n    }\n\n    .tmpl_hh_content li:before {\n        left: -11px;\n    }\n\n    .tmpl_hh_content ul>li:before {\n        top: 7px;\n    }\n\n    .tmpl_hh_header {\n        margin: 15px 15px 0;\n        border-radius: 16px;\n    }\n\n    .tmpl_hh_header__textBlock {\n        border-radius: 16px;\n        margin: -12px 0 0;\n        padding: 16px 16px 20px;\n        font-size: 12px;\n        line-height: 17px;\n        letter-spacing: 0;\n    }\n\n    p.tmpl_hh_headet__title {\n        font-size: 12px;\n        line-height: 17px;\n        margin: 16px 0 0px;\n    }\n\n    .tmpl_hh_advantages {\n        margin: 0 15px;\n    }\n\n    p.tmpl_hh_advantages__title {\n        margin: 1px 16px 16px;\n    }\n\n    .tmpl_hh_advantages__items {\n        grid-template-columns: repeat(2, 1fr);\n        font-size: 12px;\n        line-height: 16px;\n        letter-spacing: 0.01em;\n        gap: 8px;\n    }\n\n    .tmpl_hh_advantages__item {\n        padding: 16px 24px 12px 11px;\n        height: 130px;\n    }\n\n    .tmpl_hh_footer {\n        margin: 32px 15px 0;\n        background-size: 100%;\n        padding: 51% 0 0;\n        border-radius: 16px;\n    }\n\n    .tmpl_hh_footer__textBlock {\n        padding: 16px;\n        height: 183px;\n        border-radius: 16px;\n    }\n\n    p.tmpl_hh_footnote {    \n        margin: 16px 15px;\n    }\n\n}\n</style>\n\n\n<div class=\"tmpl_hh_wrapper\">\n    <div class=\"tmpl_hh_header\">\n        <div class=\"tmpl_hh_header__photo\"><img src=\"https://hhcdn.ru/ichameleon/401699.jpg\" alt=\"\"></div>   \n        <div class=\"tmpl_hh_header__textBlock\">\n            <div class=\"tmpl_hh_header__slogan\"><img src=\"https://hhcdn.ru/ichameleon/401710.svg\" alt=\"\"></div>   \n            <p class=\"tmpl_hh_headet__title\">Наша миссия:</p>\n            <p class=\"tmpl_hh_header__text\">Эффективная власть — благополучный и процветающий Татарстан!</p>\n        </div>       \n    </div>\n    <div class=\"tmpl_hh_content\">\n        <h2><em><strong>Государственная жилищная инспекция Республики Татарстан ищет специалиста по аналитике в сектор аналитики и контроля</strong></em></h2> <p> </p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>администрирование информационных систем;</li> <li>подготовка сводных отчетов;</li> <li>контроль и размещение информации на официальном сайте ГЖИ РТ.</li> </ul> <p><strong>Мы ожидаем от Вас:</strong></p> <ul> <li>среднее профессиональное образование;</li> <li>развитые навыки работы с компьютером и его устройствами, в т.ч. сетевыми;</li> <li>навыки работы с базами данных, электронной почтой, работы в текстовом редакторе; работы с электронными таблицами;</li> <li>умение работать в режиме многозадачности, ответственность, высокая мотивация к работе, способность выстраивать процессы.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>оформление по ТК РФ, социальный пакет;</li> <li>отпуск от 30 календарных дней;</li> <li>место работы в центре г. Казани;</li> <li>стабильная заработная плата (аванс выплачивается в середине месяца);</li> <li>график работы 5/2, с 8:30 до 17:30, пятница сокращенный день.</li> </ul></div>\n    <div class=\"tmpl_hh_advantages\">\n        <p class=\"tmpl_hh_advantages__title\">Преимущества:</p>\n        <div class=\"tmpl_hh_advantages__items\">\n            <div class=\"tmpl_hh_advantages__item\">\n                <div class=\"tmpl_hh_advantages__icon\"><img src=\"https://hhcdn.ru/ichameleon/401709.svg\" alt=\"\"></div>\n                <p>Участие в масштабных проектах</p>\n            </div>\n            <div class=\"tmpl_hh_advantages__item\">\n                <div class=\"tmpl_hh_advantages__icon\"><img src=\"https://hhcdn.ru/ichameleon/401704.svg\" alt=\"\"></div>\n                <p>Регулярное обучение</p>\n            </div>\n            <div class=\"tmpl_hh_advantages__item\">\n                <div class=\"tmpl_hh_advantages__icon\"><img src=\"https://hhcdn.ru/ichameleon/401705.svg\" alt=\"\"></div>\n                <p>Возможности карьерного развития</p>\n            </div>\n            <div class=\"tmpl_hh_advantages__item\">\n                <div class=\"tmpl_hh_advantages__icon\"><img src=\"https://hhcdn.ru/ichameleon/401703.svg\" alt=\"\"></div>\n                <p>Развитие личной компетентности</p>\n            </div>\n            <div class=\"tmpl_hh_advantages__item\">\n                <div class=\"tmpl_hh_advantages__icon\"><img src=\"https://hhcdn.ru/ichameleon/401708.svg\" alt=\"\"></div>\n                <p>Стабильная заработная плата</p>\n            </div>\n            <div class=\"tmpl_hh_advantages__item\">\n                <div class=\"tmpl_hh_advantages__icon\"><img src=\"https://hhcdn.ru/ichameleon/401707.svg\" alt=\"\"></div>\n                <p>Дополнительные дни к отпуску</p>\n            </div>\n            <div class=\"tmpl_hh_advantages__item\">\n                <div class=\"tmpl_hh_advantages__icon\"><img src=\"https://hhcdn.ru/ichameleon/401706.svg\" alt=\"\"></div>\n                <p>Социальный пакет</p>\n            </div>\n            <div class=\"tmpl_hh_advantages__item\">\n                <div class=\"tmpl_hh_advantages__icon\"><img src=\"https://hhcdn.ru/ichameleon/401701.svg\" alt=\"\"></div>\n                <p>Дополнительное пенсионное обеспечение</p>\n            </div>\n        </div>      \n    </div>\n    <div class=\"tmpl_hh_footer\">\n        <div class=\"tmpl_hh_footer__textBlock\">\n            <p>Готовы стать частью команды неравнодушных профессионалов?</p>\n            <p>Откликайтесь!</p>\n        </div>\n    </div>  \n    <p class=\"tmpl_hh_footnote\">Подбор кадров осуществляют исполнительные органы государственной власти Республики Татарстан</p>\n</div>\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Работа с базами данных"
+    },
+    {
+      "name": "Администрирование сайтов"
+    },
+    {
+      "name": "Ведение отчётности"
+    },
+    {
+      "name": "Составление отчетов"
+    },
+    {
+      "name": "Грамотная письменная речь"
+    },
+    {
+      "name": "СЭД"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "11302278",
+    "name": "Республика Татарстан",
+    "url": "https://api.hh.ru/employers/11302278",
+    "alternate_url": "https://hh.ru/employer/11302278",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11302278",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T17:37:03+0300",
+  "created_at": "2025-06-03T17:37:03+0300",
+  "initial_created_at": "2025-06-03T17:37:03+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121305771",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121305771",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "id": "120647472",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Разработчик SQL реестры ОМС",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><em>График работы с 5 мск до 14 мск 5/2.</em></p> <p><em>«РТ МИС» - ведущая IT-компания по цифровизации здравоохранения страны! Разработанные нами решения облегчают работу большинству врачей в нашей стране. Мы ищем профессионалов, способных мыслить глобально и создавать тренды. У тебя есть шанс вписать свое имя в историю цифровизации здравоохранения страны.</em></p> <p><em>Ищем специалиста с опытом работы в ТФОМС, с реестрами.</em></p> <p><strong>Обязанности:</strong></p> <ul> <li>Написание SQL запросов и разработка хранимых процедур;</li> <li>Разработка ETL-скриптов;</li> <li>Разработка отчетов BIRT;</li> <li>Сопровождение региональных МИС в рамках SLA.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li> <p>Опыт работы с реляционными СУБД (PostgreSQL, MS SQL) не менее года;</p> </li> <li> <p>Хорошее знание SQL;</p> </li> <li> <p>Желательно образование в сфере разработки, ИТ.</p> </li> </ul> <p><strong><em>Желательные требования:</em></strong></p> <ul> <li> <p>Опыт работы в ОМС, медицине, а также с реестрами счетов.</p> </li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li> <p>Удаленный формат работы только с территории РФ;</p> </li> <li> <p>График 5/2 с 5 мск до 14 мск;</p> </li> <li> <p>Опыт работы над социально значимыми проектами;</p> </li> <li> <p>Официальное трудоустройство в соответствии с ТК РФ с первого рабочего дня;</p> </li> <li> <p>Конкурентную заработную плату;</p> </li> <li> <p>Квартальные и годовые бонусы;</p> </li> <li> <p>ДМС + стоматология;</p> </li> <li> <p>Компенсацию фитнеса.</p> </li> </ul> <p><em>Пожалуйста, указывайте в резюме или в сопроводительном письме уровень ваших зарплатных ожиданий.</em></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "MS SQL"
+    },
+    {
+      "name": "ОМС"
+    },
+    {
+      "name": "ТФОМС"
+    },
+    {
+      "name": "реестры"
+    },
+    {
+      "name": "счета"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "105621",
+    "name": "РТ МИС",
+    "url": "https://api.hh.ru/employers/105621",
+    "alternate_url": "https://hh.ru/employer/105621",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1197022.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6408537.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6408538.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=105621",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-29T15:58:03+0300",
+  "created_at": "2025-05-29T15:58:03+0300",
+  "initial_created_at": "2025-05-16T17:14:53+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120647472",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120647472",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

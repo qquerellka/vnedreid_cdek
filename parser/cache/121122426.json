@@ -1,0 +1,163 @@
+{
+  "id": "121122426",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Продуктовый аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 192000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 192000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Аптекарский проспект",
+    "building": "2",
+    "lat": 59.96866,
+    "lng": 30.317764,
+    "description": null,
+    "raw": "Санкт-Петербург, Аптекарский проспект, 2",
+    "metro": {
+      "station_name": "Петроградская",
+      "line_name": "Московско-Петроградская",
+      "station_id": "15.215",
+      "line_id": "15",
+      "lat": 59.966389,
+      "lng": 30.311293
+    },
+    "metro_stations": [
+      {
+        "station_name": "Петроградская",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.215",
+        "line_id": "15",
+        "lat": 59.966389,
+        "lng": 30.311293
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Компания </strong><strong>Healbe</strong><strong> занимается разработкой инновационных носимых устройств-браслетов, контролирующих жизнедеятельность человека.</strong></p> <p><strong>Мы расширяем нашу команду талантливыми и активными профессионалами, опыт и знания которых будут полезны при создании наших продуктов.</strong></p> <p><strong>Мы ищем продуктового аналитика в Департамент управления клиентским опытом.</strong></p> <p><strong>Обязанности:</strong></p> <ul> <li>Аналитика успешности пользовательского опыта и составление ее критериев, анализконкурентов, АB-тестирования во внутренних и внешних проектах и продуктах, Касдевы,глубинные исследования, составление отчетов по проведенным исследованиям:</li> <li>Анализ жизненного цикла использования продукта с целью выявления точек роста и сильных/слабых мест;</li> <li>Исследование рынка: емкость, тенденции, востребованность собственного функционала и функционала конкурентов, исследование лояльности к продуктам конкурентов;</li> <li>Исследование аудитории продукта: причины оттока, поиск закономерностей в поведении пользователей, аналитика полученной обратной связи и т.п.;</li> <li>Помощь продакт-менеджеру в сегментации аудитории, создании и развитии CJM;</li> <li>Аналитика сырых данных («логи» продукта, интернет-счетчики, Я.Метрика/G.Analytics, данные об использовании мобильных и веб-приложений), хранилища данных (Пользовательский backoffice, PostgreSQL) в полезную для развития продукта информацию;</li> <li>Систематизация и формализация полученных аналитических данных в Confluence;</li> <li>Продумывать метрики качества продукта и выстраивать их взаимосвязи.</li> </ul> <p><strong>Необходимые навыки:</strong></p> <ul> <li>Аналитический склад ума;</li> <li>Умение применять в работе математическую статистику;</li> <li>Построение поисковых запросов на SQL-подобном языке;</li> <li>Опыт моделирования с применением Python, R или аналога;</li> <li>Чтение документации на английском языке;</li> <li>Опыт работы аналитиком от 3 лет.</li> <li>Желательно высшее техническое образование;</li> <li>SQL/Python/backoffice/Я.Метрика/G.Analytics/CJM/Confluence/WEB</li> <li>аналитика/Математическая статистика/ad hoc/Postgre/SQL;</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Возможность присоединиться к профессиональной, высокомотивированной виртуозной команде;</li> <li>Рыночная заработная плата по результатам собеседования;</li> <li>Полное оформление по ТК РФ, полностью белая з/п;</li> <li>Удобный график работы, возможен гибридный формат.</li> </ul> <p><strong>Какие задачи вас ждут:</strong></p> <ul> <li>Сбор и хранение данных</li> <li>Обработка данных</li> <li>Анализ данных</li> <li>Визуализация</li> </ul> <p><strong>Инструменты:</strong></p> <ul> <li>MySQL PostgreSQL</li> <li>Еxcel</li> <li>Python</li> <li>Looker Studio</li> <li>Figma/Miro</li> <li>Google BigQuery</li> <li>Firebase</li> </ul> <p><strong>Приветствуется:</strong></p> <ul> <li>Google Analytics</li> <li>«Яндекс Метрика».</li> <li>Confluence</li> <li>Jira</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Знаешь и понимаешь механики сборки основных продуктовых метрик.</li> <li>Умеешь проводить А/В тесты в среде web/app и рассказывать другим, как это делать;</li> <li>Занимался визуализацией данных в BI системах. Отлично, если есть опыт с Looker Studio</li> <li>Создавать и улучшать метрики использования продукта;</li> <li>Подготовка и анализ касдевов, глубинных исследований</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "164",
+      "name": "Продуктовый аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1582278",
+    "name": "Хилби",
+    "url": "https://api.hh.ru/employers/1582278",
+    "alternate_url": "https://hh.ru/employer/1582278",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/259190.png",
+      "90": "https://img.hhcdn.ru/employer-logo/1479290.png",
+      "240": "https://img.hhcdn.ru/employer-logo/1479291.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1582278",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T12:20:36+0300",
+  "created_at": "2025-06-07T12:20:36+0300",
+  "initial_created_at": "2025-05-29T12:20:36+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121122426",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121122426",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

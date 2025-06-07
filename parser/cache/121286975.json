@@ -1,0 +1,151 @@
+{
+  "id": "121286975",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Fullstack-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": null,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": null,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "посёлок Усть-Ижора",
+    "street": "улица Труда",
+    "building": "24",
+    "lat": 59.795501,
+    "lng": 30.601011,
+    "description": null,
+    "raw": "посёлок Усть-Ижора, улица Труда, 24",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "Fullstack разработчика .NET для сопровождения и развития собственной системы управления производством <p> </p> <p><strong>Требуемые навыки:</strong></p> <p> • C# • ASP.NET • .NET • Blazor • Microsoft SQL Server • SQL • JS</p> <p><strong>Требования:</strong></p> <ul> <li>Опыт разработки веб приложений и веб сервисов от 2 лет;</li> <li>Опыт работы с ASP.NET, ASP.NET Core, Entity Framework Core;</li> <li>Опыт работы с JS, CSS.</li> <li>Опыт работы с базами данных: MS SQL Server;</li> <li>Умение работать с чужим кодом;</li> <li>Опыт работы с Docker;</li> <li>Опыт работы с Git.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>График работы 5/2 (суббота, воскресенье выходной)</li> <li>Официальное трудоустройство по ТК РФ.</li> <li>Стабильная заработная плата с выплатой 2 раза в месяц.</li> <li>Корпоративное льготное питание и др. меры соц. поддержки.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "225329",
+    "name": "Аквафор",
+    "url": "https://api.hh.ru/employers/225329",
+    "alternate_url": "https://hh.ru/employer/225329",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/431746.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/2169054.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/2169055.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=225329",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T14:12:47+0300",
+  "created_at": "2025-06-03T14:12:47+0300",
+  "initial_created_at": "2025-06-03T14:12:47+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121286975",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121286975",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

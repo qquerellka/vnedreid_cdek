@@ -1,0 +1,139 @@
+{
+  "id": "120115059",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Стажер аналитик-проектировщик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 30000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 30000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Привет! Мы занимаемся разработкой и внедрением систем, автоматизирующих бизнес-процессы заказчика на базе конструктора FIS Platform.</p> <p>Наши основные клиенты банки ТОП-100.</p> <p><strong>Стажировка и дальнейшая работа у нас - это:</strong></p> <ul> <li>Участие в проектах создания и внедрения автоматизированных систем в команде коллег;</li> <li>Разработка и настройка схем данных, бизнес-процессов, пользовательских форм, алгоритмов и отчетов;</li> <li>Тестирование функциональности приложений и поддержка их работоспособности;</li> <li>Возможность совмещать работу с учебой на последних курсах;</li> <li>Обмен идеями и опытом с профессионалами.</li> </ul> <p><strong>Чем тебе придется заниматься:</strong></p> <ul> <li>Настройка модели данных</li> <li>Настройка процессов и написание скриптов</li> <li>Разработка пользовательского интерфейса;</li> <li>Настройка интеграций: web-сервисы, внешние БД</li> <li>Работа с БД (Oracle, PostgreSQL, MS SQL): написание и оптимизация SQL-запросов</li> <li>Коммуникации с заказчиком, выявление требований и анализ доработок;</li> <li>Работа с требованиями: участие в предпроектном обследовании (вместе с ведущим аналитиком-проектировщиком), написание функциональных требований и пользовательской документации.</li> </ul> <p><strong>Что мы ожидаем от тебя:</strong></p> <ul> <li>Уверенное владение <strong>объектно-ориентированным языком программирования</strong>, практический опыт - хотя бы на уровне студенческих работ;</li> <li>Базовые знания <strong>SQL</strong>;</li> <li>Профильное <strong>высшее образование</strong> (в сфере IT);</li> <li>Аналитический склад ума, умение мыслить структурированно;</li> <li>Способность работать как в команде, так и самостоятельно;</li> <li>Готовность учиться, осваивать новый инструментарий и применять свои знания;</li> <li>Ответственность и внимательность.</li> </ul> <p><strong>Будет преимуществом:</strong></p> <ul> <li>Практический опыт работы с JavaScript;</li> <li>Базовые знания любой нотации описания бизнес-процессов.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Стажировку, где научим работать с нашими продуктами;</li> <li>Гибкий график и возможность совмещать работу с учебой (работа <strong>от 32 часов</strong> в неделю или 4 рабочих дня);</li> <li>Возможности профессионального роста и обмен опытом;</li> <li>Рост заработной платы вместе с ростом квалификации;</li> <li> <p>Возможность онлайн работы;</p> </li> <li> <p>Прочие &quot;плюшки&quot;.</p> </li> </ul> <p><strong>Мы ждем тебя в свою команду!</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "JavaScript"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "50071",
+    "name": "Финансовые Информационные Системы",
+    "url": "https://api.hh.ru/employers/50071",
+    "alternate_url": "https://hh.ru/employer/50071",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1329903.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6939630.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6939631.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=50071",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T06:20:26+0300",
+  "created_at": "2025-06-07T06:20:26+0300",
+  "initial_created_at": "2025-04-30T13:53:19+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120115059",
+  "has_test": true,
+  "test": {
+    "required": true
+  },
+  "alternate_url": "https://hh.ru/vacancy/120115059",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": true,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

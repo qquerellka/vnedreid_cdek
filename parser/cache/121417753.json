@@ -1,0 +1,161 @@
+{
+  "id": "121417753",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Frontend разработчик (React)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Волочаевская улица",
+    "building": "5к1",
+    "lat": 55.753838,
+    "lng": 37.6812,
+    "description": null,
+    "raw": "Москва, Волочаевская улица, 5к1",
+    "metro": {
+      "station_name": "Площадь Ильича",
+      "line_name": "Калининская",
+      "station_id": "8.112",
+      "line_id": "8",
+      "lat": 55.747115,
+      "lng": 37.680726
+    },
+    "metro_stations": [
+      {
+        "station_name": "Площадь Ильича",
+        "line_name": "Калининская",
+        "station_id": "8.112",
+        "line_id": "8",
+        "lat": 55.747115,
+        "lng": 37.680726
+      },
+      {
+        "station_name": "Римская",
+        "line_name": "Люблинско-Дмитровская",
+        "station_id": "10.113",
+        "line_id": "10",
+        "lat": 55.747027,
+        "lng": 37.679996
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Департамент Инфраструктурных Решений и Сервисов КРОК занимается проектами в области построения ИТ-инфраструктуры для крупнейших российских компаний и ориентируется на решения ведущих российских и мировых производителей. </p> <p>Одно из таких решений – платформа комплексной автоматизации DevOps: управление виртуализацией и контейнеризацией, облаками, GitOps, создание PaaS сервисов.</p> <p>Мы активно развиваемся и находимся в поиске Frontend-разработчика (React).</p> <p><strong>ВАШИ ЗАДАЧИ:</strong></p> <ul> <li>Разрабатывать новые SPA-модули: React-Router v6, Code-Splitting, Suspense;</li> <li>Интегрировать REST и GraphQL gateway (используем React-Query, urql);</li> <li>Писать настраиваемые интерфейсы и графики — чарты загрузки, визуализацию логов и статусов деплоймента (echarts, Grafana-like);</li> <li>Реализовывать real-time: WebSocket и SSE-слои для логов и прогресса задач;</li> <li>Поддерживать чистоту: писать юнит- и компонентные тесты (Vitest, React Testing Library, Storybook);</li> <li>Работать в команде — ревьюить код, обсуждать UX с дизайнерами, взаимодействовать с Python-разработчиками по API.</li> </ul> <p><strong>НАШИ ОЖИДАНИЯ:</strong></p> <ul> <li>3+ лет коммерческой разработки на React + TypeScript;</li> <li>Глубокое понимание Virtual DOM, Hooks, Context vs Redux/ Zustand;</li> <li>Опыт работы с асинхронными запросами (Axios / Fetch, React-Query, SWR);</li> <li>Уверенный CSS-in-JS / Tailwind: адаптивная вёрстка, accessibility, dark-mode;</li> <li>Git, CI/CD, code review — не просто знакомы, а в ежедневной практике;</li> <li>English B1+: чтение документации, комментарии PR.</li> </ul> <p><strong>БУДЕТ ПЛЮСОМ:</strong></p> <ul> <li>Опыт работы с micro-frontends (Webpack MF, Module Federation, Single-SPA);</li> <li>Взаимодействие с библиотеками визуализации: React-Flow, D3, ECharts, VisX;</li> <li>Знание Canvas/WebGL (например, PixiJS) — пригодится для topology map;</li> <li>Умение работать с Figma API и понимание подходов к дизайну через токены;</li> <li>Знание Storybook-addon-interaction, Chromatic visual tests.</li> </ul> <p><strong>МЫ ПРЕДЛАГАЕМ:</strong></p> <ul> <li> <p>Широкий стек технологий и проектов, возможность гибко строить свой карьерный трек;</p> </li> <li> <p>Зарплату, соответствующую опыту и навыкам, прозрачную систему мотивации;</p> </li> <li> <p>Работу в компании с аккредитацией в Минцифре;</p> </li> <li> <p>Поддержку профессионального развития – курсы и тренинги от корпоративного университета, внешнее обучение за счет компании;</p> </li> <li> <p>Возможность делиться экспертизой – выступать на внешних и внутренних митапах и конференциях, писать в техноблоги, участвовать в студенческих образовательных программах от brainz by CROC;</p> </li> <li> <p>Well-being-программы – расширенный пакет ДМС со стоматологией и психологом, телемедицина 24/7, hotline CROC (внутренняя система консультирования и оперативной помощи по вопросам здоровья);</p> </li> <li> <p>Спорт – сезонные спортивные программы, компенсация фитнеса, современный спортзал для занятий в офисе, беговой клуб, приложение Croc Sport, командные соревнования по популярным видам спорта;</p> </li> <li> <p>Яркая корпоративная жизнь – более 100 программ в год (совместные путешествия, праздники, тимбилдинги, клуб путешественников, случайный кофе);</p> </li> <li> <p>Комфортный офис с компенсацией питания в CROC Cafe, экосистемой сервисов, парковкой, корпоративным транспортом от метро.</p> </li> </ul> <p>Приглашаем тебя развиваться вместе с нами!</p> <p><em>Данное описание вакансии не является офертой.</em></p>",
+  "branded_description": "\n<style>\n\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;    \n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-weight: normal;\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    display: inline;\n    margin: 0 0 0;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    color: #5b5b5b;\n    overflow: hidden;\n    font-family: 'Verdana';\n    font-size: 14px;\n    line-height: 20px;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n}\n\n.tmpl_hh_content {\n    padding: 47px 40px 53px;\n    position: relative;\n    z-index: 3;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n   margin: 25px 0 9px;\n}\n\n.tmpl_hh_content b, \n.tmpl_hh_content strong {\n    display: inline-block;\n    font-weight: bold;\n    font-size: 16px;\n    line-height: 18px;\n    color: #00a360;\n    text-transform: uppercase;\n}\n\n.tmpl_hh_content ol, \n.tmpl_hh_content ul {\n    margin-left: 22px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 8px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 8px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;    \n}\n\n.tmpl_hh_content li:before {\n    position: absolute;\n    left: -22px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"\\2022\";\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter)'.';\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n\n.tmpl_hh_flex {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n}\n\n.tmpl_hh_header {\n    position: relative;\n}\n\np.tmpl_hh_header__title {\n    position: absolute;\n    color: #fff;\n    font-size: 33px;\n    line-height: 43px;\n    font-weight: bold;\n    top: 73px;\n    left: 1.6%;\n}\n\np.tmpl_hh_header__title span {\n    display: block;\n    margin-left: 32%;\n}\n\np.tmpl_hh_header__name {\n    position: absolute;\n    left: 2%;\n    font-size: 10px;\n    line-height: 12px;\n    color: #fff;\n    bottom: 27px;\n    z-index: 1;\n}\n\np.tmpl_hh_header__name:before {\n    content: \"\";\n    border-radius: 0 70px 70px 0%;\n    border: 3px solid #fff;\n    height: 160px;\n    width: calc(100% + 33px);\n    position: absolute;\n    left: -20px;\n    top: -24px;\n}\n\nimg.tmpl_hh_header__photo {\n    position: absolute;\n    width: 334px;\n    right: 2%;\n    bottom: 0;\n}\n\n.tmpl_hh_video {\n    position: relative;\n    width: 100%;\n    padding-bottom: 49.7%;\n    margin: 0 auto;\n}\n\n.tmpl_hh_video img,\n.tmpl_hh_video iframe {\n    position: absolute;\n    left: 0;\n    top: 0;\n    width: 100%;\n    height: 100%;\n}\n\n@media screen and (max-width: 1019px) {\n    p.tmpl_hh_header__title {\n        font-size: 26px;\n        line-height: 32px;\n    }\n}\n\n@media screen and (max-width: 699px) {\n    .tmpl_hh_content {\n        padding: 47px 6% 53px;\n    }\n\n\n    p.tmpl_hh_header__title {\n        font-size: 24px;\n        line-height: 30px;\n        top: 40px;\n    }\n\n    img.tmpl_hh_header__slogan {\n        right: 3%;\n    }\n}\n    .tmpl_hh_footer {\n        position: relative;\n        display: flex;\n        justify-content: center;\n    }\n\n    .tmpl_hh_footer__video {\n        position: absolute;\n        bottom: 55px;\n        width: 94%;\n    }\n\n    @media screen and (max-width: 699px) {\n\n        .tmpl_hh_footer__video {\n            bottom: 30px;\n\n        }\n    }\n</style>\n\n\n<div class=\"tmpl_hh_wrapper\">\n    <div class=\"tmpl_hh_header\">\n        <img src=\"https://hhcdn.ru/ichameleon/344534.jpg\" alt=\"\">\n    </div>\n    <div class=\"tmpl_hh_content\">\n       <p>Департамент Инфраструктурных Решений и Сервисов КРОК занимается проектами в области построения ИТ-инфраструктуры для крупнейших российских компаний и ориентируется на решения ведущих российских и мировых производителей. </p> <p>Одно из таких решений – платформа комплексной автоматизации DevOps: управление виртуализацией и контейнеризацией, облаками, GitOps, создание PaaS сервисов.</p> <p>Мы активно развиваемся и находимся в поиске Frontend-разработчика (React).</p> <p><strong>ВАШИ ЗАДАЧИ:</strong></p> <ul> <li>Разрабатывать новые SPA-модули: React-Router v6, Code-Splitting, Suspense;</li> <li>Интегрировать REST и GraphQL gateway (используем React-Query, urql);</li> <li>Писать настраиваемые интерфейсы и графики — чарты загрузки, визуализацию логов и статусов деплоймента (echarts, Grafana-like);</li> <li>Реализовывать real-time: WebSocket и SSE-слои для логов и прогресса задач;</li> <li>Поддерживать чистоту: писать юнит- и компонентные тесты (Vitest, React Testing Library, Storybook);</li> <li>Работать в команде — ревьюить код, обсуждать UX с дизайнерами, взаимодействовать с Python-разработчиками по API.</li> </ul> <p><strong>НАШИ ОЖИДАНИЯ:</strong></p> <ul> <li>3+ лет коммерческой разработки на React + TypeScript;</li> <li>Глубокое понимание Virtual DOM, Hooks, Context vs Redux/ Zustand;</li> <li>Опыт работы с асинхронными запросами (Axios / Fetch, React-Query, SWR);</li> <li>Уверенный CSS-in-JS / Tailwind: адаптивная вёрстка, accessibility, dark-mode;</li> <li>Git, CI/CD, code review — не просто знакомы, а в ежедневной практике;</li> <li>English B1+: чтение документации, комментарии PR.</li> </ul> <p><strong>БУДЕТ ПЛЮСОМ:</strong></p> <ul> <li>Опыт работы с micro-frontends (Webpack MF, Module Federation, Single-SPA);</li> <li>Взаимодействие с библиотеками визуализации: React-Flow, D3, ECharts, VisX;</li> <li>Знание Canvas/WebGL (например, PixiJS) — пригодится для topology map;</li> <li>Умение работать с Figma API и понимание подходов к дизайну через токены;</li> <li>Знание Storybook-addon-interaction, Chromatic visual tests.</li> </ul> <p><strong>МЫ ПРЕДЛАГАЕМ:</strong></p> <ul> <li> <p>Широкий стек технологий и проектов, возможность гибко строить свой карьерный трек;</p> </li> <li> <p>Зарплату, соответствующую опыту и навыкам, прозрачную систему мотивации;</p> </li> <li> <p>Работу в компании с аккредитацией в Минцифре;</p> </li> <li> <p>Поддержку профессионального развития – курсы и тренинги от корпоративного университета, внешнее обучение за счет компании;</p> </li> <li> <p>Возможность делиться экспертизой – выступать на внешних и внутренних митапах и конференциях, писать в техноблоги, участвовать в студенческих образовательных программах от brainz by CROC;</p> </li> <li> <p>Well-being-программы – расширенный пакет ДМС со стоматологией и психологом, телемедицина 24/7, hotline CROC (внутренняя система консультирования и оперативной помощи по вопросам здоровья);</p> </li> <li> <p>Спорт – сезонные спортивные программы, компенсация фитнеса, современный спортзал для занятий в офисе, беговой клуб, приложение Croc Sport, командные соревнования по популярным видам спорта;</p> </li> <li> <p>Яркая корпоративная жизнь – более 100 программ в год (совместные путешествия, праздники, тимбилдинги, клуб путешественников, случайный кофе);</p> </li> <li> <p>Комфортный офис с компенсацией питания в CROC Cafe, экосистемой сервисов, парковкой, корпоративным транспортом от метро.</p> </li> </ul> <p>Приглашаем тебя развиваться вместе с нами!</p> <p><em>Данное описание вакансии не является офертой.</em></p></div>\n <div class=\"tmpl_hh_footer\">\n    <img src=\"https://hhcdn.ru/ichameleon/343186.jpg\" alt=\"\">\n    <div class=\"tmpl_hh_footer__video\">\n        <div class=\"tmpl_hh_video\">\n           <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2fZfB2vd39k?si=TXwI60rDnyukkkwS\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\"></iframe>\n        </div>\n    </div>\n</div>\n</div>\n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "React"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2987",
+    "name": "КРОК",
+    "url": "https://api.hh.ru/employers/2987",
+    "alternate_url": "https://hh.ru/employer/2987",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/278279.png",
+      "90": "https://img.hhcdn.ru/employer-logo/1555613.png",
+      "240": "https://img.hhcdn.ru/employer-logo/1555614.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2987",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T12:36:49+0300",
+  "created_at": "2025-06-06T12:36:49+0300",
+  "initial_created_at": "2025-06-06T12:36:49+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121417753",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121417753",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

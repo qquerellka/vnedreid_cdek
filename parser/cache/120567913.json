@@ -1,0 +1,141 @@
+{
+  "id": "120567913",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Разработчик баз данных",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Казань",
+    "street": "Чистопольская улица",
+    "building": "11",
+    "lat": 55.820126,
+    "lng": 49.107474,
+    "description": null,
+    "raw": "Казань, Чистопольская улица, 11",
+    "metro": {
+      "station_name": "Козья слобода",
+      "line_name": "Центральная",
+      "station_id": "49.271",
+      "line_id": "49",
+      "lat": 55.817608,
+      "lng": 49.097646
+    },
+    "metro_stations": [
+      {
+        "station_name": "Козья слобода",
+        "line_name": "Центральная",
+        "station_id": "49.271",
+        "line_id": "49",
+        "lat": 55.817608,
+        "lng": 49.097646
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Чем нужно будет заниматься:</strong></p> <ul> <li>разработкой ETL\\ELT процессов (сейчас используем SSIS, Apache Airflow);</li> <li>разработкой витрин данных (MS SQL , PostgreSQL);</li> <li>написанием хранимых процедур\\функций (MS SQL, PostgreSQL, Impala, Arenadata DB/GreenPlum), оптимизацией запросов;</li> <li>разработкой на различных слоях КХД;</li> <li>разработкой отчетов (MS Reporting Services).</li> </ul> <p><strong>Для нас важны в тебе:</strong></p> <ul> <li>уверенные знания SQL (предпочтительнее, если работал больше с MS SQL, но PostgreSQL, Oracle и GreenPlum тоже отлично): написание функций, процедур, сложных запросов, оконных функций, умение оптимизировать запросы и пр.;</li> <li>практический опыт разработки ETL-процессов.</li> </ul> <p><strong>Будет плюсом: </strong></p> <ul> <li>опыт с MPP СУБД (например, Greenplum/ClickHouse);</li> <li>знание механизмов распределенных запросов SQL (Trino/Presto/Hive/Impala);</li> <li>опыт с Apache Airflow;</li> <li>умение самостоятельно выполнять задачи по разработке и внедрению решений (ETL процессы, процедуры, отчеты) на основе полученных бизнес-требований;</li> <li>опыт работы с корпоративным хранилищем данных;</li> <li>опыт использования Jira или иного трекера задач.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li> <p>официальное трудоустройство, стабильная заработная плата;</p> </li> <li> <p>гибкое начало утра до начала DSM;</p> </li> <li> <p>офис в Казани, Иннополисе, Москве и Санкт-Петербурге;</p> </li> <li> <p>современная техника, отправляем в город проживания курьером;</p> </li> <li> <p>оплата участия во внешних профильных мероприятиях;</p> </li> <li> <p>регулярные технические ревью, а также возможность проходить перфоманс ревью;</p> </li> <li> <p>оплачиваемые внешние курсы и программы обучения;</p> </li> <li> <p>участие во внутренних хакатонах, конференциях и собственных митапах Three Amigos Talk;</p> </li> <li> <p>бонусная программа рекомендаций «Приведи друга»;</p> </li> <li> <p>корпоративные мероприятия, встречаемся онлайн и офлайн;</p> </li> <li> <p>подарки к значимым событиям, подарки детям сотрудников;</p> </li> <li> <p>ДМС со стоматологией в твоем городе после испытательного срока (3 месяца).</p> </li> </ul>",
+  "branded_description": "\n<style>\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    font-family: \"Arial\", sans-serif;\n    color: #000;\n    font-size: 16px;\n    line-height: 24px;\n    overflow: hidden;\n    border-radius: 0;\n}\n.tmpl_hh_wrapper *{\n    box-sizing: border-box;\n}\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n.hht-vacancydescription {\n    padding: 0px;\n}\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;    \n}\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-weight: normal;\n    font-size: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n    display: inline;\n}\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    margin: 0 0 30px;\n}\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    color: #000;\n    display: block;\n    font-size: 20px;\n    line-height: 26px;\n}\n.tmpl_hh_content b em,\n.tmpl_hh_content strong em,\n.tmpl_hh_content em b,\n.tmpl_hh_content em strong {\n    font-size: initial;\n    line-height: initial;\n    font-style: normal;\n    font-weight: bold;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong{\n    margin: 0;   \n    display: inline;\n}\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 35px;\n    list-style: none !important;\n    margin-bottom: 30px;\n}\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 12px;\n}\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ul li strong em,\n.tmpl_hh_content ol li strong em,\n.tmpl_hh_content ul li em strong,\n.tmpl_hh_content ol li em strong {\n    font-size: initial;\n    line-height: initial;\n    font-weight: bold;\n    font-style: normal;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 8px;\n    margin-bottom: 8px;\n}\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;    \n}\n.tmpl_hh_content li:before {\n    content: '';\n    position: absolute;\n    left: -18px;\n    top: 0;\n}\n.tmpl_hh_content ul>li:before {\n    width: 16px;\n    height: 17px;\n    background: url(https://hhcdn.ru/ichameleon/404235.svg) top left/contain no-repeat;\n    left: -34px;\n    top: 5px;\n}\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter)'.';\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n.tmpl_hh_video {\n    position: relative;\n    width: 100%;\n}\n.tmpl_hh_video img,\n.tmpl_hh_video iframe {\n    position: absolute;\n    left: 0;\n    top: 0;\n    width: 100%;\n    height: 100%;\n}\n\n.tmpl_hh_wrapper img{\n    width: 100%;\n    display: block;\n}\n.tmpl_hh_content {\n    padding: 50px 50px 1px;\n}\n.tmpl_hh_content .tmpl_hh_margin{\n    margin-top: 49px;\n}\n\n.tmpl_hh_header{\n    position: relative;\n    background-color: #1F1A39;\n    border-radius: 0;\n    padding: 34px 50px 65px;\n}\n.tmpl_hh_header .tmpl_hh_logo{\n    width: 103px;\n    margin-bottom: 46px;\n}\n.tmpl_hh_header b{\n    display: block;\n    font-size: 34px;\n    line-height: 1;\n    margin-bottom: 20px;\n    color: #fff;\n    max-width: 388px;\n}\n.tmpl_hh_header p{\n    display: block;\n    font-size: 12px;\n    line-height: 14px;\n    color: #fff;\n    max-width: 296px;\n}\n.tmpl_hh_header .tmpl_hh_grammofone{\n    position: absolute;\n    bottom: 50px;\n    right: 0;\n    width: 168px;\n}\n.tmpl_hh_header__rotate{\n    position: absolute;\n    bottom: 4px;\n    right: -56px;\n    width: 282px;\n    height: 290px;\n    background: url(https://hhcdn.ru/ichameleon/404240.svg) center/contain no-repeat;\n    animation: rotateHeader 25s infinite linear;\n}\n@keyframes rotateHeader {\n  0% {\n    transform: rotate(0deg);\n  }\n  100% {\n    transform: rotate(360deg);\n  }\n}\n\n.tmpl_hh_footer{\n    position: relative;\n    background-color: #1F1A39;\n    border-radius: 0;\n    padding: 50px 56px 31px 84px;\n    color: #fff;\n    display: flex;\n    flex-direction: column;\n}\n.tmpl_hh_footer ul{\n\n}\n.tmpl_hh_footer li{\n    position: relative;\n    padding-left: 0;\n    margin-bottom: 10px;\n    list-style: none;\n    font-size: 16px;\n    line-height: 19px;\n}\n.tmpl_hh_footer li:before{\n    content: '';\n    position: absolute;\n    top: 0;\n    left: -35px;\n    width: 16px;\n    height: 16px;\n    background: url(https://hhcdn.ru/ichameleon/404235.svg) top left/contain no-repeat;\n}\n.tmpl_hh_footer b{\n    display: block;\n    font-size: 16px;\n    line-height: 19px;\n    margin-top: 30px;\n    padding-left: 4px;\n    margin-bottom: 20px;\n}\n.tmpl_hh_lawyer{\n    padding-left: 0px;\n    padding-right: 86px;\n}\n.tmpl_hh_lawyer p{\n    margin-bottom: 18px;\n    color: #A49DC6;\n    font-size: 12px;\n    line-height: 17px;\n}\n.tmpl_hh_footer .tmpl_hh_logo{\n    position: absolute;\n    bottom: 54px;\n    right: 35px;\n    width: 91px;\n}\n\n@media (max-width: 1019px) {\n \n    .tmpl_hh_header b{\n        font-size: 29px;\n    }\n    .tmpl_hh_header__rotate{\n        right: -66px;\n    }\n    .tmpl_hh_header .tmpl_hh_grammofone{\n        right: -10px;\n        bottom: 47px;\n    }\n    .tmpl_hh_footer{\n        padding-right: 40px;\n    }\n}\n\n@media (max-width: 699px) {\n\n    .tmpl_hh_wrapper{\n        font-size: 14px;\n        line-height: 21px;\n        border-radius: 20px;\n    }\n    .tmpl_hh_content b, .tmpl_hh_content strong{\n        font-size: 16px;\n        line-height: 20px;\n    }\n    .tmpl_hh_header{\n        border-radius: 20px;\n        padding: 30px 25px 50px;\n        overflow: hidden;\n    }\n    .tmpl_hh_header .tmpl_hh_logo{\n        width: 62px;\n        margin-bottom: 30px;\n    }\n    .tmpl_hh_header b{\n        font-size: 20px;\n        position: relative;\n        z-index: 10;\n    }\n    .tmpl_hh_header p{\n        max-width: 145px;\n        position: relative;\n        z-index: 10;\n    }\n    .tmpl_hh_header .tmpl_hh_grammofone {\n        right: -17px;\n        bottom: -12px;\n        width: 136px;\n        z-index: 2;\n    }\n    .tmpl_hh_header__rotate {\n        right: -24px;\n        width: 170px;\n        height: 172px;\n        bottom: -7px;\n    }\n    .tmpl_hh_content{\n        padding: 40px 25px 1px;\n    }\n    .tmpl_hh_content ol, .tmpl_hh_content ul{\n        margin-left: 21px;\n    }\n    .tmpl_hh_content ul>li:before{\n        width: 12px;\n        height: 12px;\n        left: -22px;\n        top: 5px;\n    }\n    .tmpl_hh_content .tmpl_hh_margin {\n        margin-top: 39px;\n    }\n    .tmpl_hh_footer{\n        border-radius: 20px;\n        padding: 40px 25px 46px 46px;\n    }\n    .tmpl_hh_footer ul{\n        order: 1;\n    }\n    .tmpl_hh_footer li{\n        font-size: 14px;\n        line-height: 17px;\n    }\n    .tmpl_hh_footer li:before{\n        top: 0;\n        left: -21px;\n        width: 12px;\n        height: 12px;\n    }\n    .tmpl_hh_footer li{\n        margin-bottom: 12px;\n    }\n    .tmpl_hh_footer b{\n        order: 3;\n        margin-top: 0px;\n        padding-left: 0;\n    }\n    .tmpl_hh_lawyer{\n        order: 2;\n        margin-top: 10px;\n        padding-right: 0;\n    }\n    .tmpl_hh_footer .tmpl_hh_logo{\n        bottom: 25px;\n        right: 25px;\n    }\n}\n\n</style>\n\n<script>\n//\n\n    function DOM_HH_Ready() {\n\n    const initTitles = () => {\n        const lists = document.querySelectorAll('.tmpl_hh_content ul, .tmpl_hh_content ol');\n        lists.forEach((item) => {\n            if (item.previousElementSibling != null) {\n                const beforeEl = item.previousElementSibling;\n                beforeEl.classList.add('tmpl_hh_title');\n            }\n        });\n    }\n    initTitles();\n\n    }\n    if (document.readyState === \"loading\") {\n        document.addEventListener(\"DOMContentLoaded\", DOM_HH_Ready);\n    } else {\n        DOM_HH_Ready();\n    }\n\n//\n</script>\n\n    <div class=\"tmpl_hh_wrapper\">\n        <div class=\"tmpl_hh_header\">\n            <img src=\"https://hhcdn.ru/ichameleon/404238.svg\" alt=\"\" class=\"tmpl_hh_logo\">\n            <b>Делаем мир финансов доступным каждому</b>\n            <p>Мы стремимся создать цифровую экосистему\n                и разрабатывать новые технологичные продукты для удобства клиентов банка</p>\n            <img src=\"https://hhcdn.ru/ichameleon/404239.png\" alt=\"\" class=\"tmpl_hh_grammofone\">\n            <div class=\"tmpl_hh_header__rotate\"></div>\n        </div>\n        \n        <div class=\"tmpl_hh_content\">\n            <p><strong>Чем нужно будет заниматься:</strong></p> <ul> <li>разработкой ETL\\ELT процессов (сейчас используем SSIS, Apache Airflow);</li> <li>разработкой витрин данных (MS SQL , PostgreSQL);</li> <li>написанием хранимых процедур\\функций (MS SQL, PostgreSQL, Impala, Arenadata DB/GreenPlum), оптимизацией запросов;</li> <li>разработкой на различных слоях КХД;</li> <li>разработкой отчетов (MS Reporting Services).</li> </ul> <p><strong>Для нас важны в тебе:</strong></p> <ul> <li>уверенные знания SQL (предпочтительнее, если работал больше с MS SQL, но PostgreSQL, Oracle и GreenPlum тоже отлично): написание функций, процедур, сложных запросов, оконных функций, умение оптимизировать запросы и пр.;</li> <li>практический опыт разработки ETL-процессов.</li> </ul> <p><strong>Будет плюсом: </strong></p> <ul> <li>опыт с MPP СУБД (например, Greenplum/ClickHouse);</li> <li>знание механизмов распределенных запросов SQL (Trino/Presto/Hive/Impala);</li> <li>опыт с Apache Airflow;</li> <li>умение самостоятельно выполнять задачи по разработке и внедрению решений (ETL процессы, процедуры, отчеты) на основе полученных бизнес-требований;</li> <li>опыт работы с корпоративным хранилищем данных;</li> <li>опыт использования Jira или иного трекера задач.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li> <p>официальное трудоустройство, стабильная заработная плата;</p> </li> <li> <p>гибкое начало утра до начала DSM;</p> </li> <li> <p>офис в Казани, Иннополисе, Москве и Санкт-Петербурге;</p> </li> <li> <p>современная техника, отправляем в город проживания курьером;</p> </li> <li> <p>оплата участия во внешних профильных мероприятиях;</p> </li> <li> <p>регулярные технические ревью, а также возможность проходить перфоманс ревью;</p> </li> <li> <p>оплачиваемые внешние курсы и программы обучения;</p> </li> <li> <p>участие во внутренних хакатонах, конференциях и собственных митапах Three Amigos Talk;</p> </li> <li> <p>бонусная программа рекомендаций «Приведи друга»;</p> </li> <li> <p>корпоративные мероприятия, встречаемся онлайн и офлайн;</p> </li> <li> <p>подарки к значимым событиям, подарки детям сотрудников;</p> </li> <li> <p>ДМС со стоматологией в твоем городе после испытательного срока (3 месяца).</p> </li> </ul><div class=\"tmpl_hh_margin\"></div>\n        </div>\n\n        <div class=\"tmpl_hh_footer\">\n            <ul>\n                <li>Мы выводили приложение Ак Барс Банка <nobr>в топ-3</nobr> категории DailyBanking пять раз*</li>\n                <li>Вошли в список самых инновационных банков России** и в четверку банков России с самым удобным мобильным приложением***, реализовали десятки решений для клиентов банка и сделали жизнь лучше более 3 млн человек</li>\n                <li>Все это стало возможным благодаря нашим кросс - функциональным командам, которые работают по методологии Agile и используют фреймворк SAFe вместе с современными технологиями и процессами DevOps</li>\n            </ul>\n            <b>У нас много сложных и интересных задач. Присоединяйся!</b>\n            <div class=\"tmpl_hh_lawyer\">\n                <p>*2022 - 2 место. 2021 - 2 место.  2020 - 3 место на Android, 2 место на iOS\n                    <br>2019 - 2 место. 2018 - 2 место на Android, 3 место на iOS\n                    <br>(исследование Mobile Banking Rank от Markswebb за 2018-2022гг.)\n                    <br>**по версии агентства Go Mobile, премия Go Banking Awards, 2021\n                    <br>***по результатам исследования Mobile Banking Rank, 2021</p>\n                   \n                <p>Подбор осуществляется в ООО «АК БАРС ЦИФРОВЫЕ ТЕХНОЛОГИИ»</p>\n            </div>\n\n            <img src=\"https://hhcdn.ru/ichameleon/404238.svg\" alt=\"\" class=\"tmpl_hh_logo\">\n        </div>\n    </div>\n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "156",
+      "name": "BI-аналитик, аналитик данных"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1741901",
+    "name": "Ак Барс Цифровые Технологии",
+    "url": "https://api.hh.ru/employers/1741901",
+    "alternate_url": "https://hh.ru/employer/1741901",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1353759.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/7034966.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/7034967.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1741901",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-15T09:22:35+0300",
+  "created_at": "2025-05-15T09:22:35+0300",
+  "initial_created_at": "2025-05-15T09:22:35+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120567913",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120567913",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

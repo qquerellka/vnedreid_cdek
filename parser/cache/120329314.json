@@ -1,0 +1,162 @@
+{
+  "id": "120329314",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Консультант 1С/ Ведущий консультант 1С ERP в ИТ компанию",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "72",
+    "name": "Пермь",
+    "url": "https://api.hh.ru/areas/72"
+  },
+  "salary": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Пермь",
+    "street": "Сибирская улица",
+    "building": "48/1",
+    "lat": 58.002687,
+    "lng": 56.258657,
+    "description": null,
+    "raw": "Пермь, Сибирская улица, 48/1",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>ВАКАНСИЯ: Консультант 1С / Ведущий консультант 1С ERP в ИТ компанию.</strong></p> <p><strong>Вас ждет увлекательная работа в мире 1С!</strong> Если вы хотите развиваться в сфере аналитики и консультирования, то эта вакансия для Вас. Мы ищем специалиста, который поможет нам эффективно использовать возможности 1С для оптимизации бизнес-процессов.</p> <p><strong>Обязанности:</strong></p> <ul> <li>Консультирование пользователей по текущим вопросам по работе в 1С: ERP, 1С: Документооборот 3;</li> <li>Обучение пользователей работе в 1С по типовому и разработанному функционалу;</li> <li>Написание инструкций для пользователей по типовому и разработанному функционалу;</li> <li>Определение и описание возможных варианты решений или реализаций по заявкам или дополнительным требованиям пользователей;</li> <li>Постановка задач разработчиками, тестирование типового и разработанного функционала</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Опыт работы с 1С от 1 до 3 лет.</li> <li>Опыт работы с конфигурациями 1С: ERP и 1С: Документооборот 3 (в приоритете), или опыт работы с отдельными конфигурациями 1С: Зарплата и управление персоналом 3.1, 1С: Управление торговлей 11.5, 1С: Комплексная автоматизация 2.</li> <li>Опыт работы с модулем или конфигурацией 1С: Управление автотранспортом будет преимуществом.</li> <li>Наличие 1С сертификатом уровня профессионал или специалист-консультант будет преимуществом.</li> <li>Навыки анализа и моделирования бизнес-процессов.</li> <li>Высшее образование в области информационных технологий или экономики будет преимуществом.</li> </ul> <p><strong>Условия и преимущества:</strong></p> <ul> <li>Работа в стабильной и динамично развивающейся компании.</li> <li>Возможность профессионального роста и развития.</li> <li>Дружный коллектив и поддержка опытных коллег.</li> <li>Официальное трудоустройство и социальные гарантии.</li> <li>График работы: 8-часовой рабочий день на территории работодателя.</li> </ul> <p><strong>Заинтересовала вакансия? Звоните сейчас!</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "1С: Зарплата и управление персоналом"
+    },
+    {
+      "name": "1С: Управление Торговлей"
+    },
+    {
+      "name": "1С: Документооборот"
+    },
+    {
+      "name": "ERP-системы на базе 1С"
+    },
+    {
+      "name": "1С: Комплексная автоматизация"
+    },
+    {
+      "name": "1С: Управление автотранспортом"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "10",
+      "name": "Аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5140870",
+    "name": "МетОптТорг",
+    "url": "https://api.hh.ru/employers/5140870",
+    "alternate_url": "https://hh.ru/employer/5140870",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/807403.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/3670499.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3670500.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5140870",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T08:49:24+0300",
+  "created_at": "2025-06-04T08:49:24+0300",
+  "initial_created_at": "2025-05-07T15:34:31+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120329314",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120329314",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

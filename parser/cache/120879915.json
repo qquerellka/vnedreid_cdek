@@ -1,0 +1,133 @@
+{
+  "id": "120879915",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Программист PHP / Laravel",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Привет!</p> <p>Мы – стабильная группа компаний B2B сферы (на рынке более 10 лет) в одной из самых перспективных ниш.</p> <p>У нас небольшая (45 человек) команда, в которую в связи с активным развитием мы хотим пригласить тебя - Программиста PHP / Laravel. Мы готовы рассмотреть не только опытных, но и джунов — если есть желание учиться и расти.</p> <p><strong>Что мы предлагаем:</strong></p> <ul> <li> <p>Полностью удаленная работа по полностью гибкому<strong> </strong>графику (главное - быть на связи в мессенджерах с 10 до 18 мск. в рабочие дни и выдавать результат). </p> </li> <li> <p>Возможность влиять на свой заработок – сдельная оплата.</p> </li> <li> <p>Работа без тотального контроля, с min-м отчетности и с высокой степенью свободы действий.</p> </li> <li> <p>Очень демократичное руководство и дружественные коллеги.</p> </li> </ul> <p><strong>Что нужно делать:</strong></p> <ul> <li> <p>Разработка на PHP (используя фреймворк Laravel) и работа с MySQL.</p> </li> <li> <p>Участие в оптимизации существующего кода.</p> </li> <li> <p>Активное участие в развитии наших сайтов.</p> </li> </ul> <p><strong>Наши ожидания к твоим навыкам и работе:</strong></p> <ul> <li> <p>Отличное знание PHP</p> </li> <li> <p>Уверенный SQL</p> </li> <li> <p>Умение работать с Git</p> </li> <li> <p>Готовность разбираться в чужом коде</p> </li> <li> <p>Быть внимательным.</p> </li> <li> <p>Внимательность, ответственность, на связи в будни (10–18 МСК)</p> </li> </ul><br /><p>Даже если сомневаешься – смело откликайся – пообщаемся- а вдруг??</p> <p><br /></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4352757",
+    "name": "Абруков Никита Андреевич",
+    "url": "https://api.hh.ru/employers/4352757",
+    "alternate_url": "https://hh.ru/employer/4352757",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/692124.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/3209628.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3209629.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4352757",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T17:16:51+0300",
+  "created_at": "2025-06-06T17:16:51+0300",
+  "initial_created_at": "2025-05-22T17:16:51+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120879915",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120879915",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

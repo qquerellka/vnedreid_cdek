@@ -1,0 +1,125 @@
+{
+  "id": "120902677",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Тестировщик ПО / QA Engineer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "улица Маршала Рыбалко",
+    "building": "2к6",
+    "lat": 55.798115,
+    "lng": 37.495626,
+    "description": null,
+    "raw": "Москва, улица Маршала Рыбалко, 2к6",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>Проведение всех видов тестирования: функциональное, интеграционное, нагрузочное;</li> <li>Анализ требований и работы приложения;</li> <li>Потребуется создавать тестовые сценарии, чек-листы, отчеты;</li> <li>Локализовывать, фиксировать, перепроверять ошибки, перепроверять после починки ошибок;</li> <li>Читать логи Windows и linux сервисов;</li> <li>Готовить тестовые данные как в Linux, так и в Windows OS.</li> </ul> <strong>Требования:</strong> <ul> <li>Опыт работы от 1 года непрерывно на предыдущем месте.;</li> <li>Знание инструментов тестирования и техник тест-дизайна;</li> <li>Опыт написания тестовых сценариев, отчетов по тестированию;</li> <li>Умение локализовывать и описывать найденные ошибки;</li> <li>Обязательно: Linux (понимание принципов работы ОС, работа с командной строкой, знание bash), SQL (написание простых запросов, join, group by), базовые знания ОС Windows, компьютерных сетей.</li> <li>Личные качества: четкость, точность, внимательность, обучаемость.</li> </ul> <strong>Условия:</strong> <ul> <li>ЗП по результатам собеседования;</li> <li>Полная занятость;</li> <li>Гибридный график (удаленка обсуждается отдельно);</li> <li>Оформление в соответствии с ТК РФ;</li> <li>Компания аккредитована Минцифры.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9113183",
+    "name": "Инновации Безопасности",
+    "url": "https://api.hh.ru/employers/9113183",
+    "alternate_url": "https://hh.ru/employer/9113183",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1399504.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7217787.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7217788.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9113183",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-23T11:51:21+0300",
+  "created_at": "2025-05-23T11:51:21+0300",
+  "initial_created_at": "2025-05-23T11:51:21+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120902677",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120902677",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

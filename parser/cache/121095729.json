@@ -1,0 +1,136 @@
+{
+  "id": "121095729",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Backend-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "улица Марата",
+    "building": "69-71",
+    "lat": 59.921119,
+    "lng": 30.343087,
+    "description": null,
+    "raw": "Санкт-Петербург, улица Марата, 69-71",
+    "metro": {
+      "station_name": "Звенигородская",
+      "line_name": "Фрунзенско-Приморская",
+      "station_id": "18.251",
+      "line_id": "18",
+      "lat": 59.92065,
+      "lng": 30.329599
+    },
+    "metro_stations": [
+      {
+        "station_name": "Звенигородская",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.251",
+        "line_id": "18",
+        "lat": 59.92065,
+        "lng": 30.329599
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы Спринтхост - провайдер хостинга и поставщик интернет решений от почтового ящика до облачных сервисов высокой доступности. Нашими продуктами ежедневно пользуются миллионы людей, а наша инфраструктура управляет тысячами процессов из множества точек присутствия по всему миру.</p> <p>Ждем в нашей команде разработчика бекенда с практическим опытом от полутора лет для разработки хостинговой платформы, которая лежит в основе большинства наших продуктов - от конструктора сайтов до сложных биллингов.</p> <p><strong>Ключевые требования</strong></p> <ul> <li>Уверенное знание нативного PHP, практический опыт Laravel/Symfony.</li> <li>Навыки проектирования больших реляционных БД (*SQL).</li> <li>Понимание стандартов PSR, CI/CD-практик.</li> </ul> <p><strong>Основные задачи</strong></p> <ul> <li>Реализация продуктовых фич совместно с другими командами.</li> <li>Прототипирование для проверки гипотез.</li> <li>Следить за беклогом.</li> </ul> <p><strong>Компенсация/мотивационный пакет</strong></p> <ul> <li>Сложные и разноплановые проекты.</li> <li>Современная и мощная техника для работы.</li> <li>Компенсация питания и проезда до офиса.</li> <li>Абонемент на фитнес.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "743207",
+    "name": "SPRINTHOST",
+    "url": "https://api.hh.ru/employers/743207",
+    "alternate_url": "https://hh.ru/employer/743207",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/897710.png",
+      "90": "https://img.hhcdn.ru/employer-logo/4031527.png",
+      "240": "https://img.hhcdn.ru/employer-logo/4031528.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=743207",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-28T16:54:33+0300",
+  "created_at": "2025-05-28T16:54:33+0300",
+  "initial_created_at": "2025-05-28T16:54:33+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121095729",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121095729",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

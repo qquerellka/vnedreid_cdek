@@ -1,0 +1,143 @@
+{
+  "id": "120444926",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Программист 1С",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "72",
+    "name": "Пермь",
+    "url": "https://api.hh.ru/areas/72"
+  },
+  "salary": {
+    "from": 154000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 154000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": 58.00848998735988,
+    "lng": 56.241076961159735,
+    "description": null,
+    "raw": "г.Пермь, ул. Дзержинского, д.1",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>Разрабатывать прикладное программное обеспечение, заниматься внедрением готовых программ, обеспечивать поддержку и сопровождение существующих прикладных программ (Бухгалтерский учет, расчет заработной платы, кадровый учет, производственный учет)</li> <li>Принимать участие в работах по совершенствованию и модернизации информационной системы предприятия</li> </ul> <strong>Требования:</strong> <ul> <li>Высшее профильное образование</li> <li>Опыт работы не менее 3 лет в должности программиста 1С</li> <li>Знание конфигураций 1С: Бухгалтерия КОРП, 1С: Зарплата и управление персоналом 3.1, 1С: УПП.</li> </ul> <strong>Условия:</strong> <ul> <li>Официальное трудоустройство.</li> <li>Своевременная заработная плата .</li> <li>Соц. пакет.</li> <li>Возможность карьерного роста.</li> <li>Возможность повышения квалификации за счет работодателя.</li> <li> <p>Стандартный срок рассмотрения резюме — 10 рабочих дней. Если Ваш опыт и пожелания соответствуют требованиям и возможностям нашего предприятия - мы свяжемся с Вами по указанным контактам в течение двух недель.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1094376",
+    "name": "Филиал ЗиД АО НПО Курганприбор г. Пермь",
+    "url": "https://api.hh.ru/employers/1094376",
+    "alternate_url": "https://hh.ru/employer/1094376",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1311946.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6868042.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6868043.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1094376",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-13T08:21:52+0300",
+  "created_at": "2025-05-13T08:21:52+0300",
+  "initial_created_at": "2025-05-13T08:21:52+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120444926",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120444926",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

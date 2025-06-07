@@ -1,0 +1,125 @@
+{
+  "id": "121390619",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Младший специалист по тестированию",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 70000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 70000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Если ты начинающий QA engineer и хочешь расти в динамично развивающейся аккредитованной IT-компании, мы ждем тебя! Мы предоставляем высококвалифицированных специалистов для реализации проектов различной сложности и помогаем партнерам успешно завершать их, обеспечивая высокое качество услуг.</p> <p><strong>Что мы предлагаем:</strong></p> <ul> <li> <p>Полностью удаленный формат работы с гибким графиком (5/2 с 9:00 до 19:00).</p> </li> <li> <p>Современные инструменты и подходы для автоматизации тестирования.</p> </li> <li> <p>Возможности для профессионального роста и обучения.</p> </li> <li> <p>Дружелюбную атмосферу в коллективе и поддержку коллег.</p> </li> <li> <p>Конкурентоспособную заработную плату, начиная от 70 тысяч рублей.<br /></p> </li> </ul> <p><strong>От тебя ждём:</strong></p> <ul> <li> <p><strong>1. Функциональное и нефункциональное тестирование:</strong></p> </li> <li> <p> Проведение различных видов тестирования: функциональное, smoke-тесты, регрессионное, интеграционное, UI-тестирование.</p> </li> <li> <p> Тестирование API, баз данных (SQL, NoSQL), интеграций (очереди, обмен файлами).</p> </li> <li> <p><strong>2. Работа с инструментами и системами:</strong></p> </li> <li> <p> Системы контроля версий: Git (GitHub).</p> </li> <li> <p> Работа с баг-трекинговыми системами: JIRA, Confluence, TestIT.</p> </li> <li> <p> Использование инструментов для тестирования API: Postman, SoapUI, Proxyman.</p> </li> <li> <p><strong>3. Тест-дизайн и документация:</strong></p> </li> <li> <p> Уверенное владение техниками тест-дизайна (эквивалентное разделение, граничные значения, таблицы решений и др.).</p> </li> <li> <p> Написание и поддержка тестовой документации: тест-кейсы, чек-листы, тест-планы, отчеты.</p> </li> <li> <p> Анализ требований и создание mind map.</p> </li> <li> <p><strong>4. Работа с базами данных:</strong></p> </li> <li> <p><strong> </strong>Навыки работы с SQL</p> </li> <li> <p><strong>5. Аналитические и коммуникационные навыки:</strong></p> </li> <li> <p><strong> </strong> Анализ сбоев, инцидентов и баг-репортов от пользователей.</p> </li> <li> <p> Умение предлагать улучшения процессов тестирования и разработки.</p> </li> <li> <p><strong>6. Опыт и знания:</strong></p> </li> <li> <p><strong> </strong>Понимание жизненного цикла ПО и процессов обеспечения качества.</p> </li> </ul> <p><em><strong>Откликайся на вакансию, и мы свяжемся с тобой!</strong></em></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5995606",
+    "name": "Панина Анастасия Александровна",
+    "url": "https://api.hh.ru/employers/5995606",
+    "alternate_url": "https://hh.ru/employer/5995606",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5995606",
+    "accredited_it_employer": false,
+    "trusted": false
+  },
+  "published_at": "2025-06-05T15:42:54+0300",
+  "created_at": "2025-06-05T15:42:54+0300",
+  "initial_created_at": "2025-06-05T15:42:54+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121390619",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121390619",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_9",
+      "name": "9 часов"
+    }
+  ]
+}

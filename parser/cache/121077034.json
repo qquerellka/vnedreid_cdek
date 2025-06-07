@@ -1,0 +1,168 @@
+{
+  "id": "121077034",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Специалист IT/Системный администратор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 103449,
+    "to": 103449,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 103449,
+    "to": 103449,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "улица Марата",
+    "building": "69-71",
+    "lat": 59.921101,
+    "lng": 30.343123,
+    "description": null,
+    "raw": "Санкт-Петербург, улица Марата, 69-71",
+    "metro": {
+      "station_name": "Звенигородская",
+      "line_name": "Фрунзенско-Приморская",
+      "station_id": "18.251",
+      "line_id": "18",
+      "lat": 59.92065,
+      "lng": 30.329599
+    },
+    "metro_stations": [
+      {
+        "station_name": "Звенигородская",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.251",
+        "line_id": "18",
+        "lat": 59.92065,
+        "lng": 30.329599
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <ul> <li>Обеспечение поддержки сотрудников офиса по направлению ИТ</li> <li>Предоставление информации по ИТ сервисам и процедурам компании новым сотрудникам.</li> <li>Поддержка HelpDesk.</li> <li>Базовые задачи по установке/настройке операционной системы.</li> <li>Помощь в настройке и сопровождении оборудования для проведения собраний</li> <li>Проверка состояния серверной комнаты, инспекция комнаты совещаний с целью проверки корректной работы систем для проведения конференций.</li> <li>Помощь ИТ команде с несложными задачами, участие в проектах</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Понимание функционала специалиста-эникейщика</li> <li>Опыт работы (если в опыте есть только стажировки/прохождение практики - пожалуйста, укажите в сопроводительном письме)</li> <li>Коммуникабельность, вежливость, желание развиваться в профессии</li> <li><strong>Знание английского языка - обязательно (работа связана с англоговорящими сотрудниками, английский понадобится уже на этапе собеседования).</strong></li> <li>Возможность работать полный день - строго обязательно</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Комфортный офис, дружелюбный коллектив</li> <li>Работа в коллективе известной международной компании</li> <li>Белая заработная плата - <strong>90 000 &quot;на руки после вычета налогов&quot; (103 449 по трудовому договору) </strong></li> <li>Все возможности для профессионального роста и развития</li> <li><strong>ВАКАНСИЯ ПРЕДПОЛАГАЕТ РАБОТУ НА ПОЛНЫЙ ДЕНЬ. УДАЛЕНКА НЕВОЗМОЖНА</strong></li> <li>Официальное оформление с первого рабочего дня</li> <li><strong>График работы с понедельника по пятницу, 9.30 -18.00</strong></li> <li><strong>Компания входит в список аккредитованных ИТ-компаний</strong></li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "76396",
+    "name": "OFT Group",
+    "url": "https://api.hh.ru/employers/76396",
+    "alternate_url": "https://hh.ru/employer/76396",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/870726.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3923779.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3923780.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=76396",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T12:03:57+0300",
+  "created_at": "2025-06-06T12:03:57+0300",
+  "initial_created_at": "2025-05-28T12:03:57+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121077034",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121077034",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b1",
+        "name": "B1 — Средний"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

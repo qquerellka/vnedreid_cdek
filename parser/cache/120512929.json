@@ -1,0 +1,166 @@
+{
+  "id": "120512929",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Middle+ Разработчик Golang",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "1-й Волконский переулок",
+    "building": "15",
+    "lat": 55.774725,
+    "lng": 37.617779,
+    "description": null,
+    "raw": "Москва, 1-й Волконский переулок, 15",
+    "metro": {
+      "station_name": "Цветной бульвар",
+      "line_name": "Серпуховско-Тимирязевская",
+      "station_id": "9.154",
+      "line_id": "9",
+      "lat": 55.771653,
+      "lng": 37.620466
+    },
+    "metro_stations": [
+      {
+        "station_name": "Цветной бульвар",
+        "line_name": "Серпуховско-Тимирязевская",
+        "station_id": "9.154",
+        "line_id": "9",
+        "lat": 55.771653,
+        "lng": 37.620466
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Обязанности</strong></p> <ul> <li>Участвовать в разработке и развитии облачной платформы, включающей в себя IaaS (VM, IAM, LB, APIG, и другие ключевые компоненты), PaaS и Serverless решения (Managed Databases, Managed Kubernetes, и др.).</li> <li>Проектировать и разрабатывать новый функционал платформы на Golang.</li> <li>Работать с Kubernetes: разработка операторов, определение Custom Resource Definitions (CRD) для управления ресурсами платформы.</li> <li>Писать unit- и интеграционные тесты для обеспечения качества кода.</li> <li>Участвовать в обеспечении высокой доступности, надежности и масштабируемости платформы, оптимизации её производительности.</li> <li>Внедрять инструменты observability для мониторинга и отладки платформы.</li> <li>Взаимодействовать со смежными командами разработки для интеграции и согласования архитектурных решений.</li> </ul> <p><strong>Требования</strong></p> <ul> <li>Подтвержденный опыт разработки на Golang от 3-х лет.</li> <li>Глубокое понимание принципов работы Kubernetes и опыт разработки операторов и CRD.</li> <li>Знание и опыт работы с протоколами gRPC, Protobuf, GraphQL.</li> <li>Понимание инструментов виртуализации (libvirt, KVM).</li> <li>Понимание принципов DevOps и опыт работы с GitOps и CI/CD.</li> <li>Понимание принципов построения облачных платформ.</li> </ul> <p><strong>Будет большим плюсом:</strong></p> <ul> <li>Опыт публичных выступлений на конференциях, публикации технических статей, участие в open-source проектах — видимый вклад в развитие IT-сообщества.</li> <li>Опыт работы с облачными платформами.</li> <li>Фокус на скорости разработки и итеративном подходе, умение быстро прототипировать.</li> <li>Знание английского языка на уровне, достаточном для чтения технической документации.</li> </ul> <p><strong>Soft skills:</strong></p> <ul> <li>Анти-токсичность: способность конструктивно общаться и сотрудничать со всеми членами команды, избегая конфликтных ситуаций и создавая позитивную атмосферу. Умение давать и принимать обратную связь.</li> <li>Структурность: умение понятно объяснять сложные технические концепции, способность систематизировать информацию.</li> <li>Проактивность: ответственность за результат, умение самостоятельно искать решения и предлагать улучшения.</li> <li>Командный игрок: готовность оказывать помощь коллегам и делиться знаниями.</li> </ul> <p><strong>Условия</strong></p> <ul> <li><strong>Только офис (удаленки и гибрида нет) — </strong>5 минут от м. Цветной Бульвар.</li> <li>Гибкое начало рабочего дня.ст</li> <li>Зарплата: в рынке или выше рынка (обсуждается на финальном интервью).</li> <li>Обучение: курсы, конференции, публикации, книги, тренинги.</li> <li>Работаем в рамках ТК РФ (оформление, отпуска, оплата больничных); отпуск: 28 календарных дней;</li> </ul> <h2><strong>Как откликнуться</strong></h2> <p>Напишите, пожалуйста, в сопроводительном письме короткий рассказ о вашем опыте и достижениях + почему вы хотите работать в нашей команде. Мы будем рады познакомиться с вами!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Golang"
+    },
+    {
+      "name": "GraphQL"
+    },
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "gRPC"
+    },
+    {
+      "name": "DevOps"
+    },
+    {
+      "name": "CI/CD"
+    },
+    {
+      "name": "TypeScript"
+    },
+    {
+      "name": "KVM"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11153353",
+    "name": "Хелоу",
+    "url": "https://api.hh.ru/employers/11153353",
+    "alternate_url": "https://hh.ru/employer/11153353",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1374985.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7119838.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7119839.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11153353",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-14T09:56:34+0300",
+  "created_at": "2025-05-14T09:56:34+0300",
+  "initial_created_at": "2025-05-14T09:56:34+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120512929",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120512929",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

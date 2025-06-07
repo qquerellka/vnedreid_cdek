@@ -1,0 +1,148 @@
+{
+  "id": "120465626",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "72",
+    "name": "Пермь",
+    "url": "https://api.hh.ru/areas/72"
+  },
+  "salary": {
+    "from": 35000,
+    "to": 60000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 35000,
+    "to": 60000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Пермь",
+    "street": "улица Революции",
+    "building": "28",
+    "lat": 58.00396,
+    "lng": 56.253851,
+    "description": null,
+    "raw": "Пермь, улица Революции, 28",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>Тех.поддержка юридических лиц</li> </ul> <p><strong>Требования:</strong></p> <ul> <li> <p>Основное требование: желание работать, самосовершенствоваться и учиться.</p> </li> </ul> <p><strong>Минимальные Обязанности:</strong></p> <ul> <li> <p>Поддержка пользователей (консультации) и обеспечение бесперебойной работы оборудования и ПО;</p> </li> <li> <p>Умение устанавливать и настраивать ОС Windows;</p> </li> <li>Настраивать маршрутизаторы, сетевые МФУ и подобное оборудование,</li> <li>Мелкий ремонт техники (диагностика и замена запчастей компьютерной техники);</li> <li>Настройка и администрирование: Windows 7/8/10/11;</li> <li>Установка, настройка необходимых рабочих программ;</li> <li>Организация обслуживания и ремонт оборудования;</li> <li>Установка периферийного оборудования;</li> <li>Монтаж СКС;</li> <li>Администрирование локальной сети.</li> <li>Приветствуется знание AD, CRM Bitrix и настройка ЭЦП, стрессоустойчивость, грамотная речь.</li> </ul> <p><strong>Рекомендуемые умения:</strong></p> <ul> <li>Траблшутинг (быстрое решение различных проблем);</li> <li>Настройка ЭЦП;</li> <li>Администрирование сетевых устройств (роутеры, точки доступа. МФУ, принтеры);</li> <li>Настройка прав доступа к сетевым ресурсам компании;</li> <li>Мониторинг системных журналов и производительности системы (мониторинг эксплуатируемых систем);</li> <li>Инвентаризация и ведение базы ПК сотрудников по аппаратной и программной составляющим;</li> <li>Сопровождение и обслуживание серверного оборудования;</li> <li>Подбор и участие в закупке различного оборудования;</li> <li>Участие в развёртывании инфраструктуры в новых офисах компании;</li> <li>Взаимодействие с поставщиками ИТ-услуг (интернет, хостинг, телефония, закупка ПО и оборудования).</li> <li>Работа с видеонаблюдением</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Условия работы: офиц.трудоустройство, раб.день с 9 до 18.</li> <li>Уровень зп зависит от вашей квалификации, обсуждается на собеседовании.</li> </ul> <div> <div> </div> <div> </div> <div> </div> </div>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Настройка и администрирование: Windows 10"
+    },
+    {
+      "name": "Администрирование локальной сети"
+    },
+    {
+      "name": "Настройка ЭЦП"
+    },
+    {
+      "name": "Желание работать, самосовершенствоваться и учиться"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9184094",
+    "name": "Технополис",
+    "url": "https://api.hh.ru/employers/9184094",
+    "alternate_url": "https://hh.ru/employer/9184094",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1154649.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6239050.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6239051.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9184094",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-13T12:04:39+0300",
+  "created_at": "2025-05-13T12:04:39+0300",
+  "initial_created_at": "2025-05-13T12:04:39+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120465626",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120465626",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

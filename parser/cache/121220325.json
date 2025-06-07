@@ -1,0 +1,157 @@
+{
+  "id": "121220325",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Аналитик (специалист Excel)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "улица Обручева",
+    "building": "30/1с2",
+    "lat": 55.656189,
+    "lng": 37.526169,
+    "description": null,
+    "raw": "Москва, улица Обручева, 30/1с2",
+    "metro": {
+      "station_name": "Калужская",
+      "line_name": "Калужско-Рижская",
+      "station_id": "6.41",
+      "line_id": "6",
+      "lat": 55.656682,
+      "lng": 37.540075
+    },
+    "metro_stations": [
+      {
+        "station_name": "Калужская",
+        "line_name": "Калужско-Рижская",
+        "station_id": "6.41",
+        "line_id": "6",
+        "lat": 55.656682,
+        "lng": 37.540075
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Компания AlphaRM - это команда профессионалов, много лет работающих на фармацевтическом рынке России. Мы входим в Группу Компаний Бионика и специализируемся на создании аналитических баз данных.</p> <p>Решая аналитические задачи, мы работаем с большими массивами информации как внешней, так и внутренней среды. Мы занимаемся прогнозированием основных показателей рынков с точностью выше, чем у конкурентов. Мы разрабатываем и успешно реализуем новые проекты, а также проводим маркетинговые исследования по всем сегментам фарм. отрасли.</p> <p>Итак, мы ищем в свою команду <strong>Аналитика - специалиста Excel.</strong></p> <p><strong>Обязанности:</strong></p> <ul> <li>Работа с аналитическими базами компании (создание, поддержка, аналитико-статистическая обработка информации);</li> <li>Расчет качественных и количественных показателей, проверки рейтингов препаратов, производителей;</li> <li>Подготовка аналитических материалов по аптечному сегменту;</li> <li>Составление рейтингов аптечных сетей;</li> <li>Аналитико-статистическая обработка информации (ABC - анализ, расчет среднего чека, статистика по регионам)</li> <li>Коммуникация с другими подразделениями (маркетинг, продажи, IT-служба и т.п.)</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Высшее образование (или также студенты последних курсов)</li> <li>Углублённые знания и навыки Excel (экспертное владение сложными формулами и сводными таблицами, знание VBA)</li> <li>Готовность работать с большим объемом информации и структурировать (систематизировать) её в режиме многозадачности</li> <li>Внимательность к деталям</li> <li>Умение делать выводы из результатов расчетов</li> <li>Желателен опыт работы в фармацевтической компании</li> <li>Фармацевтическое образование будет плюсом</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Оформление по ТК РФ</li> <li>График работы 5/2</li> <li>Удобный и красивый офис в пешей доступности от станций метро Калужская и Воронцовская</li> <li>На собеседовании необходимо будет пройти тестирование по навыкам Excel</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "MS Excel"
+    },
+    {
+      "name": "Аналитическое мышление"
+    },
+    {
+      "name": "Статистический анализ"
+    },
+    {
+      "name": "Деловое общение"
+    },
+    {
+      "name": "Работа с базами данных"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "10",
+      "name": "Аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1992",
+    "name": "Бионика",
+    "url": "https://api.hh.ru/employers/1992",
+    "alternate_url": "https://hh.ru/employer/1992",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1398828.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7215083.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7215084.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1992",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T12:54:37+0300",
+  "created_at": "2025-06-02T12:54:37+0300",
+  "initial_created_at": "2025-06-02T12:54:37+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121220325",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121220325",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

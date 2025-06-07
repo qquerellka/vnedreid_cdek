@@ -1,0 +1,162 @@
+{
+  "id": "119060673",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Backend-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 110000,
+    "to": 130000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 110000,
+    "to": 130000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Большой Сампсониевский проспект",
+    "building": "28к2литД",
+    "lat": 59.963778,
+    "lng": 30.343392,
+    "description": null,
+    "raw": "Санкт-Петербург, Большой Сампсониевский проспект, 28к2литД",
+    "metro": {
+      "station_name": "Выборгская",
+      "line_name": "Кировско-Выборгская",
+      "station_id": "14.196",
+      "line_id": "14",
+      "lat": 59.970925,
+      "lng": 30.347408
+    },
+    "metro_stations": [
+      {
+        "station_name": "Выборгская",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.196",
+        "line_id": "14",
+        "lat": 59.970925,
+        "lng": 30.347408
+      },
+      {
+        "station_name": "Площадь Ленина",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.197",
+        "line_id": "14",
+        "lat": 59.955611,
+        "lng": 30.35605
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Добрый день, уважаемый соискатель! ☺️</p> <p><strong>Агентство Судебного Взыскания</strong> – международная юридическая компания, основной деятельностью которой является ведение и сопровождение судебных процессов наших клиентов.<br /><br />✅ Входим в ТОП-5 компаний по России в своей сфере.<br />✅ Работаем с лидерами рынка.<br />✅ Решаем даже самые сложные задачи в самые минимальные сроки.<br /><br />Сейчас мы активно ищем Backend-разработчика, который разделит с нами наш успех и профессиональный рост! <em>С нами уже более 400 сотрудников - присоединяйтесь и Вы!</em></p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>разрабатывать, тестировать и поддерживать комплексы программ (лендинговой страницы с интерфейсом для пользователя, сервиса отправки СМС);</li> <li>настраивать API (государственными органами, Telegram и проч.)</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li><strong>100% «БЕЛУЮ»</strong> заработную плату + полугодовые премии (в среднем <strong>144-180 000 </strong>руб.);</li> <li>регулярные выплаты <strong>2</strong> раза в месяц;</li> <li>график работы <strong>5/2</strong> с<strong> 9:00</strong> до <strong>18:00</strong>; можно обсудить гибридный формат работы;</li> <li>официальное трудоустройство по <strong>ТК РФ</strong>, отпуска и больничные оплачиваются;</li> <li><strong>ДМС</strong> после первого года работы;</li> <li><strong>современная система материальной мотивации</strong>: полугодовые премии, предоставление материальной помощи, корпоративные подарки;</li> <li><strong>развитая корпоративная культура</strong>: участие в тим-билдингах и флэшмобах, champion challenge, регулярное предоставление обратной связи от руководителя, предоставление компенсаций за медицинские услуги, меню льгот (компенсация затрат на фитнес, обучение, санатории, косметология);</li> <li>команда <strong>руководителей</strong>, которые <strong>умеют слушат</strong>ь и мотивировать.</li> </ul> <p><strong>Что мы ожидаем:</strong></p> <ul> <li>опыт работы с Linux, CI/CD пайплайнами, Kafka, git, docker, Python, SQL (и NoSQL)</li> <li>опыт подключения по API, создания приложений и написания сопроводительной аннотации</li> <li>опыт работы c JavaScript, SQLAlchemy, react - будет преимуществом.</li> </ul> <p><strong>Ключевые задачи:</strong></p> <ul> <li>интеграция с внешними источниками данных;</li> <li>развёртывание и поддержание программной среды;</li> <li>настройка CI/CD пайплайнов;</li> <li>управление брокерами сообщений;</li> <li>проектирование и разработка API;</li> <li>управление системой контроля версий;</li> <li>контейнеризация и запуск приложений;</li> <li>создание малых баз данных для развёртывания рядом с приложениями (нереляционных или реляционных баз данных);</li> <li>проведение тестирований (нагрузочное и проч.);</li> <li>написание сопроводительной документации.<br /><br /><em>Если описание заинтересовало - оставляйте отклик и мы свяжемся уже сегодня!</em></li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2484910",
+    "name": "Агентство судебного взыскания",
+    "url": "https://api.hh.ru/employers/2484910",
+    "alternate_url": "https://hh.ru/employer/2484910",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/823932.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3736615.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3736616.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2484910",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T14:23:45+0300",
+  "created_at": "2025-06-03T14:23:45+0300",
+  "initial_created_at": "2025-04-02T10:42:29+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119060673",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119060673",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

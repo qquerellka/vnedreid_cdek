@@ -1,0 +1,189 @@
+{
+  "id": "120472883",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "DevOps-инженер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Казань",
+    "street": "Кремлёвская улица",
+    "building": "21",
+    "lat": 55.793627,
+    "lng": 49.116394,
+    "description": null,
+    "raw": "Казань, Кремлёвская улица, 21",
+    "metro": {
+      "station_name": "Кремлевская",
+      "line_name": "Центральная",
+      "station_id": "49.272",
+      "line_id": "49",
+      "lat": 55.795206,
+      "lng": 49.105426
+    },
+    "metro_stations": [
+      {
+        "station_name": "Кремлевская",
+        "line_name": "Центральная",
+        "station_id": "49.272",
+        "line_id": "49",
+        "lat": 55.795206,
+        "lng": 49.105426
+      },
+      {
+        "station_name": "Площадь Тукая",
+        "line_name": "Центральная",
+        "station_id": "49.273",
+        "line_id": "49",
+        "lat": 55.787163,
+        "lng": 49.122126
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Основной функциональной обязанностью DevOps инженера является участие в процессах разработки и поддержки микросервисной архитектуры систем, продуктов и решений компании DECK. Работа в офисе в г. Казань.</p> <p><strong>Требования к участию в процессе разработки и тестирования</strong></p> <p>Совместная работа с командой разработки продуктов является основной функциональной обязанностью DevOps инженера. В рамках этого процесса выполняется решение следующих задач:</p> <ul> <li>разработка, тестирование и принятие инфраструктурных решений для продуктов компании</li> <li>взаимодействие с командами разработки приложения</li> <li>создание, поддержка и постоянное улучшение процессов CI/CD (Gitlab)</li> <li>автоматизация процессов управления конфигурациями</li> <li>разработка скриптов автоматизации сборки и тестирования (bash, Python,GoLang)</li> <li>подготовка, сборка, публикация docker-образов</li> <li>настройка виртуальных серверов как в собственном ЦОД, так и в публичных облаках</li> <li>автоматизация сборки образов, при помощи которых происходит доставка продуктов конечным Заказчикам (Packer)</li> <li>участие в процессе принятия архитектурных решений, которые касаются системных компонент продуктов</li> <li>проведение исследований, которые касаются оптимальных способов решения инфраструктурных задач</li> <li>участие в процессе разработке функций системы, которые касаются процессов управления версиями (upgrade/downgrade) и создания резервных копий (backup/restore)</li> </ul> <p><strong>Требования к техническим знаниям и навыкам соискателя</strong></p> <p>DevOps инженеру требуются глубокие знания в следующих предметных областях:</p> <ul> <li>понимание жизненного цикла и методологии DevOps</li> <li>знание Linux, опыт администрирования и автоматизации рутинных задач при помощи скриптов и средств разработки (Bash, Python, GoLang)</li> <li>опыт работы с инструментами GitLab</li> <li>опыт создания, отладки и документирования скриптов на основе Ansible</li> <li>опыт работы с Docker/CRI-O/сontainerd</li> <li>опыт создания и поддержки кластеров под управлением K8S</li> <li>опыт с настройкой систем балансировки нагрузки на базе NGINX</li> <li>разработка процессов сборки и запуска PHP/Node.JS/GoLang приложений</li> <li>администрирование и управление отказоустойчивыми и кластерными конфигурациями серверов БД PostgreSQL (Patroni)/ClickHouse</li> <li>управление и настройка хранилищ для ключевой информации ETCD, Zookeeper</li> <li>автоматизация сборки образов при помощи Packer</li> <li>навык создания технической документации</li> </ul> <p>Плюсом будет следующее:</p> <ul> <li>глубокие знания сетевого стека операционной системы Linux, включая механизмы сетевой изоляции, которые используют контейнеры</li> <li>знание работы CNI-плагина Cilium для K8S</li> <li>опыт работы с Docker Swarm</li> <li>хорошее понимание порядка обработки сетевых пакетов стеком Linux</li> <li>опыт в администрировании правил iptables на Linux-хостах</li> <li>опыт организации сетевых подключений в отечественных публичных облаках</li> </ul> <p><strong>Требования к опыту работы соискателя</strong></p> <ul> <li>опыт работы DevOps инженером от 2-х лет является обязательным</li> <li>опыт работы с K8S, CNI-плагином Calico, Postgres, Clickhouse, Zookeeper является обязательным</li> </ul> <p><strong>Требования к </strong><strong>soft</strong><strong>-</strong><strong>skills</strong><strong> соискателя</strong></p> <ul> <li>умение доступным языком объяснять принципы работы сложных систем</li> <li>системное мышление</li> <li>стрессоустойчивость</li> <li>инициативность</li> <li>вовлеченность</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "Ansible"
+    },
+    {
+      "name": "Bash"
+    },
+    {
+      "name": "Gitlab"
+    },
+    {
+      "name": "DevOps"
+    },
+    {
+      "name": "CI/CD"
+    },
+    {
+      "name": "Администрирование серверов Linux"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Clickhouse"
+    },
+    {
+      "name": "Docker-compose"
+    },
+    {
+      "name": "ELK"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "160",
+      "name": "DevOps-инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2089366",
+    "name": "ДЕКА",
+    "url": "https://api.hh.ru/employers/2089366",
+    "alternate_url": "https://hh.ru/employer/2089366",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1403380.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7233188.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7233189.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2089366",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-13T13:24:55+0300",
+  "created_at": "2025-05-13T13:24:55+0300",
+  "initial_created_at": "2025-05-13T13:24:55+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120472883",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120472883",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

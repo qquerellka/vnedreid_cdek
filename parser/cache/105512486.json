@@ -1,0 +1,140 @@
+{
+  "id": "105512486",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Администратор информационной безопасности",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "72",
+    "name": "Пермь",
+    "url": "https://api.hh.ru/areas/72"
+  },
+  "salary": {
+    "from": 88100,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 88100,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Пермь",
+    "street": "улица Гальперина",
+    "building": "11",
+    "lat": 57.991946,
+    "lng": 55.935542,
+    "description": null,
+    "raw": "Пермь, улица Гальперина, 11",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>Обеспечение информационной безопасности предприятия;</li> <li>Обеспечение безопасности КИИ, ИСПДН;</li> <li>Администрирование DPL;</li> <li>Проведение мероприятий по предотвращению утечки конфиденциальной информации;</li> <li>Консультирование и обучение сотрудников по обеспечению информационной безопасности;</li> <li>Мониторинг ИТ-инфраструктуры на соответствие требованиям нормативных документов и федеральных законодательных актов;</li> <li>Разработка, актуализация ОРД по направлению информационная безопасность и контроль их выполнения;</li> <li>Проведение работ по аттестации объектов информатизации;</li> <li>Работа с оперативными задачами 1С;</li> <li>Установка, настройка, администрирование средств защиты информации, в том числе СКЗИ (антивирусные средства, средства от несанкционированного доступа, межсетевые экраны, средства анализа защищенности и др.)</li> </ul> <strong>Требования: </strong> <ul> <li>Высшее образование по направлению обеспечение информационной безопасности или высшее техническое образование с переподготовкой по информационной безопасности;</li> <li>Знание: документов ФСТЭК и ФСБ России в области защиты информационной безопасности, основных сетевых технологий, протоколов, операционных систем семейства Linux, Windows;</li> <li>Опыт работы с СЗИ, СКЗИ, DPL, межсетевыми экранами</li> </ul> <strong>Условия:</strong> <ul> <li>Оформление в соответствии с трудовым законодательством;</li> <li>3 форма допуска к государственной тайне;</li> <li>Работа в Кировском<strong> </strong>районе г. Перми;</li> <li>График работы 5/2;</li> <li>Частичная компенсация погашения ипотечного кредитования или аренды жилья.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "116",
+      "name": "Специалист по информационной безопасности"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "833660",
+    "name": "Пермский пороховой завод, ФКП",
+    "url": "https://api.hh.ru/employers/833660",
+    "alternate_url": "https://hh.ru/employer/833660",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1179681.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6339150.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6339151.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=833660",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-30T08:30:26+0300",
+  "created_at": "2025-05-30T08:30:26+0300",
+  "initial_created_at": "2024-08-09T10:08:46+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=105512486",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/105512486",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

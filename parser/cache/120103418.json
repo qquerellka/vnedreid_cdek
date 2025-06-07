@@ -1,0 +1,163 @@
+{
+  "id": "120103418",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Web penetration‑тестировщик от Middle",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Казань",
+    "street": "Кремлёвская улица",
+    "building": "21",
+    "lat": 55.793566,
+    "lng": 49.116529,
+    "description": null,
+    "raw": "Казань, Кремлёвская улица, 21",
+    "metro": {
+      "station_name": "Кремлевская",
+      "line_name": "Центральная",
+      "station_id": "49.272",
+      "line_id": "49",
+      "lat": 55.795206,
+      "lng": 49.105426
+    },
+    "metro_stations": [
+      {
+        "station_name": "Кремлевская",
+        "line_name": "Центральная",
+        "station_id": "49.272",
+        "line_id": "49",
+        "lat": 55.795206,
+        "lng": 49.105426
+      },
+      {
+        "station_name": "Площадь Тукая",
+        "line_name": "Центральная",
+        "station_id": "49.273",
+        "line_id": "49",
+        "lat": 55.787163,
+        "lng": 49.122126
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Технократия</strong> цифровизирует бизнес: от небольших компаний до крупных корпораций. СИБУР Диджитал, Камаз Digital, Татнефть, Университет Иннополис — наши клиенты. А ещё внутренние продукты, которые мы выводим на рынок.</p> <p>У нас прозрачные процессы, понятная система грейдов и прогнозируемый рост, культура наставничества, возможность влиять на проекты и быть услышанным.</p> <p>Ищем в нашу команду <strong>Web penetration‑тестировщика.</strong></p> <p><strong>Чем предстоит заниматься:</strong></p> <p> </p> <ul> <li>Тестировать безопасность Web‑приложений и API (REST, GraphQL, gRPC, WebSocket) в Black‑, Gray‑ и White‑box‑режимах.</li> <li>Расширять Burp Suite Pro (Extender API), писать собственные BApp‑плагины, настраивать автоматизацию via Nuclei, ffuf, ParamSpider.</li> <li>Выполнять сложные цепочки атак: SSRF → Cloud metadata‑steal → RCE → lateral move, bypass WAF и CSP.</li> <li>Анализировать уязвимости клиентской логики (business logic flaws, race‑conditions) и новые классы атак (HTTP/2 rapid‑reset).</li> <li>Интегрировать результаты pentest’ов в Secure SDLC: писать SAST/DAST‑гейты для GitLab CI, рекомендовать контроли ASVS 4.0.</li> <li>Подготавливать отчёты высокого уровня, проводить воркшопы для разработчиков и DevSecOps‑команд.</li> </ul> <p><strong>Что мы ожидаем:</strong></p> <ul> <li>Уверенное владение HTTP 1.1/2/3, TLS, браузерным SOP/CSP, понимание механизмов OAuth 2.1, OIDC, SAML 2.0.</li> <li>Практика эксплуатации Injection‑семейства (SQL / NoSQL / XXE / LDAP) и client‑side XSS / DOM‑Based XSS.</li> <li>Опыт работы с контейнерной и серверless‑инфраструктурой (Docker, Kubernetes, AWS Lambda, Azure Functions).</li> <li>Знание CI/CD‑платформ (GitHub Actions, GitLab Runners), умение устранять secrets‑leaks и настроить IaC‑сканеры.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Сертификаты OSWE, eWPTXv2, GWAPT или топ‑позиции в Bug Bounty‑программах (HackerOne, BugCrowd, Yandex).</li> <li>Опыт аудита цепочек поставок (SBOM, SLSA Level 3+), разработка кастомных Nuclei‑темплейтов.</li> <li>Понимание внутренних механизмов современных фреймворков (Next.js, NestJS, SvelteKit) и атак на их специфические компоненты.</li> </ul> <p><strong>Никаких подводных камней:</strong>​​​​​​​</p> <ul> <li>Современный стек и поддержка ваших технических инициатив;</li> <li>Топовая техника при трудоустройстве;</li> <li>Нетоксичная и амбициозная атмосфера;</li> <li> <p>Культура наставничества. Продвигайся вверх бок о бок с лучшими — наши руководители направлений признанные эксперты в профессиональном сообществе, ты тоже можешь быть одним из них;</p> </li> <li> <p>Индивидуальные планы развития и карты знаний для прогнозируемого карьерного роста;</p> </li> <li> <p>Компенсация психологических услуг;</p> </li> <li> <p>Уроки английского языка, йога в офисе и собственная футбольная команда;</p> </li> <li> <p>Возможность работать в офисе или удаленно.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Аудит информационной безопасности"
+    },
+    {
+      "name": "Тестирование безопасности"
+    },
+    {
+      "name": "REST API"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "116",
+      "name": "Специалист по информационной безопасности"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "544242",
+    "name": "Технократия",
+    "url": "https://api.hh.ru/employers/544242",
+    "alternate_url": "https://hh.ru/employer/544242",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/926223.png",
+      "90": "https://img.hhcdn.ru/employer-logo/4145452.png",
+      "240": "https://img.hhcdn.ru/employer-logo/4145453.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=544242",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-30T09:41:53+0300",
+  "created_at": "2025-05-30T09:41:53+0300",
+  "initial_created_at": "2025-04-30T10:29:18+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120103418",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120103418",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

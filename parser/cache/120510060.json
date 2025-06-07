@@ -1,0 +1,125 @@
+{
+  "id": "120510060",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Главный специалист по программированию 1С",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "72",
+    "name": "Пермь",
+    "url": "https://api.hh.ru/areas/72"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Пермь",
+    "street": "улица 1905 года",
+    "building": "35",
+    "lat": 58.03594,
+    "lng": 56.30668,
+    "description": null,
+    "raw": "Пермь, улица 1905 года, 35",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>Разработка и доработка конфигураций на языке программирования 1С;</li> <li>Разработка технической документации, инструкции по программным продуктам 1С;</li> <li>Внедрение конфигураций 1С ЗУП, ДО 2.1/3.0, УАТ, Архив, Метрология;</li> <li>Интеграция конфигураций 1С с другими программными комплексами: SIGUR, ТКС, КИП, Спутник, Битрикс-24, 1С: ERP и др.;</li> <li>Интеграция с внешними сервисами: Контур, Диадок, iiko и др.</li> </ul> <strong>Требования:</strong> <ul> <li>Высшее образование (информатика, физмат, мехмат);</li> <li>Владение навыками программирования;</li> <li>Знание основ законодательства РФ, бухгалтерского учета, делопроизводства;</li> <li>Опыт подготовки технической документации, ведение деловой переписки;</li> <li>Владение прикладным ПО: ПК - опытный пользователь, MS Office, Word, Excel. Уровень администратора 1С:ЗУП, 1С:ДО, 1С:УАТ, 1С: ERP.</li> <li>Исполнительность, ответственность, умение работать в коллективе, коммуникабельность.</li> </ul> <strong>Условия:</strong> <ul> <li>Официальное трудоустройство по ТК РФ;</li> <li>График работы 5/2 с 8.00 до 16.40;</li> <li>Социальный пакет;</li> <li>Компенсация питания.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "723191",
+    "name": "СКБ",
+    "url": "https://api.hh.ru/employers/723191",
+    "alternate_url": "https://hh.ru/employer/723191",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/578962.png",
+      "90": "https://img.hhcdn.ru/employer-logo/2757103.png",
+      "240": "https://img.hhcdn.ru/employer-logo/2757104.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=723191",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-14T09:42:06+0300",
+  "created_at": "2025-05-14T09:42:06+0300",
+  "initial_created_at": "2025-05-14T09:42:06+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120510060",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120510060",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

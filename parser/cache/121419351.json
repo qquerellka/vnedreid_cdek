@@ -1,0 +1,155 @@
+{
+  "id": "121419351",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Frontend-разработчик React",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 180000,
+    "to": 220000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 180000,
+    "to": 220000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Мы — <strong>Paylate</strong>, инновационный сервис, который переворачивает представления о финансах, позволяя оплачивать товары и услуги в рассрочку как на онлайн-, так и на офлайн-платформах.</p> <p>С момента нашего основания в 2012 году мы активно расширяемся и завоевываем доверие клиентов, поддерживая крепкие партнерские отношения с <strong>Finstar Financial Group</strong>.</p> <p>На сегодняшний день наши продукты помогают <strong>более 3000 партнерам,</strong> включая такие гиганты, как Аэрофлот, Ozon Travel, Hoff, Tele2 и Аскона, улучшать свое предложение для клиентов.</p> <p>Сейчас мы ищем к себе в команду:<br /><br />Frontend-разработчка (React) для поддержки кредитного продукта<br /></p> <p><strong>Чем вам предстоит заниматься:</strong></p> <ul> <li>Проектирование и разработка программного обеспечения продукта;</li> <li>Поддержка работающих решений;</li> <li>Адаптация ПО для зарубежных подразделений компании;</li> <li>Оптимизация работы ПО.</li> </ul> <p><strong>Что для этого необходимо: </strong></p> <ul> <li>Свободное владение React;</li> <li>Клиентская часть: React (мы используем React Query, React Hook Form), Typescript, нативный JS, Bootstrap;</li> <li>Придерживайтесь SOLID;</li> <li>Используете шаблоны проектирования;</li> <li>Опыт командной разработки, работы с GIT, Jira;</li> <li>Английский язык (чтение документации).</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт работы на C# и ASP.NET Сore</li> <li>ASP.NET (MVC, WebAPI);</li> <li>Опыт написания SQL-запросов, работа с базами данных MS SQL/PostgreSQL;</li> </ul> <p><strong>Что получите вы:</strong></p> <ul> <li>Работу в команде c высоким уровнем удовлетворенности (eNPS выше 45%). Это говорит о том, что сотрудники довольны своей работой.</li> <li>Оформление по ТК РФ. (айти-аккредитованная компания)</li> <li>Индексацию заработной платы 1 раз в год.</li> <li>График работы 5/2;</li> <li>Удаленный формат работы;</li> <li>ДМС со стоматологией или компенсацию фитнеса на выбор (после испытательного срока).</li> <li>Компенсацию на изучение английского языка (индивидуальные занятия с носителем).</li> <li>Онлайн консультации корпоративного врача (расшифровка анализов, медицинская помощь, второе мнение).</li> <li>Профессиональное обучение за счет компании.</li> <li>Реальную возможность карьерного, профессионального и финансового роста.</li> <li>Корпоративные мероприятия, праздники, выезды.</li> <li>Корпоративные подарки детям на новый год.</li> <li>Дополнительный оплачиваемый выходной день в День рождения.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "TypeScript"
+    },
+    {
+      "name": "React"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "C#"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "180028",
+    "name": "Finstar Financial Group",
+    "url": "https://api.hh.ru/employers/180028",
+    "alternate_url": "https://hh.ru/employer/180028",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/685633.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/3183664.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3183665.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=180028",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T13:08:26+0300",
+  "created_at": "2025-06-06T13:08:26+0300",
+  "initial_created_at": "2025-06-06T13:08:26+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121419351",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121419351",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "a1",
+        "name": "A1 — Начальный"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

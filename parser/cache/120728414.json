@@ -1,0 +1,196 @@
+{
+  "id": "120728414",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер-программист АСУ ТП",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 180000,
+    "to": 250000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 180000,
+    "to": 250000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Казань",
+    "street": "улица Николая Ершова",
+    "building": "1А",
+    "lat": 55.7939,
+    "lng": 49.149506,
+    "description": null,
+    "raw": "Казань, улица Николая Ершова, 1А",
+    "metro": {
+      "station_name": "Аметьево",
+      "line_name": "Центральная",
+      "station_id": "49.275",
+      "line_id": "49",
+      "lat": 55.765346,
+      "lng": 49.165083
+    },
+    "metro_stations": [
+      {
+        "station_name": "Аметьево",
+        "line_name": "Центральная",
+        "station_id": "49.275",
+        "line_id": "49",
+        "lat": 55.765346,
+        "lng": 49.165083
+      },
+      {
+        "station_name": "Кремлевская",
+        "line_name": "Центральная",
+        "station_id": "49.272",
+        "line_id": "49",
+        "lat": 55.795206,
+        "lng": 49.105426
+      },
+      {
+        "station_name": "Площадь Тукая",
+        "line_name": "Центральная",
+        "station_id": "49.273",
+        "line_id": "49",
+        "lat": 55.787163,
+        "lng": 49.122126
+      },
+      {
+        "station_name": "Суконная слобода",
+        "line_name": "Центральная",
+        "station_id": "49.274",
+        "line_id": "49",
+        "lat": 55.777094,
+        "lng": 49.142275
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>Разработка программного обеспечения АСУ ТП объектов нефтяной, газовой и химической промышленности;</li> <li>Проведение пуско-наладочных работ на объекте заказчика, сдача объекта в эксплуатацию;</li> <li>Разработка прикладного программного обеспечения для ПЛК (Siemens, ОВЕН, АБАК и др.);</li> <li>Разработка прикладного программного обеспечения для панелей локальной визуализации и управления (Weintek и др.);</li> <li>Разработка проектов человеко-машинного интерфейса на АРМ (WinCC, MasterScada, Каскад Цифра и др.);</li> <li>Участие в подборе оборудования, программного обеспечения и проработке технических решений в части автоматизации (ПЛК, АРМ, панелей операторов и т.п.);</li> <li>Разработка технической документаций: руководство оператора/администратора; описание ПО и т.д.;</li> <li>Отчетность по проделанной работе.</li> </ul> <strong>Требования:</strong> <ul> <li>Высшее образование;</li> <li>Опыт работы с базами данных;</li> <li>Опыт написания технической документации;</li> <li>Знание языков программирования стандарта IEC 61131-3;</li> <li>Умение читать и разбираться в проектной и рабочей документации;</li> <li>Знание программного обеспечения для ПЛК (Step7, Codesys и др.);</li> <li>Опыт работы с протоколами Modbus RTU/TCP, а также со стандартом OPC UA;</li> <li>Приветствуется знание и опыт работы с WinCC OA, АльфаПлатформа.</li> </ul> <strong>Условия:</strong> <ul> <li>Работа в стабильной, динамично развивающейся компании;</li> <li>Аккредитованная в Минцифры IT-компания (возможность получения IT-ипотеки и т.д.);</li> <li>Официальное трудоустройство по ТК РФ;</li> <li>Стабильная заработная плата 2 раза в месяц + 13-я заработная плата;</li> <li>Возможности для профессионального развития и карьерного роста</li> <li>Полностью официальная зарплата, прописывается в трудовом договоре;</li> <li>Обучение, профессиональные курсы, тренинги, повышение квалификации за счёт работодателя - мы заинтересованы в развитии наших сотрудников;</li> <li>Премирование за реализацию проектов;</li> <li>Добровольное медицинское страхование со стоматологией;</li> <li>Офис в бизнес-центр Korston с парковочными местами;</li> <li>Подарки детям сотрудников на Новый год;</li> <li>Руководство открытое для мнений, предложений, идей;</li> <li>Интересные корпоративные мероприятия!</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Автоматизация технологических процессов"
+    },
+    {
+      "name": "АСУ ТП"
+    },
+    {
+      "name": "Производство пусконаладочных работ"
+    },
+    {
+      "name": "Пуско-наладочные работы"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10911766",
+    "name": "МПЦ Инжиниринг",
+    "url": "https://api.hh.ru/employers/10911766",
+    "alternate_url": "https://hh.ru/employer/10911766",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1281371.jpeg",
+      "90": "https://img.hhcdn.ru/employer-logo/6745782.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6745783.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10911766",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-19T18:31:32+0300",
+  "created_at": "2025-05-19T18:31:32+0300",
+  "initial_created_at": "2025-05-19T18:31:32+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120728414",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120728414",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

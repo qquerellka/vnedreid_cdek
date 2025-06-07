@@ -1,0 +1,140 @@
+{
+  "id": "121218707",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер-программист",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 70000,
+    "to": 90000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 70000,
+    "to": 90000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "Советский район, микрорайон Академгородок, проспект Академика Лаврентьева",
+    "building": "11",
+    "lat": 54.848805,
+    "lng": 83.11098,
+    "description": null,
+    "raw": "Новосибирск, Советский район, микрорайон Академгородок, проспект Академика Лаврентьева, 11",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p> </p> <p>В <strong>Сектор научного отдела </strong>Института ядерной физики имени Г. И. Будкера<br />​​​​​​​СО PAH требуется​​​​​​​ <strong>Инженер-программист</strong></p> <p><strong>Обязанности:</strong></p> <p>• Написание ПО для автоматизации оборудования на языках С/С++, Python<br />• Под Linux и Windows<br />• Программирование в специализированных средах для автоматизации научных установок – EPICS, Tango и т.п. Опыт работы с ними не требуется, будет дано достаточное время на освоение.</p> <p><strong>Требования:</strong></p> <p>*высшее образование по профилю деятельности;<br />* опыт работы в программировании от 2 лет, желательно связанный с автоматизацией<br />* приветствуется опыт работы программистом в научном институте или связанный с автоматизацией оборудования.</p> <p><strong>Примеры типовых задач для понимания характера работы:</strong><br /><strong>Пример 1.</strong> Написать программу для обработки изображений с CCD-камеры. Камера общается по Ethernet, производитель камеры предоставляет Windows/Linux SDK. Программа должна получать изображение с камеры, строить гистограмму распределения яркости по осям x и y, предоставлять инструменты управления камерой – временем экспозиции, задержкой синхронизации, применяемыми аппаратными фильтрами кадров. Под Linux.<br /><strong>Пример 2. </strong>Требуется написать ПО для управления несколькими шаговыми двигателями. ШД управляются контроллерами, связь с контроллерами по Ethernet по протоколу Modbus, производитель контроллеров предоставляет SDK. Под Linux.<br /><strong>Пример 3. Н</strong>аписать сервер, который будет непрерывно опрашивать АЦП и предоставлять клиентам по TCP/IP текущие значения каналов АЦП. Клиент может получить значение нужного канала как разово, так и может «подписаться» на канал и получать данные регулярно или по факту изменения значения. Например, АЦП опрашивает датчики температур в разных местах, и различные программы хотят получать данные о текущих температурах в различных узлах установки.</p> <p><strong>Условия:</strong></p> <p>Официальное трудоустройство;<br />Работа в бюджетной организации - наукоемкой сфере;<br />Возможность быть членом уникального дружного коллектива Института, где человека ценят прежде всего по его результатам в работе и где всегда можно рассчитывать на консультацию и помощь квалифицированного специалиста по любому техническому вопросу;<br />График работы: 5-ти дневная рабочая неделя, с 8-00 до 17-00 или<br />с 9.00 до 18.00 час, выходные: сб, вск.<br />в Институте активно работает профсоюзная организация<br />Институт предоставляет сотрудникам:<br />*добровольное медицинское образование;<br />*доставка сотрудников служебным транспортом(Бердск, Академгородок, Объгэс, Н.Ельцовка)<br />* Есть свои лыжная база, база отдыха.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4934928",
+    "name": "ИЯФ СО РАН",
+    "url": "https://api.hh.ru/employers/4934928",
+    "alternate_url": "https://hh.ru/employer/4934928",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1294588.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6798646.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6798647.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4934928",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T12:31:11+0300",
+  "created_at": "2025-06-02T12:31:11+0300",
+  "initial_created_at": "2025-06-02T12:31:11+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121218707",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121218707",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

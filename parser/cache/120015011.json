@@ -1,0 +1,159 @@
+{
+  "id": "120015011",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Директор IT",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 180000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 180000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "Серебренниковская улица",
+    "building": "19/1",
+    "lat": 55.021927,
+    "lng": 82.926233,
+    "description": null,
+    "raw": "Новосибирск, Серебренниковская улица, 19/1",
+    "metro": {
+      "station_name": "Октябрьская",
+      "line_name": "Ленинская",
+      "station_id": "52.298",
+      "line_id": "52",
+      "lat": 55.018789,
+      "lng": 82.939007
+    },
+    "metro_stations": [
+      {
+        "station_name": "Октябрьская",
+        "line_name": "Ленинская",
+        "station_id": "52.298",
+        "line_id": "52",
+        "lat": 55.018789,
+        "lng": 82.939007
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><em><strong>Обязанности:</strong></em></p> <p>- Аудит действующей инфраструктуры компании и действующих бизнес-процессов, выявление слабых мест и точек автоматизации ;<br />- Развитие взаимодействия отделов компании в сфере IT (инструменты удобных и эффективных коммуникаций между сотрудниками);<br />- Автоматизация работы внутренних процессов и сервисов компании;<br />- Внедрить систему управления задачами и проектами;<br />- Управление IT-отделом, контроль, обеспечение решения поставленных перед отделом задач;<br />- Обеспечение бесперебойной и эффективной работы основных платформ работы компании.</p> <p><em><strong>Требования:</strong></em></p> <p>- Опыт работы с аутсорсерами - подрядчиками, опыт перестраивания структуры под задачи бизнеса;</p> <p>- Опыт работы с Битрикс24 (облачная и коробочная версии), понимание их различий и возможностей кастомизации;</p> <p>- Опыт построения управленческой отчетности и автоматизации бизнес- процессов;</p> <p>- Опыт работы в крупных производственных компаниях предпочтителен;</p> <p>- Опыт внедрения систем управления задачами и проектами (Битрикс24, 1С, Jira, Trello и др.)</p> <p><em><strong>Условия:</strong></em></p> <p>- Заработную плату — от 180 000 рублей в месяц, с возможностью пересмотра и бонусной системы после успешного прохождения испытательного срока;<br />- Социальные гарантии — соблюдение всех норм Трудового кодекса РФ, включая оплачиваемый отпуск и больничные;<br />- Дополнительные бонусы: компенсация мобильной связи;<br />- Перспективы карьерного роста — возможность развивать профессиональные навыки и продвигаться внутри компании благодаря взаимодействию с высококвалифицированными специалистами и участию в интересных проектах;<br />- Работу в современном офисе — комфортное рабочее пространство, оборудованное всеми необходимыми инструментами для эффективной деятельности;<br />- Участие в масштабных проектах — уникальная возможность внести свой вклад в развитие инновационных решений в области дополнительного профессионального образования;</p> <p>Поддерживающую команду — работа в коллективе профессионалов, готовых делиться опытом и поддерживать друг друга в достижении общих целей.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5592341",
+    "name": "АНО ДПО СИНМО",
+    "url": "https://api.hh.ru/employers/5592341",
+    "alternate_url": "https://hh.ru/employer/5592341",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/875578.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/3943187.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3943188.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5592341",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-30T06:40:35+0300",
+  "created_at": "2025-05-30T06:40:35+0300",
+  "initial_created_at": "2025-04-28T10:05:12+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120015011",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120015011",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

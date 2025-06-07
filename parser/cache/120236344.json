@@ -1,0 +1,135 @@
+{
+  "id": "120236344",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 60000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 60000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": 55.78676402056382,
+    "lng": 49.12285298109057,
+    "description": null,
+    "raw": "Казань, ул. Петербургская 52, IT-парк",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>В нашу IT-компанию «Системы документооборота» мы ищем аналитика!</strong></p> <p>Мы реализуем масштабный проект полного цикла разработки, где налажены процессы и тесное взаимодействие между командами.</p> <p><em>Поэтому ищем сотрудника <strong>на полную занятость в офис</strong>, где вы сможете творчески подходить к решению сложных задач.</em></p> <p>Основное направление нашей деятельности – разработка системы электронного документооборота «Практика».</p> <p>Нам доверяют такие заказчики, как Правительство Москвы, Правительство Татарстана, Министерство финансов РФ и другие государственные и крупные коммерческие организации.</p> <p>Сейчас в компании работает около 150 человек. У вас есть уникальный шанс стать частью нашей команды и работать как единый механизм.</p> <p><strong>Стек разработки:</strong></p> <p>Проект разрабатывается на PHP с использованием PHP 8.4, PostgreSQL, JS, Vue JS, Memcached, Gearman, Git, Elastic Search.</p> <p><strong>Обязанности:</strong></p> <p>1. Решение задач по доработкам информационной системы:</p> <ul> <li>выявление требований, целей и задач доработки;</li> <li>выявление целесообразности решения.</li> </ul> <p> </p> <p>2. Описание решений (обоснование решения об отказе, формирование рекомендаций по решению и др.), в том числе:</p> <ul> <li>описание логики решения задачи;</li> <li>описание входной, промежуточной, служебной, выходной информации;</li> <li>разработка макетов пользовательского интерфейса.</li> </ul> <p> </p> <p>3. Оформление документации (при необходимости написание технического задания, в том числе по ГОСТу, постановка задач в разработку, постановка задач для дизайна).</p> <p> </p> <p>4. Работа с требованиями</p> <ul> <li>Умение собирать, анализировать и документировать требования (User Stories, Use Cases);</li> <li>Описание бизнес-процессов, моделирование при помощи диаграмм.</li> </ul> <p><br /><strong>Наши требования:</strong></p> <p>Технические навыки:</p> <ul> <li>Понимание основ XML и опыт работы с редакторами (Oxygen XML или аналогами);</li> <li>Базовое знание веб-технологий (HTML/CSS, REST API) для взаимодействия с разработчиками;</li> <li>Базовое знание SQL (будет плюсом, но необязательно).</li> </ul> <p> </p> <p>UX и интерфейсы:</p> <ul> <li>Участие в проектировании UI/UX: формулирование требований, вайрфреймы (но не дизайн);</li> <li>Понимание принципов юзабилити и клиентоориентированности.</li> </ul> <p> </p> <p>Soft Skills:</p> <ul> <li>Навыки коммуникации с заказчиками и командами;</li> <li>Умение структурировать информацию и работать с возражениями;</li> <li>Обучаемость и адаптивность к изменениям.</li> </ul> <p> </p> <p>Прочие навыки:</p> <ul> <li>грамотная устная и письменная речь (это понадобится при написании ТЗ и общении с командой);</li> <li>умение донести свою мысль и объяснить решение, как устно, так и с помощью презентаций/схем/прочего визуала (так вся команда сможет быстро понять, какое решение предлагается);</li> <li>инициативность (мы любим проактивность и предложение лучших решений).</li> </ul> <p><br /><strong>Что мы предлагаем:</strong></p> <ul> <li>Мы — аккредитованная IT-компания, что позволяет сотрудникам получить IT-ипотеку и отсрочку от армии.</li> <li>Офис в центре города, в IT-парке — место, где технологии живут и развиваются.</li> <li>Официальное трудоустройство с первого рабочего дня.</li> <li>Менторство: мы ценим тех, кто хочет развиваться, и готовы помочь в этом.</li> <li>Мы организуем масштабные корпоративы на премиальных площадках с разнообразными активностями: спортивные зоны, зоны релакса, мастер-классы и многое другое. Все продумано для комфортного отдыха и неформального общения.</li> <li>Для поддержания баланса между работой и личной жизнью в офисах предусмотрены зоны отдыха: можно собирать пазлы, играть в игры или уединиться в специальном пространстве для генерации идей.</li> <li>У нас есть своя футбольная команда — для тех, кто любит активный отдых.</li> <li>Для специалистов из других регионов мы разработали программу релокации. Мечтаешь переехать в город с крутой IT-экосистемой? Мы поддержим!</li> </ul> <p><br />Присоединяйтесь к нам и участвуйте в создании передовых решений!</p> <p><br />Адрес: г. Казань, ул. Петербургская, 52. IT-парк.</p>",
+  "branded_description": "\n  <style>body {\n  margin: 0;\n}\n\npicture {\n  display: block;\n  line-height: 1px;\n}\n\n.hht-vacancydescription {\n  padding: 0 !important;\n}\n\n.vacancy-branded-user-content ul,\n.vacancy-branded-user-content ol {\n  list-style: none;\n  margin-left: 0;\n}\n\n.vacancy-branded-user-content p {\n  margin-top: 0 !important;\n}\n\n.vacancy-branded-user-content p:first-child b,\n.vacancy-branded-user-content p:first-child strong {\n  margin-top: 0 !important;\n}\n\n.tmpl-hh-wrapper {\n  width: 100%;\n  margin: 0 auto;\n  max-width: 690px;\n  position: relative;\n  overflow: hidden;\n  font-family: 'Arial', sans-serif;\n  font-style: normal;\n  color: #000;\n  font-size: 16px;\n  font-weight: 400;\n  line-height: 132%;\n  box-shadow: 1px 1px 15px 0px rgba(20, 20, 20, 0.1);\n}\n\n.tmpl-hh-wrapper * {\n  box-sizing: border-box;\n  padding: 0;\n  margin: 0;\n}\n\n.tmpl-hh-wrapper sup {\n  vertical-align: top;\n}\n\n.tmpl-hh-content ol li p,\n.tmpl-hh-content ul li p {\n  margin: 0 !important;\n}\n\n.tmpl-hh-content ol li p b,\n.tmpl-hh-content ol li p strong,\n.tmpl-hh-content ul li p b,\n.tmpl-hh-content ul li p strong {\n  font-weight: 700;\n  font-size: inherit !important;\n  margin: 0 !important;\n  text-transform: none;\n  color: inherit !important;\n  display: initial;\n}\n\n.tmpl-hh-content ol li em,\n.tmpl-hh-content ul li em {\n  font-style: normal !important;\n}\n\n.tmpl-hh-content ol li em b,\n.tmpl-hh-content ol li em strong,\n.tmpl-hh-content ul li em b,\n.tmpl-hh-content ul li em strong {\n  text-transform: none;\n  display: inherit;\n  font-weight: 700;\n  font-size: inherit;\n  color: inherit;\n  font-style: normal !important;\n}\n\n.tmpl-hh-content ol li b,\n.tmpl-hh-content ol li strong,\n.tmpl-hh-content ul li b,\n.tmpl-hh-content ul li strong {\n  font-weight: 700;\n  font-size: inherit !important;\n  margin: 0 !important;\n  text-transform: none;\n  color: inherit !important;\n}\n\n.tmpl-hh-content p {\n  margin-bottom: 10px;\n}\n\n.tmpl-hh-content p b,\n.tmpl-hh-content p strong {\n  display: inline-block;\n  color: #000;\n  font-size: 20px;\n  font-weight: 700;\n  line-height: 120%;\n  margin-top: 30px !important;\n}\n\n.tmpl-hh-content p em {\n  font-style: normal !important;\n}\n\n.tmpl-hh-content p em b,\n.tmpl-hh-content p em strong {\n  text-transform: none;\n  display: inherit;\n  font-weight: 700;\n  font-size: inherit;\n  color: inherit !important;\n  font-style: normal !important;\n  background: transparent;\n  padding: 0;\n}\n\n.tmpl-hh-content p:first-child b,\n.tmpl-hh-content p:first-child strong {\n  margin-top: 0 !important;\n}\n\n.tmpl-hh-content p:last-child {\n  margin-bottom: 0 !important;\n}\n\n.tmpl-hh-content .l-paddings {\n  padding: 0;\n}\n\n@media (max-width: 1019px) {\n  .tmpl-hh-wrapper {\n    max-width: 610px;\n  }\n}\n\n@media (max-width: 699px) {\n  .tmpl-hh-content p b,\n  .tmpl-hh-content p strong {\n    font-size: 18px;\n  }\n}\n\n.tmpl-hh-header {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n}\n\n.tmpl-hh-header__wrapper {\n  padding: 50px 80px;\n}\n\n.tmpl-hh-header__title {\n  width: 100%;\n}\n\n.tmpl-hh-header__image {\n  width: 100%;\n}\n\n@media (max-width: 1019px) {\n  .tmpl-hh-header__wrapper {\n    padding: 50px 40px;\n  }\n}\n\n@media (max-width: 699px) {\n  .tmpl-hh-header__wrapper {\n    padding: 24px 30px;\n  }\n}\n\n@media (max-width: 499px) {\n  .tmpl-hh-header__wrapper {\n    padding: 24px 0;\n  }\n}\n\n.tmpl-hh-content {\n  padding: 60px 40px;\n}\n\n.tmpl-hh-content ul,\n.tmpl-hh-content ol {\n  margin-left: 0;\n}\n\n.tmpl-hh-content ul li,\n.tmpl-hh-content ol li {\n  list-style: none;\n  position: relative;\n  padding-left: 17px;\n  color: #000;\n  font-size: 16px;\n  font-weight: 400;\n  line-height: 132%;\n}\n\n.tmpl-hh-content ul li:not(:last-child),\n.tmpl-hh-content ol li:not(:last-child) {\n  margin-bottom: 6px;\n}\n\n.tmpl-hh-content ul li::before,\n.tmpl-hh-content ol li::before {\n  position: absolute;\n  top: 10px;\n  left: 2px;\n  content: '';\n  width: 3px;\n  height: 3px;\n  border-radius: 50%;\n  background: #000;\n}\n\n@media (max-width: 1019px) {\n  .tmpl-hh-content {\n    padding: 60px 30px;\n  }\n}\n\n@media (max-width: 699px) {\n  .tmpl-hh-content {\n    padding: 60px 16px;\n  }\n}\n\n.tmpl-hh-footer {\n  padding: 0 40px 50px;\n}\n\n.tmpl-hh-footer__wrapper {\n  padding: 0 40px;\n}\n\n.tmpl-hh-footer__title {\n  width: 100%;\n}\n\n.tmpl-hh-footer__subtitle {\n  width: 100%;\n}\n\n.tmpl-hh-footer__cards {\n  list-style: none;\n  display: grid;\n  grid-template-columns: repeat(3, 1fr);\n  gap: 0 10px;\n  padding: 24px 0 50px;\n}\n\n.tmpl-hh-footer__card {\n  display: flex;\n  flex-direction: column;\n  align-items: start;\n  gap: 8px 0;\n  border-radius: 18px;\n  padding: 30px 20px 30px 30px;\n}\n\n.tmpl-hh-footer__card-text {\n  color: #040135;\n  font-size: 16px;\n  font-weight: 400;\n  line-height: 132%;\n  max-width: 80px;\n}\n\n.tmpl-hh-footer__card.--1 {\n  background-color: rgb(255, 251, 208);\n}\n\n.tmpl-hh-footer__card.--2 {\n  background-color: rgb(216, 239, 255);\n}\n\n.tmpl-hh-footer__card.--3 {\n  background-color: rgb(247, 231, 255);\n}\n\n@media (max-width: 1019px) {\n  .tmpl-hh-footer {\n    padding: 0 30px 24px;\n  }\n  .tmpl-hh-footer__wrapper {\n    padding: 0 30px;\n  }\n  .tmpl-hh-footer__cards {\n    display: flex;\n    flex-direction: column;\n    gap: 6px 0;\n  }\n  .tmpl-hh-footer__card {\n    gap: 6px 0;\n    padding: 20px;\n  }\n  .tmpl-hh-footer__card-text {\n    max-width: none;\n  }\n}\n\n@media (max-width: 699px) {\n  .tmpl-hh-footer {\n    padding: 0 16px 24px;\n  }\n  .tmpl-hh-footer__cards {\n    padding: 16px 0 24px;\n  }\n  .tmpl-hh-footer__wrapper {\n    padding: 0 10px;\n  }\n  .tmpl-hh-footer picture {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n  }\n  .tmpl-hh-footer__subtitle {\n    width: 340px;\n  }\n}\n\n@media (max-width: 499px) {\n  .tmpl-hh-footer__wrapper {\n    padding: 0;\n  }\n  .tmpl-hh-footer__subtitle {\n    width: 258px;\n  }\n}\n</style>\n\n   <div class=\"tmpl-hh-wrapper\">\n      <div class=\"tmpl-hh-header\">\n        <div class=\"tmpl-hh-header__wrapper\">\n          <picture>\n            <source srcset=\"https://hhcdn.ru/ichameleon/392074.png\" media=\"(max-width: 699px)\"></source>\n            <img src=\"https://hhcdn.ru/ichameleon/392073.png\" alt=\"\" class=\"tmpl-hh-header__title\">\n          </picture>\n        </div>\n\n        <picture>\n          <source srcset=\"https://hhcdn.ru/ichameleon/392076.png\" media=\"(max-width: 499px)\"></source>\n          <img src=\"https://hhcdn.ru/ichameleon/392075.png\" alt=\"\" class=\"tmpl-hh-header__image\">\n        </picture>\n      </div>\n      <div class=\"tmpl-hh-content\">\n        <p><strong>В нашу IT-компанию «Системы документооборота» мы ищем аналитика!</strong></p> <p>Мы реализуем масштабный проект полного цикла разработки, где налажены процессы и тесное взаимодействие между командами.</p> <p><em>Поэтому ищем сотрудника <strong>на полную занятость в офис</strong>, где вы сможете творчески подходить к решению сложных задач.</em></p> <p>Основное направление нашей деятельности – разработка системы электронного документооборота «Практика».</p> <p>Нам доверяют такие заказчики, как Правительство Москвы, Правительство Татарстана, Министерство финансов РФ и другие государственные и крупные коммерческие организации.</p> <p>Сейчас в компании работает около 150 человек. У вас есть уникальный шанс стать частью нашей команды и работать как единый механизм.</p> <p><strong>Стек разработки:</strong></p> <p>Проект разрабатывается на PHP с использованием PHP 8.4, PostgreSQL, JS, Vue JS, Memcached, Gearman, Git, Elastic Search.</p> <p><strong>Обязанности:</strong></p> <p>1. Решение задач по доработкам информационной системы:</p> <ul> <li>выявление требований, целей и задач доработки;</li> <li>выявление целесообразности решения.</li> </ul> <p> </p> <p>2. Описание решений (обоснование решения об отказе, формирование рекомендаций по решению и др.), в том числе:</p> <ul> <li>описание логики решения задачи;</li> <li>описание входной, промежуточной, служебной, выходной информации;</li> <li>разработка макетов пользовательского интерфейса.</li> </ul> <p> </p> <p>3. Оформление документации (при необходимости написание технического задания, в том числе по ГОСТу, постановка задач в разработку, постановка задач для дизайна).</p> <p> </p> <p>4. Работа с требованиями</p> <ul> <li>Умение собирать, анализировать и документировать требования (User Stories, Use Cases);</li> <li>Описание бизнес-процессов, моделирование при помощи диаграмм.</li> </ul> <p><br><strong>Наши требования:</strong></p> <p>Технические навыки:</p> <ul> <li>Понимание основ XML и опыт работы с редакторами (Oxygen XML или аналогами);</li> <li>Базовое знание веб-технологий (HTML/CSS, REST API) для взаимодействия с разработчиками;</li> <li>Базовое знание SQL (будет плюсом, но необязательно).</li> </ul> <p> </p> <p>UX и интерфейсы:</p> <ul> <li>Участие в проектировании UI/UX: формулирование требований, вайрфреймы (но не дизайн);</li> <li>Понимание принципов юзабилити и клиентоориентированности.</li> </ul> <p> </p> <p>Soft Skills:</p> <ul> <li>Навыки коммуникации с заказчиками и командами;</li> <li>Умение структурировать информацию и работать с возражениями;</li> <li>Обучаемость и адаптивность к изменениям.</li> </ul> <p> </p> <p>Прочие навыки:</p> <ul> <li>грамотная устная и письменная речь (это понадобится при написании ТЗ и общении с командой);</li> <li>умение донести свою мысль и объяснить решение, как устно, так и с помощью презентаций/схем/прочего визуала (так вся команда сможет быстро понять, какое решение предлагается);</li> <li>инициативность (мы любим проактивность и предложение лучших решений).</li> </ul> <p><br><strong>Что мы предлагаем:</strong></p> <ul> <li>Мы — аккредитованная IT-компания, что позволяет сотрудникам получить IT-ипотеку и отсрочку от армии.</li> <li>Офис в центре города, в IT-парке — место, где технологии живут и развиваются.</li> <li>Официальное трудоустройство с первого рабочего дня.</li> <li>Менторство: мы ценим тех, кто хочет развиваться, и готовы помочь в этом.</li> <li>Мы организуем масштабные корпоративы на премиальных площадках с разнообразными активностями: спортивные зоны, зоны релакса, мастер-классы и многое другое. Все продумано для комфортного отдыха и неформального общения.</li> <li>Для поддержания баланса между работой и личной жизнью в офисах предусмотрены зоны отдыха: можно собирать пазлы, играть в игры или уединиться в специальном пространстве для генерации идей.</li> <li>У нас есть своя футбольная команда — для тех, кто любит активный отдых.</li> <li>Для специалистов из других регионов мы разработали программу релокации. Мечтаешь переехать в город с крутой IT-экосистемой? Мы поддержим!</li> </ul> <p><br>Присоединяйтесь к нам и участвуйте в создании передовых решений!</p> <p><br>Адрес: г. Казань, ул. Петербургская, 52. IT-парк.</p></div>\n      <div class=\"tmpl-hh-footer\">\n        <div class=\"tmpl-hh-footer__wrapper\">\n          <picture>\n            <source srcset=\"https://hhcdn.ru/ichameleon/392166.png\" media=\"(max-width: 499px)\"></source>\n            <img src=\"https://hhcdn.ru/ichameleon/392097.png\" alt=\"\" class=\"tmpl-hh-footer__title\">\n          </picture>\n        </div>\n\n        <ul class=\"tmpl-hh-footer__cards\">\n          <li class=\"tmpl-hh-footer__card --1\">\n            <picture>\n              <source srcset=\"https://hhcdn.ru/ichameleon/392163.svg\" media=\"(max-width: 499px)\"></source>\n              <img src=\"https://hhcdn.ru/ichameleon/392152.svg\" alt=\"\" class=\"tmpl-hh-footer__card-title\">\n            </picture>\n            <p class=\"tmpl-hh-footer__card-text\">сотрудников в штате</p>\n          </li>\n          <li class=\"tmpl-hh-footer__card --2\">\n            <picture>\n              <source srcset=\"https://hhcdn.ru/ichameleon/392165.svg\" media=\"(max-width: 499px)\"></source>\n              <img src=\"https://hhcdn.ru/ichameleon/392154.svg\" alt=\"\" class=\"tmpl-hh-footer__card-title\">\n            </picture>\n            <p class=\"tmpl-hh-footer__card-text\">\n              на рынке IT услуг\n            </p>\n          </li>\n          <li class=\"tmpl-hh-footer__card --3\">\n            <picture>\n              <source srcset=\"https://hhcdn.ru/ichameleon/422404.svg\" media=\"(max-width: 499px)\"></source>\n              <img src=\"https://hhcdn.ru/ichameleon/422403.svg\" alt=\"\" class=\"tmpl-hh-footer__card-title\">\n            </picture>\n            <p class=\"tmpl-hh-footer__card-text\">пользователей системы</p>\n          </li>\n        </ul>\n\n        <picture>\n          <source srcset=\"https://hhcdn.ru/ichameleon/392139.png\" media=\"(max-width: 699px)\"></source>\n          <img src=\"https://hhcdn.ru/ichameleon/392096.png\" alt=\"\" class=\"tmpl-hh-footer__subtitle\">\n        </picture>\n      </div>\n    </div>\n\n  <script type=\"text/javascript\">\n     \n       (function polyfill() {\n  const relList = document.createElement(\"link\").relList;\n  if (relList && relList.supports && relList.supports(\"modulepreload\")) {\n    return;\n  }\n  for (const link of document.querySelectorAll('link[rel=\"modulepreload\"]')) {\n    processPreload(link);\n  }\n  new MutationObserver((mutations) => {\n    for (const mutation of mutations) {\n      if (mutation.type !== \"childList\") {\n        continue;\n      }\n      for (const node of mutation.addedNodes) {\n        if (node.tagName === \"LINK\" && node.rel === \"modulepreload\")\n          processPreload(node);\n      }\n    }\n  }).observe(document, { childList: true, subtree: true });\n  function getFetchOpts(link) {\n    const fetchOpts = {};\n    if (link.integrity)\n      fetchOpts.integrity = link.integrity;\n    if (link.referrerPolicy)\n      fetchOpts.referrerPolicy = link.referrerPolicy;\n    if (link.crossOrigin === \"use-credentials\")\n      fetchOpts.credentials = \"include\";\n    else if (link.crossOrigin === \"anonymous\")\n      fetchOpts.credentials = \"omit\";\n    else\n      fetchOpts.credentials = \"same-origin\";\n    return fetchOpts;\n  }\n  function processPreload(link) {\n    if (link.ep)\n      return;\n    link.ep = true;\n    const fetchOpts = getFetchOpts(link);\n    fetch(link.href, fetchOpts);\n  }\n})();\nconst index = \"\";\nwindow.addEventListener(\"DOMContentLoaded\", () => {\n});\n\n    \n  </script>\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "10",
+      "name": "Аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "167333",
+    "name": "Системы документооборота",
+    "url": "https://api.hh.ru/employers/167333",
+    "alternate_url": "https://hh.ru/employer/167333",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/971403.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5506460.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5506461.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=167333",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-13T11:26:26+0300",
+  "created_at": "2025-05-13T11:26:26+0300",
+  "initial_created_at": "2025-05-05T15:08:17+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120236344",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120236344",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

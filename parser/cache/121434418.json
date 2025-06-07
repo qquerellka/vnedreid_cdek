@@ -1,0 +1,164 @@
+{
+  "id": "121434418",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Frontend React разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 280000,
+    "to": 350000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 280000,
+    "to": 350000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы ASD Technologies, в связи с расширением деятельности ищем Frontend разработчиков в нашу команду.</p> <p>ASD Technologies - команда специалистов с более чем 10-летним опытом разработки личных кабинетов / порталов самообслуживания для финтеха, телеком-операторов и сервис-провайдеров. Мы успешно реализовали свыше 100 ИТ-проектов для таких компаний как Vodafone, Билайн, БЖФ, Мегафон, IBS</p> <p><strong>Мы сработаемся если:</strong></p> <ul> <li>Тебе важна архитектура проекта</li> <li>Тебе интересно влиять на продукт</li> </ul> <p><strong>Итак, Frontend Developer </strong></p> <ul> <li> <p>Стек:</p> <p>* React.js</p> <p>* Typescript</p> <p>* Ant Design (antd)</p> <p>* react-query</p> <p>* FSD</p> <p>* Vite</p> <p>* vitest</p> <p>* react-testing-library</p> <p>* storybook</p> <p>* Eslint</p> <p>* react-hook-form</p> <p>* yup</p> </li> </ul> <p><strong>Предлагаем: </strong></p> <ul> <li>Возможность работать 100% удаленно из любой точки РФ;</li> <li>Современная техника;</li> </ul> <p> </p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Git"
+    },
+    {
+      "name": "REST"
+    },
+    {
+      "name": "ООП"
+    },
+    {
+      "name": "TypeScript"
+    },
+    {
+      "name": "Webpack"
+    },
+    {
+      "name": "ESS5+"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "React"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5088268",
+    "name": "АСД Технолоджиз",
+    "url": "https://api.hh.ru/employers/5088268",
+    "alternate_url": "https://hh.ru/employer/5088268",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/802999.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3652883.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3652884.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5088268",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T22:52:19+0300",
+  "created_at": "2025-06-06T22:52:19+0300",
+  "initial_created_at": "2025-06-06T22:52:19+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121434418",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121434418",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "a1",
+        "name": "A1 — Начальный"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

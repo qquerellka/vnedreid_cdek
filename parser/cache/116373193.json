@@ -1,0 +1,172 @@
+{
+  "id": "116373193",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "QA Engineer / Инженер по качеству",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 60000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 60000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "2 линия",
+    "building": "метро Чёрная речка",
+    "lat": 59.985512,
+    "lng": 30.30083,
+    "description": null,
+    "raw": "Санкт-Петербург, 2 линия, метро Чёрная речка",
+    "metro": {
+      "station_name": "Чёрная речка",
+      "line_name": "Московско-Петроградская",
+      "station_id": "15.214",
+      "line_id": "15",
+      "lat": 59.985455,
+      "lng": 30.300833
+    },
+    "metro_stations": [
+      {
+        "station_name": "Чёрная речка",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.214",
+        "line_id": "15",
+        "lat": 59.985455,
+        "lng": 30.300833
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Игровая студия Нордкод – это разработчик программных продуктов для индустрии развлечений.</p> <p>Наша цель – дарить игрокам максимум удовольствия и радости.</p> <p>Наши воплощённые идеи демонстрируются на крупнейших зарубежных специализированных выставках, получают необходимые сертификаты известных лабораторий и завоёвывают популярность на мировых развлекательных сайтах.</p> <p><em>Мы приглашаем в команду <strong>тестировщика</strong>, чтобы производительность, надежность нашего backend и качество игр не уступало их популярности.</em></p> <p>Для того чтобы присоединиться к нашей команде в качестве QA Engineer, кандидатам <em><strong>необходимо выполнить тестовое задание</strong></em>. Это обязательное условие отбора, позволяющее нам оценить вашу подготовку и навыки в области тестирования программного обеспечения. Тестовое задание является важным шагом в процессе найма и поможет нам определить, соответствуете ли вы требованиям и ожиданиям нашей команды.</p> <p>QA Engineer / Инженер по качеству / Тестировщик игр</p> <p><strong>Ваши</strong><strong> задачи</strong><strong>:</strong></p> <ul> <li>ручное тестирование продуктов компании: кроссплатформенных игр и сервисных приложений, клиентской и серверной частей;</li> <li>составление тест-кейсов и их поддержание в актуальном состоянии;</li> <li>анализ результатов запусков тестов;</li> <li>обнаружение, документирование и сопровождение ошибок в баг-трекере;</li> </ul> <p><strong>Вам понадобятся:</strong></p> <ul> <li>знание теории тестирования;</li> <li>умение четко и ясно излагать свои мысли;</li> <li>общая техническая грамотность;</li> <li>понимание принципов построения современных Web и mobile решений;</li> <li>понимание базовых принципов работы сети интернет и интернет сервисов;</li> <li>ответственность, аккуратность, внимательность, инициативность, желание развиваться;</li> </ul> <p><strong>Очень пригодятся:</strong></p> <ul> <li>знание хотя бы одного языка программирования (Java, Groovy, JavaScript, C#, Python);</li> <li>знание языка SQL;</li> <li>представление об инструментах автоматизированного тестирования веб-сервисов;</li> <li>умение читать (сопроводительное письмо начните с пяти знаков восклицания) техническую документацию на английском языке;</li> <li>опыт работы с консолью Unix, знание основных команд;</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Официальное трудоустройство.</li> <li><strong>Полную занятость в офисе.</strong></li> <li>Комфортный гибкий график работы.</li> <li>Отсутствие бюрократии и лишнего формализма.</li> <li>Достойную заработную плату (по результатам собеседования) и дальнейшую мотивацию.</li> <li>Посещение профессиональных мероприятий, международных выставок-конференций.</li> <li>Просторный офис у метро Черная Речка (5 мин. пешком).</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Тестирование"
+    },
+    {
+      "name": "Функциональное тестирование"
+    },
+    {
+      "name": "Регрессионное тестирование"
+    },
+    {
+      "name": "Нагрузочное тестирование"
+    },
+    {
+      "name": "Тестирование пользовательского интерфейса"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3292790",
+    "name": "Nord.Codes",
+    "url": "https://api.hh.ru/employers/3292790",
+    "alternate_url": "https://hh.ru/employer/3292790",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/548456.png",
+      "90": "https://img.hhcdn.ru/employer-logo/2635297.png",
+      "240": "https://img.hhcdn.ru/employer-logo/2635298.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3292790",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T21:45:17+0300",
+  "created_at": "2025-06-05T21:45:17+0300",
+  "initial_created_at": "2025-01-27T14:59:27+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=116373193",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/116373193",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

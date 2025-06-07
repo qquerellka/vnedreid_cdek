@@ -1,0 +1,199 @@
+{
+  "id": "92602878",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Программист С++",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 250000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 250000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Казань",
+    "street": "улица Восстания",
+    "building": "100к13",
+    "lat": 55.835245,
+    "lng": 49.047242,
+    "description": null,
+    "raw": "Казань, улица Восстания, 100к13",
+    "metro": {
+      "station_name": "Яшьлек (Юность)",
+      "line_name": "Центральная",
+      "station_id": "49.460",
+      "line_id": "49",
+      "lat": 55.827843,
+      "lng": 49.082905
+    },
+    "metro_stations": [
+      {
+        "station_name": "Яшьлек (Юность)",
+        "line_name": "Центральная",
+        "station_id": "49.460",
+        "line_id": "49",
+        "lat": 55.827843,
+        "lng": 49.082905
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><em>Мы выпускаем промышленные логические контроллеры АБАК ПЛК и измерительно-вычислительный комплекс АБАК+.</em></p> <p><em>И у нас большие планы по дальнейшему развитию контроллерного оборудования.</em></p> <p><em>Сейчас мы ищем <strong>С++ разработчика уровня Middle</strong>, у которого будет возможность вместе с командой разрабатывать</em><em> архитектуру , выбирать и реализовывать такие технологии и подходы, которые позволяют задать новую планку по качеству, безопасности и скорости работы подобных решений</em><em>.</em></p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Разработка и сопровождение микросервисов контроллера;</li> <li>Разработка и сопровождение драйверов для устройств;</li> <li>Разработка/сопровождение драйверов промышленных протоколов обмена данными (ModBus, OPC UA и другие);</li> <li>Развитие механизмов межконтроллерного обмена данными в резервированных ПЛК;</li> <li>Развитие механизмов обмена данных между различными сервисами контроллера.</li> </ul> <p><strong>Мы ждем, что Вы :</strong></p> <ul> <li>Любите С++, хорошо им владеете и пишите на нём больше трёх лет.</li> <li>Знаете классические алгоритмы и структуры данных и умеете их применять на практике;</li> <li>Понимаете парадигму многопоточности, знакомы с основными подходами, проблемами и ограничениями в этой области;</li> <li>Имеете опыт разработки высоконагруженных, распределённых , близких к &quot;железу&quot; сервисов или сервисов реального времени.</li> <li>Имеете опыт написания сетевых приложений;</li> <li>Программируете под Linux, знаете Git;</li> <li>У Вас высшее законченное образование;</li> <li>Владеете английским языком на уровне чтения и понимания технической документации.</li> </ul> <p><strong>Имеете дополнительные навыки:</strong></p> <ul> <li>Опыт кроссплатформенной разработки;</li> <li>Знание промышленных протоколов обмена информацией: Modbus RTU/TCP, CANOPEN и т.д.;</li> <li>Опыт работы со спецификацией OPC DA/UA;</li> <li>Опыт с SQL базами данных: Postgres, MySQL;</li> <li>Опыт работы с промышленными программируемыми логическими контроллерами;</li> <li>Понимание драйверной модели Linux, опыт работы с Device Tree, способность собрать U-Boot и ядро.</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Работу в стабильной компании. Входим в реестр аккредитованных IТ организаций;</li> <li>Оформление в штат и полностью белая зарплата;</li> <li>Конкурентный уровень заработной платы, обсуждается по итогам собеседования;</li> <li>Премии за эффективную работу и высокие результаты;</li> <li>Помощь опытного наставника на испытательный срок;</li> <li>График работы: 5-тидневная рабочая неделя с 8.00 - 17.00 часов (с возможностью смещения времени или частично удаленной работы после успешного прохождения испытательного срока).</li> </ul> <p><strong>Соцпакет, льготы и компенсации:</strong></p> <ul> <li>ДМС со стоматологией;</li> <li>Дотация на питание;</li> <li>Частичная компенсация затрат на фитнес;</li> <li>Детские подарки на новый год и 1 сентября (для первоклассников);</li> <li>Материальная помощь, дополнительные дни отдыха в связи с особыми событиями жизни;</li> <li>Спорт: своя футбольная и хоккейная команда, команда марафонцев;</li> <li>Наличие зоны отдыха со столами для игры в настольный теннис;</li> <li>Корпоративные мероприятия.</li> </ul> <p><strong>Рост и развитие:</strong></p> <ul> <li>Возможность личностного, профессионального и карьерного роста в стабильной и постоянно развивающейся компании;</li> <li>Опытные наставники и дружный коллектив;</li> <li>Обучение и повышение квалификации на ведущих онлайн платформах;</li> <li>Возможность участия в региональных и федеральных мероприятиях (семинары, выставки и конференции).</li> </ul> <p><strong>Доп. льготы для переезжающих в Казань:</strong></p> <ul> <li>Помощь (в т.ч. финансовая) в переезде;</li> <li>Компенсация затрат на аренду жилья.</li> </ul> <p><strong>Место работы: </strong>Современный уютный офис на территории Химграда (Восстания 104И), рядом столовая.</p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": {
+    "id": 39801,
+    "name": "Брендированный шаблон 2",
+    "top_picture": {
+      "height": 560,
+      "width": 1540,
+      "path": "https://img.hhcdn.ru/branding-pictures/2525409.jpeg",
+      "blurred_path": null
+    },
+    "bottom_picture": {
+      "height": 704,
+      "width": 1540,
+      "path": "https://img.hhcdn.ru/branding-pictures/2525416.jpeg",
+      "blurred_path": null
+    }
+  },
+  "key_skills": [
+    {
+      "name": "C/C++"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "MS SQL"
+    },
+    {
+      "name": "MS Visual Studio"
+    },
+    {
+      "name": "Многопоточное программирование"
+    },
+    {
+      "name": "STL"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Аккредитованная IT - компания"
+    },
+    {
+      "name": "кроссплатформенная разработка"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": "ОРПО ДПТК",
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "694186",
+    "name": "ИНКОМСИСТЕМ, НИЦ",
+    "url": "https://api.hh.ru/employers/694186",
+    "alternate_url": "https://hh.ru/employer/694186",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/533613.png",
+      "90": "https://img.hhcdn.ru/employer-logo/2575925.png",
+      "240": "https://img.hhcdn.ru/employer-logo/2575926.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=694186",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-29T08:54:19+0300",
+  "created_at": "2025-05-29T08:54:19+0300",
+  "initial_created_at": "2024-02-02T17:02:16+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=92602878",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/92602878",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

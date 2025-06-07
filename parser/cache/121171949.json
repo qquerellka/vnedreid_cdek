@@ -1,0 +1,230 @@
+{
+  "id": "121171949",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Backend-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 180000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 180000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Невский проспект",
+    "building": "104",
+    "lat": 59.931887,
+    "lng": 30.356589,
+    "description": null,
+    "raw": "Санкт-Петербург, Невский проспект, 104",
+    "metro": {
+      "station_name": "Маяковская",
+      "line_name": "Невско-Василеостровская",
+      "station_id": "16.230",
+      "line_id": "16",
+      "lat": 59.931366,
+      "lng": 30.354645
+    },
+    "metro_stations": [
+      {
+        "station_name": "Маяковская",
+        "line_name": "Невско-Василеостровская",
+        "station_id": "16.230",
+        "line_id": "16",
+        "lat": 59.931366,
+        "lng": 30.354645
+      },
+      {
+        "station_name": "Площадь Восстания",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.199",
+        "line_id": "14",
+        "lat": 59.930279,
+        "lng": 30.361069
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>WhiteByte</strong> — IT компания, надежный поставщик инновационных решений для бизнеса. Предлагаем клиентам решения для построения надежной и эффективной информационной инфраструктуры. <strong>Наша миссия</strong> — предоставить заказчикам высококачественные инструменты, с помощью которых они могут достичь поставленных бизнес‑целей и развиваться, не беспокоясь о надежности IT контура. <strong>Наша цель</strong> — занять лидирующие позиции в отрасли, способствовать развитию современных технологий в России, обеспечить качественное обслуживание клиентов и способствовать их росту на рынке.</p> <p>Мы активно растем и сейчас ищем <strong>Backend разработчика в команду сайта </strong>с опытом в Laravel для участия в создании веб-платформы с модульной архитектурой.</p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li> <p>Проектирование и реализация схем баз данных (PostgreSQL), написание миграций</p> </li> <li> <p>Разработка REST API на Laravel (12 версия) с использованием сервисного слоя</p> </li> <li> <p>Документирование API через OpenAPI (вручную или автогенерация)</p> </li> <li> <p>Интеграция с внешними системами через очереди Laravel Queue и планировщик Task Scheduler</p> </li> <li> <p>Настройка мониторинга и логирования с использованием Laravel Telescope и Prometheus</p> </li> <li> <p>Покрытие критичных участков кода Unit и Feature тестами</p> </li> </ul> <p><strong>Требуемые навыки:</strong></p> <ul> <li> <p>Опыт разработки на <strong>PHP 8+</strong>, уверенное владение <strong>Laravel</strong></p> </li> <li> <p>Умение работать с <strong>PostgreSQL</strong>, понимание принципов нормализации БД</p> </li> <li> <p>Опыт работы с <strong>Redis</strong> (очереди, кэш, сессии)</p> </li> <li> <p>Навыки построения архитектурно чистого кода, знание ООП, паттернов проектирования</p> </li> <li> <p>Опыт работы с <strong>OpenAPI</strong>, документацией REST API</p> </li> <li> <p>Понимание принципов CI/CD,</p> </li> <li> <p>Понимание работы планировщиков задач и очередей.</p> </li> </ul> <p><strong>Что мы предлагаем?</strong></p> <ul> <li> <p>Возможность реализовать крутые идеи и видеть, как они работают на практике;</p> </li> <li> <p>Обучение и профессиональное развитие — у нас вы сможете совершенствоваться и достигать новых карьерных целей;</p> </li> <li> <p><strong>Трудоустройство в аккредитованную ИТ-компанию;</strong></p> </li> <li> <p>Удаленный или в идеале гибридный график работы в современном офисе бизнес-центра класса В+ с 10:00 - 19:00;</p> </li> <li> <p>Конкурентную заработную плату, привязанную к результатам и эффективности работы;</p> </li> <li> <p>ДМС и компенсация спорта;</p> </li> <li> <p>Дружелюбную команду и рабочую атмосферу, где всегда можно рассчитывать на помощь и взаимопонимание.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Git"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Рефакторинг кода"
+    },
+    {
+      "name": "Оптимизация кода"
+    },
+    {
+      "name": "Микросервисная архитектура"
+    },
+    {
+      "name": "GitHub"
+    },
+    {
+      "name": "Gitlab"
+    },
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "Laravel"
+    },
+    {
+      "name": "Redis"
+    },
+    {
+      "name": "OpenAPI"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "CI/CD"
+    },
+    {
+      "name": "Архитектурные паттерны"
+    },
+    {
+      "name": "Базы данных"
+    },
+    {
+      "name": "Unit Testing"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11583409",
+    "name": "Whitebyte",
+    "url": "https://api.hh.ru/employers/11583409",
+    "alternate_url": "https://hh.ru/employer/11583409",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1353630.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7034450.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7034451.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11583409",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-30T14:33:54+0300",
+  "created_at": "2025-05-30T14:33:54+0300",
+  "initial_created_at": "2025-05-30T14:33:54+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121171949",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121171949",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

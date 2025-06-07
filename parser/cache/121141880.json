@@ -1,0 +1,194 @@
+{
+  "id": "121141880",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Frontend-разработчик (React)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "проспект Бакунина",
+    "building": "5",
+    "lat": 59.929799,
+    "lng": 30.374995,
+    "description": null,
+    "raw": "Санкт-Петербург, проспект Бакунина, 5",
+    "metro": {
+      "station_name": "Площадь Александра Невского 1",
+      "line_name": "Невско-Василеостровская",
+      "station_id": "16.231",
+      "line_id": "16",
+      "lat": 59.924369,
+      "lng": 30.384989
+    },
+    "metro_stations": [
+      {
+        "station_name": "Площадь Александра Невского 1",
+        "line_name": "Невско-Василеостровская",
+        "station_id": "16.231",
+        "line_id": "16",
+        "lat": 59.924369,
+        "lng": 30.384989
+      },
+      {
+        "station_name": "Площадь Александра Невского 2",
+        "line_name": "Лахтинско-Правобережная",
+        "station_id": "17.240",
+        "line_id": "17",
+        "lat": 59.923563,
+        "lng": 30.383421
+      },
+      {
+        "station_name": "Площадь Восстания",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.199",
+        "line_id": "14",
+        "lat": 59.930279,
+        "lng": 30.361069
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Сейчас мы в поисках Frontend - разработчика для создания и развития нового масштабного saas-продукта. Если вы горите желанием создавать удобные и функциональные интерфейсы, Вам нравится решать сложные задачи и Вы стремитесь к постоянному развитию – эта вакансия для вас!</p> <p><strong>Наш стек: react, react-qurery, typescript, @mui, formik, yup, vite, storybook.</strong></p> <p><strong>Что нужно делать:</strong></p> <ul> <li>Разрабатывать новый и дорабатывать существующий функционал наших продуктов и сервисов;</li> <li>Взаимодействовать с продуктовой командой (аналитика, дизайн, разработка, тестирование).</li> </ul> <p><strong>Что мы ожидаем:</strong></p> <ul> <li>Прочный фундамент: глубокие знания HTML, CSS, JavaScript и TypeScript – без этого никуда :);</li> <li>Уверенное использование сторонних библиотек для решения различных задач;</li> <li>Интеграция без проблем: опыт работы с API сторонних сервисов (REST, GraphQL и др.);</li> <li>Свободное владение системой управления версиями Git;</li> <li>Архитектурное мышление: понимание принципов ООП, MVC и распространенных шаблонов проектирования;</li> <li>React – ваша стихия: отличное знание фреймворка React и его экосистемы (Redux/Context, Hooks, Router и др.);</li> <li>Адаптивность – ваше второе имя: навыки кроссбраузерной, кроссплатформенной и адаптивной вёрстки.</li> </ul> <p><em><strong>Мы предлагаем:</strong></em></p> <ul> <li>Стабильность. <em><strong>Аккредитованная IT-компания. </strong></em>Официальное оформление, белая зарплата и понятная система мотивации. Фиксированный оклад + бонусная система (гибкое обсуждение условий);</li> <li>Профессиональный рост. Есть внутренние программы развития, будет возможность участвовать в митапах и хакатонах, воркшопах. Сможешь создать свой продукт с поддержкой экспертов в акселераторе RLT.University;</li> <li>Поддержка команды. Работа с экспертами, разные задачи, быстрая и понятная обратная связь, готовность к новым решениям. Ретроспективы для контроля и улучшения рабочих процессов;</li> <li>Программа well-being для сотрудников (физическое, психологическое и финансовое здоровье, юридическая консультация, карьерный рост и многое другое);</li> <li>Комфортные условия. Выбирайте удобный для вас формат – офис, гибрид или полностью удаленная работа. Гибкое начало рабочего дня с 9 - 11 часов.</li> </ul> <p> </p>",
+  "branded_description": " \n<style>\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_wrapper * {\n    -webkit-box-sizing: border-box;\n    box-sizing: border-box;\n}\n\n.tmpl_hh_wrapper [role=button] {\n    outline: none;\n}\n\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content li p {\n    font-size: inherit !important;\n    margin: 0;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content h2:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    font-family: \"Arial\", sans-serif;\n    color: #000;\n    font-size: 18px;\n    line-height: 22px;\n    letter-spacing: 0.02em;\n    overflow: hidden;\n    -webkit-font-smoothing: antialiased;\n    background-color: #A5C8FC;\n    background-image: url(https://hhcdn.ru/ichameleon/434905.jpg), url(https://hhcdn.ru/ichameleon/434906.jpg);\n    background-size: 100%, 100%;\n    background-repeat: no-repeat, no-repeat;\n    background-position: 0 0, 0 100%;\n}\n\n.tmpl_hh_content {\n    padding: 40px 40px;\n    background: #CBE6FF;\n    border-radius: 11px;\n}\n\n.tmpl_hh_content p {\n    margin: 16px 0 16px;\n}\n\n.tmpl_hh_content h2 {\n    margin: 32px 0 16px;\n    font-weight: 700;\n    font-size: 20px;\n    line-height: 24px;\n    letter-spacing: 0;\n    text-transform: uppercase;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 14px;\n    padding-bottom: 1px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 12px;\n}\n\n.tmpl_hh_content li:last-child {\n    margin-bottom: 0;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 12px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;\n}\n\n.tmpl_hh_content li:before {\n    content: \"\";\n    position: absolute;\n    left: -14px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"\";\n    width: 4px;\n    height: 4px;\n    top: 9px;\n    border-radius: 50%;\n    background: #000;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter) \".\";\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n\n.tmpl_hh_header {\n    padding: 40px 40px;\n    background: url(https://hhcdn.ru/ichameleon/434686.png);\n    background-size: 52%;\n    background-repeat: no-repeat;\n    background-position: 100% 8.1%;\n}\n\n.tmpl_hh_header__logo {\n    width: 179px;\n}\n\n.tmpl_hh_header__slogan {\n    width: 336px;\n    margin: 46px 0 25px;\n}\n\n.tmpl_hh_header__text {\n    width: 307px;\n}\n\n.tmpl_hh_numbers {\n    display: grid;\n    grid-template-columns: repeat(2, 1fr);\n    gap: 16px 20px;\n    margin: 32px 0 0;\n}\n\n.tmpl_hh_numbers__item {\n    border: 1px solid #CBE6FF;\n    border-radius: 11px;\n    font-weight: 700;\n    font-size: 18px;\n    line-height: 19px;\n    letter-spacing: 0;\n    color: #fff;\n    padding: 13px 19px 12px;\n}\n\n.tmpl_hh_numbers__bold {\n    height: 44px;\n    margin-bottom: 8px;\n    position: relative;\n}\n\n.tmpl_hh_numbers__bold img {\n    width: auto;\n    height: 100%;\n    position: absolute;\n    left: 0;\n    top: 0;\n}\n\n.tmpl_hh_about {\n    font-size: 18px;\n    line-height: 20px;\n    letter-spacing: 0;\n    color: #fff;\n    margin: 16px 0 0;\n    display: grid;\n    gap: 20px;\n}\n\n.tmpl_hh_footer {\n    margin: 40px 40px 7px;\n}\n\n.tmpl_hh_footer__items {\n    background: #FFFFFF;\n    border-radius: 11px;\n    padding: 30px 24px;\n    display: flex;\n    flex-wrap: wrap;\n    font-size: 16px;\n    line-height: 15px;\n    letter-spacing: 0;\n    color: #00205E;\n    gap: 38px 47px;\n    position: relative;\n}\n\n.tmpl_hh_footer__items b {\n    font-weight: 700;\n    font-size: 20px;\n    line-height: 19px;\n    margin-bottom: 3px;\n    display: block;\n    color: #0042EC;\n}\n\n.tmpl_hh_footer__items span {\n    font-weight: 700;\n}\n\n.tmpl_hh_footer__cup {\n    width: 247px;\n    position: absolute;\n    right: -40px;\n    top: -40px;\n    pointer-events: none;\n}\n\n.tmpl_hh_footer__cube {\n    position: absolute;\n    top: -29px;\n    left: -20px;\n    width: 44px;\n    pointer-events: none;\n}\n\n.tmpl_hh_footnote {\n    font-weight: 500;\n    font-size: 12px;\n    line-height: 14px;\n    letter-spacing: 0;\n    color: #FFFFFF4D;\n    padding: 9px 0 0;\n}\n\n\n@media screen and (max-width: 1019px) {\n    .tmpl_hh_header__slogan {\n        width: 320px;\n        margin: 20px 0 20px;\n    }\n\n    .tmpl_hh_header__text {\n        width: 285px;\n    }\n\n    .tmpl_hh_numbers__item {\n        font-size: 16px;\n        line-height: 17px;\n    }\n\n    .tmpl_hh_footer__item {\n        width: 100%;\n    }\n\n    .tmpl_hh_footer__items {\n        gap: 25px 47px;\n    }\n}\n\n@media screen and (max-width: 699px) {\n    .tmpl_hh_wrapper {\n        width: auto;\n        margin: 0 -15px;\n        font-size: 14px;\n        line-height: 17px;\n        letter-spacing: 0.02em;\n        background-image: url(https://hhcdn.ru/ichameleon/434908.jpg), url(https://hhcdn.ru/ichameleon/434907.jpg);\n        background-size: 100%, 100%;\n        background-repeat: no-repeat, no-repeat;\n        background-position: 0 0, 0 100%;\n    }\n\n    .tmpl_hh_content {\n        padding: 20px 20px;\n    }\n\n    .tmpl_hh_content p {\n        margin: 12px 0 12px;\n    }\n\n    .tmpl_hh_content h2 {\n        margin: 32px 0 12px;\n        font-size: 16px;\n        line-height: 19px;\n        letter-spacing: 0;\n    }\n\n    .tmpl_hh_content li {\n        margin-bottom: 8px;\n    }\n\n    .tmpl_hh_content ul ul,\n    .tmpl_hh_content ul ol,\n    .tmpl_hh_content ol ol,\n    .tmpl_hh_content ol ul {\n        margin-top: 8px;\n    }\n\n    .tmpl_hh_content ul>li:before {\n        top: 7px;\n    }\n\n    .tmpl_hh_header {\n        padding: 20px 20px;\n        background: url(https://hhcdn.ru/ichameleon/434686.png);\n        background-size: 370px;\n        background-repeat: no-repeat;\n        background-position: -18px 136px;\n    }\n\n    .tmpl_hh_header__logo {\n        width: 185px;\n    }\n\n    .tmpl_hh_header__slogan {\n        max-width: 299px;\n        width: auto;\n        margin: 30px 0 284px;\n    }\n\n    .tmpl_hh_header__text {\n        max-width: 280px;\n        width: auto;\n    }\n\n    .tmpl_hh_numbers {\n        gap: 8px;\n    }\n\n    .tmpl_hh_numbers__item {\n        font-size: 14px;\n        line-height: 19px;\n        padding: 15px 10px 13px 19px;\n    }\n\n    .tmpl_hh_numbers__item:nth-child(1) {\n        order: 1;\n    }\n\n    .tmpl_hh_numbers__item:nth-child(2) {\n        order: 4;\n    }\n\n    .tmpl_hh_numbers__item:nth-child(3) {\n        order: 2;\n    }\n\n    .tmpl_hh_numbers__item:nth-child(4) {\n        order: 3;\n    }\n\n    .tmpl_hh_numbers__item br {\n        display: none;\n    }\n\n    .tmpl_hh_numbers__bold {\n        height: 40px;\n        margin-bottom: 2px;\n    }\n\n    .tmpl_hh_about {\n        font-size: 14px;\n        line-height: 17px;\n        gap: 17px;\n    }\n\n    .tmpl_hh_footer {\n        margin: 30px 20px 10px;\n    }\n\n    .tmpl_hh_footer__items {\n        padding: 20px;\n        gap: 28px;\n    }\n\n    .tmpl_hh_footer__cup {\n        width: 191px;\n        right: -22px;\n        top: -31px;\n    }\n\n    .tmpl_hh_footer__cube {\n        display: none;\n    }\n\n    .tmpl_hh_footnote {\n        font-size: 12px;\n        line-height: 14px;\n        text-align: center;\n        padding: 10px 0 0;\n    }\n\n    .tmpl_hh_footer__item:nth-child(3) br {\n        display: none;\n    }\n\n}\n\n@media screen and (max-width: 360px) {\n    .tmpl_hh_footer__cup {\n        right: -33px;\n    }\n\n    .tmpl_hh_numbers {\n        grid-template-columns: 1fr;\n    }\n}\n\n</style>\n\n<div class=\"tmpl_hh_wrapper\">\n    <div class=\"tmpl_hh_header\">\n        <div class=\"tmpl_hh_header__logo\"><img src=\"https://hhcdn.ru/ichameleon/434680.svg\" alt=\"\"></div>\n        <div class=\"tmpl_hh_header__slogan\">\n            <picture>\n                <source srcset=\"https://hhcdn.ru/ichameleon/434909.svg\" media=\"(max-width: 699px)\"></source>\n                <img src=\"https://hhcdn.ru/ichameleon/434681.svg\" alt=\"\">\n            </picture>\n        </div>\n        <div class=\"tmpl_hh_header__text\">\n            <picture>\n                <source srcset=\"https://hhcdn.ru/ichameleon/434910.svg\" media=\"(max-width: 699px)\"></source>\n                <img src=\"https://hhcdn.ru/ichameleon/434679.svg\" alt=\"\">\n            </picture>\n        </div>\n        <div class=\"tmpl_hh_numbers\">\n            <div class=\"tmpl_hh_numbers__item\">\n                <div class=\"tmpl_hh_numbers__bold\"><img src=\"https://hhcdn.ru/ichameleon/434685.svg\" alt=\"\"></div>\n                <p>лет развиваем отрасль —<br> с 2009 года</p>\n            </div>\n            <div class=\"tmpl_hh_numbers__item\">\n                <div class=\"tmpl_hh_numbers__bold\"><img src=\"https://hhcdn.ru/ichameleon/434682.svg\" alt=\"\"></div>\n                <p>профессионалов<br> из разных сфер</p>\n            </div>\n            <div class=\"tmpl_hh_numbers__item\">\n                <div class=\"tmpl_hh_numbers__bold\"><img src=\"https://hhcdn.ru/ichameleon/434684.svg\" alt=\"\"></div>\n                <p>представительств<br> в большинстве регионов</p>\n            </div>\n            <div class=\"tmpl_hh_numbers__item\">\n                <div class=\"tmpl_hh_numbers__bold\"><img src=\"https://hhcdn.ru/ichameleon/434685.svg\" alt=\"\"></div>\n                <p>продуктов<br> для пользователей </p>\n            </div>\n        </div>\n        <div class=\"tmpl_hh_about\">\n            <p><b>Росэлторг</b> — электронная торговая площадка, на ресурсах которой осуществляют закупки государственные заказчики, госкомпании и коммерческие организации. Мы работаем во всех сегментах бизнеса и помогаем осуществить полный цикл электронной процедуры: от обучения старту работы на торгах до заключения договора.</p>\n            <p><b>Работа в Росэлторг</b> — это возможность принять участие в активном развитии и цифровизации отрасли электронной торговли, стать частью <nobr>IT-команды</nobr>, которая решает задачи стратегического уровня, и работает над развитием российского бизнеса.</p>\n        </div>\n    </div>\n    <div class=\"tmpl_hh_content\">\n        <p>Сейчас мы в поисках Frontend - разработчика для создания и развития нового масштабного saas-продукта. Если вы горите желанием создавать удобные и функциональные интерфейсы, Вам нравится решать сложные задачи и Вы стремитесь к постоянному развитию – эта вакансия для вас!</p> <p><strong>Наш стек: react, react-qurery, typescript, @mui, formik, yup, vite, storybook.</strong></p> <p><strong>Что нужно делать:</strong></p> <ul> <li>Разрабатывать новый и дорабатывать существующий функционал наших продуктов и сервисов;</li> <li>Взаимодействовать с продуктовой командой (аналитика, дизайн, разработка, тестирование).</li> </ul> <p><strong>Что мы ожидаем:</strong></p> <ul> <li>Прочный фундамент: глубокие знания HTML, CSS, JavaScript и TypeScript – без этого никуда :);</li> <li>Уверенное использование сторонних библиотек для решения различных задач;</li> <li>Интеграция без проблем: опыт работы с API сторонних сервисов (REST, GraphQL и др.);</li> <li>Свободное владение системой управления версиями Git;</li> <li>Архитектурное мышление: понимание принципов ООП, MVC и распространенных шаблонов проектирования;</li> <li>React – ваша стихия: отличное знание фреймворка React и его экосистемы (Redux/Context, Hooks, Router и др.);</li> <li>Адаптивность – ваше второе имя: навыки кроссбраузерной, кроссплатформенной и адаптивной вёрстки.</li> </ul> <p><em><strong>Мы предлагаем:</strong></em></p> <ul> <li>Стабильность. <em><strong>Аккредитованная IT-компания. </strong></em>Официальное оформление, белая зарплата и понятная система мотивации. Фиксированный оклад + бонусная система (гибкое обсуждение условий);</li> <li>Профессиональный рост. Есть внутренние программы развития, будет возможность участвовать в митапах и хакатонах, воркшопах. Сможешь создать свой продукт с поддержкой экспертов в акселераторе RLT.University;</li> <li>Поддержка команды. Работа с экспертами, разные задачи, быстрая и понятная обратная связь, готовность к новым решениям. Ретроспективы для контроля и улучшения рабочих процессов;</li> <li>Программа well-being для сотрудников (физическое, психологическое и финансовое здоровье, юридическая консультация, карьерный рост и многое другое);</li> <li>Комфортные условия. Выбирайте удобный для вас формат – офис, гибрид или полностью удаленная работа. Гибкое начало рабочего дня с 9 - 11 часов.</li> </ul> <p> </p></div>\n    <div class=\"tmpl_hh_footer\">\n        <div class=\"tmpl_hh_footer__items\">\n            <div class=\"tmpl_hh_footer__item\">\n                <p><b>IT-компания</b>с аккредитацией<br> Минцифры</p>\n            </div>\n            <div class=\"tmpl_hh_footer__item\">\n                <p><b>Лидер отрасли*</b>входим в <span>топ-3</span>** электронных<br> торговых площадок России</p>\n            </div>\n            <div class=\"tmpl_hh_footer__item\">\n                <p><b>Команда единомышленников</b>сообщества по интересам, спортивные команды,<br> корпоративное обучение</p>\n            </div>\n            <div class=\"tmpl_hh_footer__cup\"><img src=\"https://hhcdn.ru/ichameleon/434677.png\" alt=\"\"></div>\n            <div class=\"tmpl_hh_footer__cube\"><img src=\"https://hhcdn.ru/ichameleon/434676.png\" alt=\"\"></div>\n        </div>\n        <div class=\"tmpl_hh_footnote\">*по итогам III ежегодной конференции «Будущее рынка закупок в России: от шока к развитию», 2023 год<br>\n**по данным Raex, 2023 год<br>\nООО\"ЕДИНАЯ ЭЛЕКТРОННАЯ ТОРГОВАЯ ПЛОЩАДКА\" представляет бренд Росэлторг</div>\n    </div>\n</div>\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "HTML5"
+    },
+    {
+      "name": "CSS3"
+    },
+    {
+      "name": "Gitlab"
+    },
+    {
+      "name": "MVC"
+    },
+    {
+      "name": "React"
+    },
+    {
+      "name": "Адаптивная верстка"
+    },
+    {
+      "name": "formik"
+    },
+    {
+      "name": "TypeScript"
+    },
+    {
+      "name": "storybook"
+    },
+    {
+      "name": "yup"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "100424",
+    "name": "РОСЭЛТОРГ",
+    "url": "https://api.hh.ru/employers/100424",
+    "alternate_url": "https://hh.ru/employer/100424",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/718575.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3315408.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3315409.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=100424",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-29T17:07:44+0300",
+  "created_at": "2025-05-29T17:07:44+0300",
+  "initial_created_at": "2025-05-29T17:07:44+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121141880",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121141880",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

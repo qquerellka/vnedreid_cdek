@@ -1,0 +1,170 @@
+{
+  "id": "120538375",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Data Engineer стажер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 30000,
+    "to": 30000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 30000,
+    "to": 30000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "проспект Тореза",
+    "building": "118",
+    "lat": 60.026671,
+    "lng": 30.322543,
+    "description": null,
+    "raw": "Санкт-Петербург, проспект Тореза, 118",
+    "metro": {
+      "station_name": "Удельная",
+      "line_name": "Московско-Петроградская",
+      "station_id": "15.212",
+      "line_id": "15",
+      "lat": 60.016697,
+      "lng": 30.315607
+    },
+    "metro_stations": [
+      {
+        "station_name": "Удельная",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.212",
+        "line_id": "15",
+        "lat": 60.016697,
+        "lng": 30.315607
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Lasmart </strong>– <strong>аккредитованная IT компания-</strong>разработчик B2B решений и системный интегратор c 17-летним опытом.</p> <p>Мы разрабатываем решения в направлении бизнес-аналитики (BI) и управления полочным пространством для крупнейших ритейлеров России. Наши постоянные заказчики - Hoff, Л&#39;этуаль, Ривгош, Окей, 585, Подружка и другие.</p> <p> </p> <p>Расширяем нашу команду, набираем в отдел BI Data Engineer Trainee</p> <p>Мы предоставляем тебе возможность стартовать в IT и стать востребованным специалистом!</p> <p><strong>Что мы предлагаем:</strong></p> <ul> <li><strong>Практический опыт</strong> в реальных проектах.</li> <li><strong>Обучение </strong>и наставничество.</li> <li><strong>Гибкий график</strong> для совмещения с учебой.</li> <li><strong>Карьерный рост</strong> до Team Lead за 2-3 года.</li> <li><strong>Официальное оформление</strong> и стабильность.</li> <li><strong>ДМС </strong>после испытательного срока.</li> </ul> <p><strong>Обязанности:</strong></p> <ul> <li>Разработка хранилищ данных (SQL базы, запросы, процедуры).</li> <li>Создание OLAP-кубов и ETL-процедур.</li> <li>Техническая поддержка пользователей.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Знание SQL и принципов проектирования баз данных.</li> <li>Опыт работы с OLAP и Microsoft Excel.</li> <li>Грамотная речь и способность к самостоятельному обучению.</li> </ul> <p> </p> <p><strong>Условия и этапы:</strong></p> <p>1 Этап – Тестовое задание.</p> <p>2 Этап – Стажировка онлайн (оплачивается при успешном прохождении и дальнейшем трудоустройстве: 15 000 руб. за выполненное учебное задание).</p> <p>3 Этап – Трудоустройство и испытательный срок (3 месяца, но может быть сокращен при быстром и качественном выполнении всех заданий). Оклад 30 000 руб. на руки при полной ставке. Работа минимум 24 часа в неделю в офисе на Тореза 118.</p> <p>4 Этап – После испытательного срока оклад 40 000 руб. на руки. В дальнейшем возможен гибрид и повышение ЗП по результатам твоей работы.</p> <p> </p> <p><strong>Ждем ваших резюме!</strong></p> <p>Мы нацелены на долгосрочное сотрудничество, а не просто стажировку ;)</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "MS SQL"
+    },
+    {
+      "name": "SQL"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "165",
+      "name": "Дата-сайентист"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1302029",
+    "name": "Lasmart",
+    "url": "https://api.hh.ru/employers/1302029",
+    "alternate_url": "https://hh.ru/employer/1302029",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/44577.png",
+      "90": "https://img.hhcdn.ru/employer-logo/911732.png",
+      "240": "https://img.hhcdn.ru/employer-logo/911733.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1302029",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T14:29:37+0300",
+  "created_at": "2025-06-07T14:29:37+0300",
+  "initial_created_at": "2025-05-14T14:29:37+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120538375",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120538375",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    },
+    {
+      "id": "FOUR_ON_THREE_OFF",
+      "name": "4/3"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

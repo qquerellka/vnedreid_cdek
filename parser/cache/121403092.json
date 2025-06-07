@@ -1,0 +1,155 @@
+{
+  "id": "121403092",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Python-программист Middle",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": null,
+    "to": 250000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": null,
+    "to": 250000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Привет, коллега! Мы компания Авантелеком — российская аккредитованная IT- и телеком компания.</strong><br />Более 10 лет мы разрабатываем и внедряем эффективные решения для управления корпоративными коммуникациями с использованием искусственного интеллекта.<br /><br />Мы приглашаем в свою команду опытных специалистов на должность <strong>Python программист.</strong></p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Работа в крутой команде коллег;</li> <li>Разработка нового ПО для IP-телефонии (Python, Django, PostgreSQL);</li> <li>Техническое сопровождение проектов голосовых роботов (Python, Django, MySQL / PostgreSQL);</li> <li>Разработка голосовых моделей с использованием речевых технологий;</li> <li>Участие в разработке нового и правка текущего функционала в ПО для обработки телефонных вызовов (продукт компании собственной разработки для IP-телефонии): БД MySQL, backend на NodeJs, frontend на React.</li> </ul> <p><strong>Эта работа для тебя, если ты:</strong></p> <ul> <li>Имеешь опыт коммерческой разработки от 3-х лет;</li> <li>Уверенно занимаешься программированием на Python или других скриптовых языках с желанием мигрировать на Python;</li> <li>Имеешь навык написания чистых SQL-запросов (без использования ORM);</li> <li>Жаждешь решать сложные задачи;</li> <li>Умеешь эффективного взаимодействовать в команде;</li> <li>Работаешь на результат и соблюдаешь дедлайны.</li> </ul> <p><strong>Наш общий стек для backend-разработки:</strong></p> <ul> <li>Python</li> <li>FastAPI</li> <li>MySQL/PostgreSQL</li> <li>Django/ExpressJs</li> <li>Linux/GNU</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Официальное трудоустройство;</li> <li>Мы работаем в офисах компании в Москве, Новосибирске и Хабаровске, а также удаленно из разных городов России.</li> <li>Понятная система мотивации:</li> <li>График работы: 5/2, с гибким началом рабочего дня;</li> <li>Обучение и наставничество;</li> <li>Адаптация и плавный вход в должность;</li> </ul> <p><strong>О наших плюшках</strong>:</p> <ul> <li>Компенсация расходов на занятия спортом;</li> <li>Компенсация обучения и повышения квалификации;</li> <li>Все преимущество IT-аккредитованной компании;</li> <li>Драйвовые корпоративные мероприятия, подарки на День рождения и праздники от компании;</li> <li>Премирования в знаменательные даты;</li> <li>Адекватное лояльное руководство, которое заботится о своих сотрудниках;</li> <li>Комфортный офис в центре города по адресу: Димитрова 1;</li> <li>Отзывчивый коллектив, где всегда готовы поддержать и помочь</li> </ul> <p>P.S.: Хоть мы и постарались вместить в описание больше деталей, но нам все еще есть что рассказать. Будем рады познакомиться ;)</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Django Framework"
+    },
+    {
+      "name": "FastAPI"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "PyAudio"
+    },
+    {
+      "name": "YandexRecognaizer"
+    },
+    {
+      "name": "SIP"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2563282",
+    "name": "Авантелеком",
+    "url": "https://api.hh.ru/employers/2563282",
+    "alternate_url": "https://hh.ru/employer/2563282",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1107899.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6052201.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6052202.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2563282",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T07:31:56+0300",
+  "created_at": "2025-06-06T07:31:56+0300",
+  "initial_created_at": "2025-06-06T07:31:56+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121403092",
+  "has_test": true,
+  "test": {
+    "required": true
+  },
+  "alternate_url": "https://hh.ru/vacancy/121403092",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

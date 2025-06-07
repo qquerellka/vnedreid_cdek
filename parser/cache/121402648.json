@@ -1,0 +1,203 @@
+{
+  "id": "121402648",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Backend-разработчик Java/Kotlin",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 200000,
+    "to": 260000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 200000,
+    "to": 260000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "Ядринцевская улица",
+    "building": "68/1",
+    "lat": 55.033558,
+    "lng": 82.933042,
+    "description": null,
+    "raw": "Новосибирск, Ядринцевская улица, 68/1",
+    "metro": {
+      "station_name": "Маршала Покрышкина",
+      "line_name": "Дзержинская",
+      "station_id": "53.304",
+      "line_id": "53",
+      "lat": 55.043634,
+      "lng": 82.935566
+    },
+    "metro_stations": [
+      {
+        "station_name": "Маршала Покрышкина",
+        "line_name": "Дзержинская",
+        "station_id": "53.304",
+        "line_id": "53",
+        "lat": 55.043634,
+        "lng": 82.935566
+      },
+      {
+        "station_name": "Площадь Ленина",
+        "line_name": "Ленинская",
+        "station_id": "52.297",
+        "line_id": "52",
+        "lat": 55.029941,
+        "lng": 82.92069
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Привет!</p> <p><strong>IceRock</strong> — аутсорсинговая IT - компания, работающая с клиентами из России, США, Европы и др. Есть офис в Новосибирске, а также отделения в Армении и Казахстане. У нас разнообразные проекты, современные технологии, возможность изучить новый стек технологий.</p> <p>В настоящий момент мы ищем талантливого Backend-разработчика на расширение проектов.</p> <p> </p> <h2><strong>Задачи:</strong></h2> <ul> <li>Разработка и поддержка серверной части мобильных приложений на Java и Kotlin.</li> <li>Проектирование и реализация API для взаимодействия с клиентскими приложениями.</li> <li>Работа с базами данных Postgres.</li> <li>Оптимизация производительности и обеспечение безопасности серверных решений.</li> <li>Участие в проектировании архитектуры приложений и внедрение лучших практик разработки.</li> <li>Оценка трудозатрат в часах.</li> <li>Ревью кода.</li> <li>Участие в нескольких проектах параллельно ( разработка + доработка).</li> </ul> <p> </p> <h2><strong>Требования:</strong></h2> <ul> <li>Опыт коммерческой разработки от 3 лет.</li> <li>Уверенные знания Java и Kotlin.</li> <li>Опыт работы с базами данных Postgres и системами обмена сообщениями (RabbitMQ будет плюсом).</li> <li>Способность быстро обучаться и адаптироваться к новым технологиям.</li> <li>Опыт проектирования и разработки API.</li> <li>Понимание принципов реактивного программирования и работы с Ktor web server.</li> <li>Умение работать с исходным кодом, написанным другим разработчиком.</li> <li>Опыт работы в аутсорс компаниях станет преимуществом.</li> <li>Опыт разработки на ОС macOS или Linux.</li> </ul> <h2><strong>Что мы готовы предложить:</strong></h2> <ul> <li><strong>Условия. </strong>Формат работы на выбор:<strong> </strong>офис в центре Новосибирска, удалённо или гибрид.</li> <li><strong>Проекты. </strong>В портфеле компании более 100 реализованных проектов для клиентов из России, США, Европы.Мы работаем с клиентами из сфер Finance, Enterprise, Food, Healthcare, Transport, Manufactoring, Cryptocurrencies. На сайте компании есть раздел “Кейсы“, где можно ознакомиться с частью наших работ</li> <li><strong>Команда.</strong> Нас 30 человек, все эксперты в в своей области. Доброжелательный коллектив и теплые отношения внутри. Общаемся друг с другом на «ты»</li> <li><strong>Адаптация</strong>. Структурированный онбординг с поддержкой опытных наставников</li> <li><strong>Обучение.</strong> Предоставляем полное или частичное покрытие профильного обучения</li> <li><strong>Профессиональный рост</strong>. Возможность вырасти в TeamLead/TechLead</li> <li><strong>Экспертиза. </strong>Периодически выступаем на конференциях в качестве спикеров и оказываем нашим ребятам методическую и финансовую поддержку при подготовке к выступлениям</li> <li><strong>Коммуникация.</strong> Построили максимально прозрачные горизонтальные связи, чтобы быстрее договариваться и решать рабочие задачи. Регулярно обмениваемся обратной связью на 1-1 и командных созвонах. Еженедельная рассылка новостей, чтобы все были в курсе дел в компании</li> <li><strong>Приятные дополнения. </strong>Корпоративные скидки в медицинские лаборатории и на услуги психолога. Подарки на дни рождения и ламповые корпоративы</li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Java"
+    },
+    {
+      "name": "Kotlin"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "API"
+    },
+    {
+      "name": "RabbitMQ"
+    },
+    {
+      "name": "Spring Framework"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Код-ревью"
+    },
+    {
+      "name": "Atlassian Jira"
+    },
+    {
+      "name": "Atlassian Confluence"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11526304",
+    "name": "АЙСРОК ЛАБ",
+    "url": "https://api.hh.ru/employers/11526304",
+    "alternate_url": "https://hh.ru/employer/11526304",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1391824.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7187079.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7187080.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11526304",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T07:10:20+0300",
+  "created_at": "2025-06-06T07:10:20+0300",
+  "initial_created_at": "2025-06-06T07:10:20+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121402648",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121402648",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

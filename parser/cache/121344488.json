@@ -1,0 +1,155 @@
+{
+  "id": "121344488",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Тестировщик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Шарикоподшипниковская улица",
+    "building": "38",
+    "lat": 55.714805,
+    "lng": 37.677337,
+    "description": null,
+    "raw": "Москва, Шарикоподшипниковская улица, 38",
+    "metro": {
+      "station_name": "Дубровка",
+      "line_name": "Люблинско-Дмитровская",
+      "station_id": "10.39",
+      "line_id": "10",
+      "lat": 55.71807,
+      "lng": 37.676259
+    },
+    "metro_stations": [
+      {
+        "station_name": "Дубровка",
+        "line_name": "Люблинско-Дмитровская",
+        "station_id": "10.39",
+        "line_id": "10",
+        "lat": 55.71807,
+        "lng": 37.676259
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>У нас множество бизнес-направлений, мы постоянно растём, развиваемся и не боимся пробовать новое.</p> <p>Сейчас мы ищем тестировщика в команду Customer Excellence.<br />Целью работы тестировщика будет стабильно работающая система, удовлетворяющая пользователя.</p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Тестирование бизнес-логики;</li> <li>Написание test-cases;</li> <li>Проведение ручного тестирования решения, как по кейсам для ПСИ, так и шире;</li> <li>Подготовка чек-листов для тестирования интеграционных процессов, которые не ложатся в общие test-cases по процессам;</li> <li>Подготовка авто тестов;</li> <li>Коммуникация с бизнес – заказчиками.</li> </ul> <p><strong>Чего мы ждём от тебя:</strong></p> <ul> <li>Опыт manual testing;</li> <li>Опыт написание test-cases;</li> <li>Опыт работы с TFS/Redmine/Confluence;</li> <li>Базовое понимание SQL и клиент-сервера;</li> <li>Желание погружаться в бизнес-процессы и наращивать бизнес-экспертизу.</li> </ul> <p><strong>Прийти к успеху тебе поможет:</strong></p> <ul> <li>Опыт взаимодействия с командой в части выстраивания стратегии тестирования и тестовых кейсов;</li> <li>Опыт работы с технический документацией на английском языке;</li> <li>Базовые навыки программирования;</li> <li>Понимание процесса автоматизированного тестирования.</li> </ul> <p> </p> <p><strong>Условия:</strong></p> <ul> <li>Возможность работать из любой точки мира - можно работать как удаленно, так и из офиса или же выбрать гибридную модель с комфортным графиком;</li> <li>ДМС со стоматологией;</li> <li>10 дней полностью оплачиваемого больничного (+ 10 дней больничного без больничного лист;</li> <li>+ 3 дополнительных дня к отпуску;</li> <li>Прозрачная система финансовой мотивации;</li> <li>Возможность профессионального обучения и сертификации за счет компании;</li> <li>Отработанный вводный курс погружения с выделенным ментором</li> <li>Понятная матрица компетенций и прозрачная система роста\\повышения сотрудников;</li> <li>Уютный офис в 5 мин. от ст. метро Дубровка, а так же свободный релокейт между офисами компании – Москва, Санкт-Петербург, Ставрополь, Брянск, Омск.</li> </ul> <p><strong>Плюс</strong></p> <ul> <li>Мы все общаемся на «ты» - включая топ-менеджмент;</li> <li>Мы поддерживаем подход win/win - ты растешь и компания растет вместе с тобой;</li> <li>Мы предлагаем множество курсов по внутреннему развитию сотрудников (hard и soft skills);</li> <li>У тебя будет возможность сменить проект и/или развить экспертизу на альтернативной востребованной платформе/в другой области;</li> <li>В Navicon мнение каждого сотрудника значимо и непосредственно влияет на управление компанией;</li> <li>В нашей компании тебя ждет яркая корпоративная жизнь – от корпоративных quizzes до спортивных мероприятий;</li> <li>Каждое утро на нашей кухне тебя ждут вкусные завтраки.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Test case"
+    },
+    {
+      "name": "Регрессионное тестирование"
+    },
+    {
+      "name": "Тестирование пользовательского интерфейса"
+    },
+    {
+      "name": "Функциональное тестирование"
+    },
+    {
+      "name": "Нагрузочное тестирование"
+    },
+    {
+      "name": "Модульное тестирование"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3919",
+    "name": "Navicon",
+    "url": "https://api.hh.ru/employers/3919",
+    "alternate_url": "https://hh.ru/employer/3919",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/634014.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/2977208.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/2977209.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3919",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T15:09:22+0300",
+  "created_at": "2025-06-04T15:09:22+0300",
+  "initial_created_at": "2025-06-04T15:09:22+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121344488",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121344488",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

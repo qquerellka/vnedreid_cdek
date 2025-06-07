@@ -1,0 +1,185 @@
+{
+  "id": "121419458",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Full-stack разработчик (Javascript, Node, React) / Программист",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 40000,
+    "to": 80000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 40000,
+    "to": 80000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Агентство по веб-разработке ищет Full-stack разработчика на полную занятость, работа удаленная. Мы предлагаем работу над интересными и долгосрочными проектами.</p> <p><strong>Необходимые навыки:</strong></p> <p>- Знание HTML, CSS, Javascript;</p> <p>- Адаптивная кроссбраузерная верстка (Работаем в Figma, но бывают макеты в PSD);</p> <p>- Умение работать с Git;</p> <p>- Умение работать с современными инструментами разработки и сборки </p> <p>- Чтение документации</p> <p>- Умение работать с API </p> <p>- Проверять свой код на работоспособность перед сдачей</p> <p><strong>Работаем со следующими технологиями:</strong><span> </span></p> <p>Front-end:</p> <ul> <li> <p>основные фреймворки/библиотеки - React, Next.js, Tailwind, React Native</p> </li> <li> <p>некоторые вспомогательные библиотеки: shadcn, tanstack react query, react-hook-form, zod, zustand</p> </li> <li> <p>Язык программирования javascript/typescript</p> </li> </ul> <p>Back-end: <span> </span></p> <ul> <li> <p>Основной фреймворк - Nest.js</p> </li> <li> <p>БД - Mongodb и SQL (postgres, mysql, sqlite)</p> </li> <li> <p>Вспомогательные инструменты: docker, github actions<span> </span></p> </li> </ul> <p><strong>Плюсом будет:</strong><span> </span></p> <p>- Pixel Perfect верстка;</p> <p>- Навыки PHP;</p> <p>- Опыт работы с Wordpress;</p> <p>- Знание английского языка.</p> <p>Заработная плата обсуждается в зависимости от навыков и опыта отдельного кандидата. Мы готовы рассмотреть как соискателей с опытом работы, так и начинающих разработчиков.</p> <p>Личные качества:</p> <p>- Не бояться учиться и браться за незнакомые задачи;</p> <p>- Заявлять о проблемах и решать их;</p> <p>- Коммуникативные навыки.</p> <p>- Внимательность</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "HTTPS"
+    },
+    {
+      "name": "API"
+    },
+    {
+      "name": "JSON"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "JSON API"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "React Native"
+    },
+    {
+      "name": "TypeScript"
+    },
+    {
+      "name": "Верстка сайтов"
+    },
+    {
+      "name": "CSS3"
+    },
+    {
+      "name": "Алгоритмы и структуры данных"
+    },
+    {
+      "name": "Кроссбраузерная верстка"
+    },
+    {
+      "name": "React"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3018181",
+    "name": "ДИСЕНТ",
+    "url": "https://api.hh.ru/employers/3018181",
+    "alternate_url": "https://hh.ru/employer/3018181",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/471802.png",
+      "90": "https://img.hhcdn.ru/employer-logo/2329060.png",
+      "240": "https://img.hhcdn.ru/employer-logo/2329061.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3018181",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T13:11:09+0300",
+  "created_at": "2025-06-06T13:11:09+0300",
+  "initial_created_at": "2025-06-06T13:11:09+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121419458",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121419458",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "a1",
+        "name": "A1 — Начальный"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

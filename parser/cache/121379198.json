@@ -1,0 +1,115 @@
+{
+  "id": "121379198",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Manual QA Engineer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<strong>What to do:</strong> <ul> <li>Test analysis;</li> <li>Test design (test cases, checklists);</li> <li>Functional, non-functional and regression testing of desktop and web apps;</li> <li>Bug reporting</li> <li>Communication with project team.</li> </ul> <strong>What we expect:</strong> <ul> <li>At least 3 years of commercial experience in functional testing;</li> <li>Experience testing web and desktop applications;</li> <li>Experience in integration and system testing;</li> <li>Experience in testing frontend (JS/HTML/CSS - DevTools) and backend (REST API/gRPC - Postman, Swagger);</li> <li>Experience in reading app logs to detect and pinpoint issues;</li> <li>Knowledge and practical application of test design methodologies;</li> <li>Experience working with test management platforms like Allure TestOps, Qase, etc.</li> <li>Experience using task tracking tools like YouTrack, Trello, Asana, etc.;</li> <li>Strong analytical skills and attention to detail;</li> <li>Experience working on projects with minimal documentation;</li> <li>Ability to work without supervision, independently set goals and priorities in testing, assign tasks, promptly identify and articulate problems, and understand the importance of feedback;</li> </ul> <p><strong>Nice to have:</strong></p> <ul> <li>Knowledge of Python (basic level);</li> <li>Experience in writing API and UI autotests.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Work on cool projects on a global scale;</li> <li>The opportunity to grow in a team of strong professionals;</li> <li>Absence of formalism and bureaucracy;</li> <li>Mandatory operational feedback on results.​​​​​​​​​​​​​​</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4455963",
+    "name": "ICVR",
+    "url": "https://api.hh.ru/employers/4455963",
+    "alternate_url": "https://hh.ru/employer/4455963",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/708212.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3273964.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3273965.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4455963",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T12:29:32+0300",
+  "created_at": "2025-06-05T12:29:32+0300",
+  "initial_created_at": "2025-06-05T12:29:32+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121379198",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121379198",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

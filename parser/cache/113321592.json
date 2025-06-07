@@ -1,0 +1,146 @@
+{
+  "id": "113321592",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Java Backend разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "53",
+    "name": "Краснодар",
+    "url": "https://api.hh.ru/areas/53"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Краснодар",
+    "street": "микрорайон Центральный, Карасунская улица",
+    "building": "60",
+    "lat": 45.028738,
+    "lng": 38.968064,
+    "description": null,
+    "raw": "Краснодар, микрорайон Центральный, Карасунская улица, 60",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>WILIX</strong> — аккредитованная IT-компания. Мы создаем корпоративные системы, помогаем бизнесу оптимизировать процессы и добиваться роста.</p> <p>В связи с расширением мы ищем <strong>Java-разработчика</strong> для участия в интересных и разнообразных внешних проектах. Наши направления: ритейл, EdTech, банкинг и другие сферы.</p> <p><strong>Что нужно делать:</strong></p> <ul> <li>Участвовать в разработке и поддержке корпоративных решений.</li> <li>Внедрять современные технологии, развивая проекты клиентов.</li> <li>Работать в команде профессионалов, где ценятся опыт и свежие идеи.</li> </ul> <p><strong>Мы ждем от вас:</strong></p> <ul> <li>Опыт работы с <strong>Java</strong> (уровень Middle и выше).</li> <li>Знание <strong>Spring</strong> / <strong>Spring Boot</strong>, <strong>Hibernate</strong>.</li> <li>Понимание работы <strong>веб-серверов</strong> (Tomcat, Jetty, Undertow и др.).</li> <li>Навыки работы с системой контроля версий <strong>Git</strong>.</li> </ul> <p><strong>Приветствуются:</strong></p> <ul> <li>Опыт работы с <strong>GitFlow</strong>.</li> <li>Знание принципов построения <strong>RESTful API</strong>.</li> <li>Навыки работы с инструментами сборки (<strong>Gradle/Maven</strong>) и CI/CD (<strong>TeamCity/Jenkins</strong>).</li> <li>Знание очередей сообщений (<strong>Kafka/RabbitMQ</strong>).</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li><strong>Конкурентную зарплату</strong>, обсуждаемую по итогам собеседования.</li> <li>Возможность выбрать удобный формат работы: удаленно, гибридно или в офисе.</li> <li>Дружный, энергичный и открытый для обмена опытом коллектив.</li> <li>Развитие в профессиональном окружении с возможностями карьерного роста.</li> </ul> <p><strong>Как подать заявку:</strong></p> <p>Укажите в сопроводительном письме:</p> <ul> <li>Предпочитаемый формат работы (удаленно/гибрид/офис).</li> <li>Ваши финансовые ожидания.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Java"
+    },
+    {
+      "name": "Spring Framework"
+    },
+    {
+      "name": "Hibernate ORM"
+    },
+    {
+      "name": "REST"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1611696",
+    "name": "WILIX",
+    "url": "https://api.hh.ru/employers/1611696",
+    "alternate_url": "https://hh.ru/employer/1611696",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/666259.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3106168.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3106169.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1611696",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-23T10:07:42+0300",
+  "created_at": "2025-05-23T10:07:42+0300",
+  "initial_created_at": "2024-12-13T16:32:27+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=113321592",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/113321592",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

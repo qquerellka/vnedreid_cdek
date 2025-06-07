@@ -1,0 +1,143 @@
+{
+  "id": "120990373",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Аналитик СМИ и соцмедиа",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 60000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 60000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li> <p>Подготовка аналитических отчетов на регулярной основе: ежедневные, еженедельные, ежемесячные</p> </li> <li>Составление аналитических записок по социальным и политическим темам</li> <li>Сбор, анализ и систематизация медиа данных из социальных сетей и СМИ (поиск публикаций по необходимым темам)</li> <li>Анализ информационного поля в СМИ и социальных сетях</li> </ul> <strong>Требования:</strong> <ul> <li>Хороший уровень владения электронными таблицами: Excel, Google-таблицы</li> <li>Аналитическое мышление, умение работать с большими объемами данных</li> <li>Умение прогнозировать и разрабатывать рекомендации на основе проделанного анализа данных</li> <li>Опыт подготовки и построения отчетности</li> <li>Уверенное взаимодействие с медиа средой: социальными сетями и СМИ</li> <li>Опыт работы в Медиалогии, Brand Analytics будет плюсом</li> </ul> <strong>Условия:</strong> <ul> <li>Полный рабочий день, 5/2</li> <li>Работа в офисе, офис в центре города (площадь Ленина)</li> <li>Впоследствии возможен гибридный режим работы (удаленно/в офисе)</li> <li>Официальное трудоустройство согласно ТК РФ</li> <li>Заработная плата 2 раза в месяц</li> <li>Обучение сотрудников в рамках компании</li> <li>Есть возможность карьерного роста!</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Аналитическое мышление"
+    },
+    {
+      "name": "Работа в команде"
+    },
+    {
+      "name": "Работа с большим объемом информации"
+    },
+    {
+      "name": "Анализ данных"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "10",
+      "name": "Аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3745194",
+    "name": "Премьер",
+    "url": "https://api.hh.ru/employers/3745194",
+    "alternate_url": "https://hh.ru/employer/3745194",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/820934.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3724623.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3724624.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3745194",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-26T16:13:20+0300",
+  "created_at": "2025-05-26T16:13:20+0300",
+  "initial_created_at": "2025-05-26T16:13:20+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120990373",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120990373",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

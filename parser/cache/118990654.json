@@ -1,0 +1,184 @@
+{
+  "id": "118990654",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 300000,
+    "to": 600000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 300000,
+    "to": 600000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "18-я линия Васильевского острова",
+    "building": "29",
+    "lat": 59.937517,
+    "lng": 30.266137,
+    "description": null,
+    "raw": "Санкт-Петербург, 18-я линия Васильевского острова, 29",
+    "metro": {
+      "station_name": "Василеостровская",
+      "line_name": "Невско-Василеостровская",
+      "station_id": "16.228",
+      "line_id": "16",
+      "lat": 59.942577,
+      "lng": 30.278254
+    },
+    "metro_stations": [
+      {
+        "station_name": "Василеостровская",
+        "line_name": "Невско-Василеостровская",
+        "station_id": "16.228",
+        "line_id": "16",
+        "lat": 59.942577,
+        "lng": 30.278254
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Привет!</p> <p>Мы — группа разработчиков с обширным техническим багажом в самых разных областях. Мы используем нетипичный стек наших собственных технологий (в частности, пишем на собственном языке программирования MPL), развивая и улучшая их. Нам кажется, мы можем предложить очень много интересного людям, которые бы хотели прокачаться не только в написании прикладного кода, но и в создании разных сложных инструментов разработки.</p> <p>У нас скопилось много задач по написанию различных фреймворков и библиотек, поэтому мы решили создать отдельную вакансию на инфраструктурные активности. Ниже перечислены несколько самых приоритетных проектов.<br /><br />Мы бы хотели написать MPL плагин для VS Code (в очень далёкой перспективе вообще свою web-IDE), обёртку над Telegram-api для написания ботов, пакетный менеджер, фреймворк для тестов, ОРМ, фреймворк для написания фронтенда на MPL (мы хотим поресерчить, как в разных js фреймворках делается реактивность, и реализовать её на MPL, чтобы можно было прямо на нём создавать fullstack web-приложения через wasm). Кроме того, совсем недавно у нас появилась новая версия компилятора, позволяющая удобно его расширять, так что в ближайшее время мы нагенерируем задачи и на развитие самого языка тоже.</p> <p><strong>У нас вы получите возможность:</strong><br />- приобрести солидный и очень разносторонний опыт (в нашей компании нет людей, занимающихся &quot;перекладыванием json&#39;ов&quot;)<br />- работать в сильной и дружелюбной команде, большая часть всех когда-либо работавших в компании сотрудников — выпускники из мест вроде МКН, ФПМИ, мат-меха и мех-мата (кстати, если вы тоже оттуда, можете откликаться на вакансию даже без опыта работы)<br />- изучать новые технологии и расти, как специалист<br />- участвовать в полном цикле разработки и предлагать любые улучшения</p> <p><strong>Нам важно, чтобы вы:</strong><br />- имели твёрдые фундаментальные знания математики и информационных технологий<br />- имели реальный опыт программирования на любом объектно-ориентированном языке (не в учебных проектах)<br />- имели опыт работы с базами данных<br />- имели опыт работы с докером<br />- знали основные сетевые протоколы, писали сетевой код<br />- умели работать с системами контроля версий и ишью-трекерами</p> <p><strong>Мы обрадуемся, если:</strong><br />- у вас есть реальный опыт работы с языками, предоставляющими высокий уровень контроля над кодом (например, C++)<br />- у вас есть хотя бы небольшой опыт в проектировании архитектур распределенных систем<br />- вам интересно проявлять инициативу и брать на себя ответственность за отдельные продуктовые направления</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Базы данных"
+    },
+    {
+      "name": "Информационные технологии"
+    },
+    {
+      "name": "Сетевые протоколы"
+    },
+    {
+      "name": "Распределенные системы"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Git"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5122356",
+    "name": "ГравиЛинк",
+    "url": "https://api.hh.ru/employers/5122356",
+    "alternate_url": "https://hh.ru/employer/5122356",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/835607.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3783311.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3783312.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5122356",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T18:35:41+0300",
+  "created_at": "2025-06-05T18:35:41+0300",
+  "initial_created_at": "2025-03-31T18:35:38+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=118990654",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/118990654",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b2",
+        "name": "B2 — Средне-продвинутый"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

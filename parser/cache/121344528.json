@@ -1,0 +1,143 @@
+{
+  "id": "121344528",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Web-разработчик (Python)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "посёлок Новониколаевский",
+    "street": "Центральная улица",
+    "building": "2Г",
+    "lat": 55.899971,
+    "lng": 48.963393,
+    "description": null,
+    "raw": "посёлок Новониколаевский, Центральная улица, 2Г",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "flexible",
+    "name": "Гибкий график"
+  },
+  "employment": {
+    "id": "part",
+    "name": "Частичная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Компания ООО Авто Маркет - производитель запасных частей для грузового транспорта</strong> Наша команда нацелена на инновации и высокое качество продукции. Сейчас мы запускаем новый портал продаж автозапчастей и приглашаем в свою команду талантливого Web-разработчика на Python!</p> <p><strong>Что надо будет делать:</strong></p> <p>— Вести разработку современного портала продаж автозапчастей и участвовать в его развитии.</p> <p>— Разрабатывать и модифицировать новые фичи для внешних и внутренних веб-интерфейсов компании: дашборды, личные кабинеты, админ-панели и многое другое.</p> <p>— Обеспечивать надежность системы с помощью автоматизированных тестов, мониторинга и других практик.</p> <p>— Участвовать в планировании будущих возможностей системы и делиться своими идеями для улучшения работы портала. Ваше мнение будет услышано и учтено!</p> <p><strong>Минимальные требования к кандидатам:</strong></p> <p>— Уверенные навыки разработки на Python.</p> <p>— Опыт работы с базами данных SQL.</p> <p>— Понимание принципов работы HTTP: кто, кому и что передаёт.</p> <p>— Минимальные знания JavaScript и основ работы браузеров для отладки задач, связанных с интерфейсом.</p> <p>— Свободное владение *nix-системами, установка и настройка проекта не должны вызывать затруднений.</p> <p>— Опыт работы с системой контроля версий Git.</p> <p><strong>Что мы предлагаем:</strong></p> <p>— <strong>Конкурентоспособная заработная плата</strong> и возможность роста в компании.</p> <p>— <strong>Гибкий график работы</strong> и возможность удалённой работы.</p> <p>— Интересные и сложные задачи, где вы сможете применять свои знания и прокладывать новые горизонты.</p> <p>— Возможность работать в команде талантливых специалистов, где мы ценим креативность и инициативу.</p> <p>— Обучение и развитие: мы поддерживаем ваше стремление к новому и обучению.</p> <p>— Уютный офис, если вы предпочтёте работать на месте, с кофе и вкусными перекусами!</p> <p><strong>Как подать заявку:</strong></p> <p>Если вы готовы стать частью нашей команды и внести свой вклад в создание эффективного решения для нашей компании, мы будем рады получить ваш отклик!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Ответственность"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "REST API"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11063355",
+    "name": "Авто Маркет",
+    "url": "https://api.hh.ru/employers/11063355",
+    "alternate_url": "https://hh.ru/employer/11063355",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11063355",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T15:09:51+0300",
+  "created_at": "2025-06-07T15:09:51+0300",
+  "initial_created_at": "2025-06-04T15:09:51+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121344528",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121344528",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "PART",
+    "name": "Частичная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FLEXIBLE",
+      "name": "Свободный"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "FLEXIBLE",
+      "name": "По договорённости"
+    }
+  ]
+}

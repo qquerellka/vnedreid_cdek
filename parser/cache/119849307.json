@@ -1,0 +1,138 @@
+{
+  "id": "119849307",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Go-разработчик (gamedev)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>GamePush</strong> - стартап команда <strong>Shkulev Holding</strong> в области геймдева. </p> <p>Мы создаем сервис для разработчиков WEB и мобильных игр, предоставляющий единый бесплатный SDK, объединяющий в себе игровой бэкенд и SDK популярных площадок, с инструментами аналитики и дистрибуцией не только на рынок РФ, но и за его пределы.</p> <p><strong>Наш продукт - backend-сервис для разработчиков игр с набором инструментов для решения задач:</strong></p> <ul> <li>улучшения показателей вовлечения игроков (таблицы лидеров, достижения, социальные активности);</li> <li>ускорения дистрибуции игр на разные игровые платформы (единый SDK);</li> <li>организации бэкенда для интеграции с площадками, управления данными, LiveOps и хостинга.</li> </ul> <p><strong>Задачи backend-разработчика:</strong></p> <ul> <li>разработка serverless решений для разработчиков игр;</li> <li>разработка мультиплеерных решений;</li> <li>интеграция и работа с популярными игровыми площадками.</li> </ul> <p><strong>Технологический стек:</strong></p> <ul> <li>Go;</li> <li>GraphQL;</li> <li>MongoDB;</li> <li>Centrifugo (WebSocket / gRPC);</li> <li>Minio S3;</li> <li>Nginx;</li> <li>Docker.</li> </ul> <p><strong>Работа с нами - это:</strong></p> <ul> <li>официальное трудоустройство и белая ЗП;</li> <li>выбор формата работы: удаленка, офис или гибрид;</li> <li>современный офис с оборудованной кофейней и зонами отдыха, комфортное рабочее место;</li> <li>работа в стартапе с ресурсами и надежностью большого холдинга;</li> <li>яркая корпоративная жизнь и возможности для профессионального развития.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": {
+    "id": 42117,
+    "name": "Брендированный шаблон 12.08",
+    "top_picture": {
+      "height": 560,
+      "width": 1540,
+      "path": "https://img.hhcdn.ru/branding-pictures/3044076.jpeg",
+      "blurred_path": null
+    },
+    "bottom_picture": {
+      "height": 704,
+      "width": 1540,
+      "path": "https://img.hhcdn.ru/branding-pictures/2830410.jpeg",
+      "blurred_path": null
+    }
+  },
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3486",
+    "name": "Shkulev Holding",
+    "url": "https://api.hh.ru/employers/3486",
+    "alternate_url": "https://hh.ru/employer/3486",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1323865.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6915490.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6915491.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3486",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-20T09:30:22+0300",
+  "created_at": "2025-05-20T09:30:22+0300",
+  "initial_created_at": "2025-04-23T09:09:47+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119849307",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119849307",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

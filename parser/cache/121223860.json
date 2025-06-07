@@ -1,0 +1,152 @@
+{
+  "id": "121223860",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Fullstack разработчик Laravel/Vue",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 100000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>Разработка spa/ssr-приложения на фреймворке quasar.</li> <li>Разработка апи для приложения маркетплейса и админки Laravel</li> </ul> <strong>Требования:</strong> <ul> <li>php8,</li> <li>laravel,</li> <li>docker,</li> <li>swagger</li> <li>git</li> <li>vue.js</li> <li>quasar,</li> <li>vite,</li> <li>typeScript</li> <li>Laravel</li> </ul> <strong>Условия:</strong> <ul> <li>Удаленный формат работы</li> <li>Премиальная часть за выполнение плана</li> </ul> <p>В отклике укажите:<br />- ссылки на репозитории с проектами на ts<br />- ссылки на репозитории с проектами на php<br />- ссылки на сайты с вашей версткой<br />- ожидаемая заработная плата</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "Vue"
+    },
+    {
+      "name": "TypeScript"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Laravel"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1276002",
+    "name": "G2R Limited",
+    "url": "https://api.hh.ru/employers/1276002",
+    "alternate_url": "https://hh.ru/employer/1276002",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/830816.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3764147.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3764148.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1276002",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T13:43:41+0300",
+  "created_at": "2025-06-02T13:43:41+0300",
+  "initial_created_at": "2025-06-02T13:43:41+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121223860",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121223860",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

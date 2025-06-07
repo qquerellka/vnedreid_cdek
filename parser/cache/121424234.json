@@ -1,0 +1,165 @@
+{
+  "id": "121424234",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Android-разработчик (в офис)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Автомоторная улица",
+    "building": "2",
+    "lat": 55.847164,
+    "lng": 37.540272,
+    "description": null,
+    "raw": "Москва, Автомоторная улица, 2",
+    "metro": {
+      "station_name": "Лихоборы",
+      "line_name": "МЦК",
+      "station_id": "95.545",
+      "line_id": "95",
+      "lat": 55.847222,
+      "lng": 37.551389
+    },
+    "metro_stations": [
+      {
+        "station_name": "Лихоборы",
+        "line_name": "МЦК",
+        "station_id": "95.545",
+        "line_id": "95",
+        "lat": 55.847222,
+        "lng": 37.551389
+      },
+      {
+        "station_name": "Петровско-Разумовская",
+        "line_name": "Серпуховско-Тимирязевская",
+        "station_id": "9.108",
+        "line_id": "9",
+        "lat": 55.836565,
+        "lng": 37.575512
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Проект: </strong>разработка ConnectedCar экосистемы, обеспечивающей взаимодействие подключенных автомобилей с пользователями, сервисными центрами, провайдерами услуг и т.</p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Разрабатывать новые и развивать уже существующие продукты в существующем Android проекте</li> <li>Участвовать в разработке требований для новых продуктов и сервисов.</li> </ul> <strong>Наши ожидания от кандидата:</strong> <ul> <li>Опыт в продуктовой разработке от 1 года;</li> <li>Уверенные знания Kotlin, Jetpack Compose, Android SDK;</li> <li>Понимание и опыт работы с Hilt, Dagger2, Coroutines &amp; Flow;</li> <li>Понимание и умение применить MVI, Clean Architecture, SOLID;</li> <li>Умение работать в команде;</li> <li>Умение работать с системой контроля версий GIT.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт релизов и обновлений в Google Play;</li> <li>Опыт разработки кастомных UI;</li> <li>Опыт работы с push-нотификациями;</li> <li>Знание CI CD.</li> </ul> <strong>Что мы предлагаем:</strong> <ul> <li>Работа в стабильной организации с более чем 105-летней историей;</li> <li>Фиксированный оклад + квартальные и годовые премии;</li> <li>Ежемесячная доплата за питание и проезд</li> <li>График 5/2 с гибким началом рабочего дня: 8:00-17:00 /9:00-18:00/ 10:00-19:00;</li> <li>Уровень заработной платы обсуждается на собеседовании с руководителем;</li> <li>Работа в шаговой доступности от МЦК Лихоборы (<strong>РАБОТА В ОФИСЕ</strong>);</li> <li>Корпоративный транспорт от м. Петровско-Разумовская;</li> <li>Возможность профессионального и карьерного роста;</li> <li>Корпоративные скидки (сетевые фитнес-клубы для сотрудников и их семей – скидки до 50%; театры, музеи, выставки - скидки до 25%);</li> <li>Корпоративные мероприятия: тимбилдинги, праздники и подарки для сотрудников и их детей; бесплатные корпоративные секции (хор, шахматы, хоккей, настольный теннис, картинг, волейбол и др.).</li> </ul>",
+  "branded_description": "\n<style>\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;    \n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-weight: bold;\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n    line-height: inherit !important;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    margin: 0;\n    display: inline;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    z-index: 1;\n    font-family: Arial;    \n    font-size: 18px;\n    line-height: 22px;\n    letter-spacing: 0.02em;\n    color: #000;\n    overflow: hidden;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n}\n\n.tmpl_hh_content {   \n    position: relative;\n    padding: 40px 40px 28px;\n    z-index: 3;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    margin: 32px 0 16px;\n}\n\n.tmpl_hh_content b, \n.tmpl_hh_content strong {\n    display: inline-block;\n    font-size: 24px;    \n    font-weight: 400;\n    line-height: 29px;\n    letter-spacing: 0em;\n}\n\n.tmpl_hh_content i b, \n.tmpl_hh_content i strong,\n.tmpl_hh_content em b, \n.tmpl_hh_content em strong,\n.tmpl_hh_content b em, \n.tmpl_hh_content strong em,\n.tmpl_hh_content b i, \n.tmpl_hh_content strong i {\n    font-weight: 700;\n    font-style: normal;\n    font-size: 18px;\n    line-height: 22px;\n    letter-spacing: 0.02em;\n}\n\n.tmpl_hh_content ol, .tmpl_hh_content ul {\n    margin-left: 10px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 12px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 12px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;    \n}\n\n.tmpl_hh_content li:before {\n    position: absolute;\n    left: -10px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"\";    \n    width: 4px;\n    height: 4px;\n    top: 9px;\n    border-radius: 50%;\n    background: #000;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter) '.';\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n\n.tmpl_hh_flex {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n}\n\n.tmpl_hh_header {\n    position: relative;\n    background: #F4F4F4 url(https://hhcdn.ru/ichameleon/428814.jpg) no-repeat;\n    background-size: 100%;\n}\n\n.tmpl_hh_header__text {\n    font-size: 20px;\n    line-height: 24px;\n    letter-spacing: 0.02em;\n    padding: calc(42.2% + 30px) 15% 40px 40px;\n}\n\n.tmpl_hh_header__items {\n    justify-content: space-between;\n    display: flex;\n    font-size: 14px;\n    font-weight: 500;\n    line-height: 15.78px;\n    text-align: center;\n    padding: 0 40px 60px;\n    letter-spacing: 0;\n}\n\n.tmpl_hh_header__item {\n    min-width: 84px;\n}\n\n.tmpl_hh_header__icon {\n    height: 50px;\n    width: 50px;\n    margin: 0 auto 12px;\n}\n\n.tmpl_hh_header__icon img {\n    width: auto;\n    height: 100%;\n}\n\n.tmpl_hh_offer {\n    background-color: #F4F4F4;\n    padding: 30px 40px 50px;\n    color: #2F3233;\n    background-image: url(https://hhcdn.ru/ichameleon/428636.svg), url(https://hhcdn.ru/ichameleon/428639.svg);\n    background-position: 0 58%, 100% 58%;\n    background-repeat: no-repeat;\n}\n\np.tmpl_hh_offer__title {\n    font-size: 40px;\n    font-weight: 700;\n    line-height: 46px;\n    text-align: center;\n    text-transform: uppercase;\n    letter-spacing: 0;\n    margin-bottom: 30px;\n}\n\n.tmpl_hh_offer__items {\n    display: grid;\n    grid-template-columns: repeat(3, 1fr);\n    gap: 12px;\n}\n\n.tmpl_hh_offer__item {\n    font-weight: 500;\n    background: #FFFFFF;\n    font-size: 15px;\n    line-height: 17px;\n    box-sizing: border-box;\n    padding: 12px;\n    letter-spacing: 0;\n    min-height: 134px;\n}\n\n.tmpl_hh_offer__icon {\n    width: 30px;\n    margin-bottom: 12px;\n}\n\n\n@media screen and (max-width: 1019px) {\n\n}\n\n@media screen and (max-width: 699px) {\n    .tmpl_hh_wrapper {\n        width: auto;\n        margin: 0 -15px;\n        font-size: 14px;\n        line-height: 17px;\n        letter-spacing: 0.02em;\n    }\n\n    .tmpl_hh_content {   \n        padding: 32px 20px 24px;\n    }\n\n    .tmpl_hh_content p,\n    .tmpl_hh_content b,\n    .tmpl_hh_content strong {\n        margin: 24px 0 12px;\n    }\n\n    .tmpl_hh_content i b, \n    .tmpl_hh_content i strong,\n    .tmpl_hh_content em b, \n    .tmpl_hh_content em strong,\n    .tmpl_hh_content b em, \n    .tmpl_hh_content strong em,\n    .tmpl_hh_content b i, \n    .tmpl_hh_content strong i {\n        font-size: 14px;\n        line-height: 17px;\n        letter-spacing: 0.02em;\n    }\n\n    .tmpl_hh_content li {\n        margin-bottom: 8px;\n    }\n\n    .tmpl_hh_content ul ul,\n    .tmpl_hh_content ul ol,\n    .tmpl_hh_content ol ol,\n    .tmpl_hh_content ol ul {\n        margin-top: 8px;\n    }\n\n    .tmpl_hh_content ul>li:before {\n        top: 7px;\n    }\n\n    .tmpl_hh_header {\n        background: #F4F4F4 url(https://hhcdn.ru/ichameleon/428813.jpg) no-repeat;\n        background-size: 100%;\n    }\n\n    .tmpl_hh_header__text {\n        font-size: 16px;\n        line-height: 19px;\n        letter-spacing: 0.02em;\n        padding: calc(46.2% + 20px) 20px 29px;\n        text-align: center;\n    }\n\n    .tmpl_hh_header__items {\n        display: grid;\n        padding: 0 40px 40px;\n        gap: 22px;\n        grid-template-columns: repeat(3, 1fr);\n    }\n\n    .tmpl_hh_header__item {\n        min-width: 84px;\n    }\n\n    .tmpl_hh_offer {\n        padding: 30px 20px 40px;\n        background-image: url(https://hhcdn.ru/ichameleon/428823.svg), url(https://hhcdn.ru/ichameleon/428822.svg);\n        background-position: 0 87%, 100% 87%;\n        background-repeat: no-repeat;\n        background-size: auto 90.5%, auto 90.5%;\n    }\n\n    p.tmpl_hh_offer__title {\n        font-size: 24px;\n        line-height: 28px;\n        margin-bottom: 30px;\n    }\n\n    .tmpl_hh_offer__items {\n        display: grid;\n        grid-template-columns: repeat(2, 1fr);\n        gap: 11px;\n    }\n\n    .tmpl_hh_offer__item {\n        font-weight: 500;\n        font-size: 14px;\n        line-height: 16px;\n        padding: 10px;\n        letter-spacing: 0;\n        min-height: 0;\n    }\n\n    .tmpl_hh_offer__icon {\n        margin-bottom: 12px;\n    }\n\n    .tmpl_hh_offer__item br {\n        display: none;\n    }\n}\n\n@media screen and (max-width: 370px) {\n    .tmpl_hh_offer {\n        background-position: -8% 87%, 108% 87%;\n        padding: 30px 10px 40px;\n    }\n\n    .tmpl_hh_header__items {\n        grid-template-columns: repeat(2, 1fr);\n    }\n}\n\n</style>\n\n\n<div class=\"tmpl_hh_wrapper\">\n    <div class=\"tmpl_hh_header\">\n        <div class=\"tmpl_hh_header__text\">\n            <p>НАМИ — это ведущий научный и инжиниринговый центр транспортной индустрии.</p>  \n            <p>Мы реализуем полный цикл создания транспорта: от идеи до готового продукта.</p>\n        </div>\n        <div class=\"tmpl_hh_header__items\">\n            <div class=\"tmpl_hh_header__item\">\n                <div class=\"tmpl_hh_header__icon\"><img src=\"https://hhcdn.ru/ichameleon/428643.svg\" alt=\"\"></div>\n                <p>наука</p>\n            </div>\n            <div class=\"tmpl_hh_header__item\">\n                <div class=\"tmpl_hh_header__icon\"><img src=\"https://hhcdn.ru/ichameleon/428642.svg\" alt=\"\"></div>\n                <p>инжиниринг</p>\n            </div>\n            <div class=\"tmpl_hh_header__item\">\n                <div class=\"tmpl_hh_header__icon\"><img src=\"https://hhcdn.ru/ichameleon/428641.svg\" alt=\"\"></div>\n                <p>дизайн</p>\n            </div>\n            <div class=\"tmpl_hh_header__item\">\n                <div class=\"tmpl_hh_header__icon\"><img src=\"https://hhcdn.ru/ichameleon/428645.svg\" alt=\"\"></div>\n                <p>производство</p>\n            </div>\n            <div class=\"tmpl_hh_header__item\">\n                <div class=\"tmpl_hh_header__icon\"><img src=\"https://hhcdn.ru/ichameleon/428640.svg\" alt=\"\"></div>\n                <p>испытания</p>\n            </div>\n            <div class=\"tmpl_hh_header__item\">\n                <div class=\"tmpl_hh_header__icon\"><img src=\"https://hhcdn.ru/ichameleon/428644.svg\" alt=\"\"></div>\n                <p>экспертиза</p>\n            </div>\n        </div>\n    </div>\n    <div class=\"tmpl_hh_content\">\n        <p><strong>Проект: </strong>разработка ConnectedCar экосистемы, обеспечивающей взаимодействие подключенных автомобилей с пользователями, сервисными центрами, провайдерами услуг и т.</p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Разрабатывать новые и развивать уже существующие продукты в существующем Android проекте</li> <li>Участвовать в разработке требований для новых продуктов и сервисов.</li> </ul> <strong>Наши ожидания от кандидата:</strong> <ul> <li>Опыт в продуктовой разработке от 1 года;</li> <li>Уверенные знания Kotlin, Jetpack Compose, Android SDK;</li> <li>Понимание и опыт работы с Hilt, Dagger2, Coroutines &amp; Flow;</li> <li>Понимание и умение применить MVI, Clean Architecture, SOLID;</li> <li>Умение работать в команде;</li> <li>Умение работать с системой контроля версий GIT.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт релизов и обновлений в Google Play;</li> <li>Опыт разработки кастомных UI;</li> <li>Опыт работы с push-нотификациями;</li> <li>Знание CI CD.</li> </ul> <strong>Что мы предлагаем:</strong> <ul> <li>Работа в стабильной организации с более чем 105-летней историей;</li> <li>Фиксированный оклад + квартальные и годовые премии;</li> <li>Ежемесячная доплата за питание и проезд</li> <li>График 5/2 с гибким началом рабочего дня: 8:00-17:00 /9:00-18:00/ 10:00-19:00;</li> <li>Уровень заработной платы обсуждается на собеседовании с руководителем;</li> <li>Работа в шаговой доступности от МЦК Лихоборы (<strong>РАБОТА В ОФИСЕ</strong>);</li> <li>Корпоративный транспорт от м. Петровско-Разумовская;</li> <li>Возможность профессионального и карьерного роста;</li> <li>Корпоративные скидки (сетевые фитнес-клубы для сотрудников и их семей – скидки до 50%; театры, музеи, выставки - скидки до 25%);</li> <li>Корпоративные мероприятия: тимбилдинги, праздники и подарки для сотрудников и их детей; бесплатные корпоративные секции (хор, шахматы, хоккей, настольный теннис, картинг, волейбол и др.).</li> </ul></div>\n    <div class=\"tmpl_hh_offer\">\n        <p class=\"tmpl_hh_offer__title\">Нами ждёт тебя!</p>\n        <div class=\"tmpl_hh_offer__items\">\n            <div class=\"tmpl_hh_offer__item\">\n                <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/428635.svg\" alt=\"\"></div>\n                <p>Трудоустройство<br> по ТК РФ</p>\n            </div>\n            <div class=\"tmpl_hh_offer__item\">\n                <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/428637.svg\" alt=\"\"></div>\n                <p>Прозрачная система стимулирования и оплаты труда</p>\n            </div>\n            <div class=\"tmpl_hh_offer__item\">\n                <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/428634.svg\" alt=\"\"></div>\n                <p>Профессиональный и карьерный рост, возможность заниматься наукой</p>\n            </div>\n            <div class=\"tmpl_hh_offer__item\">\n                <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/428632.svg\" alt=\"\"></div>\n                <p>Система адаптации и наставничества</p>\n            </div>\n            <div class=\"tmpl_hh_offer__item\">\n                <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/428633.svg\" alt=\"\"></div>\n                <p>Корпоративные<br> скидки (театры,<br> музеи, спортзал)</p>\n            </div>\n            <div class=\"tmpl_hh_offer__item\">\n                <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/428638.svg\" alt=\"\"></div>\n                <p>Корпоративные мероприятия, праздники,<br> активности</p>\n            </div> \n        </div>\n    </div>\n</div>\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Kotlin"
+    },
+    {
+      "name": "Android SDK"
+    },
+    {
+      "name": "Android"
+    },
+    {
+      "name": "Jetpack Compose"
+    },
+    {
+      "name": "Coroutines"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "173163",
+    "name": "НАМИ, ФГУП",
+    "url": "https://api.hh.ru/employers/173163",
+    "alternate_url": "https://hh.ru/employer/173163",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/929805.png",
+      "90": "https://img.hhcdn.ru/employer-logo/4159780.png",
+      "240": "https://img.hhcdn.ru/employer-logo/4159781.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=173163",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T14:50:17+0300",
+  "created_at": "2025-06-06T14:50:17+0300",
+  "initial_created_at": "2025-06-06T14:50:17+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121424234",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121424234",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

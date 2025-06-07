@@ -1,0 +1,173 @@
+{
+  "id": "120842287",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Программист 1C",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "72",
+    "name": "Пермь",
+    "url": "https://api.hh.ru/areas/72"
+  },
+  "salary": {
+    "from": 150000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 150000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Пермь",
+    "street": "улица Луначарского",
+    "building": "73",
+    "lat": 58.007337,
+    "lng": 56.240951,
+    "description": null,
+    "raw": "Пермь, улица Луначарского, 73",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Мы, аккредитованная IT-компания</strong> “OXTRON<strong>”</strong><strong>, </strong>официальные партнеры 1С.</p> <p>Являемся лидером в области автоматизации и внедрения программных продуктов на базе 1С на производственных предприятиях: оборонной, химической, нефтегазовой и легкой промышленности.</p> <p>Внедряем проектные, стандартные и собственные отраслевые решения.</p> <p><strong>Наша Команда</strong> — это программисты 1С, руководители проектов и консультанты с экспертизой в регламентированном, управленческом учете, бюджетировании, в процессах производства, закупок и ценообразовании.</p> <p>Работая с нами, вы прокачаете навыки разработчика.</p> <p>В связи с расширением портфеля контрактов приглашаем программиста 1С.</p> <p><strong>ВАМ ПРЕДСТОИТ: </strong></p> <ul> <li>участвовать в проектах по внедрению автоматизированных систем на базе 1С (ERP, УПП, БП корп; кол-во пользователей от 100 до 1 500). Техническое задание готовят эксперты отдела консалтинга/руководители проектов.</li> <li>разрабатывать/дорабатывать/настраивать/адаптировать конфигурации в соответствии с техническим заданием</li> <li>тестировать разрабатываемое ПО</li> <li>участвовать в подготовке технической документации.</li> </ul> <strong>МЫ ИЩЕМ ПРОГРАММИСТА, КОТОРЫЙ:</strong> <ul> <li>самостоятелен, ответственен, способен работать в команде</li> <li>разрабатывает на платформе 1С:Предприятие 8 от 1 года<br /><strong>ИМЕЕТ ОПЫТ:</strong></li> <li>работы с управляемыми формами</li> <li>работы с СКД</li> <li>работы с Конвертацией данных</li> <li>разработки в соответствии с системой стандартов и методик разработки 1С</li> <li>групповой разработки с использованием хранилища или EDT<br /><strong>ЖЕЛАТЕЛЬНО, но не обязательно: </strong></li> <li> <p>опыт работы с расширениями конфигураций</p> </li> <li> <p>знание БСП</p> </li> <li> <p>навыки интеграций различных систем</p> </li> <li> <p>опыт доработок типовых решений 1С или разработки конфигурации &quot;с нуля&quot;.</p> </li> <li> <p>наличие сертификатов &quot;1С:Профессионал&quot; по платформе</p> </li> </ul> <p><strong>МЫ ПРЕДЛАГАЕМ: </strong></p> <ul> <li>уникальные, масштабные проекты с нуля</li> <li>возможность профессионально вырасти на проектах ERP</li> <li>полностью белую зарплату с выплатой 2 раза в месяц, индексируемую в соответствии с рынком труда</li> <li>доплаты и надбавки за наличие сертификатов &quot;1С:Специалист&quot; по платформе</li> <li>трудоустройство в аккредитованную IT-компанию с 1-ого рабочего дня</li> <li>любой формат работы: удаленный, офис, гибрид</li> <li>обучение и сертификацию за счет компании</li> <li>наставничество со стороны коллег и поддержка руководителя с первого дня работы</li> <li>уютный и современный офис с зонами отдыха, в центре г.Пермь</li> <li>полис ДМС</li> <li>уроки английского и массаж за счет компании.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "1С: Предприятие 8"
+    },
+    {
+      "name": "ERP"
+    },
+    {
+      "name": "1С: ERP"
+    },
+    {
+      "name": "Создание конфигурации 1С"
+    },
+    {
+      "name": "1C: Предприятие"
+    },
+    {
+      "name": "ERP-системы на базе 1С"
+    },
+    {
+      "name": "Умение работать в условиях многозадачности"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1521497",
+    "name": "Oxtron",
+    "url": "https://api.hh.ru/employers/1521497",
+    "alternate_url": "https://hh.ru/employer/1521497",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/350061.png",
+      "90": "https://img.hhcdn.ru/employer-logo/1842510.png",
+      "240": "https://img.hhcdn.ru/employer-logo/1842511.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1521497",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-22T07:34:39+0300",
+  "created_at": "2025-05-22T07:34:39+0300",
+  "initial_created_at": "2025-05-22T07:34:39+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120842287",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120842287",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

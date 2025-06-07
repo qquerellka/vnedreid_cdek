@@ -1,0 +1,119 @@
+{
+  "id": "121431826",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Middle QA Manual - remote",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": false,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Tiger.com — это международная компания, которая с 2015 года разрабатывает полезные программы и сервисы для трейдеров и инвесторов любого уровня: от начинающих трейдеров до виртуозов финансовых рынков. На данный данный момент продуктами Tiger.com пользуются уже более 200 000 пользователей из разных стран.</p> <p>Сейчас мы расширяем команду тестирования наших терминалов для Windows и MacOS платформ и находимся в поиске Middle QA Manual.</p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Проведением ручного функционального тестирования веб-приложения, десктопного клиента (Mac/Windows) и REST/WebSocket API.</li> <li>Разработкой и поддержкой тестовой документации (тест-кейсы, чек-листы, сценарии, отчеты).</li> <li>Тестированием производительности и стабильности приложения, выявлением узких мест (например, задержки в реальном времени, проблемы масштабируемости).</li> <li>Проверкой корректности финансовых расчетов (цены, объемы, маржинальность) и интеграций с биржевыми API.</li> <li>Тестированием кросс-платформенной совместимости (Mac/Windows) и адаптивности интерфейса.</li> <li>Документированием результатов тестирования, включая воспроизводимые шаги для багов и рекомендации по улучшению.</li> <li>Взаимодействием с разработчиками и аналитиками для уточнения требований и устранения дефектов.</li> <li>Участием в регрессионном тестировании перед релизом новых версий платформы.</li> </ul> <p><strong>Мы ожидаем:</strong></p> <ul> <li>Опыт ручного тестирования ПО от 2 лет, предпочтительно в финтех или высоконагруженных системах.</li> <li>Опыт работы в трейдинге и торговле на финансовых рынках: личный или профессиональный опыт трейдинга, включая работу с торговыми платформами (например, MetaTrader, TradingView, Binance, Kraken), знание рыночных механик (спот, маржинальная торговля, фьючерсы, опционы) и умение анализировать торговые сценарии (ордера, ликвидность, волатильность). Это позволит эффективно тестировать функционал терминала с учетом реальных пользовательских сценариев и ожиданий трейдеров.</li> <li>Навыки создания тестовой документации (тест-кейсы, чек-листы, сценарии, отчеты о тестировании).</li> <li>Глубокое понимание теории тестирования (виды тестирования, методологии, жизненный цикл дефектов).</li> <li>Опыт работы с баг-трекерами (например, Jira, YouTrack) и системами управления тест-кейсами (например, TestRail, Zephyr).</li> <li>Уверенные знания JSON, XML, REST API, WebSocket; опыт работы с инструментами тестирования API (Postman, Insomnia, Swagger).</li> <li>Опыт написания SQL-запросов для проверки данных (например, валидация транзакций, отчетов).</li> <li>Понимание жизненного цикла разработки ПО (SDLC) и процессов Agile/Scrum.</li> <li>Знание основ тестирования десктопных приложений (Mac/Windows), включая проверку UI/UX и кросс-платформенной совместимости.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Знание основ автоматизированного тестирования (например, Selenium, Cypress, Playwright) и написания автотестов.</li> <li>Опыт проведения нагрузочного, стресс- или отказоустойчивого тестирования (JMeter, Locust, Gatling).</li> <li>Знание инструментов мониторинга производительности (Grafana, New Relic).</li> <li>Опыт тестирования безопасности (например, OWASP Top 10, проверка уязвимостей авторизации/аутентификации).</li> <li>Понимание финансовых протоколов (FIX, FAST) или работы с данными в реальном времени (WebSocket, streaming).</li> <li>Опыт работы с CI/CD-инструментами (Jenkins, GitLab CI) для интеграции тестирования в процесс разработки.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Удалённая работа с гибким графиком: начало рабочего дня — до 11:00 по МСК.</li> <li>Оформление по контракту в ОАЭ с выплатой заработной платы в валюте.</li> <li>Доступ к корпоративным программам: онлайн-сессии с психологом «Ясно», программа корпоративных скидок и другие бонусы.</li> <li>Работа в международной команде профессионалов, ориентированных на высокое качество продукта и постоянное развитие.</li> </ul> <p><strong><em>В сопроводительном письме напишите, пожалуйста:<br />1. Работали ли вы с торговыми платформами или аналитическими инструментами для трейдинга?<br />2. Ваши финансовые ожидания</em></strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Ручное тестирование"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5524188",
+    "name": "Тайгер Трейд",
+    "url": "https://api.hh.ru/employers/5524188",
+    "alternate_url": "https://hh.ru/employer/5524188",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1398526.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7213875.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7213876.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5524188",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T17:42:12+0300",
+  "created_at": "2025-06-06T17:42:12+0300",
+  "initial_created_at": "2025-06-06T17:42:12+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121431826",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121431826",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,141 @@
+{
+  "id": "119306302",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Java-разработчик (продукт Korona)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы ищем коллег, которые вместе с нами будут развивать <strong>онлайн-сервис денежных переводов и займов. Korona </strong>позволяет переводить деньги в разных странах без заведения счета в банке, также получать займы, в том числе нерезидентам РФ, брать машину в лизинг нерезидентам и физическим лицам. Благодаря нашему сервису люди могут поддержать своих близких в любой точке мира, получать различные финансовые услуги.</p> <p> </p> <div><strong>Стэк:</strong></div> <p>JDK 17, Spring Boot, Spring, JDBI, JPA (Hibernate), MapStruct, OpenAPI</p> <p><strong>Инфраструктура:</strong> GitLab, Jenkins, Bitbucket, Gradle, Docker, Kubernetes, Kibana, Prometheus, Grafana, Sonar, Helm, Flyway</p> <p><strong>Брокеры сообщений:</strong> RabbitMQ, Kafka</p> <p><strong>Хранилища:</strong> PostgreSQL, MongoDB, Cassandra, Elasticsearch, Redis</p> <p><strong>Тесты:</strong> JUnit 5, Mockito, Testcontainers, WireMock</p> <p> </p> <p> </p> <div><strong>Чем предстоит заниматься:</strong></div> <div> </div> <ul> <li>развивать сервисы и создавать новые по мере необходимости</li> <li>​​​​​участвовать в ревью кода других разработчиков</li> <li>предлагать и внедрять решения для улучшения продукта</li> <li>принимать активное участие в технологическом и архитектурном развитии продукта</li> <li>писать и поддерживать unit-тесты и интеграционные автотесты</li> <li>поддерживать техническую документацию</li> </ul> <p> </p> <p> </p> <div><strong>Что мы ожидаем от кандидата:</strong></div> <div> </div> <ul> <li>опыт разработки приложений на языке Java от 3-х лет</li> <li>уверенные глубокие знания Java Core, Spring Framework</li> <li>знания основных алгоритмов и структур данных</li> <li>опыт написания и оптимизации SQL запросов</li> <li>опыт работы с микросервисами</li> </ul> <p> </p> <p> </p> <div><strong>Что мы предоставляем:</strong></div> <div> </div> <ul> <li>продуктовая разработка в сильной команде</li> <li>понятная траектория роста (performance review, карьерные консультации, индивидуальная карта развития и т.д.)</li> <li>обучение и развитие за счёт ресурсов компании (Учебный центр, корпоративная библиотека, оплата внешнего обучения)</li> <li>социальный пакет (ДМС с первого рабочего дня, скидки от партнёров, детская программа и т.д.)</li> <li>насыщенная корпоративная жизнь (радио, подкасты, кибертурнир, собственные мероприятия и участие в крупных событиях отрасли)</li> <li>возможность быть наставником, автором корпоративного блога, спикером – каждый выбирает то, что подходит именно ему</li> <li>официальное трудоустройство с первого дня, полностью белая зарплата</li> <li>удобный формат работы (гибрид или удаленная работа)</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Java"
+    },
+    {
+      "name": "Spring Framework"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Apache Kafka"
+    },
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "RabbitMQ"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11810694",
+    "name": "Koronatech",
+    "url": "https://api.hh.ru/employers/11810694",
+    "alternate_url": "https://hh.ru/employer/11810694",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1394139.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7196339.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7196340.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11810694",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T06:20:42+0300",
+  "created_at": "2025-06-04T06:20:42+0300",
+  "initial_created_at": "2025-04-09T06:18:34+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119306302",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119306302",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

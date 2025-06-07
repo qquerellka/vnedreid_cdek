@@ -1,0 +1,115 @@
+{
+  "id": "121411231",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "QA-инженер/Manual Middle/Тестировщик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Сейчас мы находимся в поиске <strong>тестировщика</strong> с желанием развиваться в автотестировании, которому будет интересно тестировать приложения со сложной логикой, простым дизайном и хорошим юзабилити.</p> <p>Наша продуктовая компания занимается разработкой товароучетного сервиса “Управление ассортиментом” для малого бизнеса. <strong>Занимаем 1-е место</strong> в своей нише и обслуживаем более 150 тысяч пользователей, активно развиваем сервис.</p> <p><strong>Над чем нужно работать: </strong>тестирование основного продукта - SPA со стеком React.js, Redux Toolkit, Ant Design, TypeScript, AG-Grid.</p> <p>В основном приложении есть немного Legacy - большие классовые компоненты без TS, а также Redux-Saga (меняем на Redux Toolkit), но выделяем время на рефакторинг. Новое пишем только на TS и hook&#39;ах.</p> <p>На фронтендах много логики, часто это большие списки и таблицы, которые надо быстро загружать, фильтровать, отображать, производить поиск. При этом на front-end мало дизайна - в 99% случаев это готовые компоненты библиотек.</p> <p>Процесс строится на Kaiten, Github, Scrum, код-ревью, общении в Телеграм и Google Meet. Есть возможность влиять на результат и получать быструю обратную связь, в том числе от пользователей.</p> <p><strong>У вас будет:</strong></p> <ul> <li> <p>Оформление по ТК РФ в аккредитованную ИТ-компанию;</p> </li> <li> <p>Удаленный формат работы с гибким началом рабочего дня;</p> </li> <li> <p>Полное отсутствие бюрократии;</p> </li> <li> <p>Подарки, онлайн тренировки и йога.</p> </li> </ul> <p><strong>Вам предстоит:</strong></p> <ul> <li> <p>Анализ документации, проведение тестирования ПО, написание тест-кейсов, подготовка тестовых данных;</p> </li> <li> <p>Проведение функционального, регрессионного, интеграционного, приемочного и иных видов тестирования, в зависимости от потребностей разработки.</p> </li> </ul> <p><strong>Нам важны:</strong></p> <ul> <li> <p>Опыт в ручном тестировании или QA от 2-х лет;</p> </li> <li> <p>Хорошие знания теории тестирования, понимание роли и процессов тестирования в условиях применения гибких методологий разработки;</p> </li> <li> <p>Понимание клиент-серверной архитектуры, принципов REST API, знание инструментов тестирования бэкенда;</p> </li> <li> <p>Умение локализовать ошибки, опыт использования инструментов разработчика.</p> </li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li> <p>Опыт работы или знакомство с предметными областями торговли, товарного учета, маркировки продукции;</p> </li> <li> <p>Знания или представление о ФЗ-54 (Онлайн-кассы);</p> </li> <li> <p>Знания или представление про ЭДО, Честный знак, ЕГАИС, ЭЦП.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5224125",
+    "name": "ТУ СОФТ",
+    "url": "https://api.hh.ru/employers/5224125",
+    "alternate_url": "https://hh.ru/employer/5224125",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/863700.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3895675.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3895676.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5224125",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T10:40:12+0300",
+  "created_at": "2025-06-06T10:40:12+0300",
+  "initial_created_at": "2025-06-06T10:40:12+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121411231",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121411231",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

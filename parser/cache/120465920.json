@@ -1,0 +1,125 @@
+{
+  "id": "120465920",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Backend-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "Советский район, микрорайон Академгородок, улица Демакова",
+    "building": "30",
+    "lat": 54.860124,
+    "lng": 83.1154,
+    "description": null,
+    "raw": "Новосибирск, Советский район, микрорайон Академгородок, улица Демакова, 30",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><em>Доброго времени суток, наш будущий коллега!</em></p> <p><strong>ООО НПО «Система» </strong>— консалтинговая компания b2b по оказанию услуг для участия в государственных, муниципальных и коммерческих тендерах. Работаем с 2009 года.</p> <p><em>Мы рады, что Вы выбрали нашу компанию и уверенны в том, что вместе мы сможем выстроить отличную работу, сгенерировать множество крутых проектов и воплотить их в жизнь.</em></p> <p><em>В нашей компании НПО &quot;Система&quot; открыта вакансия </em><strong>Backend-разработчика.</strong></p> <p><strong>Обязанности:</strong></p> <ul> <li>Разработка backend части собственного продукта компании</li> <li>Решение задач по автоматизации внутренних систем (задачи по доработке CRM-систем, интеграция с внешними системами и сервисами)</li> <li>Поддержка связанных с вашими задачами функций в БД</li> </ul> <p><strong>Наш основной проект (tenmon.ru), над которым предстоит работать использует следующие технологии:</strong></p> <ul> <li>Хранилища данных MySQL</li> <li>Redis используем как кэш на стороне сервера</li> <li>RabbitMQ используется для обмена сообщениями</li> <li>Основной язык это PHP</li> <li>Используем фреймворк Symfony</li> <li>Также пользуемся фреймворком ApiPlatform для упрощения работы с простейшим CRUD<strong>​​​​​​​</strong></li> </ul> <strong>Условия:</strong> <ul> <li>Достойная заработная плата: ежемесячный оклад + премия по результатам работы; каждые 6 месяцев индексация заработной платы за профессиональный рост</li> <li>Возможность карьерного и профессионального роста</li> <li> <p>Свобода в реализации проектов - у нас нет бюрократии и огромного количества начальников</p> </li> <li> <p>Трудоустройство/сотрудничество в удобном вам формате</p> </li> <li>Отличный коллектив, где важно мнение каждого члена команды</li> <li>Возможен гибридный формат работы(минимум 1 день нахождение в офисе Академгородка) </li> </ul> <p>​​​​​​​<strong>Чувствуете, что вакансия вам подходит?</strong> Направьте нам отклик и составьте небольшое сопроводительное письмо, в котором укажите <strong>зарплатные ожидания.</strong></p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1138465",
+    "name": "Система, НПО",
+    "url": "https://api.hh.ru/employers/1138465",
+    "alternate_url": "https://hh.ru/employer/1138465",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/698913.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/3236768.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3236769.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1138465",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T12:07:36+0300",
+  "created_at": "2025-06-06T12:07:36+0300",
+  "initial_created_at": "2025-05-13T12:07:36+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120465920",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120465920",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

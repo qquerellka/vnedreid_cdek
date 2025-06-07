@@ -1,0 +1,159 @@
+{
+  "id": "121104046",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Тестировщик ПО Web",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": null,
+    "to": 110000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": null,
+    "to": 110000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <p>​​​​​​- Проведение ручного тестирования ПО (функциональное, регрессионное, smoke-тестирование).<br />- Составление тест-кейсов и чек-листов.<br />- Регистрация и отслеживание ошибок в баг-трекинговых системах (Jira).<br />- Взаимодействие с разработчиками и аналитиками для уточнения требований.<br />- Документирование результатов тестирования.</p> <strong>Требования:</strong> <p>​​​​​​​- Базовые знания тестирования ПО или желание их освоить.<br />- Понимание жизненного цикла разработки ПО.<br />- Внимательность к деталям, аналитическое мышление.<br />- Знание основ работы с баг-трекинговыми системами (желательно).<br />- Умение работать в команде и базовые навыки коммуникации.<br />- Английский язык на уровне чтения технической документации (желательно).</p> <strong>Условия:</strong> <p>​​​​​​​​​​​​​​- Гибкий график, возможность удаленной работы.<br />- Наставничество и обучение от опытных специалистов.<br />- Доступ к профессиональным инструментам и технологиям.<br />- Перспектива роста до позиции Middle+ QA Engineer.<br />- Длительность стажировки: 3 месяца.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Тестирование"
+    },
+    {
+      "name": "Ручное тестирование"
+    },
+    {
+      "name": "Тестирование баз данных"
+    },
+    {
+      "name": "Системное тестирование"
+    },
+    {
+      "name": "Тестирование API"
+    },
+    {
+      "name": "Postman"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "12037701",
+    "name": "Шайдуллин Эльвир Дамирович",
+    "url": "https://api.hh.ru/employers/12037701",
+    "alternate_url": "https://hh.ru/employer/12037701",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=12037701",
+    "accredited_it_employer": false,
+    "trusted": false
+  },
+  "published_at": "2025-05-29T07:08:10+0300",
+  "created_at": "2025-05-29T07:08:10+0300",
+  "initial_created_at": "2025-05-29T07:08:10+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121104046",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121104046",
+  "working_days": [],
+  "working_time_intervals": [
+    {
+      "id": "from_four_to_six_hours_in_a_day",
+      "name": "Можно сменами по 4-6 часов в день"
+    }
+  ],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": true,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_6",
+      "name": "6 часов"
+    },
+    {
+      "id": "HOURS_7",
+      "name": "7 часов"
+    }
+  ]
+}

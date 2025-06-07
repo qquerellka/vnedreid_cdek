@@ -1,0 +1,152 @@
+{
+  "id": "121163971",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Python-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": null,
+    "to": 160000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 160000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Привет! Мы - Dostaевский! </strong><br /><br />Ищем <strong>Python-разработчика</strong>, который не просто пишет код, а хочет делать это в команде, где технологии и еда создают что-то крутое!<br /><br /><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Проектирование архитектуры сервисов;</li> <li>Написание кода на Python: разработка по задачам, рефакторинг/реструктуризация легаси, написание юнит-тестов, участие в spike&#39;ах;</li> <li>Реализовывать задачи согласно функциональным требованиям;</li> <li>Проводить ревью кода: обмениваться опытом и мнениями по написанию кода, уметь воспринимать и давать замечания к коду.</li> </ul> <p><br /><strong>Что мы ищем в специалисте:</strong></p> <ul> <li>Опыт на позиции Python-разработчика от 1,5 лет;</li> <li>Отличное знание Python, Django, Celery;</li> <li>Уверенные знания реляционных БД, знание SQL (PostgreSQL);</li> <li>Уверенный пользователь Linux;</li> <li>Опыт работы с Docker;</li> <li>Опыт работы с Kafka;</li> <li>Опыт работы с микросервисами.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Архитектурный кругозор: CQRS, Event Sourcing, DDD, а также знания паттернов и методологий проектирования.</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Официальное оформление по ТК РФ в IT-аккредитованную компанию. Уровень заработной платы обсуждается на собеседовании;</li> <li>Полностью удаленный формат работы. График работы 5/2. Гибкое начало рабочего дня, мы против трекинга времени, а за поддержание потока и продуктивность.</li> <li>Классные интересные задачи, которые не позволят стоять на месте;</li> <li>Без шаблонов никак! Правда дружный и помогающий коллектив: product manager, system analyst, разработчики по нескольким платформам (frontend — Vue, React; backend — .NET, Python; Android, iOS- разработчики). Команда рада помочь с любым вопросом по задаче, не бросит в пучине асинхронных вопросов. В свободное время обмениваемся любимыми анекдотами и мемами.</li> <li>Профессиональный и вертикальный/горизонтальный карьерный рост. Мы вкладываемся в наших сотрудников!</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Django Framework"
+    },
+    {
+      "name": "Celery"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1340780",
+    "name": "ДОСТАЕВСКИЙ",
+    "url": "https://api.hh.ru/employers/1340780",
+    "alternate_url": "https://hh.ru/employer/1340780",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/816857.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/3708315.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3708316.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1340780",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T12:08:17+0300",
+  "created_at": "2025-06-05T12:08:17+0300",
+  "initial_created_at": "2025-05-30T12:08:17+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121163971",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121163971",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

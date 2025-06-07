@@ -1,0 +1,143 @@
+{
+  "id": "119910591",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "QA engineer / Тестировщик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "проезд Дежнёва",
+    "building": "1",
+    "lat": 55.871183,
+    "lng": 37.649759,
+    "description": null,
+    "raw": "Москва, проезд Дежнёва, 1",
+    "metro": {
+      "station_name": "Бабушкинская",
+      "line_name": "Калужско-Рижская",
+      "station_id": "6.13",
+      "line_id": "6",
+      "lat": 55.870641,
+      "lng": 37.664341
+    },
+    "metro_stations": [
+      {
+        "station_name": "Бабушкинская",
+        "line_name": "Калужско-Рижская",
+        "station_id": "6.13",
+        "line_id": "6",
+        "lat": 55.870641,
+        "lng": 37.664341
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Привет! </p> <p>Наша компания является одним из лидеров российского рынка по продаже и обслуживанию устройств самообслуживания в ведущих банках России и СНГ.</p> <p><br />В связи с расширением направления по разработке программного обеспечения мы ищем <strong>Тестировщика </strong>уровня<strong> middle </strong>или<strong> senior</strong>.</p> <p><strong>Задачи для будущего коллеги:</strong></p> <ul> <li>Проведение тестирования backend и frontend решений для приема и обработки платежей.</li> <li>Обеспечение качества разрабатываемого ПО.</li> <li>Составление и актуализация тест-кейсов, тест-планов.</li> <li>Взаимодействие с командой разработки, участие во всех командных процессах.</li> <li>Обучение и наставничество сотрудников своего направления.</li> </ul> <p><strong>Мы ожидаем, что у тебя:</strong></p> <ul> <li>Наличие коммерческого опыта от 3 лет в области тестирования ПО.</li> <li>Знание инструментов для работы с запросами (Postman и т.п.).</li> <li>Понимание работы микросервисов и структуры HTTP запросов.</li> <li>Понимание принципов ООП.</li> <li>Умение работать с консолью разработчика браузера.</li> <li>Знание техник тест-дизайна и теории тестирования.</li> <li>Умение работать с одной из реляционных БД и писать SQL запросы.</li> </ul> <p><strong>Большим плюсом будет:</strong></p> <ul> <li>Опыт работы с платежными решениями: процессинги, сервисы приёма и обработки платежей.</li> <li>Опыт работы с требованиями/понимание требований PCI.</li> <li>Опыт работы с устройствами самообслуживания.</li> </ul> <p><strong>Наш технический стек:</strong></p> <ul> <li>.NET 6/8.</li> <li>Angular для UI-части.</li> <li>GitLab для процессов разработки, CI/CD, кодревью.</li> <li>Яндекс.Облако для разворачивания инфраструктуры, managed K8S.</li> <li>Яндекс.Трекер для ведения проектов и работы с задачами.</li> <li>Test-it для QA.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li> <p>Работу в надёжной компании.</p> </li> <li> <p>Официальное трудоустройство с первого рабочего дня и социальные гарантии по ТК РФ.</p> </li> <li> <p>Стабильную заработную плату 2 раза в месяц.</p> </li> <li> <p>ДМС после испытательного срока.</p> </li> <li> <p>Широкий спектр возможностей для саморазвития и роста.</p> </li> <li> <p>Работу над проектами в крупнейших банках России, СНГ, Ближнего Востока.</p> </li> <li> <p>Возможность поучаствовать в масштабных проектах по трансформации финансовых систем.</p> </li> </ul> <p><strong>Что дальше?</strong></p> <p>У нас простой процесс подбора. Тебя ждет знакомство с HR, техническое интервью, и после этого мы выходим с оффером.</p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "ООП"
+    },
+    {
+      "name": "SQL"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1004260",
+    "name": "Банковские и Финансовые Системы",
+    "url": "https://api.hh.ru/employers/1004260",
+    "alternate_url": "https://hh.ru/employer/1004260",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1008868.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5656248.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5656249.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1004260",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-19T12:52:19+0300",
+  "created_at": "2025-05-19T12:52:19+0300",
+  "initial_created_at": "2025-04-24T13:58:14+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119910591",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119910591",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

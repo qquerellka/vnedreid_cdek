@@ -1,0 +1,229 @@
+{
+  "id": "121337403",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "DevOps-инженер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 250000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 250000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Малый проспект Петроградской стороны",
+    "building": "5Б",
+    "lat": 59.953777,
+    "lng": 30.291272,
+    "description": null,
+    "raw": "Санкт-Петербург, Малый проспект Петроградской стороны, 5Б",
+    "metro": {
+      "station_name": "Спортивная",
+      "line_name": "Фрунзенско-Приморская",
+      "station_id": "18.249",
+      "line_id": "18",
+      "lat": 59.952026,
+      "lng": 30.291338
+    },
+    "metro_stations": [
+      {
+        "station_name": "Спортивная",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.249",
+        "line_id": "18",
+        "lat": 59.952026,
+        "lng": 30.291338
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Привет!</strong></p> <p>Мы – Studyworld – IT-компания с 12-летним опытом разработки и развития продуктов в сфере онлайн-образования. У нас больше 170 сотрудников и более 15 миллионов пользователей по всему миру!</p> <p>Сейчас мы находимся в поисках опытного и уверенного DevOps-инженера!<br /><br /><strong>Чем предстоит заниматься и какой стек используется?</strong></p> <p><em>Контейнеризация и виртуализация</em></p> <ul> <li> <p>Управление контейнерами в Docker, Kubernetes (self-hosted и managed решения);</p> </li> <li> <p>Оптимизация работы контейнеризированных сервисов;</p> </li> <li> <p>Администрирование виртуальной инфраструктуры на базе гипервизоров.</p> </li> </ul> <p><em>IaC и CI/CD</em></p> <ul> <li> <p>Развитие и поддержка CI/CD (GitLab CI, ArgoCD);</p> </li> <li> <p>Автоматизация инфраструктуры через Ansible, Terraform, Helm (IaC, GitOps);</p> </li> <li> <p>Разработка и улучшение автоматизированных деплоев.</p> </li> </ul> <p><em>Мониторинг и логирование</em></p> <ul> <li> <p>Настройка и поддержка мониторинга на базе Prometheus, Victoria Metrics, Grafana, Loki, Zabbix;</p> </li> <li> <p>Создание и автоматизация алертинга и дашбордов.</p> </li> </ul> <p><em>Базы данных и очереди</em></p> <ul> <li> <p>Поддержка и администрирование PostgreSQL (Patroni), Redis (Sentinel);</p> </li> <li> <p>Работа с системами очередей сообщений RabbitMQ, Apache Kafka.</p> </li> </ul> <p><em>Веб-сервера и балансировщики</em></p> <ul> <li> <p>Настройка и администрирование Nginx, HAProxy, Traefik;</p> </li> <li> <p>Автоматизация балансировки нагрузки.</p> </li> </ul> <p><em>Разработка и скриптинг</em></p> <ul> <li> <p>Написание Bash/Python-скриптов для автоматизации рутинных задач;</p> </li> </ul> <ul> <li>Поддержка и разработка собственных Ansible-модулей.</li> </ul> <p><strong>Что мы ожидаем от тебя:</strong></p> <ul> <li> <p>Практический опыт работы с Kubernetes;</p> </li> <li> <p>Уверенное владение инструментами IaC (Ansible, Terraform, Helm);</p> </li> <li> <p>Понимание виртуализации и контейнеризации (Docker) и опыт работы с гипервизорами;</p> </li> <li> <p>Опыт разработки и поддержки CI/CD пайплайнов (GitLab CI, ArgoCD);</p> </li> <li> <p>Навыки администрирования и настройки систем мониторинга и логирования (Zabbix, Prometheus, Grafana, Loki);</p> </li> <li> <p>Опыт работы с PostgreSQL и Patroni, Redis и Sentinel;</p> </li> <li> <p>Знание принципов работы систем очередей (Redis, RabbitMQ);</p> </li> <li> <p>Хорошее знание Bash и Python для автоматизации;</p> </li> <li> <p>Опыт работы с Nginx, HAProxy, Traefik.</p> </li> </ul> <p><em>Будет плюсом:</em></p> <ul> <li> <p>Знание или опыт работы с VictoriaMetrics</p> </li> <li> <p>Опыт работы с очередями Apache Kafka</p> </li> <li> <p>Знакомство с облачными платформами AWS, Yandex Cloud, Selectel Cloud</p> </li> <li> <p>Понимание сетевых технологий (VPN, маршрутизация, firewall)</p> </li> <li>Опыт администрирования распределённых файловых систем (GlusterFS, Ceph).</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Работу в комфортном офисе в Санкт-Петербурге или удалённо;</li> <li>Официальное трудоустройство и полное соблюдение ТК РФ;</li> <li>ДМС после прохождения испытательного срока;</li> <li>Доплату больничных и отпусков до 100% заработка и 3 sick leave в квартал без справок;</li> <li>Возможности для профессионального развития: поездки на конференции и финансирование курсов, необходимых для работы;</li> <li>Работу в молодом, драйвовом и динамично развивающемся коллективе;</li> <li>Материальную помощь при регистрации брака и рождении детей;</li> <li>Частичную компенсацию стоимости изучения английского языка в SkyEng;</li> <li>Скидку на консультации психолога на платформе Zigmund.online;</li> <li>Корпоративные мероприятия.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "CI/CD"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "Zabbix"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "Bash"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Ansible"
+    },
+    {
+      "name": "Grafana"
+    },
+    {
+      "name": "Prometheus"
+    },
+    {
+      "name": "Terraform"
+    },
+    {
+      "name": "VPN"
+    },
+    {
+      "name": "NAT"
+    },
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "Golang"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Node.js"
+    },
+    {
+      "name": "Nginx"
+    },
+    {
+      "name": "Redis"
+    },
+    {
+      "name": "Greenplum"
+    },
+    {
+      "name": "Postfix"
+    },
+    {
+      "name": "RabbitMQ"
+    },
+    {
+      "name": "Apache Kafka"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "160",
+      "name": "DevOps-инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1013375",
+    "name": "StudyWorld",
+    "url": "https://api.hh.ru/employers/1013375",
+    "alternate_url": "https://hh.ru/employer/1013375",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1307879.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6851778.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6851779.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1013375",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T12:32:13+0300",
+  "created_at": "2025-06-05T12:32:13+0300",
+  "initial_created_at": "2025-06-04T13:29:51+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121337403",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121337403",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

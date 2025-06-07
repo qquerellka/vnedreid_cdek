@@ -1,0 +1,155 @@
+{
+  "id": "121252258",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Руководитель технического отдела (нефтепромысловая химия)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 160000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 160000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": null,
+    "lng": null,
+    "description": null,
+    "raw": null,
+    "metro": {
+      "station_name": "Козья слобода",
+      "line_name": "Центральная",
+      "station_id": "49.271",
+      "line_id": "49",
+      "lat": 55.817608,
+      "lng": 49.097646
+    },
+    "metro_stations": [
+      {
+        "station_name": "Козья слобода",
+        "line_name": "Центральная",
+        "station_id": "49.271",
+        "line_id": "49",
+        "lat": 55.817608,
+        "lng": 49.097646
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Обязанности</strong>:</p> <ul> <li>Руководство техническим отделом сопровождения нефтепромысловой химии от 10 человек;</li> <li>Постановка задач, координация и анализ результативности, контроль работы всех сотрудников отдела и прямое участие при движении к цели предприятия в целом;</li> <li>Участие в переговорах, технических советах, выставках и мероприятиях;</li> <li>Проведение презентаций продукции компании в ведущих нефтегазодобывающих предприятиях;</li> <li>Поддержание ключевых связей и привлечение ключевых клиентов по реализации нефтепромысловой химии;</li> <li>Встречи с представителями Заказчиков;</li> <li>Изучение и анализ рынка сбыта нефтепромысловой химии;</li> <li>Проведение лабораторных и полевых испытаний нефтепромысловых реагентов на месторождениях (подбор реагентов);</li> <li>Составление планов, отчетов, сведений, справок о работе технического отдела, результативности и функционирования процессов;</li> <li>Составление писем, техническая консультация Заказчиков;</li> <li>Взаимодействие с производственными лабораториями, лабораториями Заказчиков и сторонних организаций;</li> <li>Создание обучающих материалов для сотрудников и презентаций для Заказчиков.</li> </ul> <p><strong>Требования</strong>:</p> <ul> <li>Высшее образование техническое (желательно химическое или нефтяное);</li> </ul> <ul> <li>Опыт работы в должности руководителя технического отдела, либо опыт руководства коллективом не менее 3-х лет;</li> <li>Готовность к командировкам;</li> <li><strong>Знания и опыт работы с нефтепромысловыми реагентами (ингибиторы коррозии, солей, АСПО, деэмульгаторы, и пр.) обязателен;</strong></li> <li>Личные качества: лидерство, требовательность к себе и к сотрудникам, умение анализировать, стремление к саморазвитию, высокая обучаемость.</li> </ul> <p><strong>Условия</strong>:</p> <ul> <li>Устройство по ТК;</li> <li>Пятидневка;</li> <li>Командировки по всей РФ, в перспективе по СНГ и зарубежье;</li> <li>Соцпакет (проезд, питание, ДМС);</li> <li>Бонусы по результатам работы;</li> <li>График работы с 9 до 17, пятница сокращенный рабочий день.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "125",
+      "name": "Технический директор (CTO)"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [
+    {
+      "id": "B"
+    }
+  ],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1256711",
+    "name": "Неохимпродукт",
+    "url": "https://api.hh.ru/employers/1256711",
+    "alternate_url": "https://hh.ru/employer/1256711",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/413284.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/2095210.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/2095211.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1256711",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T18:19:05+0300",
+  "created_at": "2025-06-05T18:19:05+0300",
+  "initial_created_at": "2025-06-02T18:19:05+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121252258",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121252258",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

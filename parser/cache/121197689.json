@@ -1,0 +1,193 @@
+{
+  "id": "121197689",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Младший разработчик JavaScript / Разработчик на платформе",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 40000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 40000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "Октябрьская магистраль",
+    "building": "4",
+    "lat": 55.022567,
+    "lng": 82.930086,
+    "description": null,
+    "raw": "Новосибирск, Октябрьская магистраль, 4",
+    "metro": {
+      "station_name": "Октябрьская",
+      "line_name": "Ленинская",
+      "station_id": "52.298",
+      "line_id": "52",
+      "lat": 55.018789,
+      "lng": 82.939007
+    },
+    "metro_stations": [
+      {
+        "station_name": "Октябрьская",
+        "line_name": "Ленинская",
+        "station_id": "52.298",
+        "line_id": "52",
+        "lat": 55.018789,
+        "lng": 82.939007
+      },
+      {
+        "station_name": "Площадь Ленина",
+        "line_name": "Ленинская",
+        "station_id": "52.297",
+        "line_id": "52",
+        "lat": 55.029941,
+        "lng": 82.92069
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>О компании</strong></p> <p>Мы - сибирская аккредитованная IT-компания полного цикла (от идеи до разработки, внедрения программного обеспечения, сервисного сопровождения, вплоть до этапа &quot;похорон&quot; продуктов).</p> <p>В портфеле компании около 30 программных продуктов, зарегистрированных в Реестре отечественного ПО.</p> <p>Если nы пользовалcя порталом Госуслуг, ходил в МФЦ (&quot;Мои документы&quot;), получал справки, выписки &quot;в один клик&quot; без посещения органов власти в разных субъектах РФ, знай, что в этом есть наш вклад.</p> <p>Многие сервисы, которые сегодня доступны для граждан, были придуманы в стенах нашей компании.</p> <p>Производственные процессы строим в методологии Kanban. У нас дружная сыгранная команда и интересные задачи.</p> <p><strong>Мы ожидаем, что в нашей команде твоими зонами ответственности будут:</strong></p> <ul> <li>создание системы с помощью инструментов платформы (а если задача нестандартная и выходит за рамки конструктора, то решать ее с помощью программирования на чистом JavaScript);</li> <li>анализ, диагностика, улучшение и развитие готовых продуктов (систем);</li> <li>взаимодействие с коллегами из других команд, чтобы итоговый продукт превосходил ожидания не только заказчика, но и нас самих.</li> </ul> <p><strong>Нам важно, если ты:</strong></p> <ul> <li>имеешь базовые знания JavaScript;</li> <li>имеешь базовые знания HTML, CSS;</li> <li>имеешь базовые знания SQL;</li> <li>имеешь аналитические навыки, внимательность;</li> <li>имеешь навыки оценивать и планировать свое рабочее время;</li> <li>умеешь работать в команде.</li> </ul> <p>Если ты: позитивный человек с активной жизненной позицией и нацеленный на постоянное развитие, то в нашей команде ты точно найдешь родственные души, потому что мы подбираем команду по ценностям.</p> <p><strong>У нас работают, потому что:</strong></p> <p>Мы ценим доверие своих коллег, поэтому предлагаем официальную белую заработную плату и трудоустройство с первого рабочего дня.<br />Работаем без руководителей и начальников, живем в логике горизонтального управления - менеджмента будущего.<br />А гибридный формат работы, ДМС, комфортный офис, уютная кухня с зоной отдыха, посиделки по пятницам, корпоративы, дополнительные дни к отпуску – это только базовый минимум условий и возможностей, которые у нас есть для каждого!</p> <p>Смарт консалтинг входит в реестр аккредитованных IT-компаний.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "XML"
+    },
+    {
+      "name": "SOAP"
+    },
+    {
+      "name": "JSON"
+    },
+    {
+      "name": "Xsd"
+    },
+    {
+      "name": "API"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3034828",
+    "name": "Смарт консалтинг",
+    "url": "https://api.hh.ru/employers/3034828",
+    "alternate_url": "https://hh.ru/employer/3034828",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1063302.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5873841.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5873842.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3034828",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T07:03:18+0300",
+  "created_at": "2025-06-02T07:03:18+0300",
+  "initial_created_at": "2025-06-02T07:03:18+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121197689",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121197689",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

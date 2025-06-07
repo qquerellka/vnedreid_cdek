@@ -1,0 +1,145 @@
+{
+  "id": "121398629",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Автоматизатор amoCRM",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 69000,
+    "to": 69000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 69000,
+    "to": 69000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Algorithmics Global - международная EdTech компания.</strong><br />Мы создаем образовательный продукт с уникальной архитектурой: LMS-система, собственная образовательная и видео-платформа.<br />Одна из наших главных целей - помочь детям во всем мире найти себя в digital и IT сферах.<br />Наши школы работают в 90+ стран мира от Индии до США, но нам этого мало и мы мчим дальше.</p> <p><strong>Cейчас мы находимся в активном поиске автоматизатора amoCRM (ночной график по МСК). </strong></p> <p> </p> <p><strong>Что предстоит делать:</strong></p> <ul> <li>Настраивать amoCRM: изменение триггеров, добавление новых, доработка логики по ТЗ);</li> <li>Мониторить работу системы: в частности salesbot&#39;ов, которые отправляют автоматические коммуникации в WhatsApp;</li> <li>Обрабатывать входящие запросы от менеджеров о каких-либо проблемах, связанных с amoCRM;</li> <li>Вносить изменения в телефонии CallGear: добавление новых и удаление уволенных менеджеров, покупка и отключение номеров. </li> </ul> <p> </p> <p><strong>Что</strong> <strong>нам важно: </strong></p> <ul> <li>Опыт работы в настройке amoCRM;</li> <li>Опыт работы в интеграторе на позиции не ниже технической поддержки или администрирование amoCRM (от 20 пользователей);</li> <li>Опыт использования систем коллективной работы (Jira);</li> <li>Знание уровень английского языка от B1.</li> </ul> <p> </p> <p><strong>Что будет плюсом:</strong></p> <ul> <li>Опыт работы с Sensei, Tilda, Calendly, Яндекс Метрика, Google Аналитика, Albato, Zapier, n8n;</li> <li>Понимание что такое интернет-маркетинг и продажи, зачем нужны сервисы рассылки, CRM, IP-телефония, лендинги и т.д.</li> </ul> <p> </p> <p><strong>Что мы можем тебе обещать: </strong></p> <ul> <li><strong>Полная свобода в выборе локации</strong>: работай удаленно из любой точки мира, а если будешь в Москве, заходи в наш уютный офис на Китай-Городе;</li> <li><strong>Официальное оформление</strong>: мы готовы предложить любой удобный вариант трудоустройства, подходящий для твоей локации;</li> <li><strong>Зарплата на уровне рынка</strong>: готовы обсуждать условия, мы ценим вклад каждого;</li> <li><strong>График</strong>: график работы с 18.00 по 03.00 по МСK;</li> <li><strong>Забота о твоем здоровье и отдыхе</strong>: ДМС после испытательного срока, компенсация больничных и отпусков до 100%, оплачиваемые Day-off для перезагрузки;</li> <li><strong>Клубы по интересам</strong>: английский, бег, книжные клубы. Нет ничего лучше - чем разделять не только работу, но и личные интересы;</li> <li><strong>Корпоративные скидки</strong>: обучение в Алгоритмике и SkyEng, спортзалы, рестораны, доставка еды и многое другое.</li> </ul> <p> </p> <p><strong>Хочешь заниматься бизнесом в одной из самых перспективных и активно развивающихся отраслей — EdTech? Тогда нам по пути.</strong></p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": {
+    "id": 45179,
+    "name": "Global",
+    "top_picture": {
+      "height": 839,
+      "width": 2310,
+      "path": "https://img.hhcdn.ru/branding-pictures/3075863.png",
+      "blurred_path": null
+    },
+    "bottom_picture": {
+      "height": 1056,
+      "width": 2310,
+      "path": "https://img.hhcdn.ru/branding-pictures/3075870.png",
+      "blurred_path": null
+    }
+  },
+  "key_skills": [],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2657797",
+    "name": "Алгоритмика",
+    "url": "https://api.hh.ru/employers/2657797",
+    "alternate_url": "https://hh.ru/employer/2657797",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1393185.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7192523.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7192524.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2657797",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T20:08:25+0300",
+  "created_at": "2025-06-05T20:08:25+0300",
+  "initial_created_at": "2025-06-05T20:08:25+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121398629",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121398629",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

@@ -1,0 +1,192 @@
+{
+  "id": "121261467",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "53",
+    "name": "Краснодар",
+    "url": "https://api.hh.ru/areas/53"
+  },
+  "salary": {
+    "from": 80000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 80000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Краснодар",
+    "street": "Московская улица",
+    "building": "81/1",
+    "lat": 45.07624,
+    "lng": 38.999828,
+    "description": null,
+    "raw": "Краснодар, Московская улица, 81/1",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Группа компаний «Юг-Энерго» - лидер среди производителей энергетических решений!</strong></p> <p>С 2006-го года мы успешно изготавливаем и реализуем на рынок дизельные генераторы, которые могут являться основным или резервным источником питания оборудования и объектов, мощностью от 10 кВт до 2 400 кВт. Клиенты по всей стране оценили надежность, экономичность и простоту в эксплуатации изготавливаемых и поставляемых нами дизельных генераторов, контейнеров, шасси и кожухов.</p> <p>ООО Группа компаний «ЮГ-ЭНЕРГО» предоставляет равные возможности для каждого сотрудника, обеспечивает безопасные рабочие места, стремится создавать командный дух и атмосферу доверия.</p> <p><em><strong>В связи с расширением и активным развитием компании, мы открываем вакансию Системного администратора.</strong></em></p> <p><strong>Обязанности:</strong></p> <ul> <li> <p>Проведение регламентных работ по поддержанию компьютерной техники в работоспособном состоянии;</p> </li> <li> <p>Администрирование корпоративного портала &quot;Битрикс24&quot;;</p> </li> <li> <p>Администрирование автоматизированных рабочих мест и серверов;</p> </li> <li> <p>Консультация пользователей по работе в CRM;</p> </li> <li> <p>Консультирование пользователей по работе в используемом на предприятии ПО;</p> </li> <li> <p>Настройка и обслуживание компьютерной и орг. техники в том числе на выездных мероприятиях;</p> </li> <li> <p>Планирование бюджета по направлению IT, закупка офисного оборудования;</p> </li> <li> <p>Взаимодействие с подрядными организациями по выполнению дополнительных работ.</p> </li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Образование высшее (техническое, математическое, прикладная информатика, защита информации)</li> <li>Общее представление о принципах работы ЛВС и основных сетевых сервисов (Маршрутизация, коммутация, VPN);</li> <li>Ответственность, самоконтроль, последовательность в выполнении задач, грамотная письменная и устная речь;</li> <li>Опыт работы в программах: Bitrix24, Microsoft Office.</li> </ul> <p><strong>Технические навыки</strong></p> <p><strong><em>ОС</em></strong>: линейка Windows + Windows Server; базовые знания Linux.</p> <p><strong><em>Сервисы</em></strong>: Active Directory, IIS, RDP, DNS, VPN.</p> <p><strong><em>Приветствуются</em></strong>: опыт работы с системами видеонаблюдения, Zabbix (Система мониторинга)</p> <p><strong><em>Установка/настройка сетевого оборудования</em></strong> Mikrotik\\D-link\\HP\\TP-link (понимание работы протокола TCP\\IP),</p> <p><strong><em>Телефония</em></strong> (базовые знания sip оборудования).<br />Проектирование, установка, администрирование компьютерных сетей; сетевая безопасность.</p> <p><strong><em>Приветствуется</em></strong> опыт работы с системами виртуализации: VMWare, Xenserver, Hyper-V, Proxmox.</p> <strong>Условия:</strong> <ul> <li>Трудоустройство согласно ТК РФ, гарантированный социальный пакет (оплачиваемый отпуск, больничный);</li> <li>Стабильная заработная плата (выплачивается два раза в месяц);</li> <li>Корпоративные мероприятия, награждения по итогам работы за год.</li> </ul> <p><em><strong>Сотрудники нашей организации имеют возможность применить свои знания, умения, идеи и проекты в жизнь. Мы гарантируем СТАБИЛЬНУЮ ХОРОШУЮ оплату труда, возможность карьерного роста, обучения и развития!</strong></em></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Техническая поддержка"
+    },
+    {
+      "name": "Администрирование сетевого оборудования"
+    },
+    {
+      "name": "Офисная техника"
+    },
+    {
+      "name": "Обеспечение антивирусной защиты"
+    },
+    {
+      "name": "Настройка ПК"
+    },
+    {
+      "name": "Работа с базами данных"
+    },
+    {
+      "name": "Аналитическое мышление"
+    },
+    {
+      "name": "Деловая этика"
+    },
+    {
+      "name": "1С-Битрикс"
+    },
+    {
+      "name": "Windows Server"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Администрирование ОС"
+    },
+    {
+      "name": "Zabbix"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "674898",
+    "name": "ГК Юг-Энерго",
+    "url": "https://api.hh.ru/employers/674898",
+    "alternate_url": "https://hh.ru/employer/674898",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1385222.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7160675.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7160676.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=674898",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T08:22:24+0300",
+  "created_at": "2025-06-03T08:22:24+0300",
+  "initial_created_at": "2025-06-03T08:22:24+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121261467",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121261467",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "a1",
+        "name": "A1 — Начальный"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,115 @@
+{
+  "id": "120836994",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>Обеспечение всех объектов Компании бесперебойным доступом в интернет - сопровождение подключения, настройка маршрутизаторов, общение с тех. поддержкой при возникновении проблем;</li> <li>Администрирование маршрутизаторов и точек доступа Wi-Fi на базе оборудования MikroTik;</li> <li>Администрирование операционных систем Windows Server 2003, 2008, 2012;</li> <li>Администрирование MS AD 2008, DNS, DHCP;</li> <li>Администрирование MS SQL 2008, 2016;</li> <li>Администрирование терминальных серверов MS RDS 2012;</li> <li>Администрирование аппаратных телефонных станций Panasonic и IP-телефонов;</li> <li>Сопровождение автоматизированной системы контакт-центра Oktell. Взаимодействие с подрядной организацией;</li> <li>Подключение и обеспечение работоспособности складского, торгового и кассового оборудования (ТСД, сканеры ШК, онлайн-кассы);</li> <li>Сопровождение систем видеонаблюдения на базе ПО Трассир;</li> <li>Взаимодействие с подрядными организациями и поставщиками ПО и оборудования.</li> </ul> <strong>Требования:</strong> <ul> <li>​​​​​​​Опыт работы на аналогичной позиции от 3-х лет;</li> <li>Отличное знание Windows Server 2003, 2008, 2012;</li> <li>Опыт работы с MS AD 2008, DNS, DHCP;</li> <li>Опыт работы с MS SQL 2008, 2016;</li> <li>Знание терминальных серверов MS RDS 2012.</li> </ul> <strong>Условия:</strong> <ul> <li>​​​​​​​​​​​Официальное оформление (ТК РФ) в аккредитованную ИТ-компанию;</li> <li>График 5/2 с 9:00/10:00 до 18:00/19:00;</li> <li>Офис - в шаговой доступности от м. Марксистская ( 5 минут от метро).</li> </ul> <p>Присылая нам свое резюме, Вы даете согласие на обработку персональных данных на условиях Политики обработки персональных данных ( https://www.muztorg.ru/politika-obrabotki-personalnyh-dannyh.pdf)</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "91020",
+    "name": "Музторг",
+    "url": "https://api.hh.ru/employers/91020",
+    "alternate_url": "https://hh.ru/employer/91020",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1397417.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7209443.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7209444.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=91020",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-21T19:39:05+0300",
+  "created_at": "2025-05-21T19:39:05+0300",
+  "initial_created_at": "2025-05-21T19:39:05+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120836994",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120836994",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

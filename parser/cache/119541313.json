@@ -1,0 +1,157 @@
+{
+  "id": "119541313",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Ведущий программист 1С",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "72",
+    "name": "Пермь",
+    "url": "https://api.hh.ru/areas/72"
+  },
+  "salary": {
+    "from": 265000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 265000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Мы, аккредитованная IT-компания</strong> “OXTRON<strong>”</strong><strong>, </strong>официальные партнеры 1С.</p> <p>Являемся лидером в области автоматизации и внедрения программных продуктов на базе 1С на производственных предприятиях: оборонной, химической, нефтегазовой и легкой промышленности.</p> <p>Внедряем проектные, стандартные и собственные отраслевые решения.</p> <p><strong>Наша Команда</strong> — это программисты 1С, руководители проектов и консультанты с экспертизой в регламентированном, управленческом учете, бюджетировании, в процессах производства, закупок и ценообразовании.</p> <p><strong>Стек используемых технологий</strong> — 1С: Предприятие 8, Расширения конфигураций, Технология разветвленной разработки, Конвертация данных, Jenkins, GIT, Vanessa ADD, SonarQube.</p> <p>В связи с расширением портфеля контрактов приглашаем <strong>ведущего программиста 1С</strong>.</p> <p><strong>ВАМ ПРЕДСТОИТ:</strong></p> <ul> <li>участвовать в масштабных (от 300 АРМ) проектах по внедрению систем на базе типовых решений ERP, ЗУП, ДО в роли разработчика/техлида</li> <li>участвовать в разработке архитектуры решения</li> <li>адаптировать типовые конфигурации в соответствии с техническим заданием, которое прописывают консультанты.</li> </ul> <p><strong>МЫ ИЩЕМ РАЗРАБОТЧИКА, КОТОРЫЙ ИМЕЕТ:</strong></p> <ul> <li>опыт разработки на платформе 1С: Предприятие 8 (Управляемое приложение) от 5 лет</li> <li>опыт разработки в соответствии с системой стандартов и методик разработки 1С</li> <li>навыки рефакторинга, проведения Code review</li> <li>опыт групповой разработки с использованием хранилища или EDT.</li> </ul> <p><strong>МЫ ПРЕДЛАГАЕМ:</strong></p> <ul> <li>возможность профессионально вырасти на проектах внедрения систем класса ERP</li> <li>возможность выступать в роли Техлида или Тимлида</li> <li>полностью белую зарплату с выплатой 2 раза в месяц, индексируемую в соответствии с рынком труда</li> <li>доплаты и надбавки за роль техлида, наличие сертификатов &quot;1С:Специалист&quot; по платформе</li> <li>трудоустройство в аккредитованную IT-компанию с 1-ого рабочего дня</li> <li>любой формат работы: удаленный, офис, гибрид</li> <li>обучение и сертификацию за счет компании</li> <li>опытного наставника на период испытательного срока</li> <li>уютный и современный офис с зонами отдыха, в центре г.Пермь</li> <li>полис ДМС</li> <li>уроки английского и массаж за счет компании.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "ERP"
+    },
+    {
+      "name": "Разработка ПО"
+    },
+    {
+      "name": "1С программирование"
+    },
+    {
+      "name": "Создание конфигурации 1С"
+    },
+    {
+      "name": "1С: Предприятие 8"
+    },
+    {
+      "name": "1C ERP"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1521497",
+    "name": "Oxtron",
+    "url": "https://api.hh.ru/employers/1521497",
+    "alternate_url": "https://hh.ru/employer/1521497",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/350061.png",
+      "90": "https://img.hhcdn.ru/employer-logo/1842510.png",
+      "240": "https://img.hhcdn.ru/employer-logo/1842511.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1521497",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T15:51:42+0300",
+  "created_at": "2025-06-06T15:51:42+0300",
+  "initial_created_at": "2025-04-15T12:24:10+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119541313",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119541313",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

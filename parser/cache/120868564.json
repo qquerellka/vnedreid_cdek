@@ -1,0 +1,181 @@
+{
+  "id": "120868564",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист ИБ (расследование инцидентов)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 100000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "улица Обручевых",
+    "building": "1",
+    "lat": 60.00945552387069,
+    "lng": 30.376904404754274,
+    "description": null,
+    "raw": "Санкт-Петербург, улица Обручевых, 1",
+    "metro": {
+      "station_name": "Политехническая",
+      "line_name": "Кировско-Выборгская",
+      "station_id": "14.193",
+      "line_id": "14",
+      "lat": 60.008942,
+      "lng": 30.370907
+    },
+    "metro_stations": [
+      {
+        "station_name": "Политехническая",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.193",
+        "line_id": "14",
+        "lat": 60.008942,
+        "lng": 30.370907
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><em><strong>Кого мы ищем: </strong></em></p> <p>Мы ищем в команду начинающего специалиста по информационной безопасности, которому интересна область компьютерной криминалистики – форензика, работа по восстановлению данных, анализ файловых систем и т.п.</p> <p>✨ <strong>Чем нужно будет заниматься: </strong></p> <ul> <li>Расследовать инциденты ИБ</li> <li>Анализировать дампы оперативной памяти, жесткого диска, сетевого трафика</li> <li>Работать с API R-studio, TSK, Scapy и аналогами</li> <li>Анализировать ВПО</li> <li>Формировать отчеты по результатам реагирования/расследования инцидентов</li> <li>Исследовать TTPs проведения компьютерных атак, применяемых злоумышленниками</li> <li>Разрабатывать методики и реализацию механизмов автоматизированного выявления компьютерных атак</li> <li>Работать с восстановлением данных</li> </ul> <p>⚡‍‍ <strong>Что мы ждём от соискателя:</strong></p> <ul> <li>Опыт поиска и анализа информации об угрозах ИБ</li> <li>Умеете выявлять и реагировать на инциденты ИБ</li> <li>Умеете программировать на Python/C++ или другие языки программирования</li> <li>Разбираетесь в логической структуре файловых систем</li> <li>Имеете интерес к ИБ, участливы и готовы проявлять инициативу в работе и обучении</li> </ul> <p><strong>➕ Будет плюсом: </strong></p> <ul> <li>Знание принципов восстановления данных с жестких дисков, твердотельных накопителей, flash-устройств, мобильных устройств, RAID-массивов</li> <li>Опыт работы на оборудовании от AceLab, Элкомсофт, SoftCenter и др.</li> <li>Знание схемотехники</li> </ul> <p>✅ <strong><em>Мы предлагаем</em></strong></p> <ul> <li>Работа в уютном офисе в 5-ти минутах пешком от м. Политехническая</li> <li>Гибкое начало рабочего дня с 09:00 до 11:00. В нашей команде есть и &quot;жаворонки&quot; и &quot;совы&quot;.</li> <li>Своевременную, «белую» зарплату</li> <li>Внушительную ежегодную премию</li> <li>100% компенсацию больничных</li> <li>Профессиональное развитие (нестандартные задачи, передовые технологии, обмен опытом внутри компании, возможность посещения крупнейших отраслевых конференций)</li> <li>Мы уделяем внимание здоровью. У нас действует программа ДМС со стоматологией</li> <li>Мы за любые активности. Каждую среду - занятия йогой с тренером прямо в офисе, каждую пятницу - волейбол. Для тех, кто предпочитает тренажерный зал предусмотрена частичная компенсация спортивных абонементов</li> <li>Чай и кофе для сотрудников, оборудованная зона для питания</li> <li>Неравнодушная команда, где не игнорируют вопросы, а готовы помочь</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Восстановление данных"
+    },
+    {
+      "name": "Анализ метаданных файлов и файловых систем"
+    },
+    {
+      "name": "Анализ реестра и системных журналов"
+    },
+    {
+      "name": "Системное программирование"
+    },
+    {
+      "name": "Исследование служебных областей жёстких дисков"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "116",
+      "name": "Специалист по информационной безопасности"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "802210",
+    "name": "НеоБИТ",
+    "url": "https://api.hh.ru/employers/802210",
+    "alternate_url": "https://hh.ru/employer/802210",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/283932.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/1578126.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/1578127.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=802210",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-22T14:00:17+0300",
+  "created_at": "2025-05-22T14:00:17+0300",
+  "initial_created_at": "2025-05-22T14:00:17+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120868564",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120868564",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b1",
+        "name": "B1 — Средний"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,166 @@
+{
+  "id": "121347516",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Frontend-разработчик в офис Junior (Vue.js)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "53",
+    "name": "Краснодар",
+    "url": "https://api.hh.ru/areas/53"
+  },
+  "salary": {
+    "from": 65000,
+    "to": 95000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 65000,
+    "to": 95000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Краснодар",
+    "street": "Западный округ, микрорайон Кожзавод, Кожевенная улица",
+    "building": "38",
+    "lat": 45.038292,
+    "lng": 38.946585,
+    "description": null,
+    "raw": "Краснодар, Западный округ, микрорайон Кожзавод, Кожевенная улица, 38",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>О нас</strong><br />Мы создаем интернет-магазины и корпоративные порталы на 1С-Битрикс, обеспечивая их поддержку. Ищем фронтенд-разработчика с опытом работы на Vue.js, который хочет развиваться в команде профессионалов!</p> <p><strong>Что предстоит делать</strong></p> <ul> <li> <p>верстать проекты с нуля по макетам из Figma (адаптивная и кроссбраузерная верстка);</p> </li> <li> <p>дорабатывать и поддерживать текущие проекты: исправлять ошибки, внедрять новый функционал;</p> </li> <li> <p>работать с картографическими сервисами (Яндекс, Google) — опыт будет плюсом;</p> </li> <li> <p>взаимодействовать с программистами, дизайнерами и менеджерами.</p> </li> </ul> <p><strong>Наши ожидания</strong></p> <ul> <li> <p>уверенные знания HTML5, CSS3, JavaScript (ES6+);</p> </li> <li> <p>опыт работы с Vue.js: создание компонентов, маршрутизация (Vue Router), управление состоянием (Vuex или Pinia);</p> </li> <li> <p>умение делать адаптивную, валидную и кроссбраузерную верстку;</p> </li> <li> <p>опыт работы с шаблонами на стороне сервера (знание 1С-Битрикс — плюс);</p> </li> <li> <p>умение работать с Vite и Git (обязательно), знание Gulp (желательно);</p> </li> <li> <p>понимание AJAX и взаимодействия с API (желательно).</p> </li> </ul> <p><strong>Что мы предлагаем</strong></p> <ul> <li> <p>участие в проектах: от интернет-магазинов до порталов;</p> </li> <li> <p>поддержка участия в профильных конференциях;</p> </li> <li> <p>доступ к обучению, включая Яндекс Практикум;</p> </li> <li> <p>современный офис и дружная команда, где ценят твой вклад;</p> </li> <li> <p>график 5/2 (9:00–18:00);</p> </li> <li> <p>оформление по ТК РФ.</p> </li> </ul> <p><strong>Хочешь кодить и расти?</strong> Присылай резюме и портфолио — ждем тебя в команде!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "VueJS"
+    },
+    {
+      "name": "CSS3"
+    },
+    {
+      "name": "Gulp"
+    },
+    {
+      "name": "Адаптивная верстка"
+    },
+    {
+      "name": "Кроссбраузерная верстка"
+    },
+    {
+      "name": "Рефакторинг кода"
+    },
+    {
+      "name": "HTML5"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3902718",
+    "name": "Дрим Тим",
+    "url": "https://api.hh.ru/employers/3902718",
+    "alternate_url": "https://hh.ru/employer/3902718",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3902718",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T15:53:23+0300",
+  "created_at": "2025-06-04T15:53:23+0300",
+  "initial_created_at": "2025-06-04T15:53:23+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121347516",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121347516",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

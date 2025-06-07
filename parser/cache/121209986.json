@@ -1,0 +1,156 @@
+{
+  "id": "121209986",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Программист 1С",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 90000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 90000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Казань",
+    "street": "улица Ярослава Гашека",
+    "building": "7А",
+    "lat": 55.842292,
+    "lng": 49.110088,
+    "description": null,
+    "raw": "Казань, улица Ярослава Гашека, 7А",
+    "metro": {
+      "station_name": "Северный вокзал",
+      "line_name": "Центральная",
+      "station_id": "49.461",
+      "line_id": "49",
+      "lat": 55.841519,
+      "lng": 49.081778
+    },
+    "metro_stations": [
+      {
+        "station_name": "Северный вокзал",
+        "line_name": "Центральная",
+        "station_id": "49.461",
+        "line_id": "49",
+        "lat": 55.841519,
+        "lng": 49.081778
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Мы собрали в команде лучших специалистов, следуя современным трендам по модернизации производства и стандартам качества.</strong></p> <p><strong>Приглашая на работу, мы Вам предлагаем:</strong></p> <ul> <li>Высокий конкурентный уровень оплаты труда с ежегодной индексацией;</li> <li>Официальное трудоустройство в соответствии с требованиями ТК РФ;</li> <li>Своевременная выплата з/платы (без задержек, 2 раза в месяц)</li> <li>Оплата труда повременно-премиальная;</li> <li>Повышение квалификации, обучение за счет компании;</li> <li>Предоставление спец одежды, необходимых инструментов;</li> <li>Соцпакет, наличие профсоюзной организации на предприятии (подарки детям к Новому году и дню первоклассника, мероприятия для детей, путевки со скидкой в детские лагеря, предоставление социальной ипотеки, оплачиваемые дни здоровья, материальная помощь и др.);</li> <li>Карьерный и профессиональный рост, бесплатное обучение;</li> <li>Корпоративы ,командные игры, мозговые штурмы, реализация нестандартных задач;</li> <li>Место работы в 10 минутах от станции метро «Северный вокзал»;</li> <li>Дружный коллектив и лояльное руководство;</li> <li>Частичная компенсация съема жилья для иногородних с 1-ого месяца;</li> <li>ДМС для профессий с вредными условиями труда</li> <li>На предприятии имеется бронирование.</li> </ul> <p><strong>Обязанности:</strong></p> <ul> <li>доработка конфигураций 1С Предприятие 8.2-8.3;</li> <li>интеграция с другими системами.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Знание языка запросов(СКД);</li> <li>Знание языков программирования 1С:Предприятие(работа в модулях)</li> <li>Опыт работы с типовыми и не типовыми конфигурациями.</li> </ul>",
+  "branded_description": "\n<style>/*hh-team-007*/\n/** @format */\n/** @format */\n.hht-vacancydescription {\n  padding: 0;\n}\n.tmpl_hh_wrapper {\n  position: relative;\n  z-index: 1;\n  overflow: hidden;\n  width: 100%;\n  max-width: 690px;\n  margin: 0 auto;\n  font-weight: 400;\n  font-size: 16px;\n  font-family: Arial, sans-serif;\n  line-height: 22px;\n  letter-spacing: 0.01em;\n  word-break: normal;\n}\n@media (max-width: 1019px) {\n  .tmpl_hh_wrapper {\n    max-width: 610px;\n  }\n}\n.tmpl_hh_wrapper p, .tmpl_hh_wrapper h1, .tmpl_hh_wrapper h2, .tmpl_hh_wrapper h3, .tmpl_hh_wrapper h4, .tmpl_hh_wrapper h5, .tmpl_hh_wrapper h6, .tmpl_hh_wrapper a, .tmpl_hh_wrapper img, .tmpl_hh_wrapper ol, .tmpl_hh_wrapper ul, .tmpl_hh_wrapper li {\n  vertical-align: baseline;\n  margin: 0;\n  padding: 0;\n  border: 0;\n  font-weight: inherit;\n  font-size: inherit;\n}\n.tmpl_hh_wrapper ul {\n  list-style: none;\n}\n.tmpl_hh_wrapper a {\n  text-decoration: none;\n}\n.tmpl_hh_wrapper a:hover {\n  color: inherit;\n}\n.tmpl_hh_wrapper img {\n  display: block;\n}\n.tmpl_hh_wrapper button {\n  display: block;\n  padding: 0;\n  border: none;\n  background-color: transparent;\n  outline: none;\n  cursor: pointer;\n}\n.tmpl_hh_wrapper button svg {\n  cursor: pointer;\n}\n.tmpl_hh_wrapper .l-cell, .tmpl_hh_wrapper .l-paddings {\n  padding: 0 !important;\n}\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n  margin-top: 0 !important;\n}\n.tmpl_hh_wrapper .b-vacancy-desc {\n  overflow: visible !important;\n  line-height: inherit;\n}\n.tmpl_hh_content ol li b, .tmpl_hh_content ol li strong, .tmpl_hh_content ol li p b, .tmpl_hh_content ol li p strong, .tmpl_hh_content ul li b, .tmpl_hh_content ul li strong, .tmpl_hh_content ul li p b, .tmpl_hh_content ul li p strong {\n  margin: 0 !important;\n  color: inherit !important;\n  font-size: inherit !important;\n  line-height: inherit;\n  text-transform: none;\n}\n.tmpl_hh_content ol li p, .tmpl_hh_content ul li p {\n  margin: 0;\n  font-weight: normal;\n}\n.tmpl_hh_content p {\n  margin-bottom: 16px;\n}\n.tmpl_hh_content p b, .tmpl_hh_content p strong {\n  display: inline;\n  margin: 0;\n}\n.tmpl_hh_content ol, .tmpl_hh_content ul {\n  margin-bottom: 32px;\n  margin-left: 18px;\n  list-style: none !important;\n}\n.tmpl_hh_content ol {\n  counter-reset: list_counter;\n}\n.tmpl_hh_content li {\n  position: relative;\n  margin-bottom: 8px;\n  font-size: 16px;\n}\n.tmpl_hh_content li:last-child {\n  margin-bottom: 0;\n}\n.tmpl_hh_content ul ul, .tmpl_hh_content ul ol, .tmpl_hh_content ol ol, .tmpl_hh_content ol ul {\n  margin-top: 14px;\n}\n.tmpl_hh_content ol > li {\n  counter-increment: list_counter;\n}\n.tmpl_hh_content ul > li::before {\n  content: \"\";\n  position: absolute;\n  top: 9px;\n  left: -18px;\n  width: 5px;\n  height: 5px;\n  border-radius: 50%;\n  background: #303233;\n}\n.tmpl_hh_content ol > li::before {\n  content: counter(list_counter) \".\";\n  right: 100%;\n  left: auto;\n  margin-right: 2px;\n}\n.tmpl_hh_content :last-child {\n  margin-bottom: 0;\n}\n/* stylelint-disable block-no-empty */\n/* stylelint-enable block-no-empty */\n.tmpl_hh_wrapper {\n  box-sizing: border-box;\n  color: #454545;\n  font-size: 16px;\n  line-height: 1.3;\n}\n.tmpl_hh_wrapper .tmpl_hh_designation {\n  color: #b5b5b5;\n  font-size: 14px;\n  line-height: 120%;\n}\n.tmpl_hh_wrapper .tmpl_hh_red {\n  color: #e12029;\n}\n.tmpl_hh_wrapper .tmpl_hh_section-title {\n  font-weight: 700;\n  font-size: 22px;\n  text-align: center;\n}\n.tmpl_hh_flex {\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n}\n.tmpl_hh_img {\n  width: 100%;\n  height: auto;\n}\n.tmpl_hh_box {\n  box-sizing: border-box;\n  padding-right: 30px;\n  padding-left: 30px;\n}\n@media (max-width: 655px) {\n  .tmpl_hh_box {\n    padding-right: 20px;\n    padding-left: 20px;\n  }\n}\n.tmpl_hh_header .tmpl_hh_header__logo {\n  max-width: 388px;\n  margin-right: auto;\n  margin-left: auto;\n  padding-top: 30px;\n  padding-bottom: 30px;\n}\n.tmpl_hh_header__img-wrap {\n  position: relative;\n}\n@media (max-width: 655px) {\n  .tmpl_hh_header__img-wrap {\n    margin-right: -20px;\n    margin-left: -20px;\n  }\n}\n.tmpl_hh_header__img-wrap::before {\n  content: \"\";\n  position: absolute;\n  bottom: calc(100% - 70px);\n  left: -30px;\n  display: block;\n  width: 155px;\n  height: 197px;\n  background: url(\"https://hhcdn.ru/ichameleon/348918.png\") center/contain no-repeat;\n}\n@media (max-width: 655px) {\n  .tmpl_hh_header__img-wrap::before {\n    bottom: calc(100% - 68px);\n    left: 0;\n    width: 120px;\n    height: 143px;\n    background-image: url(\"https://hhcdn.ru/ichameleon/348953.png\");\n  }\n}\n.tmpl_hh_header__img-wrap img {\n  position: relative;\n  z-index: 10;\n}\n.tmpl_hh_header__text {\n  padding-top: 50px;\n  padding-bottom: 30px;\n}\n@media (max-width: 655px) {\n  .tmpl_hh_header__text {\n    padding-top: 40px;\n    padding-bottom: 20px;\n  }\n}\n.tmpl_hh_header__text p:not(:first-of-type) {\n  margin-top: 1rem;\n}\n.tmpl_hh_offer {\n  position: relative;\n  padding-top: 72px;\n}\n.tmpl_hh_offer::before {\n  content: \"\";\n  position: absolute;\n  bottom: 57px;\n  left: 0;\n  display: block;\n  width: 349px;\n  height: 156px;\n  background: url(\"https://hhcdn.ru/ichameleon/348913.png\") center/contain no-repeat;\n}\n@media (max-width: 655px) {\n  .tmpl_hh_offer::before {\n    top: 0;\n    bottom: initial;\n    left: -30px;\n    height: 116px;\n    background-image: url(\"https://hhcdn.ru/ichameleon/348960.png\");\n  }\n}\n.tmpl_hh_offer .tmpl_hh_offer__list {\n  align-items: flex-start;\n  margin-top: 13px;\n}\n@media (max-width: 655px) {\n  .tmpl_hh_offer .tmpl_hh_offer__list {\n    flex-wrap: wrap;\n    gap: 20px;\n  }\n}\n.tmpl_hh_offer .tmpl_hh_section-title {\n  position: relative;\n  z-index: 10;\n}\n.tmpl_hh_offer .tmpl_hh_offer__item {\n  position: relative;\n  z-index: 10;\n  display: flex;\n  flex-direction: column;\n  gap: 6px;\n  align-items: center;\n  width: 110px;\n  text-align: center;\n}\n@media (max-width: 655px) {\n  .tmpl_hh_offer .tmpl_hh_offer__item {\n    flex-direction: row;\n    gap: 14px;\n    align-items: center;\n    width: 100%;\n    text-align: left;\n  }\n}\n.tmpl_hh_offer .tmpl_hh_offer__item:nth-of-type(odd) p {\n  color: #e12029;\n}\n.tmpl_hh_offer img {\n  width: 60px;\n  height: 60px;\n}\n.tmpl_hh_offer p {\n  font-size: 14px;\n  line-height: 1.1;\n}\n.tmpl_hh_content {\n  padding: 50px 50px 100px;\n}\n@media (max-width: 655px) {\n  .tmpl_hh_content {\n    padding: 40px 20px 60px;\n  }\n}\n.tmpl_hh_content p.tmpl_hh_content_title, .tmpl_hh_content b.tmpl_hh_content_title, .tmpl_hh_content strong.tmpl_hh_content_title {\n  display: block;\n  margin-bottom: 14px;\n  font-size: 25px;\n  line-height: 1.2;\n}\n.tmpl_hh_content ul {\n  margin-bottom: 28px;\n  margin-left: 22px;\n}\n.tmpl_hh_content ul li {\n  margin-bottom: 8px;\n  font-size: 16px;\n  line-height: 1.3;\n}\n.tmpl_hh_content ul li::before {\n  top: 10px;\n  left: -22px;\n  width: 16px;\n  height: 1px;\n}\n.tmpl_hh_join .tmpl_hh_join__img {\n  position: relative;\n  z-index: 10;\n  border-radius: 60px 60px 0 0;\n}\n@media (max-width: 655px) {\n  .tmpl_hh_join .tmpl_hh_join__img {\n    border-radius: 20px 20px 0 0;\n  }\n}\n@media (max-width: 655px) {\n  .tmpl_hh_join .tmpl_hh_section-title {\n    max-width: 12em;\n    margin-right: auto;\n    margin-left: auto;\n  }\n}\n.tmpl_hh_join__img-wrap {\n  position: relative;\n  margin-top: 50px;\n}\n@media (max-width: 655px) {\n  .tmpl_hh_join__img-wrap {\n    margin-top: 40px;\n  }\n}\n.tmpl_hh_join__img-wrap::after, .tmpl_hh_join__img-wrap::before {\n  content: \"\";\n  position: absolute;\n  display: block;\n}\n.tmpl_hh_join__img-wrap::before {\n  bottom: calc(100% - 10px);\n  left: 0;\n  width: 106px;\n  height: 87px;\n  background: url(\"https://hhcdn.ru/ichameleon/348917.png\") center/contain no-repeat;\n}\n@media (max-width: 655px) {\n  .tmpl_hh_join__img-wrap::before {\n    bottom: calc(100% - 25px);\n    width: 81px;\n  }\n}\n.tmpl_hh_join__img-wrap::after {\n  right: 0;\n  bottom: calc(100% - 38px);\n  width: 98px;\n  height: 132px;\n  background: url(\"https://hhcdn.ru/ichameleon/348914.png\") center/contain no-repeat;\n}\n@media (max-width: 655px) {\n  .tmpl_hh_join__img-wrap::after {\n    bottom: calc(100% - 38px);\n    width: 88px;\n    height: 110px;\n  }\n}\n</style>\n<div>\n    <div class=\"tmpl_hh_wrapper\">\n      <header class=\"tmpl_hh_header tmpl_hh_box\">\n        <img src=\"https://hhcdn.ru/ichameleon/348915.png\" alt=\"Элекон\" class=\"tmpl_hh_img tmpl_hh_header__logo\">\n        <div class=\"tmpl_hh_header__img-wrap\">\n          <img class=\"tmpl_hh_img\" src=\"https://hhcdn.ru/ichameleon/348920.png\" alt=\"\">\n        </div>\n        <div class=\"tmpl_hh_header__text\">\n          <p>\n            <b class=\"tmpl_hh_red\">АО «Завод Элекон»</b> (ранее известный как 7-й завод) — значимое предприятие России по разработке и производству электрических соединителей и кабельных сборок.\n          </p>\n          <p>\n            <b class=\"tmpl_hh_red\">Наша команда</b> — это талантливые специалисты, чьи умы и сердца создают\n            будущее нашей страны. Мы достигаем высоких результатов благодаря людям, поэтому на нашем\n            предприятии ценят каждого работника!\n          </p>\n        </div>\n      </header>\n      <section class=\"tmpl_hh_box tmpl_hh_offer\">\n        <h2 class=\"tmpl_hh_section-title\">НАШИ <b class=\"tmpl_hh_red\">УСЛОВИЯ</b></h2>\n        <ul class=\"tmpl_hh_offer__list tmpl_hh_flex\">\n          <li class=\"tmpl_hh_offer__item\">\n            <img src=\"https://hhcdn.ru/ichameleon/348923.png\" alt=\"\">\n            <p>Программы материального стимулирования</p>\n          </li>\n          <li class=\"tmpl_hh_offer__item\">\n            <img src=\"https://hhcdn.ru/ichameleon/348916.png\" alt=\"\">\n            <p>Перспективы для роста и развития</p>\n          </li>\n          <li class=\"tmpl_hh_offer__item\">\n            <img src=\"https://hhcdn.ru/ichameleon/348924.png\" alt=\"\">\n            <p>Конкурентная зарплата</p>\n          </li>\n          <li class=\"tmpl_hh_offer__item\">\n            <img src=\"https://hhcdn.ru/ichameleon/348921.png\" alt=\"\">\n            <p>Развитая корпоративная культура</p>\n          </li>\n          <li class=\"tmpl_hh_offer__item\">\n            <img src=\"https://hhcdn.ru/ichameleon/348922.png\" alt=\"\">\n            <p>Социальные гарантии</p>\n          </li>\n        </ul>\n      </section>\n      <main class=\"tmpl_hh_content\">\n        <p><strong>Мы собрали в команде лучших специалистов, следуя современным трендам по модернизации производства и стандартам качества.</strong></p> <p><strong>Приглашая на работу, мы Вам предлагаем:</strong></p> <ul> <li>Высокий конкурентный уровень оплаты труда с ежегодной индексацией;</li> <li>Официальное трудоустройство в соответствии с требованиями ТК РФ;</li> <li>Своевременная выплата з/платы (без задержек, 2 раза в месяц)</li> <li>Оплата труда повременно-премиальная;</li> <li>Повышение квалификации, обучение за счет компании;</li> <li>Предоставление спец одежды, необходимых инструментов;</li> <li>Соцпакет, наличие профсоюзной организации на предприятии (подарки детям к Новому году и дню первоклассника, мероприятия для детей, путевки со скидкой в детские лагеря, предоставление социальной ипотеки, оплачиваемые дни здоровья, материальная помощь и др.);</li> <li>Карьерный и профессиональный рост, бесплатное обучение;</li> <li>Корпоративы ,командные игры, мозговые штурмы, реализация нестандартных задач;</li> <li>Место работы в 10 минутах от станции метро «Северный вокзал»;</li> <li>Дружный коллектив и лояльное руководство;</li> <li>Частичная компенсация съема жилья для иногородних с 1-ого месяца;</li> <li>ДМС для профессий с вредными условиями труда</li> <li>На предприятии имеется бронирование.</li> </ul> <p><strong>Обязанности:</strong></p> <ul> <li>доработка конфигураций 1С Предприятие 8.2-8.3;</li> <li>интеграция с другими системами.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Знание языка запросов(СКД);</li> <li>Знание языков программирования 1С:Предприятие(работа в модулях)</li> <li>Опыт работы с типовыми и не типовыми конфигурациями.</li> </ul></main>\n      <section class=\"tmpl_hh_join\">\n        <h2 class=\"tmpl_hh_section-title tmpl_hh_box\">\n          ПРИСОЕДИНЯЙСЯ<b class=\"tmpl_hh_red\"> К НАШЕЙ КОМАНДЕ!</b>\n        </h2>\n        <div class=\"tmpl_hh_join__img-wrap\">\n          <img class=\"tmpl_hh_join__img tmpl_hh_img\" src=\"https://hhcdn.ru/ichameleon/348919.jpg\" alt=\"\">\n        </div>\n      </section>\n    </div>\n  </div>\n<script>\n//\n\n\nconst main = \"\";\nconst customTitle = () => {\n  const allUl = document.querySelectorAll(\".tmpl_hh_content ul\");\n  allUl.forEach((ul, i) => {\n    const ulTitle = ul.previousElementSibling;\n    if (ulTitle) {\n      ulTitle.classList.add(\"tmpl_hh_content_title\");\n      if (i === 0) {\n        ul.previousElementSibling.classList.add(\"tmpl_hh_content_title--first\");\n      }\n    }\n  });\n};\ndocument.addEventListener(\"DOMContentLoaded\", () => {\n  try {\n    customTitle();\n  } catch (error) {\n    console.log(error);\n  }\n});\n\n\n//\n</script>\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "64149",
+    "name": "Завод-Элекон",
+    "url": "https://api.hh.ru/employers/64149",
+    "alternate_url": "https://hh.ru/employer/64149",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/658701.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3075952.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3075953.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=64149",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T10:36:23+0300",
+  "created_at": "2025-06-02T10:36:23+0300",
+  "initial_created_at": "2025-06-02T10:36:23+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121209986",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121209986",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

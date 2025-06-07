@@ -1,0 +1,184 @@
+{
+  "id": "121038333",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Frontend Junior Developer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": null,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": null,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Невский проспект",
+    "building": "124",
+    "lat": 59.930719,
+    "lng": 30.365042,
+    "description": null,
+    "raw": "Санкт-Петербург, Невский проспект, 124",
+    "metro": {
+      "station_name": "Владимирская",
+      "line_name": "Кировско-Выборгская",
+      "station_id": "14.200",
+      "line_id": "14",
+      "lat": 59.927628,
+      "lng": 30.347898
+    },
+    "metro_stations": [
+      {
+        "station_name": "Владимирская",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.200",
+        "line_id": "14",
+        "lat": 59.927628,
+        "lng": 30.347898
+      },
+      {
+        "station_name": "Достоевская",
+        "line_name": "Лахтинско-Правобережная",
+        "station_id": "17.238",
+        "line_id": "17",
+        "lat": 59.928234,
+        "lng": 30.346029
+      },
+      {
+        "station_name": "Маяковская",
+        "line_name": "Невско-Василеостровская",
+        "station_id": "16.230",
+        "line_id": "16",
+        "lat": 59.931366,
+        "lng": 30.354645
+      },
+      {
+        "station_name": "Площадь Восстания",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.199",
+        "line_id": "14",
+        "lat": 59.930279,
+        "lng": 30.361069
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Frontend Junior Developer</strong></p> <p>Привет! Мы — молодая команда, развивающая <strong>IT-платформу,</strong> которая нацелена на упрощение и улучшение взаимодействия между агентами недвижимости, а также на развитие межагентских продаж. Наш проект — это не просто очередной агрегатор, а <strong>система, объединяющая агентства недвижимости</strong> по всей стране, что позволяет видеть встречные комиссии и оперативно закрывать сделки между агентами. </p> <p> </p> <p>Ищем Junior-программиста для работы. Проект уже полностью завершен с точки зрения разработки, и сейчас мы работаем над его развитием и улучшением. Основная задача программиста — поддержка и развитие сайта, а так же функционала, связанного с генерацией лидов через Авито и их интеграцией на нашу платформу для продажи объектов недвижимости.</p> <p> </p> <p><strong>Необходимый стэк технологий:</strong></p> <p>- Python &gt; v3.12</p> <p>- Библиотеки: aiogram, selenium, requests, PyGui</p> <p>- Typescript</p> <p>- MongoDB/MongoDB Atlas (умение пользоваться mongosh)</p> <p>- Google Sheets API</p> <p> </p> <p><strong>Требования:</strong></p> <p>- Знание и умение строить архитектуру взаимодействия базы данных и скриптов</p> <p>- Опыт в веб-разработке (фронт и бэк)</p> <p>- Умение пользоваться dev tools браузера</p> <p>- Умение работать с Git</p> <p> </p> <p><strong>Что мы предлагаем:</strong></p> <p>- Работу в интересном и динамично развивающемся проекте</p> <p>- Коворкинг с удобным расположением и видом на Невский проспект</p> <p>- Кофе, чай, печеньки и хорошее настроение</p> <p>- Молодой коллектив</p> <p>- Обучение и курирование тех-лидом, который будет помогать вам на всех этапах работы</p> <p>- Пятничные встречи и обсуждения, возможность внести свой вклад в развитие проекта</p> <p> </p> <p>Мы ищем сотрудников, которые разделяют нашу <strong>идею роста и развития</strong> в сфере недвижимости и технологий. Если вы нацелены на результат, хотите работать в инновационной среде и развиваться вместе с нами — <strong>мы будем рады видеть вас в нашей команде</strong>!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "11689693",
+    "name": "Делись",
+    "url": "https://api.hh.ru/employers/11689693",
+    "alternate_url": "https://hh.ru/employer/11689693",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1425577.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7321957.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7321958.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11689693",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-27T15:19:49+0300",
+  "created_at": "2025-05-27T15:19:49+0300",
+  "initial_created_at": "2025-05-27T15:19:49+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121038333",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121038333",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_9",
+      "name": "9 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

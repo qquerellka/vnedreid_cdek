@@ -1,0 +1,154 @@
+{
+  "id": "121258085",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер-программист",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 59000,
+    "to": 60000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 59000,
+    "to": 60000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "улица Блюхера",
+    "building": "40",
+    "lat": 54.991966,
+    "lng": 82.905554,
+    "description": null,
+    "raw": "Новосибирск, улица Блюхера, 40",
+    "metro": {
+      "station_name": "Студенческая",
+      "line_name": "Ленинская",
+      "station_id": "52.300",
+      "line_id": "52",
+      "lat": 54.989089,
+      "lng": 82.906631
+    },
+    "metro_stations": [
+      {
+        "station_name": "Студенческая",
+        "line_name": "Ленинская",
+        "station_id": "52.300",
+        "line_id": "52",
+        "lat": 54.989089,
+        "lng": 82.906631
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li> <ol> <li>Разрабатывает, модернизирует, внедряет и сопровождает WEB-сервисы института в соответствии с перечнем WEB-сервисов.</li> <li>Занимается ведением баз данных по направлениям работы Института, участвует в наполнении и анализе баз данных.</li> <li>Разрабатывает инструкции по работе с программами, оформляет необходимую документацию.</li> <li>Участвует в технологическом обеспечении государственной итоговой аттестации в Новосибирской области, в том числе исполняет обязанности старшего верификатора комплекса обработки ГИА, участвует в обучении верификаторов.</li> <li>Занимается сопровождением и модернизацией публичного сайта Института</li> <li>Разрабатывает SQL-запросы к базам данных и формирует отчеты.</li> <li>Принимает участие в работах, связанных с организационно-техническим и методическим обеспечением организации и проведения государственной (итоговой) аттестации выпускников 9-х и 11-х классов образовательных учреждений Новосибирской области.</li> </ol> </li> </ul> <p> </p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3653573",
+    "name": "ГКУ НСО Новосибирский институт мониторинга и развития образования",
+    "url": "https://api.hh.ru/employers/3653573",
+    "alternate_url": "https://hh.ru/employer/3653573",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3653573",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T06:51:39+0300",
+  "created_at": "2025-06-03T06:51:39+0300",
+  "initial_created_at": "2025-06-03T06:51:39+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121258085",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121258085",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

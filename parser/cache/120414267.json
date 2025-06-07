@@ -1,0 +1,167 @@
+{
+  "id": "120414267",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Бизнес-аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 60000,
+    "to": 80000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 60000,
+    "to": 80000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "MONTHLY",
+      "name": "Раз в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Казань",
+    "street": "Спартаковская улица",
+    "building": "2",
+    "lat": 55.779474,
+    "lng": 49.128126,
+    "description": null,
+    "raw": "Казань, Спартаковская улица, 2",
+    "metro": {
+      "station_name": "Площадь Тукая",
+      "line_name": "Центральная",
+      "station_id": "49.273",
+      "line_id": "49",
+      "lat": 55.787163,
+      "lng": 49.122126
+    },
+    "metro_stations": [
+      {
+        "station_name": "Площадь Тукая",
+        "line_name": "Центральная",
+        "station_id": "49.273",
+        "line_id": "49",
+        "lat": 55.787163,
+        "lng": 49.122126
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Привет! Мы команда амбициозных специалистов, наша компания разработала проекты разной направленности: трудовые мигранты и иностранные студенты ,сервисы по оплате штрафов и задолженностей, маркетплейс продажи картин.</p> <p><strong>Требования:</strong></p> <ul> <li>Обязательно техническое образование;</li> <li>Аналитический склад ума, усидчивость;</li> <li>Умение быстро вникать в суть новых процессов, документации и законодательства;</li> <li>Понимание жизненного цикла ПО и методологии разработки;</li> <li>Умение оценивать и приоритизировать задачи.</li> </ul> <p><strong>Задачи:</strong></p> <ul> <li>понимание продуктов компании, их составляющих частей, особенностей работы, взаимодействие с контрагентами;</li> <li>анализ предметной области и формирование основной сути;</li> <li>взаимодействие с руководителями проектов и отделов для выработки решений задач;</li> <li>постановка и приемка задач.</li> </ul> <p><strong>Условия работы</strong>:</p> <ul> <li> <p>Комфортный офис в центре города в IT-парк им.Башира Рамеева(только офисный формат работы);</p> </li> <li> <p>Трудоустройство - ГПХ;</p> </li> <li> <p>График 5/2 с 9:00 до 18:00;</p> </li> <li> <p>Чай/кофе/плюшки</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Оптимизация бизнес-процессов"
+    },
+    {
+      "name": "Аналитическое мышление"
+    },
+    {
+      "name": "Расстановка приоритетов"
+    },
+    {
+      "name": "Системное мышление"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "150",
+      "name": "Бизнес-аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3791667",
+    "name": "Простые Платежи",
+    "url": "https://api.hh.ru/employers/3791667",
+    "alternate_url": "https://hh.ru/employer/3791667",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3791667",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-12T14:23:20+0300",
+  "created_at": "2025-05-12T14:23:20+0300",
+  "initial_created_at": "2025-05-12T14:23:20+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120414267",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120414267",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

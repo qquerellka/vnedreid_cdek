@@ -1,0 +1,176 @@
+{
+  "id": "121015218",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Фронтенд разработчик React/JavaScript (\"Резиденты Астана Hub\")",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "72",
+    "name": "Пермь",
+    "url": "https://api.hh.ru/areas/72"
+  },
+  "salary": {
+    "from": 80000,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 80000,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "part",
+    "name": "Частичная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Привет, я Виктор Комаров, основатель чат-бот платформы для автоматизации взаимодействия с клиентами в мессенджерах - IntellectDialog.</strong></p> <p>Мы ищем <strong>фронтенд разработчика с сильными навыками верстки</strong> на проектную или постоянную работу (по задачам с почасовой оплатой) с дальнейшим получением доли в компании.</p> <p>В рамках задач предстоит работать с легаси модулями на PHP и чистом JavaScript, которые нужно дорабатывать и развивать.</p> <p>Можно работать в удобное время и совмещать с основной работой.</p> <p><strong>Что предстоит делать:</strong></p> <ul> <li>Верстка новых интерфейсов и доработка существующих</li> <li>Создание и интеграция JavaScript модулей</li> <li>Работа с легаси модулями - анализ, рефакторинг, добавление функциональности</li> <li>Исправление ошибок и тестирование</li> <li>Адаптивная верстка под разные устройства</li> </ul> <p><strong>Ищем кандидата с опытом:</strong></p> <ul> <li><strong>Качественная верстка</strong> - от2+ лет реального опыта</li> <li><strong>Модульный JavaScript</strong> - умение создавать и подключать JS модули</li> <li><strong>HTML5/CSS3</strong> - знание современных стандартов и best practices</li> <li><strong>Работа с легаси кодом</strong> - умение разбираться в существующих модулях и дорабатывать их</li> <li><strong>Git</strong> (Github, Gitlab) - опыт командной разработки</li> <li><strong>Кроссбраузерность</strong> и адаптивность</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт работы с PHP проектами</li> <li>Знание препроцессоров CSS (Sass/Less)</li> <li>Понимание принципов UX/UI</li> </ul> <p>Заинтересовала вакансия? Ждем от вас отклика с примерами работ по верстке и опытом работы с JavaScript модулями. Надеемся, что вы присоединитесь к команде IntellectDialog!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Git"
+    },
+    {
+      "name": "удаленная работа"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "SCSS"
+    },
+    {
+      "name": "Оптимизация кода"
+    },
+    {
+      "name": "Frontend"
+    },
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "HTML"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4376647",
+    "name": "ИнтеллектДиалог",
+    "url": "https://api.hh.ru/employers/4376647",
+    "alternate_url": "https://hh.ru/employer/4376647",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/742913.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/3412613.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3412614.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4376647",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-27T10:03:38+0300",
+  "created_at": "2025-05-27T10:03:38+0300",
+  "initial_created_at": "2025-05-27T10:03:38+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121015218",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121015218",
+  "working_days": [],
+  "working_time_intervals": [
+    {
+      "id": "from_four_to_six_hours_in_a_day",
+      "name": "Можно сменами по 4-6 часов в день"
+    }
+  ],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "PART",
+    "name": "Частичная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    },
+    {
+      "id": "WEEKEND",
+      "name": "По выходным"
+    },
+    {
+      "id": "FLEXIBLE",
+      "name": "Свободный"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_2",
+      "name": "2 часа"
+    },
+    {
+      "id": "HOURS_3",
+      "name": "3 часа"
+    },
+    {
+      "id": "HOURS_4",
+      "name": "4 часа"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,164 @@
+{
+  "id": "119864756",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Программист 1С",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 180000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 180000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Берёзовский",
+    "street": "Уральская улица",
+    "building": "140",
+    "lat": 56.896327,
+    "lng": 60.778341,
+    "description": null,
+    "raw": "Берёзовский, Уральская улица, 140",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>АйТиНавигатор - аккредитованная IT компания с прокаченными направлениями: системная интеграция, развертывание и управление ИТ-инфраструктурой, разработка программного обеспечения.</strong></p> <p>Мы в поисках и приглашаем присоединиться - <strong>Программиста 1С в одну из продуктовых команд разработки по сопровождению оптового направления Бизнеса.</strong></p> <p><strong>Состав команды:</strong> Руководитель группы разработки, Тех лид<strong>,</strong> ведущий программист, программисты 1С, системный аналитик, тестировщик.</p> <p><strong>1С продукты команды: </strong>конфигурации - УТ 10.3, 11</p> <p><strong>Сотрудничая с нами, Вас ждёт:</strong></p> <ul> <li>Методология SCRUM</li> <li>Готовность Компании вкладываться в развитие, в том числе финансовая помощь в оплате профессионального обучения</li> <li>Льготы для сотрудников в рамках <strong>аккредитованной IT компании</strong></li> <li>Оплата труда четко в срок и официально. Уровень обсуждаем индивидуально, опираясь на hard skills</li> <li>Удобный график работы 5/2, с гибким началом рабочего дня (8:00-11:00)</li> <li>Готовы предложить удаленный формат работы</li> <li>Оборудованное рабочее место в головном офисе компании г. Березовский Уральская 150</li> <li>Бесплатный корпоративный транспорт из городов: Екатеринбург - районы Вторчермет, Уктус, Ботаника, Площадь 1905, Пионерский, ЖБИ, метро Уралмаш, Сортировка; Березовский; Среднеуральск; Верхняя Пышма</li> <li>Современный офис с собственной кухней. Всегда свежие фрукты, внусняшки на любой вкус и свежезаваренный кофе с молоком</li> <li>Собственная большая автопарковка</li> <li>Столовая на территории с корпоративной системой компенсации питания</li> <li>Корпоративные скидки на товары и услуги компаний-партнеров</li> </ul> <p><strong>Задачи предстоит решать следующие:</strong></p> <ul> <li>Разработка по поступающим задачам в конфигурациях 1С: УТ 10.3, 11</li> </ul> <p><strong>Наши ожидания:</strong></p> <ul> <li>Навыки программирования на платформе «1С: Предприятие 8.3», разработка на управляемых формах</li> <li>Разработка отчетов средствами СКД, знание методов оптимизации запросов</li> <li>Знания работы с библиотекой стандартных подсистем</li> <li>Навык использования конвертации данных 2.0</li> <li>Навыки использования расширений конфигурации</li> <li>Опыт разработки нового функционала, оптимизация существующего на базе 1С: УТ, УНФ, УПП/КА/ERP – функциональные блоки: закупки, продажи, склад</li> <li>Опыт работы с обменами: настройка и доработка механизмов интеграции между разными продуктами/конфигурациями 1C</li> <li>Опыт работы с web- сервисами, HTTP сервисами, JSON</li> <li>Опыт работы с маркетплейсами желательно.</li> </ul> <p><strong>Ощути драйв от результатов и новых достижений в нашей команде.</strong></p> <p><strong>Задавай любые вопросы в мессенджерах или звони!</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "1С программирование"
+    },
+    {
+      "name": "Оптимизация кода"
+    },
+    {
+      "name": "Системная интеграция"
+    },
+    {
+      "name": "1С: Управление Торговлей"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10818481",
+    "name": "АйТиНавигатор",
+    "url": "https://api.hh.ru/employers/10818481",
+    "alternate_url": "https://hh.ru/employer/10818481",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1242688.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6591185.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6591186.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10818481",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T13:52:21+0300",
+  "created_at": "2025-06-02T13:52:21+0300",
+  "initial_created_at": "2025-04-23T12:49:52+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119864756",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119864756",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,151 @@
+{
+  "id": "120810069",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "React-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 90000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 90000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "улица Розы Люксембург",
+    "building": "67Б",
+    "lat": 56.825705,
+    "lng": 60.616007,
+    "description": null,
+    "raw": "Екатеринбург, улица Розы Люксембург, 67Б",
+    "metro": {
+      "station_name": "Геологическая",
+      "line_name": "Север-Юг",
+      "station_id": "48.267",
+      "line_id": "48",
+      "lat": 56.826715,
+      "lng": 60.603754
+    },
+    "metro_stations": [
+      {
+        "station_name": "Геологическая",
+        "line_name": "Север-Юг",
+        "station_id": "48.267",
+        "line_id": "48",
+        "lat": 56.826715,
+        "lng": 60.603754
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Привет! Мы — студия «ИСКРА»‎, аккредитованная IT-компания, занимаемся разработкой сайтов, CRM, дизайном и брендингом. Ищем в нашу дружную, молодую команду уверенного react разработчика.</p> <p>Вам предстоит работа над разнообразными и интересными проектами с нашим крутым дизайном. Среди наших клиентов крупные федеральные и региональные компании. Такие как сеть фитнес-клубов X-fit, Danone, Технониколь, Volvo, Skoda, Атомстройкомплекс, УБРиР, Palmolive.</p> <p><strong>Входим в ТОП-4 веб-студий Екатеринбурга!</strong></p> <p><strong>Больше информации о нас и примеры того что мы создаем на сайте: iskra.st.</strong></p> <p><strong>Вместе с откликом на вакансию присылайте пожалуйста ссылку на свои работы.</strong></p> <p><strong>РАССМАТРИВАЕМ ТОЛЬКО КАНДИДАТОВ С РЕЛЕВАНТНЫМ ОПЫТОМ!</strong></p> <p><strong>РАБОТА ИСКЛЮЧИТЕЛЬНО В ОФИСЕ, В ЕКАТЕРИНБУРГЕ!</strong></p> <p><strong>Обязанности:</strong></p> <ul> <li> <p>Верстка веб-сайтов по макетам (адаптивно, семантично, кроссбраузерно);</p> </li> <li> <p>Создание анимаций и интерактивных элементов;</p> </li> <li> <p>Интеграция с API и настройка клиентской логики;</p> </li> <li> <p>Работа с сервером, хостингом и доменами при необходимости;</p> </li> <li> <p>Участие в обсуждении задач, планировании и реализации интерфейсов.</p> </li> </ul> <p><strong>Требования: </strong></p> <p><strong>Hard skills:</strong></p> <ul> <li> <p>Уверенные знания JavaScript (предпочтительно TypeScript);</p> </li> <li> <p>Опыт создания SPA-приложений;</p> </li> <li> <p>Понимание принципов чистой архитектуры, разделения ответственности;</p> </li> <li> <p>Уверенная работа с REST API и WebSocket;</p> </li> <li> <p>Опыт настройки и использования сборщиков (Webpack, Vite и др.);</p> </li> <li> <p>Навыки отладки, использования DevTools, линтеров, форматтеров;</p> </li> <li> <p>Базовые знания юнит- и e2e-тестирования;</p> </li> <li> <p>Умение работать с Git (в том числе в команде);</p> </li> <li> <p>Профессиональное владение React. Опыт использования в разработке не менее 2-х лет;</p> </li> <li> <p>Профессиональное владение Next.js и опыт создания приложений с серверным и гибридным рендерингом;</p> </li> <li> <p>Умение работать с диспетчерами состояния (Redux, MobX, Zustand и т.д);</p> </li> <li> <p>Умение развернуть приложение в Docker;</p> </li> <li> <p>Базовое понимание Kubernetes;</p> </li> <li> <p>Хорошие познания в области UI/UX на уровне достаточном для проведения дизайн ревью перед взятием макетов в разработку.</p> </li> </ul> <p><strong>Soft skills:</strong></p> <ul> <li> <p>Умение работать в команде и открыто говорить о проблемах, предлагая решения;</p> </li> <li> <p>Инициативность и желание расти, предлагать улучшения и новые подходы;</p> </li> <li> <p>Вежливость и уважительное отношение к коллегам (мы за комфортные и экологичные условия работы);</p> </li> <li> <p>Внимательность и ответственность (понимание, что от того какой продукт вы сделаете зависит то насколько пользователю будет удобно работать и наша репутация).</p> </li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li> <p>Опыт работы с Node.js на Koa.js;</p> </li> <li> <p>Опыт работы с контентной cms системой Strapi;</p> </li> <li> <p>Опыт работы с системами виртуализации и оркестрации контейнеров;</p> </li> <li> <p>Опыт работы с системами сбора метрик (Яндекс.Метрика, Яндекс.Вебмастер, Google Search Console);</p> </li> <li> <p>Опыт работы с GSAP, Lottie, Three.js. </p> </li> </ul> <p><strong>Условия:</strong></p> <ul> <li> <p>Аккредитованная IT-компания: сотрудники освобождаются от мобилизации и призыва, имеют возможность получения льготной ипотеки;</p> </li> <li> <p>Работа в современном и комфортном офисе в центре Екатеринбурга, после 1-2 месяцев работы возможен гибрид;</p> </li> <li> <p>График с 10:00 до 19:00;</p> </li> <li> <p>Предоставляем ПК под запрос;</p> </li> <li> <p>Своя кухня, печеньки и кофе;</p> </li> <li> <p>Дружная молодая команда;</p> </li> <li> <p>Перспективы профессионального и карьерного роста.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4240536",
+    "name": "Студия ИСКРА",
+    "url": "https://api.hh.ru/employers/4240536",
+    "alternate_url": "https://hh.ru/employer/4240536",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/680689.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/3163888.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3163889.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4240536",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-21T11:45:51+0300",
+  "created_at": "2025-05-21T11:45:51+0300",
+  "initial_created_at": "2025-05-21T11:45:51+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120810069",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120810069",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

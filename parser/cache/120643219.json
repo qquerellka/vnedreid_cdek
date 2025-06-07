@@ -1,0 +1,137 @@
+{
+  "id": "120643219",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "AQA-инженер (AQA Java)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 160000,
+    "to": 230000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 160000,
+    "to": 230000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>EnjoyPro</strong> – это команда экспертов в области высоких технологий и разработки программного обеспечения.</p> <p><strong>Проекты:</strong></p> <p>1. Банковские проекты, дистанционное банковское обслуживание для физических и юридических лиц.</p> <p>2. Единая платформа для клиентской поддержки, которая позволяет обрабатывать обращения пользователей.</p> <p>3. Маркетплейс.</p> <p><br /><strong>Вам предстоит:</strong></p> <ul> <li>Поиск дефектов в функционировании, логике работы, документации ПО и контроль их исправления;</li> <li>Разработка тестовых сценариев, тест-кейсов и чеклистов;</li> <li>Разработка и поддержка в актуальном состоянии технической документации по тестированию;</li> <li>Написание автотестов;</li> <li>Взаимодействие с разработчиками, техническими писателями и аналитиками.</li> </ul> <p><strong>Мы ожидаем от Вас:</strong></p> <ul> <li><strong>Опыт работы в тестировании от 4 лет</strong>;</li> <li>Опыт написания автотестов на Java от 2 лет;</li> <li>Знание теории и методологии тестирования ПО;</li> <li>Знание артефактов тестирования (тест план, тестовый набор, тест кейс, чеклист, баг репорт) и опыт работы с ними;</li> <li>Опыт самостоятельного тестирования на всем цикле разработки ПО;</li> <li>Опыт анализа требований и документации;</li> <li>Навыки формализации требований с точки зрения тестирования (что проверять и как проверять);</li> <li>Опыт работы с системами CI;</li> <li>Опыт разработки фреймворка тестирования;</li> <li>Опыт написания тестов для фронта и бекенда;</li> <li>Опыт работы с Junit/TestNG, Assured, Postman, Appium, Selenium, Allure или аналогами.</li> </ul> <p><strong>Желательно:</strong></p> <ul> <li>Опыт работы с технологиями контейнеризации (Docker, Kubernetes и т.д.);</li> <li>Опыт работы с высоконагруженными системами;</li> <li>Опыт проведения нагрузочного тестирования.</li> </ul> <p><br /><strong>Мы готовы предложить:</strong></p> <ul> <li>Удаленная работа;</li> <li>График работы 5/2 с гибким началом рабочего дня;</li> <li>Оформление по ТК РФ (Аккредитованная ИТ Компания);</li> <li>Амбициозные проекты, интересные с профессиональной точки зрения задачи;</li> <li>Широкий технологический стек;</li> <li>Возможность профессионального и карьерного роста - в динамично развивающейся компании.</li> </ul> <p><strong>Ждём тебя в нашей команде!</strong></p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Java"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5179890",
+    "name": "Enjoypro",
+    "url": "https://api.hh.ru/employers/5179890",
+    "alternate_url": "https://hh.ru/employer/5179890",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/813811.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3696131.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3696132.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5179890",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T16:05:58+0300",
+  "created_at": "2025-06-06T16:05:58+0300",
+  "initial_created_at": "2025-05-16T16:05:58+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120643219",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120643219",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

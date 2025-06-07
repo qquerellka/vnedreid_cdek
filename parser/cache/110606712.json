@@ -1,0 +1,155 @@
+{
+  "id": "110606712",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Младший программист C++ / Junior C++ Developer (Windows, UNIX)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": null,
+    "lng": null,
+    "description": null,
+    "raw": null,
+    "metro": {
+      "station_name": "Горьковская",
+      "line_name": "Московско-Петроградская",
+      "station_id": "15.216",
+      "line_id": "15",
+      "lat": 59.956112,
+      "lng": 30.31889
+    },
+    "metro_stations": [
+      {
+        "station_name": "Горьковская",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.216",
+        "line_id": "15",
+        "lat": 59.956112,
+        "lng": 30.31889
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "flexible",
+    "name": "Гибкий график"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>«Доктор Веб» создает антивирусные решения для разных операционных систем и мобильных платформ, для домашнего использования и для защиты корпораций. Если у вас нет опыта работы, но есть интерес к разработке модулей централизованного управления антивирусными продуктами, если вы способны быстро учиться новому, готовы инициативно развивать проект, заинтересованы в создании качественного продукта, то эта вакансия для Вас.<br /><br /><strong>Обязанности:</strong></p> <ul> <li>Разработка и поддержка модулей централизованного управления продуктами компании (преимущественно серверной части и ряда вспомогательных утилит).</li> </ul> <p><br /><strong>Требования:</strong></p> <ul> <li>Знание C++ и STL;</li> <li>Понимание принципов объектно-ориентированного программирования;</li> <li>Знание классических алгоритмов и структур данных;</li> <li>Технический английский.</li> </ul> <p> </p> <p><strong>Желательно:</strong></p> <ul> <li>Опыт разработки многопоточных приложений;</li> <li>Опыт разработки кроссплатформенных приложений (Windows, Unix);</li> <li>Опыт разработки сетевых приложений (TCP/IP, Windows Sockets, BSD Sockets);</li> <li>Опыт разработки приложений баз данных (SQL-92);</li> <li>Опыт работы с системами контроля версий.</li> </ul> <p> </p> <p><strong>Мы предлагаем: </strong></p> <ul> <li>Официальное трудоустройство;</li> <li>Работу в офисе, гибкое начало рабочего дня;</li> <li>Современный офис на Петроградской стороне;</li> <li>Конкурентоспособную заработную плату (обсуждается индивидуально, зависит от вашего опыта и квалификации);</li> <li>ДМС, включая стоматологию;</li> <li>Горячие обеды, фрукты, напитки;</li> <li>Зону отдыха, тренажеры, полезные для работы книги.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "C++"
+    },
+    {
+      "name": "STL"
+    },
+    {
+      "name": "Алгоритмы и структуры данных"
+    },
+    {
+      "name": "ООП"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": "junior ES",
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "8884",
+    "name": "Доктор Веб",
+    "url": "https://api.hh.ru/employers/8884",
+    "alternate_url": "https://hh.ru/employer/8884",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1386816.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7167051.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7167052.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=8884",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-19T14:12:54+0300",
+  "created_at": "2025-05-19T14:12:54+0300",
+  "initial_created_at": "2024-11-11T09:58:19+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=110606712",
+  "has_test": true,
+  "test": {
+    "required": true
+  },
+  "alternate_url": "https://hh.ru/vacancy/110606712",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FLEXIBLE",
+      "name": "Свободный"
+    },
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

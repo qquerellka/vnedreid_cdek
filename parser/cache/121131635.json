@@ -1,0 +1,147 @@
+{
+  "id": "121131635",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "N8N разработчик",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 1000,
+    "to": 1200,
+    "currency": "USD",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 1000,
+    "to": 1200,
+    "currency": "USD",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы ищем разработчика, который поможет нам автоматизировать процессы в двух активных продуктах с помощью платформы <strong>n8n</strong> и интеграций с <strong>ML-моделями</strong>. В рамках задач предстоит строить пайплайны, соединяющие различные внешние и внутренние API, обрабатывать данные, запускать ML-инференсы и автоматизировать действия — например, ревью pull request&#39;ов или отправку нотификаций.</p> <p>Если тебе интересно проектировать автоматизации, работать на стыке backend и AI, и ты умеешь собирать гибкие сценарии с помощью n8n или Zapier — нам по пути.</p> <p><strong>Обязанности:</strong></p> <ul> <li> <p>Проектировать и реализовывать автоматизационные пайплайны в n8n (или аналогах)</p> </li> <li> <p>Интегрировать внешние и внутренние API, включая ML-сервисы</p> </li> <li> <p>Разрабатывать вспомогательные скрипты и кастомные ноды при необходимости</p> </li> <li> <p>Автоматизировать процессы в продуктах, включая ревью pull request&#39;ов</p> </li> <li> <p>Взаимодействовать с ML-командой и backend-разработчиками</p> </li> <li> <p>Поддерживать, документировать и масштабировать созданные сценарии</p> </li> </ul> <p><strong>Требования:</strong></p> <ul> <li> <p>Уверенные знания JavaScript / Node.js</p> </li> <li> <p>Практический опыт работы с n8n (сборка и настройка пайплайнов)</p> </li> <li> <p>Понимание принципов REST API, webhooks, авторизации</p> </li> <li> <p>Умение проектировать логичные и устойчивые автоматизационные процессы</p> </li> <li> <p>Опыт работы с Git (желательно GitHub API)</p> </li> <li> <p>Навыки работы с внешними сервисами и API-интеграциями</p> </li> <li> <p>Базовое понимание ML-интеграций и потоков данных</p> </li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li> <p>Опыт в разработке кастомных нод для n8n</p> </li> <li> <p>Опыт автоматизации процессов разработки (CI/CD, ревью, issue-трекинг)</p> </li> </ul> <p><strong>Условия:</strong></p> <ul> <li> <p>Удаленная работа</p> </li> <li> <p>Гибкий график</p> </li> <li> <p>Участие в реальных продуктах, где автоматизация и ML — ключевые направления</p> </li> <li> <p>Возможность влиять на архитектуру решений</p> </li> <li> <p>Долгосрочное сотрудничество</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "N8N"
+    },
+    {
+      "name": "No-code"
+    },
+    {
+      "name": "Node.js"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9667695",
+    "name": "Реллер Про",
+    "url": "https://api.hh.ru/employers/9667695",
+    "alternate_url": "https://hh.ru/employer/9667695",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9667695",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-29T14:53:09+0300",
+  "created_at": "2025-05-29T14:53:09+0300",
+  "initial_created_at": "2025-05-29T14:53:09+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121131635",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121131635",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b1",
+        "name": "B1 — Средний"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

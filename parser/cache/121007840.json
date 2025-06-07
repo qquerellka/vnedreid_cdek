@@ -1,0 +1,125 @@
+{
+  "id": "121007840",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Программист С++",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 350000,
+    "to": 450000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 350000,
+    "to": 450000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Компания «СёрчИнформ» – ведущий российский разработчик средств информационной. Входит в НП «Руссофт», член АПКИТ. Аккредитована в качестве ИТ-компании.</p> <p>Разработка рассредоточена в десятке разных городов: мы ищем лучших в своем деле, где бы они ни жили, и создаем комфортные условия для работы на компанию мирового уровня в привычной среде.</p> <p>Наша команда состоит из профессионалов, с классным бэкграундом в крупнейших ИТ-проектах страны, у которых есть чему поучиться.</p> <p>Мы ищем в команду заинтересованного и увлеченного работой кандидата, готового разбираться в новом, оптимизировать уже сделанное, развиваться самому и развивать доверенное ему направление.</p> <p> </p> <p><strong>Что ожидаем от кандидата:</strong></p> <ul> <li>хорошее знание C и C++ (STL, Boost), понимание ООП, шаблонов проектирования и основных принципов разработки программ;</li> <li>уверенные знания Windows, ее внутренних механизмов и модели безопасности (Win32/NT API, x64, IPC, службы, инжект, перехват функций, недокументированные возможности);</li> <li>опыт разработки многопоточных приложений;</li> <li>навыки исследователя: умение самостоятельно проводить анализ и диагностику проблем, находить решения для сложных и нестандартных задач, пользоваться соответствующими инструментами (WinDBG, Sysinternals, WPP, xperf, API Monitor, IDA Pro).</li> </ul> <p> </p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>разработка и поддержка компонентов систем защиты от внешних и внутренних угроз.</li> </ul> <p> </p> <p><strong>Почему вам у нас понравится:</strong></p> <ul> <li>нет рутины, если она появляется, мы её автоматизируем;</li> <li>мы даем все необходимые устройства для работы</li> <li>у каждого из нас ДМС;</li> <li>достойная зарплата;</li> <li>гарантия профессионального роста;</li> <li>комфортные условия труда, чай, кофе, фрукты, печеньки.</li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "719820",
+    "name": "SearchInform",
+    "url": "https://api.hh.ru/employers/719820",
+    "alternate_url": "https://hh.ru/employer/719820",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/940031.png",
+      "90": "https://img.hhcdn.ru/employer-logo/4200668.png",
+      "240": "https://img.hhcdn.ru/employer-logo/4200669.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=719820",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-27T07:55:24+0300",
+  "created_at": "2025-05-27T07:55:24+0300",
+  "initial_created_at": "2025-05-27T07:55:24+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121007840",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121007840",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

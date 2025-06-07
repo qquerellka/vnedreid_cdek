@@ -1,0 +1,140 @@
+{
+  "id": "120643320",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Frontend developer (React)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 180000,
+    "to": 250000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 180000,
+    "to": 250000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>EnjoyPro</strong> – это команда экспертов в области высоких технологий и разработки программного обеспечения.<br /><br /><strong>Проекты</strong></p> <p>1. Система для заказа, согласования и оформления пропусков, а также комплекс допуска автотранспорта на территорию предприятия.</p> <p>2. Проект по информационной безопасности<strong> </strong>- осуществляет мониторинг, ревизию, сопровождение и совершенствование информационной безопасности предприятия.</p> <p>3. Проект по автоматизации рабочего места банковского сотрудника.</p> <p><br /><strong><strong>Вам предстоит:</strong></strong></p> <ul> <li>Разработка и поддержка программных продуктов компании;</li> <li>Знакомиться и внедрять новейшие технологии;</li> <li>Code review;</li> <li>Оценка трудоемкости задач;</li> </ul> <p><strong>Мы ожидаем от Вас:</strong></p> <ul> <li>Опыт работы в области Frontend developer (React) от 5 лет;</li> <li>Отличное знание языков JavaScript,Typescript;</li> <li>Практический опыт использования react, React (hooks) , Redux-Saga, Scss;</li> <li>Хорошее знание HTML/CSS;</li> <li>Хорошее знание методологий проектирования ПО и командной разработки;</li> <li>Умение оценивать объем и сроки работ;</li> <li>Навыки уверенной работы с GIT, системами bug tracking, плюсом будет владение TFS;</li> <li>Опыт написания unit тестов;</li> </ul> <p><strong>Мы готовы предложить:</strong></p> <ul> <li>Удаленная работа;</li> <li>График работы 5/2 с гибким началом рабочего дня;</li> <li>Оформление по ТК РФ (Аккредитованная ИТ Компания);</li> <li>Амбициозные проекты, интересные с профессиональной точки зрения задачи;</li> <li>Широкий технологический стек;</li> <li>Возможность профессионального и карьерного роста - в динамично развивающейся компании;</li> </ul> <p><strong>Ждём тебя в нашей команде!</strong></p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "React.js"
+    },
+    {
+      "name": "TypeScript"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5179890",
+    "name": "Enjoypro",
+    "url": "https://api.hh.ru/employers/5179890",
+    "alternate_url": "https://hh.ru/employer/5179890",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/813811.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3696131.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3696132.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5179890",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T16:08:07+0300",
+  "created_at": "2025-06-06T16:08:07+0300",
+  "initial_created_at": "2025-05-16T16:08:07+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120643320",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120643320",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

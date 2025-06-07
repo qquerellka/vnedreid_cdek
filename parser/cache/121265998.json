@@ -1,0 +1,151 @@
+{
+  "id": "121265998",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "53",
+    "name": "Краснодар",
+    "url": "https://api.hh.ru/areas/53"
+  },
+  "salary": {
+    "from": 67000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 67000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Краснодар",
+    "street": "Центральный внутригородской округ, микрорайон Центральный, улица Захарова",
+    "building": "11",
+    "lat": 45.003665,
+    "lng": 38.964955,
+    "description": null,
+    "raw": "Краснодар, Центральный внутригородской округ, микрорайон Центральный, улица Захарова, 11",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <ul> <li> <p>настройка оборудования и программного обеспечения;</p> </li> <li> <p>оказание технической и программной поддержки пользователей(локально);</p> </li> <li> <p>формирование технических заданий на закупку офисного оборудования и программного обеспечения;</p> </li> <li> <p>обслуживание офисной оргтехники.</p> </li> </ul> <strong>Требования:</strong> <ul> <li> <p>высшее или среднее профильное/техническое образование;</p> </li> <li> <p>знания стека протоколов TCP/IP;</p> </li> <li> <p>ориентация на результат, ответственность, готовность к саморазвитию, умение работать в команде.</p> </li> </ul> <strong>Условия:</strong> <ul> <li> <p>официальное трудоустройство согласно законодательству РФ;</p> </li> <li> <p>полный рабочий день;</p> </li> <li> <p>оборудованное рабочее место;</p> </li> <li> <p>приятный и дружный коллектив.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Информационные технологии"
+    },
+    {
+      "name": "Разработка технических заданий"
+    },
+    {
+      "name": "MS Windows"
+    },
+    {
+      "name": "Техническая поддержка"
+    },
+    {
+      "name": "Системный администратор"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9070230",
+    "name": "ГКУ КК Цифровая Кубань",
+    "url": "https://api.hh.ru/employers/9070230",
+    "alternate_url": "https://hh.ru/employer/9070230",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1009601.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5659180.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5659181.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9070230",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T09:39:35+0300",
+  "created_at": "2025-06-03T09:39:35+0300",
+  "initial_created_at": "2025-06-03T09:39:35+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121265998",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121265998",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

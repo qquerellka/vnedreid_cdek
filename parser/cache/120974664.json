@@ -1,0 +1,135 @@
+{
+  "id": "120974664",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Продукт менеджер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Казань",
+    "street": "Оренбургский тракт",
+    "building": "128А",
+    "lat": 55.737588,
+    "lng": 49.168218,
+    "description": null,
+    "raw": "Казань, Оренбургский тракт, 128А",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>В интернет-платформу для профессиональных клиентов Smart-shop.pro требуется менеджер по работе с базой данных товаров .</p> <p><strong>Обязанности:</strong></p> <p>1. Управление базой товаров интернет-платформы по закрепленной группе производителей и поддержание ее в актуальном состоянии:</p> <ul> <li>импорт ассортимента товаров производителя в каталог</li> <li>заполнение технических характеристик товаров</li> <li>обновление цен при изменении тарифа производителем</li> </ul> <p>2. Управление отношениями с производителями товаров и создания оптимального товарного предложения:</p> <ul> <li>своевременный ввод новых товаров при вводе в ассортимент у производителя</li> <li>управление обменом информации с производителем для получения актуальной информации о товарах</li> <li>управление ассортиментом</li> </ul> <p><strong>Требования:</strong></p> <p>- Хорошее владение ПК, программой Office, Excel</p> <p>- Знания и навыки в электротехническом и инженерном оборудовании</p> <p>- Внимание к деталям</p> <p><strong>Условия:</strong></p> <p>- Оформление по ТК РФ с первого дня работы</p> <p>- Полный социальный пакет</p> <p>- Заработная плата складывается из нескольких показателей: оклад, премия за выполнение установленных показателей (не ограничена и не зависит от оклада)</p> <p>- Завтраки и обеды за счет работодателя</p> <p>- График работы 5/2, с 8.00 до 17.00</p> <p>- Оборудованное комфортное рабочее место</p> <p>- Работа в команде</p> <p>- Обучение за счет компании</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "73",
+      "name": "Менеджер продукта"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "138262",
+    "name": "SMART-SHOP",
+    "url": "https://api.hh.ru/employers/138262",
+    "alternate_url": "https://hh.ru/employer/138262",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/734151.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3377581.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3377582.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=138262",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-26T12:46:43+0300",
+  "created_at": "2025-05-26T12:46:43+0300",
+  "initial_created_at": "2025-05-26T12:46:43+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120974664",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120974664",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

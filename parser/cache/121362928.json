@@ -1,0 +1,187 @@
+{
+  "id": "121362928",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Специалист технической поддержки",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 45000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 45000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Казань",
+    "street": "Гвардейская улица",
+    "building": "54И",
+    "lat": 55.768314,
+    "lng": 49.175261,
+    "description": null,
+    "raw": "Казань, Гвардейская улица, 54И",
+    "metro": {
+      "station_name": "Аметьево",
+      "line_name": "Центральная",
+      "station_id": "49.275",
+      "line_id": "49",
+      "lat": 55.765346,
+      "lng": 49.165083
+    },
+    "metro_stations": [
+      {
+        "station_name": "Аметьево",
+        "line_name": "Центральная",
+        "station_id": "49.275",
+        "line_id": "49",
+        "lat": 55.765346,
+        "lng": 49.165083
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Мы разработчики медицинской информационной системы МЕДМИС (программное обеспечение).<br /><br />Медицинская информационная система «МЕДМИС» создана в компании «ГИАСОФТ» и начинает свою историю с 2016 года</strong>.<br />Наша компания является одним из ведущих разработчиков программного обеспечения для частного медицинского сектора и на сегодняшний день медицинской платформой пользуются более 200 медицинских организаций в России и странах СНГ.<br />И сейчас нам нужен специалист технической поддержки, готовый качественно выполнять свою работу по сопровождению наших клиентов. Основные задачи — это настройка, обучение и консультирование пользователей системы.</p> <p><br /><strong>Обязанности:</strong></p> <ul> <li>консультирование пользователей системы по работе программы по телефону, в чате и по электронной почте;</li> <li>обработка обращений, анализ проблем и их устранение;</li> <li>постановка задач разработчикам, тестирование системы;</li> <li>удаленная настройка ПО;</li> <li>обучение пользователей работе с ПО;</li> <li>изучение нового функционала (функциональных модулей);</li> <li>написание документации и обучающих материалов.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>перспективы карьерного роста;</li> <li>стабильная заработная плата (индексируется каждый год);</li> <li>недалеко станция метро Аметьево;</li> <li>график работы пн-пт с 8:30 до 17:30.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>грамотная устная и письменная речь;</li> <li>ответственность и пунктуальность;</li> <li>знание ПК на уровне опытного пользователя;</li> <li>знание HTML/CSS будет большим плюсом;</li> <li>способность к самообучению;</li> <li>приветствуется опыт работы на аналогичных позициях, но не обязателен.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Пользователь ПК"
+    },
+    {
+      "name": "Работа в команде"
+    },
+    {
+      "name": "Грамотная речь"
+    },
+    {
+      "name": "Консультирование клиентов"
+    },
+    {
+      "name": "Консультирование клиентов по телефону"
+    },
+    {
+      "name": "Разработка технических заданий"
+    },
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "Деловое общение"
+    },
+    {
+      "name": "Деловая переписка"
+    },
+    {
+      "name": "Сопровождение клиентов"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1567531",
+    "name": "Гиасофт",
+    "url": "https://api.hh.ru/employers/1567531",
+    "alternate_url": "https://hh.ru/employer/1567531",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1416880.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7287169.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7287170.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1567531",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T08:40:19+0300",
+  "created_at": "2025-06-05T08:40:19+0300",
+  "initial_created_at": "2025-06-05T08:40:19+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121362928",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121362928",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

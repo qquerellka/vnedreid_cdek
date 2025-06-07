@@ -1,0 +1,194 @@
+{
+  "id": "119652760",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Backend-разработчик (PHP)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 180000,
+    "to": 300000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 180000,
+    "to": 300000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Казань",
+    "street": "Кремлёвская улица",
+    "building": "21",
+    "lat": 55.793627,
+    "lng": 49.116394,
+    "description": null,
+    "raw": "Казань, Кремлёвская улица, 21",
+    "metro": {
+      "station_name": "Кремлевская",
+      "line_name": "Центральная",
+      "station_id": "49.272",
+      "line_id": "49",
+      "lat": 55.795206,
+      "lng": 49.105426
+    },
+    "metro_stations": [
+      {
+        "station_name": "Кремлевская",
+        "line_name": "Центральная",
+        "station_id": "49.272",
+        "line_id": "49",
+        "lat": 55.795206,
+        "lng": 49.105426
+      },
+      {
+        "station_name": "Площадь Тукая",
+        "line_name": "Центральная",
+        "station_id": "49.273",
+        "line_id": "49",
+        "lat": 55.787163,
+        "lng": 49.122126
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Наша компания занимает лидирующие позиции в России в разработке и сопровождении систем автоматизации управления аэропортами. Наш продукт DECK.AIR (https://air.deck.lc/) работает 24/7 в более чем 10-ти аэропортах России.</p> <p>Еще одним нашим продуктом является система безопасности сетевых подключений предприятий DECK.AUTH (https://auth.deck.lc/), которой пользуются многие наши крупные заказчики по всей стране.</p> <p><strong>Задачи над которыми предстоит работать:</strong></p> <ul> <li>Разработка api для мобильных приложений и web представлений;</li> <li>Разработка сервисов интеграций и микросервисных модулей;</li> <li>Участие в существующих проектах компании.</li> </ul> <strong>Наши ожидания:</strong> <ul> <li>Хорошее знание PHP;</li> <li>Опыт работы с фреймворками PHP - Yii2, Laravel, Slim;</li> <li>Знание MVC и понимание принципов работы REST;</li> <li>Знание SQL и опыт работы с реляционными базами данных;</li> </ul> <p>Используемый стэк PHP(Yii2, Slim), Golang, Postgresql, RabbitMQ.</p> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Интересные и динамичные проекты enterprise уровня;</li> <li>Системы разного уровня сложности с возможностью применять всесторонние навыки, постоянно изучать современные технологии в области IT и нарабатывать ценный опыт;</li> <li>Оформление по ТК РФ, белая заработная плата. Отпуск как положено — 28 дней в году;</li> <li>Рабочий график: понедельник - пятница с 9:00 до 18:00;</li> <li>Просторный офис в центре города;</li> <li>Работа в команде профессионалов из разных сфер, которые всегда готовы поделиться опытом;</li> <li>100% зерновой кофе в неограниченном количестве;</li> <li> <p>Драйв и любовь к спорту. Мы поддерживаем марафоны по бегу и участвуем в командном забеге в Гонке героев.</p> </li> <li> <p>Насыщенная корпоративная жизнь. У нас есть клуб по интересам, где мы обсуждаем книги и фильмы. Проводим оффлайн квизы, тимбилдинги и праздники. Организуем совместные мероприятия: летний выезд на природу по случаю дня рождения компании, хэллоуин, новогодний корпоратив и делаем подарки детям.</p> </li> </ul> <p> </p> <p>Если вакансия вам интересна и вы подходите,<strong> откликайтесь</strong>. А <strong>мы напишем, что делать дальше.</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "MVC"
+    },
+    {
+      "name": "Yii"
+    },
+    {
+      "name": "REST"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2089366",
+    "name": "ДЕКА",
+    "url": "https://api.hh.ru/employers/2089366",
+    "alternate_url": "https://hh.ru/employer/2089366",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1403380.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7233188.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7233189.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2089366",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-17T16:48:51+0300",
+  "created_at": "2025-05-17T16:48:51+0300",
+  "initial_created_at": "2025-04-17T16:48:50+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119652760",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119652760",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

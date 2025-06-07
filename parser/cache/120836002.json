@@ -1,0 +1,115 @@
+{
+  "id": "120836002",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Mobile QA Engineer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>AMarkets</strong> – международная FinTech компания. С 2007 года мы предоставляем передовые решения для торговли на финансовых рынках для трейдеров и инвесторов во всем мире.</p> <p>За это время <strong>AMarkets</strong> вошла в список компаний, имеющих самые высокие показатели успешности клиентов!</p> <p>В связи с расширением мы ищем <em><strong>QA Mobile</strong></em> в нашу талантливую и дружную QA команду.</p> <p>Если вы хотите развиваться в международной компании и вам интересна сфера финансовых рынков, присылайте ваше резюме. Будет здорово, если скажете несколько слов о себе в сопроводительном письме.</p> <p><strong>Задачи, которые предстоит решать:</strong></p> <ul> <li>Обнаружение, оформление и контроль исправления обнаруженных багов;</li> <li>Написание и поддержка тестовой документации в актуальном состоянии;</li> <li>Ручное тестирование мобильного приложения (Android);</li> <li>Тестирование API;</li> <li>Проведение регрессионного тестирования;</li> <li>Взаимодействие с командой QA, разработчиками, менеджерами, саппортами.</li> </ul> <p><strong>Наши ожидания:</strong></p> <ul> <li>Опыт тестирования мобильных приложений на Android от 2 лет;</li> <li>Критическое мышление, внимательность, ответственность;</li> <li>Лояльность к однообразным повторяющимся задачам;</li> <li>Опыт работы с DevTools;</li> <li>Опыт работы с Postman и аналогами;</li> <li>Опыт работы с SQL на уровне базовых запросов, умение гуглить и разбираться с более сложными;</li> <li>Умение работать с логами;</li> <li>Умение работать в команде.</li> </ul> <p><strong><em>Будет плюсом:</em></strong></p> <ul> <li>Опыт работы в финтехе;</li> <li>Опыт тестирования с доступом к коду;</li> <li>Опыт работы с Charles или аналогами;</li> <li>Опыт работы с эмуляторами/симуляторами.</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Удаленную работу в международной компании;</li> <li>Конкурентную заработную плату и ежегодный бонус по результатам работы;</li> <li>Возможность покупки оборудования, оплаты сервисов и обучения за счет компании;</li> <li>Возможность вносить свой вклад в развитие сложного и востребованного продукта;</li> <li>Простор для творческого решения задач;</li> <li>Интересные проекты, дружный коллектив и реальные возможности роста.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "128241",
+    "name": "AMarkets",
+    "url": "https://api.hh.ru/employers/128241",
+    "alternate_url": "https://hh.ru/employer/128241",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1209118.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6456921.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6456922.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=128241",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T18:25:39+0300",
+  "created_at": "2025-06-05T18:25:39+0300",
+  "initial_created_at": "2025-05-21T18:25:39+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120836002",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120836002",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_9",
+      "name": "9 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

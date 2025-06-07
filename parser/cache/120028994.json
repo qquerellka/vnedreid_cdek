@@ -1,0 +1,143 @@
+{
+  "id": "120028994",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер-программист (на станки ЧПУ)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 110000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 110000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Казань",
+    "street": "улица Лебедева",
+    "building": "1",
+    "lat": 55.756143,
+    "lng": 49.121856,
+    "description": null,
+    "raw": "Казань, улица Лебедева, 1",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>В НОВЫЙ МЕХАНИЧЕСКИЙ ЦЕХ АО &quot;КЗСК&quot; открыт набор сотрудников на вакансию <strong> &quot; Инженер-программист&quot;</strong></p> <p><strong>Обязанности:</strong></p> <ul> <li>Разработка управляющих программ на станки с ЧПУ ( Fanuc).</li> <li>Знание технических процессов металлообработки.</li> <li>Подбор режущего инструмента.</li> <li>Разработка карт наладок.</li> <li>Внедрение новых деталей.</li> <li>Участие в разработке станочных приспособлений.</li> </ul> <strong>Требования:</strong> <ul> <li>Принципы и методы обработки деталей на станках с ЧПУ.</li> <li>Принципы и методы подбора режущего инструмента .</li> <li>Назначение режимом резания, правила технической эксплуатации станков с ЧПУ.</li> <li>Уверенный пользователь Компас-3 D, Siemens NX.</li> </ul> <strong>Условия:</strong> <ul> <li>Заработная плата полностью &quot;белая&quot;, своевременные выплаты 2 раза в месяц<strong>.</strong></li> <li>Режим работы 5/2 (с 08:00-17:00).</li> <li>Официальное трудоустройство с первого рабочего дня.</li> <li>Медицинская комиссия за счет работодателя.</li> <li>Обучение за счет организации.</li> <li>Новогодние подарки детям сотрудников.</li> <li>Возможен карьерный рост.</li> <li>Работа на территории работодателя: Лебедева,1 (остановка Модельная).</li> </ul> <p>Возможно Вы нашли нас по следующим запросам: рабочие без опыта, самолетостроение, вертолетостроение, производство, завод</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10883444",
+    "name": "Казанский завод синтетического каучука",
+    "url": "https://api.hh.ru/employers/10883444",
+    "alternate_url": "https://hh.ru/employer/10883444",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1401441.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7225535.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7225536.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10883444",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-28T15:47:56+0300",
+  "created_at": "2025-05-28T15:47:56+0300",
+  "initial_created_at": "2025-04-28T13:15:49+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120028994",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120028994",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,156 @@
+{
+  "id": "120304739",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Антифрод-аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 98000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 98000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "Советская улица",
+    "building": "14",
+    "lat": 55.026695,
+    "lng": 82.91795,
+    "description": null,
+    "raw": "Новосибирск, Советская улица, 14",
+    "metro": {
+      "station_name": "Площадь Ленина",
+      "line_name": "Ленинская",
+      "station_id": "52.297",
+      "line_id": "52",
+      "lat": 55.029941,
+      "lng": 82.92069
+    },
+    "metro_stations": [
+      {
+        "station_name": "Площадь Ленина",
+        "line_name": "Ленинская",
+        "station_id": "52.297",
+        "line_id": "52",
+        "lat": 55.029941,
+        "lng": 82.92069
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><em><strong>АО «Банк Акцепт»</strong> - один из старейших коммерческих банков России, стабильно работающий на рынке банковских услуг с 1990 г, входит в ТОР-150 крупнейших банков РФ.</em></p> <p><em>Нам уже 34 года, и Банк Акцепт включен в ТОП-100 самых надежных банков России по версии журнала Forbs.</em></p> <p><em>Наши офисы и филиалы находятся в г. Новосибирске и Новосибирской области, г. Барнауле, г. Омске, г. Красноярске и г. Москве.</em></p> <p><em>Ищем в команду </em><strong>Антифрод-аналитика</strong>!</p> <p><strong>Обязанности:</strong></p> <ul> <li>Участвовать в расследовании и урегулировании последствий инцидентов мошенничества;</li> <li>Участвовать в написание новых и корректировке/анализе действующих правил фрод-мониторинга;</li> <li>Обеспечивать функционирование антифрод-системы;</li> <li>Обеспечивать анализ, формирование и предоставление заключений по работе антифрод-систем;</li> <li>Организовать сбор, учет и обработку данных по итогам работы антифрод-системы;</li> <li>Выступать в качестве эксперта по противодействию мошенничества в проектах и процессах Банка;</li> <li>Осуществлять взаимодействия с Банками, подразделениями Банка России и внешними организациями в рамках оперативного разбора возникших в процессе функционирования антифрод-системы и антифрод-событий;</li> <li>Проводить расследования по подозрениям на мошенничество, выявлять уязвимости в процессах, способствующих мошенничеству, предлагать меры по их закрытию.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Высшее образование: техническое/экономическое;</li> <li>Опыт работы в области не менее 3-х лет (желательно в банковской сфере);</li> <li>Знание принципов работы платежных систем;</li> <li>Понимание банковских процессов;</li> <li>Работа с MS Excel;</li> <li>Уверенное владение SQL.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Трудоустройство согласно ТК РФ с первого дня работы;</li> <li>Своевременная и полностью &quot;белая&quot; заработная плата;</li> <li>Достойный уровень дохода;</li> <li>Ежеквартальные премии;</li> <li>ДМС, льготные условия кредитования;</li> <li>Корпоративное обучение;</li> <li>Возможность профессионального развития и карьерного роста.</li> </ul> <p>​​​​​​​<strong>Если вас заинтересовало наше предложение, и вы обладаете необходимыми навыками и знаниями - смело откликайтесь, мы ждем ваше резюме!</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "148",
+      "name": "Системный аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "99456",
+    "name": "Банк Акцепт",
+    "url": "https://api.hh.ru/employers/99456",
+    "alternate_url": "https://hh.ru/employer/99456",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/872030.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/3928995.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3928996.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=99456",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-26T10:14:00+0300",
+  "created_at": "2025-05-26T10:14:00+0300",
+  "initial_created_at": "2025-05-07T08:24:58+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120304739",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120304739",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

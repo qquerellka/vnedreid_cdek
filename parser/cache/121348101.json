@@ -1,0 +1,138 @@
+{
+  "id": "121348101",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Python -разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Дербеневская набережная",
+    "building": "11",
+    "lat": 55.721189,
+    "lng": 37.652301,
+    "description": null,
+    "raw": "Москва, Дербеневская набережная, 11",
+    "metro": {
+      "station_name": "Пролетарская",
+      "line_name": "Таганско-Краснопресненская",
+      "station_id": "7.62",
+      "line_id": "7",
+      "lat": 55.731546,
+      "lng": 37.666917
+    },
+    "metro_stations": [
+      {
+        "station_name": "Пролетарская",
+        "line_name": "Таганско-Краснопресненская",
+        "station_id": "7.62",
+        "line_id": "7",
+        "lat": 55.731546,
+        "lng": 37.666917
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>ООО «ТАНТО-С»</strong> приглашает на открытую вакансию <strong>Аналитик данных (</strong><strong>Python</strong><strong> </strong><strong>-разработчика)</strong></p> <p>ООО «ТАНТО-С» основано 2015 г. и входит в <em>группу компаний AVILEX</em>.</p> <p>Компания занимается разработкой программного обеспечения для государственных и коммерческих структур различного уровня и отраслевой принадлежности.</p> <p>Присоединяйся к нашей команде и прими участие в сложных, социально значимых проектах. Будем вместе решать интересные задачи на стыке бизнеса, информационных технологий и инфраструктурных решений, делать то, чем будут пользовать миллионы!</p> <p><strong>Наши ожидания:</strong></p> <ul> <li>Доработка существующих модулей и создание новых с помощью Python и Django Rest Framework;</li> <li>Настройка интеграций с внешними поставщиками данных;</li> <li>Настройка вспомогательных сервисов - прокси, мок-сервисы;</li> <li>Участие в проектировании архитектуры приложений;</li> <li>Оптимизация и масштабирование существующих систем;</li> <li>Написание и поддержка автоматизированных тестов;</li> <li>Хорошее понимание принципов REST-архитектуры;</li> <li>Знание ORM (желательно Django ORM);</li> <li>Опыт работы с Docker;</li> <li>Опыт CI/CD.</li> </ul> <p><strong>Зона ответственности:</strong></p> <ul> <li>Разработка фронтенд-приложений: бизнес-приложений, web-порталов, корпоративных приложений, построенных по принципу одностраничного приложения (SPA)</li> <li>Разработка «многослойных» приложений, построенных на принципах чистой архитектуры;</li> <li>Выполнение работы по подготовке программ к отладке и ее проведению;</li> <li>Принимать участие в разработке архитектуры приложения;</li> <li>Участие в проверке программного кода, написанного другими разработчиками;</li> <li>Разработка инструкций и оформление необходимой технической документации.</li> </ul> <p><strong>Наши условия:</strong></p> <ul> <li>Офис расположен в БЦ Полларс (Дербеневская набережная, 11);</li> <li>Заработная плата по результатам собеседования;</li> <li>Оформление в соответствии с ТК РФ в аккредитованную IT-компанию;</li> <li>Гибридный график работы пн.-пт. 09:00-18:00 (пятница – дистанционный режим работы);</li> <li>Испытательный срок 3 месяца;</li> <li>ДМС после успешного прохождения испытательного срока;</li> <li>Интересные задачи, разнообразные и востребованные проекты;</li> <li>Молодой дружный коллектив;</li> <li>Чай-кофе-плюшки в офисе.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Django Framework"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5449289",
+    "name": "Танто Солюшнз",
+    "url": "https://api.hh.ru/employers/5449289",
+    "alternate_url": "https://hh.ru/employer/5449289",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5449289",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T16:04:18+0300",
+  "created_at": "2025-06-04T16:04:18+0300",
+  "initial_created_at": "2025-06-04T16:04:18+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121348101",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121348101",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

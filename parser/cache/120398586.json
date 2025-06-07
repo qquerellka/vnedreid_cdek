@@ -1,0 +1,210 @@
+{
+  "id": "120398586",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Java developer (Middle/Senior)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Петроградская набережная",
+    "building": "22",
+    "lat": 59.960291,
+    "lng": 30.33423,
+    "description": null,
+    "raw": "Санкт-Петербург, Петроградская набережная, 22",
+    "metro": {
+      "station_name": "Выборгская",
+      "line_name": "Кировско-Выборгская",
+      "station_id": "14.196",
+      "line_id": "14",
+      "lat": 59.970925,
+      "lng": 30.347408
+    },
+    "metro_stations": [
+      {
+        "station_name": "Выборгская",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.196",
+        "line_id": "14",
+        "lat": 59.970925,
+        "lng": 30.347408
+      },
+      {
+        "station_name": "Горьковская",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.216",
+        "line_id": "15",
+        "lat": 59.956112,
+        "lng": 30.31889
+      },
+      {
+        "station_name": "Площадь Ленина",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.197",
+        "line_id": "14",
+        "lat": 59.955611,
+        "lng": 30.35605
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Paygine — аккредитованная ИТ-компания по организации приема платежей онлайн, в том числе через кросс-платформенные мобильные приложения.</p> <p>Мы специализируемся на обслуживании финансового сектора и является лидирующим поставщиком услуг для банков. Помимо банков, страховых компаний и МФО среди клиентов Paygine — известные интернациональные бренды, маркетплейсы и множество других участников рынка e-commerce.</p> <p>Мы разрабатываем платёжные решения и ищем Java Developer, который понимает принципы разработки ПО, интересуется последними трендами в мире Java и знает, как можно их применить для улучшения существующего кода и оптимального написания нового.</p> <p><strong>Обязанности</strong></p> <ul> <li>Разработка внешних и внутренних сервисов</li> <li>Рефакторинг кода + инфраструктурные задачи</li> <li>Участие в код ревью</li> </ul> <p><strong>Требования</strong></p> <ul> <li>Опыт коммерческой разработки на Java (минимум 8-я версия) от 2-х лет</li> <li>Уверенное владение Spring Framework, Spring Boot</li> <li>Опыт коммерческой разработки с одним из брокеров сообщений: Kafka, Rabbit MQ или Active MQ</li> <li>Коммерческий опыт работы с PostgreSQL или Oracle</li> <li>Умение работать с Git, Maven, Unix-системами</li> <li>Умение документировать код</li> </ul> <p><strong>Будет плюсом</strong></p> <ul> <li>Опыт работы с Hazelcast в условиях высоконагруженных систем</li> <li>Опыт работы со спецификацией Java EE (EJB, JMS, JPA)</li> </ul> <p><strong>Мы предлагаем</strong></p> <ul> <li>Конкурентную заработную плату</li> <li>Ежегодное премирование по результатам выполненных годовых целей и годовой оценки руководителя в размере до одного месячного оклада</li> <li>Возможность карьерного и профессионального роста</li> <li>Отсрочку от военной службы</li> <li>Пятидневную рабочую неделю с гибким временем начала дня с 8 до 11 ч.</li> <li>Гибридный график после прохождения испытательного срока</li> <li>Удлинённый отпуск - 31 день/год</li> <li>ДМС со стоматологией, страховку от несчастных случаев и выезда за рубеж</li> <li>Посещение профессиональных конференций и курсов (сотрудничаем со всеми обучающими онлайн платформами)</li> <li>Коктейль Benefits: курсы изучения иностранного языка (5 языков на выбор/ консультации психолога/ FITMOST/фитнес)</li> <li>Электронную корпоративную библиотеку</li> <li>Уютный офис класса А с панорамными окнами в 15 мин. ходьбы от м. Горьковская, м. Площадь Ленина, м. Выборгская</li> <li>Эргономичные рабочие места и очень удобные кресла</li> <li>Зоны отдыха с диванами и бескаркасными креслами</li> <li>Кухня с чаем, разными видами кофе, фруктами, снеками и сладостями</li> <li>Душ в офисе</li> <li>Весёлые спортивные и корпоративные мероприятия, путешествия</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Spring Framework"
+    },
+    {
+      "name": "Java"
+    },
+    {
+      "name": "Аналитическое мышление"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Apache Maven"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "EJB"
+    },
+    {
+      "name": "JMS"
+    },
+    {
+      "name": "JPA"
+    },
+    {
+      "name": "Spring Boot"
+    },
+    {
+      "name": "Maven"
+    },
+    {
+      "name": "Kafka"
+    },
+    {
+      "name": "Rabbit MQ"
+    },
+    {
+      "name": "Active MQ"
+    },
+    {
+      "name": "ORACLE"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "8639071",
+    "name": "Пэй Энджин",
+    "url": "https://api.hh.ru/employers/8639071",
+    "alternate_url": "https://hh.ru/employer/8639071",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/967664.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5489768.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5489769.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=8639071",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T11:55:14+0300",
+  "created_at": "2025-06-05T11:55:14+0300",
+  "initial_created_at": "2025-05-12T11:55:14+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120398586",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120398586",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

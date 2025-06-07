@@ -1,0 +1,148 @@
+{
+  "id": "121125010",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Технический писатель",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 80000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 80000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "Советский район, микрорайон Академгородок, улица Кутателадзе",
+    "building": "4Г",
+    "lat": 54.858025,
+    "lng": 83.105662,
+    "description": null,
+    "raw": "Новосибирск, Советский район, микрорайон Академгородок, улица Кутателадзе, 4Г",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Loymax </strong>— продуктовая IT-компания, мы разрабатываем платформу управления системами лояльности и маркетинговыми коммуникациями для сетевого ритейла. Наша платформа обрабатывает десятки тысяч транзакций в секунду, поэтому мы работаем с современными технологиями масштабирования, continuous delivery, нагрузочным тестированием и оптимизацией решений. <strong> </strong></p> <p><strong>О проекте: </strong>Smart Communications — это платформа автоматизации коммуникаций с пользователями лояльности. Платформа позволяет автоматизировать коммуникации в условиях больших клиентских баз (от сотен тысяч до десятков миллионов клиентов) и большого объема данных (анализ десятков миллиардов строк чеков).<br /><br /><strong>В работе наши технические писатели используют: </strong>xwiki, draw.io, figma, postman, swagger и прочие инструменты.<br /><br /><strong>Кого мы ищем: </strong>талантливого технического писателя уровня middle и выше, который любит задавать уточняющие вопросы и умеет описывать сложное простыми словами.</p> <p><strong>Команда:</strong> в отделе качества, куда требуется специалист, работает 4 технических писателя c большим опытом и уверенной базой знаний по продукту.</p> <p><strong>Мы бы хотели, чтобы кандидат:</strong></p> <ul> <li>работал техническим писателем или на аналогичной позиции от 1 года;</li> <li>умел создавать понятные и грамотные технически тексты;</li> <li>имел опыт работы с API, Postman;</li> <li>знал технические термины и мог быстро разбираться в новых для себя процессах.</li> </ul> <p><strong>Будет преимуществом:</strong></p> <ul> <li> <p>высшее образование: лингвистика;</p> </li> <li> <p>владение английским языком на уровне С1 и выше.</p> </li> </ul> <p><strong>Чем предстоит заниматься?</strong></p> <ul> <li> <p>сопровождением технической документации по существующему продукту;</p> </li> <li> <p>написанием документации по новым модулям системы и изменениям;</p> </li> <li> <p>активным взаимодействием с программистами и отделом тестирования;</p> </li> <li> <p>работой по задачам с приоритизацией, оценками, планами в формате scrum;</p> </li> <li> <p>поддержанием чистоты внутренней документации.</p> </li> </ul> <p><strong>Условия у нас </strong>—<strong> это:</strong></p> <ul> <li> <p>работа в аккредитованной IT-компании;</p> </li> <li> <p>официальное трудоустройство, полностью белая заработная плата;</p> </li> <li> <p>гибкое начало рабочего дня с 8:00 до 10:00;</p> </li> <li> <p>отсутствие дресс-кода, потому что мы уважаем индивидуальность каждого;</p> </li> <li> <p>оплата дополнительных курсов, потому что мы поощряем развитие сотрудников.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Разработка технической документации"
+    },
+    {
+      "name": "Сбор требований"
+    },
+    {
+      "name": "YouTrack"
+    },
+    {
+      "name": "Разработка технических заданий"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "126",
+      "name": "Технический писатель"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1509111",
+    "name": "Loymax",
+    "url": "https://api.hh.ru/employers/1509111",
+    "alternate_url": "https://hh.ru/employer/1509111",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/801171.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/3645571.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3645572.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1509111",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-29T12:58:54+0300",
+  "created_at": "2025-05-29T12:58:54+0300",
+  "initial_created_at": "2025-05-29T12:58:54+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121125010",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121125010",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

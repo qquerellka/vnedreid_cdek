@@ -1,0 +1,167 @@
+{
+  "id": "121300051",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "QA Engineer Junior",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": null,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Через Chad AI проходят миллионы сообщений от сотен тысяч пользователей. Мы ищем в нашу небольшую команду тестировщика чтобы вместе вывести сервис на новый уровень по качеству и по масштабу.<br />Наш стек: React.JS, Python (FastAPI), PostgreSQL</p> <p>Мы ищем начинающего специалиста который хочет вырости вместе с нами.</p> <p><strong>Что нужно будет делать:</strong><br />- Функциональное и регрессионное тестирование;<br />- Ручное тестирование и в перспективе написание автоматических тестов<br />- Составление документации</p> <p><strong>Мы ждём, что вы:</strong><br />- Владеете теорией тестирования<br />- Понимаете как работают современные веб-приложения (протокол HTTP, клиент-серверное разделение)<br />- Владеете DevTools и инструментами API-тестирования (Postman или аналоги)<br />- Умеете работать с Git и Github<br />- Знаете английский хотя бы на уровне B1</p> <p> </p> <p><strong>Что предлагаем:</strong><br />- Полностью удалённая работа<br />- Гибкий рабочий график<br />- Минимум бюрократии</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Функциональное тестирование"
+    },
+    {
+      "name": "Регрессионное тестирование"
+    },
+    {
+      "name": "Интеграционное тестирование"
+    },
+    {
+      "name": "Автоматизированное тестирование"
+    },
+    {
+      "name": "Тестирование безопасности"
+    },
+    {
+      "name": "Английский язык"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Кроссбраузерное тестирование"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11549620",
+    "name": "Chad AI",
+    "url": "https://api.hh.ru/employers/11549620",
+    "alternate_url": "https://hh.ru/employer/11549620",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1349071.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7016226.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7016227.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11549620",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T15:55:14+0300",
+  "created_at": "2025-06-03T15:55:14+0300",
+  "initial_created_at": "2025-06-03T15:55:14+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121300051",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121300051",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b1",
+        "name": "B1 — Средний"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

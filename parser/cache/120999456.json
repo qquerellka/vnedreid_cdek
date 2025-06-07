@@ -1,0 +1,153 @@
+{
+  "id": "120999456",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Junior QA инженер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Большой проспект Петроградской стороны",
+    "building": "30",
+    "lat": 59.957287,
+    "lng": 30.297839,
+    "description": null,
+    "raw": "Санкт-Петербург, Большой проспект Петроградской стороны, 30",
+    "metro": {
+      "station_name": "Петроградская",
+      "line_name": "Московско-Петроградская",
+      "station_id": "15.215",
+      "line_id": "15",
+      "lat": 59.966389,
+      "lng": 30.311293
+    },
+    "metro_stations": [
+      {
+        "station_name": "Петроградская",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.215",
+        "line_id": "15",
+        "lat": 59.966389,
+        "lng": 30.311293
+      },
+      {
+        "station_name": "Чкаловская",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.248",
+        "line_id": "18",
+        "lat": 59.961033,
+        "lng": 30.292006
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Присоединяйся к нашей команде и работай над инновационными решениями в сфере HoReCa! Мы занимаемся всем, что связано с ресторанным бизнесом: от управления доставкой и самовывозом до онлайн-заказов и оплаты чаевых. Это твоя возможность внести вклад в создание удобных и современных сервисов!</p> <p><strong>Ключевые задачи:</strong></p> <ul> <li>Тестировать мобильные приложения, сайты, сопутствующие сервисы и API;</li> <li>Разрабатывать алгоритмы тестирования, составление сопутствующей документации;</li> <li>Обеспечение качества разрабатываемых продуктов, участвовать в улучшении продуктов и рабочих процессов;</li> </ul> <p><strong>Мы ждем от тебя:</strong></p> <ul> <li>Навыки тестирования веб, мобильных приложений;</li> <li>Опыт проведения различных видов тестирования;</li> <li>Опыт написания тест-кейсов, тест-планов;</li> <li>Самостоятельность и инициативность, умение расставлять приоритеты;</li> <li>Умение работать с Chrome DevTools, Postman</li> <li>Понимание что такое брокеры сообщений (Мы работаем с kafka)</li> <li>Понимание основ HTTP и разделения бекэнд/фронтэнд;</li> <li>Понимание, что такое сниффинг трафика;</li> <li>Понимание, чем отличается нативная и кроссплатформенная разработка;</li> <li>Опыт мануального тестирования;</li> <li>Понимание особенностей тестирования мобильных устройств;</li> <li>Большим плюсом будет опыт написания автотестов или желание развиваться в этом.</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li> <p>Уникальную возможность развиваться в команде профессионалов;</p> </li> <li> <p>Участие в значимых проектах и дружелюбную атмосферу и поддержку коллег;</p> </li> <li> <p>Гибридный формат работы с гибким началом рабочего дня;</p> </li> <li> <p>Обучение на любой онлайн платформе за счет компании;</p> </li> <li> <p>ДМС после 3 месяцев работы;</p> </li> <li> <p>3 дополнительных оплачиваемых выходных в год;</p> </li> <li> <p>Занятия корпоративным английским еженедельно;</p> </li> <li> <p>Подарки на день рождения, рождение ребенка и свадьбу;</p> </li> <li> <p>Подарки за стаж работы в компании;</p> </li> <li> <p>Ежемесячные корпоративные мероприятия;</p> </li> <li> <p>Скидку 50% на обеды в ресторанах Токио Сити и Бахрома и карта на скидку 30% в ресторанах франшизы;</p> </li> <li> <p>Современный офис в пешей доступности от станций метро Чкаловская/Спортивная/Петроградская;</p> </li> </ul> <p>Если ты готов к новым вызовам и хочешь стать частью нашей команды, отправляй свое резюме! Мы ждем тебя!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5879545",
+    "name": "Фаст Софт",
+    "url": "https://api.hh.ru/employers/5879545",
+    "alternate_url": "https://hh.ru/employer/5879545",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1142013.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6188625.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6188626.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5879545",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-26T23:20:11+0300",
+  "created_at": "2025-05-26T23:20:11+0300",
+  "initial_created_at": "2025-05-26T23:20:11+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120999456",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120999456",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

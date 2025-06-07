@@ -1,0 +1,152 @@
+{
+  "id": "121243149",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "PHP-developer / PHP-разработчик (backend)",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 150000,
+    "to": 180000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 150000,
+    "to": 180000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Приветствуем! Добро пожаловать в одну из крупнейших краудсорсинговых курьерских служб доставок в России: <strong>Пешкарики.</strong></p> <ul> <li>Молодой коллектив, увлеченный своим делом. Средний возраст наших сотрудников - 25 лет.</li> <li>Честные условия оплаты.</li> </ul> <p>Мы делаем большой и полезный проект. Наши клиенты - крупнейшие гипермаркеты электроники и логистические компании. Если у вас есть любимый интернет-магазин, он наверняка, обслуживается у нас;)</p> <p>В связи с расширением нам нужен <strong><em>PHP-developer / PHP-разработчик</em></strong> (backend, удаленно).</p> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Полностью удалённая работа;</li> <li>Оформление по <strong>самозанятости </strong>(% компенсируем);</li> <li>Честная и достойная оплата труда от 150.000 т.р в месяц (точная сумма согласовывается с кандидатом после собеседования), <strong>начисляется по часовой ставке, для работы будет необходимо установить на компьютер <em>трекер рабочего времени (!);</em></strong></li> <li>График работы 5/2 с 9:00 до 18:00;</li> <li>Молодой профессиональный коллектив с правильной атмосферой и уважительным отношением к коллегам.</li> </ul> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Доработка архитектуры проекта<strong> </strong></li> <li>Поддержка кодовой базы на фреймворке Yii;</li> <li>Разработка и поддержка микросервисов на базе Laravel; ;</li> <li>Оптимизация, код ревью;</li> <li>Работа над большими задачами, разбиение их на более мелкие.</li> </ul> <p><strong>Вы точно нам подходите если:</strong></p> <ul> <li>Имеете знания и опыт применения в работе PHP (владение ООП).</li> <li>Имеете знание теории БД (MySQL).</li> <li>Имеете уверенные навыки работы с Linux.</li> <li>Работаете с Redis.</li> <li>Понимаете принципы работы с брокерами очередей.</li> </ul> <p><strong>Будет вашим преимуществом:</strong></p> <ul> <li>Желателен опыт работы с одним из PHP Framework (не CMS), например Yii, Yii2, Laravel.</li> <li>Имеете навыки разработки на python.</li> <li>Приветствуется опыт работы с JS Framework (например Vue).</li> <li>Умение понимать чужой код.</li> <li>Желание работать в сильной перспективной команде, изменять мир вокруг себя в лучшую сторону.</li> <li>Работа с метриками нагрузки на сервер.</li> </ul> <p><br /><strong>Уважаемые соискатели, прошу в сопроводительном письме ответить на вопрос</strong>: Какой у Вас опыт разработки на php?<br /><br />Спасибо за внимание и интерес к вакансии!</p> <ul> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Yii"
+    },
+    {
+      "name": "Laravel"
+    },
+    {
+      "name": "ООП"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5102874",
+    "name": "Доставка-Сервис",
+    "url": "https://api.hh.ru/employers/5102874",
+    "alternate_url": "https://hh.ru/employer/5102874",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1038707.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5775584.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5775585.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5102874",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T17:09:07+0300",
+  "created_at": "2025-06-02T17:09:07+0300",
+  "initial_created_at": "2025-06-02T17:09:07+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121243149",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121243149",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

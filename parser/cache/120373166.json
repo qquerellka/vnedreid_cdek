@@ -1,0 +1,143 @@
+{
+  "id": "120373166",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Разработчик SQL (Junior)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": null,
+    "to": 60000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 60000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Привет! Это мы - Модульбанк.</strong></p> <p>Модульбанк - цифровой банк для малого и среднего бизнеса, который делает жизнь предпринимателей легче, а бизнес - прозрачнее. Мы слышим своих клиентов и изучаем их потребности, поэтому нам удается создавать уникальные и полезные финтех продукты: мультивалютное расчетно-кассовое обслуживание, онлайн-бухгалтерию с подключением к АУСН, налогового консультанта, бизнес-ассистента, удобную онлайн-кассу, сервис платежей QR Pay.</p> <p><strong>Почему работать с нами классно? </strong></p> <ul> <li><strong>У нас высокая скорость разработки. </strong>Правильные коммуникации, опытная команда и желание делать крутой продукт позволяют нам выкатывать фичи в прод в удивительно короткие сроки.</li> <li><strong>У нас в команде ты точно сможешь показать, на что способен.</strong>Мы ценим таланты и работаем над их развитием внутри компании.</li> <li><strong>У нас реальные перспективы карьерного роста. </strong>С нами можно расти как вертикально, так и горизонтально, переходя между отделами.</li> </ul> <p>Мы активно развиваемся и растем, клиентов становится все больше, а проекты - масштабнее и интереснее. Сейчас мы в поиске <strong>junior SQL разработчика</strong>, готового активно учиться и прокачивать свои практические навыки.</p> <p><strong>Задачи, с которыми предстоит работать:</strong></p> <ul> <li> <p>Разработка и поддержка систем на основе БД;</p> </li> <li> <p>Интеграция с внешними сервисами;</p> </li> <li> <p>Рефакторинг кода;</p> </li> <li> <p>Подготовка методов и данных для API.</p> </li> </ul> <p><strong>Для успешного выполнения задач тебе понадобятся:</strong></p> <ul> <li> <p>Базовые знания СУБД, T-SQL, XML, JSON;</p> </li> <li> <p>Связывание таблиц (join, pivot);</p> </li> <li> <p>Понимание транзакционности, begin / catch, raiserror;</p> </li> <li> <p>Создание job-ов;</p> </li> <li> <p>Базовое понимание вэб-сервисов: api, rest, http(s)-запросы, авторизация,</p> <p>токены;</p> </li> <li> <p>Понимание общих принципов меж-серверного взаимодействия: service</p> <p>broker, linked сервера;</p> </li> <li> <p>Умение использовать план запросов;</p> </li> <li> <p>Понимание SQL CLR сборки;</p> </li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li> <p>Трудоустройство по ТК РФ, полностью &quot;белая&quot; заработная плата;</p> </li> <li> <p>График 5/2, работа по часовому поясу МСК с гибким началом рабочего дня: 9:00 или 10:00;</p> </li> <li> <p>Удаленку, при желании - возможность посещать наш уютный офис в Москве;</p> </li> <li> <p>Отсутствие бюрократии. Быстрое согласование: коммуникация с</p> <p>коллегами в Telegram, митапы в zoom, задачи в Jira, база знаний в</p> <p>Confluence;</p> </li> <li> <p>ДМС после прохождения испытательного срока, включая стоматологию;</p> </li> <li> <p>Спорт и крутые корпоративные мероприятия: Гонка героев, сплав в Уфе</p> <p>и Карелии, соревнования по футболу, настольному теннису, картингу, беговой клуб и другие.</p> </li> </ul>",
+  "branded_description": "\n<style>\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;    \n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    display: inline;\n    margin: 0;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    font-family: Arial;\n    color: #000;\n    font-size: 14px;\n    line-height: 20px;\n    letter-spacing: 0.03em;\n    z-index: 1;\n    box-sizing: border-box;\n    overflow: hidden;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_content {\n    padding: 55px 50px 47px;\n    position: relative;\n    z-index: 1;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p+p {\n   margin: 16px 0 16px;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n   margin: 24px 0 16px;\n}\n\n.tmpl_hh_content b, \n.tmpl_hh_content strong {\n    display: inline-block;\n    font-size: 20px;\n    font-weight: 700;\n    line-height: 23px;\n    letter-spacing: 0em;\n}\n\n.tmpl_hh_content i b, \n.tmpl_hh_content i strong,\n.tmpl_hh_content em b, \n.tmpl_hh_content em strong,\n.tmpl_hh_content b em, \n.tmpl_hh_content strong em,\n.tmpl_hh_content b i, \n.tmpl_hh_content strong i {\n    display: inline-block;\n    font-weight: 700;\n    font-style: normal;\n    font-size: 14px;\n    line-height: 20px;\n    letter-spacing: 0.03em;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 14px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 10px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 10px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;    \n}\n\n.tmpl_hh_content li:before {\n    position: absolute;\n    left: -14px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"\";\n    width: 4px;\n    height: 4px;\n    background: #000000;\n    border-radius: 50%;\n    top: 8px;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter)'.';\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n\n.tmpl_hh_flex {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n}\n\n.tmpl_hh_header {\n    position: relative;\n}\n\np.tmpl_hh_header__slogan {\n    position: absolute;\n    left: 6%;\n    top: 14%;\n    color: #000;\n    font-size: 23px;\n    line-height: 48px;\n    text-transform: uppercase;\n    letter-spacing: 0;\n}\n\np.tmpl_hh_header__slogan b {\n    display: block;\n    font-size: 40.5px;\n    line-height: 47px;\n    margin-bottom: 7px;\n}\n\np.tmpl_hh_header__slogan span {\n    position: relative;\n}\n\np.tmpl_hh_header__slogan span:before {\n    content: \"\";\n    width: 100%;\n    height: 100%;\n    background: url(https://hhcdn.ru/ichameleon/346732.svg);\n    background-repeat: no-repeat;\n    background-size: 98%;\n    background-position: right bottom;\n    position: absolute;\n    bottom: -19px;\n    right: -2px;\n}\n\n.tmpl_hh_offer {\n    margin: 0 30px 0 40px;\n}\n\n.tmpl_hh_offer__item {\n    font-size: 10px;\n    line-height: 14px;\n    width: 44.5%;\n    display: flex;\n    letter-spacing: 0;\n    margin-bottom: 32px;\n}\n\n.tmpl_hh_offer__icon {\n    width: auto;\n    flex-shrink: 0;\n    margin-right: 18px;\n}\n\n.tmpl_hh_offer__item b {\n    font-size: 16px;\n    line-height: 19px;\n    display: block;\n    text-transform: uppercase;\n    margin-bottom: 4px;\n}\n\n.tmpl_hh_offer__item sup {\n    line-height: 0;\n    font-size: 10px;\n    opacity: 0.3;\n}\n\n.tmpl_hh_offer__item--1 img  {\n    width: 59px;\n}\n\n.tmpl_hh_offer__item--2 img  {\n    width: 58px;\n}\n\n.tmpl_hh_offer__item--3 img  {\n    width: 60px;\n}\n\n.tmpl_hh_offer__item--4 img  {\n    width: 62px;\n}\n\n.tmpl_hh_footer {\n    font-size: 10px;\n    line-height: 12px;\n    letter-spacing: 0em;\n    opacity: 0.45;\n    margin: 16px 40px 41px;\n}\n\n.tmpl_hh_footer p {\n    margin-bottom: 5px;\n}\n\n.tmpl_hh_footer span {\n    text-transform: uppercase;\n}\n\n.tmpl_hh_offer__item--4 p img {\n    display: block;\n    width: 153px;\n    margin: -6px 0 13px 1px;\n}\n\n.tmpl_hh_offer__item--2 {\n    box-sizing: border-box;\n    padding: 0 20px 0 0;\n}\n\n@media screen and (max-width: 1019px) {\n    p.tmpl_hh_header__slogan {\n        font-size: 20px;\n        line-height: 41px;\n    }\n\n    p.tmpl_hh_header__slogan b {\n        font-size: 34.5px;\n        line-height: 41px;\n    }\n}\n\n@media screen and (max-width: 699px) {\n    .tmpl_hh_wrapper {\n        width: auto;\n        margin: 0 -15px;\n    }\n\n    .tmpl_hh_content {\n        padding: 40px 31px 39px;\n    }\n\n    p.tmpl_hh_header__slogan {\n        position: absolute;\n        left: 6%;\n        top: 14.2%;\n        font-size: 3.25vw;\n        line-height: 4vw;\n    }\n\n    p.tmpl_hh_header__slogan b {\n        font-size: 6.2vw;\n        line-height: 6.8vw;\n    }\n\n    p.tmpl_hh_header__slogan span:before {\n        bottom: -91%;\n    }\n\n    .tmpl_hh_offer {\n        margin: 0 15px 0;\n    }\n\n    .tmpl_hh_offer__item {\n        width: 98%;\n    }\n\n    .tmpl_hh_offer__icon {\n        margin-right: 15px;\n    }\n\n    .tmpl_hh_footer {\n        margin: 25px 31px 11px;\n    }\n\n    .tmpl_hh_footer p {\n        margin-bottom: 5px;\n    }\n\n    .tmpl_hh_offer__item--2 {\n        padding: 0 40px 0 0;\n    }\n\n}\n\n</style>\n\n<div class=\"tmpl_hh_wrapper\">\n    <div class=\"tmpl_hh_header\">\n        <p class=\"tmpl_hh_header__slogan\"><b>Создавай<br>крутые сервисы</b> <span>для предпринимателей</span></p>\n        <div class=\"tmpl_hh_header__photo\"><img src=\"https://hhcdn.ru/ichameleon/345422.jpg\" alt=\"\"></div>\n    </div>\n    <div class=\"tmpl_hh_content\">\n        <p><strong>Привет! Это мы - Модульбанк.</strong></p> <p>Модульбанк - цифровой банк для малого и среднего бизнеса, который делает жизнь предпринимателей легче, а бизнес - прозрачнее. Мы слышим своих клиентов и изучаем их потребности, поэтому нам удается создавать уникальные и полезные финтех продукты: мультивалютное расчетно-кассовое обслуживание, онлайн-бухгалтерию с подключением к АУСН, налогового консультанта, бизнес-ассистента, удобную онлайн-кассу, сервис платежей QR Pay.</p> <p><strong>Почему работать с нами классно? </strong></p> <ul> <li><strong>У нас высокая скорость разработки. </strong>Правильные коммуникации, опытная команда и желание делать крутой продукт позволяют нам выкатывать фичи в прод в удивительно короткие сроки.</li> <li><strong>У нас в команде ты точно сможешь показать, на что способен.</strong>Мы ценим таланты и работаем над их развитием внутри компании.</li> <li><strong>У нас реальные перспективы карьерного роста. </strong>С нами можно расти как вертикально, так и горизонтально, переходя между отделами.</li> </ul> <p>Мы активно развиваемся и растем, клиентов становится все больше, а проекты - масштабнее и интереснее. Сейчас мы в поиске <strong>junior SQL разработчика</strong>, готового активно учиться и прокачивать свои практические навыки.</p> <p><strong>Задачи, с которыми предстоит работать:</strong></p> <ul> <li> <p>Разработка и поддержка систем на основе БД;</p> </li> <li> <p>Интеграция с внешними сервисами;</p> </li> <li> <p>Рефакторинг кода;</p> </li> <li> <p>Подготовка методов и данных для API.</p> </li> </ul> <p><strong>Для успешного выполнения задач тебе понадобятся:</strong></p> <ul> <li> <p>Базовые знания СУБД, T-SQL, XML, JSON;</p> </li> <li> <p>Связывание таблиц (join, pivot);</p> </li> <li> <p>Понимание транзакционности, begin / catch, raiserror;</p> </li> <li> <p>Создание job-ов;</p> </li> <li> <p>Базовое понимание вэб-сервисов: api, rest, http(s)-запросы, авторизация,</p> <p>токены;</p> </li> <li> <p>Понимание общих принципов меж-серверного взаимодействия: service</p> <p>broker, linked сервера;</p> </li> <li> <p>Умение использовать план запросов;</p> </li> <li> <p>Понимание SQL CLR сборки;</p> </li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li> <p>Трудоустройство по ТК РФ, полностью \"белая\" заработная плата;</p> </li> <li> <p>График 5/2, работа по часовому поясу МСК с гибким началом рабочего дня: 9:00 или 10:00;</p> </li> <li> <p>Удаленку, при желании - возможность посещать наш уютный офис в Москве;</p> </li> <li> <p>Отсутствие бюрократии. Быстрое согласование: коммуникация с</p> <p>коллегами в Telegram, митапы в zoom, задачи в Jira, база знаний в</p> <p>Confluence;</p> </li> <li> <p>ДМС после прохождения испытательного срока, включая стоматологию;</p> </li> <li> <p>Спорт и крутые корпоративные мероприятия: Гонка героев, сплав в Уфе</p> <p>и Карелии, соревнования по футболу, настольному теннису, картингу, беговой клуб и другие.</p> </li> </ul></div>\n    <div class=\"tmpl_hh_offer\">\n        <div class=\"tmpl_hh_offer__items tmpl_hh_flex\">\n            <div class=\"tmpl_hh_offer__item tmpl_hh_offer__item--1\">\n                <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/345424.png\" alt=\"\"></div>\n                <p><b>Первый банк для предпринимателей<sup>*</sup></b> <span>Расчетно-кассовое обслуживание в 11 валютах<br>\nЗащита от блокировок счета по 115-ФЗ <br>\nОнлайн-бухгалтерия с подключением к АУСН</span></p>\n            </div>\n            <div class=\"tmpl_hh_offer__item tmpl_hh_offer__item--2\">\n                <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/345426.png\" alt=\"\"></div>\n                <p><b>БАНК ДЛЯ КОФЕЙНИ</b> <span>Помогаем открыть и развивать кофейный бизнес: предлагаем удобные банковские продукты и выгодные закупки</span></p>\n            </div>\n            <div class=\"tmpl_hh_offer__item tmpl_hh_offer__item--3\">\n                <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/345423.png\" alt=\"\"></div>\n                <p><b>Всё, что нужно для работы с маркетплейсами</b> <span>Предоставляем специальные инструменты и услуги для селлеров</span></p>\n            </div>\n            <div class=\"tmpl_hh_offer__item tmpl_hh_offer__item--4\">\n                <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/345425.png\" alt=\"\"></div>\n                <p><b>Финтех-компания </b><img src=\"https://hhcdn.ru/ichameleon/345439.svg\" alt=\"\"><span>С арсеналом более 40 сервисов для ведения и развития бизнеса</span></p>\n            </div>\n        </div>\n    </div>\n    <div class=\"tmpl_hh_footer\">\n        <p class=\"tmpl_hh_footnote\">* среди частных банков с собственной лицензией (по данным ООО «Дискавери РГ», 2022) </p>\n        <p class=\"tmpl_hh_footnote\"><span>АО КБ «Модульбанк» Лицензия ЦБ РФ № 1927 от 16.03.2016 г.</span></p>\n    </div>\n</div> \n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "СУБД"
+    },
+    {
+      "name": "XML"
+    },
+    {
+      "name": "JSON"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "156",
+      "name": "BI-аналитик, аналитик данных"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "99993",
+    "name": "Модульбанк",
+    "url": "https://api.hh.ru/employers/99993",
+    "alternate_url": "https://hh.ru/employer/99993",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/879586.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3959219.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3959220.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=99993",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T09:56:57+0300",
+  "created_at": "2025-06-06T09:56:57+0300",
+  "initial_created_at": "2025-05-12T08:25:25+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120373166",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120373166",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

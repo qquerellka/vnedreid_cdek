@@ -1,0 +1,165 @@
+{
+  "id": "121221107",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Специалист технической поддержки",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 80000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 80000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "площадь Конституции",
+    "building": "3к2",
+    "lat": 59.850459,
+    "lng": 30.304738,
+    "description": null,
+    "raw": "Санкт-Петербург, площадь Конституции, 3к2",
+    "metro": {
+      "station_name": "Московская",
+      "line_name": "Московско-Петроградская",
+      "station_id": "15.224",
+      "line_id": "15",
+      "lat": 59.848873,
+      "lng": 30.321483
+    },
+    "metro_stations": [
+      {
+        "station_name": "Московская",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.224",
+        "line_id": "15",
+        "lat": 59.848873,
+        "lng": 30.321483
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<h2><strong>Чем нужно заниматься:</strong></h2> <p> </p> <ul> <li>Установка и базовая настройка рабочих мест сотрудников;</li> <li>Взаимодействие с пользователями на рабочих местах, решение текущих проблем с ПК и другим оборудованием;</li> <li>Работы по подключению слаботочных систем СКУД, ИБП, IP камер, работа по заявкам в Helpdesk;</li> <li>Формирование и ведение системы учета IT-оборудования, ПО, оргтехники, инструмента и т. п. в Компании;</li> <li>Обслуживание офисной техники (принтеры и т.п.);</li> <li>Подготовка новых рабочих мест.</li> </ul> <h2><strong>Что мы ждем от Вас:</strong></h2> <p> </p> <ul> <li>Организационные навыки;</li> <li>Коммуникабельность;</li> <li>Базовый опыт администрирования ОС МS Windows, MS Offic, умение правильно собирать и разбирать компьютеры, а также устанавливать и настраивать операционные системы (Windows, linux), драйверы и программы;</li> <li>Знание основных параметров аппаратной части ПК;</li> <li>Знание сетевых технологий, понимание принципов работы локальных сетей, протоколы TCP/IP, DNS, DHCP и другие.</li> </ul> <h2><strong>Что мы предлагаем:</strong></h2> <p> </p> <ul> <li>Интересная работа в стабильной, аккредитованной развивающейся ИТ-компании, более 20 лет на рынке IT и мультимедиа, ежегодный рост бизнеса;</li> <li>Прозрачная система мотивации;</li> <li>Участие в инфраструктурных проектах;</li> <li>Развитая корпоративная культура (настольные игры, волейбол, футбол, настольный теннис, кибертурнир и т.д.);</li> <li>Поддержка со стороны руководства в достижении высоких результатов;</li> <li>Официальное оформление по ТК РФ;</li> <li>ДМС после испытательного срока;</li> <li>Комфортный, просторный офис в бизнес-центре класса «А» около ст. м. Московская (м. Ленинский проспект).</li> <li> <h2>Где предстоит работать</h2> </li> </ul> <p> </p> <ul> <li> <p>Московская, Санкт-Петербург, площадь Конституции, 3к2</p> </li> </ul>",
+  "branded_description": "\n<style>\n@charset \"UTF-8\";\n.hht-vacancydescription {\n  padding: 0 !important;\n}\n\npicture {\n  display: block;\n  line-height: 1px;\n}\n.swiper-slide {\n  line-height: 0;\n}\n.vacancy-branded-user-content ul,\n.vacancy-branded-user-content ol {\n  margin-left: 0;\n}\n.vacancy-branded-user-content p {\n  margin-top: 0 !important;\n}\n.vacancy-branded-user-content p:first-child b,\n.vacancy-branded-user-content p:first-child strong {\n  margin-top: 0 !important;\n}\n.tmpl-hh-wrapper {\n  width: 100%;\n  margin: 0 auto;\n  max-width: 690px;\n  position: relative;\n  overflow: hidden;\n  font-family: \"Arial\", sans-serif;\n  font-style: normal;\n  color: #000;\n  font-weight: 400;\n  font-size: 16px;\n  line-height: 130%;\n}\n.tmpl-hh-wrapper * {\n  box-sizing: border-box;\n  padding: 0;\n  margin: 0;\n}\n.tmpl-hh-wrapper sup {\n  vertical-align: top;\n}\n.tmpl-hh-content h2 {\n  display: inline-block;\n  color: #000;\n  font-weight: 700;\n  font-size: 20px;\n  line-height: 120%;\n  margin: 16px 0 10px !important;\n}\n.tmpl-hh-content h2:first-child {\n  margin-top: 0 !important;\n}\n.tmpl-hh-content h2:last-child {\n  margin-bottom: 0 !important;\n}\n.tmpl-hh-content ol li p,\n.tmpl-hh-content ul li p {\n  margin: 0 !important;\n}\n.tmpl-hh-content ol li p b,\n.tmpl-hh-content ol li p strong,\n.tmpl-hh-content ul li p b,\n.tmpl-hh-content ul li p strong {\n  font-weight: 700;\n  font-size: inherit !important;\n  margin: 0 !important;\n  text-transform: none;\n  color: inherit !important;\n  display: initial;\n}\n.tmpl-hh-content ol li em,\n.tmpl-hh-content ul li em {\n  font-style: normal !important;\n}\n.tmpl-hh-content ol li em b,\n.tmpl-hh-content ol li em strong,\n.tmpl-hh-content ul li em b,\n.tmpl-hh-content ul li em strong {\n  text-transform: none;\n  display: inherit;\n  font-weight: 700;\n  font-size: inherit;\n  color: inherit;\n  font-style: normal !important;\n}\n.tmpl-hh-content ol li b,\n.tmpl-hh-content ol li strong,\n.tmpl-hh-content ul li b,\n.tmpl-hh-content ul li strong {\n  font-weight: 700;\n  font-size: inherit !important;\n  margin: 0 !important;\n  text-transform: none;\n  color: inherit !important;\n}\n.tmpl-hh-content p b,\n.tmpl-hh-content p strong {\n  font-weight: 700;\n  font-size: inherit !important;\n  margin: 0 !important;\n  text-transform: none;\n  color: inherit !important;\n  display: initial;\n}\n.tmpl-hh-content p em {\n  font-style: normal !important;\n}\n.tmpl-hh-content p em b,\n.tmpl-hh-content p em strong {\n  text-transform: none;\n  display: inherit;\n  font-weight: 700;\n  font-size: inherit;\n  color: inherit !important;\n  font-style: normal !important;\n  background: transparent;\n  padding: 0;\n}\n.tmpl-hh-content p:first-child b,\n.tmpl-hh-content p:first-child strong {\n  margin-top: 0 !important;\n}\n.tmpl-hh-content p:last-child {\n  margin-bottom: 0 !important;\n}\n.tmpl-hh-content .l-paddings {\n  padding: 0;\n}\n@media (max-width: 1339px) {\n  .tmpl-hh-wrapper {\n    max-width: 610px;\n  }\n}\n@media (max-width: 699px) {\n  .tmpl-hh-wrapper .tmpl-hh-content h2 {\n    margin: 20px 0 10px !important;\n  }\n}\n.tmpl-hh-header {\n  margin-top: 40px;\n  display: flex;\n  flex-direction: column;\n  gap: 10px;\n}\n.tmpl-hh-header__banner {\n  border-radius: 30px;\n  width: 690px;\n  height: 400px;\n  overflow: hidden;\n  padding: 30px;\n  background: url(\"https://img.hhcdn.ru/ichameleon/453711.jpg\") center/cover no-repeat;\n}\n.tmpl-hh-header__logo {\n  width: 160px;\n  height: 50px;\n  margin-bottom: 65.6px;\n}\n.tmpl-hh-header__title {\n  width: 357px;\n  height: 106px;\n}\n.tmpl-hh-header__image {\n  width: 100%;\n  height: 100%;\n  object-fit: cover;\n  object-position: center;\n}\n.tmpl-hh-header__about {\n  border-radius: 30px;\n  width: 690px;\n  height: 326px;\n  padding: 30px 30px 32.6px;\n  position: relative;\n  background-color: #EBEBEB;\n  overflow: hidden;\n}\n.tmpl-hh-header__about::before {\n  position: absolute;\n  bottom: 0;\n  right: 0;\n  content: \"\";\n  width: 272px;\n  height: 179px;\n  background: url(\"https://img.hhcdn.ru/ichameleon/453716.svg\") center/cover no-repeat;\n}\n.tmpl-hh-header__about-title {\n  width: 474px;\n  height: 75px;\n  margin-bottom: 24px;\n}\n.tmpl-hh-header__list {\n  list-style: none;\n  position: relative;\n  z-index: 2;\n}\n.tmpl-hh-header__list-item {\n  position: relative;\n  padding-left: 28px;\n  font-weight: 400;\n  font-size: 16px;\n  line-height: 120%;\n  color: #313131;\n}\n.tmpl-hh-header__list-item-br {\n  display: none;\n}\n.tmpl-hh-header__list-item-br-2 {\n  display: block;\n}\n.tmpl-hh-header__list-item:not(:last-child) {\n  margin-bottom: 16px;\n}\n.tmpl-hh-header__list-item:nth-of-type(2) {\n  max-width: 610px;\n}\n.tmpl-hh-header__list-item:nth-of-type(3) {\n  max-width: 510px;\n}\n.tmpl-hh-header__list-item::before {\n  position: absolute;\n  top: 50%;\n  transform: translateY(-50%);\n  left: 0;\n  content: \"\";\n  width: 18px;\n  height: 17px;\n  background: url(\"https://img.hhcdn.ru/ichameleon/453717.svg\") center/cover no-repeat;\n}\n.tmpl-hh-header__cards {\n  display: flex;\n  flex-wrap: wrap;\n  align-items: center;\n  list-style: none;\n  gap: 10px;\n}\n.tmpl-hh-header__card {\n  width: 340px;\n  height: 140px;\n  border-radius: 20px;\n  color: #fff;\n  padding: 20px 40px 14px 20px;\n}\n.tmpl-hh-header__card-count {\n  font-weight: 700;\n  font-size: 36px;\n  line-height: normal;\n  margin-bottom: 5px;\n  color: inherit;\n}\n.tmpl-hh-header__card-title {\n  margin-bottom: 5px;\n  color: inherit;\n  font-weight: 700;\n  font-size: 16px;\n  line-height: normal;\n  text-transform: uppercase;\n}\n.tmpl-hh-header__card-subtitle {\n  font-weight: 400;\n  font-size: 15px;\n  line-height: 120%;\n  color: inherit;\n}\n.tmpl-hh-header__card:nth-of-type(1) {\n  background-color: #2a2d8e;\n}\n.tmpl-hh-header__card:nth-of-type(2) {\n  background-color: #8456c5;\n}\n.tmpl-hh-header__card:nth-of-type(3) {\n  background-color: #ebebeb;\n  color: #2a2d8e;\n}\n.tmpl-hh-header__card:nth-of-type(4) {\n  background-color: #e34646;\n}\n@media (max-width: 1339px) {\n  .tmpl-hh-header__banner {\n    width: 610px;\n    height: auto;\n    aspect-ratio: 690/400;\n  }\n  .tmpl-hh-header__title {\n    width: 300px;\n    height: auto;\n    aspect-ratio: 357/106;\n  }\n  .tmpl-hh-header__about {\n    width: 610px;\n    height: 360px;\n  }\n  .tmpl-hh-header__about::before {\n    width: 220px;\n    height: auto;\n    aspect-ratio: 272/179;\n  }\n  .tmpl-hh-header__card {\n    width: 299px;\n    height: 140px;\n    padding: 15px;\n  }\n}\n@media (max-width: 699px) {\n  .tmpl-hh-header {\n    margin-top: 15px;\n  }\n  .tmpl-hh-header__banner {\n    width: 100%;\n    height: 547px;\n    padding: 15px;\n    background-image: none;\n    background-color: #8456c5;\n    position: relative;\n  }\n  .tmpl-hh-header__banner::before {\n    position: absolute;\n    top: 195px;\n    left: 0;\n    content: \"\";\n    width: 142px;\n    height: 251px;\n    background: url(\"https://img.hhcdn.ru/ichameleon/453718.svg\") center/cover no-repeat;\n  }\n  .tmpl-hh-header__banner::after {\n    position: absolute;\n    bottom: 15px;\n    right: 0;\n    content: \"\";\n    min-width: 330px;\n    aspect-ratio: 330/323;\n    width: 75%;\n    height: auto;\n    background: url(\"https://img.hhcdn.ru/ichameleon/453719.png\") center/cover no-repeat;\n  }\n  .tmpl-hh-header__logo {\n    margin-bottom: 31.6px;\n  }\n  .tmpl-hh-header__title {\n    width: 285px;\n    height: 85px;\n  }\n  .tmpl-hh-header__about {\n    width: 100%;\n    height: auto;\n    padding: 25px 15px 23px 15px;\n  }\n  .tmpl-hh-header__about::before {\n    width: 235px;\n    height: 188px;\n    background-image: url(\"https://img.hhcdn.ru/ichameleon/453720.svg\");\n  }\n  .tmpl-hh-header__about-title {\n    width: 303px;\n    height: 83px;\n    margin-bottom: 15px;\n  }\n  .tmpl-hh-header__list-item {\n    font-size: 15px;\n  }\n  .tmpl-hh-header__list-item-br {\n    display: block;\n  }\n  .tmpl-hh-header__list-item-br-2 {\n    display: none;\n  }\n  .tmpl-hh-header__list-item:not(:last-child) {\n    margin-bottom: 10px;\n  }\n  .tmpl-hh-header__list-item:nth-of-type(1), .tmpl-hh-header__list-item:nth-of-type(2), .tmpl-hh-header__list-item:nth-of-type(3) {\n    max-width: 100%;\n  }\n  .tmpl-hh-header__cards {\n    gap: 5px;\n  }\n  .tmpl-hh-header__card {\n    width: calc(50% - 2.5px);\n    border-radius: 15px;\n  }\n  .tmpl-hh-header__card-count {\n    font-size: 30px;\n    margin-bottom: 6px;\n  }\n  .tmpl-hh-header__card-title {\n    font-size: 14px;\n  }\n}\n@media (max-width: 523px) {\n  .tmpl-hh-header__card {\n    height: 161px;\n  }\n}\n@media (max-width: 374px) {\n  .tmpl-hh-header__title {\n    aspect-ratio: 285/85;\n    width: 100%;\n    height: auto;\n  }\n  .tmpl-hh-header__about-title {\n    aspect-ratio: 303/83;\n    width: 100%;\n    height: auto;\n  }\n  .tmpl-hh-header__card {\n    height: 170px;\n    padding: 10px;\n  }\n  .tmpl-hh-header__card-title {\n    font-size: 13px;\n  }\n}\n.tmpl-hh-content {\n  padding: 40px 0;\n}\n.tmpl-hh-content ul,\n.tmpl-hh-content ol {\n  margin-left: 0;\n}\n.tmpl-hh-content ul li,\n.tmpl-hh-content ol li {\n  list-style: none;\n  position: relative;\n  padding-left: 14px;\n  color: #000;\n  font-weight: 400;\n  font-size: 16px;\n  line-height: 130%;\n}\n.tmpl-hh-content ul li:not(:last-child),\n.tmpl-hh-content ol li:not(:last-child) {\n  margin-bottom: 4px;\n}\n.tmpl-hh-content ul li::before,\n.tmpl-hh-content ol li::before {\n  position: absolute;\n  top: 7px;\n  left: 2px;\n  content: \"\";\n  width: 4px;\n  height: 4px;\n  border-radius: 50%;\n  background: #000;\n}\n@media (max-width: 1339px) {\n  .tmpl-hh-content {\n    padding: 40px 20px;\n  }\n}\n@media (max-width: 699px) {\n  .tmpl-hh-content {\n    padding: 40px 15px;\n  }\n  .tmpl-hh-content ul li,\n  .tmpl-hh-content ol li {\n    font-size: 15px;\n  }\n}\n.tmpl-hh-footer {\n  padding-top: 36px;\n  padding-bottom: 40px;\n  position: relative;\n}\n.tmpl-hh-footer::before {\n  position: absolute;\n  top: 0;\n  right: 21px;\n  content: \"\";\n  width: 101px;\n  height: 72px;\n  background: url(\"https://img.hhcdn.ru/ichameleon/453710.svg\") center/cover no-repeat;\n}\n.tmpl-hh-footer__title {\n  width: 462px;\n  height: 20px;\n  margin-left: 2px;\n  margin-bottom: 29.6px;\n}\n.tmpl-hh-footer__title-image {\n  width: 100%;\n  height: 100%;\n  object-fit: cover;\n  object-position: center;\n}\n.tmpl-hh-footer__cards {\n  list-style: none;\n  padding-left: 0;\n  display: flex;\n  flex-direction: column;\n  gap: 10px;\n}\n.tmpl-hh-footer__card {\n  border-radius: 20px;\n  width: 690px;\n  height: 130px;\n  background-color: #ebebeb;\n  padding: 20px 40px 17px 120px;\n  position: relative;\n}\n.tmpl-hh-footer__card-title {\n  font-weight: 700;\n  font-size: 20px;\n  line-height: 130%;\n  color: #000;\n  margin-bottom: 10px;\n}\n.tmpl-hh-footer__card-list {\n  list-style: none;\n  padding-left: 0;\n}\n.tmpl-hh-footer__card-text {\n  font-weight: 400;\n  font-size: 16px;\n  line-height: 120%;\n  color: #313131;\n  position: relative;\n  padding-left: 30px;\n}\n.tmpl-hh-footer__card-text:not(:last-child) {\n  margin-bottom: 10px;\n}\n.tmpl-hh-footer__card-text::before {\n  content: \"—\";\n  position: absolute;\n  left: 0;\n  color: inherit;\n  width: 18px;\n  display: inline-block;\n}\n.tmpl-hh-footer__card-image {\n  width: 100%;\n  height: 100%;\n  object-fit: cover;\n  object-position: center;\n}\n.tmpl-hh-footer__card-icon {\n  position: absolute;\n  left: 20px;\n  top: 20px;\n}\n.tmpl-hh-footer__card:nth-of-type(1) .tmpl-hh-footer__card-icon {\n  width: 70px;\n  height: 48px;\n}\n.tmpl-hh-footer__card:nth-of-type(2) .tmpl-hh-footer__card-icon {\n  width: 67px;\n  height: 59px;\n}\n.tmpl-hh-footer__card:nth-of-type(3) {\n  padding-right: 100px;\n}\n.tmpl-hh-footer__card:nth-of-type(3) .tmpl-hh-footer__card-icon {\n  top: 14px;\n  width: 73px;\n  height: 75px;\n}\n.tmpl-hh-footer__card:nth-of-type(4) {\n  height: 140px;\n}\n.tmpl-hh-footer__card:nth-of-type(4) .tmpl-hh-footer__card-icon {\n  width: 77px;\n  height: 53px;\n}\n.tmpl-hh-footer__card:nth-of-type(5) {\n  height: 150px;\n}\n.tmpl-hh-footer__card:nth-of-type(5) .tmpl-hh-footer__card-icon {\n  width: 77px;\n  height: 62px;\n}\n@media (max-width: 1339px) {\n  .tmpl-hh-footer__card {\n    width: 610px;\n  }\n}\n@media (max-width: 699px) {\n  .tmpl-hh-footer {\n    padding-top: 0;\n    padding-bottom: 15px;\n  }\n  .tmpl-hh-footer::before {\n    top: -17px;\n    right: 24px;\n    width: 77px;\n    height: 55px;\n  }\n  .tmpl-hh-footer__title {\n    width: 186.15px;\n    height: 37px;\n    margin-left: 16px;\n    margin-bottom: 20px;\n  }\n  .tmpl-hh-footer__card {\n    width: 100%;\n    height: auto;\n    padding: 32px 15px 15px;\n  }\n  .tmpl-hh-footer__card-title {\n    font-size: 18px;\n    margin-bottom: 25px;\n    margin-left: 80px;\n  }\n  .tmpl-hh-footer__card-text {\n    font-size: 15px;\n    padding-left: 29px;\n  }\n  .tmpl-hh-footer__card-icon {\n    left: 15px;\n    top: 15px;\n  }\n  .tmpl-hh-footer__card:nth-of-type(1) {\n    padding-top: 28px;\n  }\n  .tmpl-hh-footer__card:nth-of-type(1) .tmpl-hh-footer__card-icon {\n    height: 49px;\n  }\n  .tmpl-hh-footer__card:nth-of-type(3) {\n    padding-top: 35px;\n    padding-right: 15px;\n  }\n  .tmpl-hh-footer__card:nth-of-type(3) .tmpl-hh-footer__card-icon {\n    top: 15px;\n    width: 60px;\n    height: 62px;\n  }\n  .tmpl-hh-footer__card:nth-of-type(4) {\n    height: auto;\n    padding-top: 27px;\n  }\n  .tmpl-hh-footer__card:nth-of-type(4) .tmpl-hh-footer__card-icon {\n    width: 70px;\n    height: 49px;\n  }\n  .tmpl-hh-footer__card:nth-of-type(5) {\n    height: auto;\n    padding-top: 20px;\n  }\n  .tmpl-hh-footer__card:nth-of-type(5) .tmpl-hh-footer__card-title {\n    min-height: 47px;\n  }\n  .tmpl-hh-footer__card:nth-of-type(5) .tmpl-hh-footer__card-icon {\n    width: 70px;\n    height: 60px;\n  }\n}\n</style>\n\n<div class=\"tmpl-hh-wrapper\">\n      <div class=\"tmpl-hh-header\">\n  <div class=\"tmpl-hh-header__banner\">\n    <div class=\"tmpl-hh-header__logo\">\n      <img src=\"https://img.hhcdn.ru/ichameleon/453712.svg\" alt=\"\" class=\"tmpl-hh-header__image\">\n    </div>\n    <div class=\"tmpl-hh-header__title\">\n      <img src=\"https://img.hhcdn.ru/ichameleon/453713.svg\" alt=\"\" class=\"tmpl-hh-header__image\">\n    </div>\n  </div>\n  <div class=\"tmpl-hh-header__about\">\n    <div class=\"tmpl-hh-header__about-title\">\n      <picture>\n        <source media=\"(max-width: 699px)\" srcset=\"https://img.hhcdn.ru/ichameleon/453714.svg\"></source>\n        <img src=\"https://img.hhcdn.ru/ichameleon/453715.svg\" alt=\"\" class=\"tmpl-hh-header__image\">\n      </picture>\n    </div>\n    <ul class=\"tmpl-hh-header__list\">\n      <li class=\"tmpl-hh-header__list-item\">\n        Осуществляем проектирование, внедрение и сопровождение\n        ИТ-инфраструктуры и информационных систем.\n        Специализируемся на разработке и реализации программ\n        импортозамещения.\n      </li>\n      <li class=\"tmpl-hh-header__list-item\">\n        Знаем реальные возможности отечественных продуктов и специфику\n        рынка, анализируем потребности заказчиков и предлагаем оптимальные\n        решения.\n      </li>\n      <li class=\"tmpl-hh-header__list-item\">\n        Входим в рейтинг крупнейших ИТ-поставщиков\n        топливно‑<br class=\"tmpl-hh-header__list-item-br-2\">энергетического комплекса России по версии <br class=\"tmpl-hh-header__list-item-br\"> TADVISER, 2024.\n      </li>\n    </ul>\n  </div>\n  <ul class=\"tmpl-hh-header__cards\">\n    <li class=\"tmpl-hh-header__card\">\n      <div class=\"tmpl-hh-header__card-count\">Топ-10</div>\n      <div class=\"tmpl-hh-header__card-subtitle\">\n        в России среди ИТ-компаний поставщиков ТЭК по версии портала\n        Tadviser, 2024 год\n      </div>\n    </li>\n    <li class=\"tmpl-hh-header__card\">\n      <div class=\"tmpl-hh-header__card-count\">1 000+</div>\n      <div class=\"tmpl-hh-header__card-title\">реализованных проектов</div>\n      <div class=\"tmpl-hh-header__card-subtitle\">\n        создаем решения для крупнейших компаний страны\n      </div>\n    </li>\n    <li class=\"tmpl-hh-header__card\">\n      <div class=\"tmpl-hh-header__card-count\">30+</div>\n      <div class=\"tmpl-hh-header__card-title\">лет на рынке</div>\n      <div class=\"tmpl-hh-header__card-subtitle\">\n        компания, проверенная временем\n      </div>\n    </li>\n    <li class=\"tmpl-hh-header__card\">\n      <div class=\"tmpl-hh-header__card-count\">2</div>\n      <div class=\"tmpl-hh-header__card-title\">современных офиса</div>\n      <div class=\"tmpl-hh-header__card-subtitle\">\n        в Санкт-Петербурге и Москве\n      </div>\n    </li>\n  </ul>\n</div>\n <div class=\"tmpl-hh-content\">\n  <h2><strong>Чем нужно заниматься:</strong></h2> <p> </p> <ul> <li>Установка и базовая настройка рабочих мест сотрудников;</li> <li>Взаимодействие с пользователями на рабочих местах, решение текущих проблем с ПК и другим оборудованием;</li> <li>Работы по подключению слаботочных систем СКУД, ИБП, IP камер, работа по заявкам в Helpdesk;</li> <li>Формирование и ведение системы учета IT-оборудования, ПО, оргтехники, инструмента и т. п. в Компании;</li> <li>Обслуживание офисной техники (принтеры и т.п.);</li> <li>Подготовка новых рабочих мест.</li> </ul> <h2><strong>Что мы ждем от Вас:</strong></h2> <p> </p> <ul> <li>Организационные навыки;</li> <li>Коммуникабельность;</li> <li>Базовый опыт администрирования ОС МS Windows, MS Offic, умение правильно собирать и разбирать компьютеры, а также устанавливать и настраивать операционные системы (Windows, linux), драйверы и программы;</li> <li>Знание основных параметров аппаратной части ПК;</li> <li>Знание сетевых технологий, понимание принципов работы локальных сетей, протоколы TCP/IP, DNS, DHCP и другие.</li> </ul> <h2><strong>Что мы предлагаем:</strong></h2> <p> </p> <ul> <li>Интересная работа в стабильной, аккредитованной развивающейся ИТ-компании, более 20 лет на рынке IT и мультимедиа, ежегодный рост бизнеса;</li> <li>Прозрачная система мотивации;</li> <li>Участие в инфраструктурных проектах;</li> <li>Развитая корпоративная культура (настольные игры, волейбол, футбол, настольный теннис, кибертурнир и т.д.);</li> <li>Поддержка со стороны руководства в достижении высоких результатов;</li> <li>Официальное оформление по ТК РФ;</li> <li>ДМС после испытательного срока;</li> <li>Комфортный, просторный офис в бизнес-центре класса «А» около ст. м. Московская (м. Ленинский проспект).</li> <li> <h2>Где предстоит работать</h2> </li> </ul> <p> </p> <ul> <li> <p>Московская, Санкт-Петербург, площадь Конституции, 3к2</p> </li> </ul></div>\n <div class=\"tmpl-hh-footer\">\n  <div class=\"tmpl-hh-footer__title\">\n    <picture>\n      <source media=\"(max-width: 699px)\" srcset=\"https://img.hhcdn.ru/ichameleon/453698.svg\"></source>\n      <img src=\"https://img.hhcdn.ru/ichameleon/453699.svg\" alt=\"\" class=\"tmpl-hh-footer__title-image\">\n    </picture>\n  </div>\n  <ul class=\"tmpl-hh-footer__cards\">\n    <li class=\"tmpl-hh-footer__card\">\n      <div class=\"tmpl-hh-footer__card-icon\">\n          <img src=\"https://img.hhcdn.ru/ichameleon/453700.svg\" alt=\"\" class=\"tmpl-hh-footer__card-image\">\n      </div>\n      <div class=\"tmpl-hh-footer__card-title\">Заботимся о здоровье</div>\n      <ul class=\"tmpl-hh-footer__card-list\">\n        <li class=\"tmpl-hh-footer__card-text\">Предоставляем ДМС со стоматологией, телемедициной и психологическим консультированием</li>\n      </ul>\n    </li>\n    <li class=\"tmpl-hh-footer__card\">\n      <div class=\"tmpl-hh-footer__card-icon\">\n          <img src=\"https://img.hhcdn.ru/ichameleon/453701.svg\" alt=\"\" class=\"tmpl-hh-footer__card-image\">\n      </div>\n      <div class=\"tmpl-hh-footer__card-title\">Поддерживаем развитие</div>\n      <ul class=\"tmpl-hh-footer__card-list\">\n        <li class=\"tmpl-hh-footer__card-text\">Формируем индивидуальные программы развития</li>\n        <li class=\"tmpl-hh-footer__card-text\">Проводим обучение по продукту — вендорские курсы и тренинги</li>\n      </ul>\n\n    </li>\n    <li class=\"tmpl-hh-footer__card\">\n      <div class=\"tmpl-hh-footer__card-icon\">\n        <picture>\n          <source media=\"(max-width: 699px)\" srcset=\"https://img.hhcdn.ru/ichameleon/453703.svg\"></source>\n          <img src=\"https://img.hhcdn.ru/ichameleon/453704.svg\" alt=\"\" class=\"tmpl-hh-footer__card-image\">\n        </picture>\n      </div>\n      <div class=\"tmpl-hh-footer__card-title\">Любим спорт</div>\n      <ul class=\"tmpl-hh-footer__card-list\">\n        <li class=\"tmpl-hh-footer__card-text\">Организуем совместные тренировки по волейболу, футболу и падел-теннису</li>\n      </ul>\n    </li>\n    <li class=\"tmpl-hh-footer__card\">\n      <div class=\"tmpl-hh-footer__card-icon\">\n        <picture>\n          <source media=\"(max-width: 699px)\" srcset=\"https://img.hhcdn.ru/ichameleon/453706.svg\"></source>\n          <img src=\"https://img.hhcdn.ru/ichameleon/453707.svg\" alt=\"\" class=\"tmpl-hh-footer__card-image\">\n        </picture>\n      </div>\n      <div class=\"tmpl-hh-footer__card-title\">Комфортные офисы</div>\n      <ul class=\"tmpl-hh-footer__card-list\">\n        <li class=\"tmpl-hh-footer__card-text\">Наши офисы расположены в бизнес-центрах класса А</li>\n        <li class=\"tmpl-hh-footer__card-text\">Работаем над озеленением и следим за качеством кофе в кофемашинах</li>\n      </ul>\n    </li>\n    <li class=\"tmpl-hh-footer__card\">\n      <div class=\"tmpl-hh-footer__card-icon\">\n        <picture>\n          <source media=\"(max-width: 699px)\" srcset=\"https://img.hhcdn.ru/ichameleon/453708.svg\"></source>\n          <img src=\"https://img.hhcdn.ru/ichameleon/453709.svg\" alt=\"\" class=\"tmpl-hh-footer__card-image\">\n        </picture>\n      </div>\n      <div class=\"tmpl-hh-footer__card-title\">Ценим время, проведенное вместе</div>\n      <ul class=\"tmpl-hh-footer__card-list\">\n        <li class=\"tmpl-hh-footer__card-text\">Проводим вечера настольных игр</li>\n        <li class=\"tmpl-hh-footer__card-text\">Летние и зимние корпоративы</li>\n        <li class=\"tmpl-hh-footer__card-text\">Мастер-классы и выезды</li>\n      </ul>\n    </li>\n  </ul>\n</div>\n      \n    </div>\n\n\n<script type=\"text/javascript\">  \n//\n\n(function polyfill() {\n  const relList = document.createElement(\"link\").relList;\n  if (relList && relList.supports && relList.supports(\"modulepreload\")) {\n    return;\n  }\n  for (const link of document.querySelectorAll('link[rel=\"modulepreload\"]')) {\n    processPreload(link);\n  }\n  new MutationObserver((mutations) => {\n    for (const mutation of mutations) {\n      if (mutation.type !== \"childList\") {\n        continue;\n      }\n      for (const node of mutation.addedNodes) {\n        if (node.tagName === \"LINK\" && node.rel === \"modulepreload\")\n          processPreload(node);\n      }\n    }\n  }).observe(document, { childList: true, subtree: true });\n  function getFetchOpts(link) {\n    const fetchOpts = {};\n    if (link.integrity)\n      fetchOpts.integrity = link.integrity;\n    if (link.referrerPolicy)\n      fetchOpts.referrerPolicy = link.referrerPolicy;\n    if (link.crossOrigin === \"use-credentials\")\n      fetchOpts.credentials = \"include\";\n    else if (link.crossOrigin === \"anonymous\")\n      fetchOpts.credentials = \"omit\";\n    else\n      fetchOpts.credentials = \"same-origin\";\n    return fetchOpts;\n  }\n  function processPreload(link) {\n    if (link.ep)\n      return;\n    link.ep = true;\n    const fetchOpts = getFetchOpts(link);\n    fetch(link.href, fetchOpts);\n  }\n})();\nconst index = \"\";\nwindow.addEventListener(\"DOMContentLoaded\", () => {\n});\n\n\n//\n</script>\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "999874",
+    "name": "АМЕТИСТ",
+    "url": "https://api.hh.ru/employers/999874",
+    "alternate_url": "https://hh.ru/employer/999874",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1415939.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7283416.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7283417.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=999874",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T13:05:46+0300",
+  "created_at": "2025-06-05T13:05:46+0300",
+  "initial_created_at": "2025-06-02T13:05:46+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121221107",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121221107",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "a1",
+        "name": "A1 — Начальный"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

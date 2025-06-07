@@ -1,0 +1,196 @@
+{
+  "id": "120375775",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": ".Net разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": null,
+    "to": 350000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": null,
+    "to": 350000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Привет, мы ищем крутого .Net разработчика в дружную небольшую команду для работы с компанией партнером ООО Информационные технологии в проект с интересными задачами.</p> <p> </p> <p>Проект в котором ты будешь работать связан со следующими направлениями:</p> <ul> <li>Формирование и ведение реестра линейных объектов, в частности, электросетевого хозяйства.</li> <li>Автоматические построение геопространных данных.</li> <li>Работать предстоит с векторными данными, поэтому навык работы с PostGIS обязателен.</li> <li>Документооборот, бизнес-процессы, формирование архивов данных и т.д.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Удобный форматы трудоустройства (ТК РФ, ИП, самозанятый, ГПХ)</li> <li>Отсутствие бюрократии</li> <li>Отсутствие микроменеджмента</li> <li>Полная удаленка, полный рабочий день</li> <li>График обговаривается</li> <li>Работу над проектом в крупной компании</li> </ul> <p><strong>Наш технический стек:</strong></p> <ul> <li>ASP.NET Core MVC (.NET 5+), Web API, Linq</li> <li>PostgreSQL, PostGIS</li> <li>JavaScript, JQuery, Ajax, SignaR, Bootstrap, HTML, CSS.</li> <li>GIT, docker</li> <li>GeoServer (WMS, WFS, WMTS и т.д.)</li> </ul> <p><strong>Обязанности:</strong></p> <ul> <li> <p>Участие в анализе требований / очистке бэклога продукта;</p> </li> <li> <p>Написание чистого, масштабируемого кода с использованием C# .NET</p> </li> <li> <p>Пересмотр, обновление, рефакторинг и отладка кода;</p> </li> </ul> <p><strong>Важно:</strong></p> <ul> <li>Испытательный срок от 7 дней до 3 месяцев, на время испытательного срока ЗП обговаривается и обговаривается какая будет после испытательного.</li> <li>Испытательный срок завершается с того момента когда начинаем выполнять реальные задачи.</li> <li>Опыт работы с C# и ГИС-системами (GeoServer);</li> <li> <p>Более 1 года опыта работы с .NET 5+</p> </li> <li> <p>Необходим опыт работы от 3 и более месяцев с PostgreSQL, PostGIS и т.п.</p> </li> <li>Мы заинтересованы в специалистах с навыками работы в данной сфере, чтобы на испытательный срок ушло минимум времени!</li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "ASP.NET Core"
+    },
+    {
+      "name": ".NET Core"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "ASP.NET"
+    },
+    {
+      "name": "C#"
+    },
+    {
+      "name": "ASP.NET MVC"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "jQuery"
+    },
+    {
+      "name": "Ajax"
+    },
+    {
+      "name": "Bootstrap"
+    },
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "WMS"
+    },
+    {
+      "name": "Документооборот"
+    },
+    {
+      "name": "Архивирование"
+    },
+    {
+      "name": "Векторная карта"
+    },
+    {
+      "name": "LINQ"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3571977",
+    "name": "Информационные Технологии",
+    "url": "https://api.hh.ru/employers/3571977",
+    "alternate_url": "https://hh.ru/employer/3571977",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/948999.png",
+      "90": "https://img.hhcdn.ru/employer-logo/4236532.png",
+      "240": "https://img.hhcdn.ru/employer-logo/4236533.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3571977",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T08:52:53+0300",
+  "created_at": "2025-06-05T08:52:53+0300",
+  "initial_created_at": "2025-05-12T08:52:53+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120375775",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120375775",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    },
+    {
+      "id": "OTHER",
+      "name": "Другое"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_10",
+      "name": "10 часов"
+    },
+    {
+      "id": "HOURS_12",
+      "name": "12 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

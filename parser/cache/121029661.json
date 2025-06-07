@@ -1,0 +1,152 @@
+{
+  "id": "121029661",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Support Engineer / Специалист технической поддержки",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 90000,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 90000,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы расширяем технологические возможности бизнеса и создаём качественный софт с 1993 года. Наши заказчики — крупные международные компании, лидеры в сферах обучения и сертификации, фармацевтики, здравоохранения, управления предприятием, медиа и безопасности.</p> <p>В настоящее время мы ищем инженера технической поддержки в команду, занимающуюся <em>разработкой приложений для одной из ведущих российских авиакомпаний.</em></p> <p>В команде: 6 разработчиков, 3 тестировщика, 2 специалиста техподдержки, аналитик, дизайнер и DevOps-инженер. За 5 лет мы с нуля разработали и запустили в продакшн движок по бронированию билетов.</p> <p><strong>Описание задач:</strong></p> <ul> <li>консультировать и технически поддерживать заказчика и партнеров через систему заявок (service desk);</li> <li>анализировать поступившие данные и работать с БД;</li> <li>своевременно реагировать на тикеты и закрывать заявки.</li> </ul> <p><strong>Вы можете стать частью нашей команды, если у вас есть:</strong></p> <ul> <li>опыт работы специалистом технической поддержки 2 линии от 1 года;</li> <li>умение проводить анализ данных с помощью построения запросов к БД, системам логирования;</li> <li>знание основных сетевых протоколов;</li> <li>опыт моделирования и отладки сценариев работы пользователей в веб-браузере;</li> <li>пунктуальность и внимание к деталям.</li> </ul> <p><strong>Приветствуется:</strong></p> <ul> <li>опыт работы в области QA/разработки или желание развиваться в этой области;</li> <li>опыт работы с Graylog, MS Application Insights, Azure Monitor Logs, Azure Data Explorer или другими системами логирования и мониторинга;</li> <li>опыт работы с Postgres;</li> <li>опыт работы с Jira, Jira Service Desk;</li> <li>опыт работы с Docker.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>официальное оформление, белая зарплата, отпуск согласно ТК РФ;</li> <li>ДМС, 100% оплата больничных;</li> <li>работа удаленно или в офисе в Санкт-Петербурге;</li> <li>удобные рабочие места / корпоративный ноутбук для удалённой работы;</li> <li>возможности профессионального роста;</li> <li>внутренние семинары по обмену знаниями.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Техническая поддержка"
+    },
+    {
+      "name": "Helpdesk"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "PostgreSQL"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9280477",
+    "name": "Software Country (ТОО Балхаш Системс)",
+    "url": "https://api.hh.ru/employers/9280477",
+    "alternate_url": "https://hh.ru/employer/9280477",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1061301.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5865837.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5865838.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9280477",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-27T13:07:48+0300",
+  "created_at": "2025-05-27T13:07:48+0300",
+  "initial_created_at": "2025-05-27T13:07:48+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121029661",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121029661",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "a1",
+        "name": "A1 — Начальный"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

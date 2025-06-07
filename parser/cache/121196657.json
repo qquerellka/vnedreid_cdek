@@ -1,0 +1,132 @@
+{
+  "id": "121196657",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер по сопровождению",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы разрабатываем мобильные и веб приложения для современного онлайн-банкинга. Ежедневно на наших мощностях обрабатывается до 1,5 млн транзакций по счетам 20 млн пользователей, а в портфеле 300+ реализованных проектов с банками-партнерами.<br /><br />Вам предстоит консультировать представителей банков по работе продукта и возникающим ошибкам, а также тесно взаимодействовать с разработчиками, тестировщиками и другими подразделениями компании для обеспечения бесперебойного функционирования продукта.</p> <p><strong>Задачи</strong></p> <ul> <li>Консультировать технических специалистов банков</li> <li> <p>Анализировать работу приложения, используя базы данных, логи и выставлять запросы на исправления багов</p> </li> <li> <p>Взаимодействовать с внутренними подразделениями компании (разработка, тестирование, аналитики и т.д.)</p> </li> <li> <p>Тестировать новые версии продукта как конечный пользователь системы</p> </li> <li> <p>Наполнять, изменять внутреннюю базу знаний по продукту</p> </li> </ul> <p><strong>Мы ожидаем</strong></p> <ul> <li> <p>базовые знания SQL</p> </li> <li> <p>понимание основ форматов предоставления данных: XML, JSON</p> </li> </ul> <p><strong>Вашим преимуществом будет</strong></p> <ul> <li> <p>опыт работы в техническом сопровождении</p> </li> <li>опыт работы с большим объемом данных</li> </ul> <p><strong>Мы предлагаем: </strong></p> <ul> <li> <p>График: 5/2 с 09:00 до 18:00. Удаленный формат;</p> </li> <li> <p>Официальное трудоустройство, зарплата полностью белая, пересмотр в среднем раз в год;</p> </li> <li> <p>Понятная траектория роста (performance review, карьерные консультации, индивидуальная карта развития и т.д.);</p> </li> <li> <p>Социальный пакет (ДМС с первого рабочего дня, скидки от партнёров, детская программа и т.д.);</p> </li> <li> <p>Обучение и развитие за счёт ресурсов компании (Учебный центр, корпоративная библиотека, оплата внешнего обучения);</p> </li> <li> <p>Насыщенная корпоративная жизнь (радио, подкасты, кибертурнир, собственные мероприятия и участие в крупных событиях отрасли);</p> </li> <li> <p>Возможность быть преподавателем, наставником, автором корпоративного блога, спикером – каждый выбирает то, что подходит именно ему.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Анализ данных"
+    },
+    {
+      "name": "Работа с большим объемом информации"
+    },
+    {
+      "name": "Деловая коммуникация"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "8550",
+    "name": "Центр финансовых технологий",
+    "url": "https://api.hh.ru/employers/8550",
+    "alternate_url": "https://hh.ru/employer/8550",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1390863.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7183239.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7183240.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=8550",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T06:10:05+0300",
+  "created_at": "2025-06-02T06:10:05+0300",
+  "initial_created_at": "2025-06-02T06:10:05+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121196657",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121196657",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

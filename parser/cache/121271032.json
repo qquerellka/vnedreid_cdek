@@ -1,0 +1,167 @@
+{
+  "id": "121271032",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Middle Manual QA",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Дербеневская набережная",
+    "building": "7с17",
+    "lat": 55.724064,
+    "lng": 37.650873,
+    "description": null,
+    "raw": "Москва, Дербеневская набережная, 7с17",
+    "metro": {
+      "station_name": "Крестьянская застава",
+      "line_name": "Люблинско-Дмитровская",
+      "station_id": "10.63",
+      "line_id": "10",
+      "lat": 55.732278,
+      "lng": 37.665325
+    },
+    "metro_stations": [
+      {
+        "station_name": "Крестьянская застава",
+        "line_name": "Люблинско-Дмитровская",
+        "station_id": "10.63",
+        "line_id": "10",
+        "lat": 55.732278,
+        "lng": 37.665325
+      },
+      {
+        "station_name": "Павелецкая",
+        "line_name": "Замоскворецкая",
+        "station_id": "2.101",
+        "line_id": "2",
+        "lat": 55.729741,
+        "lng": 37.638693
+      },
+      {
+        "station_name": "Пролетарская",
+        "line_name": "Таганско-Краснопресненская",
+        "station_id": "7.62",
+        "line_id": "7",
+        "lat": 55.731546,
+        "lng": 37.666917
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Getblogger — </strong>ведущая IT-компания в сфере рекламы у блогеров, входящая в<strong> МТС AdTech</strong>. Мы автоматизируем работу с инфлюенсерами, а наши клиенты – топовые бренды России.</p> <p>100 000+ блогеров уже сотрудничают с нами, и мы растем дальше! В связи с расширением, в поиске <strong>Middle Manual QA</strong></p> <p><strong>Задачи должности:</strong></p> <ul> <li>Разработка и поддержка тестовой документации: чек-листы, тест-кейсы, тест-планы в Allure Test Ops;</li> <li>Функциональное, регрессионное и интеграционное тестирование web, API;</li> <li>Участие в планировании и оценке задач на этапе анализа требований;</li> <li>Работа в тесной связке с разработчиками, аналитиками и продакт-менеджерами;</li> <li>Заведение и сопровождение баг-репортов в Jira<br />Контроль качества релизов и участие в релизных циклах;</li> <li>Улучшение QA-процессов: автоматизация, документация, анализ багов;</li> <li>Тестирование FE и BE фич с помощью соответствующих инструментов.</li> </ul> <p><strong>Ты тот, кого мы ищем:</strong></p> <ul> <li>Знаешь техники тест-дизайна;</li> <li>Знаешь пирамиды тестирования;</li> <li>Понимаешь структуру JSON;</li> <li>Умеешь читать и анализировать логи (Kibana/Grafana); </li> <li>Есть опыт тестирования Rest API;</li> <li>Есть опыт написания SQL-запросов;</li> <li>Имеешь опыт работы с Swagger, Postman, DevTools, Figma, Allure TestOps.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Команду людей, которые любят свою работу и хотят делать круто вместе;</li> <li>Просторный светлый офис в БЦ &quot;Новоспасский Двор&quot; (15 мин. от м. Павелецкая / Пролетарская / Крестьянская Застава);</li> <li>Оформление по ТК и полностью белую заработную плату + бонусы по результатам работы.</li> <li> <p>В нашей компании регулярно проходят корпоративные мероприятия, тимбилдинги и совместные активности как в офисе, так и за его пределами. Мы любим устраивать тематические дни и участвовать в спортивных событиях.</p> </li> </ul> <p>Работа у нас — это не только задачи и проекты, но и возможность стать частью дружной команды, где каждый чувствует себя комфортно и может раскрыть свой потенциал.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "TestRail"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Стратегия тестирования"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2557004",
+    "name": "Getblogger",
+    "url": "https://api.hh.ru/employers/2557004",
+    "alternate_url": "https://hh.ru/employer/2557004",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/883120.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3973187.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3973188.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2557004",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T10:41:32+0300",
+  "created_at": "2025-06-03T10:41:32+0300",
+  "initial_created_at": "2025-06-03T10:41:32+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121271032",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121271032",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

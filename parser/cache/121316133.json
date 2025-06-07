@@ -1,0 +1,143 @@
+{
+  "id": "121316133",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 90000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 90000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Бердск",
+    "street": "Морская улица",
+    "building": "3к1",
+    "lat": 54.790495,
+    "lng": 83.048655,
+    "description": null,
+    "raw": "Бердск, Морская улица, 3к1",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "shift",
+    "name": "Сменный график"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Загородный отель в городе Бердске ищет второго системного администратора</p> <p>Обязанности:<br />- Установка, настройка и обслуживание серверного и клиентского оборудования и программного обеспечения<br />- Обеспечение бесперебойной работы компьютерной сети отеля<br />- Мониторинг и анализ работы сети, выявление и устранение возможных сбоев<br />- Резервное копирование данных и обеспечение их безопасности<br />- Управление доступом пользователей к сети и ресурсам<br />- Поддержка и обновление рабочих станций и периферийного оборудования<br />- Решение технических проблем пользователей и оказание консультаций<br />-Настройка и монтаж видеонаблюдения<br />-Технический запуск корпоративных мероприятий гостей отеля.<br /><br />Требования:<br />- Опыт работы системным администратором от 2 лет<br />-Умение общаться на на одном языке с пользователем.<br />- Уверенные знания операционных систем Windows и Linux<br />-Знание серверных операционных систем (Windows 2012R2, 2016R2, 2019R2, 2022R2)<br />-Знание виртуализации на базе Hyper-V, WMvare , esxi vShpere<br />- Умение настраивать и обслуживать серверное оборудование<br />-Уверенные знания сетевого стека TCP/IP, DNS, DHCP, firewall, NAT, proxy, VPN, Mesh system, Keenetic и др.)<br />- Навыки работы с базами данных (MySQL, MS SQL Server)<br />- Знание основных принципов информационной безопасности<br />- Ответственность, внимательность к деталям, умение работать в команде.<br />-Все виды монтажа ЛВС.<br />-Уверенное знание систем видеонаблюдения как IP так и Аналоговых.<br />-Уверенное знание POE af/at.<br />- Администрирование сетевого оборудования<br />- Администрирование виртуальных АТС<br />- Администрирование серверов 1С Предприятие<br />- Администрирование мониторинговой системы<br />- Диагностика проблем и решение задач различной сложности, возникающих в работе ИТ систем разной направленности<br />- Взаимодействие с контрагентами.<br />- Планирование и реализация развития IT-инфраструктуры</p> <p>Мы предлагаем:</p> <ul> <li>Официальное трудоустройство и социальный пакет</li> <li>График работы 2/2 </li> <li>Корпоративное питание</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4057882",
+    "name": "Борвиха Hotel&Spa",
+    "url": "https://api.hh.ru/employers/4057882",
+    "alternate_url": "https://hh.ru/employer/4057882",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/646966.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3029012.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3029013.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4057882",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T08:29:04+0300",
+  "created_at": "2025-06-04T08:29:04+0300",
+  "initial_created_at": "2025-06-04T08:29:04+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121316133",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121316133",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "TWO_ON_TWO_OFF",
+      "name": "2/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_12",
+      "name": "12 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

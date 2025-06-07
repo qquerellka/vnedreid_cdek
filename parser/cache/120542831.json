@@ -1,0 +1,164 @@
+{
+  "id": "120542831",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "DevOps-инженер Junior+/Middle",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": null,
+    "to": 190000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 190000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "MONTHLY",
+      "name": "Раз в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>На связи — <strong>Фандог!</strong><br /><br />Страстный подход к работе и любовь к играм? Это про нас!</p> <p><br />С нами ты погрузишься в разработку мультиплатформенных игр, покоривших миллионы игроков по всему миру (более 55 млн инсталлов).</p> <p><br />Фандог - команда, состоящая из настоящих профессионалов и общительных ребята с хорошим чувством юмора. Мы уже знаем, как делать крутые игры эффективно и по-простому, и теперь хотим, чтобы они стали культовыми!</p> <p>В настоящее время мы<strong> ищем Junior+/Middle Devops инженера</strong>, который усилит нашу команду.</p> <p> </p> <p><strong>Стек технологий:</strong></p> <ul> <li> <p>Cloud provider: AWS;</p> </li> <li> <p>Orchestration: Kubernetes/EKS;</p> </li> <li> <p>IaC: Ansible, Terraform, Helm;</p> </li> <li> <p>Containerization: Docker;</p> </li> <li> <p>DB: Postgresql, Clickhouse, InfluxDB, Redis;</p> </li> <li> <p>CI/CD: GitlabCI;</p> </li> <li> <p>Monitoring: Grafana/Prometheus;</p> </li> </ul> <p>Other: Kafka, RabbitMQ, FluentD, Nginx, HAproxy.</p> <p><br /><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Администрирование, поддержка и развитие серверной инфраструктуры компании;</li> <li>Обеспечение работоспособности систем и сервисов;</li> <li>Поддержка нескольких сотен облачных серверов;</li> <li>Поддержка разработчиков по вопросам инфраструктуры и смежных направлений.</li> </ul> <p><strong>Что для нас важно:</strong></p> <ul> <li>Базовые знания и понимание работы сетей;</li> <li>Опыт администрирования OS Linux;</li> <li>Самостоятельность и инициативность;</li> <li>Коммуникабельность.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт работы с Kubernetes, AWS.</li> </ul> <p> </p> <p><strong>Почему с нами классно:</strong></p> <ul> <li> <p>Команда опытных профессионалов с высокой технической экспертизой;</p> </li> <li> <p>Свобода в реализации своих целей в рамках компании — у нас нет бюрократии и мы поощряем инициативу;</p> </li> <li> <p>Гарантированная 100%-ая оплата больничных, без необходимости предоставления справок.</p> </li> <li> <p>Компенсация занятий иностранных языков.</p> </li> <li> <p>Ты сам выстраиваешь свой график, важны лишь часы присутствия с гибким началом рабочего дня до 11:30 по МСК;</p> </li> <li> <p>Сплоченное комьюнити внутри компании с развитой неформальной корпоративной культурой.</p> </li> <li> <p>Совместные культурные мероприятия, включая походы в кинотеатр, выезды на пикники и многое другое для расширения кругозора.</p> </li> </ul> <p>Мы всегда рады пообщаться с новыми людьми и перспективными специалистами ❤️</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Ansible"
+    },
+    {
+      "name": "Terraform"
+    },
+    {
+      "name": "Grafana"
+    },
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "AWS"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "GitLab CI"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "160",
+      "name": "DevOps-инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2061860",
+    "name": "Фандог",
+    "url": "https://api.hh.ru/employers/2061860",
+    "alternate_url": "https://hh.ru/employer/2061860",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2061860",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T16:58:06+0300",
+  "created_at": "2025-06-03T16:58:06+0300",
+  "initial_created_at": "2025-05-14T15:30:23+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120542831",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120542831",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

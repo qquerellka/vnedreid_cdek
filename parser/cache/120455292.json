@@ -1,0 +1,175 @@
+{
+  "id": "120455292",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Ассистент продакт-менеджера",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 50000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 50000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Казань",
+    "street": "улица Восстания",
+    "building": "100к2130",
+    "lat": 55.836762,
+    "lng": 49.04196,
+    "description": null,
+    "raw": "Казань, улица Восстания, 100к2130",
+    "metro": {
+      "station_name": "Яшьлек (Юность)",
+      "line_name": "Центральная",
+      "station_id": "49.460",
+      "line_id": "49",
+      "lat": 55.827843,
+      "lng": 49.082905
+    },
+    "metro_stations": [
+      {
+        "station_name": "Яшьлек (Юность)",
+        "line_name": "Центральная",
+        "station_id": "49.460",
+        "line_id": "49",
+        "lat": 55.827843,
+        "lng": 49.082905
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Наша компания основана в 2020 году и успешно развивает несколько направлений деятельности, включая производство, оптовые продажи и продажи на маркетплейсах. Оборот за 2024 год составил, более 400 млн рублей!</p> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Работу в компании, занимающей лидирующие позиции на рынке.</li> <li>График работы 5/2 с 8 до 17, выходные суббота и воскресенье</li> <li>После испытательного срока возможен гибридный график</li> <li>⁠Возможности для профессионального роста и развития.</li> <li>Уютный офис с чаем и кофе, печеньками и плюшками, быстрым интернетом, теплой, дружеской обстановкой.</li> </ul> <p><strong>Что будет входить в обязанности:</strong></p> <ul> <li>Обработка фотографий</li> <li>⁠Работа с дизайнерами</li> <li>Выполнение точечных дизайнерских работ</li> <li>Редактирование инфографики</li> <li>Поиск дизайнеров</li> <li>Поиск поставщиков</li> </ul> <p><strong>Что для нас важно в кандидате:</strong></p> <ul> <li>Базовое знание Figma, Adobe photoshop, Corel draw, illustrator</li> <li>Навыки работы с ИИ</li> <li>Высшее образование/ 3-4 курс</li> <li>Инициативность</li> <li>Внимательность к деталям</li> <li>Креативное мышление</li> <li>Способность работать с любым ТЗ</li> <li>Наличие личного ноутбука для работы</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Figma"
+    },
+    {
+      "name": "Adobe Photoshop"
+    },
+    {
+      "name": "CorelDRAW"
+    },
+    {
+      "name": "Illustration"
+    },
+    {
+      "name": "Обработка изображений"
+    },
+    {
+      "name": "Инфографика"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "73",
+      "name": "Менеджер продукта"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "10815155",
+    "name": "Файзуллин Роберт Рашидович",
+    "url": "https://api.hh.ru/employers/10815155",
+    "alternate_url": "https://hh.ru/employer/10815155",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1289667.jpeg",
+      "90": "https://img.hhcdn.ru/employer-logo/6778966.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6778967.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10815155",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T10:18:23+0300",
+  "created_at": "2025-06-06T10:18:23+0300",
+  "initial_created_at": "2025-05-13T10:18:23+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120455292",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120455292",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

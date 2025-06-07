@@ -1,0 +1,158 @@
+{
+  "id": "120598945",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Продакт менеджер (нижнее белье)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 110000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 110000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Лиговский проспект",
+    "building": "50Д",
+    "lat": 59.924984,
+    "lng": 30.362311,
+    "description": null,
+    "raw": "Санкт-Петербург, Лиговский проспект, 50Д",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>SCANDALE MANIÈRE </strong>— это уникальный российский<strong> </strong>мультибренд нижнего белья, боди и будуарной одежды для тех, кто любит себя и празднует жизнь! В рамках мультибренда есть линейка собственного производства, а также несколько эксклюзивных французских и итальянских брендов.</p> <p>Мы ищем в команду талантливого <strong>Продакт-менеджера</strong>, который поможет вывести производство на новый уровень и обеспечить безупречное качество нашей продукции. В нашей команде ценятся креативность, качество и внимание к деталям.</p> <p><strong>Обязанности:</strong></p> <p> </p> <div> <ul> <li>Организация и координация всего производственного процесса продукции бренда</li> <li>Подготовка и ведение технической документации для производства (технические карты, характеристики, инструкции)</li> <li>Размещение заказов на производство и контроль их исполнения в срок</li> <li>Контроль качества выпускаемой продукции на всех этапах производства</li> <li>Подбор и закупка материалов и фурнитуры, взаимодействие с поставщиками, оптимизация закупочных процессов.</li> <li>Тесное взаимодействие с дизайнерами и конструкторами для реализации новых коллекций и улучшения существующих моделей</li> <li>Анализ производственных процессов и возможностей поиска для повышения эффективности и сокращения издержек.</li> </ul> </div> <strong>Мы ожидаем от кандидата:</strong> <ul> <li>Опыт работы продакт-менеджером в fashion-индустрии от 2 лет <strong>(опыт с нижним бельем обязателен!)</strong></li> <li>Экспертные знания материалов, тканей и фурнитуры</li> <li>Понимание процессов разработки и производства одежды и нижнего белья</li> <li> <p>Готовность взять на себя ответственность за результат</p> </li> <li> <p>Опыт эффективного взаимодействия с поставщиками и швейными производствами</p> </li> </ul> <strong>Мы предлагаем:</strong> <ul> <li>Работу в быстро развивающемся премиальном бренде нижнего белья и домашней одежды</li> <li>Возможность влиять на продукт и процессы, реализовывать свои идеи</li> <li>Конкурентную заработную плату и социальные гарантии</li> <li>Дружный коллектив профессионалов и комфортный офис / возможность удаленной работы.</li> </ul> <p><strong>Ждем Ваши резюме! Будем рады знакомству!</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": {
+    "id": 46709,
+    "name": "Брендированный шаблон 3",
+    "top_picture": {
+      "height": 560,
+      "width": 1540,
+      "path": "https://img.hhcdn.ru/branding-pictures/3219931.jpeg",
+      "blurred_path": null
+    },
+    "bottom_picture": {
+      "height": 704,
+      "width": 1540,
+      "path": "https://img.hhcdn.ru/branding-pictures/3219938.jpeg",
+      "blurred_path": null
+    }
+  },
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "73",
+      "name": "Менеджер продукта"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10065417",
+    "name": "SCANDALE MANIÈRE",
+    "url": "https://api.hh.ru/employers/10065417",
+    "alternate_url": "https://hh.ru/employer/10065417",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1398722.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7214659.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7214660.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10065417",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-15T16:19:42+0300",
+  "created_at": "2025-05-15T16:19:42+0300",
+  "initial_created_at": "2025-05-15T16:19:42+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120598945",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120598945",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

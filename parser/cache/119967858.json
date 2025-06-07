@@ -1,0 +1,157 @@
+{
+  "id": "119967858",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Junior C# .Net Developer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Мы активно расширяем команду в быстрорастущем направлении — разработке современных десктоп-приложений для Windows (UWP/WPF) и кроссплатформенных решений на Avalonia (macOS/Windows).</strong></p> <p><em><strong>К сожалению, мы не рассматриваем сотрудников на удаленную работу.</strong></em></p> <p>Наши приложения охватывают множество различных категорий (музыкальные, визуальные, прикладные). Мы разрабатываем: аудио-редакторы, бенчмарки, утилиты для очистки ПК, аудио-конвертеры, специализированные графические редакторы.</p> <p><strong>Что потребуется для успешного выполнения задач:</strong></p> <ul> <li>опыт разработки на С# с использованием UWP/WPF;</li> <li>знание MVVM;</li> <li>понимание принципов ООП;</li> <li>опыт работы в Visual Studio;</li> <li>оконченное высшее образование/в том числе студент последнего курса.</li> <li><strong>обязательно</strong> наличие готовых проектов или pet проектов с доступом к исходному коду для оценки кандидата.</li> </ul> <p><strong>Будет плюсом, но необязательно:</strong></p> <ul> <li>опыт работы с Git и понимание методологии git-flow;</li> <li>опыт разработки клиент-серверных решений;</li> <li>знание английского языка на уровне чтения технической документации.</li> </ul> <p><strong>Выбирая нас, ты получишь:</strong></p> <ul> <li>официальное трудоустройство;</li> <li>полностью белая заработная плата 2 раза в месяц: аванс/заработная плата;</li> <li>профессиональный быстрый рост;</li> <li>участие в полном цикле разработки приложения: от первоначального проектирования до деплоя;</li> <li>оплачиваемое питание в ближайших кафе Академпарка;</li> <li>корпоративные мероприятия;</li> <li>удобная парковка;</li> <li>уровень заработной платы определяется по результатам собеседования.</li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "C#"
+    },
+    {
+      "name": "WPF"
+    },
+    {
+      "name": "Английский язык"
+    },
+    {
+      "name": "MS Visual Studio"
+    },
+    {
+      "name": "ООП"
+    },
+    {
+      "name": "MVVM"
+    },
+    {
+      "name": "UWP"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5998412",
+    "name": "InlyIT",
+    "url": "https://api.hh.ru/employers/5998412",
+    "alternate_url": "https://hh.ru/employer/5998412",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1224492.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6518409.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6518410.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5998412",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-22T10:37:17+0300",
+  "created_at": "2025-05-22T10:37:17+0300",
+  "initial_created_at": "2025-04-25T16:01:35+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119967858",
+  "has_test": true,
+  "test": {
+    "required": true
+  },
+  "alternate_url": "https://hh.ru/vacancy/119967858",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

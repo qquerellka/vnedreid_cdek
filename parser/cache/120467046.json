@@ -1,0 +1,197 @@
+{
+  "id": "120467046",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Backend-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 100000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": null,
+    "lng": null,
+    "description": null,
+    "raw": null,
+    "metro": {
+      "station_name": "Петроградская",
+      "line_name": "Московско-Петроградская",
+      "station_id": "15.215",
+      "line_id": "15",
+      "lat": 59.966389,
+      "lng": 30.311293
+    },
+    "metro_stations": [
+      {
+        "station_name": "Петроградская",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.215",
+        "line_id": "15",
+        "lat": 59.966389,
+        "lng": 30.311293
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>VibeLab — молодая IT-компания, которая предоставляет широкий спектр сервисов клиентам:</p> <p>Разработка программного обеспечения для различных платформ, включая веб и мобильные устройства; UX/UI дизайн; Интеграцию CRM-систем с другими системами и сервисами; Поддержка программного обеспечения и информационных систем</p><br /><strong>Обязанности:</strong> <ul> <li>Полный цикл разработки: от анализа требований ТЗ до запуска проекта и поддержки.</li> <li>Проектирование архитектуры backend-систем (микросервисы, клиент-серверные приложения).</li> <li>Разработка с нуля на TypeScript (Node.js) или Go: API, интеграция с БД (PostgreSQL/MongoDB), очереди (RabbitMQ).</li> </ul> <strong>Требования:</strong> <ul> <li>2+ года коммерческого опыта с TypeScript или Go.</li> <li>Опыт проектирования архитектуры с нуля: микросервисы, монолиты, event-driven.</li> <li>Знание SQL/NoSQL (PostgreSQL, MongoDB, Redis) и ORM (Prisma).</li> <li>Практика с Docker, RabbitMQ, REST/gRPC, nginx, Socket.</li> <li>Понимание паттернов (CQRS, Event Sourcing, DDD) и принципов SOLID.</li> <li>Опыт составления диаграмм (UML, ER) и документации.</li> </ul> <strong>Условия:</strong> <ul> <li>Официальное оформление по ТК РФ в IT-аккредитованную компанию или другие любые варианты, по желанию кандидата.</li> <li>Мы рассматриваем full-time занятость с полноценным рабочим днем (5/2).</li> <li>Возможен полностью удаленный формат работы с гибким началом рабочего дня (возможны редкие вылазки на мероприятие в офис в Санкт-Петербург)</li> <li>Интересные и важные проекты, которыми вы и сами пользуетесь ежедневно.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "TypeScript"
+    },
+    {
+      "name": "GO"
+    },
+    {
+      "name": "Микросервисная архитектура"
+    },
+    {
+      "name": "RabbitMQ"
+    },
+    {
+      "name": "Redis"
+    },
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "Node.js"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Golang"
+    },
+    {
+      "name": "MongoDB"
+    },
+    {
+      "name": "REST API"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "6073242",
+    "name": "VibeLab",
+    "url": "https://api.hh.ru/employers/6073242",
+    "alternate_url": "https://hh.ru/employer/6073242",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1183906.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6356050.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6356051.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6073242",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-13T12:18:32+0300",
+  "created_at": "2025-05-13T12:18:32+0300",
+  "initial_created_at": "2025-05-13T12:18:32+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120467046",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120467046",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

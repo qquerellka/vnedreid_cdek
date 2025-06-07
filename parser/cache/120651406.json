@@ -1,0 +1,192 @@
+{
+  "id": "120651406",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Программист 1С",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 100000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Казань",
+    "street": "улица Сибгата Хакима",
+    "building": "3",
+    "lat": 55.815048,
+    "lng": 49.10636,
+    "description": null,
+    "raw": "Казань, улица Сибгата Хакима, 3",
+    "metro": {
+      "station_name": "Козья слобода",
+      "line_name": "Центральная",
+      "station_id": "49.271",
+      "line_id": "49",
+      "lat": 55.817608,
+      "lng": 49.097646
+    },
+    "metro_stations": [
+      {
+        "station_name": "Козья слобода",
+        "line_name": "Центральная",
+        "station_id": "49.271",
+        "line_id": "49",
+        "lat": 55.817608,
+        "lng": 49.097646
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Мы Мистелла </strong>— крупная, развивающаяся компания по производству нижнего белья, представленная на Wildberries и Ozon под брендом МissYourKiss</p> <p><strong>И сейчас мы в поисках Программиста 1С!</strong></p> <p><em>Немного о нас:</em></p> <p>✓ На рынке 5 лет, команда 35 чел<br />✓ Выручка от 500 млн руб / год, более 1 млн проданных товаров<br />✓ ТОП-3 в категории комплектов нижнего белья на WB и Ozon<br />✓ Резидент Сколково<br />✓ Наш бренд многие знают и любят</p> <p> </p> <p><strong>Твои задачи:</strong></p> <p>✓ Настройка бизнес-процессов в 1С УНФ (компания переходит с гугл-таблиц в 1С)<br />✓ Разработка скриптов для гугл-таблиц<br />✓ Разработка решений для автоматизации (боты, выгрузки)</p> <p><strong>Ты нам идеально подходишь, если:</strong><br />✓ У тебя есть опыт работы с 1С от 1 года<br />✓ Ты умеешь писать скрипты и готов разобраться в наших таблицах</p> <p><strong>Мы предлагаем:</strong><br />✓ Заработную плату: 100.000р на исп сроке, 100.000р + kpi после исп срока<br />✓ Режим работы: 5/2 с 09:00-18:00<br />✓ Оформление по ТК РФ, СМЗ, ИП<br />✓ Работу в комфортном офисе по адресу: Казань, Сибгата Хакима, 3 / удаленно или гибрид<br />✓ Возможность профессионального и карьерного роста<br />✓ Работу в успешной компании, где главный движок - команда!</p> <p><strong><em>В MissYourKiss действительно круто работать, ведь у нас ты найдешь:</em></strong></p> <p><em><strong>Прекрасный вид из окна на Чашу и Казанку</strong>, который вдохновит тебя на карьерные свершения</em></p> <p><strong><em>Комфортный современный офис</em> <em>с отдельной </em></strong><em><strong>кухней,</strong> где тебя будут ждать сезонные фрукты</em></p> <p><strong><em>Коллег,</em></strong> <em>которые не оставят тебя одного в трудной ситуации</em></p> <p><strong><em>Библиотеку</em></strong>, <em>которая раскрасит твою рабочую атмосферу</em></p> <p><strong><em>Развитую корпоративную культуру, игры, тимбилдинг</em></strong></p> <p>А также <strong><em>скидки на наши изделия</em>!</strong></p> <p><strong>Если тебя привлекает работа в динамичной команде, где каждый день есть возможность воплотить уникальные идеи </strong>—<strong> скорее откликайся!</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "1С программирование"
+    },
+    {
+      "name": "1С"
+    },
+    {
+      "name": "Системная интеграция"
+    },
+    {
+      "name": "Help Desk"
+    },
+    {
+      "name": "Оптимизация кода"
+    },
+    {
+      "name": "Автоматизация процессов"
+    },
+    {
+      "name": "Обновление конфигурации 1С"
+    },
+    {
+      "name": "1С: Бухгалтерия"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "3956914",
+    "name": "Мистелла",
+    "url": "https://api.hh.ru/employers/3956914",
+    "alternate_url": "https://hh.ru/employer/3956914",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1398183.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7212503.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7212504.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3956914",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-30T11:57:01+0300",
+  "created_at": "2025-05-30T11:57:01+0300",
+  "initial_created_at": "2025-05-16T21:16:23+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120651406",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120651406",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

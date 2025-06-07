@@ -1,0 +1,120 @@
+{
+  "id": "121347878",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Golang разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "деревня Сальково",
+    "street": null,
+    "building": null,
+    "lat": 56.603453,
+    "lng": 38.292611,
+    "description": null,
+    "raw": "деревня Сальково",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>О проекте:</strong></p> <p>Разработка решения для сети оператора связи.</p> <p><strong>Стек технологий:</strong></p> <p>Языки программирования Backend: Golang (1.22+);</p> <p>БД: PostgreSQL, Redis (или аналог);</p> <p>Очереди: NATS, Kafka;</p> <p>Другие технологии: SIP, TCP/IP, TLS, MSRP, Rest API, XML, JSON;</p> <p>CI/CD: Gitlab;</p> <p>Деплой: kubernetes, ansible;</p> <p>Наблюдаемость: Prometheus, Grafana, ELK, OT.</p> <p>знание Swagger и S3</p> <p><strong>Чем предстоит заниматься:</strong></p> <p>Разработка приложения для IMS мобильной сети;</p> <p>Участие в проработке архитектуры;</p> <p>Участвовать в код-ревью, рефакторинге и анализе ошибок.</p> <p>Проект одновременно сложный и интересный. На проекте высокие требования к качеству кода, обеспечению отказоустойчивой работы в условиях несовершенной среды. Одновременно предъявляются требования к безопасности разработки.</p> <p>Во время разработки потребуется, с одной стороны, опираться на документацию (RFC, специфичные) и одновременно принимать решения по вопросам, которые не описаны в стандартах. Основная документация на английском языке.</p> <p>Размер команды до 10 человек, работа по Agile.</p> <p><strong>Что мы ожидаем:</strong></p> <p>Уровень Senior/Middle+;</p> <p>Образование высшее, законченное;</p> <p>Знание английского: умение читать техническую документацию</p> <p>Опыт коммерческой разработки от 4 лет;</p> <p>Опыт написания асинхронного и многопоточного кода. Опыт работы с сетевыми сокетами;</p> <p>Знание принципов построения распределенных отказоустойчивых и высоконагруженных приложений;</p> <p>Опыт работы с брокерами сообщений. Плюсом будет NATS</p> <p>Опыт написания тестов.</p> <p><strong>Что мы предлагаем:</strong></p> <p>Удобный график работы;</p> <p>Работу в команде увлеченных и профессиональных людей;</p> <p>Решение сложных и интересных задач;</p> <p>График работы: 5/2 (09-18:00 или 10:00-19:00);</p> <p>Полностью белую ЗП (отталкиваемся от ваших ожиданий);</p> <p>Аккредитацию ИТ компании.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9066533",
+    "name": "Медиа Ком",
+    "url": "https://api.hh.ru/employers/9066533",
+    "alternate_url": "https://hh.ru/employer/9066533",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1144963.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6200421.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6200422.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9066533",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T16:00:16+0300",
+  "created_at": "2025-06-04T16:00:16+0300",
+  "initial_created_at": "2025-06-04T16:00:16+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121347878",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121347878",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

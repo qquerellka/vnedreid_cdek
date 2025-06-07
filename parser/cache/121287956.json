@@ -1,0 +1,123 @@
+{
+  "id": "121287956",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "DevOps Engineer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p> Вакансия: DevOps Engineer </p> <p>Привет!<br />Мы — команда, создающая умный и удобный SaaS для управления компьютерными клубами по всему миру. В нашем продукте — мобильные приложения, CRM-система, управляющий софт и множество интеграций. Мы стремимся сделать технологии простыми, стабильными и приятными для пользователя. И сейчас мы ищем DevOps-инженера, который поможет нам масштабироваться быстро, безопасно и с кайфом для всей команды.</p> <p><br />Что предстоит делать:</p> <p>* Развивать и поддерживать CI/CD пайплайны на GitLab<br />* Автоматизировать инфраструктуру и процессы деплоя микросервисов<br />* Настраивать и сопровождать мониторинг и логирование<br />* Работать с инфраструктурой в Azure и Yandex Cloud<br />* Оптимизировать проксирование и безопасность через Nginx и Jwilder<br />* Обеспечивать отказоустойчивость и стабильность продакшена<br />* Работать рука об руку с разработкой и влиять на релизные процессы</p> <p><br />Что мы от тебя ждём:</p> <p>* Уверенное владение Docker и понимание контейнерной архитектуры<br />* Опыт настройки CI/CD (особенно приветствуем GitLab)<br />* Знание микросервисной архитектуры, опыт с брокерами сообщений (RabbitMQ)<br />* Навыки работы с облаками (Azure / Yandex Cloud)<br />* Уверенность в настройке и оптимизации Nginx / Jwilder<br />* Скрипты автоматизации (Bash / Python — приветствуются)<br />* Плюсом будет опыт с Terraform, Kubernetes, Grafana, Prometheus</p> <p><br />Технологии в проекте:</p> <p>* Языки: PHP, C++, Angular, Flutter, Node.js<br />* Архитектура: микросервисы<br />* Инфраструктура: Docker, GitLab CI/CD, Azure, Yandex Cloud<br />* Сервисы: RabbitMQ, Redis, PostgreSQL<br />* Мониторинг: Grafana, Prometheus (внедряем)</p> <p><br />Что ты получишь:</p> <p>* Возможность влиять на архитектуру и технические решения<br />* Полноценную зону ответственности и доверие к твоему опыту<br />* Работа в международной команде, ориентированной на рост<br />* Современный продукт и живой, динамичный проект<br />* Удалёнку или офис — как тебе комфортно<br />* Сильную команду, в которой приятно работать</p> <p><br />Хочешь стать частью быстрорастущего продукта и команды, где ценят твои идеи и вклад?<br />Откликайся !</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "160",
+      "name": "DevOps-инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10653696",
+    "name": "True Gamers",
+    "url": "https://api.hh.ru/employers/10653696",
+    "alternate_url": "https://hh.ru/employer/10653696",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1317953.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6891986.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6891987.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10653696",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T14:23:43+0300",
+  "created_at": "2025-06-06T14:23:43+0300",
+  "initial_created_at": "2025-06-03T14:23:43+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121287956",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121287956",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

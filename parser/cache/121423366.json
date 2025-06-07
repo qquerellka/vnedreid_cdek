@@ -1,0 +1,125 @@
+{
+  "id": "121423366",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Тестировщик ПО",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": null,
+    "to": 160000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": null,
+    "to": 160000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Мы - стабильная и активно развивающаяся компания &quot;Кронверк Лаб&quot;.<br />Мы занимаемся поддержкой и сопровождением высоконагруженных web-сервисов (более 10 млн уникальных пользователей). В связи с расширением и увеличением количества проектов, ищем себе в команду амбициозного, готового много учиться и развиваться, Тестировщика.</p> <p>Рассматриваем кандидатов со всех регионов. Гарантируем профессиональный рост.</p> <p><strong>Что придется делать:</strong></p> <ul> <li>Тестировать релизы (регрессионное, смоук, функциональное, интеграционное тестирование)</li> <li>Подготавливать тестовые данные</li> <li>Составлять тест-кейсы, тест планы в allure</li> <li>Оформлять дефекты в Jira</li> <li>Анализировать требования и другую тестовую документацию</li> <li>Взаимодействовать с аналитиками, разработчиками и РП проектов</li> <li>тестировать backend 70% времени</li> <li>анализировать дашборды логов (opensearch)</li> <li>возможность изучать автоматизаю (java)<br /></li> </ul> <p><strong>Ожидания:</strong></p> <ul> <li>Опыт работы от 2 лет</li> <li>Знакомство rest/soap api</li> <li>Опыт работы с elastic/kibana, rabbitMQ, PostgreSQL, Jenkins, Postman</li> <li>Практический опыт применения техник тест-дизайна</li> <li>Умение читать и анализировать логи</li> <li>Опыт ведения тестовой документации;</li> <li>опыт тестирование backend</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Удаленная работа, основное взаимодействие через Telegram/Skype</li> <li>График 5\\2, с 9.00 до 18.00 по Мск</li> <li>Официальное трудоустройство и заработная плата</li> <li>Возможности профессионального и карьерного роста</li> <li>Аккредитованная IT-компания</li> <li>Оплачиваемая стажировка (до трёх месяцев)</li> <li>Удаленный формат работы, рассматриваем кандидатов из любых городов</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2979340",
+    "name": "Кронверк Лаб",
+    "url": "https://api.hh.ru/employers/2979340",
+    "alternate_url": "https://hh.ru/employer/2979340",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2979340",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T14:32:26+0300",
+  "created_at": "2025-06-06T14:32:26+0300",
+  "initial_created_at": "2025-06-06T14:32:26+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121423366",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121423366",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

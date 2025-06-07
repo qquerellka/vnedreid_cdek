@@ -1,0 +1,208 @@
+{
+  "id": "120404022",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Frontend разработчик (Новосибирск)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": null,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": null,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "Октябрьская магистраль",
+    "building": "4",
+    "lat": 55.022567,
+    "lng": 82.930086,
+    "description": null,
+    "raw": "Новосибирск, Октябрьская магистраль, 4",
+    "metro": {
+      "station_name": "Октябрьская",
+      "line_name": "Ленинская",
+      "station_id": "52.298",
+      "line_id": "52",
+      "lat": 55.018789,
+      "lng": 82.939007
+    },
+    "metro_stations": [
+      {
+        "station_name": "Октябрьская",
+        "line_name": "Ленинская",
+        "station_id": "52.298",
+        "line_id": "52",
+        "lat": 55.018789,
+        "lng": 82.939007
+      },
+      {
+        "station_name": "Площадь Ленина",
+        "line_name": "Ленинская",
+        "station_id": "52.297",
+        "line_id": "52",
+        "lat": 55.029941,
+        "lng": 82.92069
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>На данный момент мы расширяем команду нашего проекта и готовы принять в компанию middle Frontend разработчика. </strong></p> <p> </p> <p><strong>Основные обязанности:</strong></p> <p>Участие в существующих и новых проектах в качестве frontend разработчика, оценка трудозатрат по задачам проекта.</p> <p><strong>Условия работы:</strong></p> <ul> <li>Гибкий график;</li> <li>Занятия английским языком за счет компании;</li> <li>Обучение за счет компании;</li> <li><span>Компенсация</span> занятий спортом;</li> <li>Полностью белая зарплата;</li> <li>ДМС.</li> </ul> <p><strong>Требования к кандидату:</strong></p> <ul> <li>Опыт <strong>коммерческой</strong> frontend-разработки <strong><span>от 1.5 лет</span>;</strong></li> <li>Уверенные знания JavaScript/TypeScript;</li> <li>Уверенные знания HTML/CSS, опыт применения sass, postcss;</li> <li>Опыт использования React, Redux или другие state-<span>менедже</span>ры;</li> <li>Опыт работы с git;</li> <li>Хорошие навыки адаптивой вёрстки, Flex, grid;</li> <li>Технический английский язык, способность вести переписку.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "Less"
+    },
+    {
+      "name": "Sass"
+    },
+    {
+      "name": "Адаптивная верстка"
+    },
+    {
+      "name": "Angular"
+    },
+    {
+      "name": "Английский язык"
+    },
+    {
+      "name": "React"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "565588",
+    "name": "AEX Soft",
+    "url": "https://api.hh.ru/employers/565588",
+    "alternate_url": "https://hh.ru/employer/565588",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1280922.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6743986.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6743987.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=565588",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T13:58:28+0300",
+  "created_at": "2025-06-04T13:58:28+0300",
+  "initial_created_at": "2025-05-12T12:44:25+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120404022",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120404022",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b1",
+        "name": "B1 — Средний"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

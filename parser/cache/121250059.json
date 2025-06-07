@@ -1,0 +1,141 @@
+{
+  "id": "121250059",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Back-end разработчик Python (middle, senior)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 140000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 140000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Сеть гипермаркетов &quot;Самбери&quot; - </strong>самая известная, инновационная и мультиформатная сеть Дальнего Востока.</p> <p><em>Если Вы готовы достигать амбициозных целей вместе с нами, обладаете чувством ответственности, умеете и хотите работать в команде настоящих профессионалов, любите свою профессию - <strong>направляйте отклик на вакансию.</strong></em></p> <p><em>Работа в сети гипермаркетов САМБЕРИ - для Вас! <strong>Нам нужны именно вы! ​</strong></em></p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Разрабатывать и поддерживать бэкенд приложения написанные на Python;</li> <li>Разрабатывать и поддерживать фронтенд приложения написанные на React;</li> <li>Участвовать в проектировании архитектуры, оптимизации производительности и поддержании кодовой базы;</li> <li>Интегрировать решения с другими сервисами (REST, Kafka);</li> <li>Участие в полном цикле разработки ПО от проработки тз до 3 линии техподдержки.</li> </ul> <p><strong>Что для этого необходимо:</strong></p> <ul> <li>Уверенное владение Python, понимание асинхронной работы;</li> <li>Опыт работы с Django, FastAPI;</li> <li>Понимание принципов работы веб-приложений;</li> <li>Опыт работы с PostgreSQL;</li> <li>Опыт работы с Kafka;</li> <li>Будет преимуществом: Celery, Redis, Docker, GitLab CI/CD, Pytest;</li> <li>Опыт работы с Git.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>График работы: пн-пт с 9.00 до 18-00.</li> <li>Фиксированный ежемесячный оклад, премия по результатам выполнения KPI.</li> </ul> <p><strong>Работа у нас это:</strong></p> <ul> <li>Официальное трудоустройство с 1го дня, полный соц. пакет.</li> <li>Фиксированные даты выплаты зп, 2 раза в месяц.</li> <li>36 календарных дней отпуска.</li> <li>Яркие корпоративные мероприятия.</li> <li>Возможность добираться до и после работы на корпоративном транспорте.</li> <li>Мы заботимся о наших сотрудниках: выдаем корпоративную спецодежду за счет организации, поздравляем сотрудников и их детей с праздниками, дарим подарки , предоставляем скидки на продукцию компании.</li> <li>Мы предоставляем уникальные скидки нашим сотрудникам в таких организациях, как Стоматологический центр «МедстоМ», Центр международного коучинга «Исток» , Мультицентр «Арлекин», Краевой музыкальный театр , Сеть здравоохранения «РЖД-Медицина» и многих других.</li> <li>Возможности карьерного развития в рамках сети.</li> <li>Корпоративные программы обучения для всех сотрудников.</li> </ul> <p><strong><em>САМБЕРИ - ЭТО стабильность и уверенность в завтрашнем дне!</em></strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "641527",
+    "name": "Розничное направление ГК Невада",
+    "url": "https://api.hh.ru/employers/641527",
+    "alternate_url": "https://hh.ru/employer/641527",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1051087.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/5825001.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/5825002.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=641527",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T17:56:11+0300",
+  "created_at": "2025-06-02T17:56:11+0300",
+  "initial_created_at": "2025-06-02T17:56:11+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121250059",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121250059",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

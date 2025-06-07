@@ -1,0 +1,181 @@
+{
+  "id": "120947945",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер-программист (ПНР) Supcon",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 300000,
+    "to": 350000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 300000,
+    "to": 350000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Казань",
+    "street": "улица Тази Гиззата",
+    "building": "3",
+    "lat": 55.789198,
+    "lng": 49.108669,
+    "description": null,
+    "raw": "Казань, улица Тази Гиззата, 3",
+    "metro": {
+      "station_name": "Кремлевская",
+      "line_name": "Центральная",
+      "station_id": "49.272",
+      "line_id": "49",
+      "lat": 55.795206,
+      "lng": 49.105426
+    },
+    "metro_stations": [
+      {
+        "station_name": "Кремлевская",
+        "line_name": "Центральная",
+        "station_id": "49.272",
+        "line_id": "49",
+        "lat": 55.795206,
+        "lng": 49.105426
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>В ООО НПП &quot;ГКС&quot; для реализации международного проекта на ПТК </strong><strong>Supcon</strong><strong> в отдел Пусконаладочных работы Департамента АСУ требуется Инженер-программист.</strong></p> <p><strong>Обязанности:</strong></p> <ul> <li>Выполнение пусконаладочных работ на площадке заказчика;</li> <li>Корректировка готового прикладного ПО на платформе Supcon;</li> <li>Взаимодействовать с командой профессионалов по всему миру</li> </ul> <strong>Требования:</strong> <ul> <li>Высшее образование;</li> <li>Опыт разработки и внедрения систем автоматизации на базе SUPCON, приветствуется опыт в сериях ECS-700 (РСУ), TCS-900 (ПАЗ);</li> <li>Знание языков программирования IEC 61131/С;</li> <li>Опыт работы с протоколами Modbus RTU/TCP, Profbus DP, CAN, Foundation Fieldbus, а также со стандартом OPC DA/ UA;</li> <li>Наличие сертификатов обучения – приветствуется.</li> </ul> <strong>Условия:</strong> <ul> <li>Официальное трудоустройство по ТК РФ;</li> <li>Полностью белая заработная плата;</li> <li>График работы в офисе с понедельника по пятницу с 8.00 до 17.00;</li> <li>График и формат работы на площадке заказчика обсуждается индивидуально (возможен вахтовый метод из городов РФ)</li> <li>Уровень заработной платы обсуждается индивидуально по результатам собеседования;</li> <li>Периодическое обучение с целью повышения квалификации за счет организации;</li> <li>Посещение профильных выставок и конференций, в том числе заграничных;</li> <li>Дружный коллектив.</li> </ul> <p><strong>Соц.пакет, льготы:</strong></p> <ul> <li>Поощрительные выплаты и материальная помощь при необходимости;</li> <li>Детские подарки на новый год;</li> <li>ДМС со стоматологией (при стаже от 1 года);</li> <li>Корпоративные мероприятия.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Языки программирования МЭК"
+    },
+    {
+      "name": "Пуско-наладочные работы"
+    },
+    {
+      "name": "Производство пусконаладочных работ"
+    },
+    {
+      "name": "Supcon"
+    },
+    {
+      "name": "SCADA"
+    },
+    {
+      "name": "АСУ ТП"
+    },
+    {
+      "name": "АСУ"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "69074",
+    "name": "НПП ГКС",
+    "url": "https://api.hh.ru/employers/69074",
+    "alternate_url": "https://hh.ru/employer/69074",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/613927.JPG",
+      "90": "https://img.hhcdn.ru/employer-logo/2896860.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/2896861.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=69074",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-26T07:26:41+0300",
+  "created_at": "2025-05-26T07:26:41+0300",
+  "initial_created_at": "2025-05-26T07:26:41+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120947945",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120947945",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": true,
+  "work_format": [
+    {
+      "id": "FIELD_WORK",
+      "name": "Разъездной"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "SIX_ON_ONE_OFF",
+      "name": "6/1"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

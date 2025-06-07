@@ -1,0 +1,184 @@
+{
+  "id": "121083153",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Младший программист 1С",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 60000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 60000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Софийская улица",
+    "building": "6к8",
+    "lat": 59.884307,
+    "lng": 30.38935,
+    "description": null,
+    "raw": "Санкт-Петербург, Софийская улица, 6к8",
+    "metro": {
+      "station_name": "Бухарестская",
+      "line_name": "Фрунзенско-Приморская",
+      "station_id": "18.259",
+      "line_id": "18",
+      "lat": 59.883769,
+      "lng": 30.368932
+    },
+    "metro_stations": [
+      {
+        "station_name": "Бухарестская",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.259",
+        "line_id": "18",
+        "lat": 59.883769,
+        "lng": 30.368932
+      },
+      {
+        "station_name": "Международная",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.260",
+        "line_id": "18",
+        "lat": 59.870203,
+        "lng": 30.379289
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>&quot;Системный специалист&quot;</strong> - поставщик профессионального оборудования, ручного инструмента, расходных материалов, крепежных систем и технологических решений в Северо-Западном, Центральном, Уральском, Приволжском и Дальневосточном федеральных округах РФ. Статус официального дилера зарубежных и отечественных производителей, позволяет представительствам нашей компании предлагать профессиональным пользователям максимально широкий спектр услуг и всестороннюю сервисную поддержку.</p> <p>Мы расширяем нашу команду ИТ и приглашаем <strong>младшего программиста 1с</strong></p> <p><strong>Наши ключевые ценности: </strong></p> <p> </p> <p><strong>1. Клиент -наш главный приоритет</strong></p> <p>Мы не просто продаем — мы <strong>строим доверие</strong>. Каждое решение принимается с мыслью о долгосрочных отношениях. Гибкость и честность в работе с клиентами для нас важнее сиюминутной выгоды.</p> <p><strong>2. Команда — это семья</strong></p> <p> Мы ценим открытость, уважение и готовность помочь коллегам, даже если это «не входит в обязанности». Здесь не боятся задавать вопросы и делятся опытом.</p> <p><strong>3. Свобода + ответственность</strong></p> <p>Мы даем <strong>пространство для инициативы</strong>, но ожидаем осознанного подхода. Можно предлагать идеи, спорить и пробовать новое — если это в интересах клиента и команды.</p> <p><strong>4. Развиваемся вместе</strong></p> <p>Компания растет — и мы растем вместе с ней. Поддерживаем обучение (курсы, менторство), ценим лояльность и верим, что <strong>каждый может влиять на общий успех. </strong></p> <p><strong>Вам предстоит решать следующие задачи:</strong></p> <ul> <li>Доработка/разработка/сопровождение систем на платформе 1С:Предприятие в торговой компании (КА 2.4, БП 3.0);</li> <li>Доработка/рефакторинг существующего функционала, печатных форм, отчетов по ТЗ;</li> <li>Разработка новых модулей, печатных форм, отчетов, обработок по ТЗ;</li> <li>Обновление типовых конфигураций (БП 3.0).</li> </ul> <p><strong>Мы ждем от вас:</strong></p> <ul> <li>Знание встроенного языка программирования 1С:Предприятие;</li> <li>Владение на базовом уровне языком запросов и СКД;</li> <li>Базовое понимание предметной области 1С (УТ 11.4, КА 2.4).</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>официальное трудоустройство и белую заработную плату</li> <li>ДМС через год работы в компании</li> <li>Пятидневную рабочую неделю, на период адаптации фуллтайм в офисе, далее возможен гибридный формат.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "1С: Комплексная автоматизация"
+    },
+    {
+      "name": "1С: Предприятие 8"
+    },
+    {
+      "name": "Работа с базами данных"
+    },
+    {
+      "name": "1С программирование"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "114790",
+    "name": "Системный Специалист, группа компаний",
+    "url": "https://api.hh.ru/employers/114790",
+    "alternate_url": "https://hh.ru/employer/114790",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/206782.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/858704.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/858705.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=114790",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T13:37:56+0300",
+  "created_at": "2025-06-06T13:37:56+0300",
+  "initial_created_at": "2025-05-28T13:37:56+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121083153",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121083153",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

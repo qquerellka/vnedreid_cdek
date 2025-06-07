@@ -1,0 +1,156 @@
+{
+  "id": "121303050",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Full-stack разработчик (Laravel + Vue.js)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 150000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 150000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<div>Мы ищем опытного Full-stack разработчика для работы с современным технологическим стеком. Идеальный кандидат должен иметь уверенные знания как бэкенд, так и фронтенд технологий, а также опыт работы с инструментами мониторинга и контейнеризации.</div> <div> </div> <div><strong>Обязательные навыки:</strong></div> <div> </div> <div>PHP 8+ — уверенное знание современного PHP, включая новые возможности и best practices</div> <div>Laravel — глубокое понимание фреймворка, архитектуры MVC, Eloquent ORM, миграций, валидации, middleware</div> <div>Vue.js — опыт разработки интерактивных пользовательских интерфейсов, работа с компонентами, Vuex/Pinia</div> <div>Blade-шаблоны — создание и оптимизация серверных шаблонов Laravel</div> <div>HTML5, CSS3, JavaScript (ES6+) — качественная верстка, адаптивный дизайн, современный JavaScript</div> <div>Docker — настройка контейнеров для разработки и деплоя, работа с docker-compose</div> <div>ELK Stack (Elasticsearch, Logstash, Kibana) — настройка логирования, мониторинга и анализа данных</div> <div> </div> <div><strong>Ключевые задачи:</strong></div> <div> </div> <div>Разработка и поддержка веб-приложений на Laravel</div> <div>Создание интерфейсов с использованием Vue.js и Blade</div> <div>Интеграция с внешними API и сервисами</div> <div>Настройка мониторинга и логирования через ELK Stack</div> <div>Оптимизация производительности приложений</div> <div>Участие в code review и архитектурных решениях</div> <div><br /><strong>Желательно иметь опыт с:</strong></div> <div> </div> <div>MySQL/PostgreSQL</div> <div>Redis</div> <div>RESTful API / GraphQL</div> <div>Git (GitFlow)</div> <div>CI/CD процессы</div> <div>Тестирование (PHPUnit, Jest)</div> <div>Agile/Scrum методологии</div>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "Laravel"
+    },
+    {
+      "name": "VueJS"
+    },
+    {
+      "name": "HTML5"
+    },
+    {
+      "name": "CSS3"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Docker-compose"
+    },
+    {
+      "name": "ELK"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1996375",
+    "name": "Почтой.ком",
+    "url": "https://api.hh.ru/employers/1996375",
+    "alternate_url": "https://hh.ru/employer/1996375",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1996375",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T16:34:30+0300",
+  "created_at": "2025-06-03T16:34:30+0300",
+  "initial_created_at": "2025-06-03T16:34:30+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121303050",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121303050",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

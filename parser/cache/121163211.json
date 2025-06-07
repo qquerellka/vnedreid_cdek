@@ -1,0 +1,161 @@
+{
+  "id": "121163211",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Аналитик Power Bi",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 150000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 150000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Наше кадровое агентство <strong>ХАНТЛИНК</strong> — основанное в 2021 году командой экспертов с многолетним опытом в HR и IT. Наша специализация — подбор высококвалифицированных специалистов для компаний Новосибирска и регионов Сибири, включая IT, строительство и пищевую промышленность. Мы предлагаем индивидуальный подход, ориентированный на долгосрочное партнерство и удовлетворение потребностей каждого клиента.</p> <p><strong>Наш клиент</strong>-компания, специализирующаяся на разработке программного обеспечения. Она занимается созданием инновационных бизнес-решений и высокотехнологичных IT-продуктов.</p> <p>Мы ищем<strong> удаленного сотрудника</strong>, готового внести свой вклад в динамичную команду и помочь в реализации амбициозных проектов.</p> <p>Присоединяйтесь к нам и станьте частью будущего технологий!</p> <p><strong>В твои обязанности будет входить:</strong></p> <ul> <li>Работа с данными в MS SQL, PostgreSQL, MySQL, Google таблицы;</li> <li>Работа с источниками данных (SQL, Excel, API и другие);</li> <li>Разработка и поддержка отчетности в Power BI, сопровождение и доработка отчетов;</li> <li>Создание интерактивных панелей и отчетов для бизнес-анализа;</li> <li>Проектирование архитектуры данных для отчетности и визуализации;</li> <li>Взаимодействие с партнерами и бизнес-подразделениями для уточнения требований и оптимизации отчетов;</li> </ul> <p><strong>Будет круто если у тебя:</strong></p> <ul> <li>Высшее техническое образование;</li> <li>Знание технического английского языка;</li> <li>Опыт работы с Power BI и написания сложных SQL-запросов;</li> <li>Знание CRM Битрикс24</li> <li>Уверенные знания DAX, Power Query</li> <li>Опыт работы с источниками данных (SQL, Excel, API и другие)</li> <li>Знания основ бизнес-анализа и отчетности.</li> </ul> <p><br /><strong>Мы предлагаем тебе:</strong></p> <ul> <li>Конкурентоспособную заработную плату;</li> <li>Дружелюбную атмосферу в команде высококвалифицированных специалистов;</li> <li>Реальные возможности для карьерного роста и профессионального развития;</li> <li>Удобный график удаленной работы: с 9:00 до 18:00 или с 10:00 до 19:00 по московскому времени.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Power BI"
+    },
+    {
+      "name": "MS SQL"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "Google таблицы"
+    },
+    {
+      "name": "MS Excel"
+    },
+    {
+      "name": "API"
+    },
+    {
+      "name": "Аналитик"
+    },
+    {
+      "name": "DAX"
+    },
+    {
+      "name": "Power Query"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "156",
+      "name": "BI-аналитик, аналитик данных"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5838024",
+    "name": "Кадровое Агентство Хантлинк",
+    "url": "https://api.hh.ru/employers/5838024",
+    "alternate_url": "https://hh.ru/employer/5838024",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1382510.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7149827.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7149828.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5838024",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-30T11:54:20+0300",
+  "created_at": "2025-05-30T11:54:20+0300",
+  "initial_created_at": "2025-05-30T11:54:20+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121163211",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121163211",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

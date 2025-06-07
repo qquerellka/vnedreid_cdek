@@ -1,0 +1,152 @@
+{
+  "id": "121378782",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Python Developer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Вакансия открыта в компании ООО &quot;ДатаКаталог&quot;, входящей в холдинг Аренадата (АДС-Холдинг). Компания ДатаКаталог разрабатывает собственный продукт - систему управления корпоративными данными - Arenadata Catalog.</p> <p> </p> <p><strong>Arenadata Catalog</strong> базируется на технологиях с открытым исходным кодом, полностью адаптирован для использования в российских коммерческих и государственных организациях, входит в единый реестр российского ПО. Программное обеспечение Arenadata Catalog предназначено для организаций внедряющих процессы Data Governance. Система решает задачи по управлению информационными активами компании и ведению корпоративного бизнес-глоссария. Arenadata Catalog является инструментом для сбора и интеграции метаданных, обеспечению совместной работы с данными и контролю их качества.<br /><br /></p> <p><strong>Что нужно делать:</strong></p> <ul> <li>поддержка и развитие базового фреймворка (который используется сейчас в АренадатаКаталоге) для коннекторов;</li> <li>разработка с использованием этого фреймворка новых коннекторов, поддержка (багофиксинг, актуализация для новых версий АренадатаКаталога и внешних информационных систем, расширение или изменение функционала) имеющихся коннекторов;</li> <li>решение отдельных ETL-задач с использованием Apache Airflow.</li> </ul> <p><strong>Мы ждем, что Вы:</strong></p> <ul> <li>обладаете уверенными знаниями и опытом разработки на Python.</li> <li>имеете опыт разработки модульных и интеграционных тестов (предпочтительно pytest).</li> <li>умеете работать с различными типами API (REST, WebSocket).</li> <li>обладаете опытом работы с реляционными СУБД (PostgreSQL и другими), включая использование ORM (SQLAlchemy).</li> <li>умеете работать в Linux (Ubuntu, Debian) и имеете представление о Bash scripting;</li> <li>имеете представление о Docker, Docker Compose.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>знакомство с Apache Airflow и опыт разработки ETL/ELT конвейеров обработки данных.</li> <li>опыт работы по обеспечению качества данных и использования инструментов GreatExpectations, dbt.</li> <li>опыт работы с инструментами по работе с контейнерами (Docker, Podman, K8s).</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>компания аккредитована Минцифры РФ;</li> <li>официальное трудоустройство по ТК РФ с 100% белой зарплатой;</li> <li>возможность работать полностью удаленно;</li> <li>работа в открытой, доброжелательной команде, где к тебе относятся с уважением и ценят;</li> <li>забота о вашем здоровье - расширенный ДМС со стоматологией, полная оплата больничного до уровня месячного дохода (независимо от стажа и срока работы в компании);</li> <li>возможность работать на своем или на ноутбуке компании.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Ubuntu"
+    },
+    {
+      "name": "Apache Airflow"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Docker-compose"
+    },
+    {
+      "name": "ETL"
+    },
+    {
+      "name": "API"
+    },
+    {
+      "name": "Bash"
+    },
+    {
+      "name": "Pytest"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4813742",
+    "name": "Аренадата Софтвер",
+    "url": "https://api.hh.ru/employers/4813742",
+    "alternate_url": "https://hh.ru/employer/4813742",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/767259.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3509993.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3509994.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4813742",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T12:21:54+0300",
+  "created_at": "2025-06-05T12:21:54+0300",
+  "initial_created_at": "2025-06-05T12:21:54+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121378782",
+  "has_test": true,
+  "test": {
+    "required": true
+  },
+  "alternate_url": "https://hh.ru/vacancy/121378782",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

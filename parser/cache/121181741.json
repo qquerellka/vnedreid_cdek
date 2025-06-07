@@ -1,0 +1,200 @@
+{
+  "id": "121181741",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Python Developer (Middle)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "улица Степана Разина",
+    "building": "8А",
+    "lat": 59.910641,
+    "lng": 30.267404,
+    "description": null,
+    "raw": "Санкт-Петербург, улица Степана Разина, 8А",
+    "metro": {
+      "station_name": "Балтийская",
+      "line_name": "Кировско-Выборгская",
+      "station_id": "14.203",
+      "line_id": "14",
+      "lat": 59.907211,
+      "lng": 30.299578
+    },
+    "metro_stations": [
+      {
+        "station_name": "Балтийская",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.203",
+        "line_id": "14",
+        "lat": 59.907211,
+        "lng": 30.299578
+      },
+      {
+        "station_name": "Нарвская",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.204",
+        "line_id": "14",
+        "lat": 59.901218,
+        "lng": 30.274908
+      },
+      {
+        "station_name": "Фрунзенская",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.220",
+        "line_id": "15",
+        "lat": 59.906273,
+        "lng": 30.31745
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Привет! Наша команда из подразделения <strong>Evercode Lab </strong>развивает финансовый сервис мирового уровня, которым ежедневно пользуются сотни тысяч людей по всему миру и на всех континентах. Мы растём в геометрической прогрессии и ищем талантливых специалистов во всех отраслях.</p> <p>Сейчас мы находимся в поиске талантливого<strong> Python</strong>-разработчика :)</p> <p><strong>Чем предстоит заниматься?</strong></p> <p>— Проектирование и согласование архитектуры приложений, принятие технических решений по отказоустойчивости и производительности;</p> <p>— Разработка новой кодовой базы ядра финансовых операций, тестирование, поддержание технической документации;</p> <p>— Участие в формировании культуры разработки и внутренних практик новой команды</p> <p><strong>Мы ожидаем:</strong></p> <p>— Опыт коммерческой разработки на Python от <strong>3 лет</strong>;</p> <p>— Опыт работы с реляционными базами данных (PostgreSQL) без ORM;</p> <p>— Понимание работы сетевых протоколов, опыт написания API-интерфейсов;</p> <p>— Базовые знания CI/CD</p> <p><strong>Будет преимуществом:</strong></p> <p>— Опыт работы в FinTech вертикалях: крипто, банкинг;</p> <p>— Знание Node.js, TypeScript, MongoDB</p> <p><strong>У нас всегда:</strong></p> <ul> <li>Атмосфера, где ты будешь развиваться и получать удовольствие от рабочих процессов;</li> <li>Быстрый и качественный профессиональный рост в окружении профи;</li> <li>Достойный уровень заработной платы;</li> <li>Огромный офис с видом на исторический центр Санкт-Петербурга</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": {
+    "id": 36812,
+    "name": "Брендированный шаблон Evercode Lab ",
+    "top_picture": {
+      "height": 560,
+      "width": 1540,
+      "path": "https://img.hhcdn.ru/branding-pictures/2396033.png",
+      "blurred_path": null
+    },
+    "bottom_picture": {
+      "height": 704,
+      "width": 1540,
+      "path": "https://img.hhcdn.ru/branding-pictures/2227503.png",
+      "blurred_path": null
+    }
+  },
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Оптимизация кода"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "MongoDB"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "Node.js"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3509758",
+    "name": "Evercode Lab",
+    "url": "https://api.hh.ru/employers/3509758",
+    "alternate_url": "https://hh.ru/employer/3509758",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1393231.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7192707.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7192708.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3509758",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-30T17:46:53+0300",
+  "created_at": "2025-05-30T17:46:53+0300",
+  "initial_created_at": "2025-05-30T17:46:53+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121181741",
+  "has_test": true,
+  "test": {
+    "required": true
+  },
+  "alternate_url": "https://hh.ru/vacancy/121181741",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

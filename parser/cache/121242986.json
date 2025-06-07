@@ -1,0 +1,162 @@
+{
+  "id": "121242986",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор. Программист. Консультант 1С",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 65000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 65000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "улица Бабушкина",
+    "building": "119",
+    "lat": 59.862284,
+    "lng": 30.461108,
+    "description": null,
+    "raw": "Санкт-Петербург, улица Бабушкина, 119",
+    "metro": {
+      "station_name": "Пролетарская",
+      "line_name": "Невско-Василеостровская",
+      "station_id": "16.234",
+      "line_id": "16",
+      "lat": 59.865,
+      "lng": 30.47
+    },
+    "metro_stations": [
+      {
+        "station_name": "Пролетарская",
+        "line_name": "Невско-Василеостровская",
+        "station_id": "16.234",
+        "line_id": "16",
+        "lat": 59.865,
+        "lng": 30.47
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p> </p> <p><strong>Обязанности:</strong></p> <p>• Работа с заявками пользователей, диагностика неисправностей, обслуживание компьютерного и сетевого оборудования, систем видеонаблюдения и оргтехники.</p> <p>• Подготовка новых компьютеров на замену или апгрейд существующих.</p> <p>• Установка и настройка системного и пользовательского программного обеспечения.</p> <p>• Выполнение ремонта, проведение профилактических работ, инвентаризация технических средств.</p> <p>• Введение технической и отчетной документации</p> <p>Для Программиста: Консультация пользователей по исправлению ошибок, работа по заявкам от пользователей. ˗ Участие в проектах внедрения и развития решений 1С. остановка задач разработчикам/аналитикам для анализа и последующего исправления выявленных ошибок. ˗ Консультации по типовому и нетиповому функционалу программных продуктов 1С (информационные базы, которые есть сейчас: 1С: Колледж ПРОФ, 1С: ЗиК ГУ, 1С: Документооборот, и т.д.).</p> <strong>Требования:</strong> <p>• Опытный (продвинутый) пользователь ПК.</p> <ul> <li><strong>Преимущество:</strong> Опыт работы от 1 года</li> </ul> <p>• Знание основных операционные систем и офисных программ семейства Microsoft; виды и назначение компьютерного, сетевого оборудования и оргтехники; устройство и технические характеристики компьютерной и офисной техники; основы техники безопасности; основы защиты информации.</p> <p>• Опыт монтажа ЛВС, работы с коммутационными устройствами.</p> <p>• Опыт работы с программами семейства 1С.</p> <p>• Умение производить сборку и тестирование компьютерных систем; быстро и качественно устранять неполадки в работе «железа» и компьютерных программ; поддерживать работоспособность сети.</p> <p>• Наличие следующих качеств: выраженная склонность к работе с техникой и информацией; эмоциональная устойчивость; исполнительность; ответственность; обучаемость.</p> <strong>Условия:</strong> <ul> <li>Работа по месту нахождения работодателя. Оплата труда и социальные гарантии в соответствии с Трудовым кодексом Российской Федерации. Режим работы с пятидневной рабочей неделей с 9:00 до 17:30 и двумя выходными днями (суббота, воскресенье).</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Настройка ПК"
+    },
+    {
+      "name": "Настройка роутеров"
+    },
+    {
+      "name": "Настройка сетевых подключений"
+    },
+    {
+      "name": "Администрирование сетевого оборудования"
+    },
+    {
+      "name": "Установка ПО"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5250093",
+    "name": "СПБ ГБПОУ АМК",
+    "url": "https://api.hh.ru/employers/5250093",
+    "alternate_url": "https://hh.ru/employer/5250093",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5250093",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T17:08:12+0300",
+  "created_at": "2025-06-02T17:08:12+0300",
+  "initial_created_at": "2025-06-02T17:08:12+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121242986",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121242986",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

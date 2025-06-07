@@ -1,0 +1,114 @@
+{
+  "id": "120765467",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Backend разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>ООО &quot;Эрна&quot; - аккредитованная IT компания, резидент Сколково.</strong></p> <p>Мы создаем и внедряем передовые решения для повышения качества работы врачей, обеспечивая доступность для пациентов.<br />Экосистема цифровых продуктов которая объединяет в единую диагностическую сеть кардиологические службы медицинских организаций, скорая помощь, а также хранение ЭКГ, диагностика и отчетность.</p> <p>У нас понятная, прозрачная, открытая политика и цели компании!<br />Наши сотрудники работают и в офисе и удаленно с разных городов России.<br />В нашей компании есть все возможности для роста и развития как в карьерном, так и профессиональном плане.</p> <p>В связи с масштабированием компании, мы ищем в нашу команду Backend разработчика.</p> <p> </p> <p><strong>Плюсы работы у нас:</strong></p> <ul> <li>Официальная работа в аккредитованной IT-компании, с полностью «белой» заработной платой и социальными гарантиями;</li> <li>Возможность работать удаленно, в гибридном графике или в офисе;</li> <li>Получить опыт работы над социально значимыми уникальными проектами в технически сильной команде;</li> <li>Достойная заработная плата и прозрачная система премирования<br />(мы готовы обсудить твои зарплатные ожидания, размер заработной платы определяется по результатам собеседования);</li> <li>Позитивная атмосфера и дружный коллектив;</li> <li>Поощряем желание учиться и развиваться, помогаем повышать квалификацию и расти внутри компании;</li> <li>Обучение: мастер-классы от опытных сотрудников, возможность участия в крупных ИТ-конференциях.</li> </ul> <p><strong>Ключевая задача:</strong></p> <p>Разработка backend-части проекта.</p> <p><strong>Что нам необходимо:</strong></p> <p>Обязательно:</p> <p>- TypeScript / JavaScript</p> <p>- Node.js</p> <p>- PostgreSQL</p> <p>Желательно:</p> <p>- NestJs</p> <p>- TypeOrm</p> <p>- Angular</p> <p>- Material Design</p> <p>- Cassandra</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11231033",
+    "name": "ЭРНА",
+    "url": "https://api.hh.ru/employers/11231033",
+    "alternate_url": "https://hh.ru/employer/11231033",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11231033",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-20T13:57:42+0300",
+  "created_at": "2025-05-20T13:57:42+0300",
+  "initial_created_at": "2025-05-20T13:57:42+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120765467",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120765467",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

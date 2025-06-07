@@ -1,0 +1,162 @@
+{
+  "id": "120523499",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Стажер 1С-программист",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": {
+    "from": 20000,
+    "to": 35000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 20000,
+    "to": 35000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Казань",
+    "street": "проспект Победы",
+    "building": "173",
+    "lat": 55.799446,
+    "lng": 49.208534,
+    "description": null,
+    "raw": "Казань, проспект Победы, 173",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Привет! Мы Смарт Консалтинг - IT компания, уже 9 лет автоматизируем бизнес-процессы крупных заказчиков. У нас за плечами — 7 выпусков стажёров, многие из которых стали частью нашей команды. Сейчас мы снова открываем <strong>набор на оплачиваемую стажировку по 1С-разработке</strong> для студентов 3–4 курсов и выпускников it-направлений.</p> <p><strong>Чем предстоит заниматься на стажировке?</strong></p> <ul> <li> <p>Много учиться и закреплять материал на практике, а именно принимать активное участие в разработке/доработке наших продуктов (с использованием 1C:EDT);</p> </li> <li> <p>Участвовать в проектировании и разработке вместе с командой;</p> </li> <li> <p>Сдать тестирование после пройденного обучения.</p> </li> </ul> <p><strong>Что мы тебе предлагаем:</strong></p> <ul> <li><strong>Обучение и сертификацию.</strong> За время 2,5 месяцев стажировки ты пройдешь полноценную систему обучения от наших наставников и в процессе будешь закреплять знания на практике.</li> <li><strong>Наставничество. </strong> На каждом этапе с тобой будет опытный специалист, готовый помочь, направить и ответить на вопросы. Ты сможешь сделать первые шаги в профессии, вместе с действующим программистом вы будете решать профессиональные задачи, сможешь задавать ему все вопросы.</li> <li><strong>Оплата.</strong> Мы ценим вклад каждого коллеги, заботимся о людях и внимательно относимся к процессам. Поэтому помимо классного опыта мы оплачиваем стажировку в месяц онлайн обучения (теория+практика) 20.000 тыс., в месяц практики в офисе 35.000 тыс.</li> <li><strong>Гибкость и свобода</strong>. На первом этапе ты сам(а) регулируешь график и обучаешься онлайн (20 ч/нед). Со второго этапа — ты уже приступаешь к практическим заданиям в офисе, с которыми работают наши программисты (по 40 ч/нед) и осваиваешь новую профессию.</li> <li><strong>Работа в штате.</strong> После стажировки мы предлагаем работу в штате аккредитованной IT-компании.</li> </ul> <p><strong>Что мы ожидаем о тебя:</strong></p> <ul> <li>Знание языков программирования на уверенном уровне (будет тестирование);</li> <li>3-4 курс или выпускник ВУЗов по it-специальности/ программированию (обязательно);</li> <li>Огромное желание развиваться в программировании;</li> <li>Знание ООП, алгоритмов и структур данных, SQL;</li> <li>Опыт работы с Git.</li> </ul> <p><em>Будет преимуществом наличие своих Pet-проектов (и ссылка на репозиторий).</em></p> <p>Проявляйся, достигай и переходи в штат после стажировки. Возможно все! А мы в этом поможем :)</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "1С: Предприятие 8"
+    },
+    {
+      "name": "1С программирование"
+    },
+    {
+      "name": "программирование"
+    },
+    {
+      "name": "Информационные технологии"
+    },
+    {
+      "name": "Базы данных"
+    },
+    {
+      "name": "MS SQL"
+    },
+    {
+      "name": "ООП"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4074430",
+    "name": "Смарт Консалтинг",
+    "url": "https://api.hh.ru/employers/4074430",
+    "alternate_url": "https://hh.ru/employer/4074430",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1402470.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7229552.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7229553.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4074430",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-14T11:25:19+0300",
+  "created_at": "2025-05-14T11:25:19+0300",
+  "initial_created_at": "2025-05-14T11:25:19+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120523499",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120523499",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": true,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

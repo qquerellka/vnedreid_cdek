@@ -1,0 +1,165 @@
+{
+  "id": "121432627",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Customer Support Specialist / Специалист поддержки (Italian/French/English)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 65000,
+    "to": 95000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 65000,
+    "to": 95000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "shift",
+    "name": "Сменный график"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Привет!<br />Мы компания &quot;Heroes of support&quot;! Специализируемся на разработке программного обеспечения для бизнеса, а также предоставляем круглосуточную поддержку пользователям по всему миру на различных языках.<br />Наша команда героев поддержки активно растет и развивается, поэтому мы ищем новых талантливых сотрудников, владеющих несколькими иностранными языками и обладающих высокими навыками общения с нашими клиентами.</p> <p><br /><strong>Чем предстоит заниматься:</strong></p> <ul> <li> <p>Общаться с игроками в чатах и тикетах - помогать решать их проблемы, объяснять простым языком иногда сложные вещи, желать им хорошего дня и, в целом, provide amazing customer service :)</p> </li> <li> <p>Эскалировать сложные кейсы ответственным командам в компании в Slack и Jira;</p> </li> <li> <p>Следить за обновлениями процедур и новостями в Slack и Confluence.</p> </li> </ul> <p><strong>Чего мы от тебя ожидаем:</strong></p> <ul> <li> <p><strong>Знание итальянского/французского и английского на уровне В2 и выше;</strong></p> </li> <li> <p>Высокий уровень эмпатии и доброжелательность;</p> </li> <li> <p>Способность к быстрому обучению;</p> </li> <li> <p>Грамотная письменная речь и быстрая скорость печати.</p> </li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li> <p>Работа в молодом коллективе с коллегами из разных стран :)</p> </li> <li> <p>Сменный график работы с разными сменами на выбор (2/2 по 12 часов);</p> </li> <li> <p>Возможность быстрого карьерного роста;</p> </li> <li> <p>Уютный офис с полным холодильником на кухне;</p> </li> <li> <p>Бонус на день рождения;</p> </li> <li> <p>3 дополнительных оплачиваемых sick days.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Английский язык"
+    },
+    {
+      "name": "Французский язык"
+    },
+    {
+      "name": "Итальянский язык"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "11198919",
+    "name": "Heroes of Support",
+    "url": "https://api.hh.ru/employers/11198919",
+    "alternate_url": "https://hh.ru/employer/11198919",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1301289.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6825418.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6825419.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11198919",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T18:23:17+0300",
+  "created_at": "2025-06-06T18:23:17+0300",
+  "initial_created_at": "2025-06-06T18:23:17+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121432627",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121432627",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "fra",
+      "name": "Французский",
+      "level": {
+        "id": "b2",
+        "name": "B2 — Средне-продвинутый"
+      }
+    },
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b2",
+        "name": "B2 — Средне-продвинутый"
+      }
+    },
+    {
+      "id": "ita",
+      "name": "Итальянский",
+      "level": {
+        "id": "b2",
+        "name": "B2 — Средне-продвинутый"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": true,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "TWO_ON_TWO_OFF",
+      "name": "2/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_12",
+      "name": "12 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,163 @@
+{
+  "id": "121326622",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист по тестированию (junior)",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 80000,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 80000,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Огородный проезд",
+    "building": "8с2",
+    "lat": 55.813222,
+    "lng": 37.605786,
+    "description": null,
+    "raw": "Москва, Огородный проезд, 8с2",
+    "metro": {
+      "station_name": "Бутырская ",
+      "line_name": "Люблинско-Дмитровская",
+      "station_id": "10.546",
+      "line_id": "10",
+      "lat": 55.813333,
+      "lng": 37.602778
+    },
+    "metro_stations": [
+      {
+        "station_name": "Бутырская ",
+        "line_name": "Люблинско-Дмитровская",
+        "station_id": "10.546",
+        "line_id": "10",
+        "lat": 55.813333,
+        "lng": 37.602778
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Кто мы:</strong></p> <p><strong>Лидеры рынка в области производства современных смарт-терминалов, онлайн-касс и облачных решений для розничной торговли, электронной коммерции, сферы услуг и тран<em>спорт</em>а. В числе наших клиентов крупнейшие компании: Тинькоф, Tele2, Сберлогистика, Магнит, ОКЕЙ, Sunlight и т.д.</strong></p> <p>На данный момент мы активно расширяемся и ищем специалиста по тестированию в нашу команду. Сейчас отдел тестирования состоит из 20 человек, мы активно растем и готовы пригласить еще 2-х кандидатов. Направления - тестирование физического устройства в связке с личным кабинетом и внутренними системами (собственной разработки).<br /><br />Готовы рассмотреть кандидатов без опыта и с опытом (но в вилке которая указана в вакансии). Рассматриваем как ручных тестировщиков так и с небольшим опытом в автотестах.</p> <p><strong>Обязанности:</strong></p> <ul> <li>Разработка тест-кейсов, чек-листов;</li> <li>Регрессионное, функциональное, нагрузочное тестирование;</li> <li>Баг-трекинг;</li> <li>По некоторым направлениям запуск автотестов или Android (там где смотрим с опытом, может совсем небольшим) - по остальным можем рассмотреть совсем без опыта.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Понимание жизненного цикла ПО;</li> <li>Знание и понимание в тестировании web;</li> <li>Уверенные знания разновидностей и этапов тестирования ПО;</li> <li>Умение работать в команде, увлеченность и отзывчивость.</li> </ul> <p><strong>Наш стек: </strong>Gitlab, Confluence, Allure TestOps, Postman, Typora, Android Studio (если что-то не знаете научим).</p> <p><strong>Условия:</strong></p> <ul> <li>Оформление по ТК РФ;</li> <li>Белая заработная плата;</li> <li> <p><strong>Гибридный график работы, первые 3 месяца в офисе.</strong></p> </li> <li> <p>Гибкое и лояльное руководство - всегда готовы выслушать и поддержать инициативу. Молодой и энергичный коллектив;</p> </li> <li> <p>Возможности для роста и развития - компания динамично развивае<em>тс</em>я. Рост возможен в автотестировании, либо в аналитике по желанию. Также много других возможностей)</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Тестирование"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3642645",
+    "name": "aQsi",
+    "url": "https://api.hh.ru/employers/3642645",
+    "alternate_url": "https://hh.ru/employer/3642645",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/575478.png",
+      "90": "https://img.hhcdn.ru/employer-logo/2743183.png",
+      "240": "https://img.hhcdn.ru/employer-logo/2743184.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3642645",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T10:58:23+0300",
+  "created_at": "2025-06-04T10:58:23+0300",
+  "initial_created_at": "2025-06-04T10:58:23+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121326622",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121326622",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,159 @@
+{
+  "id": "121285216",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Тестировщик / QA Engineer",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Краснопресненская набережная",
+    "building": "12",
+    "lat": 55.754203,
+    "lng": 37.556388,
+    "description": null,
+    "raw": "Москва, Краснопресненская набережная, 12",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы — продуктовая IT-компания со своим сервисом денежных переводов. Нашим решением пользуются люди по всему миру для быстрых и недорогих переводов. Процессы уже отлажены, но мы не скатываемся в бюрократию: остаёмся гибкими и быстро принимаем решения.</p> <p><strong>Кого ищем:</strong></p> <p>Опытного тестировщика в команду интеграций, которая занимается взаимодействиями с платежными системами, а также изменениями в клиент-серверной архитектуре приложения.</p> <p><strong>Что предстоит делать:</strong></p> <ul> <li>Тестировать интеграции с партнёрами;</li> <li>Мокирование API партнеров;</li> <li>Тестировать API в Postman, поддерживать коллекции запросов;</li> <li>Тестировать работу БД Oracle SQL;</li> <li>Проводить регрессионные, смоук-тесты;</li> <li>Взаимодействовать с партнёрами по интеграциям при отладке функционала;</li> <li>Писать тестовую документацию;</li> <li>Релизить задачи на продакшен.</li> </ul> <p><strong>Технические и нетехнические требования:</strong></p> <ul> <li>Знание техник тест-дизайна;</li> <li>Понимание клиент-серверной архитектуры;</li> <li>Навыки тестирования REST API;</li> <li>Опыт мокирования запросов;</li> <li>Опыт работы с Kafka;</li> <li>Опыт работы с перехватчиками: Charles, Proxyman etc.;</li> <li>Знание SQL на уровне написания запросов;</li> <li>Навыки работы с git.</li> </ul> <p><strong>Почему классно работать с нами:</strong></p> <ul> <li>Предоставляем комфортный формат: полная удалёнка из любой точки мира, по желанию гибрид, офис в Москве;</li> <li>Заботимся о своих сотрудниках: компенсируем расходы на обучения, английский и спорт, предоставляем ДМС;</li> <li>Не занимаемся бюрократией;</li> <li>10 дней в год на Force Majeure;</li> <li>Возможность профессионального роста в самом быстрорастущем сервисе денежных переводов в Европе по версии журнала Global Banking &amp; Finance Review.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Тестирование"
+    },
+    {
+      "name": "Postman"
+    },
+    {
+      "name": "Автоматизированное тестирование"
+    },
+    {
+      "name": "Ручное тестирование"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "kafka"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Git"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10926486",
+    "name": "Finist Lab",
+    "url": "https://api.hh.ru/employers/10926486",
+    "alternate_url": "https://hh.ru/employer/10926486",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1262587.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6670674.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6670675.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10926486",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T13:48:09+0300",
+  "created_at": "2025-06-03T13:48:09+0300",
+  "initial_created_at": "2025-06-03T13:48:09+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121285216",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121285216",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b1",
+        "name": "B1 — Средний"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

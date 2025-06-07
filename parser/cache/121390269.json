@@ -1,0 +1,136 @@
+{
+  "id": "121390269",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист по работе с претензиями",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "53",
+    "name": "Краснодар",
+    "url": "https://api.hh.ru/areas/53"
+  },
+  "salary": {
+    "from": null,
+    "to": 70000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": null,
+    "to": 70000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": {
+    "id": "mag-49357-omni",
+    "name": "МАГНИТ, Розничная сеть. OMNI"
+  },
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Магнит OMNI</strong> — группа бизнес-форматов ритейлера «Магнит», которая отвечает за развитие омниканального опыта для клиентов. OMNI объединяет команды, работающие над сервисами «Магнит Плюс», «Магнит Фудтех», «Магнит Маркет», «Магнит AdTech» и приложением «Магнит: акции и доставка».</p> <p>Мы трансформируем ритейл, предлагая инновационные решения, которые делают жизнь миллионов клиентов лучше.</p> <p><strong>Магнит OMNI</strong> — команда для тех, кто хочет делать больше, чем просто «работу». Здесь мы каждый день повышаем планку — для себя, команды и бизнеса. Поэтому работать с нами — это не про рутину и галочки. Это ломать стереотипы о ритейле, бросать вызовы невозможному и добиваться результата. Если вы энергичны, амбициозны и горите своим делом — нам по пути!<br /><br /><strong>Мы предлагаем:</strong></p> <ul> <li>удаленный формат работы;</li> <li>надежную страховку и внимание к здоровью: оформляем полис ДМС, в который входят не только терапевты и узкие специалисты, но и стоматологи;</li> <li>скидки Магнит Primezone: более 6 тысяч предложений от ресторанов до недвижимости;</li> <li>сильную команду. Мы работаем вместе с профессионалами, которые умеют вдохновлять, поддерживать и развивать;</li> <li>большие задачи, которые делают вас сильнее. Мы работаем над масштабными процессами, влияющими на миллионы людей;</li> <li>свободу развиваться. Горизонтальный рост, минимум рамок, максимум возможностей проявить себя;</li> <li>реальное признание достижений. Работаете круто — заметим и оценим.</li> </ul> <p> </p> <p><strong>Что нужно будет делать:</strong></p> <ul> <li>обрабатывать и рассматривать поступающие претензии/просьбы/жалобы;</li> <li>собирать и анализировать информацию для выявления причины обращений клиентов;</li> <li>подготавливать и предоставлять регламентированный ответ клиенту (устно и письменно);</li> <li>отвечать на запросы из смежных отделов, связанные с заказами пользователей.</li> </ul> <p><br /><strong>Что мы от вас ожидаем:</strong></p> <ul> <li>у вас есть опыт работы в клиентском сервисе от 1 года и больше;</li> <li>вы грамотно говорите и пишете, а еще — умеете вести деловую переписку;</li> <li>вы эмпатичны, сохраняете спокойствие в стрессовых ситуациях и обладаете чувством юмора;</li> <li>вы проактивны, внимательны и ответственны;</li> <li>вы легко обучаетесь и открыты всему новому.</li> </ul>",
+  "branded_description": "\n<style type=\"text/css\">\n.swiper-container {\n    margin: 0 auto;\n    position: relative;\n    overflow: hidden;\n    list-style: none;\n    padding: 0;\n    /* Fix of Webkit flickering */\n    z-index: 1;\n}\n\n.swiper-container-no-flexbox .swiper-slide {\n    float: left;\n}\n\n.swiper-container-vertical>.swiper-wrapper {\n    -webkit-box-orient: vertical;\n    -webkit-box-direction: normal;\n    -ms-flex-direction: column;\n    flex-direction: column;\n}\n\n.swiper-wrapper {\n    position: relative;\n    width: 100%;\n    height: 100%;\n    z-index: 1;\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-transition-property: -webkit-transform;\n    transition-property: -webkit-transform;\n    transition-property: transform;\n    transition-property: transform, -webkit-transform;\n    -webkit-box-sizing: content-box;\n    box-sizing: content-box;\n}\n\n.swiper-container-android .swiper-slide,\n.swiper-wrapper {\n    -webkit-transform: translate3d(0px, 0, 0);\n    transform: translate3d(0px, 0, 0);\n}\n\n.swiper-container-multirow>.swiper-wrapper {\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n}\n\n.swiper-container-free-mode>.swiper-wrapper {\n    -webkit-transition-timing-function: ease-out;\n    transition-timing-function: ease-out;\n    margin: 0 auto;\n}\n\n.swiper-slide {\n    -ms-flex-negative: 0;\n    flex-shrink: 0;\n    width: 100%;\n    height: 100%;\n    position: relative;\n    -webkit-transition-property: -webkit-transform;\n    transition-property: -webkit-transform;\n    transition-property: transform;\n    transition-property: transform, -webkit-transform;\n}\n\n.swiper-slide-invisible-blank {\n    visibility: hidden;\n}\n\n.swiper-container-fade.swiper-container-free-mode .swiper-slide {\n    -webkit-transition-timing-function: ease-out;\n    transition-timing-function: ease-out;\n}\n\n.swiper-container-fade .swiper-slide {\n    pointer-events: none;\n    -webkit-transition-property: opacity;\n    transition-property: opacity;\n}\n\n.swiper-container-fade .swiper-slide .swiper-slide {\n    pointer-events: none;\n}\n\n.swiper-container-fade .swiper-slide-active,\n.swiper-container-fade .swiper-slide-active .swiper-slide-active {\n    pointer-events: auto;\n}\n\n.swiper-container-autoheight,\n.swiper-container-autoheight .swiper-slide {\n    height: auto;\n}\n\n.swiper-container-autoheight .swiper-wrapper {\n    -webkit-box-align: start;\n    -ms-flex-align: start;\n    align-items: flex-start;\n    -webkit-transition-property: height, -webkit-transform;\n    transition-property: height, -webkit-transform;\n    transition-property: transform, height;\n    transition-property: transform, height, -webkit-transform;\n}\n\n.swiper-container-wp8-horizontal,\n.swiper-container-wp8-horizontal>.swiper-wrapper {\n    -ms-touch-action: pan-y;\n    touch-action: pan-y;\n}\n\n.swiper-container-wp8-vertical,\n.swiper-container-wp8-vertical>.swiper-wrapper {\n    -ms-touch-action: pan-x;\n    touch-action: pan-x;\n}\n\n.swiper-pagination.swiper-pagination-hidden {\n    opacity: 0;\n}\n\n.swiper-pagination-clickable .swiper-pagination-bullet {\n    cursor: pointer;\n}\n\nbutton.swiper-pagination-bullet {\n    border: none;\n    margin: 0;\n    padding: 0;\n    -webkit-box-shadow: none;\n    box-shadow: none;\n    -webkit-appearance: none;\n    -moz-appearance: none;\n    appearance: none;\n}\n\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc,\n.tmpl_hh_wrapper .l-paddings {\n    line-height: inherit !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n}\n\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p strong {\n    font-weight: normal !important;\n    font-size: inherit!important;\n    font-family: inherit!important;\n    line-height: inherit!important;\n    color: inherit!important;\n    margin: 0!important;\n    padding: 0!important;\n    background: none!important;\n    display: inline!important;\n    text-transform: none !important;\n    position: static !important;\n}\n\n.tmpl_hh_content strong em,\n.tmpl_hh_content em strong {\n    display: inline !important;\n    font-weight: 700 !important;\n    font-style: normal !important;\n    font-size: inherit !important;\n    line-height: inherit !important;\n    color: inherit !important;\n    background: none !important;\n    padding: 0 !important;\n    margin: 0 !important;\n    text-transform: none !important;\n    position: static !important;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p strong {\n    margin: 0;\n}\n\n.tmpl_hh_flex {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n    -ms-flex-pack: justify;\n    -webkit-box-pack: justify;\n    justify-content: space-between;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    max-width: 690px;\n    margin: 0 auto;\n    position: relative;\n    word-break: normal;\n    font-family: 'Arial';\n    color: #fff;\n    font-size: 14px;\n    line-height: 1.2;\n    overflow: hidden;\n    background: #1A191B;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_wrapper * {\n    -webkit-box-sizing: border-box;\n    box-sizing: border-box;\n}\n\n.tmpl_hh_video {\n    position: relative;\n    width: 100%;\n}\n\n.tmpl_hh_slider {\n    position: relative;\n}\n\n.tmpl_hh_video img,\n.tmpl_hh_video iframe {\n    position: absolute;\n    left: 0;\n    top: 0;\n    width: 100%;\n    height: 100%;\n}\n\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul {\n    list-style: none;\n}\n\n.tmpl_hh_stats {\n    padding: 0 7.5% 11px;\n}\n\n.tmpl_hh_stats_text {\n    font-family: Verdana, Arial;\n    font-size: 30px;\n    line-height: 1.2;\n    letter-spacing: -0.045em;\n    margin-bottom: 10px;\n}\n\n.tmpl_hh_stats_text span {\n    background-image: linear-gradient(90deg, #E5E5E5 0%, #EA0000 53%, #FF0000 84%, #E5E5E5 100%);\n    background-clip: text;\n    -webkit-background-clip: text;\n    -webkit-text-fill-color: transparent;\n    display: inline-block;\n}\n\n.tmpl_hh_note {\n    color: #666666;\n    font-family: Arial;\n    font-size: 12px;\n    line-height: 1.2;\n    letter-spacing: -0.05em;\n}\n\n.tmpl_hh_stats_item {\n    background: #333333;\n    border-radius: 15px;\n    padding: 29px 3% 32px;\n    margin-bottom: 1.3%;\n     overflow: hidden;\n}\n\n.tmpl_hh_stats_item span {\n    font-family: Verdana, Arial;\n    font-size: 51px;\n    line-height: 1.2;\n    letter-spacing: -0.05em;\n    display: block;\n    margin-bottom: 3px;\n}\n\n.tmpl_hh_stats_item span em {\n    font-style: normal;\n}\n\n.tmpl_hh_stats_item span i {\n    display: none;\n}\n\n.tmpl_hh_stats_item p {\n    font-size: 12px;\n    line-height: 1.2;\n    letter-spacing: 0.02em;\n    max-width: 222px;\n    padding-left: 8px;\n    min-height: 42px;\n}\n\n.tmpl_hh_stats_item1 {\n    width: 42%;\n}\n\n.tmpl_hh_stats_item2 {\n    width: 14.5%;\n}\n\n.tmpl_hh_stats_item3 {\n    width: 41%;\n}\n\n.tmpl_hh_stats_item4 {\n    width: 28%;\n}\n\n.tmpl_hh_stats_item5 {\n    width: 49%;\n}\n\n.tmpl_hh_stats_item6 {\n    width: 20%;\n}\n\n.tmpl_hh_stats_item_color {\n    padding: 0;\n    background: linear-gradient(59.22deg, #E5E5E5 -3.13%, #EA0000 47.94%, #FF0000 77.82%, #E5E5E5 93.23%);\n}\n\n.tmpl_hh_stats_item_color img {\n    width: 100%;\n    height: 100%;\n}\n\n.tmpl_hh_stats_flex {\n    width: 109%;\n    margin-left: -4.5%;\n    margin-top: 20px;\n}\n\n.tmpl_hh_stats_text2 {\n    margin-top: 25px;\n    font-size: 28px;\n    max-width: 473px;\n    margin-bottom: 54px;\n}\n\n.tmpl_hh_stats_invite {\n    position: absolute;\n    bottom: 71px;\n    right: 5%;\n    width: 130px;\n    padding-left: 56px;\n    color: #666666;\n    font-size: 12px;\n    font-family: Verdana;\n}\n\n.tmpl_hh_stats_invite img {\n    width: 45px;\n    position: absolute;\n    top: 0;\n    left: 0;\n}\n\n.tmpl_hh_content {\n    padding: 62px 8.34% 102px;\n    margin: 0 auto;\n    color: #fff;\n    font-size: 16px;\n    line-height: 1.375;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content strong {\n    margin: 33px 0 0;\n}\n\n.tmpl_hh_content strong {\n    display: inline-block;\n    font-size: 23px;\n    line-height: 1.3;\n}\n\n.tmpl_hh_content ul,\n.tmpl_hh_content ul ul {\n    list-style: none;\n}\n\n.tmpl_hh_content ol {\n    list-style: none;\n    counter-reset: list;\n}\n\n.tmpl_hh_content ul,\n.tmpl_hh_content ol {\n    margin-left: 17px;\n    margin-top: 17px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 16px;\n}\n\n.tmpl_hh_content ul li,\n.tmpl_hh_content ol li {\n    position: relative;\n    margin-bottom: 16px;\n}\n\n.tmpl_hh_content ul li:last-child,\n.tmpl_hh_content ol li:last-child {\n    margin-bottom: 0;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list;\n}\n\n.tmpl_hh_content ul>li:before,\n.tmpl_hh_content ol>li:before {\n    position: absolute;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: '\\2022';\n    left: -20px;\n    color: #EA0000;\n    font-size: 20px;\n    top: -2px;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list) \".\";\n    left: auto;\n    right: 100%;\n    margin-right: 3px;\n}\n.tmpl_hh_wrapper video {\n    width: calc(100% + 2px);\n    margin-left: -1px;\n}\n\n@media screen and (max-width: 1019px) {\n     .tmpl_hh_stats_item span {   \n          font-size: 44px; \n     } \n}\n\n@media screen and (max-width: 699px) {\n    .tmpl_hh_stats {\n        padding: 0 9.5% 9px;\n    }\n    .tmpl_hh_stats_text {\n        font-size: 30px;\n        line-height: 1.2;\n        letter-spacing: -0.045em;\n        margin-bottom: 13px;\n    }\n    .tmpl_hh_note {\n        font-size: 12px;\n        line-height: 1.2;\n        letter-spacing: -0.05em;\n    }\n    .tmpl_hh_stats_item {\n        border-radius: 14px;\n        padding: 29px 5% 32px;\n        margin-bottom: 4.3%;\n    }\n    .tmpl_hh_stats_item span {\n        font-size: 51px;\n        line-height: 1.2;\n        letter-spacing: -0.05em;\n        display: block;\n        margin-bottom: 3px;\n    }\n    .tmpl_hh_stats_item span em {\n        display: none;\n    }\n    .tmpl_hh_stats_item span i {\n        display: inline;\n        font-style: normal;\n    }\n    .tmpl_hh_stats_item p {\n        font-size: 12px;\n        line-height: 1.2;\n        letter-spacing: 0.02em;\n        max-width: 222px;\n        padding-left: 8px;\n        min-height: 42px;\n    }\n    .tmpl_hh_stats_item1 {\n        width: 100%;\n        order: 1;\n    }\n    .tmpl_hh_stats_item2 {\n        width: 28.5%;\n        order: 2;\n    }\n    .tmpl_hh_stats_item3 {\n        width: 100%;\n        order: 4;\n    }\n    .tmpl_hh_stats_item4 {\n        width: 67%;\n        order: 3;\n    }\n    .tmpl_hh_stats_item5 {\n        width: 77%;\n        order: 5;\n        padding: 29px 2% 32px;  \n    }\n    .tmpl_hh_stats_item6 {\n        width: 19%;\n        order: 6;\n        \n    }\n    .tmpl_hh_stats_item_color {\n        padding: 0;\n    }\n    .tmpl_hh_stats_flex {\n        width: 109%;\n        margin-left: -4.5%;\n        margin-top: 20px;\n    }\n    .tmpl_hh_stats_text2 {\n        margin-top: 13px;\n        font-size: 28px;\n        max-width: 473px;\n        margin-bottom: 44px;\n    }\n    .tmpl_hh_stats_invite {\n        position: relative;\n        bottom: 0;\n        right: 0;\n        width: 130px;\n        padding-left: 56px;\n        font-size: 12px;\n        margin: 0 auto 29px;\n    }\n    .tmpl_hh_stats_invite img {\n        width: 45px;\n        position: absolute;\n        top: 0;\n        left: 0;\n    }\n    .tmpl_hh_content {\n        padding: 51px 6.34% 65px;\n    }\n}\n</style>\n\n<div class=\"tmpl_hh_wrapper\">\n    <video poster=\"https://img.hhcdn.ru/ichameleon/440105.png\" autoplay=\"autoplay\" loop=\"loop\" muted=\"muted\" preload=\"auto\" playsinline=\"playsinline\">\n        <source src=\"https://hhcdn.ru/file/18055346.mp4\" type='video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"'></source>\n        <source src=\"https://hhcdn.ru/file/18055347.webm\" type='video/webm; codecs=\"vp8, vorbis\"'></source>\n    </video>  \n    <div class=\"tmpl_hh_content\">\n        <p><strong>Магнит OMNI</strong> — группа бизнес-форматов ритейлера «Магнит», которая отвечает за развитие омниканального опыта для клиентов. OMNI объединяет команды, работающие над сервисами «Магнит Плюс», «Магнит Фудтех», «Магнит Маркет», «Магнит AdTech» и приложением «Магнит: акции и доставка».</p> <p>Мы трансформируем ритейл, предлагая инновационные решения, которые делают жизнь миллионов клиентов лучше.</p> <p><strong>Магнит OMNI</strong> — команда для тех, кто хочет делать больше, чем просто «работу». Здесь мы каждый день повышаем планку — для себя, команды и бизнеса. Поэтому работать с нами — это не про рутину и галочки. Это ломать стереотипы о ритейле, бросать вызовы невозможному и добиваться результата. Если вы энергичны, амбициозны и горите своим делом — нам по пути!<br><br><strong>Мы предлагаем:</strong></p> <ul> <li>удаленный формат работы;</li> <li>надежную страховку и внимание к здоровью: оформляем полис ДМС, в который входят не только терапевты и узкие специалисты, но и стоматологи;</li> <li>скидки Магнит Primezone: более 6 тысяч предложений от ресторанов до недвижимости;</li> <li>сильную команду. Мы работаем вместе с профессионалами, которые умеют вдохновлять, поддерживать и развивать;</li> <li>большие задачи, которые делают вас сильнее. Мы работаем над масштабными процессами, влияющими на миллионы людей;</li> <li>свободу развиваться. Горизонтальный рост, минимум рамок, максимум возможностей проявить себя;</li> <li>реальное признание достижений. Работаете круто — заметим и оценим.</li> </ul> <p> </p> <p><strong>Что нужно будет делать:</strong></p> <ul> <li>обрабатывать и рассматривать поступающие претензии/просьбы/жалобы;</li> <li>собирать и анализировать информацию для выявления причины обращений клиентов;</li> <li>подготавливать и предоставлять регламентированный ответ клиенту (устно и письменно);</li> <li>отвечать на запросы из смежных отделов, связанные с заказами пользователей.</li> </ul> <p><br><strong>Что мы от вас ожидаем:</strong></p> <ul> <li>у вас есть опыт работы в клиентском сервисе от 1 года и больше;</li> <li>вы грамотно говорите и пишете, а еще — умеете вести деловую переписку;</li> <li>вы эмпатичны, сохраняете спокойствие в стрессовых ситуациях и обладаете чувством юмора;</li> <li>вы проактивны, внимательны и ответственны;</li> <li>вы легко обучаетесь и открыты всему новому.</li> </ul></div>\n    <div class=\"tmpl_hh_stats\">\n        <div class=\"tmpl_hh_stats_text tmpl_hh_stats_text1\">\n            Всего за год мы показали <span>невероятные</span> результаты\n        </div>\n\n        <div class=\"tmpl_hh_note\">\n            *данные актуальны на июнь 2024\n        </div>\n        <div class=\"tmpl_hh_flex tmpl_hh_stats_flex\">\n            <div class=\"tmpl_hh_stats_item tmpl_hh_stats_item1\">\n                <span>\n                    &gt;19 млн\n                </span>\n                <p>\n                    пользователей приложения\n                    «Магнит: акции и доставка»\n                </p>\n            </div>\n            <div class=\"tmpl_hh_stats_item tmpl_hh_stats_item2 tmpl_hh_stats_item_color\"><img src=\"https://hhcdn.ru/file/17929245.gif\" alt=\"\"></div>\n            <div class=\"tmpl_hh_stats_item tmpl_hh_stats_item3\">\n                <span>\n                    На 200 %\n                </span>\n                <p>\n                    стало больше заказов через\n                    наш сервис доставки в 2023 году\n                </p>\n            </div>\n            <div class=\"tmpl_hh_stats_item tmpl_hh_stats_item4\">\n                <span>\n                    4500\n                </span>\n                <p>\n                    пунктов выдачи «Магнит Маркета» \n                    откроется в этом году\n                </p>\n            </div>\n            <div class=\"tmpl_hh_stats_item tmpl_hh_stats_item5\">\n                <span>\n                    &lt;1 мин<em>уты</em><i>.</i> \n                </span>\n                <p>\n                    операторы отвечают\n                    на 9 из 10 сообщений\n                </p>\n            </div>\n            <div class=\"tmpl_hh_stats_item tmpl_hh_stats_item6 tmpl_hh_stats_item_color\"><img src=\"https://hhcdn.ru/file/17929247.gif\" alt=\"\"></div>\n        </div>\n        <div class=\"tmpl_hh_stats_text tmpl_hh_stats_text2\">\n            <span>\n                Наши амбиции очень велики.\n            </span> <br>\n            А ты готов достигать новых вершин вместе с нами?\n        </div>\n        <div class=\"tmpl_hh_stats_invite\">\n            <img src=\"https://hhcdn.ru/ichameleon/396106.svg\" alt=\"\">\n            Приходи, мы омнимем тебя\n        </div>\n        <div class=\"tmpl_hh_note\">\n            АО «Тандер» представляет бренд Магнит\n        </div>\n    </div>\n    \n</div>\n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "49357",
+    "name": "МАГНИТ, Розничная сеть",
+    "url": "https://api.hh.ru/employers/49357",
+    "alternate_url": "https://hh.ru/employer/49357",
+    "logo_urls": {
+      "90": "https://img.hhcdn.ru/ichameleon/433802.png",
+      "240": "https://img.hhcdn.ru/ichameleon/433802.png",
+      "original": "https://img.hhcdn.ru/ichameleon/433802.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=49357",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T15:36:27+0300",
+  "created_at": "2025-06-05T15:36:27+0300",
+  "initial_created_at": "2025-06-05T15:36:27+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121390269",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121390269",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": false,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "TWO_ON_TWO_OFF",
+      "name": "2/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_11",
+      "name": "11 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

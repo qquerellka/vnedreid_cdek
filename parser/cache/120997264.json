@@ -1,0 +1,125 @@
+{
+  "id": "120997264",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Frontend-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 240000,
+    "to": 300000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 240000,
+    "to": 300000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Группа компаний Протектор – ведущий поставщик авиационно-технического имущества для самолетов и вертолетов иностранного и отечественного производства.</strong></p> <p><strong>Почему стоит выбрать нас?</strong></p> <p>- Мы стали первым в России импортозамещающим производством иностранных шасси и двигателей.</p> <p>- Работаем с ключевыми клиентами авиационной отрасли.</p> <p>- Постоянно развиваем ключевые направления бизнеса, расширяя штат сотрудников. На данный момент в компании работают 700+ человек.</p> <p>В связи с активным ростом компании мы в поисках <strong>Frontend-разработчика</strong>.</p> <p><strong>Что мы делаем:</strong></p> <p>Разработка внутренней ERP-системы для ведения бизнес-процессов компании.</p> <p>Стек технологий, который мы используем: React, Python (Django), PostgreSQL, Redis, Celery, Docker.</p> <p><strong>Функционал:</strong></p> <ul> <li>Планирование, проектирование архитектуры, разработка, тестирование и внедрение новых модулей на React</li> <li>Обеспечение качественной реализации UI/UX- дизайна, безопасности данных и оптимизации производительности веб-клиента</li> <li>Взаимодействие с backend-разработчиками для согласования API и оптимизации рабочего процесса</li> <li>Работа с математическими функциями и табличными данными</li> <li>Проведение оценки задач, код-ревью</li> </ul> <p><strong>Мы ожидаем:</strong></p> <ul> <li>Высшее образование</li> <li>Опыт разработки коммерческих приложений на React от 3 лет (JavaScript, TypeScript)</li> <li>Опыт разработки чатов на WebSocket</li> <li>Опыт работы со стейт-менеджментом React-redux (Redux Toolkit + RTK Query)</li> <li>Понимание клиент-серверной архитектуры, опыт работы с API (Fetch, WebSocket)</li> <li>Навыки работы с основным стеком frontend-части приложения: React-DOM, Redux (Toolkit RTKQ), MUI, AntDesign, Vite, React Router</li> <li>Английский язык не ниже уровня Intermediate (B1)</li> <li>Опыт разработки Excel-подобных таблиц с использованием библиотеки Handsontable будет преимуществом</li> <li>Опыт наставничества frontend-разработчиков будет преимуществом</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Трудоустройство по ТК РФ с первого дня работы</li> <li>График и формат работы: 5/2, с 10:00 до 19:00, удаленный формат работы</li> <li>Уровень заработной платы: от 240 000 руб. net (итоговый уровень дохода устанавливается по результатам собеседования)</li> <li>Полис ДМС со стоматологией через 3 месяца работы</li> <li>Поддержку внутреннего и внешнего обучения</li> <li>Подарки от компании на значимые события в жизни сотрудника</li> <li>Поддержку корпоративного спорта</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10232312",
+    "name": "Протектор",
+    "url": "https://api.hh.ru/employers/10232312",
+    "alternate_url": "https://hh.ru/employer/10232312",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1397098.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7208167.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7208168.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10232312",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-26T18:32:33+0300",
+  "created_at": "2025-05-26T18:32:33+0300",
+  "initial_created_at": "2025-05-26T18:32:33+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120997264",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120997264",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_9",
+      "name": "9 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

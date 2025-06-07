@@ -1,0 +1,146 @@
+{
+  "id": "119515479",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор/DevOps-инженер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": null,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Мы - IT-аккредитованная компания, которая специализируется на оказании профессиональных услуг в области инжиниринга, проектирования, строительства, реконструкции, технического обслуживания и ремонта систем безопасности объектов любой категории важности и сложности!</strong><br /><br />Сейчас мы ищем в нашу дружную команду<strong> DevOps инженера</strong>.</p> <p><strong>Что мы предлагаем нашему будущему коллеге:</strong></p> <ul> <li>Полностью удаленный формат работы;</li> <li>График работы: 5/2, с 9:00 до 18:00 по МСК;</li> <li>Трудоустройство по ТК РФ;</li> <li>Онбординг;</li> <li>ИТ-аккредитованная компания;</li> <li>Соцпакет.</li> </ul> <p> </p> <p><strong>Ч</strong><strong>то мы ожидаем:</strong></p> <ul> <li>Понимание принципов работы WebRTC;</li> <li>Знание принципов мониторинга и базового логирования;</li> <li>Знания блока по контейнеризации (Docker, Kubernetes);</li> <li>Глубокие знания Linux серверов;</li> <li> <p>Опыт настройки и управления системой мониторинга Zabbix.</p> </li> </ul> <p> </p> <p><strong>Откликайтесь на вакансию, чтобы стать частью нашей команды!</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "DevOps"
+    },
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Zabbix"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "160",
+      "name": "DevOps-инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5174849",
+    "name": "Wanted",
+    "url": "https://api.hh.ru/employers/5174849",
+    "alternate_url": "https://hh.ru/employer/5174849",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1331476.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6945922.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6945923.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5174849",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-13T17:38:34+0300",
+  "created_at": "2025-05-13T17:38:34+0300",
+  "initial_created_at": "2025-04-14T19:41:04+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119515479",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119515479",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

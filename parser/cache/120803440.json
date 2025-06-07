@@ -1,0 +1,165 @@
+{
+  "id": "120803440",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист по ручному тестированию",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": null,
+    "lng": null,
+    "description": null,
+    "raw": null,
+    "metro": {
+      "station_name": "Трубная",
+      "line_name": "Люблинско-Дмитровская",
+      "station_id": "10.177",
+      "line_id": "10",
+      "lat": 55.76771,
+      "lng": 37.621926
+    },
+    "metro_stations": [
+      {
+        "station_name": "Трубная",
+        "line_name": "Люблинско-Дмитровская",
+        "station_id": "10.177",
+        "line_id": "10",
+        "lat": 55.76771,
+        "lng": 37.621926
+      },
+      {
+        "station_name": "Цветной бульвар",
+        "line_name": "Серпуховско-Тимирязевская",
+        "station_id": "9.154",
+        "line_id": "9",
+        "lat": 55.771653,
+        "lng": 37.620466
+      },
+      {
+        "station_name": "Чеховская",
+        "line_name": "Серпуховско-Тимирязевская",
+        "station_id": "9.123",
+        "line_id": "9",
+        "lat": 55.765747,
+        "lng": 37.608493
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <ul> <li> <p>Планирование тестирования, подготовка тестовых данных и окружения для проведения тестирования;</p> </li> <li> <p>Создание и поддержание в актуальном состоянии тестовой документации;</p> </li> <li> <p>Проведение функционального тестирования;</p> </li> <li> <p>Ведение протоколов тестирования;</p> </li> <li> <p>Подготовка баг репортов;</p> </li> <li> <p>Рецензирование тест-кейсов;</p> </li> <li> <p>Участие в проектировании нового функционала;</p> </li> <li> <p>Взаимодействие с разработчиками для локализации и устранения найденных дефектов;</p> </li> <li> <p>Сопровождение процесса жизненного цикла продуктов.</p> </li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Опыт работы на аналогичной должности от 1 года;</li> <li><strong>Желателен опыт работы с электронными банковскими гарантиями;</strong></li> <li> <p>Понимание процесса тестирования и разработки (знание жизненного цикла ПО, жизненного цикла дефекта);</p> </li> <li> <p>Внимательность к деталям и интерес к аналитической работе</p> </li> <li> <p>Умение искать дефекты, понятно и емко описывать их для разработчиков;</p> </li> <li> <p>Уметь выстраивать коммуникации с другими членами команды и не бояться задавать вопросы;</p> </li> <li> <p>Желание развиваться самому и принимать участие в развитии продуктов;</p> </li> <li>Умение читать и анализировать техническую документацию для получения необходимых данных и взаимодействия с разработчиками и другими специалистами.</li> </ul> <strong>Условия:</strong> <ul> <li>Оформление по ТК РФ;</li> <li>График 5/2, гибкое начало рабочего дня;</li> <li>Комфортный и стильный офис рядом с м. Цветной Бульвар;</li> <li>Возможности развития через кроссфункциональное взаимодействие, широкий пул проектов, в которых возможно принять участие;</li> <li>ДМС со стоматологией.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9837185",
+    "name": "Copperside",
+    "url": "https://api.hh.ru/employers/9837185",
+    "alternate_url": "https://hh.ru/employer/9837185",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1327458.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6929854.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6929855.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9837185",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-21T10:36:46+0300",
+  "created_at": "2025-05-21T10:36:46+0300",
+  "initial_created_at": "2025-05-21T10:36:46+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120803440",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120803440",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,115 @@
+{
+  "id": "121366331",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Продакт-менеджер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Наш партнер, компания по производству уникальных подарочных изделий ручной работы, приглашает к сотрудничеству Продакт-менеджера</p> <p><strong>Обязанности:</strong></p> <ul> <li>Участие в формировании стратегии продаж;</li> <li>Привлечение партнеров, формирование портфеля клиентов;</li> <li>Выстраивание долгосрочных отношений с действующими партнерами;</li> <li>Заключение договоров.</li> </ul> <strong>Требования:</strong> <ul> <li>Опыт на руководящей должности от 2х лет;</li> <li>Опыт запуска и ведение проектов с нуля до выхода на прибыль;</li> <li>Высшее образование (желательно экономическое, юридическое);</li> <li>Способность работать в режиме многозадачности;</li> <li>Знание делового этикета;</li> <li>Чувство стиля и вкуса (высокая эстетика).</li> </ul> <strong>Условия:</strong> <ul> <li>Оформление по ТК РФ;</li> <li>Окладно-премиальная форма оплаты, обсуждается по результатам интервью;</li> <li>График работы: 5/2, с 9 до 18, возможно обсуждение других вариантов графика;</li> <li>Возможность карьерного роста. </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "73",
+      "name": "Менеджер продукта"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3652109",
+    "name": "Lerteco",
+    "url": "https://api.hh.ru/employers/3652109",
+    "alternate_url": "https://hh.ru/employer/3652109",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/655089.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/3061504.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3061505.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3652109",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T09:26:23+0300",
+  "created_at": "2025-06-05T09:26:23+0300",
+  "initial_created_at": "2025-06-05T09:26:23+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121366331",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121366331",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

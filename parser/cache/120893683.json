@@ -1,0 +1,165 @@
+{
+  "id": "120893683",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер по тестированию ПО",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 170000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 170000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Лисичанская улица",
+    "building": "5",
+    "lat": 59.985966,
+    "lng": 30.316883,
+    "description": null,
+    "raw": "Санкт-Петербург, Лисичанская улица, 5",
+    "metro": {
+      "station_name": "Чёрная речка",
+      "line_name": "Московско-Петроградская",
+      "station_id": "15.214",
+      "line_id": "15",
+      "lat": 59.985455,
+      "lng": 30.300833
+    },
+    "metro_stations": [
+      {
+        "station_name": "Чёрная речка",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.214",
+        "line_id": "15",
+        "lat": 59.985455,
+        "lng": 30.300833
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Уважаемые соискатели, просим внимательно ознакомиться с вакансией перед откликом: данная вакансия подразумевает <strong>полную занятость, на территории работодателя в Санкт-Петербурге, наличие релевантного опыта работы.</strong></p> <p>В отдел разработки динамично развивающейся компании требуется:</p> <p>Инженер по тестированию программно-аппаратных микропроцессорных комплексов.</p> <p><strong>Тема &quot;Разработка измерительного оборудования и информационных комплексов&quot;</strong></p> <p>Наша компания, занимается разработкой, прототипированием и серийным производством датчиков и систем автоматизированного геотехнического и конструкционного мониторинга.</p> <p> </p> <p><strong>Обязанности:</strong></p> <p>1. Тестирование встроенного ПО :</p> <ul> <li>измерительного оборудования (датчиков),</li> <li>приборов регистрации данных (регистраторы, логгеры, мультиплексоры, БС).</li> </ul> <p>2. Тестирование взаимодействия между ними.</p> <p><strong>Требования:</strong></p> <ul> <li>Знания процессов разработки SW и HW, например, Waterfall, V-модель и др. Знания технологии тестирования программно-аппаратных комплексов, процессов и этапов тестирования.</li> <li>Умение составлять и вести необходимую документацию (чек-листы, bug трекер, тест-кейсы).</li> <li>Знакомство с разработкой микропроцессорных систем на базе STM32 (CudeIDE), ESP32(ESP-IDF). Язык программирования С/С++.</li> <li>Знания/опыт работы в области цифровых протоколов обмена информацией: UART, RS485, SPI, I2C и др.</li> <li>Знания технологии обмена данными MODBUS, сетевых технологий, Ethernet, TCP/IP, OSI модель и пр.</li> <li>Знание/представление о беспроводных технологиях передачи цифровой информации. Таких, как Lora, LoraWAN, Meshtastik и др.</li> <li>Будет плюсом наличие знаний о базах данных, общее IT, программирование, измерительная техника, преобразование данных, метрология.</li> <li>Умение работать с измерительной техникой (осциллограф, мультиметр и пр.), умение работать руками.</li> <li>Системный подход, тщательность, настойчивость, коммуникабельность. Способность к самообучению, активная жизненная позиция.</li> <li>Знание английского на уровне, позволяющем эффективно читать документацию и искать информацию по англоязычным источникам.</li> </ul> <strong>Условия:</strong> <ul> <li>Пятидневная рабочая неделя на территории работодателя (гибридный формат обсуждается)</li> <li>Молодой коллектив, адекватное руководство</li> <li>Белая заработная плата</li> <li>Рабочий день 8 часов с гибким началом дня</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "тестирование WEB API"
+    },
+    {
+      "name": "программирования С, С++"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4107630",
+    "name": "Спецмаш-Диагностика",
+    "url": "https://api.hh.ru/employers/4107630",
+    "alternate_url": "https://hh.ru/employer/4107630",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4107630",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-23T09:37:22+0300",
+  "created_at": "2025-05-23T09:37:22+0300",
+  "initial_created_at": "2025-05-23T09:37:22+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120893683",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120893683",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    },
+    {
+      "id": "FLEXIBLE",
+      "name": "Свободный"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

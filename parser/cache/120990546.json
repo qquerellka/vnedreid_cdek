@@ -1,0 +1,166 @@
+{
+  "id": "120990546",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист-консультант 1C (Стажер)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 60000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 60000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Малоохтинский проспект",
+    "building": "8",
+    "lat": 59.938171,
+    "lng": 30.404316,
+    "description": null,
+    "raw": "Санкт-Петербург, Малоохтинский проспект, 8",
+    "metro": {
+      "station_name": "Новочеркасская",
+      "line_name": "Лахтинско-Правобережная",
+      "station_id": "17.241",
+      "line_id": "17",
+      "lat": 59.929092,
+      "lng": 30.411915
+    },
+    "metro_stations": [
+      {
+        "station_name": "Новочеркасская",
+        "line_name": "Лахтинско-Правобережная",
+        "station_id": "17.241",
+        "line_id": "17",
+        "lat": 59.929092,
+        "lng": 30.411915
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>Участие во внедрение на предприятия конфигураций 1С: ERP, КА, УТ, Розница</li> <li>Выявление потребностей клиентов и настройка программ 1С под эти требования</li> <li>Обучение пользователей</li> <li>Работы по настройке синхронизации данных между конфигурациями 1С(стандартными средствами конфигураций)</li> <li>Постановка задач программистам по доработкам системы</li> <li>Подготовка контрольных примеров</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Понимание программных продуктов фирмы 1С. Знание того, как настроить решение под конкретные требование пользователей.</li> <li>Знание стандартных бизнес-процессов предприятий (Реализация, закупка, производство в базовом варианте, и т.д.)</li> <li><strong>Умение общаться с людьми</strong></li> <li>Умение разбираться с проблемами пользователей, понимать потребности и быстро предлагать варианты решения</li> </ul> <strong>Условия:</strong> <ul> <li>График работы 5\\2 с 10:00 - 18:00</li> <li>Работа в офисе с периодическими выездами к клиентам</li> <li>Официальное оформление в соответствии с ТК РФ</li> <li>Профессиональный и карьерный рост</li> <li>Офис расположен в пешей доступности (10 минут) от ст.м. Новочеркасская</li> <li><strong>Уровень заработной платы зависит от квалификации и опыта</strong></li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "1С: Предприятие"
+    },
+    {
+      "name": "1С: Зарплата и кадры"
+    },
+    {
+      "name": "1С: Бухгалтерия"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "10",
+      "name": "Аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1425719",
+    "name": "СИС",
+    "url": "https://api.hh.ru/employers/1425719",
+    "alternate_url": "https://hh.ru/employer/1425719",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/271398.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/1528122.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/1528123.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1425719",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-26T16:14:49+0300",
+  "created_at": "2025-05-26T16:14:49+0300",
+  "initial_created_at": "2025-05-26T16:14:49+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120990546",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120990546",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

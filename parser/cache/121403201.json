@@ -1,0 +1,160 @@
+{
+  "id": "121403201",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Дата аналитик/Data Scientist",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Приглашаем в команду машинного обучения специалистов в области <strong>классического ML.</strong></p> <p>Команда распределенная, работаем удаленно по всей России, а также в офисах в Новосибирске, Томске и Санкт-Петербурге. Сейчас в ML-команде 200 человек с самой различной экспертизой, и мы продолжаем расти!</p> <p><strong>Работаем над внутренними проектами:</strong></p> <p>— кредитного скоринга;</p> <p>— поиска аномального и фродерского поведения;</p> <p>— идентификации пользователей и др.</p> <p><strong>Чем предстоит заниматься:</strong></p> <p> </p> <p>— обработка сырых данных;</p> <p>— генерация гипотез;</p> <p>— построение пайплайна обработки данных;</p> <p>— подготовка и проведение А/В тестов;</p> <p>— обучение моделей;</p> <p>— валидация работы моделей;</p> <p>— разработка отчетности;</p> <p>— расчет статистических показателей.</p> <p><strong>Для нас важны:</strong></p> <p> </p> <p>— опыт работы с задачами машинного обучения/ опыт статистической обработки данных от 1,5 лет;</p> <p>— опыт разработки на Python, опыт code review;</p> <p>— опыт работы с библиотеками для анализа данных: pandas, matplotlib, numpy, sklearn;</p> <p>— уверенные навыки использования Linux, Jupyter notebook, git, SQL;</p> <p>— знание основных моделей машинного обучения: градиентный бустинг на основе деревьев решений, логистическая регрессия с регуляризацией, метод ближайших соседей;</p> <p>— знание способов проверки гипотез;</p> <p>— опыт самостоятельного ведения темы: анализ требований, декомпозиция, реализация, оценка результата, формулировка выводов, презентация/визуализация результатов;</p> <p>— доп. навыки: базовые навыки в airflow, pyspark, dvc.</p> <p><strong>Мы предлагаем</strong>:</p> <p>— понятная траектория роста (performance review, карьерные консультации, индивидуальная карта развития и т.д.);</p> <p>— обучение и развитие за счёт ресурсов компании (Учебный центр, корпоративная библиотека, оплата внешнего обучения);</p> <p>— социальный пакет (ДМС с первого рабочего дня, скидки от партнёров, детская программа и т.д.);</p> <p>— насыщенная корпоративная жизнь (радио, подкасты, кибертурнир, собственные мероприятия и участие в крупных событиях отрасли);</p> <p>— возможность быть преподавателем, наставником, автором корпоративного блога, спикером – каждый выбирает то, что подходит именно ему;</p> <p>— официальное трудоустройство с первого дня, полностью белая зарплата;</p> <p>— удобный формат работы (гибрид или удаленная работа).</p> <p><strong>Построй карьеру с нами!</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Анализ данных"
+    },
+    {
+      "name": "Математический анализ"
+    },
+    {
+      "name": "Предобработка данных"
+    },
+    {
+      "name": "pandas"
+    },
+    {
+      "name": "Numpy"
+    },
+    {
+      "name": "Scikit-learn"
+    },
+    {
+      "name": "Matplotlib"
+    },
+    {
+      "name": "Jupyter Notebook"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Apache Airflow"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "165",
+      "name": "Дата-сайентист"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "8550",
+    "name": "Центр финансовых технологий",
+    "url": "https://api.hh.ru/employers/8550",
+    "alternate_url": "https://hh.ru/employer/8550",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1390863.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7183239.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7183240.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=8550",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T07:36:34+0300",
+  "created_at": "2025-06-06T07:36:34+0300",
+  "initial_created_at": "2025-06-06T07:36:34+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121403201",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121403201",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

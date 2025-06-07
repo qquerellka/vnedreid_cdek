@@ -1,0 +1,144 @@
+{
+  "id": "121377277",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Тестировщик / QA engineer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Партийный переулок",
+    "building": "1к57с2",
+    "lat": 55.719166,
+    "lng": 37.629232,
+    "description": null,
+    "raw": "Москва, Партийный переулок, 1к57с2",
+    "metro": {
+      "station_name": "Серпуховская",
+      "line_name": "Серпуховско-Тимирязевская",
+      "station_id": "9.37",
+      "line_id": "9",
+      "lat": 55.726548,
+      "lng": 37.624792
+    },
+    "metro_stations": [
+      {
+        "station_name": "Серпуховская",
+        "line_name": "Серпуховско-Тимирязевская",
+        "station_id": "9.37",
+        "line_id": "9",
+        "lat": 55.726548,
+        "lng": 37.624792
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": {
+    "id": "1449-1449-nmgteh",
+    "name": "НМГТЕХ"
+  },
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>В Отделе тестирования Департамента по развитию и продвижению интернет-продуктов открыта вакансия Тестировщика (QA engineer).</strong></p> <p><strong>Обязанности:</strong></p> <ul> <li>Проведение функционального, регрессионного, интеграционного и других видов тестирования.</li> <li>Составление тест-кейсов, чек-листов, тест-планов.</li> <li>Выявление, документирование и отслеживание дефектов (баг-репорты).</li> <li>Работа с командой:</li> </ul> <ol> <li>Взаимодействие с разработчиками, аналитиками, менеджерами проектов.</li> <li>Участие в планировании спринтов и оценке сроков тестирования.</li> </ol> <ul> <li>Автоматизация (Будет плюсом):</li> </ul> <ol> <li>Написание и поддержка автотестов (для QA Automation Engineer).</li> <li>Интеграция тестов в CI/CD (GitLab CI).</li> </ol> <ul> <li>Документирование:</li> </ul> <ol> <li>Ведение отчетности по результатам тестирования.</li> <li>Анализ метрик качества продукта.</li> </ol> <ul> <li>Развитие процессов QA:</li> </ul> <ol> <li>Улучшение процессов тестирования.</li> <li>Исследование новых инструментов и методик.</li> </ol> <p><strong>Требования:</strong></p> <ul> <li>Высшее образование в сфере IT, математики (желательно).</li> <li>Опыт работы в тестировании ПО от 1 года( не учебный опыт).</li> <li>Знание основ тестирования (теория, виды, уровни, методы).</li> <li>Технические навыки:</li> </ul> <ol> <li>Понимание жизненного цикла разработки ПО (SDLC, STLC)</li> <li> <p>Опыт работы с системами баг-трекинга</p> <p>Знание SQL</p> </li> <li> <p>Базовые знания клиент-серверной архитектуры (HTTP/HTTPS, REST API, Postman/Swagger)</p> </li> <li> <p>Опыт работы с DevTools, Charles/Fiddler (для анализа сетевых запросов).</p> <p>Знание основ программирования (Python, Java, JavaScript или другого языка — плюс)</p> </li> </ol> <ul> <li> <p>QA-инструменты:</p> </li> </ul> <ol> <li>Опыт работы c системами управления тестированием</li> <li>Знание мобильного тестирования (Android/iOS, эмуляторы/реальные устройства)</li> <li>Опыт автоматизированного тестирования (Selenium, Cypress, Playwright — будет плюсом)</li> </ol> <ul> <li> <p>Личные качества:</p> </li> </ul> <ol> <li> <p>Внимательность к деталям, аналитическое мышление</p> </li> <li> <p>Умение работать в команде и с документацией</p> </li> <li> <p>Ответственность, инициативность, желание развиваться в QA</p> </li> </ol> <p><strong>Условия:</strong></p> <ul> <li> <p>Работа в крупнейшем медиахолдинге России.</p> </li> <li> <p>IT аккредитованная компания.</p> </li> <li> <p>Удалённый формат работы в пределах РФ.</p> </li> <li> <p>Заработная плата обсуждается по итогам собеседования с успешным кандидатом.</p> </li> <li>ДМС после испытательного срока.</li> <li> <p>Специальные условия страхования для членов семей сотрудников.</p> </li> <li> <p>Скидки в компаниях-партнерах (фитнес-центры, обучающие курсы, изучение иностранных языков и многое другое).</p> </li> <li> <p>Бесплатное онлайн-обучение на корпоративном портале и корпоративная библиотека.</p> </li> </ul>",
+  "branded_description": "\n<style>\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li em,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ol li p em,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li em,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong,\n.tmpl_hh_content ul li p em {\n    font-weight: normal;\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    display: inline;\n    margin: 0;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    font-family: \"Arial\", sans-serif;\n    color: #292929;\n    border-radius: 4px;\n    font-size: 16px;\n    line-height: 1.3;\n    overflow: hidden;\n    -webkit-font-smoothing: antialiased;\n    background-image: url(\"https://hhcdn.ru/ichameleon/289870.svg\");\n    background-size: 100% 100%;\n    background-position: top;\n    background-repeat: no-repeat;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_wrapper * {\n    -webkit-box-sizing: border-box;\n    box-sizing: border-box;\n}\n\n.tmpl_hh_wrapper [role=button] {\n    outline: none;\n}\n\n.tmpl_hh_head {\n    position: relative;\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-pack: center;\n    -ms-flex-pack: center;\n    justify-content: center;\n    -webkit-box-align: center;\n    -ms-flex-align: center;\n    align-items: center;\n    margin-bottom: 60px;\n    padding-top: 60px;\n    padding-left: 15px;\n}\n\n.tmpl_hh_head::before {\n    content: \"\";\n    position: absolute;\n    top: 0;\n    left: 0;\n    display: block;\n    width: 214px;\n    height: 329px;\n    background-image: url(\"https://hhcdn.ru/ichameleon/289868.svg\");\n    background-repeat: no-repeat;\n    background-position: center;\n    background-size: 100% auto;\n}\n\nimg.tmpl_hh_head__logo {\n    width: 275px;\n}\n\n.tmpl_hh_about {\n    position: relative;\n    padding-left: 50px;\n    padding-right: 50px;\n}\n\n.tmpl_hh_about::before {\n    content: \"\";\n    position: absolute;\n    top: 27%;\n    right: 0;\n    display: block;\n    width: 181px;\n    height: 529px;\n    background-image: url(\"https://hhcdn.ru/ichameleon/289866.svg\");\n    background-repeat: no-repeat;\n    background-position: center;\n    background-size: 100% auto;\n}\n\n.tmpl_hh_about__wrapper {\n    padding-top: 50px;\n    padding-right: 50px;\n    padding-bottom: 30px;\n    padding-left: 50px;\n    background-color: #fff;\n}\n\n.tmpl_hh_about__text-wrapper {\n    margin-bottom: 30px;\n}\n\np.tmpl_hh_about__text {\n    color: #292929;\n    font-size: 16px;\n    line-height: 24px;\n}\n\np.tmpl_hh_about__text span {\n    font-weight: bold;\n    text-transform: uppercase;\n}\n\n.tmpl_hh_work {\n    position: relative;\n    padding-bottom: 40px;\n    padding-left: 50px;\n    padding-right: 50px;\n}\n\n.tmpl_hh_work::before,\n.tmpl_hh_work::after {\n    content: \"\";\n    position: absolute;\n    display: block;\n    background-repeat: no-repeat;\n    background-position: center;\n    background-size: 100% auto;\n}\n\n.tmpl_hh_work::after {\n    bottom: 0;\n    left: 0;\n    width: 506px;\n    height: 243px;\n    background-image: url(\"https://hhcdn.ru/ichameleon/289860.svg\");\n}\n\n.tmpl_hh_work::before {\n    right: 0;\n    bottom: 93px;\n    width: 141px;\n    height: 500px;\n    background-image: url(\"https://hhcdn.ru/ichameleon/289861.svg\");\n}\n\n.tmpl_hh_work__wrapper {\n    padding-top: 46px;\n    padding-right: 50px;\n    padding-bottom: 50px;\n    padding-left: 50px;\n    background-color: #fff;\n}\n\np.tmpl_hh_work__title {\n    margin-bottom: 48px;\n    padding: 0 10%;\n    text-align: center;\n    color: #224EA6;\n    font-size: 24px;\n    line-height: 29px;\n    font-weight: 700;\n}\n\nul.tmpl_hh_work__list {\n    display: grid;\n    margin-bottom: 40px;\n    list-style: none;\n    -webkit-column-gap: 40px;\n    -moz-column-gap: 40px;\n    column-gap: 40px;\n    row-gap: 53px;\n    grid-template-columns: repeat(2, 1fr);\n}\n\nli.tmpl_hh_work__item {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-orient: vertical;\n    -webkit-box-direction: normal;\n    -ms-flex-direction: column;\n    flex-direction: column;\n    -webkit-box-align: center;\n    -ms-flex-align: center;\n    align-items: center;\n}\n\n.tmpl_hh_work__icon-wrapper {\n    position: relative;\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-pack: center;\n    -ms-flex-pack: center;\n    justify-content: center;\n    -webkit-box-align: center;\n    -ms-flex-align: center;\n    align-items: center;\n    width: 70px;\n    height: 70px;\n    margin-bottom: 25px;\n}\n\n.tmpl_hh_work__icon-wrapper::before {\n    content: \"\";\n    position: absolute;\n    display: block;\n    width: 100%;\n    height: 100%;\n    -webkit-transform: rotate(45deg);\n    -ms-transform: rotate(45deg);\n    transform: rotate(45deg);\n}\n\nimg.tmpl_hh_work__icon {\n    position: relative;\n    z-index: 1;\n    width: 40px;\n}\n\np.tmpl_hh_work__item-text {\n    text-align: center;\n    font-size: 16px;\n    line-height: 24px;\n}\n\np.tmpl_hh_work__item-text span {\n    font-weight: bold;\n    text-transform: uppercase;\n}\n\n.tmpl_hh_work__item--1 .tmpl_hh_work__icon-wrapper::before {\n    background: #c2f1fe;\n}\n\n.tmpl_hh_work__item--2 .tmpl_hh_work__icon-wrapper::before {\n    background: #c2b8fd;\n}\n\n.tmpl_hh_work__item--3 .tmpl_hh_work__icon-wrapper::before {\n    background: #ffd7d9;\n}\n\n.tmpl_hh_work__item--4 .tmpl_hh_work__icon-wrapper::before {\n    background: #ffceed;\n}\n\np.tmpl_hh_work__text {\n    margin-bottom: 40px;\n    font-size: 16px;\n    line-height: 24px;\n}\n\np.tmpl_hh_work__text span {\n    font-weight: bold;\n    text-transform: uppercase;\n}\n\np.tmpl_hh_work__text span {\n    color: #224EA6;\n}\n\np.tmpl_hh_work__note {\n    font-size: 12px;\n    line-height: 18px;\n    color: #979797;\n}\n\n.tmpl_hh_content {\n    padding-left: 50px;\n    padding-right: 50px;\n    margin-left: 50px;\n    margin-right: 50px;\n    margin-bottom: 20px;\n    padding-bottom: 50px;\n    background-color: #fff;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    margin: 28px 0 27px;\n    font-size: 16px;\n    line-height: 24px;\n    color: #292929;\n}\n\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    display: inline-block;\n    font-weight: bold;\n    color: #224EA6;\n    font-weight: 700;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 27px;\n    padding-bottom: 1px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    font-size: 16px;\n    line-height: 24px;\n    color: #292929;\n}\n\n.tmpl_hh_content li:not(:last-child) {\n    margin-bottom: 12px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 10px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;\n}\n\n.tmpl_hh_content li:before {\n    content: \"\";\n    position: absolute;\n    left: -26px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"\";\n    width: 5px;\n    height: 5px;\n    border-radius: 50%;\n    background-color: #224EA6;\n    top: 11px;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter) \".\";\n}\n\n@media (max-width: 1019px) {\n    .tmpl_hh_wrapper {\n        background-size: cover;\n    }\n\n    .tmpl_hh_head {\n        margin-bottom: 20px;\n        padding-top: 20px;\n        padding-left: 0;\n    }\n\n    .tmpl_hh_head::before {\n        width: 84px;\n        height: 150px;\n        background-position: top;\n    }\n\n    img.tmpl_hh_head__logo {\n        width: 137px;\n    }\n\n    .tmpl_hh_about {\n        padding-left: 10px;\n        padding-right: 10px;\n    }\n\n    .tmpl_hh_about::before {\n        top: 50%;\n        width: 68px;\n        height: 215px;\n    }\n\n    .tmpl_hh_about__wrapper {\n        padding-top: 40px;\n        padding-right: 20px;\n        padding-bottom: 20px;\n        padding-left: 20px;\n    }\n\n    .tmpl_hh_about__text-wrapper {\n        margin-bottom: 20px;\n    }\n\n    p.tmpl_hh_about__text {\n        font-size: 14px;\n        line-height: 21px;\n    }\n\n    .tmpl_hh_work {\n        padding-left: 10px;\n        padding-right: 10px;\n    }\n\n    .tmpl_hh_work {\n        padding-bottom: 10px;\n    }\n\n    .tmpl_hh_work::after {\n        width: 219px;\n        height: 148px;\n        background-position: bottom;\n    }\n\n    .tmpl_hh_work::before {\n        right: 0;\n        bottom: 33%;\n        width: 46px;\n        height: 159px;\n    }\n\n    p.tmpl_hh_work__title {\n        font-size: 18px;\n        line-height: 22px;\n    }\n\n    p.tmpl_hh_work__title {\n        padding: 0;\n    }\n\n    p.tmpl_hh_work__item-text {\n        font-size: 14px;\n        line-height: 21px;\n    }\n\n    p.tmpl_hh_work__text {\n        font-size: 14px;\n        line-height: 21px;\n    }\n\n    .tmpl_hh_content {\n        margin-left: 10px;\n        margin-right: 10px;\n        padding-left: 20px;\n        padding-right: 20px;\n        margin-bottom: 10px;\n    }\n\n    .tmpl_hh_content p,\n    .tmpl_hh_content b,\n    .tmpl_hh_content strong {\n        font-size: 14px;\n        margin: 19px 0 18px;\n        line-height: 21px;\n    }\n\n    .tmpl_hh_content li {\n        font-size: 14px;\n        line-height: 21px;\n    }\n}\n\n@media (max-width: 699px) {\n    .tmpl_hh_work__wrapper {\n        padding-top: 35px;\n        padding-right: 20px;\n        padding-left: 20px;\n    }\n\n    p.tmpl_hh_work__title {\n        margin-bottom: 15px;\n    }\n\n    ul.tmpl_hh_work__list {\n        margin-bottom: 20px;\n        row-gap: 25px;\n        grid-template-columns: 1fr;\n    }\n\n    li.tmpl_hh_work__item {\n        position: relative;\n        display: grid;\n        min-height: 40px;\n        -webkit-box-align: start;\n        -ms-flex-align: start;\n        align-items: start;\n        padding-left: 59px;\n    }\n\n    .tmpl_hh_work__icon-wrapper {\n        position: absolute;\n        top: 8px;\n        left: 8px;\n        width: 35px;\n        height: 35px;\n    }\n\n    img.tmpl_hh_work__icon {\n        width: 20px;\n    }\n\n    p.tmpl_hh_work__item-text {\n        text-align: start;\n    }\n\n    p.tmpl_hh_work__text {\n        margin-bottom: 21px;\n    }\n}\n</style>\n\n<script>\n//\nfunction DOM_HH_Ready() {}\n\nif (document.readyState === \"loading\") {\n    document.addEventListener(\"DOMContentLoaded\", DOM_HH_Ready);\n} else {\n    DOM_HH_Ready();\n}\n//\n</script>\n\n\n    <div class=\"tmpl_hh_wrapper\">\n        <div class=\"tmpl_hh_head\">\n            <img src=\"https://hhcdn.ru/ichameleon/289869.png\" alt=\"\" class=\"tmpl_hh_head__logo\">\n        </div>\n\n        <div class=\"tmpl_hh_about\">\n            <div class=\"tmpl_hh_about__wrapper\">\n                <div class=\"tmpl_hh_about__text-wrapper\">\n                    <p class=\"tmpl_hh_about__text\"><span>МЫ СОЗДАЕМ</span> цифровые решения и цифровые\n                        новостные платформы.</p>\n                    <p class=\"tmpl_hh_about__text\"><span>МЫ ПОСТАВЛЯЕМ</span> продукты на базе больших данных\n                        и рекламных технологий.</p>\n                    <p class=\"tmpl_hh_about__text\">А также оптимизируем процессы для повышения эффективности\n                        бизнеса, поддерживаем импортозамещение, стремимся к цифровой зрелости.</p>\n                </div>\n                <img src=\"https://hhcdn.ru/ichameleon/289867.jpg\" alt=\"\" class=\"tmpl_hh_about__img\">\n            </div>\n        </div>\n        <div class=\"tmpl_hh_content\">\n        <p><strong>В Отделе тестирования Департамента по развитию и продвижению интернет-продуктов открыта вакансия Тестировщика (QA engineer).</strong></p> <p><strong>Обязанности:</strong></p> <ul> <li>Проведение функционального, регрессионного, интеграционного и других видов тестирования.</li> <li>Составление тест-кейсов, чек-листов, тест-планов.</li> <li>Выявление, документирование и отслеживание дефектов (баг-репорты).</li> <li>Работа с командой:</li> </ul> <ol> <li>Взаимодействие с разработчиками, аналитиками, менеджерами проектов.</li> <li>Участие в планировании спринтов и оценке сроков тестирования.</li> </ol> <ul> <li>Автоматизация (Будет плюсом):</li> </ul> <ol> <li>Написание и поддержка автотестов (для QA Automation Engineer).</li> <li>Интеграция тестов в CI/CD (GitLab CI).</li> </ol> <ul> <li>Документирование:</li> </ul> <ol> <li>Ведение отчетности по результатам тестирования.</li> <li>Анализ метрик качества продукта.</li> </ol> <ul> <li>Развитие процессов QA:</li> </ul> <ol> <li>Улучшение процессов тестирования.</li> <li>Исследование новых инструментов и методик.</li> </ol> <p><strong>Требования:</strong></p> <ul> <li>Высшее образование в сфере IT, математики (желательно).</li> <li>Опыт работы в тестировании ПО от 1 года( не учебный опыт).</li> <li>Знание основ тестирования (теория, виды, уровни, методы).</li> <li>Технические навыки:</li> </ul> <ol> <li>Понимание жизненного цикла разработки ПО (SDLC, STLC)</li> <li> <p>Опыт работы с системами баг-трекинга</p> <p>Знание SQL</p> </li> <li> <p>Базовые знания клиент-серверной архитектуры (HTTP/HTTPS, REST API, Postman/Swagger)</p> </li> <li> <p>Опыт работы с DevTools, Charles/Fiddler (для анализа сетевых запросов).</p> <p>Знание основ программирования (Python, Java, JavaScript или другого языка — плюс)</p> </li> </ol> <ul> <li> <p>QA-инструменты:</p> </li> </ul> <ol> <li>Опыт работы c системами управления тестированием</li> <li>Знание мобильного тестирования (Android/iOS, эмуляторы/реальные устройства)</li> <li>Опыт автоматизированного тестирования (Selenium, Cypress, Playwright — будет плюсом)</li> </ol> <ul> <li> <p>Личные качества:</p> </li> </ul> <ol> <li> <p>Внимательность к деталям, аналитическое мышление</p> </li> <li> <p>Умение работать в команде и с документацией</p> </li> <li> <p>Ответственность, инициативность, желание развиваться в QA</p> </li> </ol> <p><strong>Условия:</strong></p> <ul> <li> <p>Работа в крупнейшем медиахолдинге России.</p> </li> <li> <p>IT аккредитованная компания.</p> </li> <li> <p>Удалённый формат работы в пределах РФ.</p> </li> <li> <p>Заработная плата обсуждается по итогам собеседования с успешным кандидатом.</p> </li> <li>ДМС после испытательного срока.</li> <li> <p>Специальные условия страхования для членов семей сотрудников.</p> </li> <li> <p>Скидки в компаниях-партнерах (фитнес-центры, обучающие курсы, изучение иностранных языков и многое другое).</p> </li> <li> <p>Бесплатное онлайн-обучение на корпоративном портале и корпоративная библиотека.</p> </li> </ul></div>\n        <div class=\"tmpl_hh_work\">\n            <div class=\"tmpl_hh_work__wrapper\">\n                <p class=\"tmpl_hh_work__title\">Ключевые преимущества работы в НМГ Тех:</p>\n                <ul class=\"tmpl_hh_work__list\">\n                    <li class=\"tmpl_hh_work__item tmpl_hh_work__item--1\">\n                        <div class=\"tmpl_hh_work__icon-wrapper\">\n                        <img src=\"https://hhcdn.ru/ichameleon/289865.svg\" alt=\"\" class=\"tmpl_hh_work__icon\">\n                    </div>\n                        <p class=\"tmpl_hh_work__item-text\">работа в стратегической медиа отрасли</p>\n                    </li>\n\n                    <li class=\"tmpl_hh_work__item tmpl_hh_work__item--2\">\n                        <div class=\"tmpl_hh_work__icon-wrapper\">\n                        <img src=\"https://hhcdn.ru/ichameleon/289862.svg\" alt=\"\" class=\"tmpl_hh_work__icon\">\n                    </div>\n                        <p class=\"tmpl_hh_work__item-text\">причастность к созданию самых известных в стране медийных\n                            продуктов</p>\n                    </li>\n\n                    <li class=\"tmpl_hh_work__item tmpl_hh_work__item--3\">\n                        <div class=\"tmpl_hh_work__icon-wrapper\">\n                        <img src=\"https://hhcdn.ru/ichameleon/289864.svg\" alt=\"\" class=\"tmpl_hh_work__icon\">\n                        </div>\n                        <p class=\"tmpl_hh_work__item-text\">создание крутых ИТ продуктов и решений</p>\n                    </li>\n\n                    <li class=\"tmpl_hh_work__item tmpl_hh_work__item--4\">\n                        <div class=\"tmpl_hh_work__icon-wrapper\">\n                        <img src=\"https://hhcdn.ru/ichameleon/289863.svg\" alt=\"\" class=\"tmpl_hh_work__icon\">\n                        </div>\n                        <p class=\"tmpl_hh_work__item-text\">комфортная и вдохновляющая на созидание корпоративная\n                            культура</p>\n                    </li>\n                </ul>\n\n                <div class=\"tmpl_hh_work__footer\">\n                    <p class=\"tmpl_hh_work__text\"><span>ЖДЕМ ТЕБЯ В КОМАНДЕ НМГ ТЕХ</span> — российского\n                        разработчика новых информационных технологий для медиа индустрии, поставщика цифровых решений\n                        для традиционных медиа-бизнесов. Компания НМГ Тех была основана в 2020 году.</p>\n                    <p class=\"tmpl_hh_work__note\">ООО Медиа Бизнес Солюшенс представляет бренд НМГ Национальная Медиа\n                        Группа</p>\n                </div>\n\n            </div>\n        </div>\n    </div>\n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1449",
+    "name": "Медиа Бизнес Солюшенс",
+    "url": "https://api.hh.ru/employers/1449",
+    "alternate_url": "https://hh.ru/employer/1449",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/742037.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3409109.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3409110.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1449",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T12:02:31+0300",
+  "created_at": "2025-06-05T12:02:31+0300",
+  "initial_created_at": "2025-06-05T12:02:31+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121377277",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121377277",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

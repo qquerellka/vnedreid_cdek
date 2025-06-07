@@ -1,0 +1,214 @@
+{
+  "id": "121307125",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "QA инженер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": null,
+    "lng": null,
+    "description": null,
+    "raw": null,
+    "metro": {
+      "station_name": "Владимирская",
+      "line_name": "Кировско-Выборгская",
+      "station_id": "14.200",
+      "line_id": "14",
+      "lat": 59.927628,
+      "lng": 30.347898
+    },
+    "metro_stations": [
+      {
+        "station_name": "Владимирская",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.200",
+        "line_id": "14",
+        "lat": 59.927628,
+        "lng": 30.347898
+      },
+      {
+        "station_name": "Звенигородская",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.251",
+        "line_id": "18",
+        "lat": 59.92065,
+        "lng": 30.329599
+      },
+      {
+        "station_name": "Лиговский проспект",
+        "line_name": "Лахтинско-Правобережная",
+        "station_id": "17.239",
+        "line_id": "17",
+        "lat": 59.920811,
+        "lng": 30.355055
+      },
+      {
+        "station_name": "Обводный Канал",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.252",
+        "line_id": "18",
+        "lat": 59.914686,
+        "lng": 30.34815
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Мы - аккредитования IT компания WeRent.me </strong>разрабатываем сервис для посуточной аренды квартир. Мы искренне заботимся о пользовательском опыте, производительности, и простоте использования.</p> <p>В нашей команде — 8 человек:</p> <ul> <li> <p>3 fullstack-разработчика</p> </li> <li> <p>1 backend и 1 frontend разработчик</p> </li> <li> <p>инженер DevOps</p> </li> <li> <p>2 аналитика</p> </li> <li> <p>UX/UI-дизайнер</p> </li> </ul> <p>Сейчас мы ищем тестировщика, который <strong>будет не просто проверять баги</strong>, а <strong>поможет</strong> <strong>выстроит живую и масштабируемую систему тестирования</strong>.</p> <p><strong>С чем предстоит работать: </strong></p> <ul> <li>Тестирование <strong>frontend и backend</strong> частей веб-приложения</li> <li>локализация и заведение багов в Jira, проверка исправления обнаруженных дефектов;</li> <li>сбор и анализ требований к разработке нового функционала;</li> <li> <p><strong>Создание и поддержка структурированной системы тест-кейсов в Zephyr</strong> <strong>с акцентом на</strong> <strong>пользовательские сценарии </strong>и реальные пути использования, а не просто проверка UI по чек-листу;</p> </li> <li> <p>работа с вариативными данными, построение понятных предусловий, связей между кейсами и переиспользуемых шагов для обеспечения масштабируемости и прозрачности тестовой документации.</p> </li> </ul> <p><strong>Что нужно, чтобы попасть в команду: </strong></p> <ul> <li> <p><strong>коммерческий опыт тестирования от 1 года;</strong></p> </li> <li> <p>умение тестировать API, пользоваться Postman, работать со Swagger, писать SQL запросы;</p> </li> <li>опыт работы с системами управления тестирования и написания тест-кейсов, например Zephyr, Qase, TestRail, Xray или аналогичной TMS;</li> <li>опыт работы с DevTools, Postman, Jira, Zabbix, github actions;</li> <li>опыт работы в гибкой методологии Agile;</li> </ul> <p><strong>Приветствуется: </strong></p> <ul> <li>аналитические навыки, умение находить и устранять противоречия;</li> <li>английский язык на уровне чтения технической документации;</li> <li>желание разобраться в автоматизации тестирования(cypress для frontend, codeception для бэкенд)</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li> <p><strong>аккредитования IT-компания, оформление по ТК РФ</strong>;</p> </li> <li> <p><strong>реальная возможность профессионального роста в продуктовой разработке;</strong></p> </li> <li>полный рабочий день 5/2, работа из современного офиса<strong> </strong>в центре Петербурга, рядом с 5 станциям метро;</li> <li><strong>новейшая техника Apple + 5K монитор</strong>, и любые аксессуары для вашего удобства;</li> <li>нематериальный бонус: добрый и отзывчивый коллектив, открытый к новым сотрудникам.</li> </ul> <p><strong>Для тех кто читает вакансию:</strong><strong> </strong>в сопроводительном письме опишите пример функционала, который вы тестировали, приложите пример тестовой документации: тест-кейса, чек-листа, или пример баг-репорта.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Ручное тестирование"
+    },
+    {
+      "name": "Jira"
+    },
+    {
+      "name": "Postman"
+    },
+    {
+      "name": "Функциональное тестирование"
+    },
+    {
+      "name": "Agile"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Zephyr Scale"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Smoke-тестирование"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11669687",
+    "name": "Вирэнт",
+    "url": "https://api.hh.ru/employers/11669687",
+    "alternate_url": "https://hh.ru/employer/11669687",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1365361.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7081346.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7081347.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11669687",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T18:03:49+0300",
+  "created_at": "2025-06-03T18:03:49+0300",
+  "initial_created_at": "2025-06-03T18:03:49+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121307125",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121307125",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

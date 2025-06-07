@@ -1,0 +1,173 @@
+{
+  "id": "120593427",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист по информационной безопасности (ИБ)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 500000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 500000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>В группу компаний требуется высокоуровневый специалист по информационной безопасности. Головная управляющая компания, 5 дочерних компаний, предоставляющих разного вида услуги, офисы и объекты, расположенные в Москве, Прикамье и на Юге страны.</p> <p><strong>Обязанности:</strong></p> <ul> <li>Обеспечение защиты информационных активов компании;</li> <li>Мониторинг и предотвращение киберугроз, реагирование на инциденты ИБ;</li> <li>Разработка и внедрение политик, регламентов и мер защиты данных;</li> <li>Проведение аудитов безопасности, оценка уязвимостей и рисков;</li> <li>Контроль соблюдения требований регуляторов;</li> <li>Обучение сотрудников основам информационной безопасности;</li> <li>Взаимодействие с внешними подрядчиками и внутренними подразделениями по вопросам ИБ.</li> </ul> <strong>Требования:</strong> <ul> <li>Высшее образование в сфере информационной безопасности;</li> <li>Опыт работы в ИБ от 3-х лет;</li> <li>Знание и понимание сетевой модели OSI, основных протоколов</li> <li>Опыт работы с open-source решениями по ИБ, Linux-инфраструктурой, SIEM, DLP, антивирусными решениями, IDS/IPS;</li> <li>Понимание сетевых технологий и архитектур, опыт настройки межсетевых экранов (iptables, ufw, checkpoint т. д.), опыт анализа сетевого траффика;</li> <li>Опыт построения распределенных вычислительных сетей с использованием VPN и IPSec;</li> <li>Понимание принципов шифрования. Опыт использование средств шифрования данных;</li> <li>Опыт создания и эксплуатации корпоративного центра сертификации;</li> <li>Опыт написания технического задания для проведения пентестов, взаимодействия с подрядчиками, проводящими пентесты;</li> <li>Опыт реагирования на инциденты информационной безопасности, расследования и формирования отчётов;</li> <li>Опыт противодействия средствам социальной инженерии;</li> <li>Понимание принципов ИБ для мобильных устройств;</li> <li>Постоянное профессиональное развитие и отслеживание новостей в мире ИБ, современных методов ИБ;</li> <li>Стрессоустойчивость</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт создания документов, регулирующих вопросы обеспечения информационной безопасности в организации (регламенты, должностные инструкции и т.д.);</li> <li>Знание стандартов и frameworks (ISO 27001);</li> <li>Понимание о опыт применения PCI DSS</li> <li>Опыт прохождения проверок со стороны регуляторов (ФСТЭК, ФСБ, Роскомнадзор);</li> <li>Опыт подготовки документации и участия в процессе получения лицензий ФСТЭК и/или ФСБ организацией;</li> <li>Наличие сертификатов (CISSP, CISM, CEH или аналоги) и курсов повышения квалификации в сфере информационной безопасности;</li> <li>Знание актуальных нормативно-правовых актов регулирующих деятельность в сфере ИБ на территории РФ (149-ФЗ, 152-ФЗ, 98-ФЗ, 63-ФЗ и т. д.);</li> <li>Опыт работы с системами инженерно-технической защиты информации;</li> <li>Участие в конференциях по ИБ.</li> </ul> <strong>Условия:</strong> <ul> <li>Трудоустройство по ТК РФ;</li> <li>Высокий уровень оплаты труда;</li> <li>Честная, открытая и профессиональная рабочая атмосфера;</li> <li>График работы: полный рабочий день.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "SIEM"
+    },
+    {
+      "name": "DLP"
+    },
+    {
+      "name": "IDS"
+    },
+    {
+      "name": "IPS"
+    },
+    {
+      "name": "OpenVPN"
+    },
+    {
+      "name": "Информационная безопасность"
+    },
+    {
+      "name": "Управление информационной безопасностью"
+    },
+    {
+      "name": "Аудит информационной безопасности"
+    },
+    {
+      "name": "Разработка политики информационной безопасности"
+    },
+    {
+      "name": "Обеспечение антивирусной защиты"
+    },
+    {
+      "name": "Тестирование безопасности"
+    },
+    {
+      "name": "DPI"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "116",
+      "name": "Специалист по информационной безопасности"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4766231",
+    "name": "Кортекс",
+    "url": "https://api.hh.ru/employers/4766231",
+    "alternate_url": "https://hh.ru/employer/4766231",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/790616.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3603355.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3603356.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4766231",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-15T15:03:48+0300",
+  "created_at": "2025-05-15T15:03:48+0300",
+  "initial_created_at": "2025-05-15T15:03:48+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120593427",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120593427",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

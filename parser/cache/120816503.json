@@ -1,0 +1,167 @@
+{
+  "id": "120816503",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Full stack разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 80000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 80000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "Фабричная улица",
+    "building": "31",
+    "lat": 55.019155,
+    "lng": 82.911896,
+    "description": null,
+    "raw": "Новосибирск, Фабричная улица, 31",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Backend-разработчик (Laravel 11) / Лидер проекта в Новосибирске</strong></p> <p><br />Астроймаркет — цифровой сервис в сфере ремонта и строительства. Мы создали экосистему, объединяющую заказчиков, мастеров, поставщиков и производителей материалов через специализированные мобильные приложения:</p> <ul> <li> <p>Для клиентов: Полный цикл услуг &quot;под ключ&quot; — от выбора материалов до завершения ремонта.</p> </li> <li> <p>Для мастеров<strong>:</strong> Поток заявок на ремонтно-строительные работы.</p> </li> <li> <p>Для поставщиков<strong>:</strong> Маркетплейс для продажи строительных материалов.</p> </li> </ul> <p><strong>Ваша роль:</strong><br />Мы ищем талантливого и амбициозного <strong>Backend-разработчика из Новосибирска</strong> для усиления нашей команды. <strong>Для подходящего кандидата</strong> (с опытом лидерства) эта позиция включает возможность <strong>стать лидером проекта</strong> — взять на себя ответственность за его техническое развитие и координацию команды.</p> <p><strong>Ваши задачи:</strong></p> <ul> <li> <p>Разработка и поддержка backend-части продукта на <strong>Laravel 11 (PHP 8.х)</strong>.</p> </li> <li> <p>Участие в планировании спринтов и оценке задач.</p> </li> <li> <p>Обеспечение своевременного и качественного выполнения поставленных задач</p> </li> </ul> <p><strong>Наши ожидания:</strong></p> <ul> <li> <p>Опыт коммерческой разработки на <strong>Laravel от 1 года</strong>.</p> </li> <li> <p>Уверенное владение <strong>PHP 8.х</strong>.</p> </li> <li> <p>Опыт работы в команде, <strong>отличные коммуникативные навыки</strong>.</p> </li> <li> <p><strong>Ответственность</strong> и умение <strong>четко соблюдать дедлайны</strong></p> </li> <li> <p>Опыт взаимодействия с продукт-менеджерами </p> </li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li> <p><strong>Реальные, сложные и интересные задачи:</strong> Прямое влияние на бизнес-логику ключевого продукта рынка.</p> </li> <li> <p><strong>Работа в сильной продуктовой команде:</strong> Плотное взаимодействие для создания выдающегося сервиса.</p> </li> <li> <p><strong>Гибкий график:</strong> Выбор удобного формата работы: <strong>офис (Новосибирск) / гибридный</strong>.</p> </li> <li> <p><strong>Участие в инновационном проекте:</strong> Строим №1 сервис в своей нише.</p> </li> </ul> <p><strong>О нас:</strong><br />Мы — команда профессионалов, увлеченных созданием технологичных решений для строительной отрасли. Ценим креативность, ответственность и стремление к развитию. Присоединяйтесь, чтобы вместе строить великий продукт!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "Laravel"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "REST API"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "11871577",
+    "name": "АСтройМаркет",
+    "url": "https://api.hh.ru/employers/11871577",
+    "alternate_url": "https://hh.ru/employer/11871577",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11871577",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-21T13:06:39+0300",
+  "created_at": "2025-05-21T13:06:39+0300",
+  "initial_created_at": "2025-05-21T13:06:39+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120816503",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120816503",
+  "working_days": [],
+  "working_time_intervals": [
+    {
+      "id": "from_four_to_six_hours_in_a_day",
+      "name": "Можно сменами по 4-6 часов в день"
+    }
+  ],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FLEXIBLE",
+      "name": "Свободный"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_4",
+      "name": "4 часа"
+    },
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}
