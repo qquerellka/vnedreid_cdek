@@ -1,0 +1,129 @@
+{
+  "id": "120994576",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Backend разработчик (node.js)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Ломоносовский район",
+    "street": "территория Северная часть производственной зоны Горелово, 4-я улица",
+    "building": "9",
+    "lat": 59.78549,
+    "lng": 30.221015,
+    "description": null,
+    "raw": "Ломоносовский район, территория Северная часть производственной зоны Горелово, 4-я улица, 9",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>АГРОИМПЭКС</strong> сегодня - это:</p> <ul> <li>Крупнейший импортер орехов и сухофруктов для кондитерских производств РФ и СНГ. В каждой 2 конфете – наша продукция</li> <li>Собственный производственно-складской комплекс – ежемесячно перерабатываем 2 000 тонн</li> <li>Сеть региональных складов в 10 городах России</li> <li>Коллектив азартных единомышленников 240+ человек</li> </ul> <p><strong>МЫ ПРЕДЛАГАЕМ:</strong></p> <ul> <li>Окончательный уровень дохода обсуждается с успешным кандидатом</li> <li>График работы 5/2 с 9:30 до 18:00,<strong> гибридный график работы, <em>но важно нахождение в СПб</em></strong></li> <li>Развозка от/до м. Московская, м. Пр. Ветеранов, либо парковка на территории компании</li> <li>ДМС после испытательного срока (3 месяца)</li> <li>Дизайнерский офис, уютная кухня, чай, кофе, снэки</li> <li>Обучение, тренинги за счет компании</li> <li>Грамотное адекватное руководство</li> <li>Все социальные гарантии в соответствии с ТК РФ</li> <li>Скидки на продукцию компании</li> <li> <p>Яркие корпоративные мероприятия, подарки для сотрудников и их детей</p> </li> </ul> <p> </p> <p><strong>Back</strong><strong>-</strong><strong>end </strong><strong>разработчик</strong><strong> (node.js)</strong></p> <p>Для запуска, развития и перестроения текущей архитектуры под веб-проект требуется back-end разработчик. <strong><em>Обратите внимание </em></strong>- <strong>Текущий back-end написан на Java и в будущем будет перерабатываться на Node.js.</strong> Первоочередные задачи – это написание новых собственных микросервисов для реализации полного функционала проекта.</p> <p> </p> <p><strong>Базовые требования</strong></p> <p>Уверенные знания JavaScript/TypeScript</p> <p>Опыт написания микросервисов на Node.js</p> <p>Контейнеризация Docker</p> <p>Базы данных Postgres (необходимы знания SQL, особой специфики Postgres на текущий момент не задействовано)</p> <p>Версионирование Gitlab</p> <p> </p> <p><strong>Будет плюсом</strong></p> <p>Базовые знания Java</p> <p>Умение писать unit- и интеграционные тесты (Jest и тд)</p> <p>Знания Python</p> <p>Знание Docker и основ DevOps (CI/CD)</p> <p> </p> <p><strong>Общая архитектура проекта включает в себя</strong></p> <p>Front Angular.js</p> <p>Back Java (постепенно будем заменять на node.js/python)</p> <p>Backoffice 1С ERP</p> <p>Шина данных с брокером на Rabbit MQ</p> <p> </p>",
+  "branded_description": "\n<style>\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;    \n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n    line-height: inherit;\n    display: inline;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    display: inline;\n    margin: 0;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    font-family: Arial;\n    color: #000;\n    font-size: 16px;\n    line-height: 24px;\n    z-index: 1;\n    box-sizing: border-box;\n    overflow: hidden;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_content {\n    padding: 48px 40px 12px;\n    position: relative;\n    z-index: 1;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n   margin: 40px 0 20px;\n}\n\n.tmpl_hh_content b, \n.tmpl_hh_content strong {\n    display: inline-block;\n    font-size: 20px;\n    font-weight: 700;\n    line-height: 30px;\n    letter-spacing: 0.02em;\n    text-transform: uppercase;\n}\n\n.tmpl_hh_content i b, \n.tmpl_hh_content i strong,\n.tmpl_hh_content em b, \n.tmpl_hh_content em strong,\n.tmpl_hh_content b em, \n.tmpl_hh_content strong em,\n.tmpl_hh_content b i, \n.tmpl_hh_content strong i {\n    display: inline;\n    font-weight: 700;\n    font-style: normal;\n    font-size: 16px;\n    line-height: 24px;\n    letter-spacing: 0;\n    text-transform: none;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 25px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 12px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 12px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;    \n}\n\n.tmpl_hh_content li:before {\n    position: absolute;\n    left: -25px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"\";\n    width: 5px;\n    height: 5px;\n    top: 10px;\n    border-radius: 50%;\n    background: #000;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter)'.';\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n\n.tmpl_hh_flex {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n}\n\n.tmpl_hh_header {\n    position: relative;\n    background: #2D2D2D;\n}\n\n.tmpl_hh_header__photo {\n    font-size: 24px;\n    font-weight: 700;\n    line-height: 33.6px;\n    color: #fff;\n    text-transform: uppercase;\n    padding: 0 40px 41px;\n    width: calc(100% - 182px);\n    box-sizing: border-box;\n    background: url(https://hhcdn.ru/ichameleon/351145.jpg);\n    background-size: cover;\n    display: flex;\n    flex-wrap: wrap;\n    align-items: flex-end;\n    align-content: flex-end;\n}\n\n.tmpl_hh_header__photo p {\n    width: 100%;\n}\n\n.tmpl_hh_header__logo {\n    width: 169px;\n    margin-bottom: 16px;\n}\n\n.tmpl_hh_numbers {\n    width: 182px;\n    color: #fff;\n    box-sizing: border-box;\n    padding: 41px 12px 16px 26px;\n}\n\n.tmpl_hh_numbers__item {\n    font-size: 12px;\n    line-height: 16.8px;\n    margin-bottom: 27px;\n}\n\n.tmpl_hh_numbers__item b {\n    font-size: 32px;\n    line-height: 44.8px;\n    display: block;\n    margin-bottom: 1px;\n    font-weight: 400;\n}\n\n.tmpl_hh_numbers__item span {\n    font-size: 20px;\n    line-height: 0;\n}\n\n.tmpl_hh_numbers__item sup {\n    color: #959595;\n    line-height: 0;\n    font-size: 17px;\n}\n\np.tmpl_hh_footnote {\n    font-size: 10px;\n    line-height: 15px;\n    color: #AEAEAE;\n    margin: 0 0 0;\n}\n\n.tmpl_hh_logo {\n    width: 39px;\n    margin-bottom: 0;\n    flex-shrink: 0;\n}\n\n.tmpl_hh_slogan {\n    font-size: 26px;\n    font-weight: 700;\n    line-height: 36.4px;\n    text-transform: uppercase;\n    display: flex;\n    align-items: center;\n    justify-content: space-between;\n    margin: 36px 0 0;\n}\n\n.tmpl_hh_why {\n    background: #2D2D2D url(https://hhcdn.ru/ichameleon/351146.jpg);\n    background-repeat: no-repeat;\n    background-size: 100%;\n    color: #fff;\n    padding: 36.6% 61px 34px 40px;\n}\n\np.tmpl_hh_why__title {\n    font-size: 20px;\n    font-weight: 700;\n    line-height: 30px;\n    letter-spacing: 0.02em;\n    text-transform: uppercase;\n    margin-bottom: 24px;\n}\n\n.tmpl_hh_why__items.tmpl_hh_flex {\n    border-bottom: 1px solid #FFFFFF;\n    border-right: 1px solid #FFFFFF;\n}\n\n.tmpl_hh_why__item {\n    border: 1px solid #FFFFFF;\n    width: 33.33%;\n    box-sizing: border-box;\n    padding: 23px 16px 22px;\n    font-size: 16px;\n    line-height: 22.4px;\n    text-align: center;\n    border-bottom: none;\n    border-right: none;\n}\n\n.tmpl_hh_why__icon {\n    height: 32px;\n    margin-bottom: 17px;\n}\n\n.tmpl_hh_why__icon img {\n    width: auto;\n    height: 100%;\n    margin: 0 auto;\n}\n\n@media screen and (max-width: 1019px) {\n    .tmpl_hh_why {\n        padding: 36.6% 40px 34px 40px;\n    }\n\n    .tmpl_hh_slogan {\n        font-size: 22px;\n        line-height: 32.4px;\n    }\n}\n\n@media screen and (max-width: 699px) {\n    .tmpl_hh_wrapper {\n        width: auto;\n        margin: 0 -15px;\n    }\n\n    .tmpl_hh_content {\n        padding: 32px 31px 32px;\n    }\n\n    .tmpl_hh_content p,\n    .tmpl_hh_content b,\n    .tmpl_hh_content strong {\n       margin: 32px 0 20px;\n    }\n\n    .tmpl_hh_content b, \n    .tmpl_hh_content strong {\n        font-size: 18px;\n        line-height: 27px;\n    }\n\n    .tmpl_hh_content ol,\n    .tmpl_hh_content ul {\n        margin-left: 17px;\n    }\n\n    .tmpl_hh_content li:before {\n        left: -17px;\n    }\n\n    .tmpl_hh_header__photo {\n        font-size: 14px;\n        line-height: 19.6px;\n        padding: 54% 31px 18px;\n        width: 100%;\n        background: url(https://hhcdn.ru/ichameleon/351147.jpg);\n        background-size: cover;\n    }\n\n    .tmpl_hh_header__logo {\n        width: 105px;\n        margin-bottom: 12px;\n    }\n\n    .tmpl_hh_numbers {\n        width: 100%;\n        padding: 16px 27px 0px 31px;\n        box-sizing: border-box;\n        display: flex;\n        justify-content: space-between;\n        flex-wrap: wrap;\n    }\n\n    .tmpl_hh_numbers__item b {\n        margin-right: -20px;\n    }\n\n    .tmpl_hh_numbers__item:nth-child(4) b {\n        font-size: 30px;\n    }\n\n    .tmpl_hh_numbers__item {\n        margin-bottom: 17px;\n        width: 50%;\n        box-sizing: border-box;\n        padding: 0 20px 0 0;\n    }\n\n    .tmpl_hh_numbers__item:nth-child(3), .tmpl_hh_numbers__item:nth-child(4) {\n        margin-bottom: 14px;\n    }\n\n    .tmpl_hh_logo {\n        width: 53px;\n        margin-bottom: 0;\n    }\n\n    .tmpl_hh_slogan {\n        font-size: 20px;\n        line-height: 28px;\n        margin: 32px 0 0;\n    }\n\n    .tmpl_hh_why {\n        background: #2D2D2D url(https://hhcdn.ru/ichameleon/351148.jpg);\n        background-repeat: no-repeat;\n        background-size: 100%;\n        padding: 65.7% 16px 32px;\n    }\n\n    p.tmpl_hh_why__title {\n        margin-left: 15px;\n    }\n\n    .tmpl_hh_why__item {\n        width: 50%;\n        padding: 23px 20px 23.5px;\n        font-size: 12px;\n        line-height: 16.8px;\n    }\n\n    .tmpl_hh_why__icon {\n        height: 24px;\n        margin-bottom: 17px;\n    }\n}\n\n</style>\n\n<div class=\"tmpl_hh_wrapper\">\n    <div class=\"tmpl_hh_header tmpl_hh_flex\">\n        <div class=\"tmpl_hh_header__photo\">\n            <div class=\"tmpl_hh_header__logo \"><img src=\"https://hhcdn.ru/ichameleon/351155.svg\" alt=\"\"></div>\n            <p>Удовлетворенность<br> сотрудников – наш приоритет</p>\n        </div>\n        <div class=\"tmpl_hh_numbers\">\n            <div class=\"tmpl_hh_numbers__item\"><p><b>30</b>лет на рынке</p></div>\n            <div class=\"tmpl_hh_numbers__item\"><p><b>200+</b>сотрудников</p></div>\n            <div class=\"tmpl_hh_numbers__item\"><p><b>6+ <span>лет</span></b>средний срок работы</p></div>\n            <div class=\"tmpl_hh_numbers__item\"><p><b>ТОП 100<sup>*</sup></b>крупнейших компаний</p></div>\n        </div>\n    </div>\n    <div class=\"tmpl_hh_content\">\n        <p><strong>АГРОИМПЭКС</strong> сегодня - это:</p> <ul> <li>Крупнейший импортер орехов и сухофруктов для кондитерских производств РФ и СНГ. В каждой 2 конфете – наша продукция</li> <li>Собственный производственно-складской комплекс – ежемесячно перерабатываем 2 000 тонн</li> <li>Сеть региональных складов в 10 городах России</li> <li>Коллектив азартных единомышленников 240+ человек</li> </ul> <p><strong>МЫ ПРЕДЛАГАЕМ:</strong></p> <ul> <li>Окончательный уровень дохода обсуждается с успешным кандидатом</li> <li>График работы 5/2 с 9:30 до 18:00,<strong> гибридный график работы, <em>но важно нахождение в СПб</em></strong></li> <li>Развозка от/до м. Московская, м. Пр. Ветеранов, либо парковка на территории компании</li> <li>ДМС после испытательного срока (3 месяца)</li> <li>Дизайнерский офис, уютная кухня, чай, кофе, снэки</li> <li>Обучение, тренинги за счет компании</li> <li>Грамотное адекватное руководство</li> <li>Все социальные гарантии в соответствии с ТК РФ</li> <li>Скидки на продукцию компании</li> <li> <p>Яркие корпоративные мероприятия, подарки для сотрудников и их детей</p> </li> </ul> <p> </p> <p><strong>Back</strong><strong>-</strong><strong>end </strong><strong>разработчик</strong><strong> (node.js)</strong></p> <p>Для запуска, развития и перестроения текущей архитектуры под веб-проект требуется back-end разработчик. <strong><em>Обратите внимание </em></strong>- <strong>Текущий back-end написан на Java и в будущем будет перерабатываться на Node.js.</strong> Первоочередные задачи – это написание новых собственных микросервисов для реализации полного функционала проекта.</p> <p> </p> <p><strong>Базовые требования</strong></p> <p>Уверенные знания JavaScript/TypeScript</p> <p>Опыт написания микросервисов на Node.js</p> <p>Контейнеризация Docker</p> <p>Базы данных Postgres (необходимы знания SQL, особой специфики Postgres на текущий момент не задействовано)</p> <p>Версионирование Gitlab</p> <p> </p> <p><strong>Будет плюсом</strong></p> <p>Базовые знания Java</p> <p>Умение писать unit- и интеграционные тесты (Jest и тд)</p> <p>Знания Python</p> <p>Знание Docker и основ DevOps (CI/CD)</p> <p> </p> <p><strong>Общая архитектура проекта включает в себя</strong></p> <p>Front Angular.js</p> <p>Back Java (постепенно будем заменять на node.js/python)</p> <p>Backoffice 1С ERP</p> <p>Шина данных с брокером на Rabbit MQ</p> <p> </p><p class=\"tmpl_hh_footnote\">* Рейтинг компаний Ленинградской области (по выручке), Информационное агентство Интерфакс, 2023 год</p>\n   </div>\n    <div class=\"tmpl_hh_why\">\n        <p class=\"tmpl_hh_why__title\">Почему мы:</p>\n        <div class=\"tmpl_hh_why__items tmpl_hh_flex\">\n            <div class=\"tmpl_hh_why__item\">\n                <div class=\"tmpl_hh_why__icon\"><img src=\"https://hhcdn.ru/ichameleon/351154.svg\" alt=\"\"></div>\n                <p>Страхование сотрудников</p>\n            </div>\n            <div class=\"tmpl_hh_why__item\">\n                <div class=\"tmpl_hh_why__icon\"><img src=\"https://hhcdn.ru/ichameleon/351152.svg\" alt=\"\"></div>\n                <p>Яркие праздники</p>\n            </div>\n            <div class=\"tmpl_hh_why__item\">\n                <div class=\"tmpl_hh_why__icon\"><img src=\"https://hhcdn.ru/ichameleon/351153.svg\" alt=\"\"></div>\n                <p>Обучение, наставничество, тренинги</p>\n            </div>\n            <div class=\"tmpl_hh_why__item\">\n                <div class=\"tmpl_hh_why__icon\"><img src=\"https://hhcdn.ru/ichameleon/351150.svg\" alt=\"\"></div>\n                <p>Подарки для сотрудников и их детей</p>\n            </div>\n            <div class=\"tmpl_hh_why__item\">\n                <div class=\"tmpl_hh_why__icon\"><img src=\"https://hhcdn.ru/ichameleon/351151.svg\" alt=\"\"></div>\n                <p>Корпоративная развозка</p>\n            </div>\n            <div class=\"tmpl_hh_why__item\">\n                <div class=\"tmpl_hh_why__icon\"><img src=\"https://hhcdn.ru/ichameleon/351149.svg\" alt=\"\"></div>\n                <p>Уютный дизайнерский офис</p>\n            </div>\n        </div>\n        <div class=\"tmpl_hh_slogan\">\n            <p>Присоединяйся к нашей команде!</p>\n            <div class=\"tmpl_hh_logo\"><img src=\"https://hhcdn.ru/ichameleon/351156.svg\" alt=\"\"></div>\n        </div>\n    </div>\n</div> \n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3688665",
+    "name": "АГРОИМПЭКС",
+    "url": "https://api.hh.ru/employers/3688665",
+    "alternate_url": "https://hh.ru/employer/3688665",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/892873.png",
+      "90": "https://img.hhcdn.ru/employer-logo/4012179.png",
+      "240": "https://img.hhcdn.ru/employer-logo/4012180.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3688665",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-26T17:25:34+0300",
+  "created_at": "2025-05-26T17:25:34+0300",
+  "initial_created_at": "2025-05-26T17:25:34+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120994576",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120994576",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

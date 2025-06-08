@@ -1,0 +1,180 @@
+{
+  "id": "121422133",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Бизнес-аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 80000,
+    "to": 180000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 80000,
+    "to": 180000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "улица Маяковского",
+    "building": "25А",
+    "lat": 56.864138,
+    "lng": 60.620058,
+    "description": null,
+    "raw": "Екатеринбург, улица Маяковского, 25А",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Группа Строительных Компаний «Реформа» (ГСК «REформа»)</strong> - входит в ТОП-3 крупнейших демонтажных компаний России. Мы работаем с 1998 года и реализуем проекты по всей стране. В числе наших клиентов крупнейшие корпорации, холдинги и государственные структуры: «Роснефть», «Газпром», «Транснефть», «Норильский никель», «РМК», «РУСАЛ», «Интер РАО», «РусГидро», «Росатом», «Ростех», «РЖД» и многие другие.</p> <p>Приглашаем в команду кандидатов на новую вакансию: <strong>Бизнес-аналитик.</strong></p> <p>Мы готовы вести диалог с кандидатом, который имеет опыт работы бизнес-аналитиком, методологом в крупным промышленных предприятиях, где есть полный цикл: производство, продажи, сервис.</p> <p><strong>Обязанности:</strong></p> <ul> <li>Моделирование бизнес-процессов ( AS Is - To Be)</li> <li>Описание бизнес-процессов, выявление потенциальных и/или текущих проблем</li> <li>Разработка предложений по оптимизации бизнес-процессов</li> <li>Взаимодействие с участниками бизнес-процессов для выявления потребностей</li> <li>Разработка внутренней нормативной документации</li> <li>Разработка планов на внедрение и автоматизацию бизнес-процессов</li> <li>Постановка задач ИТ-отделу, взаимодействие и контроль выполнения</li> <li>Участие в инсталляции настройке, тестировании</li> <li>Консультирование заинтересованных лиц по процессам компании</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Опыт работы бизнес-аналитиком;</li> <li>Знание методологий, нотаций и стандартов моделирования бизнес-процессов, практические навыки работы;</li> <li>Аналитический склад ума;</li> <li>Уверенный пользователь ПК (MS Office, Microsoft Project, PowerPoint,Visio);</li> <li>Опыт работы в Business Studio, 1C, Битрикс 24;</li> <li>Развитые коммуникативные навыки; Грамотная устная и письменная речь</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Официальное трудоустройство</li> <li>Работа в г. Екатеринбург, Маяковского 25 А</li> <li>Оплата сотовой связи, командировочные расходы, соцпакет.</li> <li>Ожидания по заработной плате и условиям вознаграждения обсуждаются при собеседовании. Мы готовы на достойную оплату профессионалов и взаимовыгодное сотрудничество. Готовы рассмотреть перспективных кандидатов с небольшим опытом работы</li> <li>Дружелюбный офис (кофе, чай), корпоративный читательский билет в Литрес, корпоративы и другие активности, ДМС после испытательного срока</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Управление проектами"
+    },
+    {
+      "name": "MS PowerPoint"
+    },
+    {
+      "name": "MS Project"
+    },
+    {
+      "name": "Оптимизация бизнес-процессов"
+    },
+    {
+      "name": "Моделирование бизнес процессов"
+    },
+    {
+      "name": "3D Studio Max"
+    },
+    {
+      "name": "Computer Vision"
+    },
+    {
+      "name": "Разработка бизнес-требований"
+    },
+    {
+      "name": "Разработка технических заданий"
+    },
+    {
+      "name": "Приемочное тестирование"
+    },
+    {
+      "name": "Бизнес-анализ"
+    },
+    {
+      "name": "Моделирование бизнес-процессов"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "10",
+      "name": "Аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1962141",
+    "name": "Ремонтно-Строительная группа",
+    "url": "https://api.hh.ru/employers/1962141",
+    "alternate_url": "https://hh.ru/employer/1962141",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1272859.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6711746.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6711747.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1962141",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T14:05:59+0300",
+  "created_at": "2025-06-06T14:05:59+0300",
+  "initial_created_at": "2025-06-06T14:05:59+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121422133",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121422133",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,137 @@
+{
+  "id": "119839462",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист поддержки L1 (IT, чаты)",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 40000,
+    "to": 50000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 40000,
+    "to": 50000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Привет! Мы<strong> </strong>— продуктовая <strong>IT компания Keepcode</strong> — команда изобретателей, которая на протяжении 9 лет превращает идеи в цифровые продукты, которыми пользуются миллионы пользователей по всему миру. Мы любим разрабатывать крутые штуки, делать это умно и весело.</p> <p>В связи с ростом проекта и увеличением количества пользователей и обращений в support на проекте мы расширяем отдел и ищем <strong>специалиста поддержки на 1-ю линию.</strong></p> <p>Если тебе нравится узнавать продукт &quot;от и до&quot;, помогать пользователям со всего мира, находить ответы на всевозможные вопросы, и решать возникающие сложности - мы будем рады видеть тебя в команде!</p> <p><strong>Мы подходим друг другу, если:</strong></p> <p>- у тебя уже есть опыт работы в поддержке от 6 месяцев;<br />- понимаешь проблемы пользователей и готов объяснять сложное - “простым языком”;<br />- ты готов погружаться в технические особенности продукта, а мы со своей стороны поможем;<br />- тебе интересно развиваться в поддержке и расти во 2ю-3ю линии.</p> <p><strong>Твоими задачами будут:</strong></p> <p>- Работа в графике день - 3/2 c 8:30 до 19:30 мск.<br />- Регистрация обращений пользователей в тикет-системе Jivo.<br />- Обработка обращений пользователей в соответствии с установленными сценариями и стандартами качества обслуживания.<br />- Перенаправление обращений/заявок пользователей к соответствующим специалистам для решения проблемы.<br />- Анализ аварийных ситуаций каналов связи и оповещение специалистов для решения возникшей проблемы.<br />- Умение погружаться в запрос пользователя, искать проблему и предлагать решение.<br /><br /><strong>Мы готовы предложить:</strong></p> <p>- Полную удаленку по всему миру (график с 8:30 до 19:30 мск).<br />- С первого дня наставника, который будет плавно погружать в задачи.<br />- Работу в коллективе, где выстроены доверительные отношения с взаимоподдержкой.<br />- Через полгода возможность роста внутри отдела поддержи.<br />- Корпоративный английский 2 раза в неделю.<br />- Митапы, коточетверги, и множество других объединяющих мероприятий для того, чтобы каждый удаленный сотрудник чувствовал себя частью команды</p> <p><strong>Готов начать?</strong></p> <p>Скорее <strong>отправляй свой отклик</strong> и начни работать с нами в команде <strong>Keepcode</strong>!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Техническая поддержка"
+    },
+    {
+      "name": "Грамотная письменная речь"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3992497",
+    "name": "Keepcode",
+    "url": "https://api.hh.ru/employers/3992497",
+    "alternate_url": "https://hh.ru/employer/3992497",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1031437.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5746508.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5746509.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3992497",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-19T12:25:31+0300",
+  "created_at": "2025-05-19T12:25:31+0300",
+  "initial_created_at": "2025-04-22T19:24:41+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119839462",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119839462",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "THREE_ON_TWO_OFF",
+      "name": "3/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_11",
+      "name": "11 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

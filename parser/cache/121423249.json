@@ -1,0 +1,154 @@
+{
+  "id": "121423249",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Специалист технической поддержки",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 100000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "улица Мнёвники",
+    "building": "10к1",
+    "lat": 55.773398,
+    "lng": 37.49453,
+    "description": null,
+    "raw": "Москва, улица Мнёвники, 10к1",
+    "metro": {
+      "station_name": "Народное Ополчение",
+      "line_name": "Большая кольцевая линия",
+      "station_id": "97.806",
+      "line_id": "97",
+      "lat": 55.77592,
+      "lng": 37.485073
+    },
+    "metro_stations": [
+      {
+        "station_name": "Народное Ополчение",
+        "line_name": "Большая кольцевая линия",
+        "station_id": "97.806",
+        "line_id": "97",
+        "lat": 55.77592,
+        "lng": 37.485073
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Наша Игра- лидер хоккейного ритейла.</strong></p> <p><strong>Успех нашей компании</strong> - это люди, ставшие частью нашей команды. Мы заботимся о каждом и даём отличную возможность реализовать себя.<br /><br /><em><strong>Мы на рынке более 9 лет и продолжаем расти.</strong></em><br />Сейчас мы наращиваем свой кадровый потенциал и открываем вакансию<em> <strong>Специалиста технической поддержки</strong></em><strong><em>.</em></strong></p> <p> </p> <p><strong>Обязанности:</strong></p> <p>- Обработка заявок пользователей (по телефону, email, через систему тикетов) и решение технических проблем;</p> <p>- Установка, настройка и поддержка компьютерного оборудования (ПК, принтеры, сканеры, телефония);</p> <p>- Установка, обновление и настройка операционных систем и программного обеспечения;</p> <p>- Диагностика и устранение неисправностей, связанных с компьютерной техникой и программами;</p> <p>- Настройка и поддержка сетевого оборудования (Wi-Fi, маршрутизаторы, коммутаторы);</p> <p>- Обучение сотрудников работе с корпоративными IT-системами и программами;</p> <p>- Ведение учета оборудования и ПО, участие в их инвентаризации;</p> <p>- Своевременная передача более сложных проблем на следующий уровень поддержки (эскалация);</p> <p>- Сопровождение процесса резервного копирования данных</p> <p> </p> <p><strong>Требования:</strong></p> <p>- Опыт работы на аналогичной должности от 1 года;</p> <p>- Опыт работы с ОС Windows (на уровне администратора), знание базовых команд Linux будет преимуществом:</p> <p>- Опыт установки и настройки офисного оборудования (принтеры, сканеры, телефония)</p> <p> </p> <p><strong>Условия:</strong></p> <p>- Официальное оформление по ТК РФ;</p> <p>- График работы: Пн- пт 10:00 - 19:00;</p> <p>- Офис в шаговой доступности от м. Народное Ополчение. Необходимы выезды для решения ИТ вопросов на другие подразделения компании в пределах Москвы;</p> <p>- Плавный ввод в должность с наставником;</p> <p>- Карьерный рост, корпоративное обучение и развитие.</p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "5147998",
+    "name": "НАША ИГРА",
+    "url": "https://api.hh.ru/employers/5147998",
+    "alternate_url": "https://hh.ru/employer/5147998",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1042065.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5789016.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5789017.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5147998",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T14:29:51+0300",
+  "created_at": "2025-06-06T14:29:51+0300",
+  "initial_created_at": "2025-06-06T14:29:51+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121423249",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121423249",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

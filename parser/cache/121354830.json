@@ -1,0 +1,161 @@
+{
+  "id": "121354830",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Middle/Middle+ разработчик (Node.JS)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 230000,
+    "to": 270000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 230000,
+    "to": 270000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Привет! Наши друзья из Поинтер расширяют команду :)</p> <p><strong>Поинтер </strong>- B2B web-платформа для локального маркетинга и геопродвижения, позволяющая актуализировать данные и отслеживать отзывы в поиске Яндекс.Картах и Яндекс.Поиске, Картах и Поиске Google, 2ГИС, соцсетях и еще более чем на 30 платформах.</p> <p>Продукт помогает клиентам увеличивать выручку за счет роста трафика, растить клиентское счастье и репутацию, а также анализировать конкурентов.</p> <p> </p> <p>Сейчас мы в поиске <em><strong>Middle/Middle+ разработчика на (Node.js)</strong></em></p> <p><strong>Стек проекта:</strong> Node.js. Golang, TypeScript, React, MySQL, ClickHouse, PostreSQL, RabbitMQ, Ansible, Github Actions</p> <p><strong>Основные задачи: </strong></p> <ul> <li> <p>Реализация задач разработки с обязательным тестированием результатов;</p> </li> <li> <p>Активное вовлечение в регулярные командные активности (планирования, ретроспективы и проч.);</p> </li> <li> <p>Проведение код-ревью для поддержания высоких стандартов качества кода;</p> </li> <li> <p>Участие в поддержке production-окружения и оперативное решение возникающих проблем;</p> </li> <li> <p>Выявление и автоматизация рутинных операций для повышения эффективности;</p> </li> <li> <p>Совместная работа с опытными коллегами для обмена знаниями и опытом.</p> </li> </ul> <p><strong>Ожидания от кандидата:</strong></p> <ul> <li>Опыт коммерческой разработки на стеке Node.js от 3 лет;</li> <li>Уверенные навыки SQL и опыт работы с MySQL/PostgreSQL/ClickHouse;</li> <li>Умение работать с брокерами сообщений (RabbitMQ) и строить SOA;</li> <li>Инициативность, самостоятельность и умение искать решение для нетиповых задач;</li> <li>Умение брать на себя ответственность за работу от начала до конца.</li> </ul> <p><strong>Будет плюсом: </strong></p> <ul> <li>Опыт разработки на Go;</li> <li>Навыки fullstack-разработки, знание React и его экосистемы;</li> <li>Умение работать с Ansible и Github Actions;</li> <li>Опыт разработки парсеров/скрейпиров/краулеров, интеграции с внешними системами API;</li> <li>Опыт работы с картами (Яндекс, Google, 2ГИС и тп) и площадками для отзывов. </li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Оформление по ТК РФ (где бы ты ни находился) с удаленным форматом работы;</li> <li>Работа в аккредитованной IT-компании;</li> <li>Корпоративная техника для работы (при необходимости);</li> <li>Возможность внешнего обучения за счет компании;</li> <li>Никаких таймтрекеров, уверены, что секрет нашей эффективности в другом. </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Node.js"
+    },
+    {
+      "name": "Golang"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Clickhouse"
+    },
+    {
+      "name": "RabbitMQ"
+    },
+    {
+      "name": "SOA"
+    },
+    {
+      "name": "Ansible"
+    },
+    {
+      "name": "GitHub"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2769379",
+    "name": "Доксинбокс",
+    "url": "https://api.hh.ru/employers/2769379",
+    "alternate_url": "https://hh.ru/employer/2769379",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/448708.png",
+      "90": "https://img.hhcdn.ru/employer-logo/2236799.png",
+      "240": "https://img.hhcdn.ru/employer-logo/2236800.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2769379",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T18:44:20+0300",
+  "created_at": "2025-06-04T18:44:20+0300",
+  "initial_created_at": "2025-06-04T18:44:20+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121354830",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121354830",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

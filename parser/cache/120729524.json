@@ -1,0 +1,147 @@
+{
+  "id": "120729524",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Java-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Звёздный бульвар",
+    "building": "19с1",
+    "lat": 55.812054,
+    "lng": 37.625981,
+    "description": null,
+    "raw": "Москва, Звёздный бульвар, 19с1",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<div> <p><strong>Почему IT-специалисты выбирают AIT.LAB?</strong></p> <p><strong>AIT.LAB</strong> — это не просто работодатель, а сообщество более 500 технологических специалистов, где комфорт, развитие и стабильность становятся частью повседневной работы. Мы — резиденты «Сколково», сотрудничаем с 30+ крупными компаниями в финтехе и инвестициях и предлагаем проекты, которые соответствуют вашему стеку, интересам и ритму жизни.</p> <p>Сейчас у нашего партнера открыта позиция – Java-разработчик.</p> </div> <div> </div> <div><strong>Ваша зона ответственности</strong>:</div> <ul> <li>Интеграция микросервисов через REST API, Kafka.</li> <li>Разработка микросервисов на базе Spring Boot и Spring Cloud.</li> <li>Участие в код-ревью.</li> <li>Участие в разработке архитектурных решений.</li> </ul> <div><strong>Необходимые навыки</strong>:</div> <ul> <li>Опыт разработки на Java 8+ или Kotlin (Spring, Spring Boot).</li> <li>Опыт проектирования и разработки REST API.</li> <li>Опыт работы с микросервисной архитектурой (Spring Cloud, Kubernetes/Openshift).</li> <li>Опыт работы с Docker и K8S.</li> <li>Опыт написания unit и интеграционных тестов (Junit, Spring Boot Test, Test Containers, Wire Mock).</li> </ul> <p><strong>Опыт работы с 5+ из следующих технологий:</strong></p> <ul> <li>NoSQL (MongoDB, Elasticsearch)</li> <li>SQL (PostgreSQL, Oracle)</li> <li>Брокеры сообщений (Kafka, RabbitMQ)</li> <li>Reactive programming (RxJava, Project Reactor, Coroutine)</li> <li>Cache (Redis, Hazelcast)</li> <li>CI/CD (GitlabCI, Jenkins)</li> <li>Мониторинг (Zabbix, Prometheus)</li> <li>Логирование (Graylog, ELK).</li> <li>Умение работать в команде и поддерживать качество кода.</li> </ul> <div><strong>Мы предлагаем</strong>:</div> <ul> <li>Полностью удалённый формат.<br />(Хочешь — работай из дома. Хочешь — приходи в офис по настроению).</li> <li>Гибкий старт дня: с 9:00 до 10:00 по МСК.</li> <li>Техника: выдаем необходимую технику или можешь работать на своём оборудовании.</li> <li>Компенсация использования ДМС или расходов на спорт.</li> <li>2 дня off в первый год, 5 дней — со второго.</li> <li>Материальная поддержка в особые моменты.</li> <li>Бессрочный трудовой договор по ТК РФ или иной формат по согласованию.</li> <li>28 дней отпуска + оплачиваемые больничные.</li> <li>Современный стек, отсутствие легаси, долгосрочные проекты.</li> <li>Нет &quot;разрыва&quot; между задачами: при завершении проекта мы заранее подбираем следующий.</li> <li>Карьерный трек внутри компании.</li> <li>Индивидуальная работа: подготовка резюме, подсветка достижений, помощь в переговорах с заказчиком.</li> </ul> <p><strong>Откликайся скорее, будем рады видеть тебя в своей команде!</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Java"
+    },
+    {
+      "name": "Spring Boot"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Spring Cloud"
+    },
+    {
+      "name": "Apache Kafka"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11921719",
+    "name": "Аналитика ИТ Лаб",
+    "url": "https://api.hh.ru/employers/11921719",
+    "alternate_url": "https://hh.ru/employer/11921719",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1416148.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7284248.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7284249.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11921719",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-19T19:30:44+0300",
+  "created_at": "2025-05-19T19:30:44+0300",
+  "initial_created_at": "2025-05-19T19:30:44+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120729524",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120729524",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

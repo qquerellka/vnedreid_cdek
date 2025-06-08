@@ -1,0 +1,128 @@
+{
+  "id": "121326356",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Ведущий программист Битрикс 1C, +API интеграции",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "99",
+    "name": "Уфа",
+    "url": "https://api.hh.ru/areas/99"
+  },
+  "salary": {
+    "from": 140000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 140000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Здравствуйте, в связи с большим количеством резюме, просим внимательно ознакомиться тк устали уже отклонять:<br />- мы не ищем просто Python разработчика<br />- опыт работы с фреимворками PHP нам не достаточен<br />- нужен опытный специалист который глубокого знает Битрикс 1С, которого не нужно ничему учить на этой платформе<br />- имеет опыт разработки крупных интернет магазинов с большим количество SKU<br />- знает и использовал на практике рабочие подходы для управления таким крупными каталогами каталогами, как их оптимизировать по производительности и удобству.<br />- мы не работаем с Битрикс 24, не считаем эти знания релевантными Битриксу 1С.<br /><br />Мы — in-house команда, развивающая собственные eCommerce-проекты (интернет-магазины, логистика, интеграции). Не агентство. Работаем быстро, без бюрократии, напрямую. В команду ищем опытного Bitrix-разработчика, способного решать задачи архитектурного и интеграционного уровня.</p> <p>Обязанности:</p> <ul> <li> <p>Разработка и сопровождение проектов на платформе <strong>1С-Битрикс</strong> (frontend и backend).</p> </li> <li> <p>Интеграции с внешними сервисами: 1С, маркетплейсы, CRM, платёжные системы, логистика.</p> </li> <li> <p>Разработка и сопровождение API-обменов на <strong>PHP и Python</strong>.</p> </li> <li> <p>Настройка и доработка модулей, компонентов, шаблонов, highload-блоков.</p> </li> <li> <p>Оптимизация производительности, реализация кешей, cron-задач.</p> </li> <li> <p>Отладка и тестирование API-интеграций через <strong>Postman</strong>.</p> </li> <li> <p>Взаимодействие с внутренней командой: дизайнер, контент, продукт, SEO.</p> </li> </ul> <p>Требования:</p> <ul> <li> <p>Опыт коммерческой разработки на 1С-Битрикс <strong>от 3 лет</strong>.</p> </li> <li> <p>Отличное знание архитектуры Bitrix: D7, ядро, инфоблоки, highload-блоки, компоненты, кеши.</p> </li> <li> <p>PHP — на уровне высоком уровне</p> </li> <li> <p>JavaScript — уверенное знание для доработок и написания логики.</p> </li> <li> <p>Опыт работы с REST и SOAP API (авторизация, обмены, обработка ошибок).</p> </li> <li> <p>Умение писать <strong>Python-скрипты</strong> для интеграций и автоматизации.</p> </li> <li> <p>Уверенная работа с <strong>Postman</strong> (отладка, авторизация, сценарии).</p> </li> <li> <p>Опыт работы с Git, SSH, понимание работы в Linux-среде.</p> </li> <li> <p><strong>Высокая самостоятельность:</strong> если что-то неясно — вы сами уточняете и доводите задачу до конца.</p> </li> </ul> <p>Будет плюсом:</p> <ul> <li> <p>Опыт работы с API <strong>Wildberries, Ozon, Яндекс.Маркет, RetailCRM, Google Tables</strong>.</p> </li> <li> <p>Настройка и оптимизация обменов с <strong>1С:Предприятием 8</strong>.</p> </li> <li> <p>Работа с Excel/CSV-обменами: массовые шаблоны, загрузки, импорты/экспорты.</p> </li> <li> <p>Написание <strong>консольных скриптов (PHP/Python)</strong> для выполнения по <strong>cron</strong>.</p> </li> <li> <p>Навыки ручной отладки обменов, логирования, диагностики.</p> </li> <li> <p>Опыт работы с внешними БД, особенно <strong>ClickHouse</strong> — подключение, запросы, аналитика.</p> </li> <li> <p>Работа с консолью Linux серверов: <strong>nginx, php-fpm, cron</strong>, работа по <strong>SSH</strong>.</p> </li> </ul> <p>Условия:</p> <ul> <li> <p><strong>Удалённая работа</strong>, постоянная загрузка, долгосрочное сотрудничество.</p> </li> <li> <p>График: <strong>пн–пт, 10:00–18:00 МСК</strong>.</p> </li> <li> <p>Работа в <strong>in-house команде</strong> без посредников.</p> </li> <li> <p>Прямое участие в архитектуре и развитии проектов.</p> </li> <li> <p>Уровень дохода обсуждается индивидуально по результатам тестового задания и собеседования.</p> </li> </ul> <p>Если вы умеете <strong>самостоятельно решать задачи, брать ответственность и приводить проекты к результату</strong> — мы ищем именно вас.<br /><strong>Тестовое задание — обязательно.</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4354203",
+    "name": "Коршунов Валерий Григорьевич",
+    "url": "https://api.hh.ru/employers/4354203",
+    "alternate_url": "https://hh.ru/employer/4354203",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4354203",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T10:54:46+0300",
+  "created_at": "2025-06-04T10:54:46+0300",
+  "initial_created_at": "2025-06-04T10:54:46+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121326356",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121326356",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

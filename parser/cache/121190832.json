@@ -1,0 +1,174 @@
+{
+  "id": "121190832",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Fullstack-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 350000,
+    "to": 450000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 350000,
+    "to": 450000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>О компании и команде</strong></p> <p>Мы — продуктовая IT-компания из России. Более 10 лет успешно запускаем и развиваем собственные проекты в разных нишах.</p> <p>Раньше занимались веб-разработкой на заказ, но постепенно выросли из формата веб-студии и полностью перешли на создание и развитие собственных продуктов.</p> <p>Работаем удалённо и приглашаем в команду только сильных специалистов, которым интересно решать нестандартные и сложные задачи.</p> <p> </p> <p><strong>Необходимые навыки:</strong></p> <ul> <li>Умение работать с чужим кодом</li> <li>NodeJS</li> <li>TypeScript</li> <li>SQL, PostgreSQL (опыт работы с транзакциями)</li> <li>Redis</li> <li>React</li> <li>Vite</li> <li>Docker-compose</li> <li>Docker</li> <li>Gitlab runners</li> <li>Тесты на jest</li> <li>REST API</li> </ul> <p><strong>Условия работы</strong></p> <p>Удаленная работа. +/- Свободный график.</p> <p>Выплаты каждые 2 недели в рублях или крипте.</p> <p><strong>Дополнительные инструкции</strong></p> <p>Будьте готовы выполнить тестовое задание.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Node.js"
+    },
+    {
+      "name": "TypeScript"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Redis"
+    },
+    {
+      "name": "React"
+    },
+    {
+      "name": "Docker-compose"
+    },
+    {
+      "name": "GitLab CI"
+    },
+    {
+      "name": "REST API"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4820623",
+    "name": "Веб-студия Круглый Квадрат",
+    "url": "https://api.hh.ru/employers/4820623",
+    "alternate_url": "https://hh.ru/employer/4820623",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/898460.png",
+      "90": "https://img.hhcdn.ru/employer-logo/4034527.png",
+      "240": "https://img.hhcdn.ru/employer-logo/4034528.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4820623",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T09:36:31+0300",
+  "created_at": "2025-06-07T09:36:31+0300",
+  "initial_created_at": "2025-06-01T09:36:31+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121190832",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121190832",
+  "working_days": [],
+  "working_time_intervals": [
+    {
+      "id": "from_four_to_six_hours_in_a_day",
+      "name": "Можно сменами по 4-6 часов в день"
+    }
+  ],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_6",
+      "name": "6 часов"
+    },
+    {
+      "id": "HOURS_7",
+      "name": "7 часов"
+    },
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

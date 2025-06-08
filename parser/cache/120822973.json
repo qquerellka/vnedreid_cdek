@@ -1,0 +1,125 @@
+{
+  "id": "120822973",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "улица Ткачей",
+    "building": "25",
+    "lat": 56.816848,
+    "lng": 60.631296,
+    "description": null,
+    "raw": "Екатеринбург, улица Ткачей, 25",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong><em>Основой Acons Development является команда высококвалифицированных специалистов в областях девелопмента, проектирования и строительства сложных инфраструктурных сооружений.</em></strong></p> <p><em><strong>Мы приглашаем Вас стать частью нашей профессиональной команды!</strong></em></p> <p><strong>Обязанности:</strong></p> <ul> <li>Разработка и проведение комплексных исследований;</li> <li>Оценка ситуации и прогноз развития рынка недвижимости: ключевые показатели, тренды, влияние микро- и макроэкономических показателей;</li> <li>Детализированный анализ рынка жилья в локации: предложение и спрос (объемы, выбытие, квартирография, цены);</li> <li>Анализ конкурентного окружения - мониторинговый отчет;</li> <li>Разработка продуктовых характеристик жилого комплекса и формирование продуктовой матрицы локации;</li> <li>Подготовка технического задания на квартирографию будущего проекта;</li> <li>Аудит готовых планировочных решений и рекомендации по повышению ликвидности;</li> <li>Участие в ценообразовании и планировании продаж.</li> </ul> <strong>Требования:</strong>​​​​​​ <ul> <li>Высшее образование в области маркетинга, математики, экономики;</li> <li>Опыт работы в аналогичной должности - от 2-х лет;</li> <li>Знание Excel на уровне сводных таблиц и формул;</li> <li>Способность к анализу и выводам;</li> <li>Понимание основных процессов и принципов ценообразования и определения ассортимента;</li> <li>Опыт проведения или обработки мониторингов .</li> </ul> <p> </p> <strong>Условия:</strong> <ul> <li>Трудоустройство в одной из крупнейшей строительной компании Уральского региона с современными проектами г. Екатеринбурга;</li> <li>Трудоустройство в соответствии с ТК РФ;</li> <li>Современный комфортный офис у парка в БЦ Clever park;</li> <li>Заработная плата обсуждается на собеседовании, рассматриваем ожидания кандидатов;</li> <li>График 5/2, work-life balance;</li> <li>Корпоративные мероприятия для сотрудников, расширенный соц.пакет, парковка.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "10",
+      "name": "Аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4864941",
+    "name": "Аконс Девелопмент",
+    "url": "https://api.hh.ru/employers/4864941",
+    "alternate_url": "https://hh.ru/employer/4864941",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1329919.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6939694.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6939695.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4864941",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-21T14:42:56+0300",
+  "created_at": "2025-05-21T14:42:56+0300",
+  "initial_created_at": "2025-05-21T14:42:56+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120822973",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120822973",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

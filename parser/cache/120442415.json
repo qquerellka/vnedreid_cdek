@@ -1,0 +1,166 @@
+{
+  "id": "120442415",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист по работе с приложениями (Академгородок)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 53000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 53000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "микрорайон Академгородок, Инженерная улица",
+    "building": "20",
+    "lat": 54.854035,
+    "lng": 83.112202,
+    "description": null,
+    "raw": "Новосибирск, микрорайон Академгородок, Инженерная улица, 20",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>ТИОН</strong> – это группа научно-исследовательских, производственных и торговых компаний, обеспечивающих полный цикл создания современных высокотехнологичных продуктов в области умной и энергоэффективной вентиляции, очистки и обеззараживания воздуха, мониторинга и управления микроклиматом в помещениях.</p> <p> </p> <p>Сотрудников <strong>ТИОН</strong> объединяет открытость, желание развиваться и менять мир к лучшему. Мы верим, что наука может изменить мир и что на основе передовых научных разработок можно создавать полезные для людей устройства и сервисы!</p> <p> </p> <p>Мы приглашаем в команду в команду<strong> СПЕЦИАЛИСТА ПО РАБОТЕ С ПРИЛОЖЕНИЯМИ.</strong></p> <p> </p> <p><strong>Чем Вам предстоит заниматься:</strong></p> <ul> <li>Прием входящих обращений.</li> <li>Предоставление онлайн консультаций по вопросам, возникающим в процессе эксплуатации устройств и мобильных приложений.</li> <li>Помощь в регистрации пользователей в мобильных приложениях и подключении устройств.</li> <li>Выполнение координирующей роли в организации сервиса:</li> </ul> <p>1. Контроль за своевременностью всех этапов возникающих сервисных случаев.</p> <p>2. Оповещение клиентов о ходе решения вопроса.</p> <p> </p> <p><strong>Ждем от Вас:</strong></p> <ul> <li>Готовность работать в технической сфере.</li> <li>Желателен опыт координации работ и взаимодействия с клиентами.</li> <li>Желателен опыт работы с приложениями и сетевым оборудованием.</li> <li>Грамотная устная и письменная речь.</li> <li>Доброжелательность и ответственность.</li> <li>Приверженность к ценностям, нормам и стандартам компании, ориентация на достижение результата, уважение к себе и окружающим.</li> </ul> <p> </p> <p><strong>Наши условия:</strong></p> <ul> <li>Комфортное рабочее место в технологическом сердце Академгородка – <em>Технопарке по адресу ул. Инженерная, 20.</em></li> <li>Сменный график работы: <strong>2/2 с 10-00 до 22-00.</strong> <strong>Вечером доставка домой на корпоративном такси.</strong></li> </ul> <p> </p> <p><strong>Оставляйте отклик на вакансию, будем рады знакомству!</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": {
+    "id": 42973,
+    "name": "Брендированный шаблон 1",
+    "top_picture": {
+      "height": 560,
+      "width": 1540,
+      "path": "https://img.hhcdn.ru/branding-pictures/2871359.jpeg",
+      "blurred_path": null
+    },
+    "bottom_picture": {
+      "height": 704,
+      "width": 1540,
+      "path": "https://img.hhcdn.ru/branding-pictures/2871366.jpeg",
+      "blurred_path": null
+    }
+  },
+  "key_skills": [
+    {
+      "name": "Пользователь ПК"
+    },
+    {
+      "name": "Грамотная речь"
+    },
+    {
+      "name": "Работа с клиентами"
+    },
+    {
+      "name": "Грамотная письменная речь"
+    },
+    {
+      "name": "Техническая поддержка"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1068711",
+    "name": "Тион, системы очистки воздуха",
+    "url": "https://api.hh.ru/employers/1068711",
+    "alternate_url": "https://hh.ru/employer/1068711",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/235832.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/1386005.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/1386006.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1068711",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-21T04:47:04+0300",
+  "created_at": "2025-05-21T04:47:04+0300",
+  "initial_created_at": "2025-05-13T07:33:21+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120442415",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120442415",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

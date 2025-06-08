@@ -1,0 +1,141 @@
+{
+  "id": "121311203",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Консультант 1С (КА)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "улица Петухова",
+    "building": "51А",
+    "lat": 54.946752,
+    "lng": 82.873816,
+    "description": null,
+    "raw": "Новосибирск, улица Петухова, 51А",
+    "metro": {
+      "station_name": "Площадь Маркса",
+      "line_name": "Ленинская",
+      "station_id": "52.301",
+      "line_id": "52",
+      "lat": 54.982931,
+      "lng": 82.89313
+    },
+    "metro_stations": [
+      {
+        "station_name": "Площадь Маркса",
+        "line_name": "Ленинская",
+        "station_id": "52.301",
+        "line_id": "52",
+        "lat": 54.982931,
+        "lng": 82.89313
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "project",
+    "name": "Проектная работа"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Для усиления действующей команды одного из направлений требуется Консультант 1С на проектную работу.</p> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Трудоустраиваем за день и только по ТК РФ;</li> <li>Полностью белую зарплату;</li> <li>Работу без KPI и тайм-трекингов;</li> <li>Современное рабочее место, кофемашины, плюшки.</li> </ul> <p><strong>Твои задачи - это:</strong></p> <ul> <li>Обучение конечных пользователей использованию систем на базе 1С;</li> <li>Консультирование пользователей;</li> <li>Настройка рабочих мест;</li> <li>Технический разбор инцидентов.</li> </ul> <p><strong>Мы ожидаем, что у тебя есть:</strong></p> <ul> <li>Высшее образование (ИТ, математика, экономика);</li> <li>Опыт работы консультантом 1С от одного года;</li> <li>Знание назначения, методологии, специфики типовых конфигураций 1С (КА, УТ, БП, ДО).</li> <li>Опыт постановки оперативных задач программистам;</li> <li>Опыт разбора проблем в учете с пользователями.</li> </ul> <p><strong>Будет преимуществом:</strong></p> <ul> <li>Желание развиваться в данной области;</li> <li>Навыки общения с пользователями, коммуникабельность, доброжелательность;</li> <li>неравнодушие!</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "150",
+      "name": "Бизнес-аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2816982",
+    "name": "Скайвэй",
+    "url": "https://api.hh.ru/employers/2816982",
+    "alternate_url": "https://hh.ru/employer/2816982",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1423782.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7314777.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7314778.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2816982",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T11:55:09+0300",
+  "created_at": "2025-06-05T11:55:09+0300",
+  "initial_created_at": "2025-06-04T05:12:27+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121311203",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121311203",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "PROJECT",
+    "name": "Проект или разовое задание"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

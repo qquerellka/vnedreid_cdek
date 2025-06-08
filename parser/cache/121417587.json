@@ -1,0 +1,184 @@
+{
+  "id": "121417587",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист технической поддержки",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": null,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "1-й Магистральный тупик",
+    "building": "5А",
+    "lat": 55.766131,
+    "lng": 37.531954,
+    "description": null,
+    "raw": "Москва, 1-й Магистральный тупик, 5А",
+    "metro": {
+      "station_name": "Беговая",
+      "line_name": "Таганско-Краснопресненская",
+      "station_id": "7.18",
+      "line_id": "7",
+      "lat": 55.773505,
+      "lng": 37.545518
+    },
+    "metro_stations": [
+      {
+        "station_name": "Беговая",
+        "line_name": "Таганско-Краснопресненская",
+        "station_id": "7.18",
+        "line_id": "7",
+        "lat": 55.773505,
+        "lng": 37.545518
+      },
+      {
+        "station_name": "Шелепиха",
+        "line_name": "МЦК",
+        "station_id": "95.538",
+        "line_id": "95",
+        "lat": 55.7575,
+        "lng": 37.525556
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Golden Goose</strong><em> — </em><em>это не просто команда, это </em><strong>международная движуха</strong><em>, которая монетизирует мобильный трафик и создает свои собственные IT-продукты! Мы растём, как на дрожжах, и сейчас нам нужен</em> <strong>Саппорт-менеджер </strong><strong>для нашей международной mVAS-платформы.</strong></p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li> <p>Отвечать на вопросы наших пользователей на русском и английском языках (примерно 100 обращений в день, ИИ в помощь!).</p> </li> <li> <p>Использовать ChatGPT как настоящего боевого товарища для решения вопросов.</p> </li> <li> <p>Поддерживать коммуникации на высшем уровне: быстро, понятно и с душой. Люди должны чувствовать, что за экраном живой человек, а не бот :)</p> </li> <li> <p>Разбираться в CPA-сетях и мобильных офферах.</p> </li> <li> <p>Организовывать свою работу так, чтобы все было в порядке, а хаоса меньше.</p> </li> </ul> <p><strong>Кто нам нужен:</strong></p> <ul> <li> <p>Человек, который умеет не только слушать, но и слышать.</p> </li> <li> <p>Тот, кто учится на лету и не боится новых задач.</p> </li> <li> <p>Важен хороший уровень английского (В1-B2)!</p> </li> <li> <p>Важна самостоятельность, желание погружаться в детали.</p> </li> <li> <p>Приветствуется опыт работы в техподдержке (крипта, gambling). Если ты ранее работал с арбитражем- этот опыт будет большим+</p> </li> <li> <p>Системный и технически подкованный: будем рады, если ты уже знаешь, как работают мобильные офферы и CPA-сети.</p> </li> </ul> <p><strong>Что предлагаем:</strong></p> <ul> <li> <p><strong>Комфортный офис</strong> — у нас уютная атмосфера и даже можно отдохнуть на перерывах (фрукты, «печеньки», чай/кофе за наш счет).</p> </li> <li> <p><strong>Отсутствие бюрократии</strong> — никаких лишних бумажек и нескончаемых согласований.</p> </li> <li> <p>З/п до 150 000руб на руки+ оформление по ТК РФ (самозанятость, ИП тоже возможны).</p> </li> <li> <p><strong>Лояльное руководство</strong> — всегда поддержат и помогут.</p> </li> <li> <p><strong>Работа</strong> <strong>из офиса</strong> (5 минут на транспорте от м. Полежаевская или корпоративный шаттл от м. Беговая). Пешая доступность от м. Беговая (15 минут пешком).</p> </li> <li> <p>И да, у нас <strong>дружная и позитивная команда</strong>, где всегда найдется место для смеха и хорошего настроения!</p> </li> </ul> <p> </p> <p> </p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Английский язык"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3569117",
+    "name": "ГОЛДЕНГУС",
+    "url": "https://api.hh.ru/employers/3569117",
+    "alternate_url": "https://hh.ru/employer/3569117",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/946294.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/4225712.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/4225713.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3569117",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T12:32:43+0300",
+  "created_at": "2025-06-06T12:32:43+0300",
+  "initial_created_at": "2025-06-06T12:32:43+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121417587",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121417587",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b2",
+        "name": "B2 — Средне-продвинутый"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

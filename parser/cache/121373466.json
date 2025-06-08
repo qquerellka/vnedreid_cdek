@@ -1,0 +1,130 @@
+{
+  "id": "121373466",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "C++ разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 150000,
+    "to": 350000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 150000,
+    "to": 350000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Более 15 лет в IT. Работа с госучреждениями, финансовым сектором и технологическими компаниями. Уникальные проекты в сфере микросервисов и высоконагруженных систем.<br /><br />Задачи:</p> <p>• Разработка и сопровождение ПО для серверных систем на C++;</p> <p>• Внедрение современных технологий и архитектур;</p> <p>• Взаимодействие с аналитиками, инженерами и разработчиками ПО.</p> <p>Требования:</p> <p>• Уверенное знание C++ (11+);</p> <p>• Алгоритмы данных;</p> <p>• Опыт работы с Linux и Gitlab;</p> <p>• Хорошие знания английского языка.</p> <p>Будет плюсом:</p> <p>• Опыт с протоколами (I2C, SPI, UART);</p> <p>• Разработка многопоточных/асинхронных приложений;</p> <p>• Знание STL, Boost, Asio;</p> <p>• Чтение электрических схем.</p> <p>Мы предлагаем:</p> <p>• Работа в аккредитованной IT-компании;</p> <p>• Достойная зарплата (обсуждается на финале);</p> <p>• Оформление по ТК РФ, график 5/2;</p> <p>• Современный офис в центре Москвы;</p> <p>• ДМС, оплачиваемые обеды, профессиональный рост.</p> <p>Ключевые навыки: C++, Embedded, Linux, Git, ООП, ARM, микроконтроллеры.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4759060",
+    "name": "HR Prime",
+    "url": "https://api.hh.ru/employers/4759060",
+    "alternate_url": "https://hh.ru/employer/4759060",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1400210.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7220611.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7220612.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4759060",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T11:08:11+0300",
+  "created_at": "2025-06-05T11:08:11+0300",
+  "initial_created_at": "2025-06-05T11:08:11+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121373466",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121373466",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

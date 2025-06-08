@@ -1,0 +1,171 @@
+{
+  "id": "120573610",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор 1 линии поддержки (старший)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 100000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Заозёрная улица",
+    "building": "8",
+    "lat": 59.907185,
+    "lng": 30.323603,
+    "description": null,
+    "raw": "Санкт-Петербург, Заозёрная улица, 8",
+    "metro": {
+      "station_name": "Технологический институт 1",
+      "line_name": "Кировско-Выборгская",
+      "station_id": "14.202",
+      "line_id": "14",
+      "lat": 59.916512,
+      "lng": 30.318485
+    },
+    "metro_stations": [
+      {
+        "station_name": "Технологический институт 1",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.202",
+        "line_id": "14",
+        "lat": 59.916512,
+        "lng": 30.318485
+      },
+      {
+        "station_name": "Технологический институт 2",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.219",
+        "line_id": "15",
+        "lat": 59.916512,
+        "lng": 30.318485
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Мы - ИТ-аутсорсинг, аккредитованная ИТ-компания. Ищем в команду человека, который разделит наши ценности - заботы о клиентах, построения надёжных ИТ-инфраструктур, чёткой работы по стандартам и непрерывного совершенствования технических скиллов.</p> <p>Суть работы - 1 линия поддержки ИТ-сервисов клиентов - юридических лиц - обработка заявок в тикет-системе, удалённая помощь пользователям и некоторый дополнительный функционал.</p> <p>Очень подходит тем, кто хочет &quot;прокачаться&quot; в системном администрировании.</p> <p><strong>Чем вы будете заниматься:</strong></p> <ul> <li> <p>Основное - удалённое решение заявок пользователей, касающихся:</p> <ul> <li> <p>ОС Windows 10/11</p> </li> <li> <p>широкого спектра офисного ПО и оборудования</p> </li> <li> <p>Алертов от системы мониторинга Zabbix</p> </li> <li> <p>Редкие (не каждый месяц даже) выезды на аварии</p> </li> <li> <p>Наполнением базы знаний</p> </li> </ul> </li> <li> <p>Дополнительный функционал</p> <ul> <li> <p>Координация графика выездов</p> </li> <li> <p>Внедрение небольших новых клиентов</p> </li> <li> <p>Ведение склада</p> </li> <li> <p>Администрирование хранилища дистрибутивов</p> </li> <li> <p>Администрирование Wiki (базы знаний), поддержание порядка и общей методологии</p> </li> <li> <p>Обучение новых сотрудников 1й линии</p> </li> <li> <p>Контроль показателей работы по отчётам, &quot;зависших&quot; заявок</p> </li> </ul> </li> </ul> <p><strong>Условия:</strong></p> <ul> <li> <p>ЗП: оклад + премиальная часть</p> </li> <li> <p>Корпоративная моб. связь.</p> </li> <li> <p>Испытательный срок 3 месяца</p> </li> <li> <p>Чай, кофе, микроволновка, окно, дверь, печеньки-конфеты, холодильник в офисе</p> </li> <li> <p>Минимум бюрократии</p> </li> <li> <p>Наставничество опытных товарищей</p> </li> <li> <p>Есть подробная документация по всем клиентам и чек-листы типовых операций</p> </li> </ul> <p><strong>Чего мы ждём:</strong></p> <ul> <li> <p>Опыт работы в ИТ от двух лет</p> </li> <li> <p>Опыт работы с AD, Hyper-V, терминальными серверами, IP-телефонией</p> </li> <li> <p>Доброжелательность к пользователям</p> </li> </ul> <p><strong>Вашими преимуществами будут:</strong></p> <ul> <li> <p>Работа в инфраструктурах 100+ пользователей</p> </li> <li> <p>Опыт работы с кассовым оборудованием, подключенным к 1С</p> </li> <li> <p>Опыт наставничества</p> </li> </ul> <p><strong>Личные качества, нужные в работе:</strong></p> <ul> <li> <p>Коммуникабельность (умение уверенно, но не самоуверенно, а также вежливо общаться; объяснить свою мысль несколько раз, терпеливо упрощая ответ, если пользователю не понятно с первого раза).</p> </li> <li> <p>Желание решать возникающие проблемы и доводить работу до конца.</p> </li> <li> <p>Способность и желание обучаться (быть обучаемым) и прогрессировать в понимании ИТ.</p> </li> <li> <p>Ответственность (осознание последствий своих действий).</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9980346",
+    "name": "АйХелпАйТи",
+    "url": "https://api.hh.ru/employers/9980346",
+    "alternate_url": "https://hh.ru/employer/9980346",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1361003.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/7063922.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/7063923.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9980346",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-15T10:33:52+0300",
+  "created_at": "2025-05-15T10:33:52+0300",
+  "initial_created_at": "2025-05-15T10:33:52+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120573610",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120573610",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

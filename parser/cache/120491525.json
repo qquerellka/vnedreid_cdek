@@ -1,0 +1,204 @@
+{
+  "id": "120491525",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Фронтенд разработчик React",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 150000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 150000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": null,
+    "building": null,
+    "lat": 59.938784,
+    "lng": 30.314997,
+    "description": null,
+    "raw": "Санкт-Петербург",
+    "metro": {
+      "station_name": "Адмиралтейская",
+      "line_name": "Фрунзенско-Приморская",
+      "station_id": "18.258",
+      "line_id": "18",
+      "lat": 59.935867,
+      "lng": 30.31523
+    },
+    "metro_stations": [
+      {
+        "station_name": "Адмиралтейская",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.258",
+        "line_id": "18",
+        "lat": 59.935867,
+        "lng": 30.31523
+      },
+      {
+        "station_name": "Гостиный двор",
+        "line_name": "Невско-Василеостровская",
+        "station_id": "16.229",
+        "line_id": "16",
+        "lat": 59.933933,
+        "lng": 30.33341
+      },
+      {
+        "station_name": "Невский проспект",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.217",
+        "line_id": "15",
+        "lat": 59.935421,
+        "lng": 30.327052
+      },
+      {
+        "station_name": "Сенная площадь",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.218",
+        "line_id": "15",
+        "lat": 59.927135,
+        "lng": 30.320316
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Открыт подбор специалиста в корпоративный проект по развитию информационно-аналитической системы интеллектуальной обработки и визуализации данных. Проект включает в себя разработку новых веб-приложений и развитие имеющихся (DAU &gt; 1000).</p> <p>Требуется разработчик, способный самостоятельно с нуля спроектировать и разработать фронтенд для информационной системы с расширенной интерактивной логикой по вводу, редактированию и отображению информации со сложной структурой.</p> <p><strong>Обязанности:</strong></p> <ul> <li>Разработка UI/UX в с соответствии с бизнес-требованиями, предъявляемых к модели данных и функционалу</li> <li>Участие в разработке API взаимодействия с серверной частью.</li> <li>Регулярное обсуждение и корректировка текущих задач и планов.</li> </ul> <p><strong>Требования (базовые):</strong></p> <ul> <li>(Обязательно) Опыт коммерческой разработки не менее 3 лет</li> <li>Опыт участия в аналогичных проектах на ведущих позициях</li> <li>Frontend: React, Hilla</li> <li>Typescript</li> <li>другие связанные компетенции (полный стек еще на этапе формирования)</li> <li>Выполнение тестового задания</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Объем выполняемой работы и компенсация согласовывается по результатам собеседования после определения уровня квалификации и опыта;</li> <li>Работа в офисе (<strong>Санкт-Петербург</strong>);</li> <li>Оформление по ТК;</li> <li>соц.пакет;</li> <li>Полная занятость.</li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "TypeScript"
+    },
+    {
+      "name": "UI"
+    },
+    {
+      "name": "UX"
+    },
+    {
+      "name": "API"
+    },
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "React"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5416328",
+    "name": "ЦОМИА ИНФО ПРО",
+    "url": "https://api.hh.ru/employers/5416328",
+    "alternate_url": "https://hh.ru/employer/5416328",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/852649.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3851471.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3851472.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5416328",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-13T17:17:43+0300",
+  "created_at": "2025-05-13T17:17:43+0300",
+  "initial_created_at": "2025-05-13T17:17:43+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120491525",
+  "has_test": true,
+  "test": {
+    "required": true
+  },
+  "alternate_url": "https://hh.ru/vacancy/120491525",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

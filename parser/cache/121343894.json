@@ -1,0 +1,165 @@
+{
+  "id": "121343894",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Специалист технической поддержки",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "улица Обручева",
+    "building": "30/1с2",
+    "lat": 55.656189,
+    "lng": 37.526169,
+    "description": null,
+    "raw": "Москва, улица Обручева, 30/1с2",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "shift",
+    "name": "Сменный график"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <ul> <li>поддержка и развитие инфраструктуры Windows\\Linux;</li> <li>взаимодействие с пользователями в части решения задач подразделения;</li> <li>поддержка пользователей банка;</li> <li>модернизация и обновление ПК пользователей;</li> <li>участие в разработке и выполнение проектов автоматизации Банка;</li> <li>оформление технической документации;</li> <li>прием и отправка отчетности ЦБ РФ;</li> <li>участие в модификации информационных систем и тестировании внедряемого программного обеспечения</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>знание ОС линейки Windows на уровне администратора;</li> <li>опыт написания скриптов для автоматизации процессов администрирования;</li> <li>опыт самостоятельного решения конкретных IT проблем;</li> <li>базовые знания ITIL.</li> </ul> <strong>Условия:</strong> <ul> <li>График работы 2/2. На срок испытания 5/2. </li> <li>Оформление по ТК РФ;</li> <li>10 минут пешком от ст. м. Калужская;</li> <li>ДМС и НС после испытательного срока</li> <li>Дотация на питание 400 рублей в день</li> <li>Командный дух и приятные коллеги</li> <li>Насыщенная корпоративная жизнь</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Английский язык"
+    },
+    {
+      "name": "Windows 7"
+    },
+    {
+      "name": "Информационные технологии"
+    },
+    {
+      "name": "MS Visio"
+    },
+    {
+      "name": "Администрирование серверов Windows"
+    },
+    {
+      "name": "Администрирование серверов Linux"
+    },
+    {
+      "name": "Helpdesk"
+    },
+    {
+      "name": "Техническая поддержка"
+    },
+    {
+      "name": "Администрирование"
+    },
+    {
+      "name": "Active Directory"
+    },
+    {
+      "name": "Настройка DNS"
+    },
+    {
+      "name": "Zabbix"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "2663606",
+    "name": "МС Банк Рус",
+    "url": "https://api.hh.ru/employers/2663606",
+    "alternate_url": "https://hh.ru/employer/2663606",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/465901.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/2305460.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/2305461.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2663606",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T15:01:00+0300",
+  "created_at": "2025-06-07T15:01:00+0300",
+  "initial_created_at": "2025-06-04T15:01:00+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121343894",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121343894",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "TWO_ON_TWO_OFF",
+      "name": "2/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_12",
+      "name": "12 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

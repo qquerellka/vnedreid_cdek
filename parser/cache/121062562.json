@@ -1,0 +1,152 @@
+{
+  "id": "121062562",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "DevOps инженер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "проезд Завода Серп и Молот",
+    "building": "10",
+    "lat": 55.752587,
+    "lng": 37.702346,
+    "description": null,
+    "raw": "Москва, проезд Завода Серп и Молот, 10",
+    "metro": {
+      "station_name": "Авиамоторная",
+      "line_name": "Калининская",
+      "station_id": "8.1",
+      "line_id": "8",
+      "lat": 55.751933,
+      "lng": 37.717444
+    },
+    "metro_stations": [
+      {
+        "station_name": "Авиамоторная",
+        "line_name": "Калининская",
+        "station_id": "8.1",
+        "line_id": "8",
+        "lat": 55.751933,
+        "lng": 37.717444
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>IGA Technologies</strong> - аккредитованная IT-компания. Мы разрабатываем и внедряем программное обеспечение для промышленности с 2009 года. За плечами реализация сложных проектов в авиации, машиностроении, судостроении, атомной отрасли.</p> <p><strong>О вакансии:</strong><br />Нам нужен сотрудник в команду DevOps, который будет заниматься автоматизацией процессов, настраивать конвейер непрерывной поставки нашей микросервисной web-платформы.</p> <p>На данный момент в команде двое сотрудников, в том числе архитектор. Новый сотрудник будет работать под руководством ведущего DevOps инженера.</p> <p><strong>Основные задачи:</strong></p> <ul> <li>Установка и настройка приложений (виртуализация, Kubernetes);</li> <li>Подготовка, автоматизация подготовки инфраструктуры для сборки, развертывания и тестирования ПО (Ansible, Kubernetes, скрипты);</li> <li>Установка платформы во внутренней инфраструктуре и на стороне заказчика;</li> <li>Интеграция инструментов, обеспечивающих конвейер непрерывной поставки.</li> </ul> <strong>Требования к кандидатам:</strong> <ul> <li>Минимальный опыт работы DevOps-инженером на коммерческих проектах;</li> <li>Опыт работы с Kubernetes;</li> <li>Опыт написания Bash-скриптов;</li> <li>Знание систем мониторинга;</li> <li>Опыт администрирования инфраструктуры linux;</li> <li>Опыт работы с базами данных, брокерами сообщений.</li> </ul> <strong>Условия:</strong> <ul> <li>аккредитованная IT-компания со всеми существенными плюсами;</li> <li>официальное оформление по ТК РФ (возможны иные варианты по желанию сотрудника);</li> <li>полностью удаленная работа; для тех, кто любит офис: есть вариант гибридного графика в офисе на м. Авиамоторная;</li> <li>гибкий график начала и окончания рабочего дня;</li> <li>ДМС со стоматологией;</li> <li>атмосфера доверия к сотрудникам и минимум контроля.</li> </ul> <p>​​</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "DevOps"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "160",
+      "name": "DevOps-инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "885718",
+    "name": "IGA Technologies",
+    "url": "https://api.hh.ru/employers/885718",
+    "alternate_url": "https://hh.ru/employer/885718",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1403745.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7234648.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7234649.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=885718",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-28T08:52:20+0300",
+  "created_at": "2025-05-28T08:52:20+0300",
+  "initial_created_at": "2025-05-28T08:52:20+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121062562",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121062562",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

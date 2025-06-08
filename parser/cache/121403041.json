@@ -1,0 +1,167 @@
+{
+  "id": "121403041",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Программист MS SQL Server, MS Access",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 50000,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 50000,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "Симская улица",
+    "building": "1",
+    "lat": 56.761418,
+    "lng": 60.617525,
+    "description": null,
+    "raw": "Екатеринбург, Симская улица, 1",
+    "metro": {
+      "station_name": "Ботаническая",
+      "line_name": "Север-Юг",
+      "station_id": "48.270",
+      "line_id": "48",
+      "lat": 56.797487,
+      "lng": 60.633362
+    },
+    "metro_stations": [
+      {
+        "station_name": "Ботаническая",
+        "line_name": "Север-Юг",
+        "station_id": "48.270",
+        "line_id": "48",
+        "lat": 56.797487,
+        "lng": 60.633362
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "part",
+    "name": "Частичная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Программист MS SQL и Microsoft Access</strong></p> <p><strong>Обязанности:</strong></p> <ul> <li>Разработка, оптимизация и поддержка баз данных MS SQL Server</li> <li>Написание и отладка хранимых процедур, триггеров, функций</li> <li>Интеграция и взаимодействие с Microsoft Access</li> <li>Разработка и поддержка форм, отчетов и модулей VBA в Access</li> <li>Оптимизация SQL-запросов и производительности БД</li> <li>Автоматизация бизнес-процессов с использованием SQL и VBA</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Опыт работы с MS SQL Server (T-SQL, хранимые процедуры, индексы, оптимизация запросов)</li> <li>Опыт работы с Microsoft Access (VBA, формами, отчетами, макросами)</li> <li>Знание принципов нормализации БД</li> <li>Опыт работы с интеграцией Access с SQL Server</li> <li>Умение разбираться в чужом коде и адаптировать его под новые задачи</li> <li> <p><strong>Условия:</strong></p> </li> <li>Работа в офисе/гибридный формат/удаленно </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "156",
+      "name": "BI-аналитик, аналитик данных"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "38433",
+    "name": "ИНРОСТ",
+    "url": "https://api.hh.ru/employers/38433",
+    "alternate_url": "https://hh.ru/employer/38433",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/224026.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/317627.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/390484.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=38433",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T07:30:30+0300",
+  "created_at": "2025-06-06T07:30:30+0300",
+  "initial_created_at": "2025-06-06T07:30:30+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121403041",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121403041",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "PART",
+    "name": "Частичная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

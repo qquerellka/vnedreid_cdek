@@ -1,0 +1,135 @@
+{
+  "id": "119773915",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Ведущий разработчик Python",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Уральская улица",
+    "building": "4",
+    "lat": 59.950335,
+    "lng": 30.266048,
+    "description": null,
+    "raw": "Санкт-Петербург, Уральская улица, 4",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Nedra Digital</strong> — инженерная компания с инновационным подходом к цифровизации нефтегазовой индустрии.<br />Мы создаём цифровые инженерные сервисы для управления разработкой, бурением и добычей — единство данных, инженерных расчетов и экономических моделей для принятия оптимальных и своевременных решений по всей цепочке Upstream.</p> <p>Наша команда состоит из экспертов в ИТ: разработчики, инженеры по тестированию, аналитики, архитекторы, девопс-инженеры, руководители проектов, дизайнеры, а также из экспертов в предметных областях (геология и разработка, бурение, добыча и управление данными). Все вместе мы создаем цифровые инженерные сервисы для трансформации нефтегазовой отрасли.</p> <p><strong>Тебе предстоит:</strong></p> <ul> <li>Разрабатывать инженерные бэкенд web-приложения на Python, FastAPI/Flask, Postgres, RabbitMQ, Docker;</li> <li>Покрывать свой код юнит, интеграционными и e2e тестами;</li> <li>Проводить code-review;</li> <li>В составе кросс-функциональной команды работать по методологиям Agile;</li> <li>Участвовать в проектной и сервисной деятельности.</li> </ul> <p><strong>Стек проекта:</strong></p> <ul> <li>FastAPI/pydantic;</li> <li>Pika/aio_pika;</li> <li>Numpy/scipy/sklearn; </li> <li>Numba; </li> <li>Pyvista; </li> <li>H5py; </li> <li>Pytest/pytest-benchmark.</li> </ul> <p><strong>Для нас важно</strong><strong>:</strong></p> <ul> <li>Опыт работы разработчиком не менее 3 лет на стеке Python 3; </li> <li>Опыт разработки промышленных систем (понимание, что приложение должно быть масштабируемым и надежным); </li> <li>Знание основных паттернов и подходов в программировании; </li> <li>Общая алгоритмическая подготовка (классические алгоритмы и структуры данных, понимание временной и пространственной сложности); </li> <li>Опыт ускорения кода написанного на python (векторизация с помощью numpy, использование jit-компиляторов, cython);</li> <li>Работа с бинарными файлами/потоками данных (bytes, cbor, protobuf);</li> <li>Многопоточность и многопроцессорность.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт с библиотеками numpy/pandas/scipy;</li> <li>Опыт работы с Redis, Memcached;</li> <li>Опыт проектирования распределенных систем;</li> <li>Опыт работы с многопоточными, многопроцессорными и асинхронными приложениями;</li> </ul> <p><strong>Что тебе понравится в Nedra:</strong></p> <ul> <li>Мы работаем в компании, аккредитованной Минцифрой, у нас есть все льготы IT-специалистов;</li> <li>Мы управляем своим временем: начинаем работу в комфортное для каждой команды время;</li> <li>Мы выбираем удобный формат работы: можно работать удаленно из любого города или приходить в уютный офис в Санкт-Петербурге;</li> <li>Мы заботимся о здоровье: у нас ДМС со стоматологией, страховка от несчастных случаев, полис для выезжающих за рубеж, корпоративный психолог, спортивные мероприятия;</li> <li>Мы пользуемся программой Кафетерий льгот: компенсируем на выбор билеты в отпуск, абонемент в фитнес-клуб, билеты на развлекательные мероприятия, лечение животных, оборудование рабочего места дома и т.д.</li> </ul> <p><strong>О нашей культуре:</strong></p> <ul> <li>Мы выстроили комфортный онбординг. В быстрой адаптации сотруднику помогает команда VNEDRENIE и чек-лист, который позволяет отслеживать цели и задачи в первые месяцы работы;</li> <li>Мы внедрили систему оценки и развития. Регулярно обмениваемся обратной связью, можем самостоятельно планировать карьерный трек и инициировать переход на новую должность;</li> <li>Мы прокачиваем hard и soft skills, выступая на внутренних и внешних митапах. В 2023 году мы были спикерами на Byte &amp; Oil Conf, РОЭК, TNF, NEFT 4.0. В подготовке презентации и яркого выступления нам помогает менеджер по обучению, которая работала со спикерами TEDx;</li> <li>Мы проводим тренинги с экспертами по нефтегазовому делу. Новичкам дадим базу по нефтегазу, чтобы проще было погрузиться в предметную область, а с продвинутыми разберем более сложные вопросы;</li> <li>Мы свободны в выборе способов решения задач. Наращивать экспертизу в конкретном домене или перемещаться между проектами, разбираться в задаче самому или собирать мозговой штурм - решать только тебе;</li> <li>Мы не только работаем, но и отдыхаем вместе. На Новый год вручаем премию Nedra Treasure Awards, весной дружно празднуем Nedra Spring, летом собираемся на День рождения компании, а еще играем в ЧГК, настолки, проводим спортивные мероприятия и квизы, и навещаем нашего подопечного выдру Финика в Ленинградском зоопарке :)</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": {
+    "id": 32123,
+    "name": "Брендированный шаблон 1",
+    "top_picture": {
+      "height": 699,
+      "width": 1920,
+      "path": "https://img.hhcdn.ru/branding-pictures/1664802.png",
+      "blurred_path": null
+    },
+    "bottom_picture": {
+      "height": 352,
+      "width": 770,
+      "path": "https://img.hhcdn.ru/branding-pictures/1663504.jpeg",
+      "blurred_path": null
+    }
+  },
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4801531",
+    "name": "Nedra Digital",
+    "url": "https://api.hh.ru/employers/4801531",
+    "alternate_url": "https://hh.ru/employer/4801531",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1087751.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5971633.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5971634.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4801531",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-19T12:59:31+0300",
+  "created_at": "2025-05-19T12:59:31+0300",
+  "initial_created_at": "2025-04-21T14:32:16+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119773915",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119773915",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

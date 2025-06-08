@@ -1,0 +1,146 @@
+{
+  "id": "120450630",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Разработчик Python",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 250000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 250000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Компания FLEX — это инновационный онлайн-кинотеатр, открывающий новые грани мира кино и сериалов. Мы предоставляем вам безграничный доступ к лучшему мировому контенту в высоком качестве. Наша миссия — сделать качественное кино доступным для каждого, предлагая удобный и приятный опыт просмотра.</p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Разработка backend на Django;</li> <li>Разработка REST сервисов;</li> <li>Разработка async сервисов;</li> <li>Разработка клиентов для работы со сторонними API;</li> <li>Написание unit тестов;</li> <li>Работа с frontend разработчиками;</li> <li>Написание ботов для автоматизации процессов.</li> </ul> <p><strong>Обязательно:</strong></p> <ul> <li>Опыт работы в Fintech проектах;</li> <li>Понимание принципов ООП;</li> <li>Хорошее понимание протокола HTTP и REST;</li> <li>Python 3, Django, Git, SQL.</li> </ul> <p><strong>Желательно:</strong></p> <ul> <li>Опыт разворачивания решения на сервере (nginx, uwsgi, gunicorn);</li> <li>Опыт проектирования баз данных;</li> <li>Понимание AMQ – RabbitMQ, Redis и аналогичных;</li> <li>Опыт работы с ElasticSearch и ClickHouse;</li> <li>Знакомство с другими фреймворками (Flask, Tornado, CherryPy);</li> <li>Знание других языков программирования (Golang, PHP, C#, C++).</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Оформление по ТК РФ, компания входит в реестр аккредитованных IT компаний;</li> <li>Возможность профессионального и карьерного развития в рамках масштабных и интересных проектов;</li> <li>Дружный доброжелательный коллектив, в котором приятно работать, лояльное руководство;</li> <li>Удаленный формат работы;</li> <li>Отсутствие бюрократии и свобода действий.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Django Rest Framework"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Django Framework"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11419768",
+    "name": "Кинофлекс",
+    "url": "https://api.hh.ru/employers/11419768",
+    "alternate_url": "https://hh.ru/employer/11419768",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1386564.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7166043.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7166044.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11419768",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-13T09:33:54+0300",
+  "created_at": "2025-05-13T09:33:54+0300",
+  "initial_created_at": "2025-05-13T09:33:54+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120450630",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120450630",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

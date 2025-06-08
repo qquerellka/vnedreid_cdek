@@ -1,0 +1,171 @@
+{
+  "id": "121306602",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Backend-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Очаковское шоссе",
+    "building": "28",
+    "lat": 55.685823,
+    "lng": 37.441745,
+    "description": null,
+    "raw": "Москва, Очаковское шоссе, 28",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>Разработка и поддержка серверной части веб-сайтов и приложений.</li> <li>Проектирование и реализация API (REST) для взаимодействия с фронтендом и сторонними сервисами.</li> <li>Участие в проектировании архитектуры программно-технических комплексов.</li> <li>Проведение тестирования, отладки и устранения ошибок.</li> <li>Взаимодействие с командой для реализации технических требований и улучшения функциональности.</li> </ul> <strong>Требования:</strong> <ul> <li> <p>Профильное высшее техническое образование (в области компьютерных наук, инженерии или смежных дисциплин).</p> </li> <li> <p>Знание принципов объектно-ориентированного программирования (ООП).</p> </li> <li> <p>Уверенное владение одним или несколькими языками программирования для бэкенда: Python, JavaScript и др.</p> </li> <li> <p>Опыт работы с фреймворками и библиотеками: Django, Flask, FastAPI, Node.js и др.</p> </li> <li> <p>Знание реляционных и/или нереляционных баз данных.</p> </li> <li> <p>Понимание принципов REST API, аутентификации и авторизации.</p> </li> <li> <p>Опыт работы с системами контроля версий.</p> </li> <li> <p>Знание основ DevOps: контейнеризация (Docker), CI/CD, мониторинг.</p> </li> <li> <p>Навыки работы с очередями сообщений (например, RabbitMQ) и кэшированием.</p> </li> <li> <p>Опыт написания тестов и обеспечения качества кода.</p> </li> <li> <p>Ответственность, внимательность, умение работать с несколькими параллельными проектами.</p> </li> <li> <p>Технический склад ума, внимательность к деталям, умение работать в команде.</p> </li> </ul> <p><strong>Желательные навыки:</strong></p> <ul> <li>Знание дополнительных языков программирования (например, С++).</li> <li>Навыки разработки встроенных систем или программного обеспечения для ROS, BetaFlight, ArduPilot.</li> <li>Опыт работы с CV (OpenCV).</li> <li>Опыт работы с нейросетками.</li> <li>Опыт работы с сетевыми протоколами.</li> <li>Опыт full-stack разработки.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li> <p>Профессиональный коллектив и комфортные условия труда.</p> </li> <li> <p>Официальное трудоустройство.</p> </li> <li> <p>Конкурентоспособная заработная плата.</p> </li> <li> <p>Пятидневная рабочая неделя.</p> </li> <li> <p>Возможны кратковременные командировки.</p> </li> <li> <p>Офис категории В+.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Git"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "API"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Разработка ПО"
+    },
+    {
+      "name": "Веб-программирование"
+    },
+    {
+      "name": "Node.js"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Алгоритмы и структуры данных"
+    },
+    {
+      "name": "Нейронные сети"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "FastAPI"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11007190",
+    "name": "НПО Спецприборостроение",
+    "url": "https://api.hh.ru/employers/11007190",
+    "alternate_url": "https://hh.ru/employer/11007190",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11007190",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T17:53:06+0300",
+  "created_at": "2025-06-03T17:53:06+0300",
+  "initial_created_at": "2025-06-03T17:53:06+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121306602",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121306602",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

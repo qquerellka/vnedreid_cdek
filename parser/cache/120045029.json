@@ -1,0 +1,140 @@
+{
+  "id": "120045029",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "DevOps-инженер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы — цифровой банк в Узбекистане. Быстрый и надёжный. Хотим сделать лучший финансовый сервис для людей и бизнеса.</p> <p>В нашей команде — разработчики с опытом в финтехе, высоконагруженных системах и кибербезопасности. С нами комфортно работать и отлично отдыхать!</p> <p>Мы растём, поэтому ищем <strong>DevOps инженера</strong>. Удалёнка на территории РФ или офис — если хотите.</p> <p><strong>Что по задачам</strong></p> <ul> <li>Работа со стеком: VmWare, Oracle Linux, Kubernetes, Docker, Docker Compose, PostgreSql, Github, Ruby on rails, NodeJS, JavaScript, Java, TypeScript.</li> <li>Автоматизация сборки и доставки продукта (Github Actions).</li> <li>Поддержка и обновление инфраструктурных систем.</li> <li>Участие в построении масштабируемости и безопасности инфраструктуры.</li> <li>Развитие и совершенствование систем мониторинга и логирования.</li> </ul> <p><strong>Какие опыт и знания ищем</strong></p> <ul> <li>Опыт работы <strong>от 2-х</strong> лет в качестве DevOps инженера.</li> <li>Знание ОС семейства Linux на уровне администратора.</li> <li>Знания принципов построения TCP\\IP стека, WAN и LAN сетей, маршрутизации, NAT.</li> <li>Контейнеризация и оркестрация: Docker, Kubernetes.</li> <li>Знание GitHub Actions, Ansible, Terraform.</li> <li>Опыт работы с системами мониторинга и логирования Prometheus, Grafana, ELK, Zabbix.</li> <li>Опыт скриптинга: Python, Bash.</li> <li>Знание Redis, Nginx, Kafka, RabbitMQ, Minio будет плюсом.</li> <li>Знание технического английского.</li> </ul> <p><strong>Как мы работаем</strong></p> <ul> <li>Дома или в офисе — главное, чтобы было удобно. Есть 2 офиса: в Санкт-Петербурге и Ташкенте. А ещё у нас есть аккредитация.</li> <li>Без микроменеджмента. Мы не трекаем рабочее время — просто пишем в чате, если будем не на связи и спокойно идём пить кофе.</li> <li>С хорошими людьми. Пятничная пицца, квизы и Counter-Strike. А ещё мама нашего СТО печёт для нас печенье в промышленных масштабах.</li> <li>Официально и с заботой. Обсуждаем процессы, пробуем и внедряем новое. Любим учиться: курсы, конференции.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Английский язык"
+    },
+    {
+      "name": "DevOps"
+    },
+    {
+      "name": "Разработка нового продукта"
+    },
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "GitLab CI"
+    },
+    {
+      "name": "Ansible"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "160",
+      "name": "DevOps-инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5735851",
+    "name": "Codex Optimus",
+    "url": "https://api.hh.ru/employers/5735851",
+    "alternate_url": "https://hh.ru/employer/5735851",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1115393.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6082169.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6082170.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5735851",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T18:08:19+0300",
+  "created_at": "2025-06-06T18:08:19+0300",
+  "initial_created_at": "2025-04-28T18:08:18+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120045029",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120045029",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,173 @@
+{
+  "id": "120780694",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист технической поддержки",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 60000,
+    "to": 83000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 60000,
+    "to": 83000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "улица Софьи Ковалевской",
+    "building": "12к2",
+    "lat": 60.015251,
+    "lng": 30.410119,
+    "description": null,
+    "raw": "Санкт-Петербург, улица Софьи Ковалевской, 12к2",
+    "metro": {
+      "station_name": "Академическая",
+      "line_name": "Кировско-Выборгская",
+      "station_id": "14.192",
+      "line_id": "14",
+      "lat": 60.012806,
+      "lng": 30.396044
+    },
+    "metro_stations": [
+      {
+        "station_name": "Академическая",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.192",
+        "line_id": "14",
+        "lat": 60.012806,
+        "lng": 30.396044
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "shift",
+    "name": "Сменный график"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><em><strong>Уважаемый соискатель!</strong></em></p> <p>Мы ищем начинающего технического специалиста в нашу команду.</p> <p>Если ты хочешь активно развиваться и расти в сфере диагностики сетевого оборудования и</p> <p>телекома, а также готов(а) помогать клиентам по телефону – ты нам подходишь!</p> <p><strong>Мы предлагаем:</strong></p> <ul> <li>График работы 2/2 по 12 часов в день, возможен переход на гибрид/удаленный формат после 6 месяцев работы;</li> <li>Есть обучение, необходимое для вступления в должность;</li> <li>Средний уровень дохода начинающего специалиста: первые 2 месяца 45 000 рублей, далее от 60000 до 83000р &quot;на руки&quot;, в зависимости от грейда, и можно увеличить за счет количества отработанных смен в месяц;</li> <li>Заработная плата полностью официальная &quot;белая&quot;, выплачивается дважды в месяц;</li> <li>Официальное трудоустройство согласно ТК РФ;</li> <li>Уютный новый офис;</li> <li>ДМС через 3 месяца работы;</li> <li>Социальная поддержка в важные моменты жизни (рождение ребёнка, свадьба, День знаний для первоклассников, в связи с утратой близких родственников);</li> <li>В нашей команде Вы найдете дружелюбную атмосферу и возможности для профессионального роста;</li> <li>Мы ценим командный дух и заботимся о наших сотрудниках: (корпоративные мероприятия, тимбилдинги, детские праздники и др.);</li> <li>Мы находимся всего в 10 минутах ходьбы от станции метро &quot;Академическая&quot;.</li> </ul> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Приём, регистрация и анализ обращений клиентов Интернет-провайдеров;</li> <li>Диагностика неполадок и устранение неисправностей на оборудовании – самостоятельно или через эскалацию на смежные отделы;</li> <li>Помощь по рабочим вопросам инженерам выездного сервиса;</li> <li>Активное участие в рабочих процессах отдела.</li> </ul> <p><strong>Для нас важно:</strong></p> <ul> <li>Стрессоустойчивость, коммуникабельность и способность понятно‚ терпеливо и грамотно излагать свои мысли;</li> <li>Высокая обучаемость и готовность работать на компьютере под управлением Linux;</li> <li>Базовое понимание принципов построения сетей будет вашим преимуществом.</li> </ul>",
+  "branded_description": "\n<style>\n@charset \"UTF-8\";\n\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li em,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ol li p em,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li em,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong,\n.tmpl_hh_content ul li p em {\n    font-weight: normal;\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    display: inline;\n    margin: 0;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    font-family: \"Proxima Nova Condensed\", ProximaNovaCond, \"Arial\", sans-serif;\n    color: #000;\n    font-size: 16px;\n    line-height: 1.3;\n    overflow: hidden;\n    -webkit-font-smoothing: antialiased;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_wrapper * {\n    -webkit-box-sizing: border-box;\n    box-sizing: border-box;\n}\n\n.tmpl_hh_wrapper [role=button] {\n    outline: none;\n}\n\n.tmpl_hh_content {\n    padding: 20px 40px;\n    margin-bottom: 15px;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    margin: 24px 0 20px;\n    font-size: 16px;\n    line-height: 20px;\n}\n\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    display: inline-block;\n    font-weight: bold;\n    font-weight: 800;\n    font-size: 24px;\n    line-height: 36px;\n    letter-spacing: 0.02em;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 18px;\n    padding-bottom: 1px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 16px;\n    font-size: 16px;\n    line-height: 20px;\n    letter-spacing: 0.02em;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 10px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;\n}\n\n.tmpl_hh_content li:before {\n    content: \"\";\n    position: absolute;\n    left: -19px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"•\";\n    font-size: 110%;\n    top: -2px;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter) \".\";\n}\n\n.tmpl_hh_head {\n    position: relative;\n    margin-bottom: 36px;\n    padding-top: 28px;\n    padding-right: 23%;\n    padding-bottom: 24px;\n    background-color: #00D2C8;\n}\n\n.tmpl_hh_head::after {\n    content: \"\";\n    position: absolute;\n    top: 13px;\n    right: 0;\n    display: block;\n    width: 354px;\n    height: 305px;\n    background-image: url(\"https://hhcdn.ru/ichameleon/271405.png\");\n    background-repeat: no-repeat;\n    background-position: center;\n    background-size: 100% auto;\n}\n\nimg.tmpl_hh_head__logo {\n    width: 182px;\n    margin-bottom: 24px;\n    padding-left: 42px;\n}\n\np.tmpl_hh_head__title {\n    margin-bottom: 54px;\n    padding-top: 3px;\n    padding-right: 10%;\n    padding-bottom: 7px;\n    font-weight: 800;\n    font-size: 38px;\n    line-height: 46px;\n    color: #fff;\n    letter-spacing: 0.02em;\n    background-color: #0F198C;\n    border-top-right-radius: 10px;\n    border-bottom-right-radius: 10px;\n    padding-left: 42px;\n}\n\np.tmpl_hh_head__text {\n    font-style: italic;\n    font-weight: 400;\n    font-size: 24px;\n    line-height: 30px;\n    color: #fff;\n    letter-spacing: 0.02em;\n    padding-left: 42px;\n}\n\n.tmpl_hh_about {\n    margin-bottom: 56px;\n    padding: 0 40px;\n}\n\n.tmpl_hh_about__list {\n    display: grid;\n    list-style: none;\n    grid-template-columns: repeat(2, 1fr);\n    grid-template-rows: repeat(2, 1fr);\n}\n\nli.tmpl_hh_about__item {\n    padding: 21px;\n}\n\nimg.tmpl_hh_about__item-icon {\n    margin-bottom: 16px;\n}\n\np.tmpl_hh_about__item-title {\n    margin-bottom: 8px;\n    font-weight: 800;\n    font-size: 24px;\n    line-height: 29px;\n    color: #fff;\n}\n\np.tmpl_hh_about__item-text {\n    padding-right: 10%;\n    font-size: 16px;\n    line-height: 19px;\n    color: #fff;\n    letter-spacing: 0.02em;\n}\n\np.tmpl_hh_about__item-text:not(:last-of-type) {\n    margin-bottom: 7px;\n}\n\nli.tmpl_hh_about__item--1 {\n    background-color: #0F198C;\n}\n\nli.tmpl_hh_about__item--1 .tmpl_hh_about__item-icon {\n    width: 56px;\n}\n\nli.tmpl_hh_about__item--2 {\n    background-color: #00D2C8;\n}\n\nli.tmpl_hh_about__item--2 .tmpl_hh_about__item-icon {\n    width: 57px;\n}\n\nli.tmpl_hh_about__item--3 {\n    background-color: #00D2C8;\n}\n\nli.tmpl_hh_about__item--3 .tmpl_hh_about__item-icon {\n    width: 67px;\n}\n\nli.tmpl_hh_about__item--4 {\n    background-color: #0F198C;\n}\n\nli.tmpl_hh_about__item--4 .tmpl_hh_about__item-icon {\n    width: 58px;\n}\n\n.tmpl_hh_work {\n    margin-bottom: 56px;\n    padding: 0 40px;\n}\n\np.tmpl_hh_work__title {\n    margin-bottom: 18px;\n    font-weight: 800;\n    font-size: 32px;\n    line-height: 52px;\n    letter-spacing: 0.02em;\n}\n\nul.tmpl_hh_work__list {\n    display: grid;\n    row-gap: 8px;\n}\n\nli.tmpl_hh_work__item {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-align: center;\n    -ms-flex-align: center;\n    align-items: center;\n}\n\nimg.tmpl_hh_work__item-icon {\n    width: 64px;\n    margin-right: 24px;\n}\n\np.tmpl_hh_work__item-text {\n    font-size: 24px;\n    line-height: 34px;\n    letter-spacing: 0.02em;\n}\n\n.tmpl_hh_footer {\n    padding-bottom: 35px;\n}\n\n.tmpl_hh_footer__img-wrapper {\n    display: grid;\n    margin-bottom: 36px;\n    padding-right: 40px;\n    padding-left: 40px;\n    -webkit-column-gap: 12px;\n    -moz-column-gap: 12px;\n    column-gap: 12px;\n    row-gap: 12px;\n    grid-template-columns: repeat(3, 1fr);\n}\n\nimg.tmpl_hh_footer__img--1 {\n    width: 74.2%;\n    grid-column: 1/span 2;\n    grid-row: 1;\n}\n\nimg.tmpl_hh_footer__img--2 {\n    width: 74.2%;\n    grid-column: 2/span 2;\n    grid-row: 1;\n    justify-self: end;\n}\n\np.tmpl_hh_footer__title {\n    font-weight: 800;\n    font-size: 25px;\n    line-height: 31px;\n    text-align: center;\n    text-align: center;\n    color: #111b8c;\n    letter-spacing: 0.02em;\n}\n\n@media (max-width: 1339px) {\n    .tmpl_hh_head {\n        padding-right: 22%;\n    }\n\n    .tmpl_hh_head::after {\n        width: 301px;\n    }\n\n    p.tmpl_hh_head__title {\n        font-size: 39px;\n        line-height: 43px;\n    }\n}\n\n@media (max-width: 699px) {\n    .tmpl_hh_content {\n        padding: 20px 0;\n        margin-bottom: 0;\n    }\n\n    .tmpl_hh_content ol,\n    .tmpl_hh_content ul {\n        margin-left: 16px;\n    }\n\n    .tmpl_hh_content li:before {\n        left: -16px;\n    }\n\n    .tmpl_hh_content ul>li:before {\n        top: 0;\n    }\n\n    .tmpl_hh_head {\n        margin-bottom: 17px;\n        padding-top: 9px;\n        padding-right: 0;\n        padding-bottom: 15px;\n    }\n\n    .tmpl_hh_head::after {\n        top: 29%;\n        width: 137px;\n        height: 116px;\n    }\n\n    img.tmpl_hh_head__logo {\n        padding-left: 14px;\n    }\n\n    img.tmpl_hh_head__logo {\n        width: 117px;\n        margin-bottom: 13px;\n    }\n\n    p.tmpl_hh_head__title {\n        padding-left: 14px;\n    }\n\n    p.tmpl_hh_head__title {\n        margin-right: 62px;\n        margin-bottom: 20px;\n        padding-top: 13px;\n        padding-bottom: 10px;\n        font-size: 20px;\n        line-height: 24px;\n        letter-spacing: 0;\n    }\n\n    p.tmpl_hh_head__text {\n        padding-left: 14px;\n    }\n\n    p.tmpl_hh_head__text {\n        font-size: 12px;\n        line-height: 15px;\n    }\n\n    .tmpl_hh_about {\n        margin-bottom: 36px;\n        padding: 0;\n    }\n\n    .tmpl_hh_about__list {\n        grid-template-columns: 1fr;\n        grid-template-rows: auto;\n    }\n\n    li.tmpl_hh_about__item {\n        min-height: 247px;\n        padding: 20px;\n    }\n\n    p.tmpl_hh_about__item-text {\n        padding-right: 0;\n    }\n\n    li.tmpl_hh_about__item--3 {\n        grid-row: 4;\n    }\n\n    .tmpl_hh_work {\n        margin-bottom: 36px;\n        padding: 0;\n    }\n\n    p.tmpl_hh_work__title {\n        margin-bottom: 18px;\n        font-size: 26px;\n        line-height: 52px;\n    }\n\n    ul.tmpl_hh_work__list {\n        -webkit-column-gap: 17px;\n        -moz-column-gap: 17px;\n        column-gap: 17px;\n        row-gap: 7px;\n        grid-template-columns: repeat(2, 1fr);\n    }\n\n    li.tmpl_hh_work__item {\n        -webkit-box-orient: vertical;\n        -webkit-box-direction: normal;\n        -ms-flex-direction: column;\n        flex-direction: column;\n        -webkit-box-align: start;\n        -ms-flex-align: start;\n        align-items: flex-start;\n    }\n\n    img.tmpl_hh_work__item-icon {\n        width: 48px;\n        margin-right: 0;\n        margin-bottom: 9px;\n    }\n\n    p.tmpl_hh_work__item-text {\n        font-size: 15px;\n        line-height: 21px;\n    }\n\n    .tmpl_hh_footer {\n        padding-bottom: 0;\n    }\n\n    .tmpl_hh_footer__img-wrapper {\n        padding-right: 0;\n        padding-left: 0;\n    }\n\n    p.tmpl_hh_footer__title {\n        font-size: 23px;\n        line-height: 29px;\n    }\n}\n</style>\n\n<script>\n//\nfunction DOM_HH_Ready() {}\n\nif (document.readyState === \"loading\") {\n    document.addEventListener(\"DOMContentLoaded\", DOM_HH_Ready);\n} else {\n    DOM_HH_Ready();\n}\n//\n</script>\n\n\n    <div class=\"tmpl_hh_wrapper\">\n        <div class=\"tmpl_hh_head\">\n            <img src=\"https://hhcdn.ru/ichameleon/271404.svg\" alt=\"\" class=\"tmpl_hh_head__logo\">\n            <p class=\"tmpl_hh_head__title\">Профессионалы<br>нашего города<br>работают здесь</p>\n            <p class=\"tmpl_hh_head__text\">еТелеком – оператор связи<br>Санкт-Петербурга и Ленинградской области </p>\n        </div>\n        <div class=\"tmpl_hh_content\">\n        <p><em><strong>Уважаемый соискатель!</strong></em></p> <p>Мы ищем начинающего технического специалиста в нашу команду.</p> <p>Если ты хочешь активно развиваться и расти в сфере диагностики сетевого оборудования и</p> <p>телекома, а также готов(а) помогать клиентам по телефону – ты нам подходишь!</p> <p><strong>Мы предлагаем:</strong></p> <ul> <li>График работы 2/2 по 12 часов в день, возможен переход на гибрид/удаленный формат после 6 месяцев работы;</li> <li>Есть обучение, необходимое для вступления в должность;</li> <li>Средний уровень дохода начинающего специалиста: первые 2 месяца 45 000 рублей, далее от 60000 до 83000р \"на руки\", в зависимости от грейда, и можно увеличить за счет количества отработанных смен в месяц;</li> <li>Заработная плата полностью официальная \"белая\", выплачивается дважды в месяц;</li> <li>Официальное трудоустройство согласно ТК РФ;</li> <li>Уютный новый офис;</li> <li>ДМС через 3 месяца работы;</li> <li>Социальная поддержка в важные моменты жизни (рождение ребёнка, свадьба, День знаний для первоклассников, в связи с утратой близких родственников);</li> <li>В нашей команде Вы найдете дружелюбную атмосферу и возможности для профессионального роста;</li> <li>Мы ценим командный дух и заботимся о наших сотрудниках: (корпоративные мероприятия, тимбилдинги, детские праздники и др.);</li> <li>Мы находимся всего в 10 минутах ходьбы от станции метро \"Академическая\".</li> </ul> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Приём, регистрация и анализ обращений клиентов Интернет-провайдеров;</li> <li>Диагностика неполадок и устранение неисправностей на оборудовании – самостоятельно или через эскалацию на смежные отделы;</li> <li>Помощь по рабочим вопросам инженерам выездного сервиса;</li> <li>Активное участие в рабочих процессах отдела.</li> </ul> <p><strong>Для нас важно:</strong></p> <ul> <li>Стрессоустойчивость, коммуникабельность и способность понятно‚ терпеливо и грамотно излагать свои мысли;</li> <li>Высокая обучаемость и готовность работать на компьютере под управлением Linux;</li> <li>Базовое понимание принципов построения сетей будет вашим преимуществом.</li> </ul></div>\n\n        <div class=\"tmpl_hh_about\">\n            <ul class=\"tmpl_hh_about__list\">\n                <li class=\"tmpl_hh_about__item tmpl_hh_about__item--1\">\n                    <img src=\"https://hhcdn.ru/ichameleon/271395.svg\" alt=\"\" class=\"tmpl_hh_about__item-icon\">\n                    <p class=\"tmpl_hh_about__item-title\">Сообщество<br> профессионалов</p>\n                    <p class=\"tmpl_hh_about__item-text\">Каждый знаток своего дела и готов учиться, делиться своими знаниями</p>\n                </li>\n\n                <li class=\"tmpl_hh_about__item tmpl_hh_about__item--2\">\n                    <img src=\"https://hhcdn.ru/ichameleon/271396.svg\" alt=\"\" class=\"tmpl_hh_about__item-icon\">\n                    <p class=\"tmpl_hh_about__item-title\">Развитая<br> корпоративная культура</p>\n                    <p class=\"tmpl_hh_about__item-text\">ШаваDay, Летние и Зимние корпоративы</p>\n                </li>\n\n                <li class=\"tmpl_hh_about__item tmpl_hh_about__item--3\">\n                    <img src=\"https://hhcdn.ru/ichameleon/271397.svg\" alt=\"\" class=\"tmpl_hh_about__item-icon\">\n                    <p class=\"tmpl_hh_about__item-title\">Привлекательные<br> условия</p>\n                    <p class=\"tmpl_hh_about__item-text\">Конкурентная заработная плата</p>\n                    <p class=\"tmpl_hh_about__item-text\">ДМС после испытательного срока</p>\n                </li>\n\n                <li class=\"tmpl_hh_about__item tmpl_hh_about__item--4\">\n                    <img src=\"https://hhcdn.ru/ichameleon/271398.svg\" alt=\"\" class=\"tmpl_hh_about__item-icon\">\n                    <p class=\"tmpl_hh_about__item-title\">Значимые проекты</p>\n                    <p class=\"tmpl_hh_about__item-text\">Мы есть у каждого 20-го<br> абонента в СПб</p>\n                    <p class=\"tmpl_hh_about__item-text\">С нами клиенты учатся,<br> работают и отдыхают</p>\n                </li>\n            </ul>\n        </div>\n\n        <div class=\"tmpl_hh_work\">\n            <p class=\"tmpl_hh_work__title\">Работа в еТелеком — это:</p>\n            <ul class=\"tmpl_hh_work__list\">\n                <li class=\"tmpl_hh_work__item\">\n                    <img src=\"https://hhcdn.ru/ichameleon/271406.svg\" alt=\"\" class=\"tmpl_hh_work__item-icon\">\n                    <p class=\"tmpl_hh_work__item-text\">Демократичный подход к управлению</p>\n                </li>\n\n                <li class=\"tmpl_hh_work__item\">\n                    <img src=\"https://hhcdn.ru/ichameleon/271409.svg\" alt=\"\" class=\"tmpl_hh_work__item-icon\">\n                    <p class=\"tmpl_hh_work__item-text\">Команда профессионалов</p>\n                </li>\n\n                <li class=\"tmpl_hh_work__item\">\n                    <img src=\"https://hhcdn.ru/ichameleon/271407.svg\" alt=\"\" class=\"tmpl_hh_work__item-icon\">\n                    <p class=\"tmpl_hh_work__item-text\">Корпоративное обучение</p>\n                </li>\n\n                <li class=\"tmpl_hh_work__item\">\n                    <img src=\"https://hhcdn.ru/ichameleon/271408.svg\" alt=\"\" class=\"tmpl_hh_work__item-icon\">\n                    <p class=\"tmpl_hh_work__item-text\">Социальная ответственность</p>\n                </li>\n\n                <li class=\"tmpl_hh_work__item\">\n                    <img src=\"https://hhcdn.ru/ichameleon/271410.svg\" alt=\"\" class=\"tmpl_hh_work__item-icon\">\n                    <p class=\"tmpl_hh_work__item-text\">Более 400 сотрудников</p>\n                </li>\n\n                <li class=\"tmpl_hh_work__item\">\n                    <img src=\"https://hhcdn.ru/ichameleon/271411.svg\" alt=\"\" class=\"tmpl_hh_work__item-icon\">\n                    <p class=\"tmpl_hh_work__item-text\">Комфортное рабочее пространство</p>\n                </li>\n\n                <li class=\"tmpl_hh_work__item\">\n                    <img src=\"https://hhcdn.ru/ichameleon/271412.svg\" alt=\"\" class=\"tmpl_hh_work__item-icon\">\n                    <p class=\"tmpl_hh_work__item-text\">Приветливые коллеги</p>\n                </li>\n\n                <li class=\"tmpl_hh_work__item\">\n                    <img src=\"https://hhcdn.ru/ichameleon/271413.svg\" alt=\"\" class=\"tmpl_hh_work__item-icon\">\n                    <p class=\"tmpl_hh_work__item-text\">Масштабные проекты</p>\n                </li>\n\n            </ul>\n        </div>\n        <div class=\"tmpl_hh_footer\">\n            <div class=\"tmpl_hh_footer__img-wrapper\">\n                <img src=\"https://hhcdn.ru/ichameleon/271400.jpg\" alt=\"\" class=\"tmpl_hh_footer__img tmpl_hh_footer__img--1\">\n                <img src=\"https://hhcdn.ru/ichameleon/271401.jpg\" alt=\"\" class=\"tmpl_hh_footer__img tmpl_hh_footer__img--2\">\n                <img src=\"https://hhcdn.ru/ichameleon/271399.jpg\" alt=\"\" class=\"tmpl_hh_footer__img tmpl_hh_footer__img--3\">\n                <img src=\"https://hhcdn.ru/ichameleon/271402.jpg\" alt=\"\" class=\"tmpl_hh_footer__img tmpl_hh_footer__img--4\">\n                <img src=\"https://hhcdn.ru/ichameleon/271403.jpg\" alt=\"\" class=\"tmpl_hh_footer__img tmpl_hh_footer__img--5\">\n            </div>\n            <p class=\"tmpl_hh_footer__title\">Добро пожаловать к нам — в мир настоящего телекома!</p>\n        </div>\n    </div>\n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "TCP/IP"
+    },
+    {
+      "name": "Настройка сетевых подключений"
+    },
+    {
+      "name": "Администрирование сетевого оборудования"
+    },
+    {
+      "name": "Грамотная речь"
+    },
+    {
+      "name": "Деловое общение"
+    },
+    {
+      "name": "Консультирование клиентов по телефону"
+    },
+    {
+      "name": "Доброжелательность"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "894414",
+    "name": "ЕТелеком",
+    "url": "https://api.hh.ru/employers/894414",
+    "alternate_url": "https://hh.ru/employer/894414",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/740786.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3404105.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3404106.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=894414",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T16:47:45+0300",
+  "created_at": "2025-06-03T16:47:45+0300",
+  "initial_created_at": "2025-05-20T17:34:45+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120780694",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120780694",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "TWO_ON_TWO_OFF",
+      "name": "2/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_12",
+      "name": "12 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

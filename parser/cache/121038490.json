@@ -1,0 +1,214 @@
+{
+  "id": "121038490",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Middle Python разработчик (Django)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 190000,
+    "to": 220000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 190000,
+    "to": 220000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": null,
+    "building": null,
+    "lat": 55.749646,
+    "lng": 37.62368,
+    "description": null,
+    "raw": "Москва",
+    "metro": {
+      "station_name": "Библиотека им.Ленина",
+      "line_name": "Сокольническая",
+      "station_id": "1.4",
+      "line_id": "1",
+      "lat": 55.752123,
+      "lng": 37.610388
+    },
+    "metro_stations": [
+      {
+        "station_name": "Библиотека им.Ленина",
+        "line_name": "Сокольническая",
+        "station_id": "1.4",
+        "line_id": "1",
+        "lat": 55.752123,
+        "lng": 37.610388
+      },
+      {
+        "station_name": "Китай-город",
+        "line_name": "Таганско-Краснопресненская",
+        "station_id": "7.51",
+        "line_id": "7",
+        "lat": 55.75436,
+        "lng": 37.633877
+      },
+      {
+        "station_name": "Новокузнецкая",
+        "line_name": "Замоскворецкая",
+        "station_id": "2.89",
+        "line_id": "2",
+        "lat": 55.742391,
+        "lng": 37.62928
+      },
+      {
+        "station_name": "Площадь Революции",
+        "line_name": "Арбатско-Покровская",
+        "station_id": "3.100",
+        "line_id": "3",
+        "lat": 55.756741,
+        "lng": 37.62236
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Если вам интересны реальные задачи, рост, и вы хотите быть частью команды, которая делает IT-решения с практическим смыслом — будем рады познакомиться!</p> <p><strong>Что нужно делать:</strong></p> <ul> <li> <p>Разрабатывать и поддерживать веб-приложения на стеке Python / Django</p> </li> <li> <p>Участвовать в проектировании архитектуры и разработке API</p> </li> <li> <p>Работать с PostgreSQL, Celery, Redis, REST</p> </li> <li> <p>Поддерживать интеграции с внешними сервисами (1С, CRM, платёжные и маркетинговые системы)</p> </li> <li> <p>Писать чистый и документированный код, покрывать критичные части тестами</p> </li> </ul> <p><strong>Что будет плюсом </strong>(в отдельном AI-проекте):</p> <ul> <li> <p>Интерес к AI/ML и generative AI (работа с ChatGPT API, OpenAI, Mistral, Claude и др.)</p> </li> <li> <p>Опыт работы с n8n, Make.com, LangChain, MCP, Zapier или похожими low-code/no-code инструментами</p> </li> <li> <p>Навыки внедрения AI-интеграций и автоматизации бизнес-процессов</p> <p><strong>Наши ожидания:</strong></p> </li> <li> <p>Уверенный опыт с Python и Django от 3 лет</p> </li> <li> <p>Понимание клиент-серверной архитектуры, REST</p> </li> <li> <p>Умение работать с PostgreSQL, Git, Docker</p> </li> <li> <p>Грамотная техническая коммуникация, умение вести проекты с высокой степенью самостоятельности</p> </li> </ul> <strong>Что предлагаем:</strong> <ul> <li> <p>Участие в стабильных и экспериментальных проектах, в т.ч. с применением AI</p> </li> <li> <p>Почасовая ставка или фикс + бонусы по проектам</p> </li> <li> <p>Свобода выбора инструментов и подходов (нам важен результат)</p> </li> <li> <p>Возможность вырасти до ведущего разработчика или тимлида</p> </li> <li> <p>Работу в команде, которая ценит инженерную культуру и прозрачность</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Умение эффективно работать в команде"
+    },
+    {
+      "name": "Выполнение поставленных задач"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Паттерны проектирования"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Django Framework"
+    },
+    {
+      "name": "Умение адаптироваться"
+    },
+    {
+      "name": "Gitlab"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Docker"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5257200",
+    "name": "Production IT",
+    "url": "https://api.hh.ru/employers/5257200",
+    "alternate_url": "https://hh.ru/employer/5257200",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/903667.png",
+      "90": "https://img.hhcdn.ru/employer-logo/4055355.png",
+      "240": "https://img.hhcdn.ru/employer-logo/4055356.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5257200",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-27T15:22:49+0300",
+  "created_at": "2025-05-27T15:22:49+0300",
+  "initial_created_at": "2025-05-27T15:22:49+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121038490",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121038490",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

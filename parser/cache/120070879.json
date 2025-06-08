@@ -1,0 +1,179 @@
+{
+  "id": "120070879",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Ведущий программист С++/ С#",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 230000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 230000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Песочная набережная",
+    "building": "40",
+    "lat": 59.96766,
+    "lng": 30.285406,
+    "description": null,
+    "raw": "Санкт-Петербург, Песочная набережная, 40",
+    "metro": {
+      "station_name": "Чкаловская",
+      "line_name": "Фрунзенско-Приморская",
+      "station_id": "18.248",
+      "line_id": "18",
+      "lat": 59.961033,
+      "lng": 30.292006
+    },
+    "metro_stations": [
+      {
+        "station_name": "Чкаловская",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.248",
+        "line_id": "18",
+        "lat": 59.961033,
+        "lng": 30.292006
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>FITNESS HOUSE</strong> — ведущая федеральная сеть фитнес-клубов России. Мы активно развиваемся и расширяем наш отдел разработки ПО, создавая высоконагруженные системы для наших клубов по всей стране.</p> <p> <strong>Чем предстоит заниматься:</strong></p> <ul> <li>Участие в разработке внутренних продуктов компании.</li> <li>Поддержка и <strong>рефакторинг существующих решений</strong> на C#, C++/Qt, C++.Net, Python.</li> <li>Работа с CRM-системами, системами оплаты и контроля доступа, интеграцией с платежными сервисами и терминалами самообслуживания.</li> <li>Проектирование и развитие <strong>архитектуры системы</strong>.</li> <li>Обеспечение надежности кода и его готовности к масштабированию.</li> <li>Проведение <strong>code review</strong> и участие в обсуждениях решений.</li> </ul> <p> <strong>Наши требования:</strong></p> <ul> <li><strong>Опыт работы более 6 лет</strong> в разработке ПО.</li> <li>Уверенное знание <strong>C++ стандарта не ниже C++11</strong> и ООП.</li> <li>Опыт разработки на <strong>C#, C++.Net, C++/Qt, C++/WinAPI</strong>.</li> <li>Знание <strong>STL и основных шаблонов проектирования</strong>.</li> <li>Базовые навыки работы с <strong>SQL</strong> и способность разбираться в чужом коде.</li> <li>Умение работать в команде, обсуждать решения и искать лучшие подходы.</li> </ul> <p>➕ <strong>Будет плюсом:</strong></p> <ul> <li>Углубленные знания <strong>SQL</strong> и проектирования баз данных.</li> <li>Опыт работы с <strong>Firebird</strong> и понимание принципов репликации данных.</li> <li>Навыки работы с <strong>RabbitMQ</strong> и знание принципов построения отказоустойчивых сервисов.</li> <li>Знакомство с <strong>Python</strong>.</li> </ul> <p> <strong>Что мы предлагаем:</strong></p> <ul> <li><strong>Зарплата от 230 000 ₽</strong> (обсуждается индивидуально на собеседовании).</li> <li><strong>Официальное оформление по ТК РФ</strong>.</li> <li><strong>График работы 5/2</strong> в офисе с возможностью гибридного формата.</li> <li><strong>Уютный офис</strong> в шаговой доступности от метро с комнатой отдыха, кофе и закусками.</li> <li><strong>Абонемент в спортивные клубы сети FITNESS HOUSE</strong>.</li> <li><strong>Корпоративный волейбол</strong> по четвергам и обширная бонусная программа от партнеров.</li> </ul> <p>Если вы хотите развиваться в команде профессионалов и работать над инновационными IT-решениями, присоединяйтесь к FITNESS HOUSE! </p> <p> <strong>Отправьте резюме прямо сейчас и начните свой путь с нами!</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "C++"
+    },
+    {
+      "name": "Qt"
+    },
+    {
+      "name": "Базы данных"
+    },
+    {
+      "name": "Многозадачность"
+    },
+    {
+      "name": "Разработка ПО"
+    },
+    {
+      "name": "C#"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "RabbitMQ"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "113923",
+    "name": "FITNESS HOUSE",
+    "url": "https://api.hh.ru/employers/113923",
+    "alternate_url": "https://hh.ru/employer/113923",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/491535.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/2407893.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/2407894.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=113923",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T15:20:59+0300",
+  "created_at": "2025-06-04T15:20:59+0300",
+  "initial_created_at": "2025-04-29T12:56:26+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120070879",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120070879",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

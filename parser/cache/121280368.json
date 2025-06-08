@@ -1,0 +1,152 @@
+{
+  "id": "121280368",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Golang Backend Developer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 4000,
+    "to": null,
+    "currency": "USD",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 4000,
+    "to": null,
+    "currency": "USD",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Мы ищем опытного <strong>Backend-разработчика</strong> на <strong>Golang</strong> для присоединения к нашей международной команде в сфере <strong>iGaming</strong>. Если у вас есть практический опыт работы с онлайн-казино, платформами для ставок на спорт или другими высоконагруженными системами — будем рады знакомству!</p> <p>Вы станете важной частью быстрорастущей продуктовой команды, отвечающей за разработку масштабируемой бэкенд-архитектуры и надёжного функционала для поддержки игр в реальном времени и финансовых операций.</p> <p><strong>Обязанности:</strong></p> <ul> <li> <p>Разработка и поддержка backend-сервисов на Go.</p> </li> <li> <p>Проектирование архитектуры сервисов и выбор оптимальных решений.</p> </li> <li> <p>Интеграция с различными источниками данных (PostgreSQL, Redis, ClickHouse, Kafka).</p> </li> <li> <p>Оптимизация производительности приложений.</p> </li> <li> <p>Участие в проектировании и реализации масштабируемых решений.</p> </li> <li> <p>Взаимодействие с командой с использованием Git и Docker.</p> </li> </ul> <p><strong>Требования:</strong></p> <ul> <li> <p>Опыт разработки на Go от 2 лет.</p> </li> <li> <p>Опыт backend-разработки от 3 лет.</p> </li> <li> <p>Практический опыт разработки многопоточных высоконагруженных приложений.</p> </li> <li> <p>Отличное знание реляционных баз данных (PostgreSQL / MySQL).</p> </li> <li> <p>Понимание принципов проектирования (SOLID, DRY, KISS).</p> </li> <li> <p>Уверенное владение Git и Docker.</p> </li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li> <p>Опыт работы с ClickHouse, Redis, Kafka, ElasticSearch.</p> </li> <li> <p>Опыт работы с системами мониторинга (Grafana, Prometheus).</p> </li> <li> <p>Опыт работы с Kubernetes.</p> </li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li> <p>Полностью удалённую работу с гибким графиком</p> </li> <li> <p>Устойчивый iGaming-продукт с активной базой пользователей и амбициозным роадмапом</p> </li> <li> <p>Конкурентную зарплату в USD/EUR, регулярные пересмотры</p> </li> <li> <p>Оплачиваемые отпуска, больничные и местные праздники</p> </li> </ul> <p>Хотите занять важную роль в динамичной iGaming-компании?<br />Присылайте своё резюме или свяжитесь с нами — с радостью расскажем больше!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Golang"
+    },
+    {
+      "name": "Clickhouse"
+    },
+    {
+      "name": "ClickUp"
+    },
+    {
+      "name": "Английский язык"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "6100354",
+    "name": "Строй Тренд",
+    "url": "https://api.hh.ru/employers/6100354",
+    "alternate_url": "https://hh.ru/employer/6100354",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1170403.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6302046.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6302047.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6100354",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T12:40:36+0300",
+  "created_at": "2025-06-03T12:40:36+0300",
+  "initial_created_at": "2025-06-03T12:40:36+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121280368",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121280368",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b2",
+        "name": "B2 — Средне-продвинутый"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_9",
+      "name": "9 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

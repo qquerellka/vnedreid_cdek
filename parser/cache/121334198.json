@@ -1,0 +1,189 @@
+{
+  "id": "121334198",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Java разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": null,
+    "to": 400000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": null,
+    "to": 400000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Китайгородский проезд",
+    "building": "7с3",
+    "lat": 55.751381,
+    "lng": 37.635314,
+    "description": null,
+    "raw": "Москва, Китайгородский проезд, 7с3",
+    "metro": {
+      "station_name": "Китай-город",
+      "line_name": "Калужско-Рижская",
+      "station_id": "6.50",
+      "line_id": "6",
+      "lat": 55.756498,
+      "lng": 37.631326
+    },
+    "metro_stations": [
+      {
+        "station_name": "Китай-город",
+        "line_name": "Калужско-Рижская",
+        "station_id": "6.50",
+        "line_id": "6",
+        "lat": 55.756498,
+        "lng": 37.631326
+      },
+      {
+        "station_name": "Китай-город",
+        "line_name": "Таганско-Краснопресненская",
+        "station_id": "7.51",
+        "line_id": "7",
+        "lat": 55.75436,
+        "lng": 37.633877
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>НТЦ ЕЭС Информационные Комплексы</strong> — современная ИТ компания, дочка АО &quot;Системный Оператор Единой Энергетической Системы&quot;, занимающаяся разработкой специализированного программного обеспечения в сфере электроэнергетики. Мы делаем проекты полного цикла, от выявления и формализации требований, до их внедрения и запуска в продуктив.<br /><br />Созданные нами программные решения помогают управлять энергосистемой страны, делая её стабильной и надёжной, а наши инновационные решения в области машинного обучения и ИИ успешно используются для прогнозирования выработки ВИЭ (солнечные и ветряные электростанции).<br /><br />Наши продукты включены в Реестр российского ПО, чем мы очень гордимся :)</p> <p><strong>НТЦ ЕЭС ИК внесена в Реестр аккредитованных ИТ-компаний Минцифры России (№11401 от 27.03.2020 г.).</strong></p> <p>Работаем в ритме Agile с применением лучших практик разработки ПО. Умеем эффективно реагировать на изменения, превращаем их в преимущество!</p> <p>Сейчас у нас открыта вакансия Java разработчика.<br /><br /><strong>ЗАДАЧИ:</strong></p> <ul> <li>Разработка back-end части для веб приложений в составе Agile команды.</li> <li>Участвовать в построении архитектуры проекта.</li> <li>Анализировать и улучшать код.</li> <li>Багфикс и доработка текущих проектов.</li> <li>Покрытие кода тестами.</li> </ul> <p><strong>ТЕХНОЛОГИЧЕСКИЙ СТЕК:</strong></p> <ul> <li>Java 8+;</li> <li>Spring Boot, Spring Data JPA, Spring Security, Spring Cloud;</li> <li>PostgreSQL;</li> <li>Hibernate, JUnit, Mockito, Maven, Git;</li> <li>REST API, WebSocket, Liquibase;</li> <li>Docker (опционально);</li> <li>RabbitMQ/Kafka (опционально);</li> <li>Swagger/OpenAPI;</li> <li>Lombok, MapStruct;</li> <li>Jira, Confluence.​​​​​​​</li> </ul> <p><strong>ТРЕБОВАНИЯ:</strong></p> <ul> <li>Опыт коммерческой разработки на Java от 3-х лет.</li> <li>Уверенные знания Java 8-17 (Collection, Stream API), Spring: (Boot, Web, Data, JPA, Cloud, Security, Stream).</li> <li>Уверенное знание принципов и опыт работы с реляционными БД (знания SQL, работа с пакетной загрузкой, индексами, оптимизация запросов).</li> <li>Понимание и опыт использования основных паттернов в разработке ПО.</li> <li>Умение покрывать написанный код тестами (JUnit), дебаг, профилирование и оптимизация.</li> <li>Опыт работы с одной из систем сборки (Maven, Gradle).</li> <li>Опыт работы с Git.</li> </ul> <p> </p> <p><strong>БУДЕТ ПЛЮСОМ:</strong></p> <ul> <li> <p>Опыт проектирования схем БД (нормализация, построение ER-диаграмм).</p> </li> <li> <p>Работа с большими объемами данных (пакетная загрузка, partitioning).​​​​​​​</p> </li> </ul> <p><strong>​​​​​​​МЫ ПРЕДЛАГАЕМ:</strong></p> <ul> <li>Официальное трудоустройство по ТК РФ;</li> <li>Удаленная работа;</li> <li>Конкурентная заработная плата;</li> <li>Забота о здоровье: ДМС после испытательного срока;</li> <li> <p>Работа в аккредитованной ИТ-компании: возможность получить льготную ипотеку и отсрочку от армии (для военнообязанных);</p> </li> <li> <p>Демократичность и отсутствие бюрократии: быстро принимаем решения, ставим понятные задачи, открыто обсуждаем проблемы и внедряем изменения;</p> </li> <li> <p>Возможность участия в интересных конференциях, обучающих мероприятиях и спортивных активностях;</p> </li> <li>Приятный коллектив и возможность расти, как профессионал своего дела!<br /><br /><strong>Стань частью масштабных проектов энергосистемы страны!</strong></li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Java"
+    },
+    {
+      "name": "Spring Framework"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Java SE"
+    },
+    {
+      "name": "Apache Maven"
+    },
+    {
+      "name": "Hibernate ORM"
+    },
+    {
+      "name": "Удаленная работа"
+    },
+    {
+      "name": "REST"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4509259",
+    "name": "НТЦ ЕЭС Информационные Комплексы",
+    "url": "https://api.hh.ru/employers/4509259",
+    "alternate_url": "https://hh.ru/employer/4509259",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/774905.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/3540511.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3540512.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4509259",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T12:44:00+0300",
+  "created_at": "2025-06-07T12:44:00+0300",
+  "initial_created_at": "2025-06-04T12:44:00+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121334198",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121334198",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

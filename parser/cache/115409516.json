@@ -1,0 +1,148 @@
+{
+  "id": "115409516",
+  "premium": true,
+  "billing_type": {
+    "id": "premium",
+    "name": "Премиум"
+  },
+  "relations": [],
+  "name": "Специалист технической поддержки",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 155000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 155000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Приглашаем вас стать частью команды технической поддержки Платформы ABCP — ключевого и незаменимого для тысяч клиентов по всему миру SaaS-продукта в сфере торговли автозапчастями.</p> <p><strong>Обязанности:</strong></p> <ul> <li>решение технических вопросов</li> <li>качественные консультации клиентов по продукту</li> <li>аналитика поступающих запросов на расширение функционала</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>коммуникативные навыки при общении с клиентами</li> <li>грамотная речь и письмо, умение быстро наладить контакт с людьми</li> <li>внимательность, и поэтому в сопроводительном письме вы напишете слово &quot;ping&quot;</li> <li>работа с технической документацией</li> </ul> <p><strong>Плюсы работы у нас:</strong></p> <p>Почему вам может понравиться работать с нами:</p> <p>Начали в 2005 году, и более 10 лет являемся примером для конкурентов.</p> <p>ABCP — это синоним доверия и качества среди всех участников рынка автозапчастей, потому что мы создаем надежные инструменты для эффективного развития их бизнеса.</p> <p>Из-за предыдущих пунктов наших сотрудников активно хантят более известные IT-компании, но сотрудники не всегда уходят, потому что им нравится, что у нас:</p> <ul> <li> <p>все работают над созданием реального и востребованного продукта, а не совещаются;</p> </li> <li> <p>есть возможность развивать hard и soft-скиллы и сменить стек при желании;</p> </li> <li> <p>компанией и командами руководят адекватные айтишники, а не эффективные менеджеры;</p> </li> <li> <p>нет “звезд” (хотя есть таланты) и все общаются со всеми;</p> </li> <li> <p>понятная, прозрачная и открытая политика и цели компании;</p> </li> <li> <p>зарплата регулярно индексируется и соответствует актуальной рыночной стоимости специалиста, а не количеству закрытых тасков;</p> </li> <li> <p>гибкий график работы и отпусков, НЕ приветствуются переработки, реальная удаленка;</p> </li> <li> <p>аккредитованная IT-компания.</p> </li> </ul> <p>Готовы к нам присоединиться? Для 100% уверенности в своем ответе на втором живом собеседовании вы встретитесь с будущими коллегами по команде, где сможете убедиться, подходим мы вам или нет. Ждём ваш отклик!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Коммуникабельность"
+    },
+    {
+      "name": "Способность к быстрому обучению"
+    },
+    {
+      "name": "Ответственность"
+    },
+    {
+      "name": "Внимательность"
+    },
+    {
+      "name": "Аналитический склад ума"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "561525",
+    "name": "ABCP",
+    "url": "https://api.hh.ru/employers/561525",
+    "alternate_url": "https://hh.ru/employer/561525",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1203196.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6433233.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6433234.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=561525",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T00:33:02+0300",
+  "created_at": "2025-06-05T00:33:02+0300",
+  "initial_created_at": "2025-01-13T13:26:52+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=115409516",
+  "has_test": true,
+  "test": {
+    "required": true
+  },
+  "alternate_url": "https://hh.ru/vacancy/115409516",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

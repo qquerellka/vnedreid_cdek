@@ -1,0 +1,137 @@
+{
+  "id": "121095559",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "DevOps-инженер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": null,
+    "to": 3000,
+    "currency": "USD",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 3000,
+    "currency": "USD",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>AppMagic -</strong> B2B SaaS-платформа для аналитики мобильного рынка. У нас более 300 компаний-клиентов по всему миру, включая ByteDance (TikTok), Google, Playrix. Наша цель - стать топ-1 в своей области.</p> <p>Ценность нашего продукта том, что он позволяет быстро и емко отвечать на самые важные для бизнеса вопросы: что делать? как вырасти? Слово “Magic” в названии сервиса как раз про это: про уникальные инструменты, которые радикально упрощают поиск и интерпретацию важнейших инсайтов в данных о рынке и конкурентах.</p> <p>Команда у нас небольшая, сейчас в компании работает около 50-ти человек, но за счет исключительного профессионализма мы успешно конкурируем с крупнейшими компаниями, и уже вышли на вторую позицию в мире.</p> <p><strong>Мы ищем DevOps-инженера, </strong>который сможет сделать AppMagic еще быстрее и стабильнее по всему миру.</p> <p><strong>Что нужно будет делать:</strong></p> <ul> <li> <p>Перенять процесс заботы об инфраструктуре от CTO и backend-команды.</p> </li> <li> <p>Вникнуть в текущую инфраструктуру, понять подходы, процессы, найти узкие места для оптимизации, улучшений, а также следить за оплатой сервисов и серверов.</p> </li> </ul> <ul> <li> <p>Поддерживать два Kubernetes-кластера на ~40 серверов, обновлять версии бд, вспомогательные системы.</p> </li> <li> <p>Развивать и настраивать СI/CD процессы, помогать разработчикам в решении инфраструктурных задач.</p> </li> <li> <p>Настраивать и оптимизировать backup-ы жизненно важных инструментов для работы сервиса: базы данных, GitLab, Jira, Grafana и т.д.</p> </li> <li> <p>Контролировать доступы к БД и остальным системам.</p> </li> <li> <p>Улучшать системы мониторинга и траблшутить по-необходимости.</p> </li> </ul> <p><strong>Стек: </strong>Kubernetes, Ansible, PostgreSQL, Clickhouse, RabbitMQ, MongoDB, GitLab, Grafana, Prometheus, Jira.</p> <p><strong>Что для этого потребуется:</strong></p> <ul> <li> <p>От 2-х лет опыта на позиции DevOps, в идеале в продуктовой компании или стартапе.</p> </li> <li> <p>Понимание устройства больших распределенных систем.</p> </li> <li> <p>Опыт настройки и поддержки:</p> <ul> <li> <p>CI/CD в рамках GitLab</p> </li> <li> <p>kubernetes</p> </li> <li> <p>систем мониторинга (Grafana, Prometheus)</p> </li> <li> <p>баз данных (SQL &amp; NoSQL)</p> </li> </ul> </li> <li> <p>Опыт со скриптовыми языками Python/Go/bash.</p> </li> <li> <p>Проактивность, стремление автоматизировать все что лень делать руками =)</p> </li> </ul> <p><strong>По условиям:</strong></p> <ul> <li> <p>Полностью удаленная работа из любой точки мира.</p> </li> <li> <p>Пересмотр зарплаты несколько раз в год по твоим результатам роста.</p> </li> <li> <p>100% компенсация больничных и отпусков без лишних бумаг.</p> </li> <li> <p>Частичная компенсация ДМС, курсов английского, консультаций психолога, спорта и курсов.</p> </li> <li> <p>Возможность применять на практике самые современные подходы и инструменты.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "GitLab CI"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "160",
+      "name": "DevOps-инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2562833",
+    "name": "AppMagic",
+    "url": "https://api.hh.ru/employers/2562833",
+    "alternate_url": "https://hh.ru/employer/2562833",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/708690.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3275876.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3275877.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2562833",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-28T16:51:37+0300",
+  "created_at": "2025-05-28T16:51:37+0300",
+  "initial_created_at": "2025-05-28T16:51:37+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121095559",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121095559",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

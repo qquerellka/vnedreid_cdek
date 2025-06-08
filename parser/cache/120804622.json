@@ -1,0 +1,172 @@
+{
+  "id": "120804622",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Аналитик - консультант 1С / методолог",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 150000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 150000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "Советский район, микрорайон Академгородок, улица Кутателадзе",
+    "building": "4Г",
+    "lat": 54.858025,
+    "lng": 83.105662,
+    "description": null,
+    "raw": "Новосибирск, Советский район, микрорайон Академгородок, улица Кутателадзе, 4Г",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Кого мы ищем:</strong><br />• консультанта по внедрению и поддержке систем 1С Предприятие, 1С ( ERP, КА, ЗУП)</p> <p><br /><strong>Обязанности:</strong></p> <p>• Консультирование пользователей по работе в различных конфигурациях 1С ( ERP, КА, ЗУП)<br />• Прием, анализ и выполнение задач по заявкам от клиентов (Яндекс.Трекер)<br />• Передача задач(требующих доработки) в отдел разработки, контроль выполнения<br />• Тестирование разработанного функционала и сдача работ заказчику<br />• Написание инструкций по работе с разработанным функционалом<br />• Настройка прав пользователей.<br />• Настройка отчетов</p> <p>Участие в проектах внедрения 1С ( ERP, КА) в качестве методолога ответственного за внедрение конкретной подсистемы (Регламентированный учет, зарплата, производство, склад и тд). В перспективе возможен рост до руководителя проектов.</p> <strong>Требования:</strong> <p>• Высшее профильное образование, хорошее знание базового функционала одного или нескольких из программных продуктов 1С ( ERP, КА, ЗУП, УПП)<br />• Опыт работы по поддержке пользователей указанных программных продуктов.<br />• Наличие сертификатов 1С:Профессионал или 1С:Специалист, будет плюсом<br />• Коммуникабельность, быстрая обучаемость.</p> <p><strong>Условия:</strong></p> <p>• Трудоустройство по ТК в аккредитованную it-компанию.<br />• Возможность работать дистанционно, график свободный</p> <p> </p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "ERP-системы на базе 1С"
+    },
+    {
+      "name": "1С: Предприятие 8"
+    },
+    {
+      "name": "1С: Бухгалтерия"
+    },
+    {
+      "name": "Разработка инструкций"
+    },
+    {
+      "name": "Аналитическое мышление"
+    },
+    {
+      "name": "Бухгалтерский учет"
+    },
+    {
+      "name": "Постановка задач разработчикам"
+    },
+    {
+      "name": "1С: Управление Производственным Предприятием"
+    },
+    {
+      "name": "1С: Управление Торговлей"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "155",
+      "name": "Методолог"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5906079",
+    "name": "СТРИМ",
+    "url": "https://api.hh.ru/employers/5906079",
+    "alternate_url": "https://hh.ru/employer/5906079",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/987776.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/5571916.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/5571917.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5906079",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-21T10:49:13+0300",
+  "created_at": "2025-05-21T10:49:13+0300",
+  "initial_created_at": "2025-05-21T10:49:13+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120804622",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120804622",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,173 @@
+{
+  "id": "120960185",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 120000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 120000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "5 линия – Фрунзенско-Приморская",
+    "building": "метро Шушары",
+    "lat": 59.820042,
+    "lng": 30.432865,
+    "description": null,
+    "raw": "Санкт-Петербург, 5 линия – Фрунзенско-Приморская, метро Шушары",
+    "metro": {
+      "station_name": "Шушары",
+      "line_name": "Фрунзенско-Приморская",
+      "station_id": "18.684",
+      "line_id": "18",
+      "lat": 59.819973,
+      "lng": 30.432718
+    },
+    "metro_stations": [
+      {
+        "station_name": "Шушары",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.684",
+        "line_id": "18",
+        "lat": 59.819973,
+        "lng": 30.432718
+      }
+    ]
+  },
+  "allow_messages": false,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Крупнейший поставщик теплотехнического оборудования на российский рынок</strong> <strong>приглашает на работу системного Администратора</strong></p> <p><strong>Условия:</strong></p> <ul> <li>Официальное оформление по <strong>ТК РФ, полностью белая з/п</strong>;</li> <li>Компенсация <strong>ГСМ</strong>;</li> <li>График работы: пн.-пт. 09.00-18.00;</li> <li>Место работы: <strong>поселок Шушары (Московское шоссе, дом 161, корп.14, стр. 1)</strong>;</li> <li>Работа в крупной стабильной компании с дружным слаженным коллективом.</li> </ul> <p><strong>Обязанности:</strong></p> <ul> <li> </li> <li>Обеспечение штатной работы парка компьютерной техники, сети и программного обеспечения склада и ОП в г. Санкт-Петербург;</li> <li>Поддержка рабочих мест сотрудников;</li> <li>Установка ПО на рабочие станции;</li> <li>Установка и настройка нового периферийного оборудования, подготовка новых рабочих мест сотрудников;</li> <li>Профилактика рабочих станций, антивирусная защита, установка и обновление.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Опыт работы системным администратором в организации с парком рабочих станций от 100 шт не менее 3 лет;</li> <li>Знания операционных серверных систем линейки Windows, AD, DNS, DHCP, VPN, стека протоколов TCP/IP, поверхностные знания активного и пассивного сетевого оборудования, серверов на платформе Intel, программ резервного копирования данных;</li> <li>Знание офисного пакета Microsoft;</li> <li>Знания и практические навыки в работе с IP телефонией;</li> <li>Знание принципов построения СКС. </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Работа с оргтехникой"
+    },
+    {
+      "name": "Обслуживание офисной техники"
+    },
+    {
+      "name": "Сетевые протоколы"
+    },
+    {
+      "name": "Резервное копирование"
+    },
+    {
+      "name": "Обеспечение антивирусной защиты"
+    },
+    {
+      "name": "Администрирование серверов Windows"
+    },
+    {
+      "name": "Администрирование сетевого оборудования"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2994",
+    "name": "Терем",
+    "url": "https://api.hh.ru/employers/2994",
+    "alternate_url": "https://hh.ru/employer/2994",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/232174.gif",
+      "90": "https://img.hhcdn.ru/employer-logo/846302.png",
+      "240": "https://img.hhcdn.ru/employer-logo/846303.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2994",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T11:38:36+0300",
+  "created_at": "2025-06-02T11:38:36+0300",
+  "initial_created_at": "2025-05-26T10:06:29+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120960185",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120960185",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

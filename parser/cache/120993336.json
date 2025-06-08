@@ -1,0 +1,163 @@
+{
+  "id": "120993336",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "TeamLead Kotlin/Java Developer (Generative AI)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Большая Зеленина улица",
+    "building": "24",
+    "lat": 59.963656,
+    "lng": 30.287077,
+    "description": null,
+    "raw": "Санкт-Петербург, Большая Зеленина улица, 24",
+    "metro": {
+      "station_name": "Петроградская",
+      "line_name": "Московско-Петроградская",
+      "station_id": "15.215",
+      "line_id": "15",
+      "lat": 59.966389,
+      "lng": 30.311293
+    },
+    "metro_stations": [
+      {
+        "station_name": "Петроградская",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.215",
+        "line_id": "15",
+        "lat": 59.966389,
+        "lng": 30.311293
+      },
+      {
+        "station_name": "Чкаловская",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.248",
+        "line_id": "18",
+        "lat": 59.961033,
+        "lng": 30.292006
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<div> <p>Мы – <strong>Just AI</strong> и мы создаем лучших на рынке AI – ассистентов для коммуникаций бизнеса с клиентами. С 2016 года мы разрабатываем Conversational AI для бизнеса и безопасно внедряем его процессы разных компаний. Мы действительно хороши в работе с чат-ботами, голосовыми ассистентами и инструментами для работы с разговорными интерфейсами.</p> <p>Компания Just AI является<strong> признанным лидером</strong> в сфере искусственного интеллекта и гордится тем, что вошла в топ-20 ключевых работодателей по ИИ в России.</p> <p>Мы находимся в одном ряду с такими гигантами, как «Яндекс Поиск», Sber AI и MTS AI, которые были признаны лучшими работодателями согласно рейтингу TAdviser. Это стало возможным благодаря нашим передовым подходам в развитии и обучении талантов в области ИИ.</p> <p><strong>Работа в Just AI</strong> — это уникальная возможность стать частью команды, которая формирует будущее технологий. Нам уже доверились: Yandex, Сбер, МТС, Мегафон, Альфа-банк, СовКомБанк, HH.ru, Х5 и другие. А наши облачные продукты используют более 150 тысяч человек.</p> <p><strong>Немного о цифрах в Just AI:</strong></p> <ul> <li> <p>150+ крупных клиентов из финтеха, телекома, ритейла, страхования и других отраслей;</p> </li> </ul> <ul> <li> <p>140 тыс. + пользователей SaaS-платформы Aimylogic среди бизнеса и инди-разработчиков;</p> </li> </ul> <ul> <li> <p>60+ компаний-партнеров;</p> </li> </ul> <ul> <li> <p>Команда из 200+ профессионалов.</p> </li> </ul> <p><br />Сейчас мы ищем TeamLead Java/Kotlin разработчика в команду <strong>Knowledge Hub</strong>, которая отвечает за интеллектуальную вопросно-ответную систему на основе неформализованных данных компаний.</p> <p><strong>Используемый стек технологий: </strong>Java 17/Kotlin, Spring Boot 2, Spring Cloud, PostgreSQL, MongoDB, Python, Llamaindex, Langchain, Elasticsearch.</p> </div> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Прорабатывать архитектуру новых решений на основе Generative AI, делать аудит и исправление текущих.</li> <li>Разрабатывать наиболее сложные сервисы и проводить выборочные code review.</li> <li>Обеспечивать работоспособность сервисов и устранять технический долг.</li> <li>Планировать работу команды в кооперации с менеджерами на краткий и долгий срок.</li> <li>Распределять задачи, контролировать качество и сроки.</li> <li>Выстраивать системную работу с менеджерами, аналитиками, дизайнерами, тестировщиками, разработчиками.</li> <li>Проводить регулярные встречи один на один, развивать команду, как с точки зрения найма и развития людей, так и с точки зрения улучшения процессов разработки.</li> </ul> <ul> <li>Интегрироваться с внешними ML-моделями, в том числе LLM;</li> <li>Реализовывать инструменты для создания AI-приложений;</li> <li>Создавать инструменты предобработки данных, в том числе для безопасного использования GenAI компаниями;</li> <li>Исследовать новые возможности современного AI и внедрять их в продукт.</li> </ul> <p><strong>Наши ожидания:</strong></p> <ul> <li>Опыт работы в роли руководителя команды разработки от 7 человек более года, включая опыт профессионального развития разработчиков.</li> <li>Опыт руководства командой разработки на всех стадиях delivery-процесса - от проектирования до поставки решения.</li> <li>Умение планировать работу команды и укладываться в собственную оценку.</li> <li>Опыт бэкенд-разработки на Java или Kotlin более пяти лет, использование в работе Java 17/Kotlin, Spring (core, data, mvc, integration, test), JPA от 2 лет;</li> <li>Широкий технический кругозор, опыт применения LLM для оптимизации процессов разработки.</li> <li>Опыт работы с SQL базами данных;</li> <li>Знание Linux на уровне уверенного пользователя командной строки;</li> <li>Опыт автоматизации, желание и умение внедрять и улучшать процессы CI/CD;</li> <li>Опыт работы с облачной инфраструктурой (Azure, OpenShift, Heroku, Google App Engine).</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Интерес к теме AI, готовность изучать и работать над алгоритмами искусственного интеллекта.</li> <li>Наличие продакшен опыта в Python или желание изучить этот язык программирования.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li> <p>Интересные проекты, возможность быстрой имплементации результатов исследований в продукты;</p> </li> <li> <p>Возможности для профессионального роста и обмена опытом как внутри коллектива, так и в рамках внешнего сотрудничества с нашими партнерами, университетами и сообществами;</p> </li> <li> <p>Возможность принять участие в масштабировании продуктов на международный рынок;</p> </li> <li> <p>Ежегодный выбор бенефита (компенсация ДМС/спорта/обучения);</p> </li> <li> <p>Работа в гибридном формате из<strong> нашего офиса в Петербурге</strong> или <strong>удаленная работа</strong>.</p> </li> <li> <p>Just AI входит в группы IT-компаний i-Free, объединяющей 16 компаний со штатом около 1000 человек – обилие ивентов по обмену опытом, митапов, возможности для горизонтального развития в компаниях группы;</p> </li> <li> <p>Помощь в релокации, в подборе подходящего жилья, релокационный бонус (при переезде в Петербург).</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Spring Framework"
+    },
+    {
+      "name": "Java"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Kotlin"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3833791",
+    "name": "Just AI",
+    "url": "https://api.hh.ru/employers/3833791",
+    "alternate_url": "https://hh.ru/employer/3833791",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/613674.png",
+      "90": "https://img.hhcdn.ru/employer-logo/2895848.png",
+      "240": "https://img.hhcdn.ru/employer-logo/2895849.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3833791",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-26T16:58:33+0300",
+  "created_at": "2025-05-26T16:58:33+0300",
+  "initial_created_at": "2025-05-26T16:58:33+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120993336",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120993336",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,153 @@
+{
+  "id": "119587878",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "QA Engineer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Большая Тульская улица",
+    "building": "11",
+    "lat": 55.710027,
+    "lng": 37.623843,
+    "description": null,
+    "raw": "Москва, Большая Тульская улица, 11",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Мы - Right Line, российская IT-компания, работающая с 2017 года. Мы разрабатываем решения для банков и финансовых компаний.</strong></p> <p>Наша команда стала первым <strong>сертифицированным вендором решения для Системы Быстрых Платежей в России</strong>, начавшей подключать российские банки к этой системе, опередив крупных IT-гигантов. Первым подключенным клиентом стал Тинькофф Банк, участвовавший в пилотном проекте.</p> <p>Также, мы запустили <strong>сервис трансграничных переводов</strong> по номеру телефона прямо из банковского приложения.</p> <p>А еще мы активно <strong>участвуем в проекте “Цифровой рубль”</strong> и на базе нашего решения уже проходят первые операции с новой формой национальной валюты!</p> <p>Мы растём и развиваемся, в связи с чем находимся в поиске Auto QA на один из наших ключевых финтех проектов. Мы открываем новые направления и формируем команду профессиональными коллегами, которые, как и мы, хотят добиваться крутых результатов.</p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Проведение функционального, регрессионного, интеграционного тестирований, end-to-end тестирования с участием внешних систем клиентов;</li> <li>Ведение отчётной документации по результатам тестирования, разработка тест-кейсов;</li> <li>Разработка автотестов с помощью существующих средств (Java 21+Spring Boot 3.4+Lombok, JUnit 5, RestAssured, Testcontainers/docker-compose, WireMock) для приложений продукта; </li> <li>Разработка эмуляторов внешних систем;</li> <li>Тестирование программного обеспечения по разработанным тест-кейсам (80% бэк, 20% фронт);</li> <li>Регистрация и систематизация выявленных проблем и дефектов;</li> <li>Раскатка тестовых стендов через UI Jenkins;</li> <li>Участие в процессе установки обновлений систем в тестовой среде;</li> <li>Разработка нагрузочных профилей и проведение тестирования производительности;</li> <li>Взаимодействие с разработчиками, аналитиками, руководителями проектов.</li> </ul> <p><strong>Что мы ожидаем от кандидата:</strong></p> <ul> <li>Опыт работы тестировщиком от 4-х лет;</li> <li>Уверенные знания теоретических основ тестирования;</li> <li>Знание основ Java\\Kotlin;</li> <li>Опыт работы с SQL и БД (одной из: PostgreSQL/MS SQL);</li> <li>Опыт тестирования REST API (Postman\\Swagger) и web-интерфейсов, понимание принципов работы веб-сервисов и форматов передачи данных (json, xml);</li> <li>Опыт работы с системами логгирования: Sage/Kibana/Grafana/Logstash/Graylog;</li> <li>Опыт работы с Apache Kafka;</li> <li>Опыт работы с Git, GitFlow;</li> <li>Желание развиваться в автоматизацию тестирования и знание основ хотя бы одного языка программирования.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Работа с Docker;</li> <li>Опыт автоматизации процесса тестирования;</li> <li>Опыт работы с платежными системами.</li> </ul> <p><strong>Преимущества работы в нашей команде:</strong></p> <ul> <li> <p><strong>Официальное оформление</strong> в штат с первого рабочего дня, все по ТК РФ;</p> </li> <li> <p>Работа в <strong>аккредитованной</strong> ИТ-компании;</p> </li> <li> <p><strong>Полная удаленка</strong> (РФ, СНГ) или<strong> гибридный формат</strong> работы (офис в Москве, метро Тульская + удаленка);</p> </li> <li> <p>Конкурентная заработная <strong>плата</strong>;</p> </li> <li> <p>Амбициозные <strong>проекты</strong> (нашими разработками уже пользуются миллионы людей);</p> </li> <li> <p><strong>ДМС</strong>, денежный <strong>подарок</strong> на день рождения, корпоративный <strong>английский</strong>;</p> </li> <li> <p>Уютный <strong>офис</strong> в бизнес-центре <strong>класса “А” рядом с м.Тульская,</strong> в котором обязательно есть кофе, чай, фрукты, бутерброды, печеньки, а главное - классные коллеги, с которыми всегда есть что обсудить :) ;</p> </li> <li> <p><strong>Корпоративные мероприятия</strong> (офлайн и онлайн), пятничные киносеансы и настолки, экскурсии, спортивные активности;</p> </li> <li> <p><strong>Свобода</strong> в принятии решений и большая <strong>перспектива</strong> быстрого <strong>карьерного роста</strong>;</p> </li> <li> <p>Возможность <strong>реализовать себя</strong> на пути от стартапа до корпорации.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Apache Kafka"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Java"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Postman"
+    },
+    {
+      "name": "Автоматизированное тестирование"
+    },
+    {
+      "name": "Apache JMeter"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3649870",
+    "name": "Right Line",
+    "url": "https://api.hh.ru/employers/3649870",
+    "alternate_url": "https://hh.ru/employer/3649870",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/762293.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3490129.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3490130.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3649870",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-16T12:53:50+0300",
+  "created_at": "2025-05-16T12:53:50+0300",
+  "initial_created_at": "2025-04-16T12:53:49+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119587878",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119587878",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

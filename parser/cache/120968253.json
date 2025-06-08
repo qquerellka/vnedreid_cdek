@@ -1,0 +1,165 @@
+{
+  "id": "120968253",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Data Scientist (Junior)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": null,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": 55.74146507524133,
+    "lng": 37.63113245701637,
+    "description": null,
+    "raw": "Москва, Озерковский переулок, 12.",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>BND - консалтинговая компания, специализирующаяся на предоставлении услуг в области бизнес-аналитики (BI, Business Intelligence), риск-менеджмента, управления взаимоотношениями с клиентами (CRM), финансовой консолидации и электронного бизнес</strong></p> <p>Сейчас в компании активно развивается направление DS. Мы решаем задачи в области computer vision и прогнозирования, связанными с промышленностью.</p> <p><strong>Поэтому очень ищем специалиста Data Science (уровень junior)</strong></p> <strong>Для данной позиции предусмотрено тестовое задание, если откликаетесь, то будте готовы его выполнить</strong><br /><br /><strong>Ваши будущие задачи:</strong> <p>• Собирать и готовить данные для использования в ML-моделях</p> <p>• Разработка и поддержка микросервисов на Python, основанных на моделях компьютерного зрения, и их интеграция с другими компонентами систем;</p> <p>• Тестирование, оценка и оптимизация производительности моделей и сервисов, созданных на их основе, а также сборка ML-пайплайнов.</p> <p><br /><strong>Стек технологий: </strong>Python (OpenCV, NumPy, Pandas, PyTorch), SQL, Triton Inference Server, TensorRT, Docker, Kubernetes, Helm<br /><br /></p> <strong>Мы ожидаем:</strong> <p>• Высшее образование (математическое, техническое)</p> <p>• Возможность работать полную рабочую неделю</p> <p>• Знание современных архитектур нейросетей</p> <p>• Понимание как устроены классические алгоритмы машинного обучения и принципы их работы</p> <p>• Интерес к CV (Computer Vision) и deep learning</p> <p>• Английский для чтения статей и технической документации</p> <p><strong><strong>Будет плюсом, если вы:</strong></strong></p> <p>• Обучали и применяли на практике CV модели;</p> <p>• Работали с контейнеризацией при помощи Docker и кластером на Kubernetes;</p> <p>• Знаете С++;</p> <p>• Знакомы с TensorRT и CUDA.<br /><br /></p> <strong>Что мы готовы вам предложить:</strong> <p>• Работу в интересном проекте крупного заказчика;</p> <p>• Перспективы роста и развития в компании;</p> <p>• Достойный уровень компенсации;</p> <p>• Оформление по ТК РФ;</p> <p>• График 5/2, гибридный график работы;</p> <p>• ДМС, после прохождения испытательного срока;</p> <p>• Гибридный график работы (1-2 раза в неделю офис);</p> <p>• Офис в центре Москвы 5 минут от м. Новокузнецкая / м. Третьяковская<br /></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Computer Vision"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "OpenCV"
+    },
+    {
+      "name": "NamPy"
+    },
+    {
+      "name": "pandas"
+    },
+    {
+      "name": "ML"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "TensorPT"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "165",
+      "name": "Дата-сайентист"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1056818",
+    "name": "BND LLC",
+    "url": "https://api.hh.ru/employers/1056818",
+    "alternate_url": "https://hh.ru/employer/1056818",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1029013.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/5736812.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/5736813.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1056818",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T11:32:51+0300",
+  "created_at": "2025-06-07T11:32:51+0300",
+  "initial_created_at": "2025-05-26T11:32:51+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120968253",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120968253",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,164 @@
+{
+  "id": "120400908",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Junior Python Backend Developer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "66",
+    "name": "Нижний Новгород",
+    "url": "https://api.hh.ru/areas/66"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Нижний Новгород",
+    "street": "Холодный переулок",
+    "building": "10А",
+    "lat": 56.319834,
+    "lng": 44.001576,
+    "description": null,
+    "raw": "Нижний Новгород, Холодный переулок, 10А",
+    "metro": {
+      "station_name": "Горьковская",
+      "line_name": "Автозаводская",
+      "station_id": "50.278",
+      "line_id": "50",
+      "lat": 56.313933,
+      "lng": 43.99482
+    },
+    "metro_stations": [
+      {
+        "station_name": "Горьковская",
+        "line_name": "Автозаводская",
+        "station_id": "50.278",
+        "line_id": "50",
+        "lat": 56.313933,
+        "lng": 43.99482
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p> </p> <p>Приглашаем в нашу команду на вакансию Python Backend Developer</p> <p>Наша команда создает и развивает несколько международных проектов в сфере медиа контента, музыки и обработки медиа/аудио файлов. Нашими приложениями пользуются миллионы людей по всему миру, количество проектов и пользователей растет каждый день.</p> <p>Проект <strong>LALAL.AI,</strong> куда мы и приглашаем специалиста - это один из лучших мире сервисов для нейросетевой обработки аудио контента. Вы будете работать в тесном сотрудничестве с ML и Frontend командами.</p> <p><strong>Наш стек:</strong></p> <p>Python 3, Django, Celery, Docker, PostgreSQL, Bitbucket CI, AWS</p> <p><strong>Что ты будешь делать:</strong></p> <ul> <li> <p>Развивать и поддерживать веб сервис написанный на Django</p> </li> <li> <p>Поддерживать модули интеграции платежных систем Stripe и Paypal</p> </li> <li> <p>Расширять функционал медиа обработки с помощью задач Celery</p> </li> </ul> <p><strong>Что мы ожидаем:</strong></p> <ul> <li> <p>Профильное высшее образование</p> </li> <li> <p>Уверенное знание Python и SQL</p> </li> <li> <p>Знание классических алгоритмов и структур данных</p> </li> <li> <p>Базовые навыки Django</p> </li> <li> <p>Работа с терминалом Linux</p> </li> <li> <p>Git</p> </li> <li> <p>Готовность учиться :)</p> </li> </ul> <p><strong>Условия и почему у нас здорово работать:</strong></p> <ul> <li> <p>На выбор 2 формата работы: <strong>работа в офисе / гибридный формат</strong></p> </li> <li> <p>Гибкий рабочий график</p> </li> <li> <p>Трудоустройство согласно ТК РФ, белая зарплата по итогам индивидуального собеседования</p> </li> <li> <p>Полис ДМС со стоматологией</p> </li> <li> <p>Частичная компенсация затрат на обучающие курсы/материалы</p> </li> <li> <p>Корпоративные курсы английского и немецкого языка</p> </li> <li> <p>Отсутствие излишней бюрократии</p> </li> </ul> <p><strong>Мы ищем сотрудника для работы в Нижнем Новгороде в офисе или на гибридный формат. Удаленный формат, к сожалению, невозможен.</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Алгоритмы и структуры данных"
+    },
+    {
+      "name": "SQL"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2081770",
+    "name": "Open Media",
+    "url": "https://api.hh.ru/employers/2081770",
+    "alternate_url": "https://hh.ru/employer/2081770",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/595832.png",
+      "90": "https://img.hhcdn.ru/employer-logo/2824583.png",
+      "240": "https://img.hhcdn.ru/employer-logo/2824584.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2081770",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T12:14:31+0300",
+  "created_at": "2025-06-05T12:14:31+0300",
+  "initial_created_at": "2025-05-12T12:14:31+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120400908",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120400908",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "a1",
+        "name": "A1 — Начальный"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,139 @@
+{
+  "id": "121270440",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "PHP-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Algorithmics Global - международная ed-tech компания, где учатся сотни тысяч детей по всему миру и каждую неделю появляется что-то новое.<br />У нас нет понятия «застывший стек» — мы постоянно ищем, пробуем, выкидываем и запускаем снова. </strong></p> <p>Сейчас ищем сильного PHP-инженера, которому будет интересно не только «чинить баги», но и экспериментировать с LLM-кодогенерацией, автодокументацией и другими свежими штуками.</p> <p> </p> <p><strong>Стек: </strong></p> <ul> <li> <p>PHP 8.0/8.2;</p> </li> <li> <p>MySQL как основная БД и PostgreSQL для некоторых сервисов;</p> </li> <li> <p>Redis - для сессий и кешей;</p> </li> <li> <p>RabbitMQ - для очередей;</p> </li> <li> <p>Различные S3 хранилища для файлов;</p> </li> <li> <p>ELK для логов;</p> </li> <li> <p>JIRA для задач и Confluence для документации.</p> </li> </ul> <p><strong>Что предстоит делать:</strong></p> <ul> <li> <p>Прокачивать нашу LMS-платформу: от ядра до UI-слоя;</p> </li> <li> <p>Писать API для обработки аудио/видео-контента ( стриминг, конвертация, очереди);</p> </li> <li> <p>Работать с фронтом, реализовывать визуальную часть LMS платформы;</p> </li> <li> <p>Обновлять сервисы личного кабинета родителей: платежи, прогресс, отчёты;</p> </li> <li> <p>Интегрироваться с CRM, платёжными и внешними сервисами (REST, Webhook, очереди).</p> </li> </ul> <p> </p> <p>Экспериментировать:</p> <ul> <li> <p>Запускать кодогенерацию и refactor-подсказки через LLM инструменты;</p> </li> <li> <p>Генерировать и обновлять документацию «на лету»;</p> </li> <li> <p>Собирать прототипы внутренних DevTools.</p> </li> </ul> <p> </p> <p><strong>Что мы ждем от тебя:</strong></p> <ul> <li> <p>Отличное знание PHP;</p> </li> <li> <p>Умение работать с Yii2 и Laravel фреймворками;</p> </li> <li> <p>Опыт работы с MySQL и навык оптимизации запросов;</p> </li> <li> <p>Опыт работы с Vue.js;</p> </li> <li> <p>Опыт работы с PostgreSQL, RabbitMQ, Redis и Docker;</p> </li> <li> <p>Знание компонентов ELK и опыт работы с ними;</p> </li> <li> <p>Сильные навыки решения проблем, внимание к деталям и проактивный подход.</p> </li> </ul> <p><strong>Будет большим плюсом:</strong></p> <ul> <li> <p>Опыт и желание работать с современными агентскими LLM системами;</p> </li> <li> <p>Навык написания кода в соответствии с принципами SOLID;</p> </li> <li> <p>Понимание Agile-методологии.</p> </li> </ul> <p> </p> <p><strong>Что мы можем тебе обещать: </strong></p> <ul> <li><strong>Полная свобода в выборе локации</strong>: работай удаленно из любой точки мира, а если будешь в Москве, заходи в наш уютный офис на Китай-Городе;</li> <li><strong>Официальное оформление</strong>: мы готовы предложить любой удобный вариант трудоустройства, подходящий для твоей локации;</li> <li><strong>Зарплата на уровне рынка</strong>: готовы обсуждать условия, мы ценим вклад каждого;</li> <li><strong>Гибкость в графике</strong>: плавный старт рабочего дня, в приоритете всегда результат, а не микроменеджмент;</li> <li><strong>Забота о твоем здоровье и отдыхе</strong>: ДМС после испытательного срока, компенсация больничных и отпусков до 100%, оплачиваемые Day-off для перезагрузки;</li> <li><strong>Клубы по интересам</strong>: английский, бег, книжные клубы. Нет ничего лучше - чем разделять не только работу, но и личные интересы;</li> <li><strong>Корпоративные скидки</strong>: обучение в Алгоритмике и SkyEng, спортзалы, рестораны, доставка еды и многое другое.</li> </ul> <p><strong>Хочешь заниматься бизнесом в одной из самых перспективных и активно развивающихся отраслей — Edtech? Тогда нам по пути.</strong></p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": {
+    "id": 45179,
+    "name": "Global",
+    "top_picture": {
+      "height": 839,
+      "width": 2310,
+      "path": "https://img.hhcdn.ru/branding-pictures/3075863.png",
+      "blurred_path": null
+    },
+    "bottom_picture": {
+      "height": 1056,
+      "width": 2310,
+      "path": "https://img.hhcdn.ru/branding-pictures/3075870.png",
+      "blurred_path": null
+    }
+  },
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2657797",
+    "name": "Алгоритмика",
+    "url": "https://api.hh.ru/employers/2657797",
+    "alternate_url": "https://hh.ru/employer/2657797",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1393185.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7192523.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7192524.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2657797",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T10:34:18+0300",
+  "created_at": "2025-06-03T10:34:18+0300",
+  "initial_created_at": "2025-06-03T10:34:18+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121270440",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121270440",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b2",
+        "name": "B2 — Средне-продвинутый"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

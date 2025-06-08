@@ -1,0 +1,175 @@
+{
+  "id": "120391916",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Backend-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": null,
+    "lng": null,
+    "description": null,
+    "raw": null,
+    "metro": {
+      "station_name": "Трубная",
+      "line_name": "Люблинско-Дмитровская",
+      "station_id": "10.177",
+      "line_id": "10",
+      "lat": 55.76771,
+      "lng": 37.621926
+    },
+    "metro_stations": [
+      {
+        "station_name": "Трубная",
+        "line_name": "Люблинско-Дмитровская",
+        "station_id": "10.177",
+        "line_id": "10",
+        "lat": 55.76771,
+        "lng": 37.621926
+      },
+      {
+        "station_name": "Цветной бульвар",
+        "line_name": "Серпуховско-Тимирязевская",
+        "station_id": "9.154",
+        "line_id": "9",
+        "lat": 55.771653,
+        "lng": 37.620466
+      },
+      {
+        "station_name": "Чеховская",
+        "line_name": "Серпуховско-Тимирязевская",
+        "station_id": "9.123",
+        "line_id": "9",
+        "lat": 55.765747,
+        "lng": 37.608493
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <ul> <li>Разработка и поддержка REST API проектов;</li> <li>Тестирование и оптимизация разработанного функционала;</li> <li>Написание несложных запросов и рефакторинг кода;</li> <li>Сопровождение проектов: исправление багов и доработка функционала.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Знание PHP 7.2 и выше, MySQL;</li> <li>Опыт работы с Rest API;</li> <li><strong>Желателен опыт работы с электронными банковскими гарантиями;</strong></li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Оформление по ТК РФ;</li> <li>График 5/2, гибкое начало рабочего дня;</li> <li>Комфортный и стильный офис рядом с м. Цветной бульвар;</li> <li>Возможности развития через кроссфункциональное взаимодействие, широкий пул проектов, в которых возможно принять участие;</li> <li>ДМС со стоматологией.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "MySQL"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9837185",
+    "name": "Copperside",
+    "url": "https://api.hh.ru/employers/9837185",
+    "alternate_url": "https://hh.ru/employer/9837185",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1327458.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6929854.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6929855.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9837185",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-12T10:59:59+0300",
+  "created_at": "2025-05-12T10:59:59+0300",
+  "initial_created_at": "2025-05-12T10:59:59+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120391916",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120391916",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

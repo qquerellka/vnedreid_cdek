@@ -1,0 +1,126 @@
+{
+  "id": "121227312",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Middle Unreal Engine Developer (Blueprint)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>IndieGo Fund </strong>—<strong> </strong>это издательство и инвестиционный фонд, который помогает инди-разработчикам превращать идеи в успешные коммерческие проекты. Мы объединяем талантливые команды из России, СНГ и Восточной Европы и поддерживаем их на всех этапах разработки: от концепции до релиза на Steam, Xbox, PlayStation и Oculus.</p> <p>На данный момент мы ищем<strong> Middle Unreal Engine Developer (Blueprint)</strong>, на PC игру в жанрах rogue-lite и colony sim.</p> <p> </p> <p><strong>Задачи:</strong></p> <ul> <li> <p>Разработка систем игрового кора под руководством тимлида и в тесной кооперации с командой C++ разработки;</p> </li> <li> <p>Настройка систем UMG;</p> </li> <li> <p>Сборка игрового процесса из отдельных игровых систем.</p> </li> </ul> <p> </p> <p><strong>Что хотим видеть:</strong></p> <ul> <li> <p>Базовое знание архитектуры движка;</p> </li> <li> <p>Высокий уровень владения разработкой на Blueprint;</p> </li> <li> <p>Базовое знание внутренних систем UE5 (AnimBP, Matirials, Niagara и т.д.);</p> </li> <li> <p>Понимание пайплайнов связи Blueprint и C++ разработки;</p> </li> <li> <p>Базовое знание систем контроля версий.</p> </li> </ul> <p><strong>Дополнительно классно:</strong></p> <ul> <li>Знание C++.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li> <p>Официальное трудоустройство, бонусы, премии и дополнительные преимущества;</p> </li> <li> <p>Интересная работа в динамично развивающемся коллективе;</p> </li> <li> <p>Офис рядом с метро Павелецкая;</p> </li> <li> <p>Гибкий график;</p> </li> <li> <p>Отсутствие бюрократии и лишнего формализма;</p> </li> <li> <p>Возможности для развития и карьерного роста.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Unreal Engine"
+    },
+    {
+      "name": "Blueprints"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11732206",
+    "name": "Indie Go",
+    "url": "https://api.hh.ru/employers/11732206",
+    "alternate_url": "https://hh.ru/employer/11732206",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1402237.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7228719.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7228720.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11732206",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T14:28:44+0300",
+  "created_at": "2025-06-05T14:28:44+0300",
+  "initial_created_at": "2025-06-02T14:28:44+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121227312",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121227312",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

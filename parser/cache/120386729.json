@@ -1,0 +1,155 @@
+{
+  "id": "120386729",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Backend-разработчик (Python)",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Наша команда ищет Backend-разработчика (Middle). Вы будете отвечать за разработку, поддержку и улучшение backend-сервисов, API и интеграций, преимущественно используя Python. Ваша задача – обеспечивать высокую производительность, надежность и масштабируемость backend-систем.</p> <p><strong>Обязанности:</strong></p> <p>​​​​​​- Разработка и поддержка backend-сервисов и API на Python.</p> <p>- Оптимизация производительности, масштабируемости и надежности приложений.</p> <p>- Активное участие в ревью кода, архитектурных обсуждениях и планировании стратегии backend-разработки.</p> <p>- Написание чистого, поддерживаемого, и масштабируемого кода.</p> <p>- Отладка, устранение и решение проблем в кодовой базе.</p> <p>- Интеграция backend-сервисов с frontend-приложениями и сторонними системами.</p> <p><strong>Требования:</strong></p> <p>- Уверенные знания Python.</p> <p>- Опыт работы с message brokers (RabbitMQ).</p> <p>- Опыт работы с веб-фреймворками (Tornado, Django, FastAPI, Sanic).</p> <p>- Знание реляционных (MySQL) и нереляционных (MongoDB, Redis) баз данных и уверенное владение SQL.</p> <p>- Опыт написания тестов.</p> <p>- Владение Git для контроля версий, ветвления и совместной работы.</p> <p>- Понимание принципов REST API, принципами их проектирования и интеграции.</p> <p><strong>Будет плюсом:</strong></p> <p>- Понимание принципов работы асинхронного программирования на Python (asyncio, aiohttp и др.).</p> <p>- Опыт интеграции публичных и приватных облаков (AWS, Azure, GCP, OpenStack).</p> <p>- Опыт работы с контейнеризацией и технологиями CI/CD (Docker, Kubernetes, Jenkins).</p> <p><strong>Условия:</strong></p> <p>- Конкурентоспособную заработную плату в зависимости от опыта и навыков.</p> <p>- Ежегодный пересмотр зарплаты по результатам работы.</p> <p>- Гибкие условия работы: гибридный формат (офис/удаленно) или полностью удалённая работа, гибкий график начала и окончания рабочего дня.</p> <p>- Возможности карьерного роста в дружной и инновационной команде.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "RabbitMQ"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "MongoDB"
+    },
+    {
+      "name": "FastAPI"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "Асинхронное программирование"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Kubernetes"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3396812",
+    "name": "Хайстекс",
+    "url": "https://api.hh.ru/employers/3396812",
+    "alternate_url": "https://hh.ru/employer/3396812",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1426998.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7327641.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7327642.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3396812",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T10:21:23+0300",
+  "created_at": "2025-06-05T10:21:23+0300",
+  "initial_created_at": "2025-05-12T10:21:23+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120386729",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120386729",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b1",
+        "name": "B1 — Средний"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

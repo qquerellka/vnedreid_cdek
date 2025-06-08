@@ -1,0 +1,164 @@
+{
+  "id": "120715489",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Администратор сайтов / Контент-менеджер / Специалист технической поддержки сайтов",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 50000,
+    "to": 60000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 50000,
+    "to": 60000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "MONTHLY",
+      "name": "Раз в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Вакансия: Специалист технической поддержки сайтов / Администратор сайтов / Контент-менеджер</strong></p> <p><strong>Обязанности:</strong><br />- Общаться с заказчиком, выяснять и помогать формулировать его задачи, оценивать адекватность и сроки выполнения.<br />- Помогать с задачами по размещению контента на сайты и в соцсети.<br />- Декомпозировать и распределять задачи между исполнителями (программисты, дизайнеры и т.д.).<br />- Отвечать за соблюдение срока и качества выполнения поставленных задач.<br />- Отслеживать задачи в трекинг-системе, вести базу знаний проектов.<br />- Вести отчетность.</p> <p><strong>Требования:</strong><br />- Опыт участия в разработке и поддержке веб-проектов.<br />- Обязательное знание основ HTML и CSS.<br />- Базовое владение графическими редакторами (уметь кадрировать и уменьшить изображение под необходимый формат).<br />- Знание CMS: Wordpress, MODX, 1С-Битрикс.<br />- Умение пользоваться Битрикс 24.<br />- Понимание основ SEO, работы систем аналитики.<br />- Умение грамотно вести переговоры и переписку с заказчиком.<br />- Коммуникабельность, инициативность, самостоятельность, внимательность к деталям.</p> <p><strong>Условия:</strong><br />Полная занятость с графиком 5/2 с 10 до 19.<br />Возможность работать удаленно.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "CMS Wordpress"
+    },
+    {
+      "name": "1С-Битрикс"
+    },
+    {
+      "name": "Битрикс24"
+    },
+    {
+      "name": "Публикация контента"
+    },
+    {
+      "name": "Наполнение контентом"
+    },
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "SEO"
+    },
+    {
+      "name": "Администрирование сайтов"
+    },
+    {
+      "name": "Техническая поддержка"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3548300",
+    "name": "МедСпринт",
+    "url": "https://api.hh.ru/employers/3548300",
+    "alternate_url": "https://hh.ru/employer/3548300",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1050198.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5821445.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5821446.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3548300",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T15:09:45+0300",
+  "created_at": "2025-06-06T15:09:45+0300",
+  "initial_created_at": "2025-05-19T15:09:45+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120715489",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120715489",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

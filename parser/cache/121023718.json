@@ -1,0 +1,149 @@
+{
+  "id": "121023718",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Младший специалист отдела разработки (Python) / Специалист по парсингу данных",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 70000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 70000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>IT компания MA </strong>- крупнейший провайдер данных о товарах и ценах для федеральных розничных сетей. Компания основана в 2012 году, резидент Сколково, аккредитована в Минцифры.</p> <p>У нас есть 2 продукта:</p> <ul> <li><strong>MA.works </strong>- наш основной текущий бизнес. Большой и сложный программный комплекс, который позволяет нам собирать и обрабатывать миллионы строк данных для корпоративных заказчиков.</li> <li><strong>MA.direct </strong>- наш новый продукт. SaaS решение для малого и среднего бизнеса для управления полевым персоналом и последующей обработки данных.</li> </ul> <p>Мы ищем <strong>младшего специалиста отдела разработки</strong> с начальными знаниями Python. Основная задача - поддерживать и развивать проект компании по парсингу ценовых данных с сайтов и из мобильных приложений. Работать предстоит с серверной платформой (Linux / PostgreSQL / Python / Django / Celery), развернутой в экосистеме Яндекс.Облако.</p> <p><strong>Что обязательно нужно знать и уметь: </strong></p> <ul> <li>Python на базовом уровне (циклы, функции, структуры данных, ООП);</li> <li>Что такое Header, Cookie и понимание как они участвуют в работе сайта/сервиса;</li> <li>Что такое HTML, умение его читать, представление о том, как работают css селекторы;</li> <li>Базовое знание Django/Celery;</li> <li>Базовое знание UNIX-систем;</li> <li>Опыт работы с PostgreSQL.</li> </ul> <p><strong>Круто, если есть: </strong></p> <ul> <li>Примеры ваших парсеров на github;</li> <li>Опыт администрирования БД (создание таблиц/индексов, дамп таблиц, оптимизация);</li> <li>Опыт работы с Redis или похожими key-value хранилищами данных;</li> <li>Знания протокола HTTP и базовое знание SSL;</li> <li>Опыт работы с cURL и прокси-сервисами;</li> <li>Опыт работы с JavaScript.</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li> <p>Работа в стабильной IT компании (есть аккредитация Минцифры, резидент Сколково) с технологичными продуктами. Мы устойчиво растем уже 10 лет;</p> </li> <li> <p>Официальное трудоустройство по ТК РФ, полностью белая зарплата, в том числе бонусная часть;</p> </li> <li> <p>Удобный график с гибким началом рабочего дня;</p> </li> <li>Возможность работать удаленно, по гибридному графику или в офисе;</li> <li> <p>Обучение и развитие: компания компенсирует профессиональное обучение;</p> </li> <li> <p>Ежемесячная компенсация каршеринга;</p> </li> <li> <p>Небольшая, очень бодрая и целеустремленная команда, которой мы гордимся;</p> </li> <li> <p>Реальная возможность влиять на результаты и быстро воплощать идеи в жизнь;</p> </li> <li> <p>Отсутствие дресс-кода, бюрократии, формализма в процессах и коммуникациях;</p> </li> <li> <p>Офис рядом с метро Цветной бульвар.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Django Framework"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Git"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "863273",
+    "name": "MillionAgents",
+    "url": "https://api.hh.ru/employers/863273",
+    "alternate_url": "https://hh.ru/employer/863273",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/668636.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3115676.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3115677.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=863273",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T11:47:15+0300",
+  "created_at": "2025-06-05T11:47:15+0300",
+  "initial_created_at": "2025-05-27T11:47:15+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121023718",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121023718",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,124 @@
+{
+  "id": "121370284",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист технической поддержки",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "part",
+    "name": "Частичная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>О компании и команде</strong><br />Мы разрабатываем интонационного AI-ассистента, который помогает пользователям быстрее находить работу и готовиться к собеседованиям. Наш продукт использует современные технологии NLP и машинного обучения для генерации сопроводительных писем, подготовки к интервью и улучшения резюме.<br />Сейчас мы ищем специалиста по технической поддержке, который поможет пользователям решать возникающие вопросы и будет связующим звеном между клиентами и нашей инженерной командой.</p> <p><strong>Что мы предлагаем</strong></p> <ul> <li>Удалённую работу с гибким графиком.</li> <li>Интересные задачи в быстрорастущем AI-стартапе.</li> <li>Вовлечённость в развитие продукта — от обратной связи пользователей до тестирования новых функций.</li> <li>Дружную команду, готовую делиться знаниями и поддерживать рост.</li> </ul> <p><strong>Ожидания от кандидата</strong></p> <ul> <li>Опыт работы в технической поддержке или технической документации от 1 года.</li> <li>Способность анализировать и воспроизводить проблемы пользователей.</li> <li>Базовое понимание работы backend-сервисов, REST API, баз данных.</li> <li>Уверенное владение Git и Linux-навыками (на уровне пользователя).</li> <li>Опыт работы с Docker и знание основных принципов контейнеризации</li> <li>Грамотная устная и письменная речь, умение понятно объяснять сложные вещи.</li> <li>Ответственность, внимательность к деталям и желание помогать людям.</li> </ul> <p><strong>Будет плюсом</strong></p> <ul> <li>Опыт работы с Jira, Trello или другими системами отслеживания задач.</li> <li>Навыки чтения логов, понимание HTTP-запросов, JSON и структуры баз данных.</li> <li>Базовые знания Python или желание их получить.</li> <li>Интерес к AI, машинному обучению и современным веб-технологиям.</li> </ul> <p><strong>Условия работы</strong></p> <ul> <li>График 5/2, сервис предоставляется 10:00 до 19:00</li> <li>40 часовая рабочая неделя</li> <li>При возникновении переработок, они оплачиваются отдельно.</li> </ul> <p>Если вам интересно работать в AI-стартапе, напишите нам.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "11977956",
+    "name": "СОФИ И ПАРТНЕРЫ",
+    "url": "https://api.hh.ru/employers/11977956",
+    "alternate_url": "https://hh.ru/employer/11977956",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1418414.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7293305.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7293306.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11977956",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T10:22:21+0300",
+  "created_at": "2025-06-05T10:22:21+0300",
+  "initial_created_at": "2025-06-05T10:22:21+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121370284",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121370284",
+  "working_days": [],
+  "working_time_intervals": [
+    {
+      "id": "from_four_to_six_hours_in_a_day",
+      "name": "Можно сменами по 4-6 часов в день"
+    }
+  ],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "PART",
+    "name": "Частичная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_3",
+      "name": "3 часа"
+    },
+    {
+      "id": "HOURS_4",
+      "name": "4 часа"
+    }
+  ],
+  "show_logo_in_search": null
+}

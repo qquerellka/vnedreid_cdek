@@ -1,0 +1,140 @@
+{
+  "id": "121343240",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Интегратор Битрикс24 / Администратор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": null,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": null,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>О компании:</strong><br />Компания занимается разработкой программного обеспечения и системной интеграцией. На рынке более 17 лет.</p> <p><strong>Обязанности:</strong></p> <p>- Ежедневный мониторинг и прием в работу обращений от клиентов.<br />- Выполнение штатных настроек в рамках оказания технической поддержки по Битрикс24 (настройка роботов, бизнесс-процессов, воронок, интеграций, отчетов и т.д.).<br />- Предоставление клиенту и руководителю отчетов о выполненных работах.<br />- Учет времени и ведение задач внутри корпоративного Битрикс24.<br />- Консультации по функционалу продукта, обучение клиентов.<br />- Постановка задач разработчикам на исправление ошибок и доработку функционала.<br />- Написание пользовательских инструкций.<br />- Участие в разработке и улучшении внутренних процессов компании.</p> <p>​​​​​​​​​​​​​​</p> <strong>Требования:</strong> <p><em>Обязательные:</em><br />- Ответственность, стрессоустойчивость, желание обучаться.<br />- Опыт настройки или администрирования Битрикс24.<br />- Понимание возможностей и принципов настройки различных модулей CRM-системы, включая коробочные версии продукта.</p> <p><em>Желательные:</em></p> <p>- Наличие сертификатов пройденных тестов по Битрикс24.<br />- Понимание основ работы REST API и вебхуков.<br />- Способность работать в режиме многозадачности.</p> <p> </p> <strong>Условия:</strong> <p>​​​​​​​​​​​​​​- Полностью удаленная работа в Битрикс24.<br />- Рабочий график с 10:00 до 19:00 или с 9:00 до 18:00 (8 часов по МСК).<br />- Профессиональное развитие, дополнительные курсы и бонусы на покупку оборудования для работы.<br />- Премии по итогам каждого месяца (KPI).<br />- Понятная и прозрачная система мотивации.<br />- Ежегодный оплачиваемый отпуск + оплачиваемый больничный.<br />- Возможность реального карьерного и зарплатного роста.<br />- Команда единомышленников, замотивированный и творческий коллектив.<br />- Корпоративные мероприятия и тимбилдинги.<br /><br /><strong>Навыки:</strong><br />- Битрикс24<br />- Тайм-менеджмент<br />- Ответственность<br />- Инициативность<br />- Техническая поддержка<br />- Многозадачность<br />- Стрессоустойчивость<br />- Грамотная письменная речь<br />- Работа с CRM</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Битрикс24"
+    },
+    {
+      "name": "Работа с CRM"
+    },
+    {
+      "name": "Системная интеграция"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "155",
+      "name": "Методолог"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10900985",
+    "name": "Решение",
+    "url": "https://api.hh.ru/employers/10900985",
+    "alternate_url": "https://hh.ru/employer/10900985",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1252673.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6631121.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6631122.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10900985",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T14:51:55+0300",
+  "created_at": "2025-06-04T14:51:55+0300",
+  "initial_created_at": "2025-06-04T14:51:55+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121343240",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121343240",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

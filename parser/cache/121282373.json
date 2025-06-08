@@ -1,0 +1,121 @@
+{
+  "id": "121282373",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист технической поддержки",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>Оказывать оперативную поддержку клиента. Обработка обращений, переданных на вторую линию поддержки (сложные, проблемные кейсы с программным обеспечением);</li> <li>Консультировать пользователей по работе с IT продуктами компании АК ИТ (WEB-консоли, сервисы, desktop-приложения);</li> <li>Формулировать и создавать задачи для разработчиков.</li> <li>Отвечать и предоставлять дополнительную информацию по этим задачам;<br />Взаимодействовать со специалистами других команд (первая линия, команда разработки, аналитики, тестировщики, менеджеры);</li> <li>Находить скрытые и потенциальные проблемы на основе анализа обращений пользователей;</li> <li>Формировать и поддерживать базу знаний команды по обнаруженным проблемам и типовым решениям (FAQ для пользователей систем);</li> <li>Работа в JIRA.</li> </ul> <strong>Требования:</strong> <ul> <li>Иметь опыт работы на первой или второй линии поддержки;</li> <li>Уметь собирать диагностическую информацию при работе с логами;</li> <li>Уметь писать базовые SQL запросы и хотеть учиться дальше;</li> <li>Умение быстро находить и воспринимать информацию;</li> <li>Стремление глубоко разобраться в любом вопросе, найти причины и решение;</li> </ul> <strong>Условия:</strong> <ul> <li>график работы 5/2;</li> <li> <p>гибридный формат работы или удалёнка;</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "679",
+    "name": "Группа компаний Аэроклуб",
+    "url": "https://api.hh.ru/employers/679",
+    "alternate_url": "https://hh.ru/employer/679",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1259086.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6656670.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6656671.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=679",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T13:04:38+0300",
+  "created_at": "2025-06-03T13:04:38+0300",
+  "initial_created_at": "2025-06-03T13:04:38+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121282373",
+  "has_test": true,
+  "test": {
+    "required": false
+  },
+  "alternate_url": "https://hh.ru/vacancy/121282373",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

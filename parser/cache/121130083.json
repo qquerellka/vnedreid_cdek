@@ -1,0 +1,172 @@
+{
+  "id": "121130083",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Заместитель генерального директора по развитию",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 280000,
+    "to": 350000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 280000,
+    "to": 350000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "3-я улица Ямского Поля",
+    "building": null,
+    "lat": 55.782309,
+    "lng": 37.58022,
+    "description": null,
+    "raw": "Москва, 3-я улица Ямского Поля",
+    "metro": {
+      "station_name": "Белорусская",
+      "line_name": "Замоскворецкая",
+      "station_id": "2.19",
+      "line_id": "2",
+      "lat": 55.777439,
+      "lng": 37.582107
+    },
+    "metro_stations": [
+      {
+        "station_name": "Белорусская",
+        "line_name": "Замоскворецкая",
+        "station_id": "2.19",
+        "line_id": "2",
+        "lat": 55.777439,
+        "lng": 37.582107
+      },
+      {
+        "station_name": "Белорусская",
+        "line_name": "Кольцевая",
+        "station_id": "5.20",
+        "line_id": "5",
+        "lat": 55.775179,
+        "lng": 37.582303
+      },
+      {
+        "station_name": "Белорусская",
+        "line_name": "МЦД-1",
+        "station_id": "131.700",
+        "line_id": "131",
+        "lat": 55.775179,
+        "lng": 37.582303
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <div> <p>- Исполнение утвержденной продуктовой стратегии Общества, в том числе ее актуализация при возникновении существенных изменений в векторе развития Общества.</p> <p>- Управление проектами по разработке и производству комплектующих для станков российского производства.</p> <div> <p>- Развитие направления по сервису и ремонту станков и комплектующих, в том числе коммерциализация услуг.</p> <p>- Локализация производства комплектующих для металлообрабатывающих станков в контуре Госкорпорации «Росатом».</p> <p>- Вывод на рынок комплектующих для станков российского производства</p> </div> </div> <strong>Требования:</strong> <ul> <li>Высшее техническое образование </li> <li>Опыт работы на руководящих должностях не менее 5 лет</li> <li>Способность к стратегическому мышлению и принятию решений.</li> <li>Отличные навыки ведения переговоров и заключения сделок.</li> </ul> <strong>Условия:</strong> <ul> <li>Интересные задачи</li> <li>Комфортный офис</li> <li>Обучение в Корпоративной Академии</li> <li>ДМС</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "125",
+      "name": "Технический директор (CTO)"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5512009",
+    "name": "ИПН Станкостроение",
+    "url": "https://api.hh.ru/employers/5512009",
+    "alternate_url": "https://hh.ru/employer/5512009",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1135836.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6163929.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6163930.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5512009",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-29T14:25:55+0300",
+  "created_at": "2025-05-29T14:25:55+0300",
+  "initial_created_at": "2025-05-29T14:25:55+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121130083",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121130083",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

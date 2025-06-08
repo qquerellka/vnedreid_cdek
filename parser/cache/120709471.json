@@ -1,0 +1,141 @@
+{
+  "id": "120709471",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер данных DWH в Вертикали",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": {
+    "id": "yandex-1740-ecomraid",
+    "name": "Городские сервисы"
+  },
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Яндекс Вертикали — это пять крупных продуктов: сервисы Путешествия, Авто.ру, Авто.ру Бизнес, Недвижимость и Аренда.</p> <p> </p> <p>Наша команда разработки аналитической инфраструктуры занимается полным циклом обработки данных в компании. Цикл включает сбор, хранение, валидацию и комбинирование всех знаний о бизнесе. Ключевое направление нашей деятельности — аналитическое хранилище данных (DWH), которое мы строим для нужд бизнес-подразделений. Наши пользователи — это и продуктовые команды, которым нужна регулярная отчётность для принятия решений, и эксперты в области глубокого анализа данных.</p> <p>Технологически ядро хранилища построено на системах хранения данных Yandex Tables (кластер MapReduce собственной разработки), СlickHouse и PostgreSQL. Для разработки, оркестрации и мониторинга ETL-процессов используется собственный фреймворк, который разработан внутри Яндекса. Для организации модели хранения данных на разных уровнях применяются различные методологии проектирования хранилищ данных: Lambda-архитектура, Data Lake, Data Vault.</p> <p><strong>Какие задачи вас ждут</strong></p> <ul> <li>Разрабатывать и сопровождать ETL-процессы поставки данных</li> <li>Проектировать структуру хранения данных в разных слоях хранилища</li> <li>Выявлять и оптимизировать неэффективные участки в процессах поставки данных</li> <li>Погружаться в данные одной или нескольких прикладных бизнес-областей и становиться в них экспертом</li> </ul> <p><strong>Мы ждем, что вы</strong></p> <ul> <li>Разбираетесь в SQL на уровне эксперта</li> <li>Занимались промышленной разработкой на одном из языков высокого уровня: Python, Go, Java и т. д.</li> <li>Понимаете устройство и архитектуру реляционных баз данных</li> <li>Проектировали DWH: слои, модели хранения данных, ETL-процессы</li> <li>Разрабатывали ETL-процессы на Apache Airflow</li> <li>Знаете основные алгоритмы и структуры данных, особенно используемые в работе с большими данными</li> <li>Настраивали поставки данных по API</li> </ul> <p><strong>Будет плюсом, если вы</strong></p> <ul> <li>Понимаете принципы работы технологий распределённой обработки данных: Hadoop, MapReduce и MPP</li> <li>Пользовались хотя бы одной MPP-СУБД: Greenplum, ClickHouse, Vertica, Teradata и т. д.</li> <li>Работали с брокерами сообщений: Kafka, RabbitMQ и т. д.</li> <li>Умеете работать в командной строке *nix-систем: Linux и macOS</li> </ul> <p><strong>Что мы предлагаем</strong></p> <ul> <li>возможность выбрать место работы: в офисе в Москве (БЦ «Аврора», ст. м. «Павелецкая»), Санкт-Петербурге (БЦ «Бенуа», Калининский район) на гибридный формат работы (2-3 дня в неделю в офисе);</li> <li>оклад и премии по итогам работы;</li> <li>профессиональная команда, у которой можно многому научиться и перенять опыт;</li> <li>понятный путь карьерного роста и тренинги;</li> <li>расширенная программа ДМС: стоматология, обследования, вызов врача на дом;</li> <li>корпоративная мобильная связь, мощный рабочий ноутбук;</li> <li>компенсация оплаты питания на территории офиса и в его окрестностях;</li> <li>современный офис, где есть всё необходимое для комфортной работы и отдыха;</li> <li>культура открытости и взаимопомощи;</li> <li>высокая скорость работы и возможность быстро увидеть свой вклад и результаты.</li> </ul>",
+  "branded_description": "\n<style>\n@charset \"UTF-8\";\n\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li em,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ol li p em,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li em,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong,\n.tmpl_hh_content ul li p em {\n    font-weight: normal;\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n}\n\n.tmpl_hh_content ul li b em,\n.tmpl_hh_content ul li strong em,\n.tmpl_hh_content ul li em b,\n.tmpl_hh_content ul li em strong,\n.tmpl_hh_content ol li b em,\n.tmpl_hh_content ol li strong em,\n.tmpl_hh_content ol li em b,\n.tmpl_hh_content ol li em strong,\n.tmpl_hh_content ul li b i,\n.tmpl_hh_content ul li strong i,\n.tmpl_hh_content ul li i b,\n.tmpl_hh_content ul li i strong,\n.tmpl_hh_content ol li b i,\n.tmpl_hh_content ol li strong i,\n.tmpl_hh_content ol li i b,\n.tmpl_hh_content ol li i strong {\n    font-weight: bold;\n    font-style: normal;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    display: inline;\n    margin: 0;\n    font-size: 24px;\n    line-height: 1.15;\n}\n\n.tmpl_hh_content p b em,\n.tmpl_hh_content p strong em,\n.tmpl_hh_content p em b,\n.tmpl_hh_content p em strong,\n.tmpl_hh_content p b i,\n.tmpl_hh_content p strong i,\n.tmpl_hh_content p i b,\n.tmpl_hh_content p i strong {\n    font-style: normal;\n    font-weight: bold;\n    font-size: 16px;\n    line-height: 1.25;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    font-family: \"Arial\", sans-serif;\n    color: #121212;\n    font-size: 16px;\n    line-height: 1.25;\n    overflow: hidden;\n    -webkit-font-smoothing: antialiased;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_wrapper *,\n.tmpl_hh_wrapper *::before,\n.tmpl_hh_wrapper *::after {\n    -webkit-box-sizing: border-box;\n    box-sizing: border-box;\n    background-repeat: no-repeat;\n}\n\n.tmpl_hh_wrapper [role=button] {\n    outline: none;\n}\n\n.tmpl_hh_wrapper button {\n    border: none;\n    background: none;\n    padding: 0;\n}\n\n.tmpl_hh_content {\n    padding: 32px 55px 48px;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    margin: 32px 0 24px;\n}\n\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    display: inline-block;\n    font-weight: bold;\n}\n\n.tmpl_hh_content ul {\n    margin-left: 24px;\n    padding-bottom: 1px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n    list-style: none;\n    margin-left: 22px;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    line-height: 22px;\n}\n\n.tmpl_hh_content li:not(:last-child) {\n    margin-bottom: 8px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 10px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"—\";\n    position: absolute;\n    left: -24px;\n    top: 0;\n    color: #C7C7C7;\n    font-family: \"Tahoma\", \"Arial\", sans-serif;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter) \".\";\n    position: absolute;\n    left: -24px;\n    top: 0;\n    font-weight: 700;\n    color: #C7C7C7;\n}\n\n.tmpl_hh_head {\n    background-color: #121212;\n    padding: 27px 55px;\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-align: start;\n    -ms-flex-align: start;\n    align-items: flex-start;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n    position: relative;\n}\n\n.tmpl_hh_head__text {\n    -ms-flex-negative: 0;\n    flex-shrink: 0;\n}\n\n.tmpl_hh_head img.tmpl_hh_head__logo {\n    width: 122px;\n}\n\n.tmpl_hh_head img.tmpl_hh_head__title {\n    margin-top: 16px;\n    width: 203px;\n}\n\n.tmpl_hh_head img.tmpl_hh_head__icons {\n    margin-top: 57px;\n    width: 134px;\n}\n\n.tmpl_hh_head__img {\n    position: absolute;\n    bottom: 0;\n    height: 100%;\n    right: 0;\n}\n\n.tmpl_hh_head__img img {\n    height: 100%;\n    width: auto;\n}\n\n.tmpl_hh_benefit {\n    background-color: #121212;\n    color: rgba(255, 255, 255, 0.6);\n    padding: 32px 55px 48px;\n}\n\n.tmpl_hh_benefit ul.tmpl_hh_benefit__list {\n    list-style: none;\n}\n\n.tmpl_hh_benefit li.tmpl_hh_benefit__item {\n    background-color: #1C1C1C;\n    padding: 16px;\n}\n\n.tmpl_hh_benefit li.tmpl_hh_benefit__item:not(:last-child) {\n    margin-bottom: 8px;\n}\n\n.tmpl_hh_benefit li.tmpl_hh_benefit__item img {\n    width: 64px;\n}\n\n.tmpl_hh_benefit li.tmpl_hh_benefit__item b {\n    display: block;\n    color: #fff;\n    font-size: 20px;\n    line-height: 22px;\n    margin-top: 12px;\n}\n\n.tmpl_hh_benefit li.tmpl_hh_benefit__item ul {\n    list-style: none;\n    margin-top: 16px;\n}\n\n.tmpl_hh_benefit li.tmpl_hh_benefit__item li {\n    position: relative;\n    padding-left: 12px;\n}\n\n.tmpl_hh_benefit li.tmpl_hh_benefit__item li:not(:last-child) {\n    margin-bottom: 2px;\n}\n\n.tmpl_hh_benefit li.tmpl_hh_benefit__item li::before {\n    content: \"▪\";\n    position: absolute;\n    left: 0;\n    top: 0;\n    color: #EBFF00;\n}\n\n@media (max-width: 1019px) {\n    .tmpl_hh_wrapper {\n        max-width: 610px;\n    }\n\n    .tmpl_hh_head__img {\n        right: -82px;\n        bottom: -1px;\n    }\n}\n\n@media (max-width: 699px) {\n\n    .tmpl_hh_content p b,\n    .tmpl_hh_content p strong {\n        font-size: 22px;\n    }\n\n    .tmpl_hh_content p b em,\n    .tmpl_hh_content p strong em,\n    .tmpl_hh_content p em b,\n    .tmpl_hh_content p em strong,\n    .tmpl_hh_content p b i,\n    .tmpl_hh_content p strong i,\n    .tmpl_hh_content p i b,\n    .tmpl_hh_content p i strong {\n        font-size: 14px;\n        line-height: 1.25;\n    }\n\n    .tmpl_hh_wrapper {\n        font-size: 14px;\n        line-height: 1.25;\n    }\n\n    .tmpl_hh_content {\n        padding: 32px 16px;\n    }\n\n    .tmpl_hh_content p,\n    .tmpl_hh_content b,\n    .tmpl_hh_content strong {\n        margin: 24px 0 16px;\n    }\n\n    .tmpl_hh_head {\n        padding: 16px;\n    }\n\n    .tmpl_hh_head img.tmpl_hh_head__title {\n        margin-top: 14px;\n        width: 168px;\n    }\n\n    .tmpl_hh_head img.tmpl_hh_head__icons {\n        margin-top: 61px;\n        width: 116px;\n    }\n\n    .tmpl_hh_head__img {\n        height: 94%;\n        right: 0;\n    }\n\n    .tmpl_hh_benefit {\n        padding: 32px 16px;\n    }\n\n    .tmpl_hh_benefit li.tmpl_hh_benefit__item img {\n        width: 48px;\n    }\n\n    .tmpl_hh_benefit li.tmpl_hh_benefit__item b {\n        font-size: 16px;\n        margin-top: 14px;\n    }\n\n    .tmpl_hh_benefit li.tmpl_hh_benefit__item li:not(:last-child) {\n        margin-bottom: 4px;\n    }\n}\n</style>\n\n<script>\n//\nfunction DOM_HH_Ready() {}\n\nif (document.readyState === \"loading\") {\n    document.addEventListener(\"DOMContentLoaded\", DOM_HH_Ready);\n} else {\n    DOM_HH_Ready();\n}\n//\n</script>\n\n\n    <div class=\"tmpl_hh_wrapper\">\n        <div class=\"tmpl_hh_head\">\n            <div class=\"tmpl_hh_head__text\">\n                <img class=\"tmpl_hh_head__logo\" src=\"https://hhcdn.ru/ichameleon/407795.svg\" alt=\"Яндекс Вертикали\">\n                <img class=\"tmpl_hh_head__title\" src=\"https://hhcdn.ru/ichameleon/407794.svg\" alt=\"Развиваем сервисы для жизни\">\n                <img class=\"tmpl_hh_head__icons\" src=\"https://hhcdn.ru/ichameleon/407793.svg\" alt=\"\">\n            </div>\n            <div class=\"tmpl_hh_head__img\">\n                <picture>\n                    <source srcset=\"https://hhcdn.ru/ichameleon/407861.svg\" media=\"(max-width: 699px)\"></source>\n                    <img src=\"https://hhcdn.ru/ichameleon/407796.svg\" alt=\"\">\n                </picture>\n            </div>\n        </div>\n        <div class=\"tmpl_hh_content\">\n        <p>Яндекс Вертикали — это пять крупных продуктов: сервисы Путешествия, Авто.ру, Авто.ру Бизнес, Недвижимость и Аренда.</p> <p> </p> <p>Наша команда разработки аналитической инфраструктуры занимается полным циклом обработки данных в компании. Цикл включает сбор, хранение, валидацию и комбинирование всех знаний о бизнесе. Ключевое направление нашей деятельности — аналитическое хранилище данных (DWH), которое мы строим для нужд бизнес-подразделений. Наши пользователи — это и продуктовые команды, которым нужна регулярная отчётность для принятия решений, и эксперты в области глубокого анализа данных.</p> <p>Технологически ядро хранилища построено на системах хранения данных Yandex Tables (кластер MapReduce собственной разработки), СlickHouse и PostgreSQL. Для разработки, оркестрации и мониторинга ETL-процессов используется собственный фреймворк, который разработан внутри Яндекса. Для организации модели хранения данных на разных уровнях применяются различные методологии проектирования хранилищ данных: Lambda-архитектура, Data Lake, Data Vault.</p> <p><strong>Какие задачи вас ждут</strong></p> <ul> <li>Разрабатывать и сопровождать ETL-процессы поставки данных</li> <li>Проектировать структуру хранения данных в разных слоях хранилища</li> <li>Выявлять и оптимизировать неэффективные участки в процессах поставки данных</li> <li>Погружаться в данные одной или нескольких прикладных бизнес-областей и становиться в них экспертом</li> </ul> <p><strong>Мы ждем, что вы</strong></p> <ul> <li>Разбираетесь в SQL на уровне эксперта</li> <li>Занимались промышленной разработкой на одном из языков высокого уровня: Python, Go, Java и т. д.</li> <li>Понимаете устройство и архитектуру реляционных баз данных</li> <li>Проектировали DWH: слои, модели хранения данных, ETL-процессы</li> <li>Разрабатывали ETL-процессы на Apache Airflow</li> <li>Знаете основные алгоритмы и структуры данных, особенно используемые в работе с большими данными</li> <li>Настраивали поставки данных по API</li> </ul> <p><strong>Будет плюсом, если вы</strong></p> <ul> <li>Понимаете принципы работы технологий распределённой обработки данных: Hadoop, MapReduce и MPP</li> <li>Пользовались хотя бы одной MPP-СУБД: Greenplum, ClickHouse, Vertica, Teradata и т. д.</li> <li>Работали с брокерами сообщений: Kafka, RabbitMQ и т. д.</li> <li>Умеете работать в командной строке *nix-систем: Linux и macOS</li> </ul> <p><strong>Что мы предлагаем</strong></p> <ul> <li>возможность выбрать место работы: в офисе в Москве (БЦ «Аврора», ст. м. «Павелецкая»), Санкт-Петербурге (БЦ «Бенуа», Калининский район) на гибридный формат работы (2-3 дня в неделю в офисе);</li> <li>оклад и премии по итогам работы;</li> <li>профессиональная команда, у которой можно многому научиться и перенять опыт;</li> <li>понятный путь карьерного роста и тренинги;</li> <li>расширенная программа ДМС: стоматология, обследования, вызов врача на дом;</li> <li>корпоративная мобильная связь, мощный рабочий ноутбук;</li> <li>компенсация оплаты питания на территории офиса и в его окрестностях;</li> <li>современный офис, где есть всё необходимое для комфортной работы и отдыха;</li> <li>культура открытости и взаимопомощи;</li> <li>высокая скорость работы и возможность быстро увидеть свой вклад и результаты.</li> </ul></div>\n        <div class=\"tmpl_hh_benefit\">\n            <ul class=\"tmpl_hh_benefit__list\">\n                <li class=\"tmpl_hh_benefit__item\">\n                    <img src=\"https://hhcdn.ru/ichameleon/407789.svg\" alt=\"\">\n                    <b>Что мы предлагаем</b>\n                    <ul>\n                        <li>Высокий совокупный доход</li>\n                        <li>Премии по результатам работы</li>\n                    </ul>\n                </li>\n                <li class=\"tmpl_hh_benefit__item\">\n                    <img src=\"https://hhcdn.ru/ichameleon/407786.svg\" alt=\"\">\n                    <b>Офисы, в которые хочется ходить</b>\n                    <ul>\n                        <li>Удобные, красивые и технологичные офисы с зонами для работы и отдыха, спортзалами, йога-классами, массажными кабинетами<br>и не только</li>\n                        <li>В офисах есть бесплатные парковки для машин и велосипедов</li>\n                    </ul>\n                </li>\n                <li class=\"tmpl_hh_benefit__item\">\n                    <img src=\"https://hhcdn.ru/ichameleon/407790.svg\" alt=\"\">\n                    <b>Расширенная медицинская страховка</b>\n                    <ul>\n                        <li>9 видов чекапов, телемедицина 24/7, лечение критических заболеваний</li>\n                        <li>Психотерапия — компенсация сессий в «Ясно» и Яндекс Здоровье, психотерапевты в клиниках и офисах</li>\n                        <li>Стоматология — плановые процедуры, профессиональная чистка и приёмы стоматолога-ортодонта</li>\n                        <li>Через год работы можно сделать лазерную коррекцию зрения. После 2 лет в ДМС входит ведение беременности и роды</li>\n                        <li>Компенсируем 80% стоимости ДМС<br>для супругов и детей</li>\n                    </ul>\n                </li>\n                <li class=\"tmpl_hh_benefit__item\">\n                    <img src=\"https://hhcdn.ru/ichameleon/407792.svg\" alt=\"\">\n                    <b>Возможности для роста</b>\n                    <ul>\n                        <li>Есть всё, чтобы учиться: внутренняя платформа с 100+ курсами, менторство и программы для руководителей</li>\n                        <li>Оплачиваем участие в профильных конференциях и помогаем подготовиться<br>к публичным выступлениям</li>\n                        <li> Если для рабочих задач нужен иностранный язык, организуем обучение и оплатим 50% стоимости</li>\n                    </ul>\n                </li>\n                <li class=\"tmpl_hh_benefit__item\">\n                    <img src=\"https://hhcdn.ru/ichameleon/407788.svg\" alt=\"\">\n                    <b>Жилищная программа</b>\n                    <ul>\n                        <li>После года работы при соответствии правилам программы можно получить заём с льготной ставкой на покупку жилья или ремонт</li>\n                    </ul>\n                </li>\n                <li class=\"tmpl_hh_benefit__item\">\n                    <img src=\"https://hhcdn.ru/ichameleon/407791.svg\" alt=\"\">\n                    <b> Компенсация питания</b>\n                    <ul>\n                        <li>На бейджике сотрудника есть ежедневный лимит, который можно тратить на еду и напитки в столовых офисов, кофейнях и ресторанах поблизости</li>\n                    </ul>\n                </li>\n                <li class=\"tmpl_hh_benefit__item\">\n                    <img src=\"https://hhcdn.ru/ichameleon/407787.svg\" alt=\"\">\n                    <b>Скидки от партнёров</b>\n                    <ul>\n                        <li>Бейджик Яндекса помогает экономить в самых разных местах: от спортивных магазинов и отелей до груминг-салонов и образовательных курсов</li>\n                    </ul>\n                </li>\n            </ul>\n        </div>\n    </div>\n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Системный анализ"
+    },
+    {
+      "name": "Apache Airflow"
+    },
+    {
+      "name": "ETL"
+    },
+    {
+      "name": "DWH"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1740",
+    "name": "Яндекс",
+    "url": "https://api.hh.ru/employers/1740",
+    "alternate_url": "https://hh.ru/employer/1740",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/837491.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3790847.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3790848.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-27T16:24:08+0300",
+  "created_at": "2025-05-27T16:24:08+0300",
+  "initial_created_at": "2025-05-19T14:03:44+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120709471",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120709471",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

@@ -1,0 +1,136 @@
+{
+  "id": "120940883",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Fullstack-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 120000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 120000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Для улучшения рабочего процесса, кроме звонков, у нас проводятся обязательные офлайн <strong>встречи в офисе в центре Петербурга</strong> — не чаще 1–2 раз в месяц (по согласованию. </p> <p><strong>Мы ищем опытного разработчика для создания и поддержки внутреннего backend-сервиса</strong>, который автоматизирует управление карточками товаров, ценообразованием и API-интеграциями с несколькими крупными маркетплейсами.</p> <p>У нас — обширная товарная база, множество магазинов, высокие требования к точности данных и скорости обновлений. Сейчас все процессы работают через набор скриптов, но требуется полноценная внутренняя система управления.</p> <p><strong>Что нужно будет делать (большая часть уже работает в каком-то виде):</strong></p> <ul> <li> <p>Спроектировать и реализовать backend-сервис с web-интерфейсом</p> </li> <li> <p>Построить единую базу эталонных карточек товаров (с параметрами, описаниями, медиа)</p> </li> <li> <p>Организовать интеграции с API нескольких маркетплейсов (создание и обновление карточек, цен, медиа)</p> </li> <li> <p>Реализовать модуль полуавтоматического ценообразования на основе закупочных и логистических данных</p> </li> <li> <p>Подключить централизованную работу с фото/видео контентом</p> </li> <li> <p>Развивать систему в сторону рекламных интеграций и аналитики</p> </li> </ul> <p><strong>Технологии, с которыми придётся работать:</strong></p> <ul> <li> <p>Backend: Python (FastAPI) или Node.js (NestJS)</p> </li> <li> <p>БД: PostgreSQL / MongoDB</p> </li> <li> <p>Frontend: React / Vue</p> </li> <li> <p>Интеграции: REST API маркетплейсов (Ozon, WB, Yandex.Market и др.)</p> </li> <li> <p>Инфраструктура: Docker, Git, VPS</p> </li> </ul> <p><strong>Мы ожидаем от вас:</strong></p> <ul> <li> <p>Опыт в создании внутренних CRM/ERP систем, админок, дашбордов</p> </li> <li> <p>Отличное знание одного из backend-стеков (Python или Node.js)</p> </li> <li> <p>Опыт работы с REST API, желательно в контексте маркетплейсов</p> </li> <li> <p>Понимание архитектуры e-commerce и SKU-логики — как плюс</p> </li> <li> <p>Умение предлагать решения, а не просто выполнять ТЗ</p> </li> <li> <p>Способность поддерживать и развивать систему после запуска</p> </li> </ul> <p><strong>Формат работы:</strong></p> <ul> <li> <p>Удалённая работа, самостоятельное распределение нагрузки — <strong>в среднем 5–8 часов в день. </strong>(А если у вас будет необходимость - можем предоставить место в офисе).</p> </li> <li> <p>Очные <strong>встречи в офисе в центре Петербурга</strong> — не чаще 1–2 раз в месяц (по согласованию)</p> </li> <li> <p>Прямая работа с собственником проекта без «менеджерских прослоек»</p> </li> <li> <p>Долгосрочное развитие проекта — с этапным расширением в сторону аналитики, рекламы, автоматизации маркетинга</p> </li> </ul> <p><strong>Оплата:</strong></p> <ul> <li> <p>Возможна <strong>почасовая оплата</strong> на старте</p> </li> <li> <p><strong>Квартальные премии</strong> — по результатам выполнения ключевых этапов проекта (функциональные релизы)</p> </li> </ul> <p><strong>Как откликнуться:</strong></p> <p>Присылайте резюме и ссылки на похожие проекты (желательно: админки, интеграции, e-commerce инструменты, личные кабинеты).<br />В отклике расскажите, какой стек предпочитаете и как бы подошли к задаче построения такого сервиса.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3520529",
+    "name": "Берлов Константин Игоревич",
+    "url": "https://api.hh.ru/employers/3520529",
+    "alternate_url": "https://hh.ru/employer/3520529",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3520529",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T22:46:33+0300",
+  "created_at": "2025-06-06T22:46:33+0300",
+  "initial_created_at": "2025-05-25T22:46:33+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120940883",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120940883",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_7",
+      "name": "7 часов"
+    }
+  ]
+}

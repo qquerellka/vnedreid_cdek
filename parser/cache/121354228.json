@@ -1,0 +1,180 @@
+{
+  "id": "121354228",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Python-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": {
+    "id": "mailru-15478-vkdigit",
+    "name": "VK, VK Tech"
+  },
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Команда ArenadataDb отвечает за сервис управления аналитической базой данных ArenadataDB. Перед нами стоит амбициозная цель построить инфраструктуру для удобного, надёжного и безопасного управления кластером ArenadataDB.<br /><br />Именно поэтому мы ищем человека, который готов решать интересные и нетривиальные задачи по стабильной оркестрации IaaS-сущностей, увеличению отказоустойчивости и межрегиональному масштабированию сервиса и предоставлению лучшего на рынке сервиса Managed ArenadataDB.</p> <p>Мы развиваем и делаем невозможное возможным — запускаем ArenadataDB в облаке.</p> <h2><strong>Задачи</strong></h2> <ul> <li>Внедрять новые фичи автоматизации для клиента, недоступные ему при установке ArenadataDB на железо</li> <li>Подхватывать и внедрять на платформу новые фичи от вендора</li> <li>Поддерживать высокий темп выпуска новых релизов от вендора Arenadata на облачной платформе</li> </ul> <h2><strong>Требования</strong></h2> <ul> <li>Знание принципов ООП, алгоритмов и структур данных</li> <li>Опыт промышленной разработки на Python от трёх лет (разработка API на Flask/FastAPI)</li> <li>Умение писать автоматизированные тесты (Pytest)</li> <li>Глубокое понимание устройства баз данных</li> <li>Знание SQL и умение писать оптимальные запросы для аналитических систем</li> <li>Администрирование Linux-систем</li> <li>Владение UNIX-подобными системами (Centos, Redos)</li> <li>Понимание концепций виртуализации и контейнеризации</li> <li>Умение работать с Docker-средой сборки образов</li> <li>Непрерывная разработка и интеграция (CI/CD)</li> <li>Понимание Git, Git Workflows</li> <li>Опыт работы с одной из CI/CD-систем (GitLab / GitHub Actions / Teamcity / Jenkins /…)</li> <li>Опыт работы с системами хранения артефактов (Nexus/Artifactory)</li> </ul> <h2><strong>Будет плюсом</strong></h2> <ul> <li>Умеете исследовать нетривиальные проблемы и работать с ними, а также работать в команде</li> <li>Знакомы с принципами построения распределённых систем</li> <li>Работали с облаками (MCS / Aws / OpenStack /…)</li> <li>Разбираетесь в облачной инфраструктуре, мониторинге, системах управления конфигурациями</li> <li>Знакомы с Arenadata-решениями для BigData</li> <li>Умеете писать скрипты автоматизации на Bash</li> <li>Имеете опыт в администрировании/эксплуатации распределённых аналитических баз данных</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Pytest"
+    },
+    {
+      "name": "API"
+    },
+    {
+      "name": "Flask"
+    },
+    {
+      "name": "FastAPI"
+    },
+    {
+      "name": "ООП"
+    },
+    {
+      "name": "CI/CD"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Gitlab"
+    },
+    {
+      "name": "Nexus"
+    },
+    {
+      "name": "Artifactory"
+    },
+    {
+      "name": "TeamCity"
+    },
+    {
+      "name": "Jenkins"
+    },
+    {
+      "name": "CentOS"
+    },
+    {
+      "name": "OpenStack"
+    },
+    {
+      "name": "Bash"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "15478",
+    "name": "VK",
+    "url": "https://api.hh.ru/employers/15478",
+    "alternate_url": "https://hh.ru/employer/15478",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1297111.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6808730.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6808731.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=15478",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T20:58:00+0300",
+  "created_at": "2025-06-04T20:58:00+0300",
+  "initial_created_at": "2025-06-04T18:20:16+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121354228",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121354228",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

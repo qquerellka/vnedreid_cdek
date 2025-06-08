@@ -1,0 +1,135 @@
+{
+  "id": "120738694",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Ведущий системный инженер/Системный Инженер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": null,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "Красноуральская улица",
+    "building": "2А",
+    "lat": 56.838075,
+    "lng": 60.555424,
+    "description": null,
+    "raw": "Екатеринбург, Красноуральская улица, 2А",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <ul> <li>Установка, настройка, обновление системного программного обеспечения на базе операционных систем Windows, Linux, Unix</li> <li>Поиск решений и разрешение инцидентов с системным программным обеспечением;</li> <li>Работа с кластерами системы виртуализации на базе Vmware Vsphere 6.x, 7.х;</li> <li>Диагностика и локализация неисправностей на оборудовании инфраструктуры организации (Сервера, Системы хранения данных, Системы резервного копирования)</li> <li>Идентификация проблемы, диагностика, анализ результатов и подготовка рекомендаций по разрешению проблем, эскалация запросов по ремонту и замене оборудования производителям оборудования;</li> <li>Отработка запросов на изменения: планирование работ, проведение изменений, проверка работы после внесения изменений;</li> <li>Взаимодействие с инженерами других служб и подразделений;</li> <li>Выполнение работ при соблюдении имеющихся правил и инструкций;</li> <li>Составление и обновление документации по новым и изменяемым процедурам.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Опыт работы с серверами Rack/Blade на платформе x86 одного или нескольких ведущих вендоров (IBM, HP, Huawei, Dell) уровня Midrange/HiEnd в объеме: основные технические характеристики, обслуживание, диагностика и решение проблем;</li> <li>Знание одной или нескольких ОС как Windows, так и Linux: Windows Server (2003-2019), Linux (AIX, CentOS, RedHat, OpenSUSE), в объеме: настройка, диагностика и решение проблем на уровне системного администратора;</li> <li>Знание и опыт администрирования системы виртуализации Vmware ESXi;</li> <li>Опыт работы с системами хранения данных одного или нескольких ведущих вендоров (IBM, HP, Huawei, Dell/EMC) уровня Midrange/HiEnd в объеме: основные технические характеристики, обслуживание, диагностика и решение проблем;</li> <li>Знание и понимание принципов работы стека протокола TCP\\IP;</li> <li>Знание английского языка на уровне чтения и понимания технической документации.</li> </ul> <p><strong>Дополнительно:</strong></p> <ul> <li>Приветствуется знание и понимание принципов работы с SAN;</li> <li>Опыт работы с системами резервного копирования (ленточные библиотеки);</li> <li>Опыт работы с POWER серверами (HMC, AIX, VIOS, LPAR);</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Официальное трудоустройство, полное соблюдение ТК РФ;</li> <li>График работы: 5/2 с 8:30 до 17:30, пятница с 8:30 до 16:15;</li> <li>Ежегодный оплачиваемый отпуск 36 календарных дней;</li> <li>Конкурентоспособная стабильная заработная плата. Уровень определяется по результатам собеседования.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "114",
+      "name": "Системный инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10656820",
+    "name": "ФКУ Центр по обеспечению деятельности Казначейства России, филиал в г.Екатеринбург",
+    "url": "https://api.hh.ru/employers/10656820",
+    "alternate_url": "https://hh.ru/employer/10656820",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1268216.jpeg",
+      "90": "https://img.hhcdn.ru/employer-logo/6693178.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6693179.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10656820",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-20T08:16:52+0300",
+  "created_at": "2025-05-20T08:16:52+0300",
+  "initial_created_at": "2025-05-20T08:16:52+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120738694",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120738694",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

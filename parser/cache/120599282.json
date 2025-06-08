@@ -1,0 +1,152 @@
+{
+  "id": "120599282",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Python Developer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>«Открытые решения» специализируются на заказной разработке веб-сервисов и мобильных приложений.<br /><br />Мы работаем с отечественными и мировыми брендами: МТС, БКС, X5, Ренессанс Кредит Банк, Ак Барс Банк, ЭР-Телеком, ВСК, ПЭК, ИНВИТРО, G&amp;M, Samsung). С 2009 года реализовали больше 400 проектов для заказчиков из России, Европы и США. Среди них платформы для e-com, ПО для телекома и транспорта, разработка облачных технологий и различных интранет- и ERP-систем, а также систем биометрии, управления данными и безопасности.<br />Наша компания входит в реестр аккредитованных Минцифры РФ IT-компаний.<br /><br />Количество сотрудников – более 200 человек. Есть офисы в Москве, Пензе и Казани. Команда «Открытых решений» — это опытные разработчики, тестировщики, креативные UI/UX-дизайнеры с международными профессиональными сертификатами.</p> <p><strong>Приглашаем в команду Python Developer!</strong></p> <p><strong>Обязанности:</strong></p> <ul> <li> <p>Разработка программного обеспечения для одного из крупнейших разработчиков технологий для обмена товарами и услугами в России.</p> </li> </ul> <strong>Требования:</strong> <ul> <li>Знание и опыт разработки на стеке не менее 4 лет: python, fastapi, flask, sqlalchemy;</li> <li>Опыт работы с PostgreSQL, Kafka, MongoDB</li> <li>Опыт работы с протоколами: HTTP/HTTPS, WebSocket, gRPC, MQTT;</li> <li>Понимание архитектурных паттернов, знание паттернов проектирования</li> </ul> <p><em>Желательные требования</em></p> <ul> <li>Опыт написания сложных запросов и оптимизации запросов в SQL, как на чистом SQL, так и с помощью sqlalchemy</li> <li>Опыт написания систем аутентификации/авторизации, знание стандартов OAuth 2.0, OpenID</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>офисный / удаленный формат работы;</li> <li>прозрачный рост и регулярный ассесмент;</li> <li>менторство, внутренние митапы;</li> <li>международная сертификация и профильное обучение за счет компании;</li> <li>техническая библиотека компании;</li> <li>корпоративный английский язык;</li> <li>хорошо отлаженные процессы, без ночных авралов и команда, с которой работать – удовольствие;</li> <li>отсутствие бюрократии, оформление документов через ЭДО;</li> <li>ДМС;</li> <li>паркинг;</li> <li>корпоративный спорт или компенсация для удаленных сотрудников;</li> <li>корпоративы и командные игры – ежеквартально или как душа попросит.</li> </ul>",
+  "branded_description": "<style>\n.hht-vacancydescription {\n  padding: 0;\n}\n\n.tmpl_hh_wrapper {\n  width: 100%;\n  margin: 0 auto;\n  max-width: 690px;\n  position: relative;\n  word-break: normal;\n  overflow: hidden;\n  font-weight: 400;\n  font-size: 16px;\n  line-height: 22px;\n  letter-spacing: 0.01em;\n  z-index: 1;\n}\n\n@media (max-width: 1019px) {\n  .tmpl_hh_wrapper {\n    max-width: 610px;\n  }\n}\n\n.tmpl_hh_wrapper p, .tmpl_hh_wrapper h1, .tmpl_hh_wrapper h2, .tmpl_hh_wrapper h3, .tmpl_hh_wrapper h4, .tmpl_hh_wrapper h5, .tmpl_hh_wrapper h6, .tmpl_hh_wrapper a, .tmpl_hh_wrapper img, .tmpl_hh_wrapper ol, .tmpl_hh_wrapper ul, .tmpl_hh_wrapper li {\n  margin: 0;\n  padding: 0;\n  border: 0;\n  font: inherit;\n  vertical-align: baseline;\n}\n\n.tmpl_hh_wrapper ul {\n  list-style: none;\n}\n\n.tmpl_hh_wrapper a {\n  text-decoration: none;\n}\n\n.tmpl_hh_wrapper a:hover {\n  color: inherit;\n}\n\n.tmpl_hh_wrapper img {\n  display: block;\n}\n\n.tmpl_hh_wrapper button {\n  display: block;\n  border: none;\n  background-color: transparent;\n  cursor: pointer;\n  outline: none;\n  padding: 0;\n}\n\n.tmpl_hh_wrapper button svg {\n  cursor: pointer;\n}\n\n.tmpl_hh_wrapper .l-cell, .tmpl_hh_wrapper .l-paddings {\n  padding: 0 !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n  margin-top: 0 !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n  overflow: visible !important;\n  line-height: inherit;\n}\n\n.tmpl_hh_content ol li b, .tmpl_hh_content ol li strong, .tmpl_hh_content ol li p b, .tmpl_hh_content ol li p strong, .tmpl_hh_content ul li b, .tmpl_hh_content ul li strong, .tmpl_hh_content ul li p b, .tmpl_hh_content ul li p strong {\n  font-weight: normal;\n  font-size: inherit !important;\n  color: inherit !important;\n  margin: 0 !important;\n  text-transform: none;\n  line-height: inherit;\n}\n\n.tmpl_hh_content ol li p, .tmpl_hh_content ul li p {\n  font-weight: normal;\n  margin: 0;\n}\n\n.tmpl_hh_content p {\n  margin-bottom: 16px;\n}\n\n.tmpl_hh_content p b, .tmpl_hh_content p strong {\n  display: inline;\n  margin: 0;\n}\n\n.tmpl_hh_content ol, .tmpl_hh_content ul {\n  margin-left: 18px;\n  margin-bottom: 32px;\n  list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n  counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n  position: relative;\n  margin-bottom: 8px;\n  font-size: 16px;\n}\n\n.tmpl_hh_content li:last-child {\n  margin-bottom: 0;\n}\n\n.tmpl_hh_content ul ul, .tmpl_hh_content ul ol, .tmpl_hh_content ol ol, .tmpl_hh_content ol ul {\n  margin-top: 14px;\n}\n\n.tmpl_hh_content ol > li {\n  counter-increment: list_counter;\n}\n\n.tmpl_hh_content ul > li:before {\n  content: \"\";\n  width: 5px;\n  height: 5px;\n  position: absolute;\n  left: -18px;\n  top: 9px;\n  border-radius: 50%;\n  background: #303233;\n}\n\n.tmpl_hh_content ol > li:before {\n  content: counter(list_counter) \".\";\n  left: auto;\n  right: 100%;\n  margin-right: 2px;\n}\n\n.tmpl_hh_content :last-child {\n  margin-bottom: 0;\n}\n\n.tmpl_hh_content p:has(+ ul), .tmpl_hh_content strong:has(+ ul), .tmpl_hh_content b:has(+ ul) {\n  font-size: 24px;\n  line-height: 29px;\n  margin-bottom: 13px;\n  display: block;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_content p:has(+ ul), .tmpl_hh_content strong:has(+ ul), .tmpl_hh_content b:has(+ ul) {\n    margin-bottom: 10px;\n  }\n}\n\n.tmpl_hh_wrapper {\n  font-family: Arial, sans-serif;\n  font-size: 18px;\n  line-height: 27px;\n  color: #424242;\n}\n\n.tmpl_hh_wrapper .tmpl_hh_designation {\n  font-size: 14px;\n  line-height: 20px;\n  color: #B5B5B5;\n}\n\n.tmpl_hh_flex {\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n}\n\n.tmpl_hh_header {\n  position: relative;\n  padding-top: 60px;\n  margin-bottom: 10px;\n}\n\n@media (max-width: 1019px) {\n  .tmpl_hh_header {\n    margin-bottom: 0;\n  }\n}\n\n.tmpl_hh_header_dec {\n  position: absolute;\n  top: 11px;\n  right: 0;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_header_dec {\n    top: 22px;\n  }\n}\n\n.tmpl_hh_header_up-section {\n  position: relative;\n  margin-bottom: 45px;\n}\n\n.tmpl_hh_header_up-section > img {\n  width: 217px;\n  height: 75px;\n  margin: 0 auto;\n}\n\n.tmpl_hh_header_middle-section {\n  margin-bottom: 57px;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_header_middle-section {\n    margin-bottom: 38px;\n    padding: 0 20px;\n  }\n}\n\n.tmpl_hh_header_middle-section > p {\n  text-align: center;\n}\n\n.tmpl_hh_header_middle-section > p:nth-child(1) {\n  font-weight: 700;\n  font-size: 40px;\n  line-height: 40px;\n  margin-bottom: 20px;\n}\n\n.tmpl_hh_header_middle-section > p:nth-child(1) > b {\n  color: #00BDF2;\n}\n\n.tmpl_hh_header_middle-section > p:nth-child(2) {\n  font-size: 20px;\n  line-height: 28px;\n}\n\n.tmpl_hh_header_middle-section > p:nth-child(2) > b {\n  color: #00BDF2;\n  font-weight: 400;\n}\n\n.tmpl_hh_header_down-section {\n  position: relative;\n}\n\n.tmpl_hh_header_down-section > img {\n  width: 585px;\n  height: 325px;\n  margin: 0 auto;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_header_down-section > img {\n    width: 100%;\n    height: auto;\n  }\n}\n\n.tmpl_hh_header_down-section_dec {\n  position: absolute;\n  z-index: 9;\n  bottom: -35px;\n  right: 0;\n}\n\n.tmpl_hh_header_down-section_dec > img {\n  width: 100%;\n}\n\n@media (max-width: 1019px) {\n  .tmpl_hh_header_down-section_dec {\n    bottom: -20px;\n    right: -30px;\n  }\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_header_down-section_dec {\n    bottom: 15px;\n    right: 0;\n  }\n}\n\n.tmpl_hh_content {\n  padding: 50px 40px;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_content {\n    padding: 50px 20px;\n  }\n}\n\n.tmpl_hh_content > p {\n  font-size: 20px;\n  line-height: 28px;\n  margin-bottom: 25px;\n}\n\n.tmpl_hh_content p:has(+ ul) {\n  margin: 40px 0 25px 0;\n  font-weight: 700;\n  font-size: 25px;\n  line-height: 30px;\n}\n\n.tmpl_hh_content > ul {\n  margin: 25px 0 40px 18px;\n}\n\n.tmpl_hh_content ul > li {\n  font-size: 20px;\n  line-height: 28px;\n  margin-bottom: 30px;\n  padding-left: 20px;\n}\n\n.tmpl_hh_content ul > li:before {\n  top: 8px;\n  width: 8px;\n  height: 8px;\n  background: #424242;\n}\n\n.tmpl_hh_aside {\n  padding: 50px 40px;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_aside {\n    padding: 50px 20px;\n  }\n}\n\n.tmpl_hh_aside > p {\n  font-weight: 700;\n  font-size: 40px;\n  line-height: 40px;\n  margin-bottom: 40px;\n}\n\n.tmpl_hh_aside > p > b {\n  color: #00BDF2;\n}\n\n.tmpl_hh_aside_items {\n  display: flex;\n  flex-wrap: wrap;\n  justify-content: center;\n  gap: 40px 50px;\n}\n\n.tmpl_hh_aside_items_card {\n  width: 45.9%;\n}\n\n@media (max-width: 1019px) {\n  .tmpl_hh_aside_items_card {\n    width: 44.9%;\n  }\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_aside_items_card {\n    width: 100%;\n  }\n}\n\n.tmpl_hh_aside_items_card_content {\n  display: flex;\n  flex-direction: column;\n}\n\n.tmpl_hh_aside_items_card_content > img {\n  width: 60px;\n  height: 60px;\n  margin-bottom: 25px;\n}\n\n.tmpl_hh_aside_items_card_content > p {\n  font-size: 20px;\n  line-height: 28px;\n}\n\n.tmpl_hh_aside_items_card_content > p > b {\n  font-size: 25px;\n  line-height: 30px;\n}\n\n.tmpl_hh_aside_items_card_content p:nth-child(2) {\n  margin-bottom: 35px;\n}\n\n.tmpl_hh_footer {\n  padding: 60px 40px;\n  border-radius: 50px 50px 0px 0px;\n  background-color: #424242;\n}\n\n.tmpl_hh_footer > p {\n  color: #fff;\n  text-align: center;\n}\n\n.tmpl_hh_footer > p:nth-child(1) {\n  font-weight: 700;\n  font-size: 40px;\n  line-height: 40px;\n  margin-bottom: 20px;\n}\n\n.tmpl_hh_footer > p:nth-child(1) > b {\n  color: #00BDF2;\n}\n\n.tmpl_hh_footer > p:nth-child(2) {\n  font-size: 20px;\n  line-height: 28px;\n}\n\n.tmpl_hh_footer > p:nth-child(2) > b {\n  font-weight: 400;\n  color: #00BDF2;\n}\n</style>\n<div>\n    <div class=\"tmpl_hh_wrapper\">\n        <header class=\"tmpl_hh_header\">\n            <div class=\"tmpl_hh_header_dec\">\n                <img src=\"https://hhcdn.ru/ichameleon/292895.png\" alt=\"\">\n            </div>\n            <div class=\"tmpl_hh_header_up-section\">\n                <img src=\"https://hhcdn.ru/ichameleon/292898.svg\" alt=\"\">\n            </div>\n            <div class=\"tmpl_hh_header_middle-section\">\n                <p>Стань частью нашей <b>команды</b></p>\n                <p>Ищем крутого специалиста. Если ты такой \t— <b>напиши нам!</b></p>\n            </div>\n            <div class=\"tmpl_hh_header_down-section\">\n                <img src=\"https://hhcdn.ru/ichameleon/292897.png\" alt=\"\">\n                <div class=\"tmpl_hh_header_down-section_dec\">\n                    <img src=\"https://hhcdn.ru/ichameleon/292896.png\" alt=\"\">\n                </div>\n            </div>\n        </header>\n        <main class=\"tmpl_hh_content\">\n            <p>«Открытые решения» специализируются на заказной разработке веб-сервисов и мобильных приложений.<br><br>Мы работаем с отечественными и мировыми брендами: МТС, БКС, X5, Ренессанс Кредит Банк, Ак Барс Банк, ЭР-Телеком, ВСК, ПЭК, ИНВИТРО, G&amp;M, Samsung). С 2009 года реализовали больше 400 проектов для заказчиков из России, Европы и США. Среди них платформы для e-com, ПО для телекома и транспорта, разработка облачных технологий и различных интранет- и ERP-систем, а также систем биометрии, управления данными и безопасности.<br>Наша компания входит в реестр аккредитованных Минцифры РФ IT-компаний.<br><br>Количество сотрудников – более 200 человек. Есть офисы в Москве, Пензе и Казани. Команда «Открытых решений» — это опытные разработчики, тестировщики, креативные UI/UX-дизайнеры с международными профессиональными сертификатами.</p> <p><strong>Приглашаем в команду Python Developer!</strong></p> <p><strong>Обязанности:</strong></p> <ul> <li> <p>Разработка программного обеспечения для одного из крупнейших разработчиков технологий для обмена товарами и услугами в России.</p> </li> </ul> <strong>Требования:</strong> <ul> <li>Знание и опыт разработки на стеке не менее 4 лет: python, fastapi, flask, sqlalchemy;</li> <li>Опыт работы с PostgreSQL, Kafka, MongoDB</li> <li>Опыт работы с протоколами: HTTP/HTTPS, WebSocket, gRPC, MQTT;</li> <li>Понимание архитектурных паттернов, знание паттернов проектирования</li> </ul> <p><em>Желательные требования</em></p> <ul> <li>Опыт написания сложных запросов и оптимизации запросов в SQL, как на чистом SQL, так и с помощью sqlalchemy</li> <li>Опыт написания систем аутентификации/авторизации, знание стандартов OAuth 2.0, OpenID</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>офисный / удаленный формат работы;</li> <li>прозрачный рост и регулярный ассесмент;</li> <li>менторство, внутренние митапы;</li> <li>международная сертификация и профильное обучение за счет компании;</li> <li>техническая библиотека компании;</li> <li>корпоративный английский язык;</li> <li>хорошо отлаженные процессы, без ночных авралов и команда, с которой работать – удовольствие;</li> <li>отсутствие бюрократии, оформление документов через ЭДО;</li> <li>ДМС;</li> <li>паркинг;</li> <li>корпоративный спорт или компенсация для удаленных сотрудников;</li> <li>корпоративы и командные игры – ежеквартально или как душа попросит.</li> </ul></main>\n        <aside class=\"tmpl_hh_aside\">\n            <p>Это — <b>Открытые решения</b></p>\n            <div class=\"tmpl_hh_aside_items\">\n                <div class=\"tmpl_hh_aside_items_card\">\n                    <div class=\"tmpl_hh_aside_items_card_content\">\n                        <img src=\"https://hhcdn.ru/ichameleon/292893.svg\" alt=\"\">\n                        <p><b>Самоотдача</b></p>\n                        <p>Выполняем проекты любой сложности под ключ, работаем с разными задачами. Для нас это значит быть компетентными во всех областях software engineering и помогать клиентам в проектировании, формировании требований, разработке, сопровождении.</p>\n                    </div>\n                </div>\n                <div class=\"tmpl_hh_aside_items_card\">\n                    <div class=\"tmpl_hh_aside_items_card_content\">\n                        <img src=\"https://hhcdn.ru/ichameleon/292894.svg\" alt=\"\">\n                        <p><b>Развитие</b></p>\n                        <p>Cотрудники ‑ главный актив и ценность нашей компании. Мы поддерживаем и поощряем обучение, проводим внутренние воркшопы, хакатоны и стажировки. Участвуем в топовых конференциях и получаем международные сертификаты Oracle, Microsoft, Google, ISTQB.</p>\n                    </div>\n                </div>\n                <div class=\"tmpl_hh_aside_items_card\">\n                    <div class=\"tmpl_hh_aside_items_card_content\">\n                        <img src=\"https://hhcdn.ru/ichameleon/292891.svg\" alt=\"\">\n                        <p><b>Перезагрузка</b></p>\n                        <p>У нас не обходится без пиццы по поводу и без, а чтобы разгрузиться мы проводим киберспортивные турниры по CS:GO или сражаемся в Mortal Kombat, FIFA на PS или просто гуляем в VR очках.</p>\n                    </div>\n                </div>\n                <div class=\"tmpl_hh_aside_items_card\">\n                    <div class=\"tmpl_hh_aside_items_card_content\">\n                        <img src=\"https://hhcdn.ru/ichameleon/292892.svg\" alt=\"\">\n                        <p><b>Компетентность</b></p>\n                        <p>Пишем на .NET, Swift, Kotlin, Java, JS, Python, С++. Применяем гибкие подходы к разработке, поддерживаем здоровую инженерную среду и релизим новые фичи каждые две недели.</p>\n                    </div>\n                </div>\n            </div>\n        </aside>\n        <footer class=\"tmpl_hh_footer\">\n            <p>Ждем <b>тебя!</b></p>\n            <p><b>Присоединяйся</b> к команде профессионалов</p>\n        </footer>\n    </div>\n</div>\n<script>\n//\n\n\nconst main = \"\";\n\n\n//\n</script> ",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "ООП"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "MongoDB"
+    },
+    {
+      "name": "FastAPI"
+    },
+    {
+      "name": "Flask"
+    },
+    {
+      "name": "Kafka"
+    },
+    {
+      "name": "HTTP"
+    },
+    {
+      "name": "HTTPS"
+    },
+    {
+      "name": "gRPC"
+    },
+    {
+      "name": "SQLAlchemy"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "625615",
+    "name": "Открытые решения",
+    "url": "https://api.hh.ru/employers/625615",
+    "alternate_url": "https://hh.ru/employer/625615",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1279836.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6739642.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6739643.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=625615",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-15T16:25:25+0300",
+  "created_at": "2025-05-15T16:25:25+0300",
+  "initial_created_at": "2025-05-15T16:25:25+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120599282",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120599282",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

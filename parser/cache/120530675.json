@@ -1,0 +1,123 @@
+{
+  "id": "120530675",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный аналитик РСБУ",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "улица Куйбышева",
+    "building": "44",
+    "lat": 56.827611,
+    "lng": 60.616043,
+    "description": null,
+    "raw": "Екатеринбург, улица Куйбышева, 44",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": {
+    "id": "vtb-4181-teh",
+    "name": "ПАО ВТБ, Технологический блок"
+  },
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <ul> <li>сбор, анализ, формализация бизнес-требований по обязательной отчетности;</li> <li>обследование, оптимизация, изменение существующих бизнес-процессов;</li> <li>моделирование новых бизнес-процессов;</li> <li>написание и согласование технических заданий / функциональных спецификаций;</li> <li>тестирование разработанного функционала, анализ выявленных ошибок, формулирование требований на доработку.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>высшее образование;</li> <li><strong>ОБЯЗАТЕЛЬНОЕ </strong>знание нормативно-регламентирующей базы по обязательной отчетности;</li> <li>опыт работы в банке или ИТ-компании (вендор банковского ПО);</li> <li>знание банковской предметной области, основных продуктов и направлений деятельности;</li> <li>умение формализовать и структурировать информацию;</li> <li>проведение бизнес анализа предметной области;</li> <li>выработка проектных решений;</li> <li>оптимизация бизнес процессов;</li> <li>опыт работы в написании технических заданий / функциональных спецификаций;</li> <li>знание SQL, PL/SQL.</li> </ul> <p>Приветствуется:</p> <ul> <li>опыт работы на позиции системного аналитика в банке или вендоре банковского ПО;</li> <li>опыт тестирования, подготовки программной документации;</li> <li>опыт проектирования ПО для подготовки отчетности на основе данных из нескольких информационных систем.</li> </ul>",
+  "branded_description": "\n<style>\n.hht-vacancydescription {\n  padding: 0 !important;\n}\n\n.vacancy-branded-user-content ul,\n.vacancy-branded-user-content ol {\n  margin-left: 0;\n}\n\n.vacancy-branded-user-content p {\n  margin-top: 0 !important;\n}\n\n.vacancy-branded-user-content p:first-child b,\n.vacancy-branded-user-content p:first-child strong {\n  margin-top: 0 !important;\n}\n\n.tmpl-hh-wrapper {\n  width: 100%;\n  margin: 0 auto;\n  max-width: 690px;\n  position: relative;\n  overflow: hidden;\n  font-family: \"Arial\", sans-serif;\n  font-style: normal;\n  font-weight: 400;\n  font-size: 18px;\n  color: #000;\n  line-height: 1.2;\n}\n\n@media (max-width: 699px) {\n  .tmpl-hh-wrapper {\n    font-size: 14px;\n  }\n}\n\n.tmpl-hh-wrapper * {\n  box-sizing: border-box;\n  padding: 0;\n  margin: 0;\n}\n\n.tmpl-hh-wrapper sup {\n  vertical-align: top;\n}\n\n.tmpl-hh-content ol li p,\n.tmpl-hh-content ul li p {\n  margin: 0 !important;\n}\n\n.tmpl-hh-content ol li p b,\n.tmpl-hh-content ol li p strong,\n.tmpl-hh-content ul li p b,\n.tmpl-hh-content ul li p strong {\n  font-weight: 700;\n  font-size: inherit !important;\n  margin: 0 !important;\n  text-transform: none;\n  color: inherit !important;\n  display: initial;\n}\n\n.tmpl-hh-content ol li em,\n.tmpl-hh-content ul li em {\n  font-style: normal !important;\n}\n\n.tmpl-hh-content ol li em b,\n.tmpl-hh-content ol li em strong,\n.tmpl-hh-content ul li em b,\n.tmpl-hh-content ul li em strong {\n  text-transform: none;\n  display: inherit;\n  font-weight: 700;\n  font-size: inherit;\n  color: inherit;\n  font-style: normal !important;\n}\n\n.tmpl-hh-content ol li b,\n.tmpl-hh-content ol li strong,\n.tmpl-hh-content ul li b,\n.tmpl-hh-content ul li strong {\n  font-weight: 700;\n  font-size: inherit !important;\n  margin: 0 !important;\n  text-transform: none;\n  color: inherit !important;\n}\n\n.tmpl-hh-content p {\n  margin-bottom: 24px;\n}\n\n.tmpl-hh-content p b,\n.tmpl-hh-content p strong {\n  display: inline-block;\n  font-weight: 400;\n  font-size: 30px;\n  line-height: 1;\n  color: #0A2896;\n  margin-top: 38px !important;\n  letter-spacing: -0.007em;\n}\n\n@media (max-width: 699px) {\n  .tmpl-hh-content p b,\n  .tmpl-hh-content p strong {\n    font-size: 22px;\n    letter-spacing: -0.5px;\n  }\n}\n\n.tmpl-hh-content p em {\n  font-style: normal !important;\n}\n\n.tmpl-hh-content p em b,\n.tmpl-hh-content p em strong {\n  text-transform: none;\n  display: inherit;\n  font-weight: 700;\n  font-size: inherit;\n  color: inherit !important;\n  font-style: normal !important;\n  background: transparent;\n  padding: 0;\n}\n\n.tmpl-hh-content p:first-child b,\n.tmpl-hh-content p:first-child strong {\n  margin-top: 0 !important;\n}\n\n.tmpl-hh-content p:last-child {\n  margin-bottom: 0 !important;\n}\n\n.tmpl-hh-content .l-paddings {\n  padding: 0;\n}\n\n@media (max-width: 1019px) {\n  .tmpl-hh-wrapper {\n    max-width: 610px;\n  }\n}\n\n.tmpl-hh-header__wrapper {\n  position: relative;\n  overflow: hidden;\n  padding-top: 57.9710144928%;\n}\n\n.tmpl-hh-header__img {\n  position: absolute;\n  top: -1px;\n  left: -1px;\n  width: 101%;\n  height: 101%;\n  object-fit: cover;\n}\n\n.tmpl-hh-header__logo {\n  position: absolute;\n  top: 40px;\n  right: 48px;\n}\n\n.tmpl-hh-header__title {\n  position: absolute;\n  top: 43px;\n  left: 48px;\n}\n\n.tmpl-hh-header__text {\n  position: absolute;\n  bottom: 37px;\n  left: 48px;\n}\n\n@media (max-width: 699px) {\n  .tmpl-hh-header__wrapper {\n    padding-top: 141.3793103448%;\n  }\n  .tmpl-hh-header__logo {\n    width: 60px;\n    height: auto;\n    top: 30px;\n    right: 16px;\n  }\n  .tmpl-hh-header__title {\n    top: 21px;\n    left: 16px;\n  }\n  .tmpl-hh-header__text {\n    width: 106px;\n    height: auto;\n    left: 16px;\n    bottom: 38px;\n  }\n}\n\n.tmpl-hh-content {\n  padding: 48px;\n}\n\n.tmpl-hh-content ul,\n.tmpl-hh-content ol {\n  margin-left: 0;\n  margin-bottom: 10px;\n}\n\n.tmpl-hh-content ul li,\n.tmpl-hh-content ol li {\n  list-style: none;\n  position: relative;\n  padding-left: 28px;\n  color: #2F3441;\n  line-height: 1.2;\n  font-size: 18px;\n}\n\n.tmpl-hh-content ul li::before,\n.tmpl-hh-content ol li::before {\n  position: absolute;\n  top: 8px;\n  left: 11px;\n  content: \"\";\n  width: 5px;\n  height: 5px;\n  border-radius: 50%;\n  background: #2F3441;\n}\n\n@media (max-width: 699px) {\n  .tmpl-hh-content {\n    padding: 32px 0;\n  }\n  .tmpl-hh-content ul li,\n  .tmpl-hh-content ol li {\n    padding-left: 21px;\n    font-size: 14px;\n  }\n  .tmpl-hh-content ul li::before,\n  .tmpl-hh-content ol li::before {\n    width: 4px;\n    height: 4px;\n    top: 6px;\n    left: 9px;\n  }\n}\n\n.tmpl-hh-footer {\n  padding: 0 48px 48px;\n}\n\n.tmpl-hh-footer__title {\n  margin-bottom: 24px;\n  color: #0A2896;\n  font-size: 30px;\n  line-height: 1;\n  letter-spacing: -0.007em;\n}\n\n.tmpl-hh-footer__wrapper {\n  display: grid;\n  grid-template-columns: repeat(3, 1fr);\n  gap: 10px;\n}\n\n.tmpl-hh-footer__item {\n  padding: 16px;\n  border-radius: 8px;\n  background-color: #F3F7FA;\n}\n\n.tmpl-hh-footer__img {\n  margin-bottom: 16px;\n  width: 52px;\n  height: 52px;\n}\n\n.tmpl-hh-footer__text {\n  color: #2F3441;\n  font-size: 15px;\n  line-height: 1.2;\n  letter-spacing: -0.4px;\n}\n\n@media (max-width: 1019px) {\n  .tmpl-hh-footer__wrapper {\n    grid-template-columns: repeat(2, 1fr);\n  }\n  .tmpl-hh-footer__text {\n    font-size: 14px;\n  }\n}\n\n@media (max-width: 699px) {\n  .tmpl-hh-header {\n    border-radius: 8px;\n    overflow: hidden;\n  }\n  .tmpl-hh-footer {\n    padding: 0;\n  }\n  .tmpl-hh-footer__title {\n    margin-bottom: 16px;\n    font-size: 22px;\n    letter-spacing: -0.5px;\n  }\n  .tmpl-hh-footer__wrapper {\n    grid-template-columns: repeat(1, 1fr);\n  }\n}\n\np.tmpl_hh_footnote {\n    font-size: 12px;\n    line-height: 14px;\n    opacity: 0.5;\n    padding: 20px 0 0;\n}\n</style>\n\n<div>\n<div class=\"tmpl-hh-wrapper\">\n    <div class=\"tmpl-hh-header\">\n    <div class=\"tmpl-hh-header__wrapper\">\n        <picture>\n            <source srcset=\"https://hhcdn.ru/ichameleon/295964.jpg\" media=\"(max-width: 699px)\"></source>\n            <img src=\"https://hhcdn.ru/ichameleon/295963.jpg\" class=\"tmpl-hh-header__img\" alt=\"\">\n        </picture>\n        <img src=\"https://hhcdn.ru/ichameleon/292326.svg\" class=\"tmpl-hh-header__logo\" alt=\"\">\n        <img src=\"https://hhcdn.ru/ichameleon/292327.svg\" class=\"tmpl-hh-header__title\" alt=\"\">\n        <img src=\"https://hhcdn.ru/ichameleon/292383.svg\" class=\"tmpl-hh-header__text\" alt=\"\">\n    </div>\n</div>    <div class=\"tmpl-hh-content\">\n        <p><strong>Обязанности:</strong></p> <ul> <li>сбор, анализ, формализация бизнес-требований по обязательной отчетности;</li> <li>обследование, оптимизация, изменение существующих бизнес-процессов;</li> <li>моделирование новых бизнес-процессов;</li> <li>написание и согласование технических заданий / функциональных спецификаций;</li> <li>тестирование разработанного функционала, анализ выявленных ошибок, формулирование требований на доработку.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>высшее образование;</li> <li><strong>ОБЯЗАТЕЛЬНОЕ </strong>знание нормативно-регламентирующей базы по обязательной отчетности;</li> <li>опыт работы в банке или ИТ-компании (вендор банковского ПО);</li> <li>знание банковской предметной области, основных продуктов и направлений деятельности;</li> <li>умение формализовать и структурировать информацию;</li> <li>проведение бизнес анализа предметной области;</li> <li>выработка проектных решений;</li> <li>оптимизация бизнес процессов;</li> <li>опыт работы в написании технических заданий / функциональных спецификаций;</li> <li>знание SQL, PL/SQL.</li> </ul> <p>Приветствуется:</p> <ul> <li>опыт работы на позиции системного аналитика в банке или вендоре банковского ПО;</li> <li>опыт тестирования, подготовки программной документации;</li> <li>опыт проектирования ПО для подготовки отчетности на основе данных из нескольких информационных систем.</li> </ul></div>    <div class=\"tmpl-hh-footer\">\n      <div class=\"tmpl-hh-footer__title\">\n        Условия\n      </div>\n      <div class=\"tmpl-hh-footer__wrapper\">\n        <div class=\"tmpl-hh-footer__item\">\n          <img src=\"https://hhcdn.ru/ichameleon/292329.png\" class=\"tmpl-hh-footer__img\" alt=\"\">\n          <div class=\"tmpl-hh-footer__text\">\n            Трудоустройство согласно Законодательству\n          </div>\n        </div>\n        <div class=\"tmpl-hh-footer__item\">\n          <img src=\"https://hhcdn.ru/ichameleon/292330.png\" class=\"tmpl-hh-footer__img\" alt=\"\">\n          <div class=\"tmpl-hh-footer__text\">\n            Профессиональное обучение и развитие\n          </div>\n        </div>\n        <div class=\"tmpl-hh-footer__item\">\n          <img src=\"https://hhcdn.ru/ichameleon/292331.png\" class=\"tmpl-hh-footer__img\" alt=\"\">\n          <div class=\"tmpl-hh-footer__text\">\n            Конкурентная заработная плата\n          </div>\n        </div>\n        <div class=\"tmpl-hh-footer__item\">\n          <img src=\"https://hhcdn.ru/ichameleon/292336.png\" class=\"tmpl-hh-footer__img\" alt=\"\">\n          <div class=\"tmpl-hh-footer__text\">\n            Добровольное медицинское страхование\n          </div>\n        </div>\n        <div class=\"tmpl-hh-footer__item\">\n          <img src=\"https://hhcdn.ru/ichameleon/292332.png\" class=\"tmpl-hh-footer__img\" alt=\"\">\n          <div class=\"tmpl-hh-footer__text\">\n            Корпоративная пенсионная программа, материальная помощь\n          </div>\n        </div>\n        <div class=\"tmpl-hh-footer__item\">\n          <img src=\"https://hhcdn.ru/ichameleon/292333.png\" class=\"tmpl-hh-footer__img\" alt=\"\">\n          <div class=\"tmpl-hh-footer__text\">\n            Спортивная жизнь и корпоративные мероприятия\n          </div>\n        </div>\n        <div class=\"tmpl-hh-footer__item\">\n          <img src=\"https://hhcdn.ru/ichameleon/292334.png\" class=\"tmpl-hh-footer__img\" alt=\"\">\n          <div class=\"tmpl-hh-footer__text\">\n            Возможность построить карьеру в ведущем банке России\n          </div>\n        </div>\n        <div class=\"tmpl-hh-footer__item\">\n          <img src=\"https://hhcdn.ru/ichameleon/292335.png\" class=\"tmpl-hh-footer__img\" alt=\"\">\n          <div class=\"tmpl-hh-footer__text\">\n            Льготные условия кредитования\n          </div>\n        </div>\n      </div>\n      <p class=\"tmpl_hh_footnote\">наименование банка ПАО ВТБ</p>\n    </div>    \n</div>\n</div>\n\n\n<script type=\"text/javascript\">  \n//\n\n(function polyfill() {\n  const relList = document.createElement(\"link\").relList;\n  if (relList && relList.supports && relList.supports(\"modulepreload\")) {\n    return;\n  }\n  for (const link of document.querySelectorAll('link[rel=\"modulepreload\"]')) {\n    processPreload(link);\n  }\n  new MutationObserver((mutations) => {\n    for (const mutation of mutations) {\n      if (mutation.type !== \"childList\") {\n        continue;\n      }\n      for (const node of mutation.addedNodes) {\n        if (node.tagName === \"LINK\" && node.rel === \"modulepreload\")\n          processPreload(node);\n      }\n    }\n  }).observe(document, { childList: true, subtree: true });\n  function getFetchOpts(script) {\n    const fetchOpts = {};\n    if (script.integrity)\n      fetchOpts.integrity = script.integrity;\n    if (script.referrerpolicy)\n      fetchOpts.referrerPolicy = script.referrerpolicy;\n    if (script.crossorigin === \"use-credentials\")\n      fetchOpts.credentials = \"include\";\n    else if (script.crossorigin === \"anonymous\")\n      fetchOpts.credentials = \"omit\";\n    else\n      fetchOpts.credentials = \"same-origin\";\n    return fetchOpts;\n  }\n  function processPreload(link) {\n    if (link.ep)\n      return;\n    link.ep = true;\n    const fetchOpts = getFetchOpts(link);\n    fetch(link.href, fetchOpts);\n  }\n})();\nconst index = \"\";\nwindow.addEventListener(\"DOMContentLoaded\", () => {\n});\n\n//\n</script>\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "148",
+      "name": "Системный аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4181",
+    "name": "Банк ВТБ (ПАО)",
+    "url": "https://api.hh.ru/employers/4181",
+    "alternate_url": "https://hh.ru/employer/4181",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/482009.png",
+      "90": "https://img.hhcdn.ru/employer-logo/2369888.png",
+      "240": "https://img.hhcdn.ru/employer-logo/2369889.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4181",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-14T12:58:27+0300",
+  "created_at": "2025-05-14T12:58:27+0300",
+  "initial_created_at": "2025-05-14T12:52:35+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120530675",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120530675",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

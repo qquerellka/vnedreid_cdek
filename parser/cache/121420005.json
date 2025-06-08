@@ -1,0 +1,170 @@
+{
+  "id": "121420005",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "DevOps-инженер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Нижний Сусальный переулок",
+    "building": "5с5А",
+    "lat": 55.759805,
+    "lng": 37.664141,
+    "description": null,
+    "raw": "Москва, Нижний Сусальный переулок, 5с5А",
+    "metro": {
+      "station_name": "Курская",
+      "line_name": "Кольцевая",
+      "station_id": "5.71",
+      "line_id": "5",
+      "lat": 55.758631,
+      "lng": 37.661059
+    },
+    "metro_stations": [
+      {
+        "station_name": "Курская",
+        "line_name": "Кольцевая",
+        "station_id": "5.71",
+        "line_id": "5",
+        "lat": 55.758631,
+        "lng": 37.661059
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Департамент информационных технологий Москвы</strong> создает и развивает цифровые проекты, которые делают столицу комфортнее, а жизнь горожан — удобнее и мобильнее. Для системы управления столицей технологии — это незаменимый инструмент, который применяется во всех отраслях экономики, городского хозяйства и социальной сферы. А для миллионов горожан — повседневный помощник, который позволяет получать сотни услуг и сервисов в удобном цифровом формате в режиме 24/7.</p> <p>Сейчас мы находимся в поиске <strong>DevOps-инженера </strong><strong>в продукт Цифровое правосудие</strong>, в рамках которого создается единая цифровая платформа судов общей юрисдикции города Москвы. Основная задача состоит в автоматизации и модернизации процессов судебного делопроизводства, а также в обеспечении эффективного взаимодействия судов с различными органами исполнительной власти и жителями города.</p> <p><strong>Что нужно делать:</strong></p> <ul> <li> <p>поддержка процессов CI/CD (GitLab CI/CD)</p> </li> <li> <p>поддержка и администрирование инфраструктуры для разработки и тестирования</p> </li> <li> <p>мониторинг и обеспечение стабильной работы приложений и сервисов</p> </li> <li> <p>автоматизация процессов развертывания и сопровождения инфраструктуры</p> </li> <li> <p>оптимизация и поддержка систем логирования и мониторинга</p> </li> </ul> <p><strong>Какие знания и навыки важны:</strong></p> <ul> <li>практический опыт работы в сфере DevOps от 1 года</li> <li>хорошее понимание Ansible, Docker, Kubernetes, Helm, Git/GitLab</li> <li>знание операционных систем семейства Linux</li> <li>хорошее понимание работы реляционных СУБД и понимание принципов репликации данных</li> <li>практический опыт работы с CI/CD</li> <li>понимание концепции IaC (Infrastructure as Code)</li> <li>понимание принципов контейнеризации приложений</li> <li>понимание микросервисной архитектуры</li> </ul> <p><strong>Будет плюсом, если есть опыт работы:</strong></p> <ul> <li>с PostgreSQL, включая настройку кластеров и оптимизацию производительности</li> <li>с Prometheus / Grafana</li> <li>с репозиториями и реестрами контейнеров (Nexus Repository Manager)</li> <li>по администрированию Linux (Ubuntu, RedOS, Astra)</li> </ul> <p><strong>Что предлагаем:</strong></p> <ul> <li>официальное трудоустройство в аккредитованную ИТ-компанию</li> <li>гибридный режим работы: можно работать удаленно или в современном офисе в центре</li> <li>ежегодное премирование по результатам работы</li> <li>материальную помощь в случае важных событий в жизни</li> <li>корпоративное обучение и доступ к онлайн-библиотеке</li> <li>скидки от партнеров на ДМС, связь, развлечения, подарки, спорт и т.д.</li> <li> <p>корпоративные тренировки и спортивные активности - бег, футбол, волейбол, баскетбол, теннис и другие</p> </li> </ul> <p><strong>Стань частью команды ДИТ Москвы и воплощай в жизнь цифровые проекты столицы!</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "CI/CD"
+    },
+    {
+      "name": "DevOps"
+    },
+    {
+      "name": "Prometheus"
+    },
+    {
+      "name": "Ansible"
+    },
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Микросервисная архитектура"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "160",
+      "name": "DevOps-инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2427329",
+    "name": "ГКУ Инфогород",
+    "url": "https://api.hh.ru/employers/2427329",
+    "alternate_url": "https://hh.ru/employer/2427329",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/772017.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3529025.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3529026.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2427329",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T13:24:39+0300",
+  "created_at": "2025-06-06T13:24:39+0300",
+  "initial_created_at": "2025-06-06T13:24:39+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121420005",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121420005",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

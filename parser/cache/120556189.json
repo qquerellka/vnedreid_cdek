@@ -1,0 +1,195 @@
+{
+  "id": "120556189",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Java-разработчик младшего/среднего уровня (junior/middle Java developer)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Малая Семёновская улица",
+    "building": "9с3",
+    "lat": 55.785341,
+    "lng": 37.708958,
+    "description": null,
+    "raw": "Москва, Малая Семёновская улица, 9с3",
+    "metro": {
+      "station_name": "Электрозаводская",
+      "line_name": "Арбатско-Покровская",
+      "station_id": "3.161",
+      "line_id": "3",
+      "lat": 55.782057,
+      "lng": 37.7053
+    },
+    "metro_stations": [
+      {
+        "station_name": "Электрозаводская",
+        "line_name": "Арбатско-Покровская",
+        "station_id": "3.161",
+        "line_id": "3",
+        "lat": 55.782057,
+        "lng": 37.7053
+      },
+      {
+        "station_name": "Электрозаводская",
+        "line_name": "Большая кольцевая линия",
+        "station_id": "97.803",
+        "line_id": "97",
+        "lat": 55.782057,
+        "lng": 37.7053
+      },
+      {
+        "station_name": "Электрозаводская",
+        "line_name": "Некрасовская",
+        "station_id": "98.802",
+        "line_id": "98",
+        "lat": 55.782057,
+        "lng": 37.7053
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>В стабильную IT-компанию требуются Java-разработчики. Основным направлением деятельности является разработка автоматизированных программных и аппаратно-программных систем для железнодорожной отрасли.</p> <p><strong>Требования:</strong></p> <ul> <li>уверенное знание Java SE, понимание принципов ООП и паттернов проектирования;</li> <li>знание SQL, понимание принципов работы реляционных СУБД;</li> <li>умение пользоваться сиcтемами контроля версий (Git);</li> <li>умение работы с системами сборки (например, Maven или Gradle);</li> <li>владение английским языком на уровне свободного чтения документации.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>опыт работы с Spring Framework;</li> <li>опыт разработки веб-сервисов (REST, SOAP);</li> <li>опыт работы с СУБД Oracle или PostgreSQL, проектирования БД;</li> <li> <p>знакомство с контейнеризацией (Docker) и микросервисной архитектурой;</p> </li> <li> <p>опыт командной разработки;</p> </li> <li> <p>интерес к железнодорожной отрасли.</p> </li> </ul> <p>Условия:</p> <ul> <li>оформление по ТК;</li> <li>офис в 7 минутах ходьбы от м. Электрозаводская;</li> <li>гибкий рабочий график.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Разработка ПО"
+    },
+    {
+      "name": "Spring Framework"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "ORACLE"
+    },
+    {
+      "name": "Java"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "REST"
+    },
+    {
+      "name": "SOAP"
+    },
+    {
+      "name": "Maven"
+    },
+    {
+      "name": "Backend"
+    },
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "Nomad"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2426036",
+    "name": "НАО Инфоком",
+    "url": "https://api.hh.ru/employers/2426036",
+    "alternate_url": "https://hh.ru/employer/2426036",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/340916.png",
+      "90": "https://img.hhcdn.ru/employer-logo/1805930.png",
+      "240": "https://img.hhcdn.ru/employer-logo/1805931.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2426036",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-14T18:49:51+0300",
+  "created_at": "2025-05-14T18:49:51+0300",
+  "initial_created_at": "2025-05-14T18:49:51+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120556189",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120556189",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

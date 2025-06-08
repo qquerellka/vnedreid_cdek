@@ -1,0 +1,153 @@
+{
+  "id": "121058536",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер по сетевой безопасности (R&D)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": 0.0,
+    "lng": 0.0,
+    "description": null,
+    "raw": "Новосибирск, улица Николаева, 11",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>О нас</strong></p> <p>24 часа в сутки мы детектируем атаки и с максимальной скоростью разрабатываем и публикуем рекомендации по защите информации наших клиентов.</p> <p><strong>UserGate</strong> вкладывает много ресурсов в развитие технологий. Это далеко не норма в нашей отрасли, где можно получить относительно быстрый результат, используя программное обеспечение с открытым кодом. Мы вкладываемся в развитие собственной аппаратной части, в исследование новых высокопроизводительных алгоритмов, развитие собственных решений, основанных на проприетарном коде и экспертизе. Мы больше чем софтовая компания – мы создаем и развиваем технологии.</p> <p><strong>Наша миссия</strong> – защита инфраструктуры цифрового мира технологиями, которым доверяют вне зависимости от границ.</p> <p>Мы ищем <strong>Инженера по сетевой безопасности в R&amp;D</strong>, который будет создавать детектирующий контент, по сути &quot;иммунитет&quot;, для самого быстрого NGFW на российском рынке.</p> <p><strong>Чем предстоит заниматься</strong></p> <ul> <li>искать и исследовать актуальные атаки и уязвимости;</li> <li>моделировать угрозы и воспроизводить атаки на стенде (находить, читать код, запускать PoC, работать с гипервизорами);</li> <li>писать сигнатуры для IDPS по результатам исследования;</li> <li>разрабатывать правила детектирования приложений L7;</li> <li>участвовать в R&amp;D проектах и предлагать новый функционал для продуктов компании.</li> </ul> <p><strong>Каких скиллов мы ждем от кандидата</strong></p> <ul> <li>у тебя есть высшее образование (желательно техническое в области ИБ или ИТ);</li> <li>обладаешь опытом работы с системами обнаружения вторжений (Snort, Suricata);</li> <li>работал с инструментами для анализа сетевого трафика;</li> <li>умеешь обрабатывать и структурировать большой объем информации;</li> <li>знание технологий обеспечения ИБ (Firewalls, IDS/IPS, PKI, VPN, антивирусная защита, контроль доступа, криптографическая защита и др.);</li> <li>знание устройства и функционирования OC Windows, Linux на уровне администратора;</li> <li>будет преимуществом, если ты играешь в CTF)</li> </ul> <p><strong>Мы предлагаем</strong></p> <ul> <li> <p>возможность развития в растущей компании с большими амбициями;</p> </li> <li> <p>команду с сильной ИБ экспертизой;</p> </li> <li> <p>достойную оплату труда (обсуждаем на собеседовании);</p> </li> <li> <p>гибкое начало рабочего дня;</p> </li> <li> <p>бенефиты: ДМС со стоматологией, стационаром и помощью на дому, страхование родственников, компенсация абонементов на любой вид спорта, карта корпоративного питания, подарки к мероприятиям.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Snort"
+    },
+    {
+      "name": "Suricata"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Information Security"
+    },
+    {
+      "name": "IDS/IPS"
+    },
+    {
+      "name": "PKI"
+    },
+    {
+      "name": "VPN"
+    },
+    {
+      "name": "TCP/IP"
+    },
+    {
+      "name": "FIrewall"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "116",
+      "name": "Специалист по информационной безопасности"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "113649",
+    "name": "UserGate",
+    "url": "https://api.hh.ru/employers/113649",
+    "alternate_url": "https://hh.ru/employer/113649",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/792213.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3609739.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3609740.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=113649",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-28T07:17:56+0300",
+  "created_at": "2025-05-28T07:17:56+0300",
+  "initial_created_at": "2025-05-28T07:17:56+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121058536",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121058536",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,151 @@
+{
+  "id": "121404661",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Программист Python",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 80000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 80000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "территория Сергиево, 4-я линия",
+    "building": null,
+    "lat": 59.834777,
+    "lng": 30.077572,
+    "description": null,
+    "raw": "Санкт-Петербург, территория Сергиево, 4-я линия",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Наша компания</strong> на рынке уже более 32 лет, что является примером стабильности и уверенности для нашего персонала. В нашей компании сотрудники работают более 5, 10 и даже 20 лет, так как мы предоставляем уникальные условия для персонала в части интересной работы, развития, соц. поддержки и корпоративной культуры.</p> <div><strong>Приглашаем в нашу команду Программист Python</strong></div> <div> </div> <div><strong>Вы будете заниматься, такими важными для нас вещами, как:</strong></div> <ul> <li>Организовывать и поддерживать обмен данных по API из 1с, битрикса, я.метрики, СРМ, и т.п.. ETL процессы, управление;</li> <li>Участвовать в написании новых сервисов для бизнеса, поддерживать существующие. Django, FastApi, Flask, FastApi – в чем то, из этого, тебе обязательно нужно разбираться;</li> <li>Собирать простенькие дашборды на PowerBI;</li> <li>Работать в команде и не только.</li> </ul> <strong>Требования:</strong> <ul> <li> <p>SQL, SQL server;</p> </li> <li>чтение и написание API, web запросы, Python, Django, FastApi, Flask (знание минимум одного из);</li> <li>Power BI, MSSQL, PostgreSQL.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <p>• Достойную и конкурентоспособную оплату труда. Оклад + KPI;<br />• Работу в стабильной, развивающейся компании;<br />• График работы: 5/2, с 09:00 до 18:00;<br /><strong>Возможен Гибридный формат работы;</strong><br />• Работа в комфортном офисе, в бизнес-центре &quot;Лада&quot;, г. Санкт-Петербург 10 (м. Ладожское, 2 мин пешком).</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Flask"
+    },
+    {
+      "name": "FastAPI"
+    },
+    {
+      "name": "PostgreSQL"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11636564",
+    "name": "Азбука Мебели",
+    "url": "https://api.hh.ru/employers/11636564",
+    "alternate_url": "https://hh.ru/employer/11636564",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1375660.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/7122538.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/7122539.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11636564",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T08:32:07+0300",
+  "created_at": "2025-06-06T08:32:07+0300",
+  "initial_created_at": "2025-06-06T08:32:07+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121404661",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121404661",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

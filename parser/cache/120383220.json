@@ -1,0 +1,197 @@
+{
+  "id": "120383220",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист технической поддержки",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 70000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 70000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": null,
+    "lng": null,
+    "description": null,
+    "raw": null,
+    "metro": {
+      "station_name": "Бибирево",
+      "line_name": "Серпуховско-Тимирязевская",
+      "station_id": "9.22",
+      "line_id": "9",
+      "lat": 55.883868,
+      "lng": 37.603011
+    },
+    "metro_stations": [
+      {
+        "station_name": "Бибирево",
+        "line_name": "Серпуховско-Тимирязевская",
+        "station_id": "9.22",
+        "line_id": "9",
+        "lat": 55.883868,
+        "lng": 37.603011
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "flexible",
+    "name": "Гибкий график"
+  },
+  "employment": {
+    "id": "part",
+    "name": "Частичная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Прием и обработка от абонентов компании входящих телефонных звонков и текстовых сообщений по имейл, из мессенджеров и VK.</p> <p>Готовы рассмотреть кандидатов без опыта работы.</p> <p> </p> <p><strong>Профессиональные требования:</strong></p> <ul> <li>Ответственность‚ исполнительность‚ внимательность‚ грамотная речь‚ стрессоустойчивость‚ пунктуальность‚ энергичность.</li> <li>Уровень знаний ПК: <ul> <li>MS Office;</li> <li>Internet;</li> <li>Электронная почта;</li> </ul> </li> </ul> <ul> <li>Понимание принципа работы локальных сетей;</li> <li>Общее знание стека протоколов TCP/IP;</li> <li>Опыт настройки сетевого оборудования (роутеры);</li> <li>Знание ОС Windows;</li> <li>Опыт работы в сфере телекоммуникаций приветствуется.</li> </ul> <p><br /><strong>Обязанности:</strong></p> <ul> <li>Техническая помощь и консультация клиентов по телефону;</li> <li>Диагностика неисправностей и помощь в настройке клиентского оборудования;</li> <li>Работа с оттоком и удержанием клиентов;</li> <li>Оформление заявок на подключение и ремонт.</li> </ul> <p><br /><strong>Условия:</strong></p> <ul> <li>График работы сменный 2/2 (c 10:00 до 22:00);</li> <li>Оформление по ТК РФ;</li> <li>Офис – метро Бибирево (2 минуты пешком)</li> <li>Оплачиваемый отпуск/больничный</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Техническая поддержка"
+    },
+    {
+      "name": "Настройка сетевых подключений"
+    },
+    {
+      "name": "Пользователь ПК"
+    },
+    {
+      "name": "Грамотная речь"
+    },
+    {
+      "name": "Деловое общение"
+    },
+    {
+      "name": "Internet"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "16231",
+    "name": "Старлинк",
+    "url": "https://api.hh.ru/employers/16231",
+    "alternate_url": "https://hh.ru/employer/16231",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/228665.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/627443.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/627444.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=16231",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-12T09:55:49+0300",
+  "created_at": "2025-05-12T09:55:49+0300",
+  "initial_created_at": "2025-05-12T09:55:49+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120383220",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120383220",
+  "working_days": [],
+  "working_time_intervals": [
+    {
+      "id": "from_four_to_six_hours_in_a_day",
+      "name": "Можно сменами по 4-6 часов в день"
+    }
+  ],
+  "working_time_modes": [
+    {
+      "id": "start_after_sixteen",
+      "name": "С началом дня после 16:00"
+    }
+  ],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "PART",
+    "name": "Частичная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": true,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "TWO_ON_TWO_OFF",
+      "name": "2/2"
+    },
+    {
+      "id": "FLEXIBLE",
+      "name": "Свободный"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_4",
+      "name": "4 часа"
+    },
+    {
+      "id": "HOURS_6",
+      "name": "6 часов"
+    },
+    {
+      "id": "HOURS_12",
+      "name": "12 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

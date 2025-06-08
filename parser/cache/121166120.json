@@ -1,0 +1,128 @@
+{
+  "id": "121166120",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Golang-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>О проекте</strong></p> <p>Мы разрабатываем утилиту &quot;Мигратор&quot; — инструмент для бесшовной миграции данных и метаданных из Oracle и Microsoft SQL Server в нашу мультимодальную СУБД. &quot;Мигратор&quot; извлекает данные, преобразует их в текстовые файлы и интегрирует с программой загрузки, помогая крупным компаниям решать задачи импортозамещения. Это востребованный продукт, открывающий новые возможности для оптимизации инфраструктуры.<br /><br /><strong>Задачи: </strong></p> <ul> <li>Разработка утилиты на языке Go;</li> <li>Реализация многопоточных процессов для обработки больших объемов данных;</li> <li>Подключение к реляционным СУБД (PostgreSQL, Oracle, MS SQL Server) для извлечения данных и метаданных;</li> <li>Работа по гибкой методологии разработки (Agile/Scrum).</li> </ul> <p><strong>Наши ожидания: </strong></p> <ul> <li>Уверенный опыт разработки на Go;</li> <li>Знание многопоточности и coroutine в Go;</li> <li>Опыт подключения к реляционным СУБД (PostgreSQL, Oracle или MS SQL Server) на уровне базовых операций.</li> </ul> <p><strong>Условия: </strong></p> <ul> <li>Оформление в штат по ТК РФ, полная занятость;</li> <li>Для городов: Москва, Санкт-Петербург, Ярославль, Чебоксары, Пермь, Воронеж, Самара, Уфа - гибридный формат работы: по понедельникам работа из офиса, остальные дни дистанционно по желанию;</li> <li>Для городов: Екатеринбург, Волгоград, Калининград, Тула, Казань, Нижний Новгород, Краснодар, Рязань - дистанционный формат работы до тех пор пока не будет открыт филиал, после открытия филиала занятость сменится на гибридную (один день в неделю из офиса).</li> </ul> <div> <div> <div title=\"Copy\"> </div> <div title=\"Change Color\"> </div> <div title=\"Delete\"> </div> </div> </div>",
+  "branded_description": "\n<style>\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    font-family: \"Arial\", sans-serif;\n    color: #000;\n    font-size: 16px;\n    line-height: 26px;\n    overflow: hidden;\n}\n.tmpl_hh_wrapper *{\n    box-sizing: border-box;\n}\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;    \n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-weight: normal;\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    margin: 0 0 27px;\n    letter-spacing: 0.1px;\n}\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    text-transform: uppercase;\n    display: inline-block;\n}\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong{\n    margin: 0;   \n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 30px;\n    list-style: none !important;\n    margin-bottom: 26px;\n    margin-top: -18px;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 8px;\n    letter-spacing: 0.1px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 8px;\n    margin-bottom: 8px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;    \n}\n\n.tmpl_hh_content li:before {\n    content: '';\n    position: absolute;\n    left: -18px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    width: 16px;\n    height: 2px;\n    background-color: #000;\n    left: -30px;\n    top: 13px;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter)'.';\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n\n.tmpl_hh_wrapper img{\n    width: 100%;\n    display: block;\n}\n.tmpl_hh_content {\n    padding: 27px 40px 18px;\n}\n.tmpl_hh_content .tmpl_hh_text p{\n    margin-bottom: 9px;\n}\n\n.tmpl_hh_header{\n    position: relative;\n    padding: 0;\n}\n.tmpl_hh_header .tmpl_hh_logo{\n    width: 136px;\n    position: absolute;\n    z-index: 2;\n    top: 11px;\n    left: 25px;\n}\n.tmpl_hh_header .tmpl_hh_sot{\n    position: relative;\n    width: 95%;\n    margin-left: auto;\n}\n.tmpl_hh_bonuce{\n    padding: 0 40px;\n}\n.tmpl_hh_bonuce b{\n    color: #b42640;\n}\n.tmpl_hh_bonuce .tmpl_hh_flex{\n    display: flex;\n    justify-content: space-between;\n    flex-wrap: wrap;\n    margin-top: 23px;\n}\n.tmpl_hh_left, .tmpl_hh_right{\n    width: 50%;\n}\n.tmpl_hh_bonuce__item{\n    position: relative;\n    padding-left: 89px;\n    margin-bottom: 36px;\n    padding-right: 10px;\n}\n.tmpl_hh_bonuce__item img{\n    width: 74px;\n    height: auto;\n    position: absolute;\n    top: 50%;\n    transform: translateY(-50%);\n    left: 0;\n}\n.tmpl_hh_bonuce__item p{\n    letter-spacing: -0.7px;\n    font-size: 16px;\n    line-height: 18px;\n}\n.tmpl_hh_footer img{\n    width: 43%;\n    margin-left: auto;\n    margin-top: -20px;\n}\n.tmpl_hh_line2 img{\n    height: 33px;\n}\n\n@media (max-width: 1019px) {\n\n    .tmpl_hh_bonuce__item{\n        padding-right: 15px;\n        padding-left: 74px;\n    }\n    .tmpl_hh_bonuce__item img{\n        width: 60px;\n    }\n    .tmpl_hh_footer img{\n        width: 58%;\n    }\n}\n\n@media (max-width: 699px) {\n\n    .tmpl_hh_header{\n        padding: 0;\n    }\n    .tmpl_hh_header .tmpl_hh_logo{\n        width: 20.5%;\n        top: 5px;\n        left: 11px;\n    }\n    .tmpl_hh_content {\n        padding: 22px 1px 18px;\n    }\n    .tmpl_hh_bonuce {\n        padding: 0 1px;\n    }\n    .tmpl_hh_bonuce .tmpl_hh_flex{\n        margin-top: 30px;\n    }\n    .tmpl_hh_left, .tmpl_hh_right {\n        width: 100%;\n    }\n    .tmpl_hh_left, .tmpl_hh_left {\n        width: 100%;\n    }\n    .tmpl_hh_bonuce__item{\n        padding-left: 88px;\n    }\n    .tmpl_hh_bonuce__item img {\n        width: 72px;\n    }\n    .tmpl_hh_footer img {\n        width: 43%;\n    }\n    .tmpl_hh_line2 img {\n        height: 14px;\n    }\n\n}\n\n</style>\n\n    <div class=\"tmpl_hh_wrapper\">\n        \n        <div class=\"tmpl_hh_line\"><img src=\"https://hhcdn.ru/ichameleon/183121.jpg\" alt=\"\"></div>\n        <div class=\"tmpl_hh_header\">\n            <img src=\"https://hhcdn.ru/ichameleon/428010.jpg\" alt=\"\" class=\"tmpl_hh_logo\">\n            <img src=\"https://hhcdn.ru/ichameleon/209244.png\" alt=\"\" class=\"tmpl_hh_sot\">\n        </div>\n        \n        <div class=\"tmpl_hh_content\">\n            <div class=\"tmpl_hh_text\">\n                <p>Присоединяйтесь к «Диасофт»!</p>\n                <p>Вы окажетесь в одной команде с лучшими экспертами отрасли цифровой трансформации и сможете сотрудничать с ведущими российскими финансовыми организациями. Ваша команда будет использовать передовые технологии, платформы и подходы. В процессе работы вас обеспечат ресурсами, необходимыми для профессионального развития. Выбирая постоянное развитие в компании, вы сможете увеличивать свой доход пропорционально уровню компетентности.</p>\n            </div>\n            <p><strong>О проекте</strong></p> <p>Мы разрабатываем утилиту \"Мигратор\" — инструмент для бесшовной миграции данных и метаданных из Oracle и Microsoft SQL Server в нашу мультимодальную СУБД. \"Мигратор\" извлекает данные, преобразует их в текстовые файлы и интегрирует с программой загрузки, помогая крупным компаниям решать задачи импортозамещения. Это востребованный продукт, открывающий новые возможности для оптимизации инфраструктуры.<br><br><strong>Задачи: </strong></p> <ul> <li>Разработка утилиты на языке Go;</li> <li>Реализация многопоточных процессов для обработки больших объемов данных;</li> <li>Подключение к реляционным СУБД (PostgreSQL, Oracle, MS SQL Server) для извлечения данных и метаданных;</li> <li>Работа по гибкой методологии разработки (Agile/Scrum).</li> </ul> <p><strong>Наши ожидания: </strong></p> <ul> <li>Уверенный опыт разработки на Go;</li> <li>Знание многопоточности и coroutine в Go;</li> <li>Опыт подключения к реляционным СУБД (PostgreSQL, Oracle или MS SQL Server) на уровне базовых операций.</li> </ul> <p><strong>Условия: </strong></p> <ul> <li>Оформление в штат по ТК РФ, полная занятость;</li> <li>Для городов: Москва, Санкт-Петербург, Ярославль, Чебоксары, Пермь, Воронеж, Самара, Уфа - гибридный формат работы: по понедельникам работа из офиса, остальные дни дистанционно по желанию;</li> <li>Для городов: Екатеринбург, Волгоград, Калининград, Тула, Казань, Нижний Новгород, Краснодар, Рязань - дистанционный формат работы до тех пор пока не будет открыт филиал, после открытия филиала занятость сменится на гибридную (один день в неделю из офиса).</li> </ul> <div> <div> <div title=\"Copy\"> </div> <div title=\"Change Color\"> </div> <div title=\"Delete\"> </div> </div> </div></div>\n\n        <div class=\"tmpl_hh_bonuce\">\n            <b>БОНУСЫ</b>\n            <div class=\"tmpl_hh_flex\">\n                <div class=\"tmpl_hh_left\">\n                    <div class=\"tmpl_hh_bonuce__item\">\n                        <img src=\"https://hhcdn.ru/ichameleon/183126.svg\" alt=\"\">\n                        <p>Наставничество и <br>поддержка при адаптации</p>\n                    </div>\n                    <div class=\"tmpl_hh_bonuce__item\">\n                        <img src=\"https://hhcdn.ru/ichameleon/183127.svg\" alt=\"\">\n                        <p>Внутреннее и внешнее обучение:  курсы, митапы, тренинги, сертификация и участие в конференциях</p>\n                    </div>\n                    <div class=\"tmpl_hh_bonuce__item\">\n                        <img src=\"https://hhcdn.ru/ichameleon/183125.svg\" alt=\"\">\n                        <p>Внутренняя валюта «Дельфин»: используется в корпоративном магазине «Диамаркет»</p>\n                    </div>\n                    <div class=\"tmpl_hh_bonuce__item\">\n                        <img src=\"https://hhcdn.ru/ichameleon/183131.svg\" alt=\"\">\n                        <p>Английский язык <br>на корпоративной <br>кафедре</p>\n                    </div>\n                </div>\n                <div class=\"tmpl_hh_right\">\n                    <div class=\"tmpl_hh_bonuce__item\">\n                        <img src=\"https://hhcdn.ru/ichameleon/183124.svg\" alt=\"\">\n                        <p>Полис ДМС и страхование родственников по корпоративной цене</p>\n                    </div>\n                    <div class=\"tmpl_hh_bonuce__item\">\n                        <img src=\"https://hhcdn.ru/ichameleon/183130.svg\" alt=\"\">\n                        <p>Корпоративная программа страхования трудоспособности / жизни</p>\n                    </div>\n                    <div class=\"tmpl_hh_bonuce__item\">\n                        <img src=\"https://hhcdn.ru/ichameleon/183128.svg\" alt=\"\">\n                        <p>Здоровый образ жизни: корпоративные спортивные программы, участие в спортивных мероприятиях</p>\n                    </div>\n                    <div class=\"tmpl_hh_bonuce__item\">\n                        <img src=\"https://hhcdn.ru/ichameleon/183129.svg\" alt=\"\">\n                        <p>Компенсация части оплаченных процентов по ипотеке (после 2 лет работы в компании)</p>\n                    </div>\n                </div>\n            </div>\n        </div>\n\n        <div class=\"tmpl_hh_footer\">\n            <img src=\"https://hhcdn.ru/ichameleon/209243.png\" alt=\"\">\n        </div>\n        <div class=\"tmpl_hh_line tmpl_hh_line2\"><img src=\"https://hhcdn.ru/ichameleon/183121.jpg\" alt=\"\"></div>\n    </div>\n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Golang"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "ORACLE"
+    },
+    {
+      "name": "MS SQL Server"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "154",
+    "name": "Diasoft",
+    "url": "https://api.hh.ru/employers/154",
+    "alternate_url": "https://hh.ru/employer/154",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1425898.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7323241.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7323242.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=154",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-30T12:51:03+0300",
+  "created_at": "2025-05-30T12:51:03+0300",
+  "initial_created_at": "2025-05-30T12:51:03+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121166120",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121166120",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

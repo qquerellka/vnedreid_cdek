@@ -1,0 +1,130 @@
+{
+  "id": "121375385",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Backend-разработчик / Backend-developer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 500000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 500000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>О нас</strong></p> <p>Мы активно развивающийся маркетплейс с более 9 млн пользователей. Наша команда разработки постепенно расширяется и в данный момент состоит из продактов, проджекта, тимлида, фронтенд и бекенд разработчиков, qa-инженеров.</p> <p><strong>Кого мы ищем</strong></p> <p>Мы хотим найти сильного Middle-Senior Backend Developer, которому было бы интересно присоединиться к проекту и заняться оптимизациями, а также разделением его на микросервисы.</p> <p><strong>Чем предстоит заниматься</strong></p> <ul> <li> <p>Внедрение Open Telemetry и анализ данных для поиска проблемных мест;</p> </li> <li> <p>Работы над оптимизацией проекта, улучшение стабильности и скорости;</p> </li> <li> <p>Вынос API на отдельный поддомен;</p> </li> <li> <p>Постепенно разбивать монолит на микросервисы.</p> </li> </ul> <p><strong>Что для нас важно:</strong></p> <ul> <li>Коммерческий опыт NodeJS от 4 лет;</li> <li>Опыт работы с Nest.js (будет плюсом, если есть опыт с nest.js именно в связке с ORM Sequelize и Apollo GraphQL Server);</li> <li>Опыт работы с базами данных PostgreSQL, Redis и Clickhouse;</li> <li>Опыт работы с Kafka;</li> <li>Опыт работы с Kubernetes;</li> <li>Опыт работы с nginx и haproxy;</li> <li>Опыт анализа статистики, полученной от Opentelemetry;</li> <li>Инициативность и приятные софт скиллы.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт работы на проектах с интегрированными платежными системами либо с аналогичными маркетплейсами (важно, чтобы продукт был связан с B2C сегментом);</li> <li>Опыт поэтапного разделения монолитной архитектуры на микросервисы.</li> </ul> <p><strong>Что мы предлагаем </strong></p> <ul> <li> <p>Полностью удаленный формат работы. Можно работать из любой точки мира;</p> </li> <li> <p>Оплата от 500.000 руб (финальная сумма обсуждается на встрече с успешным кандидатом);</p> </li> <li> <p>Возможность выбрать форму сотрудничества и оплаты (налог оплачивает компания);</p> </li> <li> <p>Полная занятость с графиком 5/2 (8-часовой рабочий день);</p> </li> <li> <p>Гибкое начало рабочего дня: с 10:00-12:00 по Мск;</p> </li> <li> <p>Инициативная команда;</p> </li> <li> <p>Оплачиваемый отпуск/больничный.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9393023",
+    "name": "Playerok",
+    "url": "https://api.hh.ru/employers/9393023",
+    "alternate_url": "https://hh.ru/employer/9393023",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1370125.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/7100402.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/7100403.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9393023",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T11:35:52+0300",
+  "created_at": "2025-06-05T11:35:52+0300",
+  "initial_created_at": "2025-06-05T11:35:52+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121375385",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121375385",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

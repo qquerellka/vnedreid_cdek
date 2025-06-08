@@ -1,0 +1,172 @@
+{
+  "id": "120492796",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Senior Python developer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "улица Профессора Попова",
+    "building": "23",
+    "lat": 59.971231,
+    "lng": 30.313676,
+    "description": null,
+    "raw": "Санкт-Петербург, улица Профессора Попова, 23",
+    "metro": {
+      "station_name": "Петроградская",
+      "line_name": "Московско-Петроградская",
+      "station_id": "15.215",
+      "line_id": "15",
+      "lat": 59.966389,
+      "lng": 30.311293
+    },
+    "metro_stations": [
+      {
+        "station_name": "Петроградская",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.215",
+        "line_id": "15",
+        "lat": 59.966389,
+        "lng": 30.311293
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>White Сode </strong>– это аккредитованная IT-компания, разрабатывающая и поддерживающая B2C экосистему приложений и сервисов для аудитории более 50 миллионов пользователей. Наша экосистема включает в себя браузеры, мобильные приложения, vpn-сервисы, браузерные расширения — в общей сложности, более 15 самостоятельных продуктов.</p> <p><strong>Кого мы ищем?</strong> Опытного разработчика, который может писать асинхронный код на Python и хочет работать с большим объемом данных.</p> <p><strong>Формат работы - офис с 11:00 до 20:00 (7 мин. от м.Петроградская).</strong></p> <p><strong>Стек:</strong> Python, asyncio, aiohttp, FastAPI, PostgreSQL, Redis, Cassandra, Kafka, RabbitMQ, ElasticSearch, ClickHouse</p> <p><strong>Навыки, которые необходимы для работы в нашей команде:</strong></p> <ul> <li> <p>Отличные знания Python 3;</p> </li> <li> <p>Опыт работы с asyncio;</p> </li> <li> <p>Опыт работы с PostgreSQL;</p> </li> <li> <p>Знание базовых паттернов и идиом;</p> </li> <li> <p>Опыт работы с REST API.</p> </li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li> <p>Опыт работы JSON RPC и websocket;</p> </li> <li> <p>Опыт разработки сервисов на HTTP/3 QUIC;</p> </li> <li> <p>Знание Redis, Cassandra, Kafka, RabbitMQ, ElasticSearch, ClickHouse;</p> </li> <li> <p>Опыт разработки высоконагруженных и распределенных систем;</p> </li> <li> <p>Разработка архитектуры ПО и БД.</p> </li> </ul> <p><strong>Какие задачи вас ждут?</strong></p> <ul> <li> <p>Создание и сопровождение высоконагруженных многопоточных приложений на Python.</p> </li> <li> <p>Работа с микросервисной архитектурой, обеспечение ее отказоустойчивости.</p> </li> <li> <p>Оптимизация сетевых взаимодействий и повышение производительности сервисов.</p> </li> <li> <p>Участие в проектировании архитектуры системы/сервисов и принятии технических решений.</p> </li> <li> <p>Проведение код-ревью.</p> </li> </ul> <p><strong>Этапы собеседования:</strong> Одно техническое интервью. Мы ценим ваше время и не даем никаких тестовых заданий.</p> <p>Обычно процесс занимает не больше недели. В любом случае мы обещаем вернуться с фидбеком. Без обратной связи точно не оставим!</p> <p><strong>Заботимся о своих сотрудниках и предлагаем:</strong></p> <p><strong>Офис</strong> – Комфортный офис класса А в центре Санкт-Петербурга площадью 700 кв.м. со своей кухней, зонами для отдыха, игровой зоной с настольным футболом, аэрохоккеем и дартсом (пешая доступность от метро Петроградская). <strong>Компенсация обедов</strong> (корпоративная система «НаЛанч»);</p> <p><strong>Здоровье</strong> – ДМС высокой категории в СК «РЕСО-Гарантия» для сотрудников в офис г.Санкт-Петербург (более 150 клиник, включая стоматологию, амбулаторное лечение, вызов скорой помощи, стационар);</p> <p><strong>Стабильность</strong> – За 10 лет на рынке мы решили множество задач, разработали свою продуктовую экосистему и собрали дружную команду специалистов;</p> <p><strong>Команда </strong>– Сильные разработчики, которые совместно генерируют идеи и обмениваются опытом. В нашей команде каждый понимает, как он может развивать свои навыки, компетенции и профессионально расти;</p> <p><strong>Проекты </strong>– Мы предлагаем работу с зарубежным рынком, что позволяет быть на гребне современных технологий, свежих идей, и актуальных тенденций IT сферы. Вы точно будете заняты крутым проектом!</p> <p><strong>Вместе с откликом присылайте ссылку на ваш аккаунт в Телеграм, так мы сможем пообщаться быстрее.</strong></p> <p>До встречи в &quot;White Code&quot;!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Asyncio"
+    },
+    {
+      "name": "AIOHTTP"
+    },
+    {
+      "name": "FastAPI"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Redis"
+    },
+    {
+      "name": "Kafka"
+    },
+    {
+      "name": "Cassandra"
+    },
+    {
+      "name": "RabbitMQ"
+    },
+    {
+      "name": "Elasticsearch"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1519234",
+    "name": "Вайт Код",
+    "url": "https://api.hh.ru/employers/1519234",
+    "alternate_url": "https://hh.ru/employer/1519234",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1365441.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7081666.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7081667.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1519234",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T17:45:20+0300",
+  "created_at": "2025-06-06T17:45:20+0300",
+  "initial_created_at": "2025-05-13T17:45:20+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120492796",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120492796",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,137 @@
+{
+  "id": "121174528",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Мобильный разработчик Android / iOS",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": null,
+    "to": 230000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 230000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Привет! Мы — <strong>аккредитованная IT компания</strong>, динамично растем и развиваем новые масштабные проекты.<br /><br /><strong>Проект</strong> - мобильное приложение Лемана ПРО (бывш. Leroy Merlin).<br /><br />Функционал относится к Программе Лояльности: онбординг/регистрация в программу лояльности из различных точек в МП (например, из карточки товара), профиль клиента в МП, функционал, связанный с промокодами, отображение доступных промокодов в профиле клиента в МП.</p> <p>Сейчас продуктовая команда состоит из 16 человек (продакт, тим-лид, проджект, 4 бэк-разработчика, 1 фронт-разработчик, 2 QA, 1 мобильный разработчик, 3 аналитика, 1 UX-дизайнер, 1 DA).</p> <p> </p> <p><strong>Мы используем:</strong></p> <ul> <li>Kotlin Multiplatform - <strong>Android и iOS. </strong>Kotlin Multiplatform уже внедрена UI нативный, viewmodel общие между платформой.<br />﻿﻿Архитектура MBI</li> <li>Jetpack Compose Multiplatform</li> <li>SwiftUI, UIKit</li> <li>Ktor</li> <li>Kodein</li> <li>Kotlin Serialization</li> <li>Kotlin Coroutines</li> <li>SQLDelight</li> <li>Mockk</li> </ul> <p> </p> <p><strong>Чем предстоит заниматься:</strong></p> <p>Разработка мобильного приложения для Android/IOS платформ</p> <p> </p> <p><strong>Что для нас важно:</strong></p> <ul> <li><strong>Опыт работы с Kotlin Multiplatform;</strong></li> <li><strong>Знание Android и iOS (обе платформы !обязательно!);</strong></li> <li>Хорошие фундаментальные знания разработки (алгоритмы не спрашиваем, но понимание о времени выполнения и используемых ресурсах требуется);</li> <li>Умения самому создавать решения, в условиях, когда готовых решений нет;</li> <li>Покрывать код тестами, в том числе и автотестами.</li> </ul> <p> </p> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт работы с Jetpack Compose;</li> <li>Опыт настройки сложного окружения;</li> <li>Опыт создания библиотек.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Android"
+    },
+    {
+      "name": "iOS"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4537757",
+    "name": "Антара",
+    "url": "https://api.hh.ru/employers/4537757",
+    "alternate_url": "https://hh.ru/employer/4537757",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1212411.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6470093.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6470094.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4537757",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-30T15:18:09+0300",
+  "created_at": "2025-05-30T15:18:09+0300",
+  "initial_created_at": "2025-05-30T15:18:09+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121174528",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121174528",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

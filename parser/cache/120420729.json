@@ -1,0 +1,163 @@
+{
+  "id": "120420729",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Manual QA Engineer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 100000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Современная российская IT-компания &quot;Апартмент Системс&quot; в поиске<strong> Manual QA (уровня middle). </strong>Мы работаем с 2013 года, занимаемся реализацией программного продукта для автоматизации продаж. Это <strong>сервис RealtyCalendar</strong>, позволяющий владельцам квартир и агентствам управлять размещением на сайтах бронирования.</p> <p>Наши партнеры: Avito, Expedia, Ostrovok, Суточно, ЯндексПутешествия, Твил и многие другие.</p> <p>Подключено 92 000 + квартир, через систему совершается &gt; 1000 бронирований в день, активная клиентская база состоит из более 13 000 платящих клиентов.<br /><br /><strong>Команда отдела разработки: </strong>Разработчиков - 13 (backend, frontend) , 3 QA(manual) + тимлид QA, Product-manager - 2, Delivery manager\\Project manager, Менеджер по интеграциям.</p> <p><strong>Что нужно будет делать:</strong></p> <ul> <li> <p>Разработка тест-кейсов на основе бизнес требований;</p> </li> <li> <p>Тестирование требований ТЗ;</p> </li> <li> <p>Тестирование нового функционала;</p> </li> <li> <p>Регрессионное тестирование;</p> </li> <li> <p>Оформление багов;</p> </li> <li> <p>Ведение и актуализация тестовой документации;</p> </li> <li> <p>Взаимодействие с разработчиками, менеджерами продукта;</p> </li> <li> <p>Помощь технической поддержке по сложным вопросам.</p> </li> </ul> <p><strong>Чего мы ожидаем:</strong></p> <ul> <li> <p>Опыт работы <strong>Manual QA от 2-х лет;</strong></p> </li> <li> <p>Знание основ теории тестирования (видов тестирования, методов тестирования);</p> </li> <li> <p>Знание техник тест дизайна;</p> </li> <li> <p>Опыт работы с трекинговыми системами ( JIRA, и т.д);</p> </li> <li> <p>Опыт в тестировании API (Swagger, Postman);</p> </li> <li> <p>Знание основ Клиент-Серверной архитектуры;</p> </li> <li> <p>Умение вести тестовую документацию (чек-лист, тест-кейс);</p> </li> <li> <p>Базовые знания Sentry, Kibana;</p> </li> <li> <p>Базовые знания синтаксиса SQL на уровне построения запросов;</p> </li> <li> <p>Опыт работы c GIT, знание Git Flow.</p> </li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li> <p>Знание микросервисной архитектуры;</p> </li> <li> <p>Знание в области автоматизации тестирования;</p> </li> <li> <p>Знание систем брокеров сообщений (Kafka).</p> </li> </ul> <p><strong>Что предлагаем: </strong></p> <ul> <li> <p>Полностью удаленный формат работы;</p> </li> <li> <p>График работы 5/2 ~ с 10:00 до 19:00 по мск;</p> </li> <li> <p>Работа в рамках спринта (2 недели) и релизов (2 раза в месяц);</p> </li> <li> <p>Работа в аккредитованной IT-компании;</p> </li> <li> <p>Работа с востребованным продуктом, который занимает лидирующую позицию на рынке в своем сегменте;</p> </li> <li> <p>Возможность роста:<strong> performance review</strong> каждые полгода.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Тестирование"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Atlassian Jira"
+    },
+    {
+      "name": "Регрессионное тестирование"
+    },
+    {
+      "name": "Функциональное тестирование"
+    },
+    {
+      "name": "Kibana"
+    },
+    {
+      "name": "Atlassian Confluence"
+    },
+    {
+      "name": "Swagger"
+    },
+    {
+      "name": "Postman"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3159063",
+    "name": "Апартмент системс",
+    "url": "https://api.hh.ru/employers/3159063",
+    "alternate_url": "https://hh.ru/employer/3159063",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/875382.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3942403.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3942404.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3159063",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-12T15:31:16+0300",
+  "created_at": "2025-05-12T15:31:16+0300",
+  "initial_created_at": "2025-05-12T15:31:16+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120420729",
+  "has_test": true,
+  "test": {
+    "required": true
+  },
+  "alternate_url": "https://hh.ru/vacancy/120420729",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

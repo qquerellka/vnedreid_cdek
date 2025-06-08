@@ -1,0 +1,157 @@
+{
+  "id": "117200415",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист технической поддержки (пл. Труда)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 73100,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 73100,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "площадь Труда",
+    "building": "1",
+    "lat": 54.99554,
+    "lng": 82.868426,
+    "description": null,
+    "raw": "Новосибирск, площадь Труда, 1",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><em>Работа в ГАУ НСО «МФЦ» - это возможность раскрытия и реализации вашего потенциала в сплоченном и дружном коллективе. Именно благодаря нашей команде центры «Мои документы» Новосибирской области активно развиваются и совершенствуют свою деятельность.</em></p> <p><strong>Обязанности:</strong></p> <ul> <li>Ремонт и диагностика оборудования (ПК, МФУ);</li> <li>Администрирование, поддержка и развитие сетевой инфраструктуры корпоративной сети;</li> <li>Участие в процессе эксплуатации инфраструктуры, парка компьютерной техники и периферии;</li> <li>Участие в проведении инвентаризации;</li> <li>Техническая поддержка пользователей.</li> </ul> <strong>Требования:</strong> <ul> <li>Средне-специальное или высшее образование;</li> <li>Опыт работы на аналогичной должности от 1 года;</li> <li>Опыт диагностики и решения проблем на стыке с операторами связи;</li> <li>Знание TCP/IP, VLAN, DHCP, VPN, ACL, статическая и динамическая маршрутизация, навык работы с системой мониторинга Zabbix;</li> <li>Навыки чтения профессиональной документации на английском языке.</li> </ul> <strong>Условия:</strong> <ul> <li>Работа в крупном государственном учреждении, трудоустройство согласно ТК РФ.</li> <li> <p>Официальная заработная плата 2 раза в месяц.</p> </li> <li>Дружный, молодой коллектив, комфортное рабочее место.</li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Английский язык"
+    },
+    {
+      "name": "Деловая переписка"
+    },
+    {
+      "name": "TCP/IP"
+    },
+    {
+      "name": "Поиск информации в интернет"
+    },
+    {
+      "name": "Zabbix"
+    },
+    {
+      "name": "Ремонт ПК"
+    },
+    {
+      "name": "Техническая поддержка"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "822372",
+    "name": "МФЦ, ГАУ НСО",
+    "url": "https://api.hh.ru/employers/822372",
+    "alternate_url": "https://hh.ru/employer/822372",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/322345.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/1731746.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/1731747.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=822372",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-19T05:23:53+0300",
+  "created_at": "2025-05-19T05:23:53+0300",
+  "initial_created_at": "2025-02-13T11:25:10+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=117200415",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/117200415",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

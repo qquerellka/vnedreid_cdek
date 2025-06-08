@@ -1,0 +1,154 @@
+{
+  "id": "120995324",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Frontend-разработчик Vue/Middle",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Сергиев Посад",
+    "street": "проспект Красной Армии",
+    "building": "97",
+    "lat": 56.302607,
+    "lng": 38.129576,
+    "description": null,
+    "raw": "Сергиев Посад, проспект Красной Армии, 97",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Привет, мы We Wizards! IT аутсорс и специализируемся на разработке e-commerce, веб-сервисов, корпоративных сайтов и мобильных приложений. Мы ищем в команду уверенного фронта</p> <p><strong>Полная занятость, удаленная работа (но в офисе у нас просто мёд)</strong></p> <p><strong>Обязанности:</strong></p> <ul> <li>Разработка веб приложений</li> <li>Адаптивная, кроссбраузерная верстка по макетам, UI библиотеки не используем</li> <li>Поддержка существующих проектов</li> <li>Разработка новых vue компонентов - как Core так и дополнительных компонентов</li> <li>Проводить Code-Review</li> <li>Участвовать в планировании/разработке структуры/архитектуры проектов</li> </ul> <p><strong>Основные требования:</strong></p> <ul> <li> <p>Уверенное владение:<br /><em>- Качественная адаптивная вёрстка (семантика, pixel-perfect, Figma, ремы, сетки)<br />- JavaScript<br />- Vue 3 + Composition API<br />- Pinia<br />- Git<br />- SCSS<br />- Vite<br />- Работа с REST API</em></p> </li> <li> <p>Базовые знания:<br /><em>- TypeScript<br />- Nuxt 3</em></p> <p><em>Будет плюсом:<br />- Storybook, Atomic Design<br />- Docker<br />- Unit и E2E тесты<br />- Vuetify или аналоги</em></p> </li> </ul> <p><strong>Нетехнические пожелания к кандидату:</strong></p> <ul> <li>Аккуратность, внимание к мелочам.</li> <li>Готовность работать в команде: мы очень-очень ценим умение говорить.</li> <li>Умение искать информацию.</li> <li>Проактивность: учиться и развиваться.</li> <li>Конечно мы предполагаем, что вы умеете оценивать задачу, умещаться в оценку, задавать вопросы</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "VueJS"
+    },
+    {
+      "name": "TypeScript"
+    },
+    {
+      "name": "Nuxt3"
+    },
+    {
+      "name": "Pinia"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "Vite"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10274656",
+    "name": "Визардс",
+    "url": "https://api.hh.ru/employers/10274656",
+    "alternate_url": "https://hh.ru/employer/10274656",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1157510.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6250490.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6250491.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10274656",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-26T17:38:19+0300",
+  "created_at": "2025-05-26T17:38:19+0300",
+  "initial_created_at": "2025-05-26T17:38:19+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120995324",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120995324",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

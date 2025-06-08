@@ -1,0 +1,143 @@
+{
+  "id": "120839250",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Python-разработчик (Telegram-боты, Web, ИИ)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "part",
+    "name": "Частичная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>О компании</strong></p> <p>Делифуд — это сервис доставки готовых наборов вкусной и полезной еды. Мы предлагаем удобный формат подписки, который позволяет нашим клиентам наслаждаться сбалансированным питанием каждый день.</p> <p>Мы работаем на стыке технологий и вкусной еды, разрабатываем IT-решения, которыми пользуются тысячи наших клиентов. Чтобы продолжать расти и совершенствоваться, нам нужен Python-разработчик (опыт работы с Telegram-ботами, веб-разработкой и искусственным интеллектом).</p> <p><strong>Обязанности:</strong></p> <ul> <li>Разработка и поддержка Telegram-бота на Python (с использованием aiogram, telebot, pyrogram и тд.)</li> <li>Создание веб-интерфейсов с использованием фреймворков FastAPI.</li> <li>Работа с внешними API и системами.</li> <li>Оптимизация и масштабирование решений.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li> <p>Уверенное знание Python 3.0+</p> </li> <li> <p>Опыт работы с FastAPI или аналогами (Flask, aiohttp)</p> </li> <li> <p>Умение работать с REST API (запросы, вебхуки, авторизация)</p> </li> <li> <p>Опыт с Redis (или понимание как работает хранение состояния)</p> </li> <li> <p>Понимание микросервисной архитектуры</p> </li> <li> <p>Способность писать чистый, документированный код</p> </li> </ul> <p><strong>Преимущества:</strong></p> <ul> <li> <p>Интеграция OpenAI или других LLM-моделей.</p> </li> <li> <p>Базовое понимание фронтенда (HTML/CSS/JS).</p> </li> <li> <p>Знание Bitrix24 Webhook API</p> </li> <li> <p>Опыт в проектах с Telegram / WhatsApp ботами</p> </li> <li> <p>Навыки DevOps: Docker, Linux, настройка SSL</p> </li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li> <p>Участие в интересном AI-проекте с реальными кейсами</p> </li> <li> <p>Гибкий график, адекватные задачи и понятное ТЗ</p> </li> <li> <p>Возможность продолжительного сотрудничества</p> </li> <li> <p>Свободный стиль общения без бюрократии</p> </li> <li> <p>Команду, где ценят идеи и инициативу.</p> </li> </ul> <p><strong>Формат:</strong></p> <ul> <li>Удаленно, почасовая или проектная занятость</li> </ul> <p><strong>Проект:</strong></p> <ul> <li>Разработка MVP AI-продажника для Telegram/WhatsApp с интеграцией в Bitrix24 CRM</li> </ul> <p><strong>Стек:</strong></p> <ul> <li>Python, FastAPI, OpenAI API, Redis, REST, n8n (знание приветствуется)</li> </ul> <p><strong>Оставляйте свои отклики. Мы свяжемся с вами и организуем видеовстречу.</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "FastAPI"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "DevOps"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Redis"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5254258",
+    "name": "DeliFood",
+    "url": "https://api.hh.ru/employers/5254258",
+    "alternate_url": "https://hh.ru/employer/5254258",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/973179.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/5513560.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/5513561.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5254258",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T04:53:28+0300",
+  "created_at": "2025-06-06T04:53:28+0300",
+  "initial_created_at": "2025-05-22T04:53:28+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120839250",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120839250",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "PART",
+    "name": "Частичная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FLEXIBLE",
+      "name": "Свободный"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "FLEXIBLE",
+      "name": "По договорённости"
+    }
+  ],
+  "show_logo_in_search": null
+}

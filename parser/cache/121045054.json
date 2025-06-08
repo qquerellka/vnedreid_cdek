@@ -1,0 +1,178 @@
+{
+  "id": "121045054",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Java-разработчик Middle+",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": null,
+    "to": 287400,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": null,
+    "to": 287400,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Кутузовский проспект",
+    "building": "36с23",
+    "lat": 55.742823,
+    "lng": 37.527561,
+    "description": null,
+    "raw": "Москва, Кутузовский проспект, 36с23",
+    "metro": {
+      "station_name": "Кутузовская",
+      "line_name": "Филевская",
+      "station_id": "4.73",
+      "line_id": "4",
+      "lat": 55.740544,
+      "lng": 37.5341
+    },
+    "metro_stations": [
+      {
+        "station_name": "Кутузовская",
+        "line_name": "Филевская",
+        "station_id": "4.73",
+        "line_id": "4",
+        "lat": 55.740544,
+        "lng": 37.5341
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong><em>Привет!</em></strong></p> <p><strong><em>Мы — ООО </em></strong><strong>«<em>Датаномика</em>»<em>, решаем проблемы структурирования разнородных данных, которые сложно поддаются анализу, помогаем среднему и малому бизнесу, банкам, ритейлу использовать данные чеков для оценки конъюнктуры спроса и экономических показателей, помогаем банкам повысить качество сервиса финансового планирования и аналитики для клиентов.</em></strong></p> <p><strong><em>Сейчас у нас открыта вакансия Java разработчика на проект в крупный Российский банк. Продукт для нормализации данных юридических лиц.</em></strong></p> <p><strong><em>О продукте:</em></strong></p> <ul> <li>Продукт для подготовки аналитических материалов и отправки в каналы.</li> <li>Разрабатывается для замещения вендорского решения по созданию инвестиционных отчетов.</li> </ul> <p><strong><em>О команде:</em></strong></p> <p> </p> <div> <p>Команда из 8 человек, включая: PO, 2 SA/BA, 1 FE, 2 BE, 1 DevOps, 1 DL.</p> <p><strong><em>Технологический стек: </em></strong>Java, Spring, Kafka, Rest API, JSON, Openshift, SQL.</p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Разработка и оптимизация микросервисов на java;</li> <li>Написание юнит-тестов;</li> <li>Участие в проектировании микросервисной архитектуры;</li> <li>Участие в планировании, проработки и декомпозиции задач;</li> <li>Проведении code review.</li> </ul> <p><strong>Необходимые знания и навыки:</strong></p> <ul> <li>Опыт коммерческой разработки от года;</li> <li>Знание Java, Spring, Kafka, Rest API, JSON, Openshift, SQL;</li> <li>Работа с системами контроля версий;</li> <li>Работа с системами JIRA / Confluence;</li> <li>Работа в Agile.</li> <li>Понимание CI/CD, GRPC будет плюсом</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>работа в ИТ-аккредитованной компании;</li> <li>удалённый формат работы на территории РФ;</li> <li>гибкий график работы;</li> <li>оформление с первого рабочего дня, полное соблюдение ТК РФ;</li> <li>интересные, амбициозные задачи с достижимым результатом, понятным заказчиком и продуктом;</li> <li>достаточную свободу действий, инструментарий и необходимые ресурсы;</li> <li>регулярное обучение и профильные конференции, современное оборудование для работы.</li> </ul> </div>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Java"
+    },
+    {
+      "name": "Spring Framework"
+    },
+    {
+      "name": "Kafka"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "JSON API"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "OpenShift"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4913210",
+    "name": "Datanomica",
+    "url": "https://api.hh.ru/employers/4913210",
+    "alternate_url": "https://hh.ru/employer/4913210",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/894710.png",
+      "90": "https://img.hhcdn.ru/employer-logo/4019527.png",
+      "240": "https://img.hhcdn.ru/employer-logo/4019528.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4913210",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T17:22:13+0300",
+  "created_at": "2025-06-05T17:22:13+0300",
+  "initial_created_at": "2025-05-27T17:20:43+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121045054",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121045054",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

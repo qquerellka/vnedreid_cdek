@@ -1,0 +1,149 @@
+{
+  "id": "121020750",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Системный администратор Linux",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 100000,
+    "to": 130000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": 130000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Научное издательство СибАК является лидером на рынке научных публикаций в России и СНГ. Уже более 15 лет мы издаем научные журналы и проводим конференции. Каждый месяц мы публикуем актуальные статьи тысячи ученых из 22 стран мира, которые интересны аудитории в 700 000 человек. Приглашаем в нашу команду <strong>Системного администратора</strong>, который будет поддерживать работу всей IT-инфраструктуры компании.</p> <p><strong>Обязанности:</strong></p> <ul> <li>Поддержка и администрирование Linux серверов и сетевой инфраструктуры компании (сервера, почтовые сервера, онлайн-консультанты, телефония, ssl сертификаты, домены, почта, jira, github, антивирусы).</li> <li>Установка, настройка и обновление программного обеспечения.</li> <li>Обеспечение безопасности данных и резервное копирование.</li> <li>Техническая поддержка пользователей и решение возникающих проблем.</li> <li>Внедрение новых ИТ решений для сотрудников компании.</li> <li>Автоматизация работы сотрудников компании, внедрение AI-агентов.</li> </ul> <p> </p> <p> </p> <p><strong>Требования:</strong></p> <ul> <li> <p>Опыт работы с аналогичным функционалом от 3х лет</p> </li> <li> <p>Техническое образование.</p> </li> <li> <p>Ответственное отношение к работе.</p> </li> <li> <p>Системное мышление.</p> </li> <li> <p>Умение работать в команде.</p> </li> <li> <p>Приветствуется: опыт внедрения нейросетей / AI-инструментов в рабочие процессы</p> </li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Трудоустройство согласно ТК РФ.</li> <li>График работы с ПН-ПТ с 09:00-18:00.</li> <li>Уровень заработной платы определяется по итогам собеседования.</li> <li>Команда работает в Scrum подходе (большие проекты дробим на небольшие истории, выпускаем апдейты каждые 2 недели).</li> <li>Обучение и развитие за счет компании.</li> <li>Возможность смещения графика работы, после прохождения испытательного срока.</li> <li>Удаленная работа.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Администрирование серверов Linux"
+    },
+    {
+      "name": "Администрирование серверов"
+    },
+    {
+      "name": "Настройка почтовых серверов"
+    },
+    {
+      "name": "Удаленное администрирование"
+    },
+    {
+      "name": "Linux"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2371487",
+    "name": "СибАК",
+    "url": "https://api.hh.ru/employers/2371487",
+    "alternate_url": "https://hh.ru/employer/2371487",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/333911.JPG",
+      "90": "https://img.hhcdn.ru/employer-logo/1777994.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/1777995.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2371487",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T11:08:34+0300",
+  "created_at": "2025-06-05T11:08:34+0300",
+  "initial_created_at": "2025-05-27T11:08:34+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121020750",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121020750",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

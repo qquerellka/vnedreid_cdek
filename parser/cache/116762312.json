@@ -1,0 +1,149 @@
+{
+  "id": "116762312",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Консультант (Market Analytics)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": null,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": null,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Новолесная улица",
+    "building": "2",
+    "lat": 55.781737,
+    "lng": 37.592384,
+    "description": null,
+    "raw": "Москва, Новолесная улица, 2",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы — ICMR (ООО &quot;ГФК-Русь&quot;), исследовательская компания с международным опытом и признанным авторитетом в России.</p> <p>Мы — команда энергичных и целеустремленных людей, увлеченных данными и аналитикой.</p> <p>Более 30 лет в России мы объединяем знания и данные, и обогащаем их технологиями, чтобы наши клиенты могли быстро принимать бизнес-решения.</p> <p>ICMR (ООО &quot;ГФК-Русь&quot;)<strong> </strong>— это мир возможностей для профессионального развития, обучения талантов и внутреннего роста!</p> <p>Мы ищем Консультанта в Департамент клиентских решений.</p> <p><strong>Основные обязанности:</strong></p> <p><em>Аналитика:</em></p> <ul> <li>Проведение углубленного анализа продаж и рынка</li> <li>Полная ответственность за качество данных</li> <li>Предварительная обработка данных</li> </ul> <p><em>Обслуживание клиентов:</em></p> <ul> <li>Управление ключевыми клиентами</li> <li>Обеспечение исключительного уровня обслуживания клиентов</li> <li>Обработка повседневных запросов клиентов, включая дополнительный анализ</li> <li>Подготовка презентаций</li> </ul> <p> </p> <p><strong>Ключевые компетенции и опыт работы:</strong></p> <ul> <li>Умение работать с большими объемами данных</li> <li>Отличные навыки презентации и анализа</li> <li>Опыт работы в сфере маркетинговой аналитики будет преимуществом</li> <li>Продвинутый английский обязателен, знание других языков является преимуществом</li> <li>Умение анализировать результаты маркетинговых исследований и представлять клиентам важные выводы</li> <li>Навыки ведения переговоров</li> </ul> <p> </p> <p><strong>Условия:</strong></p> <ul> <li><strong>Комфортные условия:</strong> гибридный режим работы (3 дня в офисе, 2 дня удаленно)<br />Современный офис рядом с м. Белорусская/ м. Менделеевская</li> <li><strong>Карьерный рост:</strong> возможность развиваться в рамках компании, участвовать в стратегических проектах и влиять на решения бизнеса</li> <li><strong>Социальные бонусы:</strong> медицинская страховка (включая стоматологию), страхование при поездках за рубеж, страхование жизни, социальные проекты</li> <li><strong>Корпоративная культура:</strong> дружный коллектив, поддержка наставников, корпоративные мероприятия<br /><br /><strong>Присоединяйся к команде экспертов!</strong></li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "10",
+      "name": "Аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1825",
+    "name": "ГФК-Русь",
+    "url": "https://api.hh.ru/employers/1825",
+    "alternate_url": "https://hh.ru/employer/1825",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1403774.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7234764.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7234765.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1825",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-23T13:05:21+0300",
+  "created_at": "2025-05-23T13:05:21+0300",
+  "initial_created_at": "2025-02-04T15:28:43+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=116762312",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/116762312",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "c1",
+        "name": "C1 — Продвинутый"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,213 @@
+{
+  "id": "120378570",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный инженер эксплуатации",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "Октябрьская магистраль",
+    "building": "4",
+    "lat": 55.022567,
+    "lng": 82.930086,
+    "description": null,
+    "raw": "Новосибирск, Октябрьская магистраль, 4",
+    "metro": {
+      "station_name": "Октябрьская",
+      "line_name": "Ленинская",
+      "station_id": "52.298",
+      "line_id": "52",
+      "lat": 55.018789,
+      "lng": 82.939007
+    },
+    "metro_stations": [
+      {
+        "station_name": "Октябрьская",
+        "line_name": "Ленинская",
+        "station_id": "52.298",
+        "line_id": "52",
+        "lat": 55.018789,
+        "lng": 82.939007
+      },
+      {
+        "station_name": "Площадь Ленина",
+        "line_name": "Ленинская",
+        "station_id": "52.297",
+        "line_id": "52",
+        "lat": 55.029941,
+        "lng": 82.92069
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>О компании</strong></p> <p>Мы Smart Consulting - занимающиеся разработкой и сопровождением ПО для органов государственной власти.</p> <p>Пользовались ли вы порталом Госуслуг?</p> <p>Ходили ли вы в МФЦ?</p> <p>Мы поддерживаем государственные системы и сервисы в разных Субъектах РФ и часовых поясах. И нам в команду требуются инженеры эксплуатации сложных систем и комплексов.<br /><br /><strong>Задачи:</strong></p> <p>- Написание скриптов автоматизации, bash, python</p> <p>- Мониторинг и оптимизация работы систем</p> <p>- Развертывание и обновление ПО на ВМ клиентов</p> <p>- Настройка бэкапов приложений и сервисов</p> <p>- Контейнеризация и оркестрация docker, swarm, k8s</p> <p>- Наполнение базы знаний обучающими материалами и руководствами</p> <p>- Развертывание и администрирование баз данных PostgreSQL, mongo, MySQL, OrientDB</p> <p>- Решение инцидентов: анализ метрик и логов, взаимодействие с разработчиками</p> <p><strong>Проверяй, насколько тебе интересно работать и развиваться со стеком:</strong></p> <p>ОС: Deb-based,RedHat дистрибутивы<br />* Облачные платформы: Yandex, AWS<br />* БД: MySQL/PostgreSQL/MongoDB/OrientDB<br />* Очереди: Kafka<br />* Мониторинг: Prometheus, Zabbix, Grafana<br />* Логирование: ELK, Loki<br />* РФС: Ceph, Gluster<br />* Оркестрация: k8s, docker<br />* CI/CD: Gitlab CI/CD, Vault<br />* IAC: ansible, terraform<br />* SSO: freeipa, keycloak, oauth2-proxy<br />* Языки автоматизации: python, bash<br />* Серверы приложений: Wildfly, tomcat, Jboss</p> <p><strong>У нас работают, потому что:</strong></p> <p>Мы ценим коммуникативность, ответственность и готовность к саморазвитию.</p> <ul> <li> <p>Предлагаем только белую заработную плату и трудоустройство с первого рабочего дня.</p> </li> <li> <p>Нам важно здоровье наших коллег, поэтому у нас есть ДМС и корпоративные скидки на фитнес.</p> </li> <li> <p>Для комфортной работы у нас есть офисы в центре Новосибирска.</p> </li> <li> <p>Мы много обучаем на практике.</p> </li> </ul> <p>Если ты стремишься к развитию, обучению и повышению своих навыков, то тогда тебе к нам!</p> <p><strong>Жми &quot;Откликнуться!&quot; и давай знакомиться!</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Bash"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Настройка серверов Apache"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Nginx"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Docker-compose"
+    },
+    {
+      "name": "CI/CD"
+    },
+    {
+      "name": "HAProxy"
+    },
+    {
+      "name": "Резервное копирование"
+    },
+    {
+      "name": "Apache Tomcat"
+    },
+    {
+      "name": "JBoss"
+    },
+    {
+      "name": "MongoDB"
+    },
+    {
+      "name": "Apache Solr"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "114",
+      "name": "Системный инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3034828",
+    "name": "Смарт консалтинг",
+    "url": "https://api.hh.ru/employers/3034828",
+    "alternate_url": "https://hh.ru/employer/3034828",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1063302.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5873841.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5873842.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3034828",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T11:16:52+0300",
+  "created_at": "2025-06-06T11:16:52+0300",
+  "initial_created_at": "2025-05-12T09:18:20+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120378570",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120378570",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": true,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "OTHER",
+      "name": "Другое"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

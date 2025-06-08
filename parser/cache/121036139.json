@@ -1,0 +1,197 @@
+{
+  "id": "121036139",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Продакт менеджер / Менеджер по продукту / Product manager / Product-менеджер",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 100000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Пресненская набережная",
+    "building": "12",
+    "lat": 55.749633,
+    "lng": 37.537434,
+    "description": null,
+    "raw": "Москва, Пресненская набережная, 12",
+    "metro": {
+      "station_name": "Деловой центр",
+      "line_name": "Большая кольцевая линия",
+      "station_id": "97.603",
+      "line_id": "97",
+      "lat": 55.7491,
+      "lng": 37.5395
+    },
+    "metro_stations": [
+      {
+        "station_name": "Деловой центр",
+        "line_name": "Большая кольцевая линия",
+        "station_id": "97.603",
+        "line_id": "97",
+        "lat": 55.7491,
+        "lng": 37.5395
+      },
+      {
+        "station_name": "Деловой центр",
+        "line_name": "Солнцевская",
+        "station_id": "133.468",
+        "line_id": "133",
+        "lat": 55.7491,
+        "lng": 37.5395
+      },
+      {
+        "station_name": "Деловой центр (Выставочная)",
+        "line_name": "Филевская",
+        "station_id": "4.172",
+        "line_id": "4",
+        "lat": 55.750243,
+        "lng": 37.542641
+      },
+      {
+        "station_name": "Москва-Сити",
+        "line_name": "Филевская",
+        "station_id": "4.179",
+        "line_id": "4",
+        "lat": 55.748056,
+        "lng": 37.532778
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Продакт менеджер (медицинская продукция)</strong></p> <p><strong>Обязанности:</strong></p> <ul> <li>Изучение продуктовой линейки, знание технических характеристик и области применения.</li> <li>Проведение сравнительного анализа с аналогами: конкуренты, их продукция, сильные и слабые стороны.</li> <li>Понимание специфики направлений, таких как лаборатория или жесткая эндоскопия. (Определяется на собеседовании)</li> <li>Работа с нормативной документацией: САНПиН, приказы МЗ, тарифы ФОМС.</li> <li>Анализ рынка: тренды, заказчики, поставщики.</li> <li>Поддержка отдела продаж и взаимодействие с заказчиками.</li> <li>Посещение всех мероприятий связанных со спецификой направления.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Высшее образование или последние курсы бакалавриата.</li> <li>Понимание медицинской продукции и её применения.</li> <li>Аналитическое мышление, грамотная речь, уверенный пользователь Excel/Word.</li> <li>Отличные коммуникативные навыки и способность работать в команде.</li> <li>Высокий уровень ответственности и самодисциплины;</li> </ul> <p><strong>Условия и преимущества:</strong></p> <ul> <li>Полная занятость: 5-дневная рабочая неделя с 10:00 до 19:00.</li> <li>Официальное оформление по ТК РФ;</li> <li>Своевременная выплата заработной платы два раза в месяц;</li> <li>Работа на месте работодателя с комфортными условиями труда.</li> <li>Карьерный рост до руководителя проекта/подразделения/направления;</li> <li>Дружный коллектив и поддержка на всех этапах работы.</li> <li>Обучение, участие в интересных проектах и расширение профессиональных знаний.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Продуктовая стратегия"
+    },
+    {
+      "name": "Анализ трафика"
+    },
+    {
+      "name": "Анализ конкурентной среды"
+    },
+    {
+      "name": "Управление знаниями‎"
+    },
+    {
+      "name": "Управление портфелем продуктов"
+    },
+    {
+      "name": "Анализ требований"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "73",
+      "name": "Менеджер продукта"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "12020569",
+    "name": "Ди Али Мед",
+    "url": "https://api.hh.ru/employers/12020569",
+    "alternate_url": "https://hh.ru/employer/12020569",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=12020569",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-27T14:48:27+0300",
+  "created_at": "2025-05-27T14:48:27+0300",
+  "initial_created_at": "2025-05-27T14:48:27+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121036139",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121036139",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_9",
+      "name": "9 часов"
+    }
+  ]
+}

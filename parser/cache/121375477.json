@@ -1,0 +1,185 @@
+{
+  "id": "121375477",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Python-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Одесская улица",
+    "building": "2кА",
+    "lat": 55.664472,
+    "lng": 37.599238,
+    "description": null,
+    "raw": "Москва, Одесская улица, 2кА",
+    "metro": {
+      "station_name": "Нахимовский проспект",
+      "line_name": "Серпуховско-Тимирязевская",
+      "station_id": "9.87",
+      "line_id": "9",
+      "lat": 55.662379,
+      "lng": 37.605274
+    },
+    "metro_stations": [
+      {
+        "station_name": "Нахимовский проспект",
+        "line_name": "Серпуховско-Тимирязевская",
+        "station_id": "9.87",
+        "line_id": "9",
+        "lat": 55.662379,
+        "lng": 37.605274
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>CoMagic</strong> - это продуктовая IT-компания, которая создает сервисы виртуальной бизнес-телефонии с передовыми решениями в области маркетинга и продаж. Прозрачная, масштабируемая система связи делает процессы звонков плавными и прозрачными.<br />Мы не стоим на месте и постоянно развиваемся. Сейчас в нашем пакете более 5-ти успешных продуктов и мы готовы двигаться дальше.</p> <p>Мы крепко стоим на ногах и ценим в сотрудниках такую же стабильность, честность и надежность. Для нас важен результат, а не отработанные часы.</p> <p><strong>О продукте:</strong></p> <p>Сейчас мы собираем команду разработки в активно растущий бизнес Octella — SaaS-продукт виртуальной телефонии. Более 100 клиентов в Европе и за ее пределами, тысячи звонков в день. Активный рост и масштабирование. Будущий разработчик станет членом core-команды, которая поможет поддерживать этот стремительный рост.</p> <p><strong>Важно! Стек технологий:</strong><br />Python, Aiohttp/FastAPI, Aioamqp, Asyncpg (aiopg), Polars, Redis, Git + Gitlab</p> <p> </p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li> <p>Анализ API-сторонних сервисов и доработка собственных.</p> </li> <li> <p>Участие в проектировании микросервисов и составлении требований к ним.</p> </li> <li> <p>Реализация stateless микросервисов.</p> </li> <li> <p>Разработка внутренних библиотек.</p> </li> <li> <p>Оптимизация узких мест в основной архитектуре продукта.</p> </li> </ul> <p><strong>Что мы ожидаем от кандидата:</strong></p> <ul> <li>Коммерческий опыт разработки на асинхронном Python (Aiohttp будет плюс) – от 3 лет.</li> <li>Понимание базовых принципов работы API.</li> <li>Опыт работы с микросервисной архитектурой с высокой нагрузкой.</li> <li>Базовые знания Linux, Docker.</li> <li>Отличное понимание ООП.</li> <li>Базовые знания SQL.</li> <li>Опыт работы с Git.</li> <li>Способность быстро учиться, аналитический склад ума.</li> <li>Способность к абстрактному мышлению.</li> </ul> <p><em>Будет плюсом:</em></p> <ul> <li>Опыт эксплуатации (CI/CD, мониторинг, алёртинг и отказоустойчивость).</li> <li>Английский от B1 - огромный плюс.</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Компания входит в реестр аккредитованных IT-компаний.</li> <li>Комфортный онбординг через менторство наставника.</li> <li>Современные технологии и шаринг знаний внутри компании.</li> <li>Открытость и честность в общении - мы много делаем для нашей корпоративной культуры и заботимся о микроклимате в наших взаимодействиях.</li> <li>Уютный офис в бизнес-центре А-класса вблизи м. Нахимовский проспект с местами для отдыха, кухней и собственными переговорными комнатами.</li> <li>Полная занятость с 10 до 19 в гибридном формате работы, а также удаленный для сотрудников не из Москвы.</li> <li>Рыночная зарплата – в зависимости от вашего опыта и компетенций.</li> <li>Оформление по ТК РФ, испытательный срок – 3 месяца.</li> <li>ДМС, психолог, английский, корпоративная библиотека в Литрес и компенсация обучения из специальной программы поддержки сотрудников – Кафетерий льгот.</li> </ul> <p><strong>Примите вызов и станьте ключевым игроком в команде CoMagic, где инновации и технологии дружат с уютом и стабильностью!</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Gitlab"
+    },
+    {
+      "name": "FastAPI"
+    },
+    {
+      "name": "Aсинхронное программирование"
+    },
+    {
+      "name": "Aiohttp"
+    },
+    {
+      "name": "Микросервисная архитектура"
+    },
+    {
+      "name": "Redis"
+    },
+    {
+      "name": "Agile"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "REST"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Kubernetes"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2575750",
+    "name": "CoMagic.dev",
+    "url": "https://api.hh.ru/employers/2575750",
+    "alternate_url": "https://hh.ru/employer/2575750",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1335130.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6960530.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6960531.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2575750",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T11:37:24+0300",
+  "created_at": "2025-06-05T11:37:24+0300",
+  "initial_created_at": "2025-06-05T11:37:24+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121375477",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121375477",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,169 @@
+{
+  "id": "120104708",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 90000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 90000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "улица Твардовского",
+    "building": "3к10",
+    "lat": 54.929156,
+    "lng": 83.132863,
+    "description": null,
+    "raw": "Новосибирск, улица Твардовского, 3к10",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Новосибирский Завод Резки металла (НЗРМ)</strong> основан в 2015 году. Всего за 10 лет из небольшого производственного предприятия мы выросли в один из крупнейших металлоперерабатывающих заводов за Уралом.</p> <p><strong>НЗРМ </strong>сегодня - это честный и надежный работодатель, который дает профессионалам возможность реализовывать свои идеи, ставить амбициозные цели и достигать их, а начинающим специалистам помогает расти и развиваться.</p> <p><strong>Обязанности:</strong></p> <ul> <li> <p>Работа в операционных системах Microsoft Windows и Microsoft Windows Server, и Linux;</p> </li> <li> <p>Обеспечение бесперебойной работы и управление сервисами Active Directory, GPO, DHCP, DNS, электронной почты;</p> </li> <li> <p>Администрирование активного сетевого оборудования Mikrotik, HP, Ubiquiti D-Link, средств межсетевого экранирования и маршрутизации, средств построения каналов связи.</p> </li> </ul> <strong>Требования:</strong> <ul> <li>Опыт администрирования Windows, Active Directory, GPO, DHCP, DNS, электронной почты.</li> <li>Опыт работы с сетевым оборудованием Mikrotik, HP, Ubiquiti D-Link.</li> <li>Администрирование в системах Microsoft Windows и Microsoft Windows Server, и Linux.</li> </ul> <strong>Условия:</strong> <ul> <li>Официальное трудоустройство с первого рабочего дня</li> <li>График работы 5/2</li> <li>Белая заработная плата 2 раз в месяц (всегда вовремя)</li> <li>Комфортный современный офис</li> <li>Доставка служебным транспортом с Речного вокзала и Первомайского района</li> <li>Тренажерный зал</li> <li>Эффективные сотрудники получают подарки и бонусы (в 2023 году подарком была поездка в Египет, в 2024 - поездка в Турцию);</li> <li>Собственная охраняемая парковка</li> <li>Программа дополнительной социальной поддержки (Подарки детям к новому году и 1 сентября, материальная поддержка в сложных жизненных ситуациях)</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": {
+    "id": 45329,
+    "name": "Брендированный шаблон 1",
+    "top_picture": {
+      "height": 560,
+      "width": 1540,
+      "path": "https://img.hhcdn.ru/branding-pictures/3214093.png",
+      "blurred_path": null
+    },
+    "bottom_picture": null
+  },
+  "key_skills": [
+    {
+      "name": "Настройка ПК"
+    },
+    {
+      "name": "Администрирование сетевого оборудования"
+    },
+    {
+      "name": "Администрирование серверов Windows"
+    },
+    {
+      "name": "Администрирование серверов Linux"
+    },
+    {
+      "name": "Администрирование серверов"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2614609",
+    "name": "НЗРМ",
+    "url": "https://api.hh.ru/employers/2614609",
+    "alternate_url": "https://hh.ru/employer/2614609",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1211178.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6465161.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6465162.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2614609",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T06:00:49+0300",
+  "created_at": "2025-06-06T06:00:49+0300",
+  "initial_created_at": "2025-04-30T10:50:30+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120104708",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120104708",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

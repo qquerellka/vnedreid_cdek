@@ -1,0 +1,149 @@
+{
+  "id": "120464147",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Тестировщик",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 60000,
+    "to": 80000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 60000,
+    "to": 80000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы разработали ИТ-решение, которое даёт возможность всем участникам рынка видеть цены друг друга.</p> <p><strong>PriceTuner</strong> — инструмент №1 в России для контроля и настройки цен в FMCG-ретейле.</p> <p>Ежедневно получаем цены на весь ассортимент 60+ продуктовых ретейлеров и отображаем их на едином дашборде. Сервис работает в браузере и доступен всем участникам рынка бесплатно.</p> <p>Мы ищем в нашу команду тестировщика для обеспечения качества и стабильности наших сервисов.</p> <p><strong>Мы НЕ планируем развивать автотестирование, а ищем скрупулёзного специалиста, который не оставит без внимания несогласованность в данных и странности в логах. </strong></p> <p>Специализация: парсинг данных (python)</p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Принимать от разработчиков парсеры после написания или доработок для тестирования</li> <li>Соблюдая описанные документально рекомендации проводить тестирование парсеров (проверка сбора торговых точек, сбора категорий товаров, полного каталога)</li> <li>Проводить мониторинг тестирования с помощью Grafana и просмотра логов работы парсеров.</li> <li>Оперативно предоставлять результаты тестирования в задачах (Jira) и/или информацию о сбоях, ошибках во время тестов для дальнейшего движения задач.</li> </ul> <p><strong>Требуемые навыки</strong> (обязательно):</p> <ul> <li>оконченное высшее техническое образование/ неоконченное, с возможностью работать 5/2, полный день</li> <li>понимание работы с серверами на базе linux (debian/ubuntu)</li> <li>понимание работы с консольными инструментами и Bash</li> <li>базовые навыки автоматизации процессов в linux-средах (cron, systemd etc.)</li> <li>умение работать в текстовых редакторах (vim, nano, mc etc.)</li> <li>опыт и хорошие знания в области клиент-серверного взаимодействия, сетевых (веб) технологий, с различными форматами и типами данных.</li> </ul> <div><strong>ВНИМАНИЕ! В сопроводительном письме к отклику напишите слово &quot;ПАРСИНГ&quot;. Мы поймём, что вы внимательны и откликнулись на вакансию осознанно.</strong></div> <div> </div> <p><strong>Условия:</strong></p> <ul> <li>аккредитованная IT-компания</li> <li>полная занятость; график работы 5/2.</li> <li>полноценный дистанционный формат работы (из дома).</li> <li>З/П от 60 000 до 80 000 руб. (на руки) - полностью &quot;белая&quot;.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Bash"
+    },
+    {
+      "name": "Atlassian Jira"
+    },
+    {
+      "name": "HTTP"
+    },
+    {
+      "name": "JSON"
+    },
+    {
+      "name": "Grafana"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1554158",
+    "name": "ПромоДата",
+    "url": "https://api.hh.ru/employers/1554158",
+    "alternate_url": "https://hh.ru/employer/1554158",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/926523.png",
+      "90": "https://img.hhcdn.ru/employer-logo/4146652.png",
+      "240": "https://img.hhcdn.ru/employer-logo/4146653.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1554158",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-13T11:47:47+0300",
+  "created_at": "2025-05-13T11:47:47+0300",
+  "initial_created_at": "2025-05-13T11:47:47+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120464147",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120464147",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

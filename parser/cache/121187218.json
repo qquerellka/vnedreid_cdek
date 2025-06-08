@@ -1,0 +1,155 @@
+{
+  "id": "121187218",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Senior Ruby developer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 3000,
+    "to": 5000,
+    "currency": "USD",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 3000,
+    "to": 5000,
+    "currency": "USD",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "MONTHLY",
+      "name": "Раз в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Плюсы работы в Hodl Hodl</strong></p> <ul> <li>Гибкий рабочий график. Вы должны пересекаться с остальной командой 4-5 часов в день, оставшееся время распределяете самостоятельно. Овертаймы редкие, добровольные и оплачиваемые.</li> <li>Удаленная работа.</li> <li>Возможность решить ряд задач “с чистого листа”, предложив свой вариант реализации.</li> <li>Оплачиваемый отпуск (30 календарных дней).</li> <li>Возможно обучение на профильных курсах за счёт компании (решается индивидуально).</li> <li>Работа в соответствии с заранее составленными, насколько это возможно, планами развития бизнес-части и архитектуры проектов. Мы хотим, чтобы всё было надёжно, красиво и поддерживаемо.</li> <li>No bullshit подход взаимодействия с управленцами, ориентированный на результат. Ваши часы работы не будут отслеживаться. Высокое качество решенных задач, умение убедительно аргументировать свою точку зрения и продуктивно учитывать критику будет отмечено. <p> </p> </li> </ul> <p><strong>Требования к кандидату</strong></p> <p><strong>Hard skills</strong></p> <ul> <li>Минимум 3 года опыта коммерческой разработки</li> <li> <p>Знание Ruby и фреймворка Rails;</p> </li> <li> <p>Представления о том, как написать хороший код в объектно-ориентированной парадигме;</p> </li> <li>Знание основ SQL, уверенное владение Active Record, опыт работы с PostgreSQL;</li> <li>Понимание принципов работы REST API, опыт написания API серверов и/или клиентов будет плюсом;</li> <li> <p>Знание основ JS, HTML, CSS (SCSS), готовность освоить шаблонизаторы Haml, Slim;</p> </li> <li>Навык использования Docker, docker-compose для развертывания локальной среды разработки;</li> <li>Желание писать тесты (RSpec) на любой код. <p><br /><strong>Soft skills</strong></p> </li> <li>Знание английского на уровне чтения технической документации, работы с задачами в Jira и письменной коммуникации в корпоративном чате;</li> <li>Внимание к деталям, способность довести задачу до конца (быть инициатором задавания вопросов коллегам, освоения новых gem-ов и т.д.);</li> <li>Высокая степень самоорганизации (для удаленной работы).</li> </ul> <p> </p> <p><strong>Будет плюсом</strong></p> <ul> <li>Знание набора библиотек Dry-rb;</li> <li>Знание любых JS фреймворков;</li> <li>Знание и понимание принципов работы технологии Blockchain: Bitcoin, Ethereum + ERC-20, Liquid;</li> <li>Опыт написания и использования криптовалютных библиотек и API, понимание принципов криптографии.</li> <li> <p><strong>Условия получения предложения</strong></p> <p>Тестовое задание (неоплачиваемое) и по его результатам техническое интервью.</p> </li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Ruby On Rails"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "Docker"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5541372",
+    "name": "Hodl Hodl",
+    "url": "https://api.hh.ru/employers/5541372",
+    "alternate_url": "https://hh.ru/employer/5541372",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/900565.png",
+      "90": "https://img.hhcdn.ru/employer-logo/4042947.png",
+      "240": "https://img.hhcdn.ru/employer-logo/4042948.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5541372",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-31T12:22:01+0300",
+  "created_at": "2025-05-31T12:22:01+0300",
+  "initial_created_at": "2025-05-31T12:22:01+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121187218",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121187218",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b1",
+        "name": "B1 — Средний"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

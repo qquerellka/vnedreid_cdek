@@ -1,0 +1,128 @@
+{
+  "id": "121236294",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Наш клиент, производственная компания, приглашает к сотрудничеству <strong>Системного администратора</strong></p> <p><strong>Требования:</strong></p> <ul> <li>Высшее образование по специальности &quot;Информационные технологии&quot; или смежной</li> <li>Опыт работы по администрированию сети от 100 компьютеров не менее 3 лет</li> <li>Знание и умение работать с продуктами 1C, Microsoft, Linux, VMWare, Kaspersky, PostgreSQL</li> <li>Опыт работы с сетевым оборудованием Cisco, Zyxel, Mikrotik крайне желателен</li> <li>Опыт практического использования PowerShell обязателен</li> <li>Наличие сертификатов по указанным технологиям будет преимуществом</li> </ul> <p><strong>Обязанности:</strong></p> <ul> <li>Установка, настройка и поддержка серверов на базе Windows Server, Linux и VMWare (на предприятии и внешнем дата-центре)</li> <li>Управление доменом с помощью Active Directory и Group Policy · Управление почтовыми сервисам Exchange</li> <li>Оптимизация быстродействия и настройка серверов 1С:ERP (Linux + PostgreSQL), управление серверами лицензирования</li> <li>Обеспечение защиты от вирусов и вредоносных программ с помощью Kaspersky (KSC, KSMG)</li> <li>Автоматизация развертывания операционных систем и программного обеспечения</li> <li>Автоматизация установки обновлений операционных систем (Windows)</li> <li>Резервное копирование и восстановление данных с помощью Veeam</li> <li>Конфигурирование и мониторинг сетевого оборудования Cisco, Zyxel, Mikrotik</li> <li>Установка, обновление SSL сертификатов на внутренние и внешние ресурсы</li> <li>Управление VPN доступом сотрудников к сети предприятий</li> <li>Управление доступом сотрудников в Интернет с помощью UserGate</li> <li>Создание систем мониторинга ИТ систем, оперативный контроль показателей здоровья и быстродействия систем, предупреждение аварийных ситуаций</li> <li>Автоматизация и оптимизация административных задач с помощью PowerShell</li> <li>Создание и поддержание в актуальном состоянии системной документации, документирование проводимых изменений</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Достойный оклад обсуждается на собеседовании</li> <li>Годовой бонус</li> <li>Социальный пакет ( питание, ДМС, частичная компенсация занятий спортом, опалата мобильной связи)</li> <li>График работы пятидневка: c 9.00 до 18.00 (гибридный формат/офисный формат по договоренности)</li> <li><strong>Расположение офиса компании - Красное Село (развозка от м. Московская и м. Ленинский проспект - время в пути 30-40 минут)</strong></li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1846",
+    "name": "Brainpower Group",
+    "url": "https://api.hh.ru/employers/1846",
+    "alternate_url": "https://hh.ru/employer/1846",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1202829.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6431765.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6431766.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1846",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T16:27:39+0300",
+  "created_at": "2025-06-02T16:27:39+0300",
+  "initial_created_at": "2025-06-02T16:27:39+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121236294",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121236294",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "a1",
+        "name": "A1 — Начальный"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

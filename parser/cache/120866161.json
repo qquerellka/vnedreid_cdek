@@ -1,0 +1,161 @@
+{
+  "id": "120866161",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "IT специалист технической поддержки",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 40000,
+    "to": 60000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 40000,
+    "to": 60000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Требуется IT специалист технической поддержки (техподдержки) в ИТ интегратор.</p> <p><strong>Обязанности:</strong></p> <ul> <li> <p>Поддержка пользователей, работа с заявками;</p> </li> <li> <p>Подбор компьютерных комплектующих;</p> </li> <li> <p>Сопровождение программных продуктов, Windows, Office, и другие;</p> </li> <li> <p>Техническая поддержка пользователей, решение технических вопросов, оборудование рабочих мест для новых сотрудников;</p> </li> <li> <p>Работа с серверами Windows</p> </li> <li> <p>Работа с Active Directory</p> </li> <li> <p>Работа с сетевым оборудованием Mikrotik</p> </li> <li> <p>Поручения руководителя.</p> </li> </ul> <p><strong>Требования:</strong></p> <ul> <li> <p>Опыт в установке и поддержке: Windows 7, Windows 10, серверные версии обязательно;</p> </li> <li> <p>Начальный опыт администрирования Linux-систем приветствуется;</p> </li> <li> <p>Умение настроить и подключить рабочие места (пользователи в домене и без него);</p> </li> <li> <p>Опыт в настройке продуктов Mikrotik обязательно;</p> </li> <li> <p>Знание основных принципов и умение построения слаботочных сетей желателен;</p> </li> <li> <p>Базовые навыки по ремонту и сборке ПК;</p> </li> <li> <p>Опыт диагностики неисправностей в работе компьютеров и периферийного оборудования;</p> </li> <li> <p>Знание периферийного оборудования (принтеры, копиры, МФУ);</p> </li> <li> <p>Выполнение поручений руководителя;</p> </li> </ul> <p><strong>Условия:</strong></p> <ul> <li> <p>1 месяц испытательный срок;</p> </li> <li> <p>Оформление по ТК;</p> </li> <li>удаленная работа из дома;</li> <li> <p>Понедельник-пятница с 9:00 до 18:00.</p> </li> <li> <p>Перспектива роста до DevOps либо руководителя отдела ТП</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Ремонт ПК"
+    },
+    {
+      "name": "Сборка ПК"
+    },
+    {
+      "name": "Настройка ПК"
+    },
+    {
+      "name": "Настройка сетевых подключений"
+    },
+    {
+      "name": "Windows 7"
+    },
+    {
+      "name": "консультации пользователей"
+    },
+    {
+      "name": "Администрирование серверов Windows"
+    },
+    {
+      "name": "Windows Server"
+    },
+    {
+      "name": "Удаленное администрирование"
+    },
+    {
+      "name": "Active Directory"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4727555",
+    "name": "АйПиЭм",
+    "url": "https://api.hh.ru/employers/4727555",
+    "alternate_url": "https://hh.ru/employer/4727555",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/851308.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3846107.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3846108.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4727555",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-22T13:25:49+0300",
+  "created_at": "2025-05-22T13:25:49+0300",
+  "initial_created_at": "2025-05-22T13:25:49+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120866161",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120866161",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,145 @@
+{
+  "id": "121226979",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Devops junior в Gamedev",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "66",
+    "name": "Нижний Новгород",
+    "url": "https://api.hh.ru/areas/66"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Gear Games — </strong>команда профессионалов, возрождающая на мобильных устройствах один из самых интересных игровых жанров - классические RTS. Наши проекты, Art Of War 3: Global Conflict и War Legends, объединили<strong> более 20 миллионов пользователей </strong>и заслужили <strong>средний рейтинг 4.7 в сторах. </strong>Мы — это стабильность, долгосрочное развитие и внимание к качеству.</p> <p>Для нас важны творческая атмосфера и возможности для профессионального роста. Сейчас мы ищем<strong> DevOps-инженера </strong>для усиления команды. Если хотите работать над значимыми проектами с командой единомышленников, присоединяйтесь к Gear Games!</p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li> <p>Написание и поддержание скриптов автоматизации и развертывания сервисов</p> </li> <li> <p>Разработка и внедрение новых технологий</p> </li> <li> <p>Настройка и поддержание CI/CD на Gitlab</p> </li> <li> <p>Администрирование удаленных серверов на Linux</p> </li> <li> <p>Мониторинг и восстановление состояния сервисов.</p> </li> </ul> <p><strong>В будущем коллеге нам важны:</strong></p> <ul> <li> <p>Опыт работы с *nix системами, уверенное знание Linux</p> </li> <li> <p>Опыт работы с Bash, Git (будет плюсом k8s, helm, docker, ansible/puppet/terraform и т.п.)</p> </li> <li> <p>Общее понимание принципов CI и CD</p> </li> <li> <p>Опыт программирования на любом языке (Java, Python или C#)</p> </li> <li> <p>Любовь к играм</p> </li> <li> <p>Умение и желание проводить самостоятельные исследования.</p> </li> </ul> <p><strong>Мы используем:</strong></p> <ul> <li> <p>Языки программирования Python, Java, C#</p> </li> <li> <p>GitLab и GitLab CI, TeamCity</p> </li> <li> <p>Свои и облачные сервера</p> </li> <li> <p>Логи и мониторинг OpenSearch, Prometheus</p> </li> <li> <p>Базы данных MySQL, PostgreSQL, Tarantool</p> </li> <li> <p>Управление конфигурацией Ansible, AWX, k8s</p> </li> <li> <p>Операционные системы Ubuntu, MacOS</p> </li> <li> <p>Сервисы Consul, Vault, Minio, Kafka и др.</p> </li> </ul> <p><strong>И нам есть что предложить!</strong></p> <ul> <li>Гибкий старт рабочего дня (9-10 по МСК), возможность удаленной работы, включая зарубежные страны</li> <li> <p>Система наставничества: встречи 1 на 1 с ментором для обсуждения карты развития</p> </li> <li> <p>Уроки английского дважды в неделю с оплатой 50% занятий (после испытательного срока)</p> </li> <li> <p>Оплата 50% годового абонемента в спортзал или другого спортивного курса после испытательного срока</p> </li> <li> <p>3 офиса в России (Москва, Кострома, Курск) и возможность удаленной работы</p> </li> <li> <p>Подарки к праздникам, дням рождения и знаковым датам компании</p> </li> <li> <p>Командные мероприятия:</p> <ul> <li> <p>Внутренние конференции дважды в год (зима/лето) за счет компании</p> </li> <li> <p>Ежегодные турниры по играм компании с призами</p> </li> <li> <p>Ежегодные геймджемы с призовым фондом</p> </li> </ul> </li> <li> <p>Сильная команда с комфортным общением и атмосферой взаимоподдержки, что ощущается даже при удаленной работе</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "CI/CD"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Bash"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Game Programming"
+    },
+    {
+      "name": "Ansible"
+    },
+    {
+      "name": "Kubernetes"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "160",
+      "name": "DevOps-инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3305437",
+    "name": "Gear Games",
+    "url": "https://api.hh.ru/employers/3305437",
+    "alternate_url": "https://hh.ru/employer/3305437",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/538435.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/2595213.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/2595214.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3305437",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T14:24:57+0300",
+  "created_at": "2025-06-05T14:24:57+0300",
+  "initial_created_at": "2025-06-02T14:24:57+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121226979",
+  "has_test": true,
+  "test": {
+    "required": true
+  },
+  "alternate_url": "https://hh.ru/vacancy/121226979",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

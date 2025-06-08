@@ -1,0 +1,140 @@
+{
+  "id": "120919497",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Python-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы - аккредитованная IT-компания QUALITICA. Мы делаем чат-боты, онлайн-сервисы, сложные интернет-магазины, CRM и ERP и другие проекты. Много интеграций с различными системами (1С, соцсети, платежные системы, СДЭК, Госуслуги – лишь часть). Проекты разные, сложные, есть где приложить силы.</p> <p>Мы работаем с крупными компаниями-заказчиками и агентствами и это возможность быть причастным к нетривиальным историям, увидеть все изнутри.</p> <p>Ищем python-разработчика (middle, senior), которому сможем предложить участие в интересных проектах. У нас нет жесткой специализации, поэтому проекты разные, скучать не придется.</p> <p><strong>Ожидаем увидеть следующие хард-скилы:</strong></p> <p>Python3. Django Rest, Flask, FastAPI. PostgreSQL.</p> <p>WebSocket. Redis. Celery. Docker. Elasticsearch.</p> <p>Linux.</p> <p>Kubernetes - отлично!</p> <p>HTML/CSS/JS (бога фронтенда не ищем, но хорошее понимание и возможность вносить простые правки должно быть).</p> <p><strong>Что еще хотим увидеть в опыте работы:</strong></p> <p><strong>Уровень middle-senior, обязательно с опытом от 2-3 лет </strong>, важен опыт реализации нетиповых коммерческих задач. Приветствуется опыт проектирования систем. Важен опыт работы в команде, в том числе опыт декомпозиции задач, рефакторинга чужого кода.</p> <p><strong>Условия: </strong></p> <ul> <li> <p>Удаленная работа в штате компании, полная занятость, стабильность и в финансовом плане, и в плане загрузки интересными проектами.</p> </li> <li> <p>Оплачиваемая сверхурочная работа. При этом у нас нет культа сверхурочки. Забудь о том времени, когда ты приходил работать за приличный оклад, но отрабатывал так, будто платят два).</p> </li> <li> <p>Льготы, полагающиеся компании с аккредитацией Минцифры (отсрочка, ипотека для регионов).</p> </li> <li> <p>Своевременная выплата заработной платы и прочие обычные блага в виде больничных, отпусков и пр.</p> </li> <li> <p>Распределенная команда, сильное менторство от крутого тимлида.</p> </li> <li> <p>Ждем с нетерпением резюме!</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Django Framework"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Django"
+    },
+    {
+      "name": "FastAPI"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4181561",
+    "name": "Qualitica",
+    "url": "https://api.hh.ru/employers/4181561",
+    "alternate_url": "https://hh.ru/employer/4181561",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1102592.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6030981.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6030982.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4181561",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-23T16:38:13+0300",
+  "created_at": "2025-05-23T16:38:13+0300",
+  "initial_created_at": "2025-05-23T16:38:13+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120919497",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120919497",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

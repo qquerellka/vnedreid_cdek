@@ -1,0 +1,197 @@
+{
+  "id": "120768080",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Junior+/Middle PHP-разработчик (Laravel)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 80000,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 80000,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "улица Белинского",
+    "building": "30",
+    "lat": 56.833097,
+    "lng": 60.614345,
+    "description": null,
+    "raw": "Екатеринбург, улица Белинского, 30",
+    "metro": {
+      "station_name": "Геологическая",
+      "line_name": "Север-Юг",
+      "station_id": "48.267",
+      "line_id": "48",
+      "lat": 56.826715,
+      "lng": 60.603754
+    },
+    "metro_stations": [
+      {
+        "station_name": "Геологическая",
+        "line_name": "Север-Юг",
+        "station_id": "48.267",
+        "line_id": "48",
+        "lat": 56.826715,
+        "lng": 60.603754
+      },
+      {
+        "station_name": "Площадь 1905 года",
+        "line_name": "Север-Юг",
+        "station_id": "48.266",
+        "line_id": "48",
+        "lat": 56.837982,
+        "lng": 60.59734
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Привет!</strong></p> <p>Мы – аккредитованная ИТ-компания, которая занимается <strong>веб-разработкой</strong> на заказ. Основной наш профиль – веб-сервисы, API-сервисы и мобильные приложения. Мы работаем в небольших командах над несколькими большими клиентскими проектами, ведем бэклог вместе с клиентом, получаем ежемесячную оплату.</p> <p>Основные цели нашей работы – повышение качества нашего продукта, использование современных технологий там, где это необходимо, и постоянное развитие квалификации сотрудников. У нас отлаженный таск трекер (Jira + Mattermost), собственный CI/CD, проекты покрываются unit, feature и integration тестами.</p> <p><strong>Технологии, которые мы используем: </strong>Laravel (PHP), PostgreSQL, Vue.js, Webpack, Docker, Kubernetes, Gitlab CI<strong>, </strong>мониторинг Prometheus+Grafana, логирование Graylog и Loki, а также автотесты, Scrum (Стори Поинты, Спринты, Jira), Gitflow, Mattermost. </p> <p><strong>Требования к кандидату:</strong></p> <ul> <li>Опыт разработки на PHP от 2 лет;</li> <li>Опыт использования Laravel от 1 года;</li> <li>Опыт работы с Git от 1 года;</li> <li>Базовое понимание ООП, SOLID, паттернов, REST API;</li> <li>Базовое понимание Docker, Linux;</li> <li>Базовое понимание SQL;</li> <li>Коммуникабельность, умение излагать свои мысли;</li> <li>Любознательность. Желание разобраться в коде, с которым работаешь.</li> </ul> <p><strong>Чем предстоит заниматься:</strong></p> <div> <ul> <li>Отладка и фиксы багов с прода;</li> <li>Оценка задач и выполнение web UI и API;</li> <li>Рефакторинг;</li> <li>Написание тестов;</li> <li>Работа в команде из 8 человек;</li> <li>Понимание и следование стандартам существующей архитектуры продукта;</li> <li>Активное участие в обсуждении проблем и текущих задач команды.</li> </ul> </div> <p><strong>Условия работы:</strong></p> <ul> <li> <p>Уютный офис в центре города (Белинского, 30);</p> </li> <li> <p>Возможность удаленного формата работы;</p> </li> <li> <p>Своевременное грейдирование и соответствующий рост заработной платы;</p> </li> <li> <p>Регулярные ретроспективы и семинары (кодочаты), соревнования по программированию (кодобатлы);</p> </li> <li> <p>Стабильная регулярная зарплата без задержек;</p> </li> <li> <p>Современное рабочее место, установка железа и ПО по запросу;</p> </li> <li> <p>Кухня с водой, кофемашиной и холодильником, собственный санузел;</p> </li> <li> <p>Профессиональный стол для кикера, приставка, настольные игры;</p> </li> <li> <p>Корпоративные мероприятия каждый месяц;</p> </li> <li> <p>Прозрачное планирование задач для разработчиков – всегда понятно, какую задачу брать в работу.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Laravel"
+    },
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "SOLID"
+    },
+    {
+      "name": "Linux"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4930952",
+    "name": "Студия Флаг",
+    "url": "https://api.hh.ru/employers/4930952",
+    "alternate_url": "https://hh.ru/employer/4930952",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/787179.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3589607.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3589608.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4930952",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-20T14:31:25+0300",
+  "created_at": "2025-05-20T14:31:25+0300",
+  "initial_created_at": "2025-05-20T14:31:25+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120768080",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120768080",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

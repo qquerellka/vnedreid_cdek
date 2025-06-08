@@ -1,0 +1,197 @@
+{
+  "id": "121351301",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 100000,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "MONTHLY",
+      "name": "Раз в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Большой Сампсониевский проспект",
+    "building": "64Ж",
+    "lat": 59.974968,
+    "lng": 30.33237,
+    "description": null,
+    "raw": "Санкт-Петербург, Большой Сампсониевский проспект, 64Ж",
+    "metro": {
+      "station_name": "Выборгская",
+      "line_name": "Кировско-Выборгская",
+      "station_id": "14.196",
+      "line_id": "14",
+      "lat": 59.970925,
+      "lng": 30.347408
+    },
+    "metro_stations": [
+      {
+        "station_name": "Выборгская",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.196",
+        "line_id": "14",
+        "lat": 59.970925,
+        "lng": 30.347408
+      },
+      {
+        "station_name": "Лесная",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.195",
+        "line_id": "14",
+        "lat": 59.984947,
+        "lng": 30.344259
+      },
+      {
+        "station_name": "Петроградская",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.215",
+        "line_id": "15",
+        "lat": 59.966389,
+        "lng": 30.311293
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Компания PLINAR занимается разработкой решений в сфере дополненной (AR) и виртуальной реальности (VR) для промышленного и корпоративного сектора. Ищем надежного системного администратора в штат.</p> <p><span>Мы - команда, которая ценит технический подход, внимание к деталям и дружелюбную атмосферу.</span></p> <p>У нас вы не просто «держите сеть в порядке», а участвуете в интересных проектах, печатаете на 3D-принтере, осваиваете новые инструменты и - да, иногда помогаете собрать стол </p> <p> </p> <p>️ Что предстоит делать:</p> <p>• Поддержка пользователей (20 ПК, Windows)</p> <p>• Настройка и сопровождение CRM Битрикс24, IP-телефонии</p> <p>• Обслуживание офисной техники и IP-видеонаблюдения</p> <p>• Резервное копирование, поддержка локальных и облачных серверов</p> <p>• Желателен опыт в автоматизации и написании скриптов, понимание Linux</p> <p>• Монтаж и поддержка СКС, учёт и закупки IT-оборудования</p> <p>❗️<strong>Работа с 3D-принтером (например, Flashforge Adventurer 5M Pro): печать, обслуживание, устранение неполадок</strong></p> <p> </p> <p> Вашим преимуществом будет:</p> <p>• Знание Linux (администрирование)</p> <p>• Опыт работы с Bitrix24, 1С</p> <p>• Навыки программирования на Python (чат-боты, скрипты)</p> <p>• Опыт прокладки СКС и работы с ручным инструментом</p> <p> </p> <p> Ваши качества:</p> <p>• Внимание к мелочам и аккуратность</p> <p>• Умение работать руками и головой</p> <p>• Инициативность, готовность помочь коллегам не только по IT-вопросам</p> <p> </p> <p>⚙️ Что предлагаем:</p> <p>• Современный светлый офис (потолки 5 м, 12 мин от метро, 5 мин до Невы)</p> <p>• Полностью оборудованная зона отдыха с PlayStation, снеками и кофе</p> <p>• Дружная команда, поддержка, живое общение</p> <p>• Доплата за участие в проектных задачах</p> <p>• Компенсация обучения или спортивных активностей на 50% после испытательного срока.</p> <p>❗️Испытательный срок- 3 месяца.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Настройка ПК"
+    },
+    {
+      "name": "Администрирование серверов Windows"
+    },
+    {
+      "name": "VPN"
+    },
+    {
+      "name": "DHCP"
+    },
+    {
+      "name": "Hyper-V"
+    },
+    {
+      "name": "MySQL"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5890050",
+    "name": "Плинар",
+    "url": "https://api.hh.ru/employers/5890050",
+    "alternate_url": "https://hh.ru/employer/5890050",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1018266.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5693832.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5693833.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5890050",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T17:00:13+0300",
+  "created_at": "2025-06-04T17:00:13+0300",
+  "initial_created_at": "2025-06-04T17:00:13+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121351301",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121351301",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

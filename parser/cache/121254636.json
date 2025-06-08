@@ -1,0 +1,140 @@
+{
+  "id": "121254636",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Middle Backend-разработчик (Python)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Поклонная улица",
+    "building": "3к4",
+    "lat": 55.736204,
+    "lng": 37.531657,
+    "description": null,
+    "raw": "Москва, Поклонная улица, 3к4",
+    "metro": {
+      "station_name": "Парк Победы",
+      "line_name": "Арбатско-Покровская",
+      "station_id": "3.173",
+      "line_id": "3",
+      "lat": 55.735679,
+      "lng": 37.516865
+    },
+    "metro_stations": [
+      {
+        "station_name": "Парк Победы",
+        "line_name": "Арбатско-Покровская",
+        "station_id": "3.173",
+        "line_id": "3",
+        "lat": 55.735679,
+        "lng": 37.516865
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <p><strong>Функционал</strong></p> <ul> <li>Писать и расширять модули Scribemate, AI-Reporter, «Нейроаналитик» (Наши AI-Продукты) на <strong>Python 3.11+</strong> (FastAPI или Django).</li> <li><strong>Архитектура</strong></li> <li>Проектировать микросервисы и отдельные компоненты вместе с Senior-разработчиками;</li> <li>Документировать схемы и API.</li> <li><strong>Данные</strong></li> <li>Работать с PostgreSQL 15 через SQLAlchemy / Django ORM, подключать Redis или MongoDB для кешей и фидов.</li> <li><strong>Очереди</strong></li> <li>Интегрировать Celery + RabbitMQ (или Kafka) для фоновых задач;</li> <li>Следить за идемпотентностью и ретраями.</li> <li><strong>Интеграции</strong></li> <li>Подключать внешние REST/gRPC-сервисы, в том числе AI-эндпойнты (OpenAI, HuggingFace, Vision/TTS-API).</li> <li><strong>Качество</strong></li> <li>Писать unit-/integration-тесты (PyTest), смотреть покрытия, участвовать в code-review.</li> <li><strong>Коммуникация</strong></li> <li>Плотно взаимодействовать с фронтендом, QA и DevOps-командой, участвовать в groomings и demo.</li> </ul> <p><strong>Минимальные требования:</strong></p> <ul> <li><strong>2–3 года</strong> коммерческого Python-разработки.</li> <li>Один из фреймворков: <strong>FastAPI, Django или Flask</strong>.</li> <li>Уверенные знания SQL и опыт работы с <strong>PostgreSQL</strong> + ORM.</li> <li>Понимание REST-подхода, HTTP, JSON, auth (JWT/OAuth2).</li> <li>Git-workflow (feature-ветки, MR, rebase), умение читать чужой код.</li> <li>Готовность писать тесты и поддерживать свой код в проде.</li> </ul> <p><strong>Будет плюсом :</strong></p> <ul> <li> <p>Celery + RabbitMQ / Kafka, AIOHTTP / asyncio.</p> </li> <li>Docker-окружения, базовое k8s: Helm, ConfigMap, Secrets.</li> <li>Опыт подключения LLM- или ML-сервисов.</li> <li>Знакомство с Grafana / Prometheus, Sentry.</li> <li>Интерес к PR- и медиа-технологиям.</li> </ul> <strong>Условия:</strong> <ul> <li>Удаленка/Гибрид</li> <li>Офис напротив Москва Сити</li> <li>Обсуждение зарплаты по итогам собеседования.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "12041885",
+    "name": "Рекламное Агентство Смарт Консалтинг",
+    "url": "https://api.hh.ru/employers/12041885",
+    "alternate_url": "https://hh.ru/employer/12041885",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=12041885",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T20:05:25+0300",
+  "created_at": "2025-06-02T20:05:25+0300",
+  "initial_created_at": "2025-06-02T20:05:25+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121254636",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121254636",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

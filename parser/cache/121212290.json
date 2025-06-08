@@ -1,0 +1,160 @@
+{
+  "id": "121212290",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Бизнес-аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 120000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 120000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Уважаемые соискатели!</strong></p> <p><em>Наша компания является оптово-розничной коммерческой организацией, реализующей бытовую технику под собственной <strong>торговой маркой Weissgauff.</strong> <strong>Более 10 лет компания</strong> уверенно занимает <strong>лидирующие позиции </strong>в среднем ценовом сегменте.</em></p> <p><em><strong>Weissgauff является безоговорочным лидером в работе с маркетплейсами. Входим в топ-3 всех сейллеров на Яндекс Маркете и Ozon. </strong></em></p> <p> </p> <p>Эта вакансия для <strong>трудолюбивого</strong> кандидата, который внимателен к мелочам и кропотлив в работе, хочет и готов влиться в команду профессионалов, <strong>учиться и развиваться</strong> вместе с нами.</p> <p><strong>Обязанности:</strong></p> <ul> <li>Составление в Excel,1с форм плана продаж;</li> <li>Аналитика данных с маркетплейсов;</li> <li>Прогноз и моделирование продаж на основе аналитики;</li> <li>План-факт анализ и корректировка планов продаж в зависимости от текущей динамики и поставок;</li> <li>Формирования ТЗ для программистов 1С УТ по автоматизации плана продаж, тестирование, исправление ошибок;</li> <li>Плотное взаимодействие с отделом продаж, 1С, программистами и отделом закупок;</li> <li>Подготовка аналитических материалов по запросу руководства.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>​Обязательно ТЕХНИЧЕСКОЕ/ЭКОНОМИЧЕСКОЕ образование;</li> <li>Высокий уровень владения Excel;</li> <li>Опыт работы с аналитикой;</li> <li>Опыт моделирования продаж, на основе входных данных;</li> <li>Высокий уровень навыков работы с 1С Управление торговлей;</li> <li>Умение систематизировать и структурировать информацию;</li> <li>Грамотная устная и письменная речь;</li> <li>Умение работать с большими объёмами информации;</li> <li>Внимание к мелочам;</li> <li>Коммуникабельность.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Работа 5/2 с 9:00 до 18:00;</li> <li>Удаленная работа - присутствие в офисе не требуется;</li> <li> <p><strong>Интересная работа</strong> в быстроразвивающейся компании-лидере отрасли.</p> </li> <li> <p>Корпоративные <strong>скидки </strong>на продукцию компании.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Аналитика"
+    },
+    {
+      "name": "Анализ рынка"
+    },
+    {
+      "name": "Маркетплейсы"
+    },
+    {
+      "name": "Аналитическое мышление"
+    },
+    {
+      "name": "Работа с большим объемом информации"
+    },
+    {
+      "name": "Сбор и анализ информации"
+    },
+    {
+      "name": "Подготовка отчетов"
+    },
+    {
+      "name": "ВПР"
+    },
+    {
+      "name": "Анализ ассортиментной линейки"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "10",
+      "name": "Аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3095697",
+    "name": "Гауф Рус",
+    "url": "https://api.hh.ru/employers/3095697",
+    "alternate_url": "https://hh.ru/employer/3095697",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1303304.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6833478.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6833479.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3095697",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T11:05:10+0300",
+  "created_at": "2025-06-05T11:05:10+0300",
+  "initial_created_at": "2025-06-02T11:05:10+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121212290",
+  "has_test": true,
+  "test": {
+    "required": true
+  },
+  "alternate_url": "https://hh.ru/vacancy/121212290",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -9,13 +9,23 @@
 #
 # #############################################################################
 
-FROM        python:3.8
-LABEL       maintainer="Alexander Kapitanov"
-LABEL       source="https://github.com/capitanov/hh_research"
-WORKDIR     /workdir
-COPY        . .
+FROM python:3.11-slim
 
-RUN         pip install --upgrade pip && pip install --no-cache-dir -r /workdir/requirements.txt
+WORKDIR /app
 
-EXPOSE      3333
-CMD         jupyter notebook --port 3333 --no-browser --ip 0.0.0.0 --allow-root
+# Copy requirements first for better caching
+COPY requirements.txt .
+COPY pyproject.toml .
+
+# Install dependencies
+RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install fastapi uvicorn
+
+# Copy the rest of the application
+COPY . .
+
+# Create necessary directories
+RUN mkdir -p data cache
+
+# Run the FastAPI application
+CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "8000"]

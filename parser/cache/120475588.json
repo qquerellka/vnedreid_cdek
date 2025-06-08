@@ -1,0 +1,182 @@
+{
+  "id": "120475588",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Тестировщик ПО (ручное тестирование веб и мобильных приложений на Android и Windows)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 75000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 75000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Ленинский проспект",
+    "building": "153",
+    "lat": 59.850043,
+    "lng": 30.304127,
+    "description": null,
+    "raw": "Санкт-Петербург, Ленинский проспект, 153",
+    "metro": {
+      "station_name": "Московская",
+      "line_name": "Московско-Петроградская",
+      "station_id": "15.224",
+      "line_id": "15",
+      "lat": 59.848873,
+      "lng": 30.321483
+    },
+    "metro_stations": [
+      {
+        "station_name": "Московская",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.224",
+        "line_id": "15",
+        "lat": 59.848873,
+        "lng": 30.321483
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Мы ищем талантливого и ответственного тестировщика, который готов присоединиться к нашей команде и внести свой вклад в разработку нового продукта для горнодобывающей отрасли. Работа в составе команды разработчиков, тестировщиков и дизайнеров. Требуется проводить ручное тестирование веб и мобильных приложений, написание тестовой документации. От соискателя требуется ответственность, внимательность и профессионализм, важна готовность к саморазвитию. Если вы стремитесь к профессиональному росту и хотите участвовать в создании передовых решений, то эта вакансия для вас! </p> <p><strong>Обязанности:</strong></p> <ul> <li>Проводить ручное тестирование веб и мобильных приложений на Android и Windows;</li> <li>Поддерживать существующую тестовую документацию и создавать новую;</li> <li>Составлять четкие и информативные баг-репорты;</li> <li>Взаимодействие с командой разработки и внедрения;</li> <li>Участие в планировании и оценке задач;</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Понимание основ тестирования (Web/Mobile/Desktop);</li> <li>Знание жизненного цикла разработки ПО (SDLC);</li> <li>Опыт написания тестовой документации (тест-кейсы, чек-листы);</li> <li>Базовое понимание клиент-серверной архитектуры;</li> <li>Умение работать с Jira/Confluence или их аналогами;</li> <li>Базовое понимание систем контроля версий (Git);</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Умение работать с Android Studio;</li> <li>Понимание формата JSON и умение анализировать JSON-структуры</li> <li>Желание осваивать автоматизированное тестирование на Python.</li> </ul> <p><strong>Условия и преимущества:</strong></p> <ul> <li>Полная занятость с графиком работы 5/2.</li> <li>Возможность работать на месте работодателя или в гибридном формате (после стажировки).</li> <li>Участие в проекте, включенном в Перечень особо значимых проектов РФ.</li> <li>Работа в компании, поддерживаемой ведущими институтами развития РФ.</li> <li>З/П устанавливается по результатам собеседования в зависимости от навыков.</li> </ul> <p><strong>О компании:</strong> Компания ООО «АГР Софтвер» — один из ведущих отечественных разработчиков и поставщиков ИТ-решений в области сбора, обработки и управления горно-геологическими данными для сырьевой отрасли. За последние 15 лет успешного развития было выпущено пять поколений системы, которые успешно конкурируют не только на отечественном рынке, но и в странах СНГ и дальнего зарубежья. Наша миссия — повышение эффективности управления и качества данных на каждом этапе разведки и отработки месторождения. Присоединяйтесь к нам и станьте частью команды, которая создает будущее!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Ручное тестирование"
+    },
+    {
+      "name": "Тестирование Android-приложений"
+    },
+    {
+      "name": "Git"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2786910",
+    "name": "АГР Софтвер",
+    "url": "https://api.hh.ru/employers/2786910",
+    "alternate_url": "https://hh.ru/employer/2786910",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1353776.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/7035034.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/7035035.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2786910",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T13:54:38+0300",
+  "created_at": "2025-06-06T13:54:38+0300",
+  "initial_created_at": "2025-05-13T13:54:38+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120475588",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120475588",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b1",
+        "name": "B1 — Средний"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

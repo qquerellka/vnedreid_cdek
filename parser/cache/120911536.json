@@ -1,0 +1,162 @@
+{
+  "id": "120911536",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Laravel-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": null,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "Красноармейская улица",
+    "building": "72",
+    "lat": 56.830241,
+    "lng": 60.618306,
+    "description": null,
+    "raw": "Екатеринбург, Красноармейская улица, 72",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<div><strong>Alto ⏤ </strong>аккредитованная IT-компания, которая специализируется на разработке сложных e-commerce проектов и веб-сервисов. Мы создаем проекты с 2014 года, входим в топ-10 России по e-commerce и постоянно развиваемся. В список наших клиентов входят такие компании, как: Hoff, НЛМК, 2GIS, Unilever и другие. Для нас важно создавать IT-продукты, которые приносят пользу.</div> <div>Проекты становятся сложнее и масштабнее, поэтому наш руководитель отдела разработки ищет в команду Laravel-разработчика, который вместе с нами будет расти и развиваться.<br /><br />Петя, кстати, танцует кизомбу :)</div> <div>И может быть даже станцует на видос, если его хорошо попросить</div> <div>Но пока не об этом</div> <div><strong>Почему работать с нами ⏤ круто?</strong></div> <ul> <li> <div>Различные проекты: нас есть как крупные проекты, известные на федеральном уровне, с высокой нагрузкой и требованиям к уровню кода, так и небольшие проекты, на которых мы пробуем новые подходы, технологии и короткий цикл запуска;</div> </li> <li> <div>Обучение и наставничество: у нас предусмотрена адаптационная программа, которая поможет быстрее погрузиться в работу и давать качественные результаты. А еще будет закреплен наставник, который поможет разобраться с задачами;</div> </li> <li> <div>Профессиональный рост: вместе с каждым разработчиком мы составляем план развития на квартал: какие технологии и навыки нужно получить. Это помогает автоматически повышать зарплату и расти в компетенциях. А еще есть возможность вырасти в тимлида, уйти во фронт или флаттер;</div> </li> <li> <div>Гибкий график работы: офис в центре Екатеринбурга, гибрид, удаленка;</div> </li> <li> <div>Рабочие часы: 10:00-19:00 по Екатеринбургу (+2 МСК). Если удаленно, то ожидаем, что у вас будет совпадать 6 часов с нашим временем;</div> </li> <li> <div>Стабильная зарплата: в компании никогда не было задержек;</div> </li> <li> <div>Корпоративная культура: дружный коллектив, где все на &quot;ты&quot; и веселые корпоративы)</div> </li> </ul> <div><strong>Что нужно делать, чтобы зарабатывать и развиваться с нами?</strong></div> <div>— Разрабатывать backend-части на проектах;</div> <div>— Иногда рефакторить существующий код;</div> <div>— Участвовать в обсуждениях проекта;</div> <div>— Помогать младшим разработчикам, если Middle. И советоваться со старшими, если Junior;</div> <div>— Разрабатывать новые API для сайта и мобильных приложений;</div> <div>— Быть частью команды.</div> <div><strong>Что мы от тебя ждем:</strong></div> <div> <div>— Опыт работы с PHP от 2+ лет. Ожидаем, что вы хорошо знакомы с Laravel</div> <div>— Понимаете принципы работы Web, REST</div> <div>— Знаете почему контролеры должны быть тонкими, а модели толстыми (привет MVC). И в целом, как работает ООП.</div> <div>— Хорошее знание SQL.</div> <div>— Опыт работы с composer, docker, git, swagger.</div> <div> </div> <div><strong>Будет плюсом:</strong></div> <div>— опыт работы с Pimcore</div> <div>— опыт работы с moonshine</div> <div> </div> </div> <p><strong>Мы используем и научим тебя:</strong></p> <div>— PSR 0-4, PSR-12 чтобы код был аккуратным и по стандарту;</div> <div>— React для фронта;</div> <div>— Docker для контейнеров;</div> <div>— Xdebug для отладки кода;</div> <div>— Swagger для API;</div> <div>— MySQL в качестве основных хранилищ данных;</div> <div>— PHPUnit, Codeception, Playwright для тестирования.</div> <strong>А еще: </strong> <div>— Gitlab/Github для работы на проектах;</div> <div>— Planfix для постановки задач;</div> <div>— Telegram для общения;</div> <div>— Confluence для базы знаний и документации.</div> <p><strong>Процесс отбора:</strong></p> <div>1. Знакомимся с твоим резюме;</div> <div>2. Связываемся по телефону или в Telegram;</div> <div>3. Обсуждаем технические навыки и назначаем онлайн-собеседования в Zoom;</div> <div>4. При успешном собеседовании отправляем оффер в тот же день. Возможно тестовое задание на 3-4 часа;</div> <div>5. Знакомим с руководителем и выдаем первые задачи.<br /><br />Работать будешь в команде профессионалов, которые создают цифровые продукты более 10 лет, поэтому вырасти можно очень быстро и качественно.</div> <p>Если у тебя остались вопросы, не стесняйся их задавать, ответим на все и даже расскажем немного больше!<br /><br /><strong>Можно просто прочитать, а можно откликнуться и стать частью лучшей команды)</strong></p> <p><strong>Ждем тебя в Alto❤️</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "Laravel"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Swagger"
+    },
+    {
+      "name": "ООП"
+    },
+    {
+      "name": "REST API"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1822184",
+    "name": "Alto",
+    "url": "https://api.hh.ru/employers/1822184",
+    "alternate_url": "https://hh.ru/employer/1822184",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/882674.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3971403.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3971404.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1822184",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-23T14:32:39+0300",
+  "created_at": "2025-05-23T14:32:39+0300",
+  "initial_created_at": "2025-05-23T14:32:39+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120911536",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120911536",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

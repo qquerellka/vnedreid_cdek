@@ -1,0 +1,147 @@
+{
+  "id": "120811801",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "QA Manual Engineer/Тестировщик Middle+",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 150000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 150000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Сергиев Посад",
+    "street": "проспект Красной Армии",
+    "building": "97",
+    "lat": 56.302607,
+    "lng": 38.129576,
+    "description": null,
+    "raw": "Сергиев Посад, проспект Красной Армии, 97",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы ищем опытного QA Manual Engineer для тестирования веб-приложений (фронтенд и бекенд). Вам предстоит обеспечивать высокое качество продукта, работая в команде разработки и взаимодействуя с коллегами из других направлений.</p> <p><strong>Обязанности:</strong><br />- Тестирование функциональности (frontend + backend) веб-приложений<br />- Проверка верстки на соответствие макетам и адаптивность<br />- Кроссбраузерно и кроссплатформенное тестирование<br />- Проведение регрессионного тестирования перед релизами<br />- Написание тест-кейсов, чек-листов, баг-репортов<br />- Участие в планировании и оценке задач<br />- Менторинг junior QA, помощь в их профессиональном росте<br />- Взаимодействие с разработчиками, аналитиками и продакт-менеджерами</p> <p><strong>Требования:</strong><br />- Опыт ручного тестирования от 3-х лет в компаниях заказной разработки на нескольких проектах одновременно<br />- Понимание клиент-серверного взаимодействия (HTTP, API, DevTools)<br />- Опыт работы с Postman / Swagger (проверка API)<br />- Знание SQL (простые запросы на выборку данных)<br />- Умение анализировать логи и ошибки в консоли<br />- Опыт тестирования верстки (Pixel Perfect, адаптивность)<br />- Знание принципов кроссбраузерности (Chrome, Firefox, Safari, Edge)<br />- Базовые знания Git, Jira, TestRail (или аналогов)<br />- Опыт менторства будет плюсом</p> <p><strong>Условия:</strong><br />- Работа в крутой IT компании<br />- Интересные проекты, современный стек технологий<br />- Возможность профессионального роста<br />- Команда опытных специалистов</p> <p>Если вам интересно работать с качеством, разбираться в сложных системах и помогать развиваться коллегам — присылайте резюме!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10274656",
+    "name": "Визардс",
+    "url": "https://api.hh.ru/employers/10274656",
+    "alternate_url": "https://hh.ru/employer/10274656",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1157510.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6250490.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6250491.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10274656",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-21T12:06:40+0300",
+  "created_at": "2025-05-21T12:06:40+0300",
+  "initial_created_at": "2025-05-21T12:06:40+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120811801",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120811801",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

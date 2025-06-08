@@ -1,0 +1,115 @@
+{
+  "id": "121014078",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Разработчик (Python / Go): сбор данных с маркетплейсов и онлайн-ритейл площадок",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Мы – команда 24TTL, IT-компании </strong>с международным присутствием и экспертизой в e-commerce. Мы создаем уникальные IT-продукты, которые помогают компаниям из списка Fortune 500 управлять контентом, анализировать цифровую полку и повышать продажи и эффективность в онлайн-ритейле. Среди наших клиентов – LG, Samsung, Panasonic, Philips, Nestlé, Lego, Сбер, Hansa, Sennheiser, Lenovo, Яндекс и другие.</p> <p><strong>Один из наших ключевых продуктов, 24ORM </strong>– сервис аналитики цифровой полки в онлайн-ритейле. Мы собираем данные с e-commerce площадок, обрабатываем их и визуализируем в удобных дашбордах, помогая крупным брендам принимать быстрые и точные решения.</p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li> <p>Разработка и поддержка программ для регулярного сбора данных с мобильных приложений и веб-сайтов онлайн-магазинов (на Python или Go);</p> </li> <li> <p>Анализ Android/iOS-приложений для определения логики работы и взаимодействия с backend-сервисами (включая неочевидные или неописанные API);</p> </li> <li> <p>Мониторинг и анализ сетевого взаимодействия между клиентом и сервером, включая декодирование запросов/ответов, работу с HTTPS-трафиком и мобильными протоколами;</p> </li> <li> <p>Разработка решений в условиях наличия защитных механизмов: CAPTCHA, rate-limiting, SSL pinning, Qrator, Cloudflare и др.;</p> </li> <li> <p>Эмуляция поведения пользователя (задержки, cookie, headers) с использованием прокси-серверов;</p> </li> <li> <p>Построение масштабируемых парсинг-пайплайнов для сбора, обновления и агрегации данных;</p> </li> <li> <p>Работа с API: авторизация, токены, cookies, protobuf/gRPC и другие форматы взаимодействия;</p> </li> <li> <p>Сохранение и обработка данных в структурированном виде (CSV, базы данных);</p> </li> <li> <p>Взаимодействие с аналитиками и backend-разработчиками для обеспечения полноты и точности данных.</p> </li> </ul> <p><strong>Мы ожидаем:</strong></p> <ul> <li> <p>Подтверждённый опыт разработки парсеров и сбора данных с e-commerce площадок — Wildberries, Ozon, СберМегаМаркет, Яндекс.Маркет. А также опыт работы с зарубежными площадками – Amazon и др.</p> </li> <li> <p>Опыт реверс-инжиниринга Android/iOS-приложений</p> </li> <li> <p>Уверенные навыки адаптации под системы защиты: Cloudflare, Qrator, CAPTCHA, rate-limit, SSL pinning, anti-bot механизмы;</p> </li> <li> <p>Умение выстраивать масштабируемые системы парсинга — ежедневный сбор больших объёмов данных (тысячи SKU, десятки площадок);</p> </li> <li> <p>Знание Python и/или Golang — один обязателен, второй будет плюсом;</p> </li> <li> <p>Опыт работы с API (REST, gRPC), форматами данных (JSON, protobuf, XML), авторизацией, токенами;</p> </li> <li> <p>Навыки обработки и хранения данных: PostgreSQL, NoSQL, желательно ClickHouse;</p> </li> <li> <p>Понимание основ backend-инфраструктуры: очереди (Kafka, RabbitMQ), логирование, мониторинг, CI/CD;</p> </li> <li> <p>Опыт с контейнеризацией и деплоем: Docker, Kubernetes — будет плюсом;<br />Ответственность, готовность к командной работе, быстрая адаптация к новым задачам.</p> </li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li> <p>Официальное оформление и прозрачные условия: трудоустройство по ТК РФ, полностью &quot;белая&quot; зарплата. Возможна частичная/проектная занятость.</p> </li> <li> <p>Мы работаем по стандартному графику 5/2 с 10:00 до 19:00. Полностью удаленный формат работы.</p> </li> <li> <p>У нас прозрачные и гибкие процессы: мы не работаем ради галочек и не теряем время на бюрократию. Мы работаем в динамичной среде, где можно увидеть реальные плоды своей работы и влиять на развитие компании. А еще – всегда готовы прислушиваться к твоим идеям.</p> </li> <li> <p>Мы общаемся на “ты”, и у нас нет дресс-кода.</p> </li> <li> <p>Разнообразные и интересные проекты в сфере e-commerce.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1609788",
+    "name": "24 ТТЛ",
+    "url": "https://api.hh.ru/employers/1609788",
+    "alternate_url": "https://hh.ru/employer/1609788",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1025414.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5722424.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5722425.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1609788",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-27T09:48:59+0300",
+  "created_at": "2025-05-27T09:48:59+0300",
+  "initial_created_at": "2025-05-27T09:48:59+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121014078",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121014078",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

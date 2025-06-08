@@ -1,0 +1,162 @@
+{
+  "id": "120576688",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Python - разработчик (Django/FastAPI)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "76",
+    "name": "Ростов-на-Дону",
+    "url": "https://api.hh.ru/areas/76"
+  },
+  "salary": {
+    "from": 100000,
+    "to": 180000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": 180000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Ростов-на-Дону",
+    "street": "Петровская улица",
+    "building": "90-92",
+    "lat": 47.223455,
+    "lng": 39.7365,
+    "description": null,
+    "raw": "Ростов-на-Дону, Петровская улица, 90-92",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Сфера компетенций НИИ &quot;Спецвузавтоматика&quot; включает в себя все аспекты работ в сферах безопасности и защиты информации, управления проектами и внедрения инновационных технологий.</p> <p>Под расширение мы в поиске <strong> Python-разработчика.</strong></p> <p><strong>Чем предстоит заниматься:</strong> разработкой веб-приложений в сочетании с дополнительными сервисами, обеспечивающими сбор данных, их обработку и хранение.</p> <div> <p><strong>Что мы от вас ожидаем</strong>:</p> <ul> <li>образование: незаконченное или законченное высшее техническое (IT/математика/информационная безопасность/физика и т.д.);</li> <li>уверенное знание языка программирования Python и его стандартные библиотеки;</li> <li>опыт разработки на фреймворке Django/FastAPI от 3-х лет;</li> <li>понимание основ работы с сетью (DNS, TCP/IP, HTTP/HTTPS, SSL);</li> <li>знание и умение применять на практике принципы: ООП, SOLID, DRY.</li> <li>умение работать с WebSockets;</li> <li>уверенное пользование ОС Linux;</li> <li>опыт проектирования БД;</li> <li>опыт работы с системой контроля версий GIT.</li> </ul> <p><strong>Преимуществом будет:</strong></p> <ul> <li>английский на уровне чтения технической документации;</li> <li>опыт асинхронного или многопоточного программирования;</li> <li>опыт работы с Docker и конфигурирования CI (GitLab);</li> <li>Опыт в области ML;</li> <li>опыт работы с системами виртуализации;</li> <li>опыт менторства.</li> </ul> </div> <p><strong>Что мы предлагаем:</strong></p> <ul> <li><strong>реальная бронь сотрудников от мобилизации</strong>;</li> <li>высокая степень свободы принятия технических решений;</li> <li> <p>политика «открытых дверей» руководства;</p> </li> <li> <p>работа в аккредитованной организации со всеми льготами, оформление по ТК РФ;</p> </li> <li> <p>рабочий день с 10 до 19, гибкое утро (комфортное время, чтобы добираться без пробок), удаленного формата работы нет;</p> </li> <li> <p>расположение офиса в центре города;</p> </li> <li> <p>комфортные условия: кухня-столовая, спортивные зоны, у партнеров летняя площадка на крыше с интересными мероприятиями;</p> </li> <li> <p>заработная плата: складывается из фиксированного оклада, ежемесячной надбавки за эффективность, квартальные премии, плюс 13я зарплата;</p> </li> <li> <p>непрерывное развитие и участие в исследовательской работе;</p> </li> <li> <p>активную программу адаптации, чтобы быстро включиться в рабочий процесс и познакомиться с коллективом;</p> </li> <li> <p>активное инвестирование в сотрудников: оплата обучения, курсов, конференций и т.п.;</p> </li> <li> <p>насыщенная корпоративная жизнь (корпоративы, внутренние мероприятия, праздники для сотрудников, внутренние турниры и конкурсы, подарки для сотрудников и их детей);</p> </li> <li> <p>психологическая и юридическая поддержка (штатный юрист и психолог).</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Django Framework"
+    },
+    {
+      "name": "FastAPI"
+    },
+    {
+      "name": "Scrum"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Git"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1565051",
+    "name": "ФГАНУ НИИ Спецвузавтоматика",
+    "url": "https://api.hh.ru/employers/1565051",
+    "alternate_url": "https://hh.ru/employer/1565051",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1402980.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7231592.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7231593.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1565051",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-15T11:10:02+0300",
+  "created_at": "2025-05-15T11:10:02+0300",
+  "initial_created_at": "2025-05-15T11:10:02+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120576688",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120576688",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

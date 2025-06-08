@@ -1,0 +1,175 @@
+{
+  "id": "121156547",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Python (Django) backend разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 120000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 120000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Большая Спасская улица",
+    "building": "19Ас1",
+    "lat": 55.775034,
+    "lng": 37.640713,
+    "description": null,
+    "raw": "Москва, Большая Спасская улица, 19Ас1",
+    "metro": {
+      "station_name": "Площадь трёх вокзалов",
+      "line_name": "МЦД-4",
+      "station_id": "136.890",
+      "line_id": "136",
+      "lat": 55.776667,
+      "lng": 37.651111
+    },
+    "metro_stations": [
+      {
+        "station_name": "Площадь трёх вокзалов",
+        "line_name": "МЦД-4",
+        "station_id": "136.890",
+        "line_id": "136",
+        "lat": 55.776667,
+        "lng": 37.651111
+      },
+      {
+        "station_name": "Проспект Мира",
+        "line_name": "Кольцевая",
+        "station_id": "5.119",
+        "line_id": "5",
+        "lat": 55.779584,
+        "lng": 37.633646
+      },
+      {
+        "station_name": "Сухаревская",
+        "line_name": "Калужско-Рижская",
+        "station_id": "6.137",
+        "line_id": "6",
+        "lat": 55.772315,
+        "lng": 37.63285
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>В динамично развивающуюся IT - компанию требуется программист - разработчик.</p> <p>Если готовы расти и развиваться вместе с нами, мы ждем Вас. Инициатива и нестандартный подход к решению задач приветствуются.</p> <p>Наши ценности - позитивное мышление, открытость, порядочность, ответственность за результат.</p> <p>Заработная плата - по результатам собеседования.</p> <p> </p> <p> </p> <p><strong>Требуемые навыки:</strong></p> <p>- Python3</p> <p>- Django (DRF, Django admin)</p> <p>- SQL (умение анализировать и оптимизировать запросы)</p> <p><strong>Плюсом будет:</strong></p> <p>- Опыт работы с Kafka, Redis</p> <p>- Знание ОС семейства Unix</p> <p><strong>Задачи:</strong></p> <p>- Разработка backend на фреймворке Django</p> <p>- Знание и умение писать скрипты на Python.</p> <p><strong>Условия:</strong></p> <p>- Место работы: город Москва, ст.м. Сухаревская/Проспект Мира. 5 мин от метро.</p> <p>- График: 5/2 с 9.00 до 18.00, 2 дня - в офисе (вторник, четверг), 3 дня - удаленно.</p> <p>- Испытательный срок 3 месяца</p> <p>- Стабильная заработная плата</p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5775510",
+    "name": "Gorodissky IP Security",
+    "url": "https://api.hh.ru/employers/5775510",
+    "alternate_url": "https://hh.ru/employer/5775510",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5775510",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-30T10:09:42+0300",
+  "created_at": "2025-05-30T10:09:42+0300",
+  "initial_created_at": "2025-05-30T10:09:42+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121156547",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121156547",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

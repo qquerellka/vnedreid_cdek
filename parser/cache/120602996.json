@@ -1,0 +1,170 @@
+{
+  "id": "120602996",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "QA Engineer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 120000,
+    "to": 160000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 120000,
+    "to": 160000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": false,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Компания Compo Soft специализируется на цифровой трансформации торговых и производственных компаний на базе собственных ИТ-решений: Разрабатываем веб-приложения для крупного бизнеса и производств на собственной платформе Compo B2B platform. Наши клиенты: Спортмастер, Coca-Cola, Восток-Запад, Зубр, DoDo пицца, Рехау, Мотордеталь, Фармаимпекс и другие.</p> <p>В штате 40+ ИТ специалистов. Основной офис в Москве, дополнительный офис в Нижнем Новгороде.</p> <p><strong>Мы работаем со стеком:</strong></p> <p>Java 17, Spring-boot 2.6, Elasticsearch 7.15, Postgresql, RabbitMq, Kafka, TypeScript 4, Angular 13, Maven, Node 16</p> <p> </p> <p><strong>Требования:</strong></p> <ul> <li> <p>Опыт работы от 2-х лет;</p> </li> <li> <p>Применение на практике техники тестирования. Знание правильной<br />очередности применения видов тестирования;</p> </li> <li> <p>Понимание ключевых аспектов цикла разработки ПО;</p> </li> <li> <p>Знание и умение по применению техник тест-дизайна: граничные значения,<br />классы эквивалентности, попарное тестирование, таблицы принятия решений, на основе состояний и переходов;</p> </li> <li> <p>Умение выставлять важность и приоритет поставленных задач. При<br />обнаружении дефекта понимать на чьей стороне он;</p> </li> <li> <p>Понимание принципа работы web-приложений, знание/понимание клиент-<br />серверной архитектуры;</p> </li> <li> <p>Понимание принципов работы протокола http;</p> </li> <li> <p>Навык работы с Devtools;</p> </li> <li> <p>Опыт работы с REST и SOAP API;</p> </li> <li> <p>Опыт работы с Postman, Fiddler, BrowserStack, SOAP UI;</p> </li> <li> <p>Опыт работы с баг-трекинговыми системами и тестменеджмент-системами (Jira, TFS, Test-It).</p> </li> </ul> <p> </p> <p><strong>Преимуществом будет</strong><strong>:</strong></p> <ul> <li> <p>Навыки автоматизации (web + api), опыт создания систем автотестирования</p> </li> <li> <p>Знание процедурных расширений SQL (Transact-SQL)</p> </li> <li> <p>Представление о работе Elasticsearch, Kibana</p> </li> <li> <p>Понимание уязвимостей OWASP Top 10</p> </li> </ul> <p> </p> <p><strong>Общие условия</strong></p> <ul> <li>Зарплата от 120 000 рублей с возможностью роста до позиции ведущего (зарплата от 160 000 рублей);</li> <li>Оформление по ТК;</li> <li>Отпуск: 2 раза в год по 2 недели;</li> <li>Рабочий день: 9 часов (1 час на обед), с Пн-Пт;</li> <li>Можно работать полностью удаленно.</li> <li>Центральный офис: Москва, филиал: Нижний Новгород.</li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Test case"
+    },
+    {
+      "name": "Составление баг-репортов"
+    },
+    {
+      "name": "Составление тест-кейсов"
+    },
+    {
+      "name": "Ручное тестирование"
+    },
+    {
+      "name": "Кроссплатформенное тестирование"
+    },
+    {
+      "name": "Java"
+    },
+    {
+      "name": "Анализ требований"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Тестирование"
+    },
+    {
+      "name": "Тестирование API"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "REST API"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3041907",
+    "name": "Compo",
+    "url": "https://api.hh.ru/employers/3041907",
+    "alternate_url": "https://hh.ru/employer/3041907",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1118923.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6096285.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6096286.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3041907",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T17:34:02+0300",
+  "created_at": "2025-06-05T17:34:02+0300",
+  "initial_created_at": "2025-05-15T17:34:02+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120602996",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120602996",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,130 @@
+{
+  "id": "121204081",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор Windows",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 250000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 250000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<div>Ищем системного администратора в Точку. Мы — финтех-компания, создаём онлайн-банк и другие сервисы для предпринимателей и предприятий. Ими пользуются более 700 000 клиентов, а создают больше 4 500 сотрудников в России и за границей.</div> <div> </div> <div><strong>О команде</strong></div> <div>Ищем специалиста в команду «Инфраструктура для разработчиков». Ты будешь создавать и поддерживать для Точки современные серверные платформы: физическую и виртуальную. Всё это нужно для масштабирования бизнеса и отказоустойчивости сервисов внутренним и внешним клиентам. Ищем коллегу, который готов взять на себя системное администрирование.</div> <div> </div> <div><strong>Что делать</strong></div> <ul> <li>Настраивать, обслуживать и обеспечивать бесперебойную работу серверов на базе Windows.</li> <li>Сопровождать инфраструктурные сервисы: Active Directory, RDS, Exchange, CA, MSSQL, DFS, ADFS..</li> <li>Следить за состоянием серверов и работы сервисов.</li> <li>Автоматизировать инфраструктуру.</li> </ul> <div><strong>Ты подойдешь, если</strong></div> <ul> <li>Есть опыт администрирования Windows от 3 лет.</li> <li>Знаешь, что такое микросервисная модель.</li> <li>Есть опыт администрирования прикладных сервисов.</li> <li>Умеешь работать с Ansible, Packer, Terraform.</li> <li>Используешь для мониторинга Telegraf, Prometheus, Grafana, Zabbix.</li> <li>Пишешь грамотную и читаемую документацию.</li> <li>Понимаешь, зачем делать бэкапы.</li> <li>Имеешь представление о серверном железе.</li> <li>Работаешь с Linux.</li> <li>Понимаешь плюсы и минусы виртуализации на любой платформе.</li> <li>Умеешь писать PowerShell-скрипты.</li> <li>Знание английского языка будет преимуществом.</li> </ul> <div> </div> <div><strong>Что ждёт тебя в Точке</strong></div> <ul> <li>Официальная зарплата от 250 000 ₽. Точная сумма зависит от твоих навыков и ожиданий — обсудим их на собеседовании. Это сумма до вычета налогов. Помни, что с 2025 года ставка НДФЛ меняется в зависимости от суммарного дохода за год.</li> <li>Пятидневная рабочая неделя с гибким началом и окончанием дня.</li> <li>Гибридный формат работы: часть недели лучше быть в офисе в Екатеринбурге, в остальные дни можно работать удалённо. Наши офисы — это продуманные опенспейсы, где есть индивидуальные места для работы, зоны отдыха и кухни с кофе и перекусами.</li> <li>Курсы за счёт компании, своя библиотека и платформа с онлайн-обучением. Есть как собственные программы, так и партнёрские.</li> <li>Возможность работать по-своему. Никто не будет навязывать свои методы, трекать время и контролировать каждое действие. Делаем так, чтобы каждый был услышан и мог влиять.</li> <li>Комфорт не только в работе, но и в жизни. После испытательного срока: ДМС со стоматологией, регулярные проверки здоровья и 4 дополнительных выходных в год.</li> <li>Онлайн-кабинет сотрудника, где ты можешь заказать справку, поставить отпуск или отгул, заказать технику или посмотреть выплаты.</li> <li>Активная корпоративная жизнь: устраиваем кинопоказы, спортивные марафоны и корпоративы, которые потом ещё долго вспоминают.</li> </ul> <div> </div>",
+  "branded_description": "\n<style>\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;    \n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-weight: normal;\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n.tmpl_hh_content div b,\n.tmpl_hh_content div strong,\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    display: inline;\n    margin: 0;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    overflow: hidden;\n    font-family: 'Verdana';\n    font-weight: 400;\n    font-size: 14px;\n    line-height: 20px;\n    color: #191919;\n    z-index: 1;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_content {\n    padding: 32px 55px 14px;\n    position: relative;\n    z-index: 1;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong,\n.tmpl_hh_content div\n{\n   margin: 32px 0 16px;\n}\n.tmpl_hh_content em strong,\n.tmpl_hh_content strong em,\n.tmpl_hh_content i strong,\n.tmpl_hh_content strong i,\n.tmpl_hh_content em b,\n.tmpl_hh_content b em,\n.tmpl_hh_content i b,\n.tmpl_hh_content b i {\n    font-size: 14px;\n    font-weight: bold;\n    font-style: normal;\n    text-transform: capitalize;\n    line-height: normal;\n}\n.tmpl_hh_content b, \n.tmpl_hh_content strong {\n    display: inline-block;\n    font-weight: 700;\n    font-size: 24px;\n    line-height: 32px;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 16px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 16px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 16px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;    \n}\n\n.tmpl_hh_content li:before {\n    position: absolute;\n    left: -16px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"\";\n    width: 8px;\n    height: 1.5px;\n    top: 10px;\n    background: #191919;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter)'.';\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n\n.tmpl_hh_flex {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n}\n\n.tmpl_hh_logo {\n    width: 116px;\n    padding: 41px 0 32px 55px;\n}\n\n.tmpl_hh_header {\n    background: #7F42E1 url(https://hhcdn.ru/ichameleon/257828.svg) no-repeat;\n    border-radius: 32px;\n    margin: 0 55px;\n    font-size: 16px;\n    line-height: 24px;\n    color: #FFFFFF;\n    padding: 41px 20% 58px 41px;\n    background-position: 90% -56%;\n    background-size: 38%;\n}\n\np.tmpl_hh_header__title {\n    font-weight: 700;\n    font-size: 32px;\n    line-height: 39px;\n    margin-bottom: 16px;\n}\n\np.tmpl_hh_header__text {\n    max-width: 78%;\n}\n\n.tmpl_hh_items {\n    margin: 0 55px 40px;\n}\n\n.tmpl_hh_item {\n    background: #F6F6F6;\n    border-radius: 16px;\n    position: relative;\n    padding: 32px 30px 31px 96px;\n    margin-bottom: 16px;\n    font-size: 14px;\n    line-height: 20px;\n    color: #6E6E6E;\n}\n\n.tmpl_hh_item__icon {\n    position: absolute;\n    top: 32px;\n    left: 32px;\n}\n\np.tmpl_hh_item__title {\n    font-weight: 700;\n    font-size: 16px;\n    line-height: 32px;\n    margin-bottom: 17px;\n    color: #191919;\n}\n\n\n\n@media screen and (max-width: 1019px) {\n    .tmpl_hh_header {\n        background-position: 90% 364%;\n    }\n}\n\n@media screen and (max-width: 699px) {\n\n    .tmpl_hh_content {\n        padding: 32px 10px 16px;\n    }\n\n    .tmpl_hh_content p,\n    .tmpl_hh_content b,\n    .tmpl_hh_content strong {\n       margin: 30px 0 15px;\n    }\n\n    .tmpl_hh_content b, \n    .tmpl_hh_content strong {\n        font-size: 18px;\n        line-height: 22px;\n    }\n\n    .tmpl_hh_content ul ul,\n    .tmpl_hh_content ul ol,\n    .tmpl_hh_content ol ol,\n    .tmpl_hh_content ol ul {\n        margin-top: 10px;\n    }\n\n    .tmpl_hh_content li {\n        margin-bottom: 10px;\n    }\n\n    .tmpl_hh_logo {\n        width: 79px;\n        padding: 41px 0 20px 10px;\n    }\n\n    p.tmpl_hh_header__title {\n        font-size: 18px;\n        line-height: 22px;\n        margin-bottom: 21px;\n        max-width: 205px;\n}\n\n    p.tmpl_hh_header__text {\n        max-width: 205px;\n    }\n\n    .tmpl_hh_items {\n        margin: 0 10px 0px;\n    }\n\n    .tmpl_hh_item {\n        border-radius: 16px;\n        padding: 67px 16px 19px 16px;\n        margin-bottom: 16px;\n        font-size: 14px;\n        line-height: 20px;\n    }\n\n    .tmpl_hh_item__icon {\n        top: 20px;\n        left: 15px;\n    }\n\n    p.tmpl_hh_item__title {\n        margin-bottom: 11px;\n    }\n\n    .tmpl_hh_header {\n        background-position: calc(100% - 4px) 100%;\n        margin: 0 10px;\n        border-radius: 16px;\n        padding: 15px 0 54px 15px;\n        font-size: 14px;\n        line-height: 18px;\n        background-size: 109px;\n    }\n\n    p.tmpl_hh_item__title {\n        font-size: 16px;\n        line-height: 19px;\n        margin-bottom: 11px;\n    }\n}\n</style>\n\n<div class=\"tmpl_hh_wrapper\">\n    <div class=\"tmpl_hh_logo\"><img src=\"https://hhcdn.ru/ichameleon/257827.svg\" alt=\"\"></div>\n    <div class=\"tmpl_hh_header\">\n        <p class=\"tmpl_hh_header__title\">Финтех-компания, которая не стала скучной</p>\n        <p class=\"tmpl_hh_header__text\">Без бюрократии, дресс-кода, потолка в развитии и зарплате.</p>\n    </div>\n    <div class=\"tmpl_hh_content\">\n        <div>Ищем системного администратора в Точку. Мы — финтех-компания, создаём онлайн-банк и другие сервисы для предпринимателей и предприятий. Ими пользуются более 700 000 клиентов, а создают больше 4 500 сотрудников в России и за границей.</div> <div> </div> <div><strong>О команде</strong></div> <div>Ищем специалиста в команду «Инфраструктура для разработчиков». Ты будешь создавать и поддерживать для Точки современные серверные платформы: физическую и виртуальную. Всё это нужно для масштабирования бизнеса и отказоустойчивости сервисов внутренним и внешним клиентам. Ищем коллегу, который готов взять на себя системное администрирование.</div> <div> </div> <div><strong>Что делать</strong></div> <ul> <li>Настраивать, обслуживать и обеспечивать бесперебойную работу серверов на базе Windows.</li> <li>Сопровождать инфраструктурные сервисы: Active Directory, RDS, Exchange, CA, MSSQL, DFS, ADFS..</li> <li>Следить за состоянием серверов и работы сервисов.</li> <li>Автоматизировать инфраструктуру.</li> </ul> <div><strong>Ты подойдешь, если</strong></div> <ul> <li>Есть опыт администрирования Windows от 3 лет.</li> <li>Знаешь, что такое микросервисная модель.</li> <li>Есть опыт администрирования прикладных сервисов.</li> <li>Умеешь работать с Ansible, Packer, Terraform.</li> <li>Используешь для мониторинга Telegraf, Prometheus, Grafana, Zabbix.</li> <li>Пишешь грамотную и читаемую документацию.</li> <li>Понимаешь, зачем делать бэкапы.</li> <li>Имеешь представление о серверном железе.</li> <li>Работаешь с Linux.</li> <li>Понимаешь плюсы и минусы виртуализации на любой платформе.</li> <li>Умеешь писать PowerShell-скрипты.</li> <li>Знание английского языка будет преимуществом.</li> </ul> <div> </div> <div><strong>Что ждёт тебя в Точке</strong></div> <ul> <li>Официальная зарплата от 250 000 ₽. Точная сумма зависит от твоих навыков и ожиданий — обсудим их на собеседовании. Это сумма до вычета налогов. Помни, что с 2025 года ставка НДФЛ меняется в зависимости от суммарного дохода за год.</li> <li>Пятидневная рабочая неделя с гибким началом и окончанием дня.</li> <li>Гибридный формат работы: часть недели лучше быть в офисе в Екатеринбурге, в остальные дни можно работать удалённо. Наши офисы — это продуманные опенспейсы, где есть индивидуальные места для работы, зоны отдыха и кухни с кофе и перекусами.</li> <li>Курсы за счёт компании, своя библиотека и платформа с онлайн-обучением. Есть как собственные программы, так и партнёрские.</li> <li>Возможность работать по-своему. Никто не будет навязывать свои методы, трекать время и контролировать каждое действие. Делаем так, чтобы каждый был услышан и мог влиять.</li> <li>Комфорт не только в работе, но и в жизни. После испытательного срока: ДМС со стоматологией, регулярные проверки здоровья и 4 дополнительных выходных в год.</li> <li>Онлайн-кабинет сотрудника, где ты можешь заказать справку, поставить отпуск или отгул, заказать технику или посмотреть выплаты.</li> <li>Активная корпоративная жизнь: устраиваем кинопоказы, спортивные марафоны и корпоративы, которые потом ещё долго вспоминают.</li> </ul> <div> </div><p><b>Что у нас необычного</b></p>\n    </div>\n    <div class=\"tmpl_hh_items\">\n        <div class=\"tmpl_hh_item\">\n            <div class=\"tmpl_hh_item__icon\"><img src=\"https://hhcdn.ru/ichameleon/257826.svg\" alt=\"\"></div>\n            <p class=\"tmpl_hh_item__title\">Лидеры и наставники вместо начальников</p>\n            <p>Никто не будет контролировать твой рабочий день, следить за каждым действием и говорить, как конкретно идти к цели. Лидер всегда готов поддержать и помочь — только скажи.</p>\n        </div>\n        <div class=\"tmpl_hh_item\">\n            <div class=\"tmpl_hh_item__icon\"><img src=\"https://hhcdn.ru/ichameleon/257825.svg\" alt=\"\"></div>\n            <p class=\"tmpl_hh_item__title\">Принимаем решения и предлагаем идеи</p>\n            <p>Ты сможешь принимать решения в рамках своей зоны ответственности без согласований «сверху». И предлагать идеи о том, как улучшить продукт или процессы внутри Точки — их обязательно учтут.</p>\n        </div>\n        <div class=\"tmpl_hh_item\">\n            <div class=\"tmpl_hh_item__icon\"><img src=\"https://hhcdn.ru/ichameleon/257824.svg\" alt=\"\"></div>\n            <p class=\"tmpl_hh_item__title\">Полностью открытая компания</p>\n            <p>Все встречи, бизнес-планы, стратегия — открытые. Любое решение можно оспорить и предложить своё. Можно влиять на постановку целей, к которым идет команда.</p>\n        </div>\n        <div class=\"tmpl_hh_item\">\n            <div class=\"tmpl_hh_item__icon\"><img src=\"https://hhcdn.ru/ichameleon/257823.svg\" alt=\"\"></div>\n            <p class=\"tmpl_hh_item__title\">Свобода от рамок</p>\n            <p>В Точке ни у кого нет своего кабинета. Все равны и не называют друг друга по имени-отчеству. А если кто-то пришёл в пиджаке или костюме панды, значит, ему так в кайф.</p>\n        </div>\n    </div>\n</div> \n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2324020",
+    "name": "Точка",
+    "url": "https://api.hh.ru/employers/2324020",
+    "alternate_url": "https://hh.ru/employer/2324020",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/743443.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/3414733.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3414734.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2324020",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T09:16:40+0300",
+  "created_at": "2025-06-02T09:16:40+0300",
+  "initial_created_at": "2025-06-02T09:16:40+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121204081",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121204081",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

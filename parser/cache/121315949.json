@@ -1,0 +1,144 @@
+{
+  "id": "121315949",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Старший категорийный менеджер СТМ",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Ташкент",
+    "street": "улица Кичик Бешагач",
+    "building": "132А",
+    "lat": 41.278482,
+    "lng": 69.271562,
+    "description": null,
+    "raw": "Ташкент, улица Кичик Бешагач, 132А",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": {
+    "id": "9173883-9173883-office",
+    "name": "UZUM TECHNOLOGIES. Офис и коммерция "
+  },
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<strong>Твои задачи:</strong> <ul> <li> Управление портфелем категорий СТМ (FMCG/NON FOOD) — в зависимости от направления);</li> <li>Анализ рынка, конкурентов и потребительского спроса, определение ниш для СТМ;</li> <li>Полный цикл запуска продукта под СТМ: от идеи, разработки ТЗ и дизайна до выхода на платформу;</li> <li>Взаимодействие с производителями, контроль сроков, себестоимости и качества;</li> <li>Совместная работа с командой закупок, логистики, качества и маркетинга;</li> <li>Работа с ассортиментной матрицей: планирование, обновление, вывод нерентабельных SKU;</li> <li>Мониторинг продаж, аналитика эффективности SKU, управление жизненным циклом продукта;</li> <li> Подготовка и защита бизнес-кейсов по новым линейкам.</li> </ul> <strong>Ожидаем от тебя:</strong> <ul> <li>Опыт в категорийном менеджменте от 5 лет, из них минимум 2 года с СТМ;</li> <li>Опыт запуска товаров с нуля, желательно — на стороне ритейла, дистрибуции или маркетплейса;</li> <li> Глубокое понимание процессов: продукт, логистика, упаковка, сертификация;</li> <li>Владение Excel, понимание unit-экономики, знание ключевых метрик: GM, ROI, ABC/XYZ;</li> <li>Опыт в e-commerce или на маркетплейсе — большой плюс;</li> <li>Высокая самостоятельность и системность, умение работать в условиях роста и изменений.</li> </ul> <strong>Условия:</strong> <ul> <li> Возможность влиять на стратегию развития СТМ в самом масштабном проекте страны;</li> <li>Официальное трудоустройство по ТК Уз с первого дня;</li> <li>Конкурентная заработная плата, релокационный пакет;</li> <li>Отсутствие дресс-кода и бюрократии;</li> <li>Культура, где можно расти, развиваться;</li> <li>Формат работы full time в комфортном офисе в Ташкенте.</li> </ul>",
+  "branded_description": " \n<style>\n    @import url(\"https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700,900\");\n    \n    .tmpl-hh__wrapper {\n      font-family: \"Montserrat\", sans-serif;\n      color: #000000;\n      font-weight: 400;\n      font-size: 15px;\n      line-height: 1.3;\n      position: relative;\n      overflow: hidden;\n      margin: -20px 0 -40px -40px;\n      width: calc(100% + 80px);\n    }\n    \n    .tmpl-hh__wrapper img,\n    .tmpl-hh__wrapper svg {\n      max-width: 100%;\n      max-height: 100%;\n      vertical-align: middle;\n    }\n    \n    .tmpl-hh__wrapper a {\n      text-decoration: none;\n    }\n    \n    .tmpl-hh__wrapper * {\n      box-sizing: border-box;\n    }\n    \n    .tmpl-hh__wrapper .b-vacancy-desc {\n      padding: 0 !important;\n    }\n    \n    .tmpl-hh__container {\n      padding: 0 32px;\n      margin: 0 auto;\n      width: 100%;\n    }\n    \n    .tmpl-hh__section {\n      position: relative;\n      z-index: 1;\n    }\n    \n    .tmpl-hh__section--short,\n    .tmpl-hh__section--short-pt {\n      padding-top: 5.8%;\n    }\n    \n    .tmpl-hh__section--short,\n    .tmpl-hh__section--short-pb {\n      padding-bottom: 5.8%;\n    }\n    \n    .tmpl-hh__s-content {\n      padding-top: 20px;\n    }\n    \n    .tmpl-hh__s-content__wrapper {\n      background: #F7F7F7;\n      padding: 25px 0;\n      border-radius: 32px;\n    }\n    \n    .tmpl-hh__s-content__text ul,\n    .tmpl-hh__s-content__text ol {\n      margin: 0;\n      padding: 0;\n      padding-left: 0;\n      list-style: none;\n    }\n    \n    .tmpl-hh__s-content__text ul li,\n    .tmpl-hh__s-content__text ol li {\n      position: relative;\n    }\n    \n    .tmpl-hh__s-content__text ul li::before,\n    .tmpl-hh__s-content__text ol li::before {\n      position: absolute;\n      left: -1.55em;\n      top: 0;\n      display: inline-block;\n    }\n    \n    .tmpl-hh__s-content__text ul li + li,\n    .tmpl-hh__s-content__text ol li + li {\n      margin-top: 0.8em;\n    }\n    \n    .tmpl-hh__s-content__text ul li p,\n    .tmpl-hh__s-content__text ul li b,\n    .tmpl-hh__s-content__text ul li strong,\n    .tmpl-hh__s-content__text ol li p,\n    .tmpl-hh__s-content__text ol li b,\n    .tmpl-hh__s-content__text ol li strong {\n      margin: 0 !important;\n    }\n    \n    .tmpl-hh__s-content__text ul + p,\n    .tmpl-hh__s-content__text ul + strong,\n    .tmpl-hh__s-content__text ul + b,\n    .tmpl-hh__s-content__text ol + p,\n    .tmpl-hh__s-content__text ol + strong,\n    .tmpl-hh__s-content__text ol + b {\n      margin-top: 1.3em;\n    }\n    \n    .tmpl-hh__s-content__text ul li {\n      position: relative;\n    }\n    \n    .tmpl-hh__s-content__text ul li::before {\n      left: -.8em;\n      top: 0.55em;\n      width: 0.2em;\n      height: 0.2em;\n      background: #000000;\n      border-radius: 100%;\n      content: \"\";\n      display: inline-block;\n      position: absolute;\n    }\n    \n    .tmpl-hh__s-content__text ol li {\n      counter-increment: li;\n    }\n    \n    .tmpl-hh__s-content__text ol li::before {\n      content: counter(li) \".\";\n    }\n    \n    .tmpl-hh__s-content__text p,\n    .tmpl-hh__s-content__text ul,\n    .tmpl-hh__s-content__text ol {\n      margin-bottom: 0.7em;\n      margin-top: 0;\n    }\n    \n    .tmpl-hh__s-content__text strong + ul,\n    .tmpl-hh__s-content__text strong + ol,\n    .tmpl-hh__s-content__text b + ul,\n    .tmpl-hh__s-content__text b + ol {\n      margin-top: 1.3em;\n    }\n    \n    .tmpl-hh__s-content__text ul + b,\n    .tmpl-hh__s-content__text ul + strong,\n    .tmpl-hh__s-content__text ol + b,\n    .tmpl-hh__s-content__text ol + strong {\n      margin-top: 1.6em;\n    }\n    \n    .tmpl-hh__s-content__text b,\n    .tmpl-hh__s-content__text strong {\n      display: inline-block;\n      color: #000000;\n      font-size: 24px;\n      line-height: 100%;\n      margin-top: 1.6em;\n    }\n    \n    .tmpl-hh__s-content__text b:first-child,\n    .tmpl-hh__s-content__text strong:first-child {\n      margin-top: 0 !important;\n    }\n    \n    .tmpl-hh__fs {\n      background: url(https://img.hhcdn.ru/ichameleon/437217.jpg) no-repeat top center;\n      background-size: cover;\n      border-radius: 32px;\n      margin-top: 12px;\n      padding: 40px 32px;\n      position: relative;\n      height: 336px;\n    }\n    \n    .tmpl-hh__fs__title {\n      font-size: 32px;\n      line-height: 120%;\n      font-weight: 700;\n      letter-spacing: -.4px;\n      color: #fff;\n    }\n    \n    .tmpl-hh__fs__social {\n      margin-top: 100px;\n      display: none;\n      gap: 10px;\n    }\n    \n    .tmpl-hh__fs__img {\n      position: absolute;\n      height: 77%;\n      right: 20px;\n      bottom: 0;\n    }\n    \n    .tmpl-hh__about {\n      padding-top: 10px;\n    }\n    \n    .tmpl-hh__about__wrapper {\n      background: url(https://img.hhcdn.ru/ichameleon/437215.jpg) no-repeat top center;\n      background-size: cover;\n      padding: 25px 0;\n      border-radius: 32px;\n    }\n    \n    .tmpl-hh__about__inner {\n      display: flex;\n      justify-content: space-between;\n      flex-wrap: wrap;\n      align-items: center;\n    }\n    \n    .tmpl-hh__about__logo {\n      width: 20%;\n    }\n    \n    .tmpl-hh__about__text {\n      width: 75%;\n      font-size: 18px;\n      line-height: 140%;\n      color: #fff;\n      font-weight: 500;\n    }\n    \n    .tmpl-hh__descr {\n      padding-top: 10px;\n    }\n    \n    .tmpl-hh__descr__wrapper {\n      background: url(https://img.hhcdn.ru/ichameleon/437216.jpg) no-repeat top center;\n      background-size: cover;\n      padding: 30px 0;\n      border-radius: 32px;\n    }\n    \n    .tmpl-hh__descr__text {\n      font-size: 18px;\n      line-height: 140%;\n      font-weight: 500;\n      color: #fff;\n    }\n    \n    .tmpl-hh__descr__text p + p {\n      margin-top: 14px;\n    }\n    \n    .tmpl-hh__offer {\n      padding-top: 20px;\n    }\n    \n    .tmpl-hh__offer__inner {\n      display: flex;\n      flex-wrap: wrap;\n      justify-content: space-between;\n      align-items: flex-start;\n      gap: 15px 0;\n    }\n    \n    .tmpl-hh__offer__card {\n      width: 49%;\n      padding: 25px 20px;\n      border-radius: 24px;\n    }\n    \n    .tmpl-hh__offer__card:nth-child(1) {\n      background: #FFFFDE;\n    }\n    \n    .tmpl-hh__offer__card:nth-child(2) {\n      background: #EAFFDD;\n    }\n    \n    .tmpl-hh__offer__card:nth-child(3) {\n      background: #EBFAFF;\n      margin-top: -40px;\n    }\n    \n    .tmpl-hh__offer__card:nth-child(4) {\n      background: #FFEEEA;\n      padding: 30px 20px;\n    }\n    \n    .tmpl-hh__offer__card-title {\n      font-size: 20px;\n      line-height: 120%;\n      font-weight: 500;\n    }\n    \n    .tmpl-hh__offer__card-text {\n      font-size: 14px;\n      line-height: 120%;\n      margin-top: 20px;\n    }\n    \n    .tmpl-hh__footer {\n      padding: 20px 0 12px;\n    }\n    \n    .tmpl-hh__footer__wrapper {\n      background: url(https://img.hhcdn.ru/ichameleon/437219.jpg) no-repeat top center;\n      background-size: cover;\n      border-radius: 32px;\n      padding: 40px;\n      cursor: pointer;\n    }\n    \n    .tmpl-hh__footer__text {\n      text-align: center;\n      font-size: 26px;\n      line-height: 120%;\n      font-weight: 700;\n      color: #fff;\n    }\n    \n    @media (max-width: 1019px) {\n      .tmpl-hh__fs {\n        padding: 40px 32px;\n      }\n    \n      .tmpl-hh__fs__title {\n        font-size: 22px;\n      }\n    \n      .tmpl-hh__about__text br {\n        display: none;\n      }\n    \n      .tmpl-hh__offer__card:nth-child(3) {\n        margin-top: -15px;\n      }\n    }\n    \n    @media (max-width: 699px) {\n      .tmpl-hh__wrapper {\n        width: calc(100% + 30px);\n        margin: 0 -15px;\n      }\n    \n      .tmpl-hh__container {\n        padding: 0 15px;\n      }\n    \n      .tmpl-hh__fs {\n        padding: 30px 20px;\n        height: 300px;\n      }\n    \n      .tmpl-hh__fs__title {\n        font-size: 22px;\n      }\n    \n      .tmpl-hh__fs__logo {\n        margin-top: 60px;\n        width: 100px;\n      }\n    }\n    \n    @media (max-width: 529px) {\n      .tmpl-hh__wrapper {\n        font-size: 14px;\n      }\n    \n      .tmpl-hh__s-content ul,\n      .tmpl-hh__s-content ol {\n        padding-left: 1em;\n      }\n    \n      .tmpl-hh__s-content ul + p,\n      .tmpl-hh__s-content ul + strong,\n      .tmpl-hh__s-content ul + b,\n      .tmpl-hh__s-content ol + p,\n      .tmpl-hh__s-content ol + strong,\n      .tmpl-hh__s-content ol + b {\n        margin-top: 1.5em;\n      }\n    \n      .tmpl-hh__s-content ul li + li,\n      .tmpl-hh__s-content ol li + li {\n        margin-top: 0.6em;\n      }\n    \n      .tmpl-hh__s-content strong + ul,\n      .tmpl-hh__s-content strong + ol,\n      .tmpl-hh__s-content b + ul,\n      .tmpl-hh__s-content b + ol {\n        margin-top: 0.8em;\n      }\n    \n      .tmpl-hh__s-content b,\n      .tmpl-hh__s-content strong {\n        font-size: 18px;\n      }\n    \n      .tmpl-hh__fs {\n        padding: 20px 15px;\n        border-radius: 15px;\n        height: 200px;\n      }\n    \n      .tmpl-hh__fs__title {\n        font-size: 18px;\n      }\n    \n      .tmpl-hh__fs__logo {\n        margin-top: 60px;\n        width: 88px;\n      }\n    \n      .tmpl-hh__descr {\n        padding-top: 10px;\n      }\n    \n      .tmpl-hh__descr__wrapper {\n        padding: 20px 0;\n        border-radius: 15px;\n      }\n    \n      .tmpl-hh__descr__text {\n        font-size: 12px;\n      }\n    \n      .tmpl-hh__descr__text p + p {\n        margin-top: 10px;\n      }\n    \n      .tmpl-hh__about__wrapper {\n        padding: 20px 0;\n        border-radius: 16px;\n      }\n    \n      .tmpl-hh__about__text {\n        width: 75%;\n        font-size: 12px;\n      }\n    \n      .tmpl-hh__offer__inner {\n        gap: 7px 0;\n      }\n    \n      .tmpl-hh__offer__card {\n        width: 100%;\n        padding: 25px 20px;\n      }\n    \n      .tmpl-hh__offer__card br {\n        display: none;\n      }\n    \n      .tmpl-hh__offer__card:nth-child(3) {\n        margin-top: 0px;\n      }\n    \n      .tmpl-hh__offer__card:nth-child(4) {\n        background: #FFEEEA;\n        padding: 25px 20px;\n      }\n    \n      .tmpl-hh__offer__card-title {\n        font-size: 18px;\n      }\n    \n      .tmpl-hh__offer__card-text {\n        font-size: 12px;\n        margin-top: 10px;\n      }\n    \n      .tmpl-hh__footer {\n        padding-top: 10px;\n      }\n    \n      .tmpl-hh__footer__wrapper {\n        border-radius: 16px;\n        padding: 30px;\n      }\n    \n      .tmpl-hh__footer__text {\n        font-size: 18px;\n      }\n    }\n    \n    @media (max-width: 380px) {\n      .tmpl-hh__fs {\n        padding: 20px 15px;\n      }\n    \n      .tmpl-hh__fs__title {\n        font-size: 14px;\n      }\n    \n      .tmpl-hh__fs__logo {\n        margin-top: 50px;\n        width: 80px;\n      }\n    }\n</style>\n<div class=\"tmpl-hh__wrapper\">\n    <!-- START FS -->\n    <div class=\"tmpl-hh__section tmpl-hh__fs\">\n        <div class=\"tmpl-hh__fs__inner\">\n            <div class=\"tmpl-hh__fs__title\">Мы создаем крупнейший\n                <br>маркетплейс\n                <br>в стране</div>\n            <div class=\"tmpl-hh__fs__social\">\n                <a class=\"tmpl-hh__fs__social-item\" href=\"https://www.instagram.com/uzum.market\" target=\"_blank\">\n                    <svg width=\"30\" height=\"30\" viewbox=\"0 0 30 30\" fill=\"none\">\n                        <path d=\"M8.74756 0C3.92381 0 0 3.92744 0 8.75244V21.2524C0 26.0762 3.92744 30 8.75244 30H21.2524C26.0762 30 30 26.0726 30 21.2476V8.74756C30 3.92381 26.0726 0 21.2476 0H8.74756ZM23.75 5C24.44 5 25 5.56 25 6.25C25 6.94 24.44 7.5 23.75 7.5C23.06 7.5 22.5 6.94 22.5 6.25C22.5 5.56 23.06 5 23.75 5ZM15 7.5C19.1363 7.5 22.5 10.8637 22.5 15C22.5 19.1363 19.1363 22.5 15 22.5C10.8637 22.5 7.5 19.1363 7.5 15C7.5 10.8637 10.8637 7.5 15 7.5ZM15 10C13.6739 10 12.4021 10.5268 11.4645 11.4645C10.5268 12.4021 10 13.6739 10 15C10 16.3261 10.5268 17.5979 11.4645 18.5355C12.4021 19.4732 13.6739 20 15 20C16.3261 20 17.5979 19.4732 18.5355 18.5355C19.4732 17.5979 20 16.3261 20 15C20 13.6739 19.4732 12.4021 18.5355 11.4645C17.5979 10.5268 16.3261 10 15 10Z\" fill=\"white\" style=\"fill:white;fill-opacity:1;\"></path>\n                    </svg>\n                </a>\n                <a class=\"tmpl-hh__fs__social-item\" href=\"https://www.linkedin.com/company/88164715/\" target=\"_blank\">\n                    <svg width=\"30\" height=\"30\" viewbox=\"0 0 30 30\" fill=\"none\">\n                        <path d=\"M27.2727 0H2.72727C1.22045 0 0 1.22045 0 2.72727V27.2727C0 28.7795 1.22045 30 2.72727 30H27.2727C28.7795 30 30 28.7795 30 27.2727V2.72727C30 1.22045 28.7795 0 27.2727 0ZM9.48273 24.5455H5.46V11.6018H9.48273V24.5455ZM7.43046 9.75136C6.13364 9.75136 5.085 8.7 5.085 7.40591C5.085 6.11182 6.135 5.06182 7.43046 5.06182C8.72318 5.06182 9.77455 6.11318 9.77455 7.40591C9.77455 8.7 8.72318 9.75136 7.43046 9.75136ZM24.5509 24.5455H20.5309V18.2509C20.5309 16.7495 20.5036 14.8186 18.4405 14.8186C16.3473 14.8186 16.0255 16.4536 16.0255 18.1418V24.5455H12.0055V11.6018H15.8645V13.3705H15.9191C16.4564 12.3532 17.7682 11.28 19.725 11.28C23.7982 11.28 24.5509 13.9609 24.5509 17.4464V24.5455Z\" fill=\"white\" style=\"fill:white;fill-opacity:1;\"></path>\n                    </svg>\n                </a>\n                <a class=\"tmpl-hh__fs__social-item\" href=\"https://t.me/uzum_market\" target=\"_blank\">\n                    <svg width=\"30\" height=\"30\" viewbox=\"0 0 30 30\" fill=\"none\">\n                        <path d=\"M15 0C6.72 0 0 6.72 0 15C0 23.28 6.72 30 15 30C23.28 30 30 23.28 30 15C30 6.72 23.28 0 15 0ZM21.96 10.2C21.735 12.57 20.76 18.33 20.265 20.985C20.055 22.11 19.635 22.485 19.245 22.53C18.375 22.605 17.715 21.96 16.875 21.405C15.555 20.535 14.805 19.995 13.53 19.155C12.045 18.18 13.005 17.64 13.86 16.77C14.085 16.545 17.925 13.05 18 12.735C18.0104 12.6873 18.009 12.6378 17.996 12.5907C17.9829 12.5437 17.9585 12.5005 17.925 12.465C17.835 12.39 17.715 12.42 17.61 12.435C17.475 12.465 15.375 13.86 11.28 16.62C10.68 17.025 10.14 17.235 9.66 17.22C9.12 17.205 8.1 16.92 7.335 16.665C6.39 16.365 5.655 16.2 5.715 15.675C5.745 15.405 6.12 15.135 6.825 14.85C11.205 12.945 14.115 11.685 15.57 11.085C19.74 9.345 20.595 9.045 21.165 9.045C21.285 9.045 21.57 9.075 21.75 9.225C21.9 9.345 21.945 9.51 21.96 9.63C21.945 9.72 21.975 9.99 21.96 10.2Z\" fill=\"white\" style=\"fill:white;fill-opacity:1;\"></path>\n                    </svg>\n                </a>\n            </div>\n        </div>\n        <div class=\"tmpl-hh__fs__img\">\n            <img src=\"https://img.hhcdn.ru/ichameleon/437227.png\">\n        </div>\n    </div>\n    <!-- END FS -->\n    <!-- START ABOUT -->\n    <div class=\"tmpl-hh__section tmpl-hh__about\">\n        <div class=\"tmpl-hh__about__wrapper\">\n            <div class=\"tmpl-hh__container\">\n                <div class=\"tmpl-hh__about__inner\">\n                    <div class=\"tmpl-hh__about__logo\">\n                        <img src=\"https://img.hhcdn.ru/ichameleon/437214.svg\">\n                    </div>\n                    <div class=\"tmpl-hh__about__text\">\n                        <p>Uzum — это новая уникальная компания\n                            <br>в Узбекистане, которая развивает экосистему цифровых сервисов для бизнеса,\n                            <br>онлайн шопинга, удобных платежей и других решений для жизни.</p>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n    <!-- END ABOUT -->\n    <!-- START DESCR -->\n    <div class=\"tmpl-hh__section tmpl-hh__descr\">\n        <div class=\"tmpl-hh__descr__wrapper\">\n            <div class=\"tmpl-hh__container\">\n                <div class=\"tmpl-hh__descr__text\">\n                    <p>Uzum Market - маркетплейс с широким ассортиментом и быстрой доставкой, который стал частью повседневной жизни большинства узбекистанцев. Мы развиваем собственную логистическую инфраструктуру по всей стране, создавая новые возможности\n                        для предпринимателей и их клиентов</p>\n                </div>\n            </div>\n        </div>\n    </div>\n    <!-- END DESCR -->\n    <!-- START CONTENT SECTION -->\n    <div class=\"tmpl-hh__s-content tmpl-hh__section\">\n        <div class=\"tmpl-hh__s-content__wrapper\">\n            <div class=\"tmpl-hh__container\">\n                <div class=\"tmpl-hh__s-content__text\">\n                    <strong>Твои задачи:</strong> <ul> <li> Управление портфелем категорий СТМ (FMCG/NON FOOD) — в зависимости от направления);</li> <li>Анализ рынка, конкурентов и потребительского спроса, определение ниш для СТМ;</li> <li>Полный цикл запуска продукта под СТМ: от идеи, разработки ТЗ и дизайна до выхода на платформу;</li> <li>Взаимодействие с производителями, контроль сроков, себестоимости и качества;</li> <li>Совместная работа с командой закупок, логистики, качества и маркетинга;</li> <li>Работа с ассортиментной матрицей: планирование, обновление, вывод нерентабельных SKU;</li> <li>Мониторинг продаж, аналитика эффективности SKU, управление жизненным циклом продукта;</li> <li> Подготовка и защита бизнес-кейсов по новым линейкам.</li> </ul> <strong>Ожидаем от тебя:</strong> <ul> <li>Опыт в категорийном менеджменте от 5 лет, из них минимум 2 года с СТМ;</li> <li>Опыт запуска товаров с нуля, желательно — на стороне ритейла, дистрибуции или маркетплейса;</li> <li> Глубокое понимание процессов: продукт, логистика, упаковка, сертификация;</li> <li>Владение Excel, понимание unit-экономики, знание ключевых метрик: GM, ROI, ABC/XYZ;</li> <li>Опыт в e-commerce или на маркетплейсе — большой плюс;</li> <li>Высокая самостоятельность и системность, умение работать в условиях роста и изменений.</li> </ul> <strong>Условия:</strong> <ul> <li> Возможность влиять на стратегию развития СТМ в самом масштабном проекте страны;</li> <li>Официальное трудоустройство по ТК Уз с первого дня;</li> <li>Конкурентная заработная плата, релокационный пакет;</li> <li>Отсутствие дресс-кода и бюрократии;</li> <li>Культура, где можно расти, развиваться;</li> <li>Формат работы full time в комфортном офисе в Ташкенте.</li> </ul></div>\n            </div>\n        </div>\n    </div>\n    <!-- END CONTENT SECTION-->\n    <!-- START OFFER -->\n    <div class=\"tmpl-hh__section tmpl-hh__offer\">\n        <div class=\"tmpl-hh__container\">\n            <div class=\"tmpl-hh__offer__inner\">\n                <div class=\"tmpl-hh__offer__card\">\n                    <div class=\"tmpl-hh__offer__card-title\">Возможность учиться\n                        <br>у лучших</div>\n                    <div class=\"tmpl-hh__offer__card-text\">В нашей команде работают коллеги\n                        <br>с внушительным опытом из\n                        <br>ведущих мировых компаний</div>\n                </div>\n                <div class=\"tmpl-hh__offer__card\">\n                    <div class=\"tmpl-hh__offer__card-title\">Развиваем IT-\n                        <br>индустрию</div>\n                    <div class=\"tmpl-hh__offer__card-text\">Растем не только внутри\n                        <br>компании, но и делимся опытом\n                        <br>с внешними IT-сообществами\n                        <br>через выступления, статьи\n                        <br>и поддержку IT-инициатив</div>\n                </div>\n                <div class=\"tmpl-hh__offer__card\">\n                    <div class=\"tmpl-hh__offer__card-title\">Быстрый рост</div>\n                    <div class=\"tmpl-hh__offer__card-text\">Карьерный рост зависит\n                        <br>от результата, а не от стажа.\n                        <br>Наши сотрудники растут до\n                        <br>руководителей и экспертов,\n                        <br>совершенствуют свои\n                        <br>профессиональные навыки.</div>\n                </div>\n                <div class=\"tmpl-hh__offer__card\">\n                    <div class=\"tmpl-hh__offer__card-title\">Современная техника</div>\n                    <div class=\"tmpl-hh__offer__card-text\">Предоставляем мощную\n                        <br>технику на ваш выбор для\n                        <br>достижения результата</div>\n                </div>\n            </div>\n        </div>\n    </div>\n    <!-- END OFFER -->\n    <!-- START FOOTER -->\n    <div class=\"tmpl-hh__section tmpl-hh__footer\">\n        <div class=\"tmpl-hh__footer__wrapper\">\n            <div class=\"tmpl-hh__footer__text\">Присоединяйтесь</div>\n        </div>\n    </div>\n    <!-- END FOOTER -->\n</div>\n<script>\n    //\n    (function () {\n    \t'use strict';\n    \n    \t/*\n    \t\t--------------------------------------------\n    \t\t--------------------------------------------\n    \t\t\t\t\t\t\tCOMMON\n    \t\t--------------------------------------------\n    \t\t--------------------------------------------\n    \t */\n    \n    \t\tdocument.querySelector(\".tmpl-hh__footer__wrapper\").addEventListener(\"click\", () => {\n    \t\t\twindow.scrollTo({ top: 0, behavior: \"smooth\" });\n    \t\t  });\n    \n    }());\n    \n    //\n</script>\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Категорийный менеджмент"
+    },
+    {
+      "name": "Прогнозирование спроса"
+    },
+    {
+      "name": "Ценообразование"
+    },
+    {
+      "name": "Ассортиментная матрица"
+    },
+    {
+      "name": "Управление ассортиментом"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "73",
+      "name": "Менеджер продукта"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9173883",
+    "name": "«UZUM TECHNOLOGIES»",
+    "url": "https://api.hh.ru/employers/9173883",
+    "alternate_url": "https://hh.ru/employer/9173883",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1015324.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5682064.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5682065.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9173883",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T08:24:32+0300",
+  "created_at": "2025-06-04T08:24:32+0300",
+  "initial_created_at": "2025-06-04T08:24:32+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121315949",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121315949",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

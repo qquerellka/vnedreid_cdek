@@ -1,0 +1,148 @@
+{
+  "id": "120547132",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "DevOps-инженер",
+  "insider_interview": {
+    "id": "33576",
+    "url": "https://hh.ru/interview/33576?employerId=6591"
+  },
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "Большая улица",
+    "building": "254/1",
+    "lat": 55.006125,
+    "lng": 82.885117,
+    "description": null,
+    "raw": "Новосибирск, Большая улица, 254/1",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": {
+    "id": "6591-6591-it",
+    "name": "Банк ПСБ, ИТ"
+  },
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Ключевые задачи:</strong></p> <ul> <li>Сборка, отладка и установка новых версий информационных систем (ИС);</li> <li> <p>Анализ ошибок, моделирование проблемных ситуаций, подготовка рекомендации по доработке/настройке ИС;</p> </li> <li>Разработка, поддержка и развитие механизмов автоматизированной сборки и поставки для ИС;</li> <li>Обеспечение непрерывности процессов доставки и интеграций систем;</li> <li>Участие в процессе разработки документации для систем Банка;</li> <li> <p>Обеспечение доступности сред и ИС на стендах с применением инструментов автоматизации и мониторинга на ИС Банка;</p> </li> <li> <p>Сопровождение мониторинга по метрикам доступности сервисов/систем и компонентов ИС.</p> </li> </ul> <p><strong>Что важно для нас:</strong></p> <ul> <li>Уверенные знание и навыки работы с операционной системой Astra Linux;</li> <li>Опыт работы с Gitlab/Git;</li> <li>Знание основных банковских инструментов автоматизации (Nexus / Gitlab CI / Jenkins / Hashicorp Vault / SonarCube / Ansible / Salt) - как минимум, одного из перечисленных;</li> <li> <p>Знание инструментов логирования (OpenSearch / ELK или иное);</p> </li> <li> <p>Знание инструментов мониторинга (Zabbix или иное);</p> </li> <li>Опыт написания скриптов на Bash, Python;</li> <li>Опыт работы с документацией.</li> </ul> <p><strong>Что предлагаем:</strong></p> <ul> <li>График работы: 9.00-18.00, сокращенный рабочий день по пятницам до 16.45</li> <li>Гибридный формат работы после прохождения онбординга</li> <li>Конкурентный уровень дохода: оклад + премии</li> <li>Медицинская страховка, страховка для выезжающих за границу</li> <li>Официальное оформление в соответствии с ТК РФ</li> <li>Доплата к отпускному и больничному листу</li> <li>Дополнительные льготы при заключении брака и рождении детей</li> <li>Социальная поддержка при сложных жизненных ситуациях</li> <li>Льготное кредитование для сотрудников</li> <li>Обучение в корпоративном университете банка</li> <li>Корпоративная пенсионная программа</li> <li>Корпоративная библиотека</li> <li>Реферальная программа для сотрудников: приведи друга в ИТ и получи до 300 000 рублей</li> </ul>",
+  "branded_description": "\n  <style>\nbody {\n  margin: 0;\n}\n\n.hht-vacancydescription {\n  padding: 0 !important;\n}\n\n.vacancy-branded-user-content ul,\n.vacancy-branded-user-content ol {\n  margin-left: 0;\n}\n\n.vacancy-branded-user-content p {\n  margin-top: 0 !important;\n}\n\n.vacancy-branded-user-content p:first-child b,\n.vacancy-branded-user-content p:first-child strong {\n  margin-top: 0 !important;\n}\n\n.tmpl-hh-wrapper {\n  margin: 0 auto;\n  max-width: 670px;\n  width: 100%;\n  position: relative;\n  overflow: hidden;\n  font-family: 'Arial', sans-serif;\n  font-style: normal;\n  font-size: 16px;\n  font-weight: 400;\n  line-height: 24px;\n  color: #2b2f35;\n  padding: 16px 10px 10px;\n}\n\n.tmpl-hh-wrapper * {\n  box-sizing: border-box;\n  padding: 0;\n  margin: 0;\n}\n\n.tmpl-hh-wrapper sup {\n  vertical-align: top;\n}\n\n.tmpl-hh-content ol li p,\n.tmpl-hh-content ul li p {\n  margin: 0 !important;\n}\n\n.tmpl-hh-content ol li p b,\n.tmpl-hh-content ol li p strong,\n.tmpl-hh-content ul li p b,\n.tmpl-hh-content ul li p strong {\n  font-weight: 700;\n  font-size: inherit !important;\n  margin: 0 !important;\n  text-transform: none;\n  color: inherit !important;\n  display: initial;\n}\n\n.tmpl-hh-content ol li em,\n.tmpl-hh-content ul li em {\n  font-style: normal !important;\n}\n\n.tmpl-hh-content ol li em b,\n.tmpl-hh-content ol li em strong,\n.tmpl-hh-content ul li em b,\n.tmpl-hh-content ul li em strong {\n  text-transform: none;\n  display: inherit;\n  font-weight: 700;\n  font-size: inherit;\n  color: inherit;\n  font-style: normal !important;\n}\n\n.tmpl-hh-content ol li b,\n.tmpl-hh-content ol li strong,\n.tmpl-hh-content ul li b,\n.tmpl-hh-content ul li strong {\n  font-weight: 700;\n  font-size: inherit !important;\n  margin: 0 !important;\n  text-transform: none;\n  color: inherit !important;\n}\n\n.tmpl-hh-content p {\n  margin-bottom: 16px;\n}\n\n.tmpl-hh-content p b,\n.tmpl-hh-content p strong {\n  display: inline-block;\n  font-size: 30px;\n  font-weight: 700;\n  line-height: 100%;\n  color: #13144b;\n  margin-top: 60px !important;\n}\n\n.tmpl-hh-content p em {\n  font-style: normal !important;\n}\n\n.tmpl-hh-content p em b,\n.tmpl-hh-content p em strong {\n  text-transform: none;\n  display: inherit;\n  font-weight: 700;\n  font-size: inherit;\n  color: inherit !important;\n  font-style: normal !important;\n  background: transparent;\n  padding: 0;\n}\n\n.tmpl-hh-content p:first-child b,\n.tmpl-hh-content p:first-child strong {\n  margin-top: 0 !important;\n}\n\n.tmpl-hh-content p:last-child {\n  margin-bottom: 0 !important;\n}\n\n.tmpl-hh-content .l-paddings {\n  padding: 0;\n}\n\n@media (max-width: 1019px) {\n  .tmpl-hh-wrapper {\n    max-width: 610px;\n    width: auto;\n  }\n}\n\n@media (max-width: 699px) {\n  .tmpl-hh-content p b,\n  .tmpl-hh-content p strong {\n    font-size: 24px;\n    margin-top: 50px !important;\n  }\n}\n\n@media (max-width: 499px) {\n  .tmpl-hh-wrapper {\n    padding: 16px 5px;\n  }\n}\n\n.tmpl-hh-header__logo {\n  width: 100px;\n  object-fit: contain;\n  margin: 0 0 0 50px;\n}\n\n.tmpl-hh-header__wrapper {\n  border-radius: 20px;\n  background: radial-gradient(\n    139% 107% at 0% 0%,\n    rgb(255, 204, 0),\n    rgb(255, 89, 64) 50%,\n    rgb(127, 64, 255) 100%\n  );\n  max-width: 670px;\n  margin: 16px 0 80px;\n  padding: 56px 173px 56px  50px;\n}\n\n.tmpl-hh-header__title {\n  width: 100%;\n  object-fit: contain;\n}\n\n.tmpl-hh-header__description {\n  font-size: 16px;\n  font-weight: 400;\n  line-height: 26px;\n  margin: 0 50px;\n}\n\n.tmpl-hh-header__items {\n  list-style: none;\n  display: flex;\n  flex-wrap: wrap;\n  justify-content: space-between;\n  margin: 56px 50px 0;\n}\n\n.tmpl-hh-header__item {\n  width: 122px;\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n}\n\n.tmpl-hh-header__item-title {\n  text-align: center;\n  font-size: 13px;\n  font-weight: 400;\n  line-height: 16px;\n  margin: 10px 0 0;\n}\n\n@media (max-width: 1019px) {\n  .tmpl-hh-header__wrapper {\n    margin: 16px 0 60px;\n  }\n  .tmpl-hh-header__items {\n    justify-content: space-around;\n  }\n  .tmpl-hh-header__item {\n    width: 178px;\n    margin: 0 0 32px;\n  }\n  .tmpl-hh-header__item-title {\n    max-width: 160px;\n  }\n}\n\n@media (max-width: 699px) {\n  .tmpl-hh-header__logo {\n    margin: 0 0 0 25px;\n  }\n  .tmpl-hh-header__wrapper {\n    padding: 56px 60px 56px  30px;\n  }\n  .tmpl-hh-header__items {\n    margin: 32px 15px 0;\n  }\n  .tmpl-hh-header__description {\n    margin: 0 15px;\n  }\n}\n\n@media (max-width: 499px) {\n  .tmpl-hh-header__wrapper {\n    padding: 47px 23px 47px 15px;\n    margin: 16px 0 50px;\n  }\n  .tmpl-hh-header__logo {\n    margin: 0 0 0 15px;\n  }\n}\n\n@media (max-width: 399px) {\n  .tmpl-hh-header__item {\n    width: 120px;\n  }\n}\n\n.tmpl-hh-content {\n  padding: 80px 50px;\n}\n\n.tmpl-hh-content ul,\n.tmpl-hh-content ol {\n  margin-left: 0;\n}\n\n.tmpl-hh-content ul li,\n.tmpl-hh-content ol li {\n  list-style: none;\n  position: relative;\n  padding-left: 41px;\n  color: #2b2f35;\n  font-size: 16px;\n  font-weight: 400;\n  line-height: 24px;\n}\n\n.tmpl-hh-content ul li:not(:last-child),\n.tmpl-hh-content ol li:not(:last-child) {\n  margin-bottom: 10px;\n}\n\n.tmpl-hh-content ul li::before,\n.tmpl-hh-content ol li::before {\n  position: absolute;\n  top: 5px;\n  left: 2px;\n  content: '';\n  width: 12px;\n  height: 12px;\n  border-radius: 50%;\n  background: #ff381a;\n}\n\n@media (max-width: 699px) {\n  .tmpl-hh-content {\n    padding: 60px 20px;\n  }\n  .tmpl-hh-content ul li,\n  .tmpl-hh-content ol li {\n    padding-left: 29px;\n  }\n  .tmpl-hh-content ul li::before,\n  .tmpl-hh-content ol li::before {\n    top: 5px;\n    left: 2px;\n    width: 12px;\n    height: 12px;\n  }\n}\n\n@media (max-width: 499px) {\n  .tmpl-hh-content {\n    padding: 18px 15px 50px;\n  }\n}\n\n.tmpl-hh-footer {\n  display: flex;\n  flex-direction: column;\n}\n\n.tmpl-hh-footer__videoframe {\n  max-width: 572px;\n  margin: 0 50px;\n}\n\n.tmpl-hh-footer__caption {\n  color: #333333;\n  opacity: 0.5;\n  font-size: 12px;\n  font-weight: 400;\n  line-height: 130%;\n  margin: 0 50px 40px;\n}\n\n.tmpl-hh-footer__caption-text:last-of-type {\n  margin: 10px 0 0;\n}\n\n.tmpl-hh-footer__link {\n  display: inline-block;\n  max-width: 311px;\n  color: #fff;\n  text-decoration: none;\n  font-size: 16px;\n  font-weight: 400;\n  line-height: 24px;\n  padding: 12px 32px;\n  background-color: #444ecf;\n  border-radius: 12px;\n  margin: 0 0 0 50px; \n}\n\n.tmpl-hh-footer__link:hover {\n  color: #fff;\n}\n\n.tmpl-hh-footer__link:active {\n  color: #fff;\n}\n\n.tmpl-hh-footer__link:focus {\n  color: #fff;\n}\n\n.tmpl-hh-footer__tablet {\n  position: relative;\n  margin: 38px 0 0;\n}\n\n.tmpl-hh-footer__tablet-img {\n  width: 100%;\n  object-fit: contain;\n}\n\n.tmpl-hh-footer__tablet-text {\n  position: absolute;\n  top: 29px;\n  left: 49px;\n  width: 572px;\n  object-fit: contain;\n}\n\n@media (max-width: 1019px) {\n  .tmpl-hh-footer__videoframe {\n    max-width: none;\n    width: 100%;\n    margin: 0;\n  }\n  .tmpl-hh-footer__tablet-text {\n    width: 510px;\n  }\n}\n\n@media (max-width: 699px) {\n  .tmpl-hh-footer__wrapper {\n    margin: 0 15px;\n  }\n  .tmpl-hh-footer__tablet {\n    margin: 22px 0 0;\n  }\n  .tmpl-hh-footer__tablet-text {\n    width: 450px;\n    top: calc(50% - 25.5px);\n    left: calc(50% - 225px);\n  }\n  .tmpl-hh-footer__caption {\n    margin: 0 0 24px;\n  }\n  .tmpl-hh-footer__link {\n    text-align: center;\n    margin: 0;\n  }\n}\n\n@media (max-width: 499px) {\n  .tmpl-hh-footer__tablet-text {\n    width: 273px;\n    top: calc(50% - 31px);\n    left: calc(50% - 136.5px);\n  }\n}\n\n@media (max-width: 399px) {\n  .tmpl-hh-footer__tablet-text {\n    width: 182px;\n    top: calc(50% - 20.5px);\n    left: calc(50% - 91px);\n  }\n}\n</style>\n\n <div class=\"tmpl-hh-wrapper\">\n    <div class=\"tmpl-hh-header\">\n      <img src=\"https://hhcdn.ru/ichameleon/348454.png\" alt=\"\" class=\"tmpl-hh-header__logo\">\n      <div class=\"tmpl-hh-header__wrapper\">\n        <img src=\"https://hhcdn.ru/ichameleon/348461.png\" alt=\"\" class=\"tmpl-hh-header__title\">\n      </div>\n      <p class=\"tmpl-hh-header__description\">\n        В ИТ-командах банка ПСБ и дочерней ИТ-компании ПСБ Лаб уже более 4000\n        сотрудников. Мы разрабатываем и внедряем финтех продукты\n        и приложения для клиентов, сопровождаем сложные ИТ-системы банка\n        и входим в тройку цифровых банков России.*\n      </p>\n      <ul class=\"tmpl-hh-header__items\">\n        <li class=\"tmpl-hh-header__item\">\n          <svg class=\"tmpl-hh-header__item-logo\" width=\"50.000000\" height=\"50.000000\" viewBox=\"0 0 50 50\" fill=\"none\">\n            <defs>\n              <radialGradient id=\"paint_radial_2_459_0\" cx=\"0.000000\" cy=\"0.000000\" r=\"1.000000\" gradientUnits=\"userSpaceOnUse\" gradientTransform=\"translate(0 -1.14441e-05) rotate(0) scale(50 50)\">\n                <stop stop-color=\"#FFCC00\"></stop>\n                <stop offset=\"0.500000\" stop-color=\"#FF5940\"></stop>\n                <stop offset=\"1.000000\" stop-color=\"#7F40FF\"></stop>\n              </radialGradient>\n            </defs>\n            <path id=\"Union\" d=\"M6.25 0C2.79 0 0 2.79 0 6.25L0 31.25C0 34.7 2.79 37.5 6.25 37.5L43.75 37.5C47.2 37.5 50 34.7 50 31.25L50 6.25C50 2.79 47.2 0 43.75 0L6.25 0ZM12.5 12.5L12.5 25L37.5 25L37.5 12.5L12.5 12.5ZM12.5 40.62L37.5 40.62L37.5 50L12.5 50L12.5 40.62Z\" fill=\"url(#paint_radial_2_459_0)\" fill-opacity=\"1.000000\" fill-rule=\"evenodd\"></path>\n          </svg>\n\n          <h5 class=\"tmpl-hh-header__item-title\">\n            Внешние курсы и выездные спринты\n          </h5>\n        </li>\n        <li class=\"tmpl-hh-header__item\">\n          <svg class=\"tmpl-hh-header__item-logo\" width=\"50.000000\" height=\"50.000000\" viewBox=\"0 0 50 50\" fill=\"none\">\n            <defs>\n              <radialGradient id=\"paint_radial_2_462_0\" cx=\"0.000000\" cy=\"0.000000\" r=\"1.000000\" gradientUnits=\"userSpaceOnUse\" gradientTransform=\"translate(25 7.62939e-06) rotate(90) scale(50.0043 46.875)\">\n                <stop stop-color=\"#FFCC00\"></stop>\n                <stop offset=\"0.500000\" stop-color=\"#FF5940\"></stop>\n                <stop offset=\"1.000000\" stop-color=\"#7F40FF\"></stop>\n              </radialGradient>\n            </defs>\n            <path id=\"Vector 52 (Stroke)\" d=\"M25 0L50 15.24L50 50L0 50L0 15.24L25 0ZM12.5 22.26L12.5 37.5L37.5 37.5L37.5 22.26L25 14.63L12.5 22.26Z\" fill=\"url(#paint_radial_2_462_0)\" fill-opacity=\"1.000000\" fill-rule=\"evenodd\"></path>\n          </svg>\n\n          <h5 class=\"tmpl-hh-header__item-title\">\n            Удаленный или гибридный формат работы по договоренности\n          </h5>\n        </li>\n        <li class=\"tmpl-hh-header__item\">\n          <svg class=\"tmpl-hh-header__item-logo\" width=\"50.000000\" height=\"50.000000\" viewBox=\"0 0 50 50\" fill=\"none\">\n            <defs>\n              <radialGradient id=\"paint_radial_2_465_0\" cx=\"0.000000\" cy=\"0.000000\" r=\"1.000000\" gradientUnits=\"userSpaceOnUse\" gradientTransform=\"translate(0 -1.14441e-05) rotate(0) scale(50 50)\">\n                <stop stop-color=\"#FFCC00\"></stop>\n                <stop offset=\"0.500000\" stop-color=\"#FF5940\"></stop>\n                <stop offset=\"1.000000\" stop-color=\"#7F40FF\"></stop>\n              </radialGradient>\n            </defs>\n            <path id=\"Union\" d=\"M25 12.5C28.45 12.5 31.25 9.7 31.25 6.25C31.25 2.79 28.45 0 25 0C21.54 0 18.75 2.79 18.75 6.25C18.75 9.7 21.54 12.5 25 12.5ZM6.25 18.75C9.7 18.75 12.5 15.95 12.5 12.5C12.5 9.04 9.7 6.25 6.25 6.25C2.79 6.25 0 9.04 0 12.5C0 15.95 2.79 18.75 6.25 18.75ZM18.75 21.87C18.75 18.42 21.54 15.62 25 15.62C28.45 15.62 31.25 18.42 31.25 21.87L31.25 50L18.75 50L18.75 21.87ZM6.25 21.87C2.79 21.87 0 24.67 0 28.12L0 50L12.5 50L12.5 28.12C12.5 24.67 9.7 21.87 6.25 21.87ZM50 28.12C50 31.57 47.2 34.37 43.75 34.37C40.29 34.37 37.5 31.57 37.5 28.12C37.5 24.67 40.29 21.87 43.75 21.87C47.2 21.87 50 24.67 50 28.12ZM37.5 43.75C37.5 40.29 40.29 37.5 43.75 37.5C47.2 37.5 50 40.29 50 43.75L50 50L37.5 50L37.5 43.75Z\" fill=\"url(#paint_radial_2_465_0)\" fill-opacity=\"1.000000\" fill-rule=\"evenodd\"></path>\n          </svg>\n\n          <h5 class=\"tmpl-hh-header__item-title\">\n            Нетворкинг, внутренние митапы и воркшопы\n          </h5>\n        </li>\n        <li class=\"tmpl-hh-header__item\">\n          <svg class=\"tmpl-hh-header__item-logo\" width=\"50.000000\" height=\"50.000000\" viewBox=\"0 0 50 50\" fill=\"none\">\n            <defs>\n              <radialGradient id=\"paint_radial_2_468_0\" cx=\"0.000000\" cy=\"0.000000\" r=\"1.000000\" gradientUnits=\"userSpaceOnUse\" gradientTransform=\"translate(0 -1.14441e-05) rotate(0) scale(50 50)\">\n                <stop stop-color=\"#FFCC00\"></stop>\n                <stop offset=\"0.500000\" stop-color=\"#FF5940\"></stop>\n                <stop offset=\"1.000000\" stop-color=\"#7F40FF\"></stop>\n              </radialGradient>\n            </defs>\n            <path id=\"Union\" d=\"M40.62 0L0 40.62L9.37 50L50 9.37L40.62 0ZM18.75 9.37C18.75 14.55 14.55 18.75 9.37 18.75C4.19 18.75 0 14.55 0 9.37C0 4.19 4.19 0 9.37 0C14.55 0 18.75 4.19 18.75 9.37ZM50 40.62C50 45.8 45.8 50 40.62 50C35.44 50 31.25 45.8 31.25 40.62C31.25 35.44 35.44 31.25 40.62 31.25C45.8 31.25 50 35.44 50 40.62Z\" fill=\"url(#paint_radial_2_468_0)\" fill-opacity=\"1.000000\" fill-rule=\"evenodd\"></path>\n          </svg>\n\n          <h5 class=\"tmpl-hh-header__item-title\">\n            Льготная ипотека и скидки от партнеров\n          </h5>\n        </li>\n      </ul>\n    </div>\n    <div class=\"tmpl-hh-content\">\n      <p><strong>Ключевые задачи:</strong></p> <ul> <li>Сборка, отладка и установка новых версий информационных систем (ИС);</li> <li> <p>Анализ ошибок, моделирование проблемных ситуаций, подготовка рекомендации по доработке/настройке ИС;</p> </li> <li>Разработка, поддержка и развитие механизмов автоматизированной сборки и поставки для ИС;</li> <li>Обеспечение непрерывности процессов доставки и интеграций систем;</li> <li>Участие в процессе разработки документации для систем Банка;</li> <li> <p>Обеспечение доступности сред и ИС на стендах с применением инструментов автоматизации и мониторинга на ИС Банка;</p> </li> <li> <p>Сопровождение мониторинга по метрикам доступности сервисов/систем и компонентов ИС.</p> </li> </ul> <p><strong>Что важно для нас:</strong></p> <ul> <li>Уверенные знание и навыки работы с операционной системой Astra Linux;</li> <li>Опыт работы с Gitlab/Git;</li> <li>Знание основных банковских инструментов автоматизации (Nexus / Gitlab CI / Jenkins / Hashicorp Vault / SonarCube / Ansible / Salt) - как минимум, одного из перечисленных;</li> <li> <p>Знание инструментов логирования (OpenSearch / ELK или иное);</p> </li> <li> <p>Знание инструментов мониторинга (Zabbix или иное);</p> </li> <li>Опыт написания скриптов на Bash, Python;</li> <li>Опыт работы с документацией.</li> </ul> <p><strong>Что предлагаем:</strong></p> <ul> <li>График работы: 9.00-18.00, сокращенный рабочий день по пятницам до 16.45</li> <li>Гибридный формат работы после прохождения онбординга</li> <li>Конкурентный уровень дохода: оклад + премии</li> <li>Медицинская страховка, страховка для выезжающих за границу</li> <li>Официальное оформление в соответствии с ТК РФ</li> <li>Доплата к отпускному и больничному листу</li> <li>Дополнительные льготы при заключении брака и рождении детей</li> <li>Социальная поддержка при сложных жизненных ситуациях</li> <li>Льготное кредитование для сотрудников</li> <li>Обучение в корпоративном университете банка</li> <li>Корпоративная пенсионная программа</li> <li>Корпоративная библиотека</li> <li>Реферальная программа для сотрудников: приведи друга в ИТ и получи до 300 000 рублей</li> </ul></div>\n    <div class=\"tmpl-hh-footer\">\n      <div class=\"tmpl-hh-footer__wrapper\">\n        <div class=\"tmpl-hh-footer__caption\">\n          <p class=\"tmpl-hh-footer__caption-text\">*По данным исследования цифровой зрелости розничных банков,\n            подготовленного агентством SDI360\n            https://sdi360.ru/banks_23, 2023</p>\n          <p class=\"tmpl-hh-footer__caption-text\">ПАО Промсвязьбанк (лицензия ЦБ 3251)</p>\n        </div>\n        <a href=\"https://hh.ru/article/31842?from=button_read\" target=\"_blank\" class=\"tmpl-hh-footer__link\">Читай статью\n          о работе в ИТ ПСБ</a>\n\n      </div>\n      <div class=\"tmpl-hh-footer__tablet\">\n        <picture>\n          <source srcset=\"https://hhcdn.ru/ichameleon/348494.png\" media=\"(max-width: 499px)\"></source>\n          <img src=\"https://hhcdn.ru/ichameleon/348466.png\" alt=\"\" class=\"tmpl-hh-footer__tablet-img\">\n        </picture>\n\n        <picture>\n          <source srcset=\"https://hhcdn.ru/ichameleon/348493.png\" media=\"(max-width: 499px)\"></source>\n          <img src=\"https://hhcdn.ru/ichameleon/348463.png\" alt=\"\" class=\"tmpl-hh-footer__tablet-text\">\n        </picture>\n      </div>\n\n\n    </div>\n\n  </div>\n\n  <script type=\"text/javascript\">\n     \n       (function polyfill() {\n  const relList = document.createElement(\"link\").relList;\n  if (relList && relList.supports && relList.supports(\"modulepreload\")) {\n    return;\n  }\n  for (const link of document.querySelectorAll('link[rel=\"modulepreload\"]')) {\n    processPreload(link);\n  }\n  new MutationObserver((mutations) => {\n    for (const mutation of mutations) {\n      if (mutation.type !== \"childList\") {\n        continue;\n      }\n      for (const node of mutation.addedNodes) {\n        if (node.tagName === \"LINK\" && node.rel === \"modulepreload\")\n          processPreload(node);\n      }\n    }\n  }).observe(document, { childList: true, subtree: true });\n  function getFetchOpts(link) {\n    const fetchOpts = {};\n    if (link.integrity)\n      fetchOpts.integrity = link.integrity;\n    if (link.referrerPolicy)\n      fetchOpts.referrerPolicy = link.referrerPolicy;\n    if (link.crossOrigin === \"use-credentials\")\n      fetchOpts.credentials = \"include\";\n    else if (link.crossOrigin === \"anonymous\")\n      fetchOpts.credentials = \"omit\";\n    else\n      fetchOpts.credentials = \"same-origin\";\n    return fetchOpts;\n  }\n  function processPreload(link) {\n    if (link.ep)\n      return;\n    link.ep = true;\n    const fetchOpts = getFetchOpts(link);\n    fetch(link.href, fetchOpts);\n  }\n})();\nconst index = \"\";\nwindow.addEventListener(\"DOMContentLoaded\", () => {\n});\n\n    \n  </script>\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Bash"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Ansible"
+    },
+    {
+      "name": "Nginx"
+    },
+    {
+      "name": "CI/CD"
+    },
+    {
+      "name": "ELK"
+    },
+    {
+      "name": "PostgreSQL"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "114",
+      "name": "Системный инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "6591",
+    "name": "Банк ПСБ",
+    "url": "https://api.hh.ru/employers/6591",
+    "alternate_url": "https://hh.ru/employer/6591",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/681020.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3165212.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3165213.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6591",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-14T16:29:26+0300",
+  "created_at": "2025-05-14T16:29:26+0300",
+  "initial_created_at": "2025-05-14T16:29:26+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120547132",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120547132",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

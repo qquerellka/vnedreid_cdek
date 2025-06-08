@@ -1,0 +1,128 @@
+{
+  "id": "121262838",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Сетевой инженер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 278000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 278000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Российский национальный оператор спутниковой связи приглашает</strong> <strong>Главного специалиста (сетевого инженера) в отдел эксплуатации и развития ИТ инфраструктуры.</strong></p> <p><strong>Требования: </strong></p> <p><strong>- </strong>Стаж работы в IT от 5 лет. Высшее техническое образование.</p> <p>- Наличие сертификата CCNP/HCIP, сертификация отечественных вендоров.</p> <p>- Хорошее знание сетевых технологий и принципов построения и защиты сетей.</p> <p>- Знание законодательства РФ в сфере связи и защиты информации, защиты ОКИИ/ЗОКИИ. Понимание моделей OSI и TCP/IP.</p> <p>- Знание основных принципов построения отказоустойчивых геораспределенных и локальных сетей, сетей ЦОД, сегментирования, межсетевого экранирования.</p> <p>- Уверенное знание технологий DHCP, DNS, LDAP, STP/RSTP/MSTP, VLAN/VXLAN, LAG/MLAG, LACP, IPSEC, static routing, OSPF, IS-IS, BGP, EVPN, NAT/DNAT.</p> <p>- Знание методов защиты сетевой инфраструктуры, основных средств зашиты сетевых ОС, технологий port security, dot1x, TACACS+/Radius, ACL; понимание FW/NGFW, security policy, l2tp, ipsec/vpn.</p> <p>- Знание принципов мониторинга сетей, протоколов SNMP v2/3, syslog; опыт работы с системами мониторинга Zabbix/MRTG либо другими.</p> <p>- Английский базовый, чтение документации.</p> <p>Приветствуются:</p> <p>- Опыт работы с оборудованием (маршрутизаторы, коммутаторы и FW/NGFW) производства Cisco Systems, Huawei. Элтекс, UserGate, Континент, ViPNet.</p> <p>- Навык документирования свей работы, составления схем сетей, технических описаний, инструкций.</p> <p>- Опыт работы с системами NMS.</p> <p>- Опыт работы с системами защиты от DDoS атак и Web Application Firewall.</p> <p>- Понимание принципов работы сетей ViPNet.</p> <p> </p> <p><strong>Обязанности</strong>: Разработка и реализация сетевых решений для обеспечения бесперебойной работы корпоративных сетей. Анализ и оптимизация производительности сети, выявление и устранение узких мест. Участие в планировании и реализации проектов по модернизации и расширению сетевой инфраструктуры. Реагирование на инциденты сетевой безопасности и разработка мер по их предотвращению. Монтаж, коммутация активного сетевого оборудования.</p> <p><strong>Условия труда: </strong>График работы 5/2 с 9 до 18. Возможен сменный график. Командировки по России - редко. Заработная плата: 278 000 руб. (на руки). Оформление по ТК РФ. Социальный пакет включает ДМС со стоматологией. Офис у метро Шаболовская.</p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "112",
+      "name": "Сетевой инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "35367",
+    "name": "ФГУП Космическая связь",
+    "url": "https://api.hh.ru/employers/35367",
+    "alternate_url": "https://hh.ru/employer/35367",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=35367",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T08:51:44+0300",
+  "created_at": "2025-06-03T08:51:44+0300",
+  "initial_created_at": "2025-06-03T08:51:44+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121262838",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121262838",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

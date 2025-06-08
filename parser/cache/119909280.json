@@ -1,0 +1,141 @@
+{
+  "id": "119909280",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "DevOps-инженер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "переулок Пирогова",
+    "building": "13",
+    "lat": 59.929186,
+    "lng": 30.303247,
+    "description": null,
+    "raw": "Санкт-Петербург, переулок Пирогова, 13",
+    "metro": {
+      "station_name": "Садовая",
+      "line_name": "Фрунзенско-Приморская",
+      "station_id": "18.250",
+      "line_id": "18",
+      "lat": 59.926739,
+      "lng": 30.317753
+    },
+    "metro_stations": [
+      {
+        "station_name": "Садовая",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.250",
+        "line_id": "18",
+        "lat": 59.926739,
+        "lng": 30.317753
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>SuperWave Group - это многопрофильная компания в области информационных технологий, имеющая более чем 30-летний опыт работы. Мы реализовываем проекты любой сложности – от поставки техники до оказания комплексных услуг по созданию масштабной информационной инфраструктуры. В связи с расширением бизнеса мы открываем позицию <strong>DevOps инженера.</strong></p> <p><strong>Задачи, которые предстоит выполнять:</strong></p> <ul> <li>Автоматизация процессов разработки: Создание скриптов для автоматизации сборки, тестирования и развертывания приложений;</li> <li>Настройка CI/CD пайплайнов: Использование инструментов CI/CD (Jenkins, GitLab CI/CD) для обеспечения непрерывной интеграции и доставки программного обеспечения;</li> <li>Мониторинг производительности приложений: Настройка инструментов мониторинга (Prometheus, Grafana) для отслеживания состояния приложений в реальном времени;</li> <li>Взаимодействие с командами разработки: Сотрудничество с разработчиками для оптимизации процессов развертывания и устранения узких мест.</li> </ul> <p><strong>Что мы от Вас ждем:</strong></p> <ul> <li>Высшее образование в области информационных технологий или смежных областях;</li> <li>Опыт работы в DevOps или смежной области от 1 года (желательно);</li> <li>Знание инструментов автоматизации (Jenkins, GitLab CI/CD) и контейнеризации (Docker);</li> <li>Опыт работы с облачными платформами будет плюсом.</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Работа в аккредитованной IT компании;</li> <li>График работы: 5/2, 9-18;</li> <li>Официальное оформление;</li> <li>Корпоративные мероприятия;</li> <li>ДМС после полугода работы;</li> <li>Интересные и разноплановые задачи.</li> </ul>",
+  "branded_description": "\n<style>\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;    \n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-weight: normal;\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    display: inline;\n    margin: 0;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    overflow: hidden;\n    font-family: 'Arial';\n    font-weight: 400;\n    font-size: 16px;\n    line-height: 23px;\n    color: #000;\n    z-index: 1;\n    background: #FCFBFA;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_content {\n    padding: 50px 40px 50px;\n    position: relative;\n    z-index: 1;\n    width: 71.1%;\n    box-sizing: border-box;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n   margin: 60px 0 20px;\n}\n\n.tmpl_hh_content b, \n.tmpl_hh_content strong {\n    display: inline-block;\n    font-weight: 700;\n    font-size: 20px;\n    line-height: 23px;\n    text-transform: uppercase;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 24px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 10px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 10px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;    \n}\n\n.tmpl_hh_content li:before {\n    position: absolute;\n    left: -24px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"\";\n    background: #279061;\n    width: 7px;\n    height: 7px;\n    top: 9px;\n    left: -23px;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter)'.';\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n\n.tmpl_hh_flex {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n}\n\n.tmpl_hh_header__photo.tmpl_hh_header__photo--1 {\n    width: 71.1%;\n    position: relative;\n}\n\n.tmpl_hh_header__logo {\n    position: absolute;\n    left: 40%;\n    top: 50.3%;\n    transform: translate(0,-50%);\n    width: 44%;\n}\n\n.tmpl_hh_header__photo.tmpl_hh_header__photo--2 {\n    width: 28.9%;\n    background: url(https://hhcdn.ru/ichameleon/237465.jpg) no-repeat;\n    background-size: auto 100%;\n    background-position: 100% center;\n}\n\n.tmpl_hh_columns {\n    align-items: flex-start;\n}\n\n.tmpl_hh_items {\n    background: linear-gradient(180deg, #279061 29.69%, rgba(39, 144, 97, 0.45) 100%);\n    width: 28.9%;\n}\n\n.tmpl_hh_item {\n    border-bottom: 1px solid rgba(255, 255, 255, 0.1);\n    font-size: 14px;\n    line-height: 16px;\n    text-transform: uppercase;\n    color: #FFFFFF;\n    font-weight: 700;\n    padding: 30px 20px 0px;\n    min-height: 112px;\n    width: 100%;\n    position: relative;\n}\n\n.tmpl_hh_item__number {\n    width: auto;\n    position: absolute;\n    bottom: 0;\n}\n\n.tmpl_hh_working {\n    padding: 0 44px;\n}\n\np.tmpl_hh_working__title {\n    font-weight: 700;\n    font-size: 20px;\n    line-height: 23px;\n    text-transform: uppercase;\n    margin-bottom: 41px;\n}\n\n.tmpl_hh_working__column {\n    width: 46.7%;\n}\n\n.tmpl_hh_working__item {\n    position: relative;\n    padding-left: 74px;\n    margin-bottom: 37.5px;\n}\n\n.tmpl_hh_working__icon {\n    position: absolute;\n    left: -2px;\n    top: -1px;\n}\n\np.tmpl_hh_footnote {\n    font-size: 13px;\n    line-height: 15px;\n    color: #999999;\n    text-align: center;\n    margin: 5px 0 20px;\n}\n\n@media screen and (max-width: 1019px) {\n    .tmpl_hh_item {\n        font-size: 12px;\n        line-height: 14px;\n    }\n}\n\n@media screen and (max-width: 699px) {\n\n    .tmpl_hh_wrapper {\n        background: #fff;\n    }\n\n    .tmpl_hh_content {\n        padding: 40px 20px 49px;\n        width: 100%;\n        order: 2;\n    }\n\n    .tmpl_hh_items {\n        width: 100%;\n        order: 1;\n    }\n\n    .tmpl_hh_item {\n        border-right: 1px solid rgba(255, 255, 255, 0.1);\n        min-height: 142px;\n        width: 50%;\n        box-sizing: border-box;\n    }\n\n    .tmpl_hh_working {\n        padding: 0 20px;\n    }\n\n    .tmpl_hh_working__column {\n        width: 280px;\n    }\n\n    .tmpl_hh_working__item {\n        padding-left: 78px;\n        margin-bottom: 36.6px;\n    }\n\n    .tmpl_hh_working__icon {\n        left: 2px;\n        top: -1px;\n    }\n\n    p.tmpl_hh_footnote {\n        margin: 3px 30px 29px;\n    }\n\n    .tmpl_hh_header__photo.tmpl_hh_header__photo--1 {\n        width: 100%;\n    }\n\n    .tmpl_hh_header__photo.tmpl_hh_header__photo--2 {\n        display: none;\n    }\n}\n</style>\n\n<div class=\"tmpl_hh_wrapper\">\n    <div class=\"tmpl_hh_header tmpl_hh_flex\">\n        <div class=\"tmpl_hh_header__photo tmpl_hh_header__photo--1\">\n            <div class=\"tmpl_hh_header__logo\"><img src=\"https://hhcdn.ru/ichameleon/237472.svg\" alt=\"\"></div>\n            <img src=\"https://hhcdn.ru/ichameleon/237464.jpg\" alt=\"\">\n        </div>\n        <div class=\"tmpl_hh_header__photo tmpl_hh_header__photo--2\"></div>\n    </div>\n    <div class=\"tmpl_hh_columns tmpl_hh_flex\">\n        <div class=\"tmpl_hh_content\">\n            <p>SuperWave Group - это многопрофильная компания в области информационных технологий, имеющая более чем 30-летний опыт работы. Мы реализовываем проекты любой сложности – от поставки техники до оказания комплексных услуг по созданию масштабной информационной инфраструктуры. В связи с расширением бизнеса мы открываем позицию <strong>DevOps инженера.</strong></p> <p><strong>Задачи, которые предстоит выполнять:</strong></p> <ul> <li>Автоматизация процессов разработки: Создание скриптов для автоматизации сборки, тестирования и развертывания приложений;</li> <li>Настройка CI/CD пайплайнов: Использование инструментов CI/CD (Jenkins, GitLab CI/CD) для обеспечения непрерывной интеграции и доставки программного обеспечения;</li> <li>Мониторинг производительности приложений: Настройка инструментов мониторинга (Prometheus, Grafana) для отслеживания состояния приложений в реальном времени;</li> <li>Взаимодействие с командами разработки: Сотрудничество с разработчиками для оптимизации процессов развертывания и устранения узких мест.</li> </ul> <p><strong>Что мы от Вас ждем:</strong></p> <ul> <li>Высшее образование в области информационных технологий или смежных областях;</li> <li>Опыт работы в DevOps или смежной области от 1 года (желательно);</li> <li>Знание инструментов автоматизации (Jenkins, GitLab CI/CD) и контейнеризации (Docker);</li> <li>Опыт работы с облачными платформами будет плюсом.</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Работа в аккредитованной IT компании;</li> <li>График работы: 5/2, 9-18;</li> <li>Официальное оформление;</li> <li>Корпоративные мероприятия;</li> <li>ДМС после полугода работы;</li> <li>Интересные и разноплановые задачи.</li> </ul></div>\n        <div class=\"tmpl_hh_items tmpl_hh_flex\">\n            <div class=\"tmpl_hh_item\">\n                <p class=\"tmpl_hh_item__text\">Высокий <br>профессионализм<br> сотрудников</p>\n                <div class=\"tmpl_hh_item__number\"><img src=\"https://hhcdn.ru/ichameleon/237461.svg\" alt=\"\"></div>\n            </div>\n            <div class=\"tmpl_hh_item\">\n                <p class=\"tmpl_hh_item__text\">Работа в команде</p>\n                <div class=\"tmpl_hh_item__number\"><img src=\"https://hhcdn.ru/ichameleon/237463.svg\" alt=\"\"></div>\n            </div>\n            <div class=\"tmpl_hh_item\">\n                <p class=\"tmpl_hh_item__text\">Забота <br>о сотрудниках</p>\n                <div class=\"tmpl_hh_item__number\"><img src=\"https://hhcdn.ru/ichameleon/237460.svg\" alt=\"\"></div>\n            </div>\n            <div class=\"tmpl_hh_item\">\n                <p class=\"tmpl_hh_item__text\">Постоянное <br>обучение<br> и развитие</p>\n                <div class=\"tmpl_hh_item__number\"><img src=\"https://hhcdn.ru/ichameleon/237459.svg\" alt=\"\"></div>\n            </div>\n        </div>\n    </div>\n    <div class=\"tmpl_hh_working\">\n        <p class=\"tmpl_hh_working__title\">Работа в Супервэйв</p>\n        <div class=\"tmpl_hh_working__columns tmpl_hh_flex\">\n            <div class=\"tmpl_hh_working__column\">\n                <div class=\"tmpl_hh_working__item\">\n                    <div class=\"tmpl_hh_working__icon\"><img src=\"https://hhcdn.ru/ichameleon/237471.png\" alt=\"\"></div>\n                    <p>Достойная <br>оплата труда</p>\n                </div>\n                <div class=\"tmpl_hh_working__item\">\n                    <div class=\"tmpl_hh_working__icon\"><img src=\"https://hhcdn.ru/ichameleon/237467.png\" alt=\"\"></div>\n                    <p>Обучение, <br>тренинги</p>\n                </div>\n                <div class=\"tmpl_hh_working__item\">\n                    <div class=\"tmpl_hh_working__icon\"><img src=\"https://hhcdn.ru/ichameleon/237468.png\" alt=\"\"></div>\n                    <p>Условия для <br>профессионального <br>роста</p>\n                </div>\n            </div>\n            <div class=\"tmpl_hh_working__column\">\n                <div class=\"tmpl_hh_working__item\">\n                    <div class=\"tmpl_hh_working__icon\"><img src=\"https://hhcdn.ru/ichameleon/237466.png\" alt=\"\"></div>\n                    <p>Социальный <br>пакет</p>\n                </div>\n                <div class=\"tmpl_hh_working__item\">\n                    <div class=\"tmpl_hh_working__icon\"><img src=\"https://hhcdn.ru/ichameleon/237469.png\" alt=\"\"></div>\n                    <p>Корпоративные <br>мероприятия</p>\n                </div>\n                <div class=\"tmpl_hh_working__item\">\n                    <div class=\"tmpl_hh_working__icon\"><img src=\"https://hhcdn.ru/ichameleon/237470.png\" alt=\"\"></div>\n                    <p>Стабильная работа <br>в динамично- <br>развивающейся компании</p>\n                </div>\n            </div>\n        </div>\n    </div>\n    <p class=\"tmpl_hh_footnote\">ООО «Супервэйв Групп» представляет бренд Superwave</p>\n</div> \n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "160",
+      "name": "DevOps-инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4174",
+    "name": "SuperWave Group",
+    "url": "https://api.hh.ru/employers/4174",
+    "alternate_url": "https://hh.ru/employer/4174",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1421679.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7306365.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7306366.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4174",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T09:20:29+0300",
+  "created_at": "2025-06-02T09:20:29+0300",
+  "initial_created_at": "2025-04-24T13:34:04+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119909280",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119909280",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

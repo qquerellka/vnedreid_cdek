@@ -1,0 +1,161 @@
+{
+  "id": "121091004",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Младший тестировщик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 70000,
+    "to": 90000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 70000,
+    "to": 90000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Привет! <strong>Metacommerce </strong>-<strong> </strong>ведущая российская SaaS-платформа, которая помогает ритейлерам и производителям анализировать <strong>большие данные</strong>.</p> <p>Нашими решениями пользуются <strong>Х5 Group, ВкусВилл, Citilink, ВинЛаб</strong> и другие крупные компании. Мы – <strong>аккредитованная IT-компания, резидент Сколково и портфельная компания ФРИИ</strong>, а наше ПО включено в <strong>Реестр Отечественного ПО</strong>.</p> <p>Что у нас:</p> <ul> <li>Современный технологический стек и открытость к новым решениям.</li> <li>Общение без бюрократии.</li> <li>Участие в планировании, стендапах и ретроспективах.</li> <li>Возможность экспериментировать и внедрять нововведения.</li> </ul> <p>Если тебе нравится работа с данными и автоматизация, хочешь расти в профессиональной среде и делать крутой продукт — присоединяйся к нам!</p> <p><strong>Задачи, над которыми предстоит работать:</strong></p> <ul> <li>Ручное тестирование веб-фронтенда.</li> <li>Ручное тестирование API.</li> <li>Составление и ведение тестовых сценариев, баг-репортов, чек-листов, технической документации.</li> <li>В дальнейшем планируем развивать направление автотестирования.</li> </ul> <p><strong>Что ожидаем от кандидата:</strong></p> <ul> <li><strong>Опыт работы на коммерческих проектах</strong> от 1 года;</li> <li>Понимание HTML, CSS и основ программирования.</li> <li>Базовые знания технологии программирования и одного из современных языков.</li> <li>Базовые знания о том, как работают web-приложения, REST API и HTTP-запросы.</li> <li>Умение работать с браузерными инструментами разработчика (DevTools).</li> <li>Понимание теории тестирования и тест-дизайна.</li> <li>Из soft-skill&#39;ов: внимательность к деталям, организованность и желание разбираться в сложных задачах.</li> </ul> <p><strong>Будет плюсом, если ты:</strong></p> <ul> <li>Знаешь инструменты автотестирования.</li> <li>Умеешь тестировать БД (PostgreSQL, ElasticSearch, Clickhouse, Redis).</li> <li>Знаком с Postman.</li> <li>Пробовал писал код на Java, JavaScript или TypeScript.</li> </ul> <p><strong>Что предлагаем:</strong></p> <ul> <li><strong>Интересные задачи:</strong> работаем с большими данными и сложными алгоритмами.</li> <li><strong>Современные технологии:</strong> никаких &quot;legacy&quot;, только актуальные инструменты.</li> <li><strong>Прозрачное оформление: </strong>работаем официально - оформление по ТК РФ или через самозанятость — на ваш выбор. Доход полностью “белый”.</li> <li><strong>Гибкий график: </strong>стартуем гибко, работаем по московскому времени — но без привязки к жёсткому расписанию.</li> <li><strong>Удалёнка с любой точки мира</strong>: не важно, где вы находитесь. Главное — стабильный интернет и ваша связь с командой.</li> <li><strong>Поддержка в важных моментах</strong>: знаковые события в жизни не остаются без внимания. Мы поддерживаем материально, если случаются действительно важные поводы.</li> <li><strong>Развитие — это важно</strong>: компенсируем 50% стоимости профильного обучения и курсов английского. Хочется учиться — будет поддержка.</li> <li>Возможность взять оплачиваеый day-off по личным обстоятельствам.</li> </ul> <p><strong>Этапы общения:</strong> мы стараемся сделать процесс отбора понятным, комфортным и максимально человечным. Вот что вас ждёт на пути к нам в команду:</p> <ul> <li><strong>Отклик на вакансию: </strong>первый шаг — ваш отклик. Расскажите немного о себе и почему вам интересна эта роль. Мы обязательно ознакомимся со всеми резюме.</li> <li> <p><strong>Тестовое задание:</strong> мы получаем 200+ откликов ежедневно и готовы общаться с теми, кто действительно заинтересован в развитии и готов продемонтрировать это на первых этапах.</p> </li> <li> <p><strong>Телефонное интервью:</strong> если ваш опыт и мотивация совпадают с тем, что мы ищем — созвонимся. Познакомимся, немного поговорим о вашем опыте и ответим на вопросы.</p> </li> <li> <p><strong>Онлайн собеседование: </strong>встретимся с будущими коллегами. Обсудим задачи, ожидания, формат взаимодействия. И просто познакомимся ближе.</p> </li> <li> <p><strong>Оффер: </strong>если мы подходим друг другу — присылаем предложение и начинаем путь вместе.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Postman"
+    },
+    {
+      "name": "Elasticsearch"
+    },
+    {
+      "name": "API"
+    },
+    {
+      "name": "Clickhouse"
+    },
+    {
+      "name": "Redis"
+    },
+    {
+      "name": "PostgreSQL"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1842732",
+    "name": "Metacommerce",
+    "url": "https://api.hh.ru/employers/1842732",
+    "alternate_url": "https://hh.ru/employer/1842732",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/534153.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/2578085.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/2578086.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1842732",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-28T15:38:44+0300",
+  "created_at": "2025-05-28T15:38:44+0300",
+  "initial_created_at": "2025-05-28T15:38:44+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121091004",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121091004",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "a2",
+        "name": "A2 — Элементарный"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

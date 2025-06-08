@@ -1,0 +1,149 @@
+{
+  "id": "120465873",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Ведущий инженер-тестировщик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Малый Конюшковский переулок",
+    "building": "2",
+    "lat": 55.75824,
+    "lng": 37.580193,
+    "description": null,
+    "raw": "Москва, Малый Конюшковский переулок, 2",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><em>В Университет 2035 в Центр тестирования и внедрения ПО нужен Тестировщик .</em></p> <p><strong>Чем предстоит заниматься</strong><strong>:</strong></p> <ul> <li>Разрабатывать тестовые модели и писать тестовую документацию (тест-кейсы, чек-листы, тест-планы и пр.).</li> <li>Разрабатывать и поддерживать BDD автотесты, API автотесты, сквозные тесты бизнес-сценариев;</li> <li>Проводить функциональное, интеграционное, сквозное тестирование бизнес-сценариев, нагрузочных видов тестирования;</li> <li>Проводить первичную диагностику дефектов с целью обнаружения точки сбоя;</li> <li>Проводить поиск узких мест (бутылочных горлышек) производительности по результатам нагрузочного тестирования и разрабатывать рекомендации по устранению узких мест производительности по результатам нагрузочных испытаний;</li> <li>Передавать на документирование обнаруженные дефекты в системе сопровождения задач организации;</li> <li>Участвовать в коммуникации между подразделениями организации с целью скорейшего устранения обнаруженных дефектов;</li> <li>Формирование отчетности по артефактам тестирования.</li> </ul> <p> </p> <p><strong>Что мы ждём от кандидата</strong><strong>:</strong></p> <ul> <li>Релевантный опыт от 3 лет;</li> <li>Высокая организованность и умение работать в условиях многозадачности;</li> <li>Отличные коммуникативные навыки и способность к эффективному взаимодействию с командой;</li> <li>Знание SQL на уровне простых запросов;</li> <li>Знание Postman, SOAP UI или аналогов;</li> <li>Знание процесса тестирования и его места в жизненном цикле программного обеспечения;</li> <li>Знание системы управление тестированием (HP QC, TestRail или аналогов);</li> <li>Навыки анализа требований, описанных в user-story, use-case, технических заданиях или аналогах;</li> <li>Знание систем постановки задач разработчикам (Jira или аналоги).</li> </ul> <p> </p> <p><strong>Большим плюсом будет:</strong></p> <ul> <li>Опыт автоматизации тестирования.</li> </ul> <p> </p> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Аккредитованная IT-компания;</li> <li>Официальное трудоустройство согласно ТК РФ;</li> <li>Офис в 5 минутах от ст. м. Баррикадная (формат работы обсуждаем);</li> </ul> <ul> <li>Конкурентная белая заработная плата, ежегодная индексация;</li> <li>ДМС со стоматологией после испытательного срока;</li> <li>График работы: пн.-пт. с 9:30 до 18:30.</li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Postman"
+    },
+    {
+      "name": "SoapUI"
+    },
+    {
+      "name": "TestRail"
+    },
+    {
+      "name": "Atlassian Jira"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "8898496",
+    "name": "АНО Университет Национальной Технологической Инициативы 2035",
+    "url": "https://api.hh.ru/employers/8898496",
+    "alternate_url": "https://hh.ru/employer/8898496",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1011211.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/5665616.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/5665617.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=8898496",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-13T12:07:07+0300",
+  "created_at": "2025-05-13T12:07:07+0300",
+  "initial_created_at": "2025-05-13T12:07:07+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120465873",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120465873",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

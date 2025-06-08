@@ -1,0 +1,150 @@
+{
+  "id": "120794264",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер-программист 1 категории (ОП ИПЦ)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "99",
+    "name": "Уфа",
+    "url": "https://api.hh.ru/areas/99"
+  },
+  "salary": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Уфа",
+    "street": "улица 50 лет Октября",
+    "building": "24",
+    "lat": 54.737128,
+    "lng": 55.977205,
+    "description": null,
+    "raw": "Уфа, улица 50 лет Октября, 24",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<h2><strong>Условия:</strong></h2> <ul> <li>Трудоустройство согласно ТК РФ</li> <li><strong>Офис в центре города,</strong></li> <li><strong>Заработная плата от </strong><strong>100 000 рублей </strong>(обсуждается на собеседовании)</li> <li><strong>Режим работы с 09.00 до 18.00 </strong>(гибкое начало рабочего дня обсуждается на собеседовании)</li> <li><strong>ДМС </strong>после испытательного срока</li> <li><strong>Дополнительные отпуска,</strong> согласно коллективного договора</li> </ul> <h2><strong>Обязанности:</strong></h2> <ul> <li>Написание и отладка программного обеспечения на Python для промышленных контроллеров</li> </ul> <h2><strong>Требования:</strong></h2> <ul> <li>Уверенные знания - <strong>Python</strong></li> <li>Опыт разработки GUI - приложений под Windows/Linux</li> <li>Желательны знания С/С++, Linux, wxPython</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "C++"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Linux"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "136171",
+    "name": "Нефтеавтоматика",
+    "url": "https://api.hh.ru/employers/136171",
+    "alternate_url": "https://hh.ru/employer/136171",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1390079.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7180103.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7180104.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=136171",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-21T08:53:41+0300",
+  "created_at": "2025-05-21T08:53:41+0300",
+  "initial_created_at": "2025-05-21T08:53:41+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120794264",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120794264",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

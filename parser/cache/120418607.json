@@ -1,0 +1,128 @@
+{
+  "id": "120418607",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "ML Инженер (Computer Vision)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>В компании<strong> АО «КТ-Беспилотные Системы» </strong>(входит в реестр аккредитованных Минцифры ИТ-компаний; дочерняя структура АО &quot;Кронштадт&quot;) открыта позиция <strong>Старшего/Ведущего Инженера-программиста </strong>для работы над проектами в области машинного обучения и искусственного интеллекта.</p> <p><strong>Обязанности:</strong></p> <ul> <li>Разработка и оптимизация алгоритмов компьютерного зрения и машинного обучения под различные виды вычислительных устройств;</li> <li>Интеграция обученных моделей нейронных сетей в программные комплексы;</li> </ul> <p><strong>Наши ожидания:</strong></p> <ul> <li>Опыт разработки от 3-х лет;</li> <li>Уверенное знание C++;</li> <li>Опыт реализации эффективных алгоритмов обработки данных;</li> <li>Базовые знания линейной алгебры, теории вероятностей и статистики;</li> <li>Умение работать с Linux, Bash, Git;</li> <li>Достаточный уровень владения английским языком для чтения технической документации;</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт программирования на языке Python;</li> <li>Опыт программирования на CUDA;</li> <li>Опыт работы в области компьютерного зрения;</li> <li>Опыт работы в области машинного обучения;</li> <li>Понимание принципов работы нейронных сетей;</li> </ul> <p><strong>У нас:</strong></p> <ul> <li>Оформление по ТК РФ, полный соц. пакет;</li> <li>ДМС (со стоматологией);</li> <li>Рабочее пространство в СПб. (ст.м. Василеостровская);</li> <li>Премии по этапам закрытия проектов;</li> <li>Гибкий подход к графику работы и началу дня;</li> <li>Дополнительные оплачиваемые 3 дня отпуска;</li> <li><strong>Сотрудники компании имеют возможность отсрочки от призыва на срочную службу и мобилизации;</strong></li> <li>Крытая велопарковка , комфортный офис и кофе-точки;</li> <li>Интересные проекты и возможность видеть продукт своей деятельности;</li> <li>Обучение, повышение квалификации, участие в выставках и профильных мероприятиях.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Bash"
+    },
+    {
+      "name": "Git"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "5272483",
+    "name": "Компания «Кронштадт»",
+    "url": "https://api.hh.ru/employers/5272483",
+    "alternate_url": "https://hh.ru/employer/5272483",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/887292.JPG",
+      "90": "https://img.hhcdn.ru/employer-logo/3989867.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3989868.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5272483",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-12T15:09:19+0300",
+  "created_at": "2025-05-12T15:09:19+0300",
+  "initial_created_at": "2025-05-12T15:09:19+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120418607",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120418607",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

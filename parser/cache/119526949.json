@@ -1,0 +1,128 @@
+{
+  "id": "119526949",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "DevOps инженер (OnPremises)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Привет! Мы — DevOps команда внутри 2ГИС. Стоим на границе между инфраструктурой и разработкой. Помогаем разработчикам правильно адаптировать приложения к инфраструктуре. А инфраструктуре подсказываем что ещё крутого должно появиться у нас в компании.</p> <p>Постоянно деплоим в Kubernetes, заворачивая это в CI/CD Pipelines. Рассказываем как надо делать логирование и мониторинг, чтобы легко было найти проблемы или порадоваться новым достижениям. Создаём общие решения для разработки, чтобы их можно было взять и сразу в бой!</p> <p>К себе в команду мы ищем DevOps-инженера на новый проект. Вам предстоит помогать интегрировать решения 2ГИС внешним клиентам, тесно взаимодействовать в вопросах интеграции наших приложений и инфраструктуры заказчика. Выявлять проблемы и принимать участие в улучшении поставляемых решений.</p> <p><strong>Наш стек технологий: K8s, Helm, Helmfile, Ansible, Python/Bash. </strong></p> <p><strong>Мы ищем человека, который будет</strong></p> <ul> <li> <p>Взаимодействовать с DevOps инженерами внешних клиентов.</p> </li> <li> <p>Взаимодействовать с разработчиками и командой инфраструктуры 2ГИС.</p> </li> <li> <p>Автоматизировать деплой инфраструктуры и нашего On-Premise решения на стороне заказчика.</p> </li> <li> <p>Анализировать проблемы при интеграции и предлагать улучшения продукта.</p> </li> <li> <p>Улучшать мониторинг и логирование приложений.</p> </li> <li> <p>Участвовать в подготовке новых сервисов.</p> </li> </ul> <p><strong>У нашего идеального кандидата</strong></p> <ul> <li> <p>Высокий уровень самостоятельности.</p> </li> <li> <p>Хорошее знание Linux систем.</p> </li> <li> <p>Есть опыт построения, настройки, эксплуатации и оптимизации HA-решений.</p> </li> <li> <p>Есть понимание процессов Software Development и принципов подхода Infrastructure as a Code.</p> </li> <li> <p>Есть опыт работы с Kubernetes, Helm, Helmfile, Bash/Python/Golang, Ansible.</p> </li> <li> <p>Есть понимание CI/CD процесса.</p> </li> <li> <p>Есть готовность к командировкам к нашим клиентам 2-3 раза в год (Россия и другие страны).</p> </li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li> <p>опыт работы с Prometheus, Openstack, Kafka, PostgreSQL, Jenkins, Gitlab CI/CD, Cassandra, Elasticsearch.</p> </li> <li> <p>опыт работы с публичными облаками AWS, GCP, Azure.</p> </li> </ul> <p>Если тебе не хватает знаний в перечисленных технологиях, но ты готов стать экспертом в них, приходи!</p> <p><strong>Условия</strong></p> <ul> <li>2ГИС — аккредитованная IT-компания.</li> <li>Для нас важен специалист, а не его локация. Можно работать удалённо. Если хочешь работать в гибридном формате, у нас есть офисы в Москве, Санкт-Петербурге, два классных офиса в Новосибирске. А также коворкинги в Нижнем Новгороде, Томске, Астане, Алма-Ате и Дубае.</li> <li>Само собой, полностью белая зарплата. Дополнительные дни отпуска за стаж работы в компании.</li> <li>Заботимся о здоровье: ДМС и возможность получать онлайн-консультации терапевта, невролога, психолога и медицинского агента.</li> <li>Если хочешь делиться своим опытом, мы только за — поможем с выступлениями на конференциях и статьями для Хабра.</li> <li>Есть собственный учебный центр: курсы, тренинги и книги для прокачки скиллов.</li> <li>Руководствуемся здравым смыслом, используем современные технологии и любим о них говорить.</li> </ul>",
+  "branded_description": "\n<style>\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;    \n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-weight: normal;\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    display: inline-block;\n    margin: 28px 0 0;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    color: #000;\n    overflow: hidden;\n    font-family: 'Arial';\n    font-size: 16px;\n    line-height: 24px;\n    z-index: 1;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_content {\n    padding: 28px 91px 20px 37px;\n    position: relative;\n    z-index: 1;\n}\n\n.tmpl_hh_content p:first-child strong,\n.tmpl_hh_content>strong:first-child strong,\n.tmpl_hh_content div>strong:first-child strong,\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n   margin: 10px 0 10px;\n}\n\n.tmpl_hh_content b, \n.tmpl_hh_content strong {\n    display: inline-block;\n    font-weight: normal;\n    font-size: 26px;\n    line-height: 36px;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    list-style: none !important;\n    margin-left: 15px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 4px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 4px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;    \n}\n\n.tmpl_hh_content li:before {\n    position: absolute;\n    left:-15px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"\\2022\";\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter)'.';\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n\n.tmpl_hh_flex {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n}\n\n.tmpl_hh_header {\n    position: relative;\n    background: url(\"https://hhcdn.ru/ichameleon/270910.png\");\n    background-size: cover;    \n    height: 0;\n    padding-bottom: 42%;\n}\n\n.tmpl_hh_banner {\n    background: url(https://hhcdn.ru/ichameleon/266746.jpg) 0 0 / 100% auto no-repeat;\n    height: 0;\n    padding-bottom: 40.5%;\n    position: relative;\n}\n\np.tmpl_hh_banner__text {\n    font-size: 24px;\n    line-height: 1.32;\n    color: #FFFFFF;\n    position: absolute;\n    left: 10%;\n    top: 43%;\n    transform: translate(0,-50%);\n    right: 30%;\n}\n\n.tmpl_hh_principles {\n    margin: -11px 36px 45px;\n    position: relative;\n}\n\np.tmpl_hh_principles__title {\n    font-size: 26px;\n    line-height: 35px;\n    margin-bottom: 15px;\n}\n\n.tmpl_hh_principles__column {\n    width: 48.7%;\n}\n\n.tmpl_hh_principles__item {\n    width: 90%;\n    margin-bottom: 18px;\n}\n\n.tmpl_hh_principles__item b {\n    display: block;\n}\n\np.tmpl_hh_footnote {\n    font-size: 12px;\n    line-height: 14px;\n    color: #666666;\n    margin: 36px 0 0;\n}\n\n@media screen and (max-width: 699px) {\n    .tmpl_hh_wrapper {\n        font-size: 14px;\n        line-height: 24px;\n    }\n\n    .tmpl_hh_content {\n        padding: 30px 5.5% 14px;\n    }\n\n    .tmpl_hh_content b, \n    .tmpl_hh_content strong {\n        font-size: 22px;\n        line-height: 35px;\n    }\n\n    p.tmpl_hh_banner__text {\n        font-size: 3.5vw;\n    }\n\n    .tmpl_hh_principles {\n        margin: 15px 14px 45px;\n        font-size: 14px;\n        line-height: 21px;\n    }\n\n    p.tmpl_hh_principles__title {\n        font-size: 22px;\n        line-height: 35px;\n        margin-bottom: 13px;\n    }\n\n    .tmpl_hh_principles__column {\n        width: 100%;\n        margin-bottom: -5px;\n    }\n\n    .tmpl_hh_principles__item {\n        width: 100%;\n        margin-bottom: 18px;\n    }\n\n    .tmpl_hh_content p b, .tmpl_hh_content p strong {\n        margin: 22px 0 0;\n    }\n}\n</style>\n\n<div class=\"tmpl_hh_wrapper\">\n    <div class=\"tmpl_hh_header\"></div>\n    <div class=\"tmpl_hh_content\">\n       <p>Привет! Мы — DevOps команда внутри 2ГИС. Стоим на границе между инфраструктурой и разработкой. Помогаем разработчикам правильно адаптировать приложения к инфраструктуре. А инфраструктуре подсказываем что ещё крутого должно появиться у нас в компании.</p> <p>Постоянно деплоим в Kubernetes, заворачивая это в CI/CD Pipelines. Рассказываем как надо делать логирование и мониторинг, чтобы легко было найти проблемы или порадоваться новым достижениям. Создаём общие решения для разработки, чтобы их можно было взять и сразу в бой!</p> <p>К себе в команду мы ищем DevOps-инженера на новый проект. Вам предстоит помогать интегрировать решения 2ГИС внешним клиентам, тесно взаимодействовать в вопросах интеграции наших приложений и инфраструктуры заказчика. Выявлять проблемы и принимать участие в улучшении поставляемых решений.</p> <p><strong>Наш стек технологий: K8s, Helm, Helmfile, Ansible, Python/Bash. </strong></p> <p><strong>Мы ищем человека, который будет</strong></p> <ul> <li> <p>Взаимодействовать с DevOps инженерами внешних клиентов.</p> </li> <li> <p>Взаимодействовать с разработчиками и командой инфраструктуры 2ГИС.</p> </li> <li> <p>Автоматизировать деплой инфраструктуры и нашего On-Premise решения на стороне заказчика.</p> </li> <li> <p>Анализировать проблемы при интеграции и предлагать улучшения продукта.</p> </li> <li> <p>Улучшать мониторинг и логирование приложений.</p> </li> <li> <p>Участвовать в подготовке новых сервисов.</p> </li> </ul> <p><strong>У нашего идеального кандидата</strong></p> <ul> <li> <p>Высокий уровень самостоятельности.</p> </li> <li> <p>Хорошее знание Linux систем.</p> </li> <li> <p>Есть опыт построения, настройки, эксплуатации и оптимизации HA-решений.</p> </li> <li> <p>Есть понимание процессов Software Development и принципов подхода Infrastructure as a Code.</p> </li> <li> <p>Есть опыт работы с Kubernetes, Helm, Helmfile, Bash/Python/Golang, Ansible.</p> </li> <li> <p>Есть понимание CI/CD процесса.</p> </li> <li> <p>Есть готовность к командировкам к нашим клиентам 2-3 раза в год (Россия и другие страны).</p> </li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li> <p>опыт работы с Prometheus, Openstack, Kafka, PostgreSQL, Jenkins, Gitlab CI/CD, Cassandra, Elasticsearch.</p> </li> <li> <p>опыт работы с публичными облаками AWS, GCP, Azure.</p> </li> </ul> <p>Если тебе не хватает знаний в перечисленных технологиях, но ты готов стать экспертом в них, приходи!</p> <p><strong>Условия</strong></p> <ul> <li>2ГИС — аккредитованная IT-компания.</li> <li>Для нас важен специалист, а не его локация. Можно работать удалённо. Если хочешь работать в гибридном формате, у нас есть офисы в Москве, Санкт-Петербурге, два классных офиса в Новосибирске. А также коворкинги в Нижнем Новгороде, Томске, Астане, Алма-Ате и Дубае.</li> <li>Само собой, полностью белая зарплата. Дополнительные дни отпуска за стаж работы в компании.</li> <li>Заботимся о здоровье: ДМС и возможность получать онлайн-консультации терапевта, невролога, психолога и медицинского агента.</li> <li>Если хочешь делиться своим опытом, мы только за — поможем с выступлениями на конференциях и статьями для Хабра.</li> <li>Есть собственный учебный центр: курсы, тренинги и книги для прокачки скиллов.</li> <li>Руководствуемся здравым смыслом, используем современные технологии и любим о них говорить.</li> </ul><p class=\"tmpl_hh_footnote\">ООО «ДубльГИС» представляет бренд 2ГИС</p>\n    </div>\n    <div class=\"tmpl_hh_banner\">\n        <p class=\"tmpl_hh_banner__text\">Делаем карту, справочник и навигатор. А ещё — API и SDK, сервис бронирования Отелло, 2ГИС Про для бизнеса, оплату на АЗС и даже роботов.</p>\n    </div>\n    <!-- <div class=\"tmpl_hh_principles\">\n        <p class=\"tmpl_hh_principles__title\">Наши принципы</p>\n        <div class=\"tmpl_hh_principles__columns tmpl_hh_flex\">\n            <div class=\"tmpl_hh_principles__column\">\n                <div class=\"tmpl_hh_principles__item\"><b>&#171;Зачем&#187; важнее, чем &#171;что&#187;</b> Понимание смысла задач&#160;&#8212;<br/> самая сильная мотивация</div>\n                <div class=\"tmpl_hh_principles__item\"><b>Ошибки уточняют путь</b> Не боимся экспериментировать<br/> с&#160;новыми технологиями</div>\n                <div class=\"tmpl_hh_principles__item\"><b>Открытость&#160;&#8212; основа культуры</b> Публично рассказываем о&#160;планах,<br/> их&#160;мотивах, результатах и&#160;ошибках</div>\n            </div>\n            <div class=\"tmpl_hh_principles__column\">\n                <div class=\"tmpl_hh_principles__item\"><b>Доверие важнее иерархии</b> Строим общение на&#160;взаимном уважении и&#160;доверии</div>\n                <div class=\"tmpl_hh_principles__item\"><b>Ограничения это вызов</b> Ищем лучшие решения внутри них &#8212; это сложнее, но&#160;интереснее</div>\n                <div class=\"tmpl_hh_principles__item\"><b>Отдых&#160;&#8212; способ работать лучше</b> Работа это важно, но&#160;жизнь состоит не&#160;только из&#160;неё</div>\n            </div>\n        </div>\n    </div> -->\n</div> \n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "Helm"
+    },
+    {
+      "name": "Ansible"
+    },
+    {
+      "name": "CI/CD"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "160",
+      "name": "DevOps-инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "64174",
+    "name": "2ГИС",
+    "url": "https://api.hh.ru/employers/64174",
+    "alternate_url": "https://hh.ru/employer/64174",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1016925.jpeg",
+      "90": "https://img.hhcdn.ru/employer-logo/5688468.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/5688469.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=64174",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-01T17:25:49+0300",
+  "created_at": "2025-06-01T17:25:49+0300",
+  "initial_created_at": "2025-04-15T09:16:34+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119526949",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119526949",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

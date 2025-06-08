@@ -1,0 +1,150 @@
+{
+  "id": "121080349",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Python Developer (Middle/Middle+)",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "2 линия",
+    "building": "метро Петроградская",
+    "lat": 59.966399,
+    "lng": 30.311511,
+    "description": null,
+    "raw": "Санкт-Петербург, 2 линия, метро Петроградская",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>OSLA это SaaS-платформа для строительной отрасли.</p> <p>Наш продукт является первой в России комплексной платформой по автоматизации строительного производства, построенной на сквозных связях. В 2023 году были переданы первые платные лицензии клиентам в России и Казахстане.</p> <p>Мы создаем интуитивно понятное и простое в использовании комплексное решение для цифровой трансформации строительной отрасли, доступное всем участникам рынка не зависимо от масштаба деятельности.</p> <p>Даем свободу принятия решений тем, кто готов взять на себя ответственность. Готовы слушать и слышать вас. Обеспечиваем всем необходимым для комфортной работы, отсутствие формальностей, гибкие границы рабочего дня.</p> <p>Предстоит заниматься:</p> <p>Проектированием архитектуры и разработкой серверной части приложения.<br />Покрытие тестами текущей кодовой базы<br />Разработкой новых и развитием существующих функций в рамках платформы.<br />Интеграцией с API внешних сервисов.<br />Внедрением полезных практик и методологий.</p> <p>Требования к кандидату:</p> <p>Уверенное знание Python 3, опыт разработки клиент-серверных приложений (backend) на основе Django REST framework.<br />Опыт продуктовой разработки backend от 2 лет.<br />Высокий уровень знания SQL (Postgres).<br />Написание тестов (Unit, Интеграционные)<br />Умение разбираться в чужом коде, производить рефакторинг и оптимизацию, делать code-review.</p> <p><br />Будет плюсом:<br />Опыт проектирования архитектуры бэкенда.<br />Знание Docker, опыт работы с распределенными очередями сообщений (Celery).<br />Опыт в бизнес-домене строительства.</p> <p>Условия:</p> <p>Оформление по ТК.<br />Выплата ЗП 2 раза/мес.<br />Офис в центре Санкт-Петербурга.</p> <p><br />Ключевые навыки<br />Python<br />Django Framework<br />REST<br />Тестирование backend-приложений<br />PostgreSQL<br />Git<br />Docker<br />Celery</p> <p><br />Мы будем рады тем, кто по-настоящему любит свое дело, готов на практике создавать действительно крутой продукт,<br />стремится расти в hard и soft скиллах внутри нашей команды Osla</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Django"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Celery"
+    },
+    {
+      "name": "Django Framework"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "REST"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2668672",
+    "name": "Osla",
+    "url": "https://api.hh.ru/employers/2668672",
+    "alternate_url": "https://hh.ru/employer/2668672",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/478094.png",
+      "90": "https://img.hhcdn.ru/employer-logo/2354228.png",
+      "240": "https://img.hhcdn.ru/employer-logo/2354229.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2668672",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T12:55:47+0300",
+  "created_at": "2025-06-06T12:55:47+0300",
+  "initial_created_at": "2025-05-28T12:55:47+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121080349",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121080349",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,159 @@
+{
+  "id": "121390017",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Старший системный администратор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "18-я линия Васильевского острова",
+    "building": "29",
+    "lat": 59.937517,
+    "lng": 30.266137,
+    "description": null,
+    "raw": "Санкт-Петербург, 18-я линия Васильевского острова, 29",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Добро пожаловать в РЕСО-Лизинг!</strong></p> <p>Мы предоставляем услуги <strong>финансового </strong><strong>лизинга</strong> малому, среднему и крупному бизнесу.</p> <p>Наша компания на рынке уже более 20 лет, мы уверенно несём статус федеральной компании и уверенно входим в <strong>ТОП-10 ЛК по РФ</strong>.</p> <p>В связи с расширением у нас открыт поиск на позицию: &quot;<strong>Старший системный администратор&quot;, </strong>оставляйте свои резюме и мы выйдем с Вами на связь.</p> <p><strong>Требования:</strong></p> <ul> <li>Опыт работы с системами мониторинга Zabbix, Grafana, Prometheus;</li> <li>Практические навыки администрирования серверных Windows Server и Linux ОС (Debian, CentOS, Ubuntu);</li> <li>Знание СУБД mySQL, posgresql;</li> <li>Опыт работы с сетевым оборудованием Cisco (коммутаторы, маршрутизаторы);</li> </ul> <p><strong>Обязанности:</strong></p> <ul> <li>Развертывание системы резервного копирования veeam;</li> <li>Консолидация доменной структуры;</li> <li>Обслуживание инфраструктуры виртуализации (хосты виртуализации, SAN, СХД);</li> <li>Администрирование:</li> </ul> <ol> <li>Систем виртуализации VMware ESXi;</li> <li>Серверов на базе Linux, Windows Server;</li> <li>Телефонии 3СХ;</li> <li>MS Exchange.</li> <li>Microsoft RDS.</li> <li>Veeam B&amp;R</li> </ol> <p><strong>Условия:</strong></p> <ul> <li>Оформление по ТК РФ;</li> <li>Оплата труда: Оклад + ежемесячная премия;</li> <li>График работы 5/2 c 09:00 до 18:00 (пт - сокращенный день);</li> <li>Возможность карьерного роста в федеральной компании;</li> <li>Выгодные корпоративные предложения от компании;</li> <li>Расширенная ДМС со стоматологией.</li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Zabbix"
+    },
+    {
+      "name": "Grafana"
+    },
+    {
+      "name": "Prometheus"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Cisco"
+    },
+    {
+      "name": "VMware"
+    },
+    {
+      "name": "ESXi"
+    },
+    {
+      "name": "Windows Server 2012"
+    },
+    {
+      "name": "Windows Server 2019"
+    },
+    {
+      "name": "3СХ"
+    },
+    {
+      "name": "Ms Exchange Server"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "739268",
+    "name": "РЕСО-Лизинг",
+    "url": "https://api.hh.ru/employers/739268",
+    "alternate_url": "https://hh.ru/employer/739268",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1211070.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6464729.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6464730.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=739268",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T15:31:14+0300",
+  "created_at": "2025-06-05T15:31:14+0300",
+  "initial_created_at": "2025-06-05T15:31:14+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121390017",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121390017",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

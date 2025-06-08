@@ -1,0 +1,155 @@
+{
+  "id": "121420564",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Middle Fullstack разработчик (React + Python)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Каменноостровский проспект",
+    "building": "26-28",
+    "lat": 59.96226,
+    "lng": 30.313317,
+    "description": null,
+    "raw": "Санкт-Петербург, Каменноостровский проспект, 26-28",
+    "metro": {
+      "station_name": "Петроградская",
+      "line_name": "Московско-Петроградская",
+      "station_id": "15.215",
+      "line_id": "15",
+      "lat": 59.966389,
+      "lng": 30.311293
+    },
+    "metro_stations": [
+      {
+        "station_name": "Петроградская",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.215",
+        "line_id": "15",
+        "lat": 59.966389,
+        "lng": 30.311293
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><span><strong>AdSkill</strong> – это международный сервис для запуска и оптимизации рекламы. Мы команда профессионалов, которая обеспечивает быстрый запуск и максимальный результат для наших клиентов. Мы масштабируем бизнес агентств, брендов и компаний более 10 лет, а в команде уже 100 человек и мы растем!</span></p><p><span>Наше главное преимущество – неограниченное количество агентских рекламных аккаунтов самых популярных площадок.</span></p><p><span>В настоящий момент мы находимся в поиске невероятно ответственного <strong>Fullstack developer</strong>!</span></p><p><span><strong>Что будет входить в твои обязанности:</strong></span></p><ul><li><p><span>Разработка и поддержание функционала на фронтенде (<strong>React</strong>) и бэкенде (<strong>Python, Django</strong>)</span></p></li><li><p><span>Проектирование архитектуры сервиса</span></p></li><li><p><span>Написание чистого, понятного и эффективного кода</span></p></li><li><p><span>Работа с REST API — как создавать, так и интегрировать для взаимодействия с внешними сервисами</span></p></li><li><p><span>Настройка взаимодействия с базами данных (PostgreSQL / MySQL)</span></p></li><li><p><span>Организация фоновых задач с помощью Celery + Redis</span></p></li><li><p><span>Участие в процессах деплоя и постепенное подключение к работе с Docker и Kubernetes</span></p></li><li><p><span>Взаимодействие с командой — продактами, дизайнерами, тестировщиками и другими разработчиками</span></p></li></ul><p><span><strong>Что мы хотим найти в кандидате:</strong></span></p><ul><li><p><span>Опыт разработки на <strong>React</strong> от<strong> 2</strong> лет</span></p></li><li><p><span>Опыт работы с <strong>Python, Django</strong> и <strong>Django REST Framework</strong> от <strong>1</strong> года</span></p></li><li><p><span>Знания реляционных баз данных (MySQL, PostgreSQL)</span></p></li><li><p><span>Опыт работы с системами очередей и кэширования (Celery, Redis)</span></p></li><li><p><span>Опыт работы с контейнеризацией и оркестрацией (Docker, Kubernetes)</span></p></li><li><p><span>Знание принципов и паттернов разработки (SOLID, DDD, Clean Architecture и др.)</span></p></li><li><p><span>Опыт интеграции с внешними API и разработки собственных API</span></p></li><li><p><span>Понимание принципов безопасности веб-приложений</span></p></li><li><p><span>Умение работать в команде</span></p></li></ul><p><span><strong>Что мы предлагаем:</strong></span></p><ul><li><p><span>Официальное трудоустройство с первого рабочего дня</span></p></li><li><p><span>Современный офис на Петроградке</span></p></li><li><p><span>Нормированный рабочий день с 11:00 до 19:00</span></p></li><li><p><span>Возможность профессионального и карьерного роста</span></p></li><li><p><span>ДМС после испытательного срока</span></p></li><li><p><span>Изучение английского языка за счет компании с первого дня</span></p></li><li><p><span>Корпоративные мероприятия, ивенты и активности</span></p></li></ul><p><span><em>Дорогой кандидат!</em></span></p><p><span><em>Я буду очень рада, если ты напишешь небольшое, но емкое сопроводительное письмо и поделишься дополнительной информацией о себе и своем опыте. Это поможет мне лучше понять тебя и твою мотивацию.</em></span></p><p></p><p></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Коммуникабельность"
+    },
+    {
+      "name": "Креативность"
+    },
+    {
+      "name": "Целеустремленность"
+    },
+    {
+      "name": "Стратегическое мышление"
+    },
+    {
+      "name": "Критическое мышление"
+    },
+    {
+      "name": "Лидерские навыки"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "6021678",
+    "name": "Эдскилл",
+    "url": "https://api.hh.ru/employers/6021678",
+    "alternate_url": "https://hh.ru/employer/6021678",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1308871.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6855742.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6855743.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6021678",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T13:37:57+0300",
+  "created_at": "2025-06-06T13:37:57+0300",
+  "initial_created_at": "2025-06-06T13:37:57+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121420564",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121420564",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

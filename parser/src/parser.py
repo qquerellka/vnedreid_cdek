@@ -78,6 +78,8 @@ class Settings:
         Number of workers for threading.
     rates : dict
         Dict of currencies. For example: {"RUB": 1, "USD": 0.001}
+    parse_resumes : bool
+        Whether to parse resumes instead of vacancies
     """
 
     def __init__(
@@ -90,6 +92,7 @@ class Settings:
         self.save_result: bool = False
         self.update: bool = False
         self.list_roles: bool = False
+        self.parse_resumes: bool = False
 
         # Get config from file
         with open(config_path, "r") as cfg:
@@ -98,17 +101,24 @@ class Settings:
         if not no_parse:
             params = self.__parse_args(input_args)
 
+            # First handle special flags
+            if params.get('list_roles'):
+                self.list_roles = True
+                return  # Exit early if we're just listing roles
+                
+            if params.get('resumes'):
+                self.parse_resumes = True
+
+            # Then handle other parameters
             for key, value in params.items():
-                if value is not None:
-                    if key == 'list_roles':
-                        self.list_roles = True
-                    elif key in config:
+                if value is not None and key not in ['list_roles', 'resumes']:
+                    if key in config:
                         config[key] = value
                     if "options" in config and key in config["options"]:
                         config["options"][key] = value
 
             self.update = params.get("update", False)
-            if params["update"]:
+            if params.get("update"):
                 with open(config_path, "w") as cfg:
                     json.dump(config, cfg, indent=2)
 
@@ -138,7 +148,7 @@ class Settings:
 
         """
 
-        parser = argparse.ArgumentParser(description="HeadHunter vacancies researcher")
+        parser = argparse.ArgumentParser(description="HeadHunter vacancies and resumes researcher")
         parser.add_argument(
             "-t", "--text", action="store", type=str, default=None, help='Search query text (e.g. "Machine learning")',
         )
@@ -161,6 +171,9 @@ class Settings:
         )
         parser.add_argument(
             "-l", "--list_roles", action="store_true", help="List all available professional roles from HH.ru",
+        )
+        parser.add_argument(
+            "--resumes", action="store_true", help="Parse resumes instead of vacancies",
         )
 
         params, unknown = parser.parse_known_args(inputs_args)

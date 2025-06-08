@@ -1,0 +1,159 @@
+{
+  "id": "121274509",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист технической поддержки",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Шарикоподшипниковская улица",
+    "building": "5",
+    "lat": 55.722537,
+    "lng": 37.668507,
+    "description": null,
+    "raw": "Москва, Шарикоподшипниковская улица, 5",
+    "metro": {
+      "station_name": "Дубровка",
+      "line_name": "Люблинско-Дмитровская",
+      "station_id": "10.39",
+      "line_id": "10",
+      "lat": 55.71807,
+      "lng": 37.676259
+    },
+    "metro_stations": [
+      {
+        "station_name": "Дубровка",
+        "line_name": "Люблинско-Дмитровская",
+        "station_id": "10.39",
+        "line_id": "10",
+        "lat": 55.71807,
+        "lng": 37.676259
+      },
+      {
+        "station_name": "Пролетарская",
+        "line_name": "Таганско-Краснопресненская",
+        "station_id": "7.62",
+        "line_id": "7",
+        "lat": 55.731546,
+        "lng": 37.666917
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Компания «Актив» — ведущий российский производитель программно-аппаратных решений в сфере информационной безопасности приглашает инженера в отдел технической поддержки клиентов Рутокен.</p> <p>Наша продуктовая линейка Рутокен (токены, смарт-карты) постоянно пополняется новыми решениями, которые предстоит изучать и помогать осваивать пользователям, нашим клиентам и партнерам.</p> <p><strong>Обязанности</strong></p> <ul> <li>Поддержка клиентов и конечных пользователей по телефону и электронной почте</li> <li>Выявление, исследование и решение запросов клиентов</li> <li>Тестирование программных и аппаратных продуктов компании по разным сценариям использования</li> <li>Углубленное изучение программных продуктов компании</li> <li>Сбор данных и формализация запросов клиентов</li> <li>Разработка предложений по улучшению ПО, документации, процессов и пр.</li> <li>Пополнение базы знаний</li> </ul> <p><strong>Требования</strong></p> <ul> <li>Опыт работы, связанный с технической поддержкой клиентов</li> <li>Знание OC семейства Windows на уровне продвинутого пользователя</li> <li>Знание ОС семейства Linux и mcOS приветствуется</li> <li>Грамотная устная и письменная речь, коммуникабельность, психологическая устойчивость, пунктуальность</li> </ul> <p><strong>Преимущество отдается кандидатам</strong></p> <ul> <li>Понимающим основные принципы работы защищенных носителей ключевой информации (токены, смарт-карты) и знающим области их применения</li> <li>Знакомым с различными отечественными средствами криптографической защиты информации и имеющим опыт работы с ними</li> <li>Знающим крупные информационные системы, в которых применяется ЭП на защищенных носителях, и имеющим опыт работы с ними</li> </ul> <p><strong>Условия</strong></p> <ul> <li>График работы 5/2 с 10:00 до 18:00 (работа в офисе)</li> <li>После прохождения испытательного срока возможен гибридный график (3 дня офис/ 2 дня удаленка)</li> <li>Работу в аккредитованной ИТ-компании</li> <li>Индексируемую заработную плату, а также премии по результатам работы</li> <li>Дополнительные премии к отпуску и Новому году</li> <li>Возможность карьерного роста и профессионального обучения за счет компании</li> <li>Расширенный полис ДМС со стоматологией и подключением родственников по корпоративным скидкам</li> <li>Возможность не оформлять официальный больничный при краткосрочном заболевании</li> <li>Оплату корпоративной мобильной связи и проезда на общественном транспорте</li> <li>Различные активности, а также занятия футболом и волейболом</li> </ul> <p> </p> <p>​​​​​​</p> <p>​​​</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": {
+    "id": 41838,
+    "name": "Брендированный шаблон 2",
+    "top_picture": {
+      "height": 840,
+      "width": 2310,
+      "path": "https://img.hhcdn.ru/branding-pictures/2799600.jpeg",
+      "blurred_path": null
+    },
+    "bottom_picture": {
+      "height": 1056,
+      "width": 2310,
+      "path": "https://img.hhcdn.ru/branding-pictures/2799607.jpeg",
+      "blurred_path": null
+    }
+  },
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "2147",
+    "name": "Актив",
+    "url": "https://api.hh.ru/employers/2147",
+    "alternate_url": "https://hh.ru/employer/2147",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1391436.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7185531.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7185532.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2147",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T11:21:36+0300",
+  "created_at": "2025-06-03T11:21:36+0300",
+  "initial_created_at": "2025-06-03T11:21:36+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121274509",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121274509",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

@@ -1,0 +1,156 @@
+{
+  "id": "120538065",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Java-разработчик",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Шарикоподшипниковская улица",
+    "building": "38",
+    "lat": 55.714805,
+    "lng": 37.677337,
+    "description": null,
+    "raw": "Москва, Шарикоподшипниковская улица, 38",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Utrace – это аккредитованная IT-компания, российский лидер в <em>авто</em>матизации процесса прослеживаемости маркированных товаров, разработчик и интегратор лидирующего российского решения, позволяющего крупным компаниям полностью <em>авто</em>матизировать взаимодействие с государственными информационными системами по обязательной маркировке.</p> <p>Данное решение помогает компаниям бороться с контрафактом и фальсификатом, а также открывает большие возможности для отслеживания жизненного цикла товара.</p> <p><strong>«Под капотом» скрывается современный стек технологий, SAAS, Big data, микросервисы, Kubernetes и еще очень много всего интересного.</strong></p> <p><strong>Требования:</strong></p> <ul> <li>Обязательно: <em>опыт</em> разработки Enterprise-приложений, Git, умение работать с багтрекером;</li> <li>Java 8 и выше, Spring Boot, Spring MVC, Spring Data, Spring Integration;</li> <li>Базовые знания одного из сборщиков: Maven или Gradle;</li> <li>Юнит-тестирование с помощью JUnit + Mockito;</li> <li>Знание SQL, <em>опыт</em> работы с PostgreSql;</li> <li><em>опыт</em> разработки высоконагруженных систем;</li> <li>знание CryptoPro JCP;</li> <li>хорошие знания JAXB, RabbitMQ, JIRA, Confluence, GitLab.</li> </ul> <p><strong>Задачи:</strong></p> <ul> <li>Разрабатывать сложные, высоконагруженные системы на Java 11-17;</li> <li>Разработка интеграционных решений и интерфейсов (REST, SOAP);</li> <li>Разработка серверной бизнес-логики и БД;</li> <li>Участие в <em>авто</em>тестировании;</li> <li>Написание нового и рефакторинг текущего кода;</li> <li>Активное участие в разработке архитектурных решений (новый продукт);</li> <li>Участие в крупном, долгосрочном проекте.</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li> <p>Гибкий <em>рабочий</em> <em>график</em>;</p> </li> <li> <p>Интересные и амбициозные задачи, развитие внутри продукта и возможность переключения между проектами;</p> </li> <li> <p>Оформление по ТК <em>РФ</em>, «белая» заработная плата, 10 дней полностью оплачиваемых больничных, +3 дня к отпуску;</p> </li> <li> <p>ДМС;</p> </li> <li> <p>Внешнее обучение для сотрудников компании и другие корпоративные мероприятия.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Spring Framework"
+    },
+    {
+      "name": "Apache Maven"
+    },
+    {
+      "name": "JUnit"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Hibernate ORM"
+    },
+    {
+      "name": "Java"
+    },
+    {
+      "name": "Apache Kafka"
+    },
+    {
+      "name": "CryptoPro"
+    },
+    {
+      "name": "RabbitMQ"
+    },
+    {
+      "name": "JAXB"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11241270",
+    "name": "Utrace",
+    "url": "https://api.hh.ru/employers/11241270",
+    "alternate_url": "https://hh.ru/employer/11241270",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1307934.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6851998.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6851999.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11241270",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-14T14:25:05+0300",
+  "created_at": "2025-05-14T14:25:05+0300",
+  "initial_created_at": "2025-05-14T14:25:05+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120538065",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120538065",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,178 @@
+{
+  "id": "121227426",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Начинающий ИТ специалист",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 40000,
+    "to": 43500,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 40000,
+    "to": 43500,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Лиговский проспект",
+    "building": "270",
+    "lat": 59.89279564363436,
+    "lng": 30.325501374900345,
+    "description": null,
+    "raw": "Санкт-Петербург, Лиговский проспект, 270",
+    "metro": {
+      "station_name": "Московские ворота",
+      "line_name": "Московско-Петроградская",
+      "station_id": "15.221",
+      "line_id": "15",
+      "lat": 59.891788,
+      "lng": 30.317873
+    },
+    "metro_stations": [
+      {
+        "station_name": "Московские ворота",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.221",
+        "line_id": "15",
+        "lat": 59.891788,
+        "lng": 30.317873
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Компания «Такском» </strong>входит в тройку компаний-лидеров, разрабатывающих IT-сервисы для коммерческих и государственных организаций, которые позволяют автоматизировать бизнес процессы (документооборот, отчетность, взаимодействие с гос. органами, выдача электронной цифровой подписи (ЭП)</p> <p>В связи с расширением команды ищем любознательного начинающего специалиста, готового развиваться в сфере информационных технологий. Мы в поиске <strong>технического специалиста по работе с клиентами</strong></p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Помощь клиентам по вопросам, возникающим в процессе работы с ИТ продуктами компании</li> <li>Техническая поддержка пользователей по продуктам компании по телефону и с выездом к клиенту (5 раз в месяц)</li> <li>Работа в офисных программах и СRM</li> </ul> <p><strong>Для нас важно:</strong></p> <ul> <li>Уверенное знание ПК</li> <li>Наличие образования в технической сфере</li> <li>Грамотная устная и письменная речь</li> <li>Желание развиваться в сфере IT-технологий</li> </ul> <p>Желательно:</p> <ul> <li>Опыт взаимодействия с клиентами</li> <li>Опыт работы в технической поддержке</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Работа в крупной и стабильной IT-компании (более 25 лет на рынке)</li> <li>Полное соблюдение ТК РФ, оформление с первого дня</li> <li>Гибридный формат работы</li> <li>Заработная плата (белая): оклад + премия</li> <li>График работы: 5/2 с 9-30 до 18-00</li> <li>Предварительное обучение, наставничество</li> <li>ДМС через 6 месяцев</li> <li>Комфортный офис</li> <li> <p><strong>Мы будет рады видеть Вас в нашей команде!</strong></p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Техническая поддержка"
+    },
+    {
+      "name": "AnyDesk"
+    },
+    {
+      "name": "IP-телефония"
+    },
+    {
+      "name": "Удаленное администрирование"
+    },
+    {
+      "name": "Настройка ПО"
+    },
+    {
+      "name": "Настройка ПК"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "42080",
+    "name": "Такском",
+    "url": "https://api.hh.ru/employers/42080",
+    "alternate_url": "https://hh.ru/employer/42080",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/964811.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/5393264.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/5393265.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=42080",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T14:30:47+0300",
+  "created_at": "2025-06-02T14:30:47+0300",
+  "initial_created_at": "2025-06-02T14:30:47+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121227426",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121227426",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

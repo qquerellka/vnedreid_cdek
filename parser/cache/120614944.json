@@ -1,0 +1,159 @@
+{
+  "id": "120614944",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист по слаботочным системам",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 400000,
+    "to": 400000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 400000,
+    "to": 400000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "FLY_IN_FLY_OUT",
+      "name": "За вахту"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Нерюнгринский район",
+    "street": "вахтовый посёлок Эльгинский",
+    "building": null,
+    "lat": 56.192285,
+    "lng": 130.626271,
+    "description": null,
+    "raw": "Нерюнгринский район, вахтовый посёлок Эльгинский",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "flyInFlyOut",
+    "name": "Вахтовый метод"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>А-Восток</strong> – быстро развивающаяся компания, оказывающая услуги по комплексному обслуживанию производственных объектов и вахтовых посёлков Мы помогаем компаниям сосредоточится на основной деятельности, эффективно решая бытовые вопросы.</p> <p>Мы приглашаем на работу <strong>Специалиста по слаботочным системам.</strong></p> <p><strong>Мы предлагаем…</strong></p> <ul> <li> <p>Официальное трудоустройство, социальные льготы и гарантии по ТК РФ;</p> </li> <li> <p>Работа вахтовым методом на Эльгинском угольном комплексе Республика Саха (Якутия);</p> </li> <li> <p>Место сбора г. Тында, Амурская область;</p> </li> <li> <p>Стабильная и своевременная заработная плата два раза в месяц;</p> </li> <li> <p>Цикл вахты – 60/60, заработная плата за цикл вахты:<strong> 400 000т.р. </strong>(*на руки);</p> </li> <li> <p>Учет северного стажа. За полный отработанный год предоставляется два оплачиваемых отпуска: основной 28 дней и дополнительный северный 24 дня;</p> </li> <li> <p>Оплата 100% стоимости проезда из любого региона;</p> </li> <li> <p>Компенсация стоимости медицинского осмотра по фактически предоставленным документам;</p> </li> <li> <p>3-х разовое горячее питание в столовой по прокси-карте;</p> </li> <li> <p>Обеспечение спецодеждой и средствами индивидуальной защиты;</p> </li> <li> <p>Проживание в современном вахтовом поселке: благоустроенное теплое общежитие (*по 4-6 человека в комнате, постельное белье выдается); столовая, тренажерный зал, банно-прачечный комплекс, кинотеатр, парикмахерская, кафетерий, медпункт, магазин продуктовый/хозяйственный.</p> </li> </ul> <p><strong>Требования по должности…</strong></p> <p> </p> <ul> <li> <p>Среднее профессиональное образование;</p> </li> <li> <p>Требования к <em>опыт</em>у практической работы по профессии не менее 2х <em>лет;</em></p> </li> <li> <p>Навыки работы с оборудованием Bolid (адресные) приве<em>тс</em>твуе<em>тс</em>я;</p> </li> <li> <p>Знание неадресных систем Bolid, монтаж СКУД (приве<em>тс</em>твуе<em>тс</em>я).</p> </li> </ul> <p> </p> <p><strong>В Ваши обязанности будет входить…</strong></p> <p>- Обеспечивать ис<em>прав</em>ное состояние, надежную работу обслуживаемых устройств и электрооборудования;</p> <p>- Производить монтаж слаботочных систем;</p> <p>- Установка, пусконаладка и обслуживание систем безопасности: АПС;</p> <p>- Выполнение работ по монтажу кабельных трасс, оборудования вышеуказанных систем;</p> <p>- Ведение необходимой отчетной документации (журналы по ТО и ППР).</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Bolid"
+    },
+    {
+      "name": "СКУД"
+    },
+    {
+      "name": "Монтаж слаботочных систем"
+    },
+    {
+      "name": "Ведение документации"
+    },
+    {
+      "name": "Монтаж кабельных трасс"
+    },
+    {
+      "name": "Обслуживание систем безопасности"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "112",
+      "name": "Сетевой инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5718360",
+    "name": "А-Восток",
+    "url": "https://api.hh.ru/employers/5718360",
+    "alternate_url": "https://hh.ru/employer/5718360",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1181571.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6346710.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6346711.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5718360",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-16T09:01:13+0300",
+  "created_at": "2025-05-16T09:01:13+0300",
+  "initial_created_at": "2025-05-16T09:01:13+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120614944",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120614944",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FLY_IN_FLY_OUT",
+    "name": "Вахта"
+  },
+  "fly_in_fly_out_duration": [
+    {
+      "id": "OTHER",
+      "name": "Другое"
+    }
+  ],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "OTHER",
+      "name": "Другое"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_11",
+      "name": "11 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

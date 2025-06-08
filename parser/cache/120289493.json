@@ -1,0 +1,140 @@
+{
+  "id": "120289493",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>В связи с активным ростом компании и появлением новых направлений ищем системного аналитика, который поможет навести порядок в требованиях и задачах, выстроить единый подход к документированию и станет связующим звеном между бизнесом и разработкой.</p> <p> </p> <p><strong>Чем предстоит заниматься: </strong></p> <p> </p> <ul> <li>Сбором, анализом и документированием требований, поддержкой спецификаций требований в актуальном состоянии;</li> <li>Разработкой технических заданий, постановкой задач на разработку и исследование;</li> <li>Поиском вариантов решения и выбором наиболее оптимальных для реализации (совместно с командой);</li> <li>Сопровождением процесса разработки, тестирования, документирования и релиза.</li> </ul> <p><strong>Ты нам подходишь, если у тебя есть:</strong></p> <ul> <li>Навык структурировать и визуализировать информацию (диаграммы, схемы, user flows);</li> <li>Опыт работы с инструментами анализа (JIRA, Confluence, Miro, FigJam, диаграммы UML/BPMN);</li> <li>Понимание жизненного цикла разработки ПО (Agile/Scrum, Kanban);</li> <li>Базовое знание сетей (UDP/TCP, WebSocket/HTTP и т.д.);</li> <li>Навык анализировать и декомпозировать сложные задачи;</li> <li>Умение работать с противоречивыми требованиями и находить баланс между бизнес-целями и техническими возможностями;</li> </ul> <p><em>Будет плюсом:</em></p> <ul> <li>Опыт работы с API (REST/gRPC, OpenAPI/Swagger);</li> <li>Базовые знания баз данных;</li> <li>Опыт проведения интервью с заказчиками и стейкхолдерами;</li> <li>Понимание принципов UX/UI;</li> <li>Опыт работы с системами аналитики (Google Analytics, Amplitude, Metabase).</li> </ul> <p>Мы ценим внимание к деталям, инициативность и умение говорить на одном языке с бизнесом и разработкой.</p>",
+  "branded_description": "\n<style>\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;    \n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    display: inline;\n    margin: 0;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    color: #FFF;\n    font-family: Arial;\n    font-size: 15px;\n    line-height: 22px; \n    z-index: 1;\n    box-sizing: border-box;\n    overflow: hidden;\n    background: #464646; \n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_content {\n    padding: 23px 48px 30px;\n    position: relative;\n    z-index: 1;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n   margin: 32px 0 16px;\n}\n\n.tmpl_hh_content b, \n.tmpl_hh_content strong {\n    display: inline-block;\n    font-weight: 700;\n    font-size: 28px;\n    line-height: normal;\n}\n\n.tmpl_hh_content i b, \n.tmpl_hh_content i strong,\n.tmpl_hh_content em b, \n.tmpl_hh_content em strong,\n.tmpl_hh_content b em, \n.tmpl_hh_content strong em,\n.tmpl_hh_content b i, \n.tmpl_hh_content strong i {\n    display: inline-block;\n    font-weight: 700;\n    font-style: normal;\n    font-size: 15px;\n    line-height: 22px; \n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 22px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 10px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 10px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;    \n}\n\n.tmpl_hh_content li:before {\n    position: absolute;\n    left: -22px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"\";\n    width: 6px;\n    height: 6px;\n    border-radius: 50%;\n    top: 8px;\n    background: #fff;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter)'.';\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n\n.tmpl_hh_flex {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n}\n\n.tmpl_hh_header {\n    background: url(https://hhcdn.ru/ichameleon/335276.jpg);\n    background-repeat: no-repeat;\n    background-size: cover;\n    position: relative;\n    padding: 36px 48px 46px;\n}\n\n.tmpl_hh_header:before {\n    content: \"\";\n    width: 100%;\n    height: 8px;\n    background: #EE7B17;\n    position: absolute;\n    bottom: 0;\n    left: 0;\n}\n\n.tmpl_hh_header__logo {\n    width: 176px;\n    margin-bottom: 36px;\n}\n\n.tmpl_hh_header__slogan {\n    text-shadow: 0px 4px 16px rgba(0, 0, 0, 0.25);\n    font-size: 48px;\n    font-weight: 700;\n    line-height: 50px;\n}\n\n.tmpl_hh_about {\n    padding: 41px 48px 0;\n}\n\np.tmpl_hh_about__title {\n    color: #EE7B17;\n    font-size: 48px;\n    font-weight: 700;\n    line-height: normal;\n    margin-bottom: 7px;\n}\n\np.tmpl_hh_about__text {\n    font-size: 18px;\n    font-weight: 700;\n    line-height: 24px;\n}\n\n.tmpl_hh_numbers.tmpl_hh_flex {\n    border-radius: 12px;\n    background: #373737;\n    box-shadow: 0px 12px 48px 0px rgba(70, 70, 70, 0.50);\n    margin: 32px 0 0;\n    padding: 25px 0px 24px 33px;\n    flex-wrap: nowrap;\n}\n\n.tmpl_hh_numbers__item {\n    color: #FFF;\n    font-size: 14px;\n    font-weight: 700;\n    line-height: 19px;\n    width: 162px;\n}\n\n.tmpl_hh_numbers__item b {\n    color: #EE7B17;\n    font-size: 32px;\n    font-weight: 700;\n    line-height: normal;\n    display: block;\n    margin-bottom: 3px;\n}\n\n.tmpl_hh_offer {\n    margin: 0 48px 28px;\n}\n\np.tmpl_hh_offer__title {\n    font-size: 28px;\n    font-weight: 700;\n    line-height: normal;\n    margin-bottom: 28px;\n}\n\n.tmpl_hh_offer__item {\n    width: calc(33.33% - 8px);\n    border-radius: 12px;\n    background: #EE7B17;\n    margin-bottom: 12px;\n    color: #FFF;\n    font-size: 14px;\n    line-height: 17px;\n    box-sizing: border-box;\n    padding: 20px 21px 20px 20px;\n}\n\n.tmpl_hh_offer__icon {\n    width: 40px;\n    margin-bottom: 16px;\n}\n\n.tmpl_hh_photo {\n    border-bottom: 8px solid #EE7B17;\n}\n\n.tmpl_hh_footer {\n    font-size: 48px;\n    font-weight: 700;\n    line-height: normal;\n    padding: 40px 48px;\n    background: url(https://hhcdn.ru/ichameleon/335271.jpg);\n    background-size: cover;\n}\n\n@media screen and (max-width: 1019px) {\n    .tmpl_hh_numbers__item {\n        width: auto;\n    }\n\n    .tmpl_hh_numbers.tmpl_hh_flex {\n        padding: 25px 33px 24px 33px;\n    }\n\n    .tmpl_hh_header__slogan {\n        font-size: 42px;\n        line-height: 44px;\n    }\n}\n\n@media screen and (max-width: 699px) {\n    .tmpl_hh_wrapper {\n        border-radius: 4px;\n        font-size: 14px;\n        line-height: 19px; \n    }\n\n    .tmpl_hh_content {\n        padding: 20px 22px 20px;\n    }\n\n    .tmpl_hh_content p,\n    .tmpl_hh_content b,\n    .tmpl_hh_content strong {\n       margin: 24px 0 12px;\n    }\n\n    .tmpl_hh_content b, \n    .tmpl_hh_content strong {\n        font-size: 22px;\n        line-height: normal;\n    }\n\n    .tmpl_hh_content i b, \n    .tmpl_hh_content i strong,\n    .tmpl_hh_content em b, \n    .tmpl_hh_content em strong,\n    .tmpl_hh_content b em, \n    .tmpl_hh_content strong em,\n    .tmpl_hh_content b i, \n    .tmpl_hh_content strong i {\n        font-size: 14px;\n        line-height: 19px; \n    }\n\n    .tmpl_hh_content ol,\n    .tmpl_hh_content ul {\n        margin-left: 17px;\n    }\n\n    .tmpl_hh_content li {\n        margin-bottom: 8px;\n    }\n\n    .tmpl_hh_content ul ul,\n    .tmpl_hh_content ul ol,\n    .tmpl_hh_content ol ol,\n    .tmpl_hh_content ol ul {\n        margin-top: 8px;\n    }\n\n    .tmpl_hh_content li:before {\n        left: -17px;\n    }\n\n    .tmpl_hh_content ul>li:before {\n        width: 5px;\n        height: 5px;\n        top: 7px;\n    }\n\n    .tmpl_hh_header {\n        background: url(https://hhcdn.ru/ichameleon/335287.jpg);\n        background-repeat: no-repeat;\n        background-size: cover;\n        padding: 16px 22px 21px;\n    }\n\n    .tmpl_hh_header:before {\n        height: 3px;\n    }\n\n    .tmpl_hh_header__logo {\n        width: 77px;\n        margin-bottom: 15px;\n    }\n\n    .tmpl_hh_header__slogan {\n        font-size: 21px;\n        line-height: 22px;\n    }\n\n    .tmpl_hh_about {\n        padding: 25px 22px 0;\n    }\n\n    p.tmpl_hh_about__title {\n        font-size: 32px;\n        line-height: normal;\n        margin-bottom: 4px;\n    }\n\n    p.tmpl_hh_about__text {\n        font-size: 16px;\n        line-height: 21px;\n    }\n\n    .tmpl_hh_numbers.tmpl_hh_flex {\n        padding: 22px 20px 0;\n        border-radius: 8px;\n        margin: 27px 0 0;\n        flex-wrap: wrap;\n    }\n\n    .tmpl_hh_numbers__item {\n        width: 100%;\n        margin-bottom: 22px;\n        font-size: 14px;\n        line-height: 17px;\n    }\n\n    .tmpl_hh_numbers__item b {\n        font-size: 28px;\n        line-height: normal;\n        margin-bottom: 2px;\n    }    \n\n    .tmpl_hh_offer {\n        margin: 0 22px 19px;\n    }\n\n    p.tmpl_hh_offer__title {\n        font-size: 22px;\n        line-height: normal;\n        margin-bottom: 23px;\n    }\n    \n    .tmpl_hh_numbers__item br {\n        display: none;\n    }\n\n    .tmpl_hh_offer__item {\n        width: calc(50% - 4px);\n        border-radius: 6px;\n        margin-bottom: 8px;\n        font-size: 12px;\n        line-height: 14px;\n        padding: 13px 10px 12px 12px;\n        min-height: 134px;\n    }\n\n    .tmpl_hh_offer__icon {\n        width: 30px;\n        margin-bottom: 9px;\n    }\n\n    .tmpl_hh_photo {\n        border-bottom: 3px solid #EE7B17;\n    }\n\n    .tmpl_hh_footer {\n        font-size: 21px;\n        font-weight: 700;\n        line-height: normal;\n        padding: 18px 22px 17px;\n    }\n}\n\n</style>\n\n<div class=\"tmpl_hh_wrapper\">\n    <div class=\"tmpl_hh_header\">\n        <div class=\"tmpl_hh_header__logo\"><img src=\"https://hhcdn.ru/ichameleon/335272.svg\" alt=\"\"></div>\n        <div class=\"tmpl_hh_header__slogan\">Создавай лучший<br> продукт вместе с нами!</div>\n    </div>\n    <div class=\"tmpl_hh_about\">\n        <p class=\"tmpl_hh_about__text\">Аккредитованная ИТ-компания, разработчик программного обеспечения в области информационной безопасности и сетевых технологий</p>\n        <div class=\"tmpl_hh_numbers tmpl_hh_flex\">\n            <div class=\"tmpl_hh_numbers__item\"><p><b>с 2005</b> защищаем сетевой<br> периметр компаний</p></div>\n            <div class=\"tmpl_hh_numbers__item\"><p><b>5500</b> компаний работают<br> с продуктами Айдеко</p></div>\n            <div class=\"tmpl_hh_numbers__item\"><p><b>+109</b></p> сотрудников<br> за 2024 год</div>\n        </div>\n    </div>\n    <div class=\"tmpl_hh_content\">\n        <p>В связи с активным ростом компании и появлением новых направлений ищем системного аналитика, который поможет навести порядок в требованиях и задачах, выстроить единый подход к документированию и станет связующим звеном между бизнесом и разработкой.</p> <p> </p> <p><strong>Чем предстоит заниматься: </strong></p> <p> </p> <ul> <li>Сбором, анализом и документированием требований, поддержкой спецификаций требований в актуальном состоянии;</li> <li>Разработкой технических заданий, постановкой задач на разработку и исследование;</li> <li>Поиском вариантов решения и выбором наиболее оптимальных для реализации (совместно с командой);</li> <li>Сопровождением процесса разработки, тестирования, документирования и релиза.</li> </ul> <p><strong>Ты нам подходишь, если у тебя есть:</strong></p> <ul> <li>Навык структурировать и визуализировать информацию (диаграммы, схемы, user flows);</li> <li>Опыт работы с инструментами анализа (JIRA, Confluence, Miro, FigJam, диаграммы UML/BPMN);</li> <li>Понимание жизненного цикла разработки ПО (Agile/Scrum, Kanban);</li> <li>Базовое знание сетей (UDP/TCP, WebSocket/HTTP и т.д.);</li> <li>Навык анализировать и декомпозировать сложные задачи;</li> <li>Умение работать с противоречивыми требованиями и находить баланс между бизнес-целями и техническими возможностями;</li> </ul> <p><em>Будет плюсом:</em></p> <ul> <li>Опыт работы с API (REST/gRPC, OpenAPI/Swagger);</li> <li>Базовые знания баз данных;</li> <li>Опыт проведения интервью с заказчиками и стейкхолдерами;</li> <li>Понимание принципов UX/UI;</li> <li>Опыт работы с системами аналитики (Google Analytics, Amplitude, Metabase).</li> </ul> <p>Мы ценим внимание к деталям, инициативность и умение говорить на одном языке с бизнесом и разработкой.</p></div>\n    <div class=\"tmpl_hh_offer\">\n        <p class=\"tmpl_hh_offer__title\">Мы предлагаем:</p>\n        <div class=\"tmpl_hh_offer__items tmpl_hh_flex\">\n            <div class=\"tmpl_hh_offer__item\">\n                <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/335279.png\" alt=\"\"></div>\n                <p>Сложные, интересные проекты, минимум бюрократии</p>\n            </div>\n            <div class=\"tmpl_hh_offer__item\">\n                <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/335267.svg\" alt=\"\"></div>\n                <p>Сильная команда, постоянный обмен опытом</p>\n            </div>\n            <div class=\"tmpl_hh_offer__item\">\n                <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/335269.svg\" alt=\"\"></div>\n                <p>Понятные роли с прозрачными целями</p>\n            </div>\n            <div class=\"tmpl_hh_offer__item\">\n                <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/335268.svg\" alt=\"\"></div>\n                <p>Бонус за результативность</p>\n            </div>\n            <div class=\"tmpl_hh_offer__item\">\n                <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/335266.svg\" alt=\"\"></div>\n                <p>Внутренняя и внешняя реферальная программа</p>\n            </div>\n            <div class=\"tmpl_hh_offer__item\">\n                <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/335273.svg\" alt=\"\"></div>\n                <p>ДМС</p>\n            </div>\n            <div class=\"tmpl_hh_offer__item\">\n                <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/335274.svg\" alt=\"\"></div>\n                <p>Корпоративный английский</p>\n            </div>\n            <div class=\"tmpl_hh_offer__item\">\n                <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/335262.svg\" alt=\"\"></div>\n                <p>Конкурентная «белая» <nobr>з/п</nobr></p>\n            </div>\n            <div class=\"tmpl_hh_offer__item\">\n                <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/335263.svg\" alt=\"\"></div>\n                <p>Возможность удаленной работы, в том числе за рубежом</p>\n            </div>\n            <div class=\"tmpl_hh_offer__item\">\n                <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/335275.svg\" alt=\"\"></div>\n                <p>Материальная помощь при важных событиях в жизни</p>\n            </div>\n            <div class=\"tmpl_hh_offer__item\">\n                <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/335265.svg\" alt=\"\"></div>\n                <p>Корпоративный психолог</p>\n            </div>\n            <div class=\"tmpl_hh_offer__item\">\n                <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/335264.svg\" alt=\"\"></div>\n                <p>Разнообразная корпоративная <br>жизнь (летние сплавы, настолки, шашлыки и тд.)</p>\n            </div>\n        </div>\n    </div>\n    <div class=\"tmpl_hh_photo\"><img src=\"https://hhcdn.ru/ichameleon/428930.jpg\" alt=\"\"></div>\n    <div class=\"tmpl_hh_footer\">\n        <p>Присоединяйся!</p>\n    </div>\n</div> \n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Системный анализ"
+    },
+    {
+      "name": "Сетевые протоколы"
+    },
+    {
+      "name": "Информационная безопасность"
+    },
+    {
+      "name": "TCP"
+    },
+    {
+      "name": "HTTP"
+    },
+    {
+      "name": "API"
+    },
+    {
+      "name": "Разработка технических заданий"
+    },
+    {
+      "name": "Постановка задач разработчикам"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "148",
+      "name": "Системный аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "111611",
+    "name": "Айдеко",
+    "url": "https://api.hh.ru/employers/111611",
+    "alternate_url": "https://hh.ru/employer/111611",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/740427.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3402685.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3402686.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=111611",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T10:50:51+0300",
+  "created_at": "2025-06-02T10:50:51+0300",
+  "initial_created_at": "2025-05-06T15:39:31+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120289493",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120289493",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

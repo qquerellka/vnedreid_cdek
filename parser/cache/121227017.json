@@ -1,0 +1,181 @@
+{
+  "id": "121227017",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Младший системный мобильный разработчик Android",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 120000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 120000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "1-й Нагатинский проезд",
+    "building": "10с1",
+    "lat": 55.678362,
+    "lng": 37.631757,
+    "description": null,
+    "raw": "Москва, 1-й Нагатинский проезд, 10с1",
+    "metro": {
+      "station_name": "Нагатинская",
+      "line_name": "Серпуховско-Тимирязевская",
+      "station_id": "9.85",
+      "line_id": "9",
+      "lat": 55.682099,
+      "lng": 37.620917
+    },
+    "metro_stations": [
+      {
+        "station_name": "Нагатинская",
+        "line_name": "Серпуховско-Тимирязевская",
+        "station_id": "9.85",
+        "line_id": "9",
+        "lat": 55.682099,
+        "lng": 37.620917
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы ищем системного Android-разработчика для глубокой кастомизации AOSP и создания пользовательских прошивок. В задачи входит не только разработка интерфейсов, но и низкоуровневая работа с системными сервисами, HAL и ядром. Если интересно не только писать приложения, а влиять на саму ОС – эта вакансия для вас!</p> <p><strong>Задачи:</strong></p> <ul> <li>Создание собственной оболочки для AOSP: launcher, шторка, системное меню настроек, экран блокировки, темы, уведомления и пр.;</li> <li>Создание/доработка системных приложений AOSP;</li> <li>Отладка и исправление ошибок;</li> <li>Ведение программного проекта;</li> <li>Брендирование ОС.</li> </ul> <p><strong>Требуемые навыки:</strong></p> <ul> <li>Языки программирования Java, Kotlin;</li> <li>Фреймворк jetpack compose;</li> <li>Архитектура MVVM;</li> <li>Опыт создания и развития пользовательских интерфейсов на AOSP;</li> <li>Работа с системой контроля версий git/gitlab;</li> <li>Опыт работы в Linux.</li> </ul> <p>Приветствуется:</p> <ul> <li>Архитектура ОС Android;</li> <li>Android runtime;</li> <li>Знание языков С/С++;</li> <li>Опыт работы в Docker;</li> <li>Опыт работы в Android Studio;</li> <li>Понимание механизмов взаимодействия приложений с сервисами и драйверами ОС.</li> </ul> <strong>Условия:</strong> <ul> <li>Гибридный/удаленный формат работы;</li> <li>Оформление по трудовому договору;</li> <li>ДМС;</li> <li>Современное оборудование;</li> <li>Офис 5 минут от метро Нагатинская;</li> <li>Компенсация фитнеса;</li> <li>Премии по итогам год, индексация заработной платы.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Android"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "MVVM"
+    },
+    {
+      "name": "AOSP"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Driver"
+    },
+    {
+      "name": "C/C++"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "50630",
+    "name": "БайтЭрг",
+    "url": "https://api.hh.ru/employers/50630",
+    "alternate_url": "https://hh.ru/employer/50630",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1306459.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6846098.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6846099.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=50630",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T14:25:14+0300",
+  "created_at": "2025-06-02T14:25:14+0300",
+  "initial_created_at": "2025-06-02T14:25:14+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121227017",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121227017",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

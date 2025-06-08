@@ -1,0 +1,153 @@
+{
+  "id": "121158050",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Директор по цифровой трансформации",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 200000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 200000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Верхняя Тура",
+    "street": "улица Машиностроителей",
+    "building": "2",
+    "lat": 58.36022,
+    "lng": 59.818105,
+    "description": null,
+    "raw": "Верхняя Тура, улица Машиностроителей, 2",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>Проектирование, разработка, внедрение, доработка и сопровождение информационных систем и другого ПО</li> <li>Разработка и реализация стратегии организации в сфере цифровой трансформации</li> <li>Разработка и реализация новых бизнес-моделей</li> <li>Внедрение современных цифровых технологий в процесс деятельности предприятия</li> <li>Применение в работе цифровых инновации</li> </ul> <strong>Требования:</strong> <ul> <li>Высшее образование</li> <li>Опыт работы от 3 лет</li> </ul> <strong>Условия:</strong> <ul> <li> <p>Стабильная заработная плата два раза в месяц</p> </li> <li> <p>Полный социальный пакет</p> </li> <li>Обучение в процессе работы и наставничество</li> <li>Комфортные условия труда (спецодежда и СИЗ)</li> <li>Возможность обучения за счет предприятия</li> <li>Возможность компенсации проезда для иногородних</li> <li>Отсрочка от привлечения к прохождения срочной военной службы</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Управление ресурсами"
+    },
+    {
+      "name": "Управление бизнес процессами"
+    },
+    {
+      "name": "Организаторские навыки"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "36",
+      "name": "Директор по информационным технологиям (CIO)"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2765628",
+    "name": "Верхнетуринский машиностроительный завод",
+    "url": "https://api.hh.ru/employers/2765628",
+    "alternate_url": "https://hh.ru/employer/2765628",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1169238.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6297390.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6297391.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2765628",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-30T10:31:51+0300",
+  "created_at": "2025-05-30T10:31:51+0300",
+  "initial_created_at": "2025-05-30T10:31:51+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121158050",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121158050",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,110 @@
+{
+  "id": "121390135",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Senior .net developer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Привет! Мы - аккредитованная IT компания Maxim Technology. Занимаемся разработкой платформы для пассажирских и грузовых поездок. Самый крупный из наших заказчиков - сервис maxim. Мы первыми начали менять рынок поездок, создав для maxim цифровую платформу для связи пассажира и водителя.</p> <p>Сегодня наша команда работает над высоконагруженными сервисами - в сутки платформа обрабатывает более миллиона заказов. Наше ПО — лидер рынка в регионах России, и мы не собираемся останавливаться на достигнутом!</p> <p>Наша команда растёт быстрыми темпами и сейчас в штате более 450 IT-специалистов. Офисы компании располагаются в Кургане, Тюмени, Набережных Челнах, Казани, Екатеринбурге и Санкт-Петербурге.</p> <p>Мы ищем разработчика в команду, которая занимается разработкой backend части системы, отвечающей за работу водителей в приложении.</p> <p><strong>Мы разрабатываем сервисы на C# на актуальном стеке .NET, в том числе:</strong></p> <ul> <li>backend для водительского приложения;</li> <li>сервис чатов для общения водителя и пассажира;</li> <li>сервис расчета доступных водителю тарифов;</li> <li>сервис для заправок водителей и многое другое.</li> </ul> <p>Сервисы обрабатывают сотни тысяч запросов в минуту от мобильных приложений и выполняют более 1 миллиона заказов в сутки.</p> <p><strong>Основные задачи:</strong></p> <ul> <li>Участие в разработке Highload-сервисов на C#: <strong>новому члену команды</strong> <strong>доверим разработку нового доменного сервиса</strong> и его интеграцию с существующими сервисами;</li> <li>Анализ проблем системы и участие в их решении;</li> <li>Оптимизация и переработка частей системы под новые профили нагрузки;</li> <li>Участие в улучшении процессов разработки;</li> <li>Участие в развитии процессов ci/cd;</li> <li>Менторство.</li> </ul> <p><strong>От кандидата мы ожидаем:</strong></p> <ul> <li>Опыт коммерческой разработки на .NET;</li> <li>Уверенное владение SQL (MSSQL и / или PostgreSQL);</li> <li>Практический опыт разработки Highload-сервисов, построения микросервисной архитектуры;</li> <li>Понимание современных процессов разработки.</li> </ul> <p><strong>У нас простой процесс подбора.</strong> Тебя ждет интервью с HR и руководителем команды, и после этого мы выходим с оффером.</p> <p>Отправляй свой отклик! Мы тебя ждем.</p>",
+  "branded_description": "\n<style>\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;    \n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-weight: normal;\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    display: inline;\n    margin: 0;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    overflow: hidden;\n    font-family: 'Trebuchet MS';\n    font-weight: 400;\n    font-size: 16px;\n    line-height: 23px;\n    color: #000;\n    z-index: 1;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_content {\n    padding: 50px 40px 49px;\n    position: relative;\n    z-index: 1;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n   margin: 38px 0 8px;\n}\n\n.tmpl_hh_content b, \n.tmpl_hh_content strong {\n    display: inline-block;\n    font-weight: 700;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 24px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 10px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 10px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;    \n}\n\n.tmpl_hh_content li:before {\n    position: absolute;\n    left: -24px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"—\";\n    font-family: 'Tahoma';\n    font-size: 14px;\n    line-height: 19px;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter)'.';\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n\n.tmpl_hh_flex {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n}\n\n.tmpl_hh_header.tmpl_hh_flex {\n    margin: 40px 40px 0;\n}\n\n.tmpl_hh_header__textBlock {\n    width: 38%;\n    font-weight: 700;\n    font-size: 24px;\n    line-height: 127%;\n    text-align: center;\n}\n\n.tmpl_hh_header__logo {\n    margin: 24px 0px 37px 0px;\n}\n\n.tmpl_hh_header__photo {\n    width: 58.6%;\n}\n\n.tmpl_hh_header__lines {\n    background: #FFCA28;\n    border-radius: 24px;\n    height: 4px;\n    margin: 40px 40px 40px;\n}\n\n.tmpl_hh_about {\n    margin: 0 40px;\n}\n\n.tmpl_hh_about__item:first-child {\n    background: url(https://hhcdn.ru/ichameleon/251474.svg) no-repeat;\n    background-position: calc(100% - -4px) -4px;\n}\n\n.tmpl_hh_about__item {\n    border: 4px solid #FFCA28;\n    border-radius: 24px;\n    width: 31%;\n    box-sizing: border-box;\n    padding: 61px 10px 34px;\n    background: url(https://hhcdn.ru/ichameleon/251476.svg) no-repeat;\n    background-position: calc(100% - -4px) -4px;\n}\n\n.tmpl_hh_about__item b {\n    font-weight: 700;\n    font-size: 15px;\n    display: block;\n    margin-bottom: 10px;\n}\n\n.tmpl_hh_offer.tmpl_hh_flex {\n    margin: 0 60px 51px;\n}\n\n.tmpl_hh_offer__item {\n    background: rgba(229, 235, 239, 0.5);\n    border-radius: 24px;\n    width: 48.5%;\n    margin-bottom: 2.5%;\n    box-sizing: border-box;\n    padding: 38px 17px 0 37px;\n    font-weight: 700;\n    font-size: 18px;\n    line-height: 22px;\n    min-height: 214px;\n}\n\n.tmpl_hh_offer__icon {\n    height: 62px;\n    margin-bottom: 18px;\n}\n\n.tmpl_hh_offer__icon img {\n    width: auto;\n    height: 100%;\n}\n\np.tmpl_hh_footnote {\n    font-size: 12px;\n    line-height: 14px;\n    opacity: 0.4;\n}\n\n@media screen and (max-width: 1019px) {\n\n}\n\n@media screen and (max-width: 699px) {\n\n    .tmpl_hh_content {\n        padding: 39px 20px 40px;\n    }\n\n    .tmpl_hh_header.tmpl_hh_flex {\n        margin: 0 0 30px;\n    }\n\n    .tmpl_hh_header__textBlock {\n        width: 73.5%;\n        text-align: center;\n        margin: 0 auto 28px;\n    }\n\n    .tmpl_hh_header__logo {\n        margin: 20px 0px 26px 0px;\n    }\n\n    .tmpl_hh_header__photo {\n        width: 87.5%;\n        margin: 0 auto;\n    }\n\n    .tmpl_hh_header__lines {\n        display: none;\n    }\n\n    .tmpl_hh_about {\n        margin: 0 19px;\n    }\n\n    .tmpl_hh_about__item {\n        width: 100%;\n        padding: 28px 19% 29px 13px;\n        margin-bottom: 10px;\n    }\n\n    .tmpl_hh_offer.tmpl_hh_flex {\n        margin: 0 20px 16px;\n    }\n\n    .tmpl_hh_offer__item {\n        width: 100%;\n        margin-bottom: 5.5%;\n        padding: 20px 17px 19.5px 21px;\n        min-height: auto;\n    }\n}\n</style>\n\n<div class=\"tmpl_hh_wrapper\">\n    <div class=\"tmpl_hh_header tmpl_hh_flex\">\n        <div class=\"tmpl_hh_header__textBlock\">\n            <div class=\"tmpl_hh_header__logo\"><img src=\"https://hhcdn.ru/ichameleon/251481.png\" alt=\"\"></div>\n            <p class=\"tmpl_hh_header__slogan\">Присоединяйся к продуктовой IT-команде!</p>\n        </div>\n        <div class=\"tmpl_hh_header__photo\"><img src=\"https://hhcdn.ru/ichameleon/251482.png\" alt=\"\"></div>\n    </div>\n    <div class=\"tmpl_hh_header__lines\"></div>\n    <div class=\"tmpl_hh_about tmpl_hh_flex\">\n       <div class=\"tmpl_hh_about__item\">\n            <p><b>Разрабатываем цифровую платформу для сервиса maxim</b>Команда сильных разработчиков </p>\n        </div>\n       <div class=\"tmpl_hh_about__item\">\n            <p><b>Разрабатываем высоконагружен­ный сервис</b>Принимаем от 1 млн заказов в сутки</p>\n        </div>\n       <div class=\"tmpl_hh_about__item\">\n            <p><b>Более 13 лет <br>на рынке IT</b>И не собираемся останавливаться!</p>\n        </div>    \n    </div>\n    <div class=\"tmpl_hh_content\">\n        <p>Привет! Мы - аккредитованная IT компания Maxim Technology. Занимаемся разработкой платформы для пассажирских и грузовых поездок. Самый крупный из наших заказчиков - сервис maxim. Мы первыми начали менять рынок поездок, создав для maxim цифровую платформу для связи пассажира и водителя.</p> <p>Сегодня наша команда работает над высоконагруженными сервисами - в сутки платформа обрабатывает более миллиона заказов. Наше ПО — лидер рынка в регионах России, и мы не собираемся останавливаться на достигнутом!</p> <p>Наша команда растёт быстрыми темпами и сейчас в штате более 450 IT-специалистов. Офисы компании располагаются в Кургане, Тюмени, Набережных Челнах, Казани, Екатеринбурге и Санкт-Петербурге.</p> <p>Мы ищем разработчика в команду, которая занимается разработкой backend части системы, отвечающей за работу водителей в приложении.</p> <p><strong>Мы разрабатываем сервисы на C# на актуальном стеке .NET, в том числе:</strong></p> <ul> <li>backend для водительского приложения;</li> <li>сервис чатов для общения водителя и пассажира;</li> <li>сервис расчета доступных водителю тарифов;</li> <li>сервис для заправок водителей и многое другое.</li> </ul> <p>Сервисы обрабатывают сотни тысяч запросов в минуту от мобильных приложений и выполняют более 1 миллиона заказов в сутки.</p> <p><strong>Основные задачи:</strong></p> <ul> <li>Участие в разработке Highload-сервисов на C#: <strong>новому члену команды</strong> <strong>доверим разработку нового доменного сервиса</strong> и его интеграцию с существующими сервисами;</li> <li>Анализ проблем системы и участие в их решении;</li> <li>Оптимизация и переработка частей системы под новые профили нагрузки;</li> <li>Участие в улучшении процессов разработки;</li> <li>Участие в развитии процессов ci/cd;</li> <li>Менторство.</li> </ul> <p><strong>От кандидата мы ожидаем:</strong></p> <ul> <li>Опыт коммерческой разработки на .NET;</li> <li>Уверенное владение SQL (MSSQL и / или PostgreSQL);</li> <li>Практический опыт разработки Highload-сервисов, построения микросервисной архитектуры;</li> <li>Понимание современных процессов разработки.</li> </ul> <p><strong>У нас простой процесс подбора.</strong> Тебя ждет интервью с HR и руководителем команды, и после этого мы выходим с оффером.</p> <p>Отправляй свой отклик! Мы тебя ждем.</p></div>\n    <div class=\"tmpl_hh_offer tmpl_hh_flex\">\n        <div class=\"tmpl_hh_offer__item\">\n            <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/251479.png\" alt=\"\"></div>\n            <p>Оформление <br>по ТК РФ</p>\n        </div>\n        <div class=\"tmpl_hh_offer__item\">\n            <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/251480.png\" alt=\"\"></div>\n            <p>ЗП по рынку, <br>с пересмотром <br>минимум раз в год</p>\n        </div>\n        <div class=\"tmpl_hh_offer__item\">\n            <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/251477.png\" alt=\"\"></div>\n            <p>Компенсацию питания<br> в офисе</p>\n        </div>\n        <div class=\"tmpl_hh_offer__item\">\n            <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/251473.png\" alt=\"\"></div>\n            <p>Гибкое начало <br>рабочего дня</p>\n        </div>\n        <div class=\"tmpl_hh_offer__item\">\n            <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/251478.png\" alt=\"\"></div>\n            <p>Корпоративы, <br>подарки, мерч</p>\n        </div>\n        <div class=\"tmpl_hh_offer__item\">\n            <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/251475.png\" alt=\"\"></div>\n            <p>ДМС</p>\n        </div>\n        <div class=\"tmpl_hh_offer__item\">\n            <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/251471.png\" alt=\"\"></div>\n            <p>Профессиональное <br>обучение и английский</p>\n        </div>\n        <div class=\"tmpl_hh_offer__item\">\n            <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/251472.png\" alt=\"\"></div>\n            <p>Удаленка, офис <br>или гибрид</p>\n        </div>\n        <p class=\"tmpl_hh_footnote\">ООО «ТАКСТЕЛЕКОМ» представляет бренд maxim technology</p>\n    </div>\n</div> \n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5425152",
+    "name": "Maxim technology",
+    "url": "https://api.hh.ru/employers/5425152",
+    "alternate_url": "https://hh.ru/employer/5425152",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1427824.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7330945.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7330946.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5425152",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T15:33:56+0300",
+  "created_at": "2025-06-05T15:33:56+0300",
+  "initial_created_at": "2025-06-05T15:33:56+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121390135",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121390135",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

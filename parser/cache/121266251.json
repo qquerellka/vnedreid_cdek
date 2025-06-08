@@ -1,0 +1,152 @@
+{
+  "id": "121266251",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Java разработчик Middle+/senior",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "66",
+    "name": "Нижний Новгород",
+    "url": "https://api.hh.ru/areas/66"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Компания SJ GLOBAL<strong> (аутстафф) </strong>занимается разработкой мобильных приложений для бизнеса, мы помогаем компаниям оптимизировать работу с клиентами и сотрудниками.</p> <p>Сейчас мы ищем <strong>Java р</strong><strong>азработчика уровня Middle+/Senior</strong>, который бы присоединился к нашей дружной команде.</p> <p> </p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Проектирование и разработка микросервисов с нуля.</li> <li>Оптимизация и масштабирование высоконагруженных систем.</li> <li>Участие в проектировании архитектуры.</li> <li>Написание unit и интеграционных тестов.</li> <li>Ревью кода и наставничество junior/middle разработчиков.</li> <li>Взаимодействие с бизнес-заказчиками, аналитиками и тестировщиками.</li> <li>Поиск и устранение узких мест в производительности систем.</li> <li>Настройка и оптимизация CI/CD pipelines.</li> </ul> <p> </p> <p><strong>Наши ожидания:</strong></p> <ul> <li>Опыт коммерческой разработки на Java от 3 лет.</li> <li>Глубокое понимание Java Core (ООП, коллекции, многопоточность, исключения, generics).</li> <li>Опыт работы с Spring Framework (Spring Boot, Spring MVC, Spring Data, Spring Security).</li> <li>Знание SQL и опыт работы с реляционными базами данных (PostgreSQL, MySQL).</li> <li>Опыт проектирования и разработки высоконагруженных систем.</li> <li>Знание SQL и опыт оптимизации запросов (PostgreSQL, MySQL).</li> <li>Опыт работы с Kafka, RabbitMQ или другими message brokers.</li> <li>Опыт проектирования и разработки RESTful API.</li> <li>Умение писать unit-тесты (JUnit, Mockito).</li> <li>Опыт работы с Docker.</li> <li>Знание CI/CD (Jenkins, GitLab CI).</li> <li>Опыт работы с системами мониторинга (Prometheus, Grafana, ELK).</li> <li>Умение проектировать и оптимизировать базы данных.</li> <li>Опыт работы с XML, JAXB.</li> <li>Знание паттернов проектирования и принципов SOLID.</li> <li>Понимание микросервисной архитектуры.</li> <li>Опыт работы с системами сборки (Maven/Gradle).</li> <li>Знание Git.</li> </ul> <p> </p> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт работы в финтехе или страховании.</li> <li>Знание Kotlin.</li> <li>Опыт работы с Python, Apache Airflow, Greenplum.</li> <li>Опыт работы с Keycloak.</li> <li>Опыт работы с инструментами миграции БД (Flyway, Liquibase).</li> </ul> <p> </p> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Стабильный доход, который обсуждается по итогам собеседования и всегда принимается во внимание при оффере;</li> <li>Полностью удаленную работу;</li> <li>Возможность быстрого роста в компании;</li> <li>Сложные и интересные задачи, современный стек технологий;</li> <li>ДМС (в том числе стоматология).</li> </ul> <p><strong><em>Если позиция вас заинтересовала - будем рады продолжить знакомство!</em></strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Java"
+    },
+    {
+      "name": "Kibana"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "Spring Boot"
+    },
+    {
+      "name": "GraphQL"
+    },
+    {
+      "name": "Spring Framework"
+    },
+    {
+      "name": "Docker-compose"
+    },
+    {
+      "name": "RabbitMQ"
+    },
+    {
+      "name": "RESTful API"
+    },
+    {
+      "name": "JUnit"
+    },
+    {
+      "name": "Mockito"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10851927",
+    "name": "Сджей Глобал",
+    "url": "https://api.hh.ru/employers/10851927",
+    "alternate_url": "https://hh.ru/employer/10851927",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1244408.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6598061.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6598062.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10851927",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T09:42:57+0300",
+  "created_at": "2025-06-03T09:42:57+0300",
+  "initial_created_at": "2025-06-03T09:42:57+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121266251",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121266251",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

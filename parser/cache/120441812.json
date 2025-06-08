@@ -1,0 +1,162 @@
+{
+  "id": "120441812",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Java-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 180000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 180000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Кибернетика - это аккредитованная IT-компания, работающая на рынке с 2020 года. Мы специализируемся на разработке и предоставлении передовых решений в области здравоохранения, создавая продукт, которым пользуются десятки тысяч человек ежедневно.</p> <p>В нашей компании несколько команд разработки, ответственных за свой набор продуктов. Мы не просто реализуем проекты, а развиваем и поддерживаем созданные решения.</p> <p>На данный момент, у нас заметно возросла нагрузка по текущим проектам, поэтому мы приглашаем присоединиться к нашей команде опытных Java-разработчиков.</p> <p><strong>Вам предстоит:</strong></p> <ul> <li>Разработка и поддержка высоконагруженных микросервисных приложений</li> <li>Проектирование и оптимизация распределенных систем</li> <li>Интеграция с различными системами обмена сообщениями</li> <li>Участие в проектировании архитектуры новых решений</li> <li>Code review и техническая экспертиза</li> <li>Оптимизация производительности существующих систем</li> <li>Документирование решений и архитектурных подходов</li> <li>Понимание и следование принципам SOLID, DRY и т.д.</li> </ul> <p><strong>Мы ожидаем от кандидата:</strong></p> <p> </p> <ul> <li>Высшее техническое образование (или опыт работы Java-разработчиком более 5 лет).</li> <li>Только полный 8-часовой рабочий день.</li> </ul> <p><strong>Технические навыки:</strong></p> <ul> <li>Опыт работы со Spring Boot, Spring framework (Security, Data), Hibernate, Liquibase;</li> <li>Опыт работы с Maven, Git/ GitLab</li> <li>Уверенное знание Java (11+)</li> <li>Опыт работы с PostgreSQL</li> <li>Опыт работы с noSQL базами данных (ElasticSearch)</li> <li>Опыт разработки REST API/ SOAP</li> <li>Опыт работы с брокерами очередей сообщения (Kafka)</li> <li>Понимание принципов работы Docker и Kubernetes</li> <li>Опыт написания автотестов JUnit/TestNG, Mockito</li> </ul> <p><strong>Личные качества:</strong></p> <ul> <li>Аналитическое мышление</li> <li>Умение работать в команде</li> <li>Способность быстро осваивать новые технологии</li> <li>Ответственность и пунктуальность</li> <li>Хорошие коммуникативные навыки</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт работы с CI/CD инструментами</li> <li>Понимание принципов DevOps</li> <li>Опыт оптимизации производительности</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>​​​​​Удалённая работа с первого дня;</li> <li>График работы 5/2 с гибким началом рабочего дня;</li> <li>Карьерный рост;</li> <li>Оформление по ТК РФ;</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Java SE"
+    },
+    {
+      "name": "Spring Boot"
+    },
+    {
+      "name": "Hibernate"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Elasticsearch"
+    },
+    {
+      "name": "SOAP"
+    },
+    {
+      "name": "Apache Kafka"
+    },
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "Spring Security"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Микросервисная архитектура"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10847090",
+    "name": "Кибернетика",
+    "url": "https://api.hh.ru/employers/10847090",
+    "alternate_url": "https://hh.ru/employer/10847090",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10847090",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-13T07:18:38+0300",
+  "created_at": "2025-05-13T07:18:38+0300",
+  "initial_created_at": "2025-05-13T07:18:38+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120441812",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120441812",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

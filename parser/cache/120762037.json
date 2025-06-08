@@ -1,0 +1,152 @@
+{
+  "id": "120762037",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист технической поддержки на ВКС",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 170000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 170000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Карамышевский проезд",
+    "building": "6",
+    "lat": 55.778021,
+    "lng": 37.454878,
+    "description": null,
+    "raw": "Москва, Карамышевский проезд, 6",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p> </p> <p><strong>О нас:</strong> ИНКОМА — это команда единомышленников, работающая на рынке информационных технологий более 30 лет. Мы сотрудничаем с ведущими российскими производителями и предоставляем комплексные решения в области телекоммуникаций и программного обеспечения. Мы ценим инициативу и результативность, и приглашаем в нашу команду профессионалов, готовых развиваться вместе с нами.</p> <p>Мы ищем специалиста на работу по продукту видео конференц связи https://breez.team </p> <p>https://help.breez.team/s/breez </p> <p>Прежде чем отзываться ознакомьтесь пожалуйста с продуктом. Нам важен Ваш опыт реальной работы с вкс системами.</p> <p><strong>Обязанности:</strong></p> <p>Обработка запросов технической поддержки от заказчиков;<br />· Исследование различных программных продуктов и интеграция с ними;<br />· Проведение работ по внедрению продукта в ИТ-инфраструктуре заказчика;<br />· Выезд к клиентам для проведения технических работ;</p> <p>Вся работа в рамках продукта видеоконференцсвязи разработанной нашей компанией</p> <p><strong>Наши ожидания:</strong><br />· Знание таких понятий как LDAP, DNS, NTP, FQDN, FTP, SMTP, SNMP;<br />Знания основ сетевых технологий (модель OSI, стек протоколов TCP/IP, виды и классы оборудования и базовые принципы их работы);<br />Знания и опыт администрирования серверов и рабочих станций под управлением различных дистрибутивов Linux/Windows <strong>обязательно</strong><br />Опыт работы с системами виртуализации;<br />Опыт работы с анализаторами сетевого трафика (Wireshark/TCP dump)<br />Умение осуществлять диагностику и поиск неисправностей / ошибок конфигурации оборудования.<br />· <strong>Будет существенным плюсом:</strong><br /><br />· Опыт работы с оборудованием ВКС;<br />· Опыт работы с продуктами IVA, TrueConf и тд<br />· Грамотная речь, опыт работы в службе технической поддержки<br />· Опыт работы в Service-Desk, понимание ITIL<br /><br />· <strong>Мы предлагаем:</strong><br />Стать частью компании, развивающей отечественный рынок видеоконференцсвязи;<br />Участие в профильных семинарах и конференциях.<br />Профессиональный и карьерный рост. Перспектива стать лидером направления деятельности.</p> <strong>Условия:</strong>​​​​​ <ul> <li>Полная занятость, график работы 5/2.</li> <li>Формат работы: гибрид.</li> <li>Возможности для профессионального и карьерного роста.</li> <li>Официальное трудоустройство в ИТ-компании.</li> <li> <p>Комфортные условия для работы: оборудованное всем необходимым рабочее место, зона для отдыха с обустроенной кухней, свежие фрукты, чай/кофе и другое для быстрых перекусов.<br />Здоровый микроклимат в коллективе и работа в динамично растущей команде</p> </li> </ul> <p>Присоединяйтесь к ИНКОМА и станьте частью команды</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "147",
+    "name": "ИНКОМА",
+    "url": "https://api.hh.ru/employers/147",
+    "alternate_url": "https://hh.ru/employer/147",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/665147.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3101720.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3101721.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=147",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-20T13:11:05+0300",
+  "created_at": "2025-05-20T13:11:05+0300",
+  "initial_created_at": "2025-05-20T13:11:05+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120762037",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120762037",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "a1",
+        "name": "A1 — Начальный"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

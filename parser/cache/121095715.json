@@ -1,0 +1,141 @@
+{
+  "id": "121095715",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Python Developer (ЭДО)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Выборгская набережная",
+    "building": "47",
+    "lat": 59.973473,
+    "lng": 30.334023,
+    "description": null,
+    "raw": "Санкт-Петербург, Выборгская набережная, 47",
+    "metro": {
+      "station_name": "Выборгская",
+      "line_name": "Кировско-Выборгская",
+      "station_id": "14.196",
+      "line_id": "14",
+      "lat": 59.970925,
+      "lng": 30.347408
+    },
+    "metro_stations": [
+      {
+        "station_name": "Выборгская",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.196",
+        "line_id": "14",
+        "lat": 59.970925,
+        "lng": 30.347408
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы ищем Senior Python разработчика, который усилит команду, быстро вольется в разработку и привнесет экспертизу в проработку технических решений.</p> <p>Мы разрабатываем сложный и действительно интересный продукт в сфере ЭДО, который активно развивается. Сейчас создаем новые сервисы в микросервисной архитектуре и находимся на этапе её формирования. Это возможность не только разрабатывать, но и влиять на фундаментальные решения, выстраивая процессы так, как действительно удобно и эффективно.</p> <p><strong>Наш технический стек:</strong></p> <ul> <li>Backend: Python, FastAPI</li> <li>Тестирование: pytest, Faker</li> <li>Frontend: JS, React, MobX</li> <li>Хранение данных: MongoDB, Redis</li> <li>CI/CD: Docker, Gitlab CI, Ansible</li> <li>Очереди: RabbitMQ</li> <li>Мониторинг: Sentry, ELK, Prometheus, Grafana</li> <li>Прочее: OpenSSL, PyCharm, poetry</li> </ul> <p><strong>Что важно для нас:</strong></p> <ul> <li>Исследовательский интерес: мы не просто делаем, а задаем вопросы, выясняем, зачем и кому это нужно, тестируем гипотезы;</li> <li>Открытость: доносим друг другу обратную связь и обсуждаем сложности на ретро;</li> <li>Инициативность: если видишь, что можно улучшить — скажи, а лучше — сделай.</li> </ul> <p><strong>Что мы ожидаем:</strong></p> <ul> <li>Понимание работы unix-based ОС и Docker;</li> <li>Уверенное владение Python (3.6+) и pytest;</li> <li>Опыт работы с MongoDB;</li> <li>Опыт работы с асинхронным кодом;</li> <li>Навык проектирования и разработки бэкенда;</li> <li>Опыт работы в команде и хорошие коммуникативные навыки;</li> <li>Стремление писать чистый, поддерживаемый код.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт в оптимизации скорости работы сервисов, мониторинге и интернет-безопасности;</li> <li>Готовность не ограничиваться написанием кода и работать с инфраструктурой;</li> <li>Готовность погружаться в детали бизнес-логики;</li> <li>Убежденность в важности тестов и документации;</li> <li>Понимание, что работа над задачей заканчивается не передачей в тестирование, а выкаткой на прод и сбором метрик по фиче.</li> </ul> <p><strong>Кому понравится у нас?</strong></p> <ul> <li>Тем, кто любит разнообразие в задачах и хочет не просто писать код, а разбираться в сложных процессах.</li> <li>Тем, кто хочет развиваться и расти в крутой команде единомышленников.</li> <li>Тем, кто хочет влиять на качество продукта и видеть реальные результаты своей работы.</li> </ul> <p><strong>Что мы за это предлагаем:</strong></p> <ul> <li>Работу в аккредитованной продуктовой IT-компании с возможностью оформления отсрочки от призыва;</li> <li>Гибридный формат работы с посещением комфортного офиса класса А дважды в неделю;</li> <li>ДМС со стоматологией и психологом, доплата больничных до оклада;</li> <li>Компенсацию питания: горячие обеды и здоровые перекусы в офисе;</li> <li>Профессиональное обучение за счёт компании и поездки на конференции;</li> <li>Постоянно пополняющуюся библиотеку с профлитературой;</li> <li>Комнаты отдыха с PlayStation, настольным теннисом и кикером, массажное кресло, пещеры для сна;</li> <li>Укомплектованный мини-спортзал, душевые, йога в офисе;</li> <li>Компенсацию спорта и изучения иностранных языков.</li> </ul>",
+  "branded_description": "\n        <style type=\"text/css\">\n       .tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc,\n.tmpl_hh_wrapper .l-paddings {\n    line-height: inherit !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-weight: normal;\n    font-size: inherit!important;\n    font-family: inherit!important;\n    line-height: inherit!important;\n    color: inherit!important;\n    margin: 0!important;\n    padding: 0!important;\n    background: none!important;\n    display: inline!important;\n    text-transform: none;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    display: inline;\n    margin: 0;\n}\n\n.tmpl_hh_flex {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n    -ms-flex-pack: justify;\n    -webkit-box-pack: justify;\n    justify-content: space-between;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    max-width: 690px;\n    margin: 0 auto;\n    position: relative;\n    word-break: normal;\n    font-family: 'Verdana', sans-serif;\n    color: #000;\n    font-size: 14px;\n    line-height: 1.4;\n    overflow: hidden;\n    -webkit-font-smoothing: antialiased;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_header {\n    position: relative;\n    background: #2B8BDE;\n    padding: 8.4% 5.5% 11%;\n    overflow: hidden;\n}\n\n.tmpl_hh_header:before {\n    content: '';\n    position: absolute;\n    top: -28px;\n    right: 31%;\n    background: #EF504F;\n    width: 40px;\n    height: 40px;\n    border-radius: 50%;\n    -webkit-box-shadow: 0px 16px 24px rgba(0, 0, 0, 0.03), 0px 2px 6px rgba(0, 0, 0, 0.03), 0px 0px 1px rgba(0, 0, 0, 0.03);\n    box-shadow: 0px 16px 24px rgba(0, 0, 0, 0.03), 0px 2px 6px rgba(0, 0, 0, 0.03), 0px 0px 1px rgba(0, 0, 0, 0.03);\n}\n\n.tmpl_hh_header:after {\n    content: '';\n    position: absolute;\n    top: 12%;\n    left: 53%;\n    width: 10px;\n    height: 10px;\n    border-radius: 50%;\n    background: #CEE57C;\n    -webkit-box-shadow: 0px 16px 24px rgba(0, 0, 0, 0.03), 0px 2px 6px rgba(0, 0, 0, 0.03), 0px 0px 1px rgba(0, 0, 0, 0.03);\n    box-shadow: 0px 16px 24px rgba(0, 0, 0, 0.03), 0px 2px 6px rgba(0, 0, 0, 0.03), 0px 0px 1px rgba(0, 0, 0, 0.03);\n}\n\n.tmpl_hh_header p {\n    color: #fff;\n    font-size: 48px;\n    line-height: 1.3;\n    position: relative;\n    z-index: 2;\n}\n\n.tmpl_hh_header > span {\n    color: #FFFFFF;\n    position: absolute;\n    font-size: 13px;\n    width: 127px;\n    top: 22%;\n    right: 23%;\n    z-index: 2;\n}\n\n.tmpl_hh_header p span {\n    opacity: 0.7;\n}\n\n.tmpl_hh_header .tmpl_hh_header__title {\n  line-height: 120%;\n}\n\n.tmpl_hh_header__logo {\n    z-index: 2;\n    position: absolute;\n    top: 54px;\n    right: 40px;\n    max-width: 100px;\n}\n\nimg.tmpl_hh_header_img {\n    position: absolute;\n}\n\nimg.tmpl_hh_header_img1 {\n    z-index: 1;\n    top: 0;\n    right: 0;\n    max-width: 131px;\n}\n\nimg.tmpl_hh_header_img2 {\n    width: 233px;\n    bottom: -186px;\n    left: -21px;\n}\n\nimg.tmpl_hh_header_img3 {\n    width: 47px;\n    bottom: 15%;\n    right: 24%;\n}\n\n@media screen and (max-width: 1019px) {\n.tmpl_hh_header {\n    padding: 11% 5.5% 12%;\n}\n  .tmpl_hh_header .tmpl_hh_header__title {\n    font-size: 42px;\n  }\n  .tmpl_hh_header__logo {\n     top: 22%;\n     right: 6%;\n     max-width: 90px;\n  }\n  .tmpl_hh_header > span {\n     top: 22%;\n     right: 26%;\n  }\n}\n\n@media screen and (max-width: 699px) {\n  .tmpl_hh_header .tmpl_hh_header__title {\n    font-size: 36px;\n  }\n  .tmpl_hh_header__logo {\n        top: 7%;\n        right: 5%;\n        max-width: 80px;\n  }\n}\n\n@media screen and (max-width: 499px) {\n  .tmpl_hh_header .tmpl_hh_header__title {\n    font-size: 26px;\n  }\n  .tmpl_hh_header__logo {\n        top: 5px;\n        right: 10px;\n        max-width: 76px;\n  }\n}\n\n.tmpl_hh_container {\n    background-color: #f6fbff;\n    padding: 37px 6% 0;\n}\n\n.tmpl_hh_numbers_item {\n    width: 27%;\n    position: relative;\n    font-size: 16px;\n    padding-left: 70px;\n    -webkit-box-sizing: border-box;\n    box-sizing: border-box;\n}\n\n.tmpl_hh_numbers_item2 {\n    left: 2%;\n}\n\n.tmpl_hh_numbers_item b {\n    display: block;\n    font-weight: normal;\n    font-size: 34px;\n    position: relative;\n    margin-bottom: 4px;\n}\n\n.tmpl_hh_numbers_item p {\n    width: 110%;\n}\n\n.tmpl_hh_numbers_item:after {\n    content: '';\n    position: absolute;\n    top: 21px;\n    left: 3px;\n    width: 45px;\n    height: 1px;\n    display: block;\n    border-radius: 50%;\n    background-color: #000;\n}\n\n.tmpl_hh_numbers_item:before {\n    content: '';\n    position: absolute;\n    top: 4px;\n    left: 24px;\n    width: 36px;\n    height: 36px;\n    display: block;\n    border-radius: 50%;\n    -webkit-box-shadow: 0px 16px 24px rgba(0, 0, 0, 0.03), 0px 2px 6px rgba(0, 0, 0, 0.03), 0px 0px 1px rgba(0, 0, 0, 0.03);\n    box-shadow: 0px 16px 24px rgba(0, 0, 0, 0.03), 0px 2px 6px rgba(0, 0, 0, 0.03), 0px 0px 1px rgba(0, 0, 0, 0.03);\n}\n\n.tmpl_hh_numbers_item1:before {\n    background-color: #EF504F;\n}\n\n.tmpl_hh_numbers_item2:before {\n    background-color: #FBEA51;\n}\n\n.tmpl_hh_numbers_item3:before {\n    background-color: #9768D1;\n}\n\n.tmpl_hh_text {\n    margin-top: 42px;\n    margin-bottom: 10px;\n    font-size: 14px;\n}\n\n.tmpl_hh_text p:not(:last-child) {\n    margin-bottom: 23px;\n}\n\n.tmpl_hh_footer {\n    position: relative;\n    padding-bottom: 113px;\n}\n\n.tmpl_hh_title {\n    position: relative;\n    z-index: 2;\n    font-size: 34px;\n    margin-bottom: 36px;\n}\n\n.tmpl_hh_footer_item {\n    width: 59%;\n    position: relative;\n    z-index: 2;\n    margin-bottom: 35px;\n}\n\n.tmpl_hh_footer_item b {\n    font-size: 14px;\n    display: block;\n    margin-bottom: 16px;\n}\n\n.tmpl_hh_footer_item p {\n    position: relative;\n    padding-left: 60px;\n}\n\n.tmpl_hh_footer_item p:before {\n    content: '';\n    position: absolute;\n    top: 10px;\n    left: 0;\n    width: 45px;\n    height: 1px;\n    display: block;\n    background: #000;\n}\n\n.tmpl_hh_footer_img {\n    position: absolute;\n}\n\n.tmpl_hh_footer_img1 {\n    width: 103%;\n    right: -25%;\n    bottom: -38px;\n}\n\n.tmpl_hh_footer_img2 {\n    width: 45px;\n    left: 0%;\n    bottom: 52px;\n}\n\n.tmpl_hh_content {\n    padding: 10px 0 61px;\n    -webkit-box-sizing: border-box;\n    box-sizing: border-box;\n    margin: 0 auto;\n    color: #000;\n    font-size: 14px;\n    line-height: 18px;\n    position: relative;\n    z-index: 5;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    margin: 23px 0 0;\n}\n\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    display: inline-block;\n    font-size: 14px;\n    line-height: 22px;\n}\n\n.tmpl_hh_content ul,\n.tmpl_hh_content ul ul {\n    list-style: none;\n}\n\n.tmpl_hh_content ol {\n    list-style: none;\n    counter-reset: list;\n}\n\n.tmpl_hh_content ul,\n.tmpl_hh_content ol {\n    margin-left: 33px;\n    margin-top: 9px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 8px;\n    margin-bottom: 8px;\n}\n\n.tmpl_hh_content ul li,\n.tmpl_hh_content ol li {\n    position: relative;\n    margin-bottom: 13px;\n}\n\n.tmpl_hh_content ol > li {\n    counter-increment: list;\n}\n\n.tmpl_hh_content ul>li:before,\n.tmpl_hh_content ol>li:before {\n    position: absolute;\n    left: -15px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: '';\n    display: block;\n    width: 2px;\n    height: 2px;\n    background-color: #000;\n    top: 8px;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list) \".\";\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n\n@media screen and (max-width: 1019px) {\n    .tmpl_hh_numbers_item p {\n    width: 136%;\n}\n .tmpl_hh_numbers {\n      position: relative;\n      left: -2%;\n   }\n}\n\n@media screen and (max-width: 699px) {\n    .tmpl_hh_header {\n        padding: 88px 3.5% 55px;\n    }\n    .tmpl_hh_header:before {\n        top: -15px;\n        right: 63%;\n        width: 28px;\n        height: 28px;\n    }\n    .tmpl_hh_header:after {\n        top: 12%;\n        left: 56%;\n        width: 6px;\n        height: 6px;\n    }\n    .tmpl_hh_header p {\n        font-size: 26px;\n        line-height: 1.3;\n    }\n    .tmpl_hh_header > span {\n        display: block;\n        position: relative;\n        font-size: 12px;\n        width: 117px;\n        top: 0;\n        right: 12%;\n        margin-left: auto;\n        margin-top: 24px;\n    }\n    img.tmpl_hh_header_img1 {\n        max-width: 90px;\n    }\n    img.tmpl_hh_header_img2 {\n        width: 200px;\n        bottom: -155px;\n        left: -9px;\n    }\n    img.tmpl_hh_header_img3 {\n        width: 39px;\n        bottom: 27%;\n        right: 70%;\n    }\n    .tmpl_hh_container {\n        padding: 25px 3% 0;\n    }\n    .tmpl_hh_numbers_item {\n        width: 42%;\n        font-size: 12px;\n        padding-left: 38px;\n        margin-bottom: 14px;\n    }\n    .tmpl_hh_numbers_item2 {\n        left: 0;\n    }\n    .tmpl_hh_numbers_item b {\n        font-size: 26px;\n        margin-bottom: 4px;\n    }\n    .tmpl_hh_numbers_item p {\n        width: 110%;\n    }\n    .tmpl_hh_numbers {\n      position: relative;\n      left: 0;\n   }\n    .tmpl_hh_numbers_item:after {\n        top: 17px;\n        left: -3px;\n        width: 21px;\n        height: 1px;\n    }\n    .tmpl_hh_numbers_item:before {\n        top: 8px;\n        left: 5px;\n        width: 20px;\n        height: 20px;\n    }\n    .tmpl_hh_text {\n        margin-top: 17px;\n        margin-bottom: 10px;\n        font-size: 12px;\n        line-height: 1.5;\n    }\n    .tmpl_hh_footer {\n        position: relative;\n        padding-bottom: 72px;\n    }\n    .tmpl_hh_title {\n        position: relative;\n        z-index: 2;\n        font-size: 26px;\n        margin-bottom: 17px;\n    }\n    .tmpl_hh_footer_item {\n        width: 75%;\n        margin-bottom: 22px;\n    }\n    .tmpl_hh_footer_item b {\n        font-size: 12px;\n        display: block;\n        margin-bottom: 11px;\n    }\n    .tmpl_hh_footer_item p {\n        position: relative;\n        padding-left: 36px;\n        font-size: 12px;\n    }\n    .tmpl_hh_footer_item p:before {\n        top: 10px;\n        left: 0;\n        width: 25px;\n    }\n    .tmpl_hh_footer_img {\n        position: absolute;\n    }\n    .tmpl_hh_footer_img1 {\n        width: 87%;\n    right: -20%;\n    bottom: -12px;\n    }\n    .tmpl_hh_footer_img2 {\n        width: 36px;\n        left: 0%;\n        bottom: 31px;\n    }\n    .tmpl_hh_content {\n        padding: 12px 0 15px;\n        font-size: 12px;\n        line-height: 16px;\n        color: #222222;\n    }\n    .tmpl_hh_content p,\n    .tmpl_hh_content b,\n    .tmpl_hh_content strong {\n        margin: 11px 0 0;\n    }\n    .tmpl_hh_content b,\n    .tmpl_hh_content strong {\n        font-size: 12px;\n        line-height: 16px;\n    }\n    .tmpl_hh_content ul,\n    .tmpl_hh_content ol {\n        margin-left: 22px;\n        margin-top: 4px;\n    }\n    .tmpl_hh_content ul ul,\n    .tmpl_hh_content ul ol,\n    .tmpl_hh_content ol ol,\n    .tmpl_hh_content ol ul {\n        margin-top: 8px;\n        margin-bottom: 8px;\n    }\n    .tmpl_hh_content ul li,\n    .tmpl_hh_content ol li {\n        position: relative;\n        margin-bottom: 7px;\n    }\n    .tmpl_hh_content ul>li:before,\n    .tmpl_hh_content ol>li:before {\n        position: absolute;\n        left: -10px;\n        top: 0;\n    }\n    .tmpl_hh_content ul>li:before {\n        width: 2px;\n        height: 2px;\n        top: 8px;\n    }\n    .tmpl_hh_content ol>li:before {\n        left: auto;\n        right: 100%;\n        margin-right: 2px;\n    }\n}\n\n@media screen and (max-width: 499px) {\n    img.tmpl_hh_header_img1 {\n        max-width: 53px;\n    }\n    img.tmpl_hh_header_img2 {\n        width: 135px;\n        bottom: -104px;\n        left: -9px;\n    }\n    .tmpl_hh_header > span {\n        right: 5%;\n    }\n}\n\n        </style>\n        <div class=\"tmpl_hh_wrapper\">\n            <div class=\"tmpl_hh_header\">\n                <p class=\"tmpl_hh_header__title\"> Вступай\n                    <br> <span>в команду ATI.SU</span> </p> <span>\n            Вместе создаём \n            IT-историю рынка \n            грузоперевозок\n        </span> \n<picture>\n  <source srcset=\"https://img.hhcdn.ru/ichameleon/437811.png\" media=\"(max-width: 1019px)\"></source>\n  <img src=\"https://img.hhcdn.ru/ichameleon/437810.png\" alt=\"\" class=\"tmpl_hh_header__logo\">\n</picture>\n\n<img src=\"https://img.hhcdn.ru/ichameleon/437813.svg\" alt=\"\" class=\"tmpl_hh_header_img tmpl_hh_header_img1\">\n<img src=\"https://hhcdn.ru/ichameleon/199755.svg\" alt=\"\" class=\"tmpl_hh_header_img tmpl_hh_header_img2\">\n<img src=\"https://hhcdn.ru/ichameleon/199756.svg\" alt=\"\" class=\"tmpl_hh_header_img tmpl_hh_header_img3\">\n\n</div>\n            <div class=\"tmpl_hh_container\">\n                <div class=\"tmpl_hh_numbers tmpl_hh_flex\">\n                    <div class=\"tmpl_hh_numbers_item tmpl_hh_numbers_item1\"> <b>400К</b>\n                        <p> пользователей из 63 стран</p>\n                    </div>\n                    <div class=\"tmpl_hh_numbers_item tmpl_hh_numbers_item2\"> <b>30+</b>\n                        <p> лет\n                            <br> на рынке </p>\n                    </div>\n                    <div class=\"tmpl_hh_numbers_item tmpl_hh_numbers_item3\"> <b>300+</b>\n                        <p> человек\n                            <br> в команде </p>\n                    </div>\n                </div>\n                <div class=\"tmpl_hh_text\">\n                    <p>Привет! <b>Мы ATI.SU</b> ― экосистема цифровых сервисов для логистики и биржа грузов и транспорта, которой пользуются почти полмиллиона пользователей из России и СНГ. Помогаем грузоотправителям и перевозчикам находить друг друга, отслеживать грузы и переводить свои процессы в «цифру».</p>\n                    <p>Ежедневно справляемся с нагрузкой в сотни миллионов запросов от сотен тысяч пользователей. </p>\n                    <p>Несмотря на 30-летнюю историю, налаженные процессы и большую команду из 300+ человек, мы сохранили гибкость и работаем без лишней бюрократии.</p>\n                 </div>\n                <div class=\"tmpl_hh_content\">\n                    <p>Мы ищем Senior Python разработчика, который усилит команду, быстро вольется в разработку и привнесет экспертизу в проработку технических решений.</p> <p>Мы разрабатываем сложный и действительно интересный продукт в сфере ЭДО, который активно развивается. Сейчас создаем новые сервисы в микросервисной архитектуре и находимся на этапе её формирования. Это возможность не только разрабатывать, но и влиять на фундаментальные решения, выстраивая процессы так, как действительно удобно и эффективно.</p> <p><strong>Наш технический стек:</strong></p> <ul> <li>Backend: Python, FastAPI</li> <li>Тестирование: pytest, Faker</li> <li>Frontend: JS, React, MobX</li> <li>Хранение данных: MongoDB, Redis</li> <li>CI/CD: Docker, Gitlab CI, Ansible</li> <li>Очереди: RabbitMQ</li> <li>Мониторинг: Sentry, ELK, Prometheus, Grafana</li> <li>Прочее: OpenSSL, PyCharm, poetry</li> </ul> <p><strong>Что важно для нас:</strong></p> <ul> <li>Исследовательский интерес: мы не просто делаем, а задаем вопросы, выясняем, зачем и кому это нужно, тестируем гипотезы;</li> <li>Открытость: доносим друг другу обратную связь и обсуждаем сложности на ретро;</li> <li>Инициативность: если видишь, что можно улучшить — скажи, а лучше — сделай.</li> </ul> <p><strong>Что мы ожидаем:</strong></p> <ul> <li>Понимание работы unix-based ОС и Docker;</li> <li>Уверенное владение Python (3.6+) и pytest;</li> <li>Опыт работы с MongoDB;</li> <li>Опыт работы с асинхронным кодом;</li> <li>Навык проектирования и разработки бэкенда;</li> <li>Опыт работы в команде и хорошие коммуникативные навыки;</li> <li>Стремление писать чистый, поддерживаемый код.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт в оптимизации скорости работы сервисов, мониторинге и интернет-безопасности;</li> <li>Готовность не ограничиваться написанием кода и работать с инфраструктурой;</li> <li>Готовность погружаться в детали бизнес-логики;</li> <li>Убежденность в важности тестов и документации;</li> <li>Понимание, что работа над задачей заканчивается не передачей в тестирование, а выкаткой на прод и сбором метрик по фиче.</li> </ul> <p><strong>Кому понравится у нас?</strong></p> <ul> <li>Тем, кто любит разнообразие в задачах и хочет не просто писать код, а разбираться в сложных процессах.</li> <li>Тем, кто хочет развиваться и расти в крутой команде единомышленников.</li> <li>Тем, кто хочет влиять на качество продукта и видеть реальные результаты своей работы.</li> </ul> <p><strong>Что мы за это предлагаем:</strong></p> <ul> <li>Работу в аккредитованной продуктовой IT-компании с возможностью оформления отсрочки от призыва;</li> <li>Гибридный формат работы с посещением комфортного офиса класса А дважды в неделю;</li> <li>ДМС со стоматологией и психологом, доплата больничных до оклада;</li> <li>Компенсацию питания: горячие обеды и здоровые перекусы в офисе;</li> <li>Профессиональное обучение за счёт компании и поездки на конференции;</li> <li>Постоянно пополняющуюся библиотеку с профлитературой;</li> <li>Комнаты отдыха с PlayStation, настольным теннисом и кикером, массажное кресло, пещеры для сна;</li> <li>Укомплектованный мини-спортзал, душевые, йога в офисе;</li> <li>Компенсацию спорта и изучения иностранных языков.</li> </ul></div>\n                <div class=\"tmpl_hh_footer\">\n                    <div class=\"tmpl_hh_title\"> ATI.SU — это </div>\n                    <div class=\"tmpl_hh_footer_item\"> <b>Современные технологии</b>\n                        <p> Не боимся внедрять новое и всегда ищем наиболее эффективные решения </p>\n                    </div>\n                    <div class=\"tmpl_hh_footer_item\"> <b>Выстроенные процессы</b>\n                        <p> Понятные цели, открытость в процессах и обсуждение проблем напрямую </p>\n                    </div>\n                    <div class=\"tmpl_hh_footer_item\"> <b>Полноценные продуктовые команды</b>\n                        <p> Есть все необходимые роли для эффективной продуктовой разработки </p>\n                    </div>\n                    <div class=\"tmpl_hh_footer_item\"> <b>Развитие и возможности</b>\n                        <p> Поддерживаем рост сотрудников и развитие внутренних стартапов </p>\n                    </div>\n                    <div class=\"tmpl_hh_footer_img tmpl_hh_footer_img1\"> <img src=\"https://hhcdn.ru/ichameleon/200392.svg\" alt=\"\"> </div>\n                    <div class=\"tmpl_hh_footer_img tmpl_hh_footer_img2\"> <img src=\"https://hhcdn.ru/ichameleon/199754.png\" alt=\"\"> </div>\n                </div>\n            </div>\n        </div>\n    ",
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10607",
+    "name": "ATI.SU",
+    "url": "https://api.hh.ru/employers/10607",
+    "alternate_url": "https://hh.ru/employer/10607",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/734532.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3379105.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3379106.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10607",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T16:54:20+0300",
+  "created_at": "2025-06-06T16:54:20+0300",
+  "initial_created_at": "2025-05-28T16:54:20+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121095715",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121095715",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

@@ -1,0 +1,125 @@
+{
+  "id": "121181886",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Продуктолог- Методолог (юридические услуги)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 99000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 99000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "part",
+    "name": "Частичная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Продуктолог - Методолог</strong></p> <p>Мы в поиске продуктолога - методолога, который поможет системно развивать наш продукт и обеспечить высокий уровень подготовки специалистов.<br />Если вы умеете превращать бизнес-цели в реальные коммерческие предложения, знаете, как запускать и развивать новые продукты — нам по пути</p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li> <p>Собирать и «распаковывать» рынок юридических услуг в строительстве (анализ конкурентов, интервью с собственником, формирование пакетных предложений).</p> </li> <li> <p>Упаковывать эти услуги в понятные программы (инструкции, чек-листы, презентации, тесты, видео).</p> </li> <li> <p>Настраивать внутренние обучающие процессы (Notion, LMS, Tilda/Readymag, Google Docs).</p> </li> <li> <p>Собирать обратную связь (тесты, опросы), анализировать эффективность (completion rate, средний балл) и дорабатывать программы.</p> </li> </ul> <p><strong>Что важно:</strong></p> <ul> <li>Опыт работы продуктологом / методистом от 2 лет;</li> <li>Практический опыт продукт-менеджмента — разработка и запуск новых услуг или пакетных предложений для B2B-е сегмента</li> <li>Умение структурировать и доносить информацию, выстраивать логику обучения;</li> <li>Владение современными инструментами (Notion, Google Docs, Tilda, LMS);</li> <li>Способность управлять несколькими проектами одновременно;</li> <li>Навык интервьюирования и сбора экспертного контента;</li> <li>Приветствуется опыт в юридической/B2B-сфере, EdTech.</li> </ul> <p><strong>Что предлагаем:</strong></p> <ul> <li>Возможность влиять на развитие продукта с нуля;</li> <li>Удалённый формат работы;</li> <li>Гибкий график;</li> <li>Работа с сильной командой, которая ценит системность и инициативу;</li> <li>Достойная заработная плата по итогам собеседования;</li> <li>Доступ к современной методической базе и поддержке внутренней команды.</li> </ul> <p><em><strong>Если вы умеете превращать информацию в знания, а знания — в результат, будем рады вашему отклику!</strong></em></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "155",
+      "name": "Методолог"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10212790",
+    "name": "Первый проектный офис",
+    "url": "https://api.hh.ru/employers/10212790",
+    "alternate_url": "https://hh.ru/employer/10212790",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10212790",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-30T17:51:30+0300",
+  "created_at": "2025-05-30T17:51:30+0300",
+  "initial_created_at": "2025-05-30T17:51:30+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121181886",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121181886",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "PART",
+    "name": "Частичная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

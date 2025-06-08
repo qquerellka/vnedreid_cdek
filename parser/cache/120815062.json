@@ -1,0 +1,198 @@
+{
+  "id": "120815062",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "улица Трефолева",
+    "building": "2Р",
+    "lat": 59.885309,
+    "lng": 30.280016,
+    "description": null,
+    "raw": "Санкт-Петербург, улица Трефолева, 2Р",
+    "metro": {
+      "station_name": "Кировский завод",
+      "line_name": "Кировско-Выборгская",
+      "station_id": "14.205",
+      "line_id": "14",
+      "lat": 59.879688,
+      "lng": 30.261921
+    },
+    "metro_stations": [
+      {
+        "station_name": "Кировский завод",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.205",
+        "line_id": "14",
+        "lat": 59.879688,
+        "lng": 30.261921
+      },
+      {
+        "station_name": "Нарвская",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.204",
+        "line_id": "14",
+        "lat": 59.901218,
+        "lng": 30.274908
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Системный администратор в офис IT компании. Работа с собственной ЛВС и по сервисным контрактам с заказчиками компании.</p> <p> </p> <p><strong>Требования</strong>:</p> <ul> <li>Опыт работы от 1 года,</li> <li>Навыки администрирования, настройки, диагностики серверов, СХД, персональных компьютеров, ноутбуков, коммутаторов, маршрутизаторов и других компонентов ЛВС, всего что связано с функционированием сети компании.</li> <li>диагностика и ремонт оборудования ЛВС</li> <li>навыки работы с ОС Windows (серверы и рабочие станции), различными ветвями Linux</li> <li>навыки работы с СУБД MySQL, MSSQL, PostgreSQL</li> <li>Навыки общения с Заказчиком, работа с Service Desk</li> <li>Наличие сертификатов по оборудованию будет преимуществом.</li> </ul> <p> </p> <p><strong>Обязанности:</strong></p> <ul> <li>Обслуживание серверов, СХД, персональных компьютеров, ноутбуков, коммутаторов, маршрутизаторов и других компонентов инфраструктуры</li> <li>Модернизация ЛВС, дефектация устаревшего оборудования</li> <li>Работа по сервисным контрактам с заказчиками</li> </ul> <p> </p> <p><strong>Условия</strong>:</p> <ul> <li>График работы: 5/2 с 9.00 до 18.00 (можно смещать),</li> <li>Дружный коллектив,</li> <li>Офисная работа, иногда возможны местные командировки.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Администрирование серверов Windows"
+    },
+    {
+      "name": "Настройка ПК"
+    },
+    {
+      "name": "Установка ПО"
+    },
+    {
+      "name": "Настройка роутеров"
+    },
+    {
+      "name": "Установка драйверов"
+    },
+    {
+      "name": "Администрирование серверов"
+    },
+    {
+      "name": "Настройка почтовых серверов"
+    },
+    {
+      "name": "MS SQL Server"
+    },
+    {
+      "name": "Zabbix"
+    },
+    {
+      "name": "Ubuntu"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1442939",
+    "name": "Лаборатория Инновационных Решений",
+    "url": "https://api.hh.ru/employers/1442939",
+    "alternate_url": "https://hh.ru/employer/1442939",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/26133.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/1016411.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/1016412.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1442939",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-21T12:50:29+0300",
+  "created_at": "2025-05-21T12:50:29+0300",
+  "initial_created_at": "2025-05-21T12:50:29+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120815062",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120815062",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

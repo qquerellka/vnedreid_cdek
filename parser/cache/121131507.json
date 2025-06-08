@@ -1,0 +1,110 @@
+{
+  "id": "121131507",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Data Engineer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": false,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Наша <strong>команда инфраструктуры аналитики</strong> помогает аналитикам делать свою работу: мы обеспечиваем доставку данных в единое хранилище и поддерживаем инструменты для их обработки и презентации.</p> <p> </p> <p>В компании много самодостаточных команд, в каждой — свои сервисы, разработчики и аналитики. Поэтому у нас формируется множество потоков данных самого разного формата и объёма: от данных о бронированиях, на которые смотрит вся компания и где каждая запись проверяется почти вручную, до данных о билетах объёмом более терабайта в сутки. Это требует от нас разных подходов к обработке.</p> <p> </p> <ul> <li> <p>наша платформа построена по принципам LakeHouse архитектуры. <strong>Наш стек</strong>: Spark, Trino, AWS S3, DeltaLake format, DBT, Kafka, Airbyte, Apache Airflow, DataHub.</p> </li> <li> <p>тестирование и сборка производятся на CI сервере (Jenkins). Также присутствует Terraform. Деплой в Kubernetes(EKS в AWS). Настройкой серверов и развёртыванием баз данных занимается отдельная команда — это не входит в нашу зону ответственности.</p> </li> </ul> <p> </p> <p>В нашу дружную команду нужен еще один дата инженер, который будет сфокусирован на задачах поддержки одной из аналитических команд.</p> <p> </p> <p><strong>Что нужно будет делать: </strong></p> <ul> <li> <p>активно участвовать в командном чате: отслеживать запросы, оперативно реагировать на вопросы и задачи в рабочее время;</p> </li> <li> <p>проводить код-ревью аналитиков;</p> </li> <li> <p>оптимизировать текущие процессы обработки данных;</p> </li> <li> <p>участвовать в разработке аналитической A/B-платформы;</p> </li> <li> <p>модернизировать текущую дата платформу и внедрять новые практики вместе с Core командой дата-инженеров.</p> </li> </ul> <p> </p> <p><strong>Что мы ждем от тебя: </strong></p> <ul> <li> <p>опыт работы инженером данных в продуктовой ИТ-компании от трех лет;</p> </li> <li> <p>знание языков программирования: Python и SQL (обязательно), опыт работы с другими языками будет плюсом;</p> </li> <li> <p>понимание принципов ETL/ELT-процессов и работы распределенных вычислений;</p> </li> <li> <p>опыт работы в нашем стеке (Apache Spark, Apache Airflow, DBT, Trino) будет плюсом;</p> </li> <li> <p>самостоятельность и ответственность, умение выстраивать коммуникацию с разными командами и людьми;</p> </li> <li> <p>желание развиваться и улучшать процессы вокруг себя.</p> </li> </ul> <p> </p> <p><strong>Как мы работаем: </strong></p> <ul> <li> <p><strong>в любой точке мира</strong>: не привязываемся к локации, платим в долларах, любим путешествовать;</p> </li> <li> <p><strong>без бюрократии</strong>: удобные процессы здорового человека, горизонтальные и открытые коммуникации, быстрое обсуждение идей и принятие решений;</p> </li> <li> <p><strong>компенсируем</strong>: ДМС, психотерапию или иностранные языки, занятия спортом и больничный;</p> </li> <li> <p><strong>на райском острове</strong>: можно работать на Пхукете с видом на океан.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "588914",
+    "name": "Aviasales.ru",
+    "url": "https://api.hh.ru/employers/588914",
+    "alternate_url": "https://hh.ru/employer/588914",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/785631.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3583415.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3583416.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=588914",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T14:51:00+0300",
+  "created_at": "2025-06-07T14:51:00+0300",
+  "initial_created_at": "2025-05-29T14:51:00+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121131507",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121131507",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

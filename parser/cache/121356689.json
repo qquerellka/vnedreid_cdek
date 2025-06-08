@@ -1,0 +1,130 @@
+{
+  "id": "121356689",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Backend-разработчик (интеграция ИИ-решений)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы ищем <strong>middle-разработчика</strong> с опытом backend-разработки и интересом к интеграции ИИ-решений. Вам предстоит участвовать в тестировании, доработке и внедрении нейросетевых моделей и ИИ-агентов в бизнес-процессы компании.</p> <p>Позиция подойдет тем, кто хочет развиваться в сфере <strong>искусственного интеллекта и автоматизации</strong>, работать с современными инструментами и участвовать в создании прототипов и MVP.</p> <p><strong>Основные задачи:</strong></p> <ul> <li> <p>Тестирование и анализ API нейросетевых решений (OpenAI, Claude, Mistral и др.);</p> </li> <li> <p>Разработка и доработка backend-логики для интеграции ИИ-агентов в существующие системы;</p> </li> <li> <p>Оптимизация запросов к LLM (снижение токен-коста, кэширование, улучшение промтов);</p> </li> <li> <p>Поиск и адаптация open-source решений для бизнес-задач;</p> </li> <li> <p>Создание прототипов и MVP на базе ИИ-инструментов (GPT, RAG-системы, автономные агенты);</p> </li> <li> <p>Фиксация багов, анализ производительности, доработка кода;</p> </li> <li> <p>Взаимодействие с командой разработки и аналитиками для внедрения решений;</p> </li> <li> <p>Написание технической документации.</p> </li> </ul> <p><strong>Требования:</strong></p> <ul> <li> <p>Опыт backend-разработки на <strong>Python/Node.js/Go</strong> (или аналогичных языках);</p> </li> <li> <p>Знание REST API, GraphQL, WebSockets;</p> </li> <li> <p>Опыт работы с базами данных (SQL/NoSQL);</p> </li> <li> <p>Базовое понимание работы LLM и нейросетей;</p> </li> <li> <p>Умение анализировать и оптимизировать запросы к API ИИ-сервисов;</p> </li> <li> <p>Английский на уровне чтения документации;</p> </li> <li> <p>Готовность разбираться в новых технологиях и инструментах.</p> </li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li> <p>Опыт работы с OpenAI API, Claude, Mistral, LlamaIndex и др.;</p> </li> <li> <p>Знание фреймворков для работы с ИИ (LangChain, LlamaIndex, AutoGPT);</p> </li> <li> <p>Опыт настройки RAG-систем или автономных агентов;</p> </li> <li> <p>Навыки контейнеризации (Docker) и облачных сервисов (AWS/GCP/Azure);</p> </li> <li> <p>Понимание основ ML и обработки естественного языка (NLP).</p> </li> </ul> <p><strong>Условия:</strong></p> <ul> <li> <p>Полный рабочий день, удаленно или гибрид (Москва);</p> </li> <li> <p>Работа над разнообразными и нестандартными задачами;</p> </li> <li> <p>Возможность профессионального роста в сфере ИИ;</p> </li> <li> <p>Современный стек и поддержка обучения.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": {
+    "id": 36337,
+    "name": "Брендированный шаблон 1",
+    "top_picture": {
+      "height": 840,
+      "width": 2310,
+      "path": "https://img.hhcdn.ru/branding-pictures/2222266.jpeg",
+      "blurred_path": null
+    },
+    "bottom_picture": {
+      "height": 1014,
+      "width": 2218,
+      "path": "https://img.hhcdn.ru/branding-pictures/2222273.jpeg",
+      "blurred_path": null
+    }
+  },
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2754553",
+    "name": "Дари еду",
+    "url": "https://api.hh.ru/employers/2754553",
+    "alternate_url": "https://hh.ru/employer/2754553",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/539745.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/2600453.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/2600454.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2754553",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T22:44:54+0300",
+  "created_at": "2025-06-04T22:44:54+0300",
+  "initial_created_at": "2025-06-04T22:44:54+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121356689",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121356689",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

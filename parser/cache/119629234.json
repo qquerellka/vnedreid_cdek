@@ -1,0 +1,184 @@
+{
+  "id": "119629234",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер – программист 1 категории (разработка программного обеспечения)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 138763,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 138763,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Одоевского",
+    "building": "29 лит.А",
+    "lat": 59.948289,
+    "lng": 30.23511,
+    "description": null,
+    "raw": "Санкт-Петербург, Одоевского, 29 лит.А",
+    "metro": {
+      "station_name": "Приморская",
+      "line_name": "Невско-Василеостровская",
+      "station_id": "16.227",
+      "line_id": "16",
+      "lat": 59.948521,
+      "lng": 30.23447
+    },
+    "metro_stations": [
+      {
+        "station_name": "Приморская",
+        "line_name": "Невско-Василеостровская",
+        "station_id": "16.227",
+        "line_id": "16",
+        "lat": 59.948521,
+        "lng": 30.23447
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>ГУП &quot;Петербургский метрополитен&quot;</strong> приглашает кандидатов на вакансию: Инженер – программист 1 категории</p> <p>Место работы: г. Санкт- Петербург, ст. м. Приморская</p> <p><strong>Обязанности:</strong></p> <ul> <li>разработка программного обеспечения (клиент-серверная архитектура, веб-клиент);</li> <li> разработка технической документации;</li> <li> сопровождение программного обеспечения.</li> </ul> <strong>Требования:</strong> <p> </p> <ul> <li>высшее профессиональное (техническое образование);</li> <li>опыт работы разработки программного обеспечения (стек см. в разделе знания и навыки);</li> <li>уверенное владение JavaScript/Python/С#/Java/ PL/pgSQL(Postgres)/T‑SQL(MS SQL);</li> <li>опыт администрирования СУБД MS SQL, Postgres Pro;</li> <li>опыт работы с ОС Linux (Astra, Alt);</li> <li>знание алгоритмов и структур данных.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>график: 5/2, c 8:30 до 17:20, пятница сокращенный день до 16:20;</li> <li>ежемесячная премия;</li> <li>ежемесячная надбавка за стаж работы в метрополитене;</li> <li>условия труда в соответствии с ТК РФ;</li> <li>единовременное поощрение при уходе в отпуск.</li> <li>стабильная заработная плата.</li> </ul> <p><strong>Преимущества работы:</strong></p> <ul> <li>выплата вознаграждения по итогам работы за год (13 зарплата);</li> <li>ежегодный дополнительный оплачиваемый отпуск;</li> <li>единовременное поощрение при уходе в отпуск;</li> <li>материальная помощь при различных жизненных ситуациях;</li> <li>гарантия соблюдения законодательства РФ;</li> <li>возможность профессионального и карьерного роста;</li> <li>повышение квалификации за счет предприятия;</li> <li>медицинское сопровождение в Поликлинике метрополитена, ДМС (бесплатно);</li> <li>компенсация отдыха на базах «Метро» и «Оредеж»;</li> <li>компенсация лечения в санатории «Балтийский берег»;</li> <li>компенсация детского отдыха в ДОЛ «Голубая стрела»;</li> <li>льготная пенсия по отдельным профессиям и должностям;</li> <li>льготы и гарантии по Коллективному договору;</li> <li>гарантии при заключении контракта на службу в Вооруженных силах РФ;</li> <li>организация досуга для сотрудников и их семей.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Java"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "C#"
+    },
+    {
+      "name": "MS SQL"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "218800",
+    "name": "Петербургский Метрополитен, государственное унитарное предприятие",
+    "url": "https://api.hh.ru/employers/218800",
+    "alternate_url": "https://hh.ru/employer/218800",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/188960.png",
+      "90": "https://img.hhcdn.ru/employer-logo/854486.png",
+      "240": "https://img.hhcdn.ru/employer-logo/854487.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=218800",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-17T10:26:29+0300",
+  "created_at": "2025-05-17T10:26:29+0300",
+  "initial_created_at": "2025-04-17T10:26:28+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119629234",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119629234",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

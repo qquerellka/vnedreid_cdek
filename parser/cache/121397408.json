@@ -1,0 +1,138 @@
+{
+  "id": "121397408",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "PHP-разработчик",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>ООО &quot;АЛЬФАКОМ&quot; специализируется на обслуживании органов государственной власти,<br />территориально-распределенных ИТ-инфраструктур предприятий и организаций<br />Российской Федерации в области информационных технологий,<br />телекоммуникационных и инженерных систем, программного обеспечения.</p> <p>Мы создали собственную платформу для разработки на основе Laravel (Laravel, Livewire, jQuery, Vue.js, Bootstrap), которую внедряем и поддерживаем.</p> <p>Основной стек наших проектов:<br />В части backend: PHP (Laravel, Laravel Livewire), PostgreSQL<br />В части front: HTLM/CSS/JavaScript(jQuery и Vue.js)</p> <p>Мы предлагаем работу в составе команды по разработке интеграционных решений, включая разработку нового и развитие существующего функционала и ПО.</p> <p>Профессиональные знания и навыки:</p> <ul> <li>Владение полными стеком разработки web-приложений</li> <li>Навыки архитектурного проектирования и коммерческой разработки корпоративных приложений</li> <li>Навыки проектного управления командой разработки</li> <li>Нужно иметь опыт разработки приложение на PHP c использованием фреймворка Laravel</li> <li>Опыт использования таких компонентов Laravel как Nova/Backpack/SleepingOwl/любой другой - большой плюс</li> <li>Уверенно применять средства ООП в PHP</li> <li>Желателен опыт написания сервисом c REST-API</li> <li>Требуются базовые навыки работы с консолью (SSH)</li> <li>И навыки работы с git (мы используем Gitlab)</li> </ul> <p>Для успешного прохождения собеседования необходимо выполнить небольшое тестовое задание, которое будет направлено Вам по запросу при отклике на данную вакансию.</p> <p>Важное о нас:<br />* мы делаем хороший продукт<br />* мы используем новые технологии, постоянно обновляем стек и избавляемся от legacy<br />* строим команду из близких по духу и по-хорошему амбициозных людей</p> <p>Что мы предлагаем:<br />* оплату труда - согласовывается с успешным кандидатом<br />* полная удаленка<br />* соблюдение законодательства в области трудовых и договорных отношений.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "Laravel"
+    },
+    {
+      "name": "ООП"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "SHH"
+    },
+    {
+      "name": "API"
+    },
+    {
+      "name": "REST"
+    },
+    {
+      "name": "Atlassian Jira"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "967072",
+    "name": "АЛЬФАКОМ",
+    "url": "https://api.hh.ru/employers/967072",
+    "alternate_url": "https://hh.ru/employer/967072",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=967072",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T18:12:21+0300",
+  "created_at": "2025-06-05T18:12:21+0300",
+  "initial_created_at": "2025-06-05T18:12:21+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121397408",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121397408",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

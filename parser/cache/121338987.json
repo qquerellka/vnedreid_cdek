@@ -1,0 +1,168 @@
+{
+  "id": "121338987",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Бизнес-аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Лесная улица",
+    "building": "5",
+    "lat": 55.777783,
+    "lng": 37.586886,
+    "description": null,
+    "raw": "Москва, Лесная улица, 5",
+    "metro": {
+      "station_name": "Белорусская",
+      "line_name": "Замоскворецкая",
+      "station_id": "2.19",
+      "line_id": "2",
+      "lat": 55.777439,
+      "lng": 37.582107
+    },
+    "metro_stations": [
+      {
+        "station_name": "Белорусская",
+        "line_name": "Замоскворецкая",
+        "station_id": "2.19",
+        "line_id": "2",
+        "lat": 55.777439,
+        "lng": 37.582107
+      },
+      {
+        "station_name": "Белорусская",
+        "line_name": "Кольцевая",
+        "station_id": "5.20",
+        "line_id": "5",
+        "lat": 55.775179,
+        "lng": 37.582303
+      },
+      {
+        "station_name": "Белорусская",
+        "line_name": "МЦД-1",
+        "station_id": "131.700",
+        "line_id": "131",
+        "lat": 55.775179,
+        "lng": 37.582303
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<strong>СберМобайл</strong> — провайдер цифровых и телекоммуникационных решений для человека, бизнеса и государства, входящий в экосистему Сбера.<br /><br /><strong>Обязанности:</strong> <ul> <li>Интервьюирование и сбор, уточнение, доработка требований с заказчиков(-ами) и экспертов предметных областей, а так же их формализация</li> <li>Валидация требований на непротиворечивость текущей бизнес-логике и бизнес-процессам Компании (при необходимости – проработка изменений либо в требованиях, либо в логике/ процессах)</li> <li>Написание и декомпозиция (детализация) бизнес-функциональных требований до уровня функциональных требований к ИТ системам Компании; проработка альтернативных сценариев</li> <li>Формализация и описание бизнес-процессов (новые, изменяемые)</li> <li>Работа с solution архитекторами по разработке solution архитектуры запросов</li> <li>Проработка совместно с системными аналитиками/ системными архитекторами системных требований к ИТ системам</li> <li>Участие в подготовке и проведении ПСИ</li> </ul> <strong>Требования:</strong> <ul> <li>Профильный опыт работы в сегментах: телеком, финтех/банк, системный/ИТ интегратор, компании-разработчики биллингов для телеком-ов</li> <li>Навыки анализа и формализации требований, описания в текстовой и графической формах</li> <li>Знание нотаций по описанию бизнес-функциональных требований, сценариев использования, бизнес-процессов</li> <li>Владение инструментальными (case) средствами моделирования</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Гибридный график работы 5/2 с 9.00, 9.30 или 10.00, в пятницу сокращенный рабочий день на 1 час 15 минут;</li> <li>Официальная заработная плата обсуждается с успешными кандидатами на собеседовании + годовой бонус;</li> <li>Испытательный срок 3 месяца;</li> <li>Классные корпоративные мероприятия;</li> <li>ДМС после испытательного срока (поликлиническое обслуживание, обследование со сдачей анализов, страховка за рубежом, возможность прикрепления родственников, психологические консультации);</li> <li>Компенсация 50% фитнеса и английского языка после испытательного срока;</li> <li>Дисконт-программы от компаний-партнеров (фитнес, страхование, туризм);</li> <li>Льготное кредитные и ипотечные программы;</li> <li>Оплата участия в спортивных мероприятиях;</li> <li>Комфортный офис возле м.Белорусская.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Бизнес-анализ"
+    },
+    {
+      "name": "Регламентация бизнес-процессов"
+    },
+    {
+      "name": "Документирование бизнес-требований"
+    },
+    {
+      "name": "Анализ бизнес-процессов"
+    },
+    {
+      "name": "Описание бизнес-процессов"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "150",
+      "name": "Бизнес-аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2543027",
+    "name": "СберМобайл",
+    "url": "https://api.hh.ru/employers/2543027",
+    "alternate_url": "https://hh.ru/employer/2543027",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1009765.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5659836.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5659837.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2543027",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T13:55:13+0300",
+  "created_at": "2025-06-04T13:55:13+0300",
+  "initial_created_at": "2025-06-04T13:55:13+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121338987",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121338987",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

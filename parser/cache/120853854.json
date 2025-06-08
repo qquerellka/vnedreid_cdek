@@ -1,0 +1,155 @@
+{
+  "id": "120853854",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Тестировщик 1С",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 150000,
+    "to": 220000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 150000,
+    "to": 220000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Приглашаем специалиста для сотрудничества на позицию Тестировщика <strong>1С</strong></p> <p><strong><strong>Мы предлагаем:</strong></strong></p> <ul> <li>Порядок работы: Удаленный формат</li> <li>Режим работы: Full time</li> <li>Белая фиксированная зарплата, ДМС и кафетерий льгот</li> <li>Трудоустройство: Любой вид сотрудничества (ИП, СЗ, ГПХ)</li> </ul> <p>Требования:</p> <ul> <li>Опыт работы с Git, Jenkins</li> <li>Владение консолью запросов</li> <li>Знание предметной области регламентированного учета БУ/НУ</li> <li>Знание типовых конфигураций 1С: БП 3.0, 1С ДО, регламентированный учет</li> <li>Знание метаданных 1С и их свойства</li> <li>Умение запускать 1С в режиме отладки и диагностировать возможное ошибки</li> <li> Опыт написания тест кейсов 1С</li> <li>Опыт работы в качестве специалиста тестирования систем на платформе 1С v8.x от 1 года</li> <li>Опыт работы с Vanessa Automation<br /></li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "1С: Бухгалтерия"
+    },
+    {
+      "name": "Тестирование"
+    },
+    {
+      "name": "Vanessa Automation"
+    },
+    {
+      "name": "Jenkins"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "1С: Документооборот"
+    },
+    {
+      "name": "БУ/НУ"
+    },
+    {
+      "name": "регламентированный учёт"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2613931",
+    "name": "Вератис",
+    "url": "https://api.hh.ru/employers/2613931",
+    "alternate_url": "https://hh.ru/employer/2613931",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/430261.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/2163114.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/2163115.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2613931",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-22T10:32:32+0300",
+  "created_at": "2025-05-22T10:32:32+0300",
+  "initial_created_at": "2025-05-22T10:32:32+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120853854",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120853854",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

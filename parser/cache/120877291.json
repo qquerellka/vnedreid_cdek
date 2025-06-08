@@ -1,0 +1,129 @@
+{
+  "id": "120877291",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Разработчик C++ (NGFW)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "99",
+    "name": "Уфа",
+    "url": "https://api.hh.ru/areas/99"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>ГК &quot;ИнфоТеКС&quot;, входящая в ТОП-5 компаний России в сфере защиты информации, лидер в разработке средств защиты информации, приглашает в команду по разработке межсетевого экрана следующего поколения Разработчика C++.</p> <p><strong>Задачи:</strong></p> <ul> <li>Разработка и сопровождение программных компонентов, осуществляющих обработку сетевого трафика (маршрутизация, NAT, Firewall, VPN, DPI, IDS/IPS, VoIP) в Linux kernel mode (модули, модификация кода ядра) и user mode;</li> <li>Оптимизация производительности для современных аппаратных платформ, внедрение новых технологий обработки сетевого трафика;</li> <li>Проектирование и использование оптимальных алгоритмов и структур данных, применение эффективных подходов к многопоточной обработке данных.</li> </ul> <p><strong>Минимальные навыки:</strong></p> <ul> <li> <p>Отличное знание С++ 14/17, STL, Boost;</p> </li> <li>Опыт разработки сценариев на языке Bash;</li> <li>Навыки работы с GNU make, GCC, gdb, git;</li> <li>Опыт разработки сетевых приложений и знание семейства протоколов TCP/IP (ARP, IP, IPv6, TCP);</li> <li>Знание и опыт использования эффективных механизмов синхронизации, понимание принципов эффективной работы многопоточного кода;</li> <li>Знание классических алгоритмов и структур данных;</li> <li>Навыки документирования реализуемых технических решений.</li> </ul> <p><strong>Желаемые навыки:</strong></p> <ul> <li>Опыт разработки на языке С;</li> <li>Опыт разработки сценариев на языке Python;</li> <li>Опыт работы с DPDK;</li> <li>Понимание основных концепций информационной безопасности (принципы работы firewall, DPI, IDS, SSL Inspection);</li> <li>Знание архитектуры ядер ОС Linux, сетевых подсистем ядра (netfiler, iptables, bpf), знание Linux API, опыт написания модулей ядра ОС Linux.</li> </ul> <p><strong>Условия работы: </strong></p> <ul> <li>Полное соблюдение трудового законодательства РФ, оплачиваемые отпуска и больничные листы, &quot;белая&quot; заработная плата;</li> <li>Начало работы с 7.00 до 11.00, продолжительность рабочего дня 8 часов + 1 час на обед;</li> <li>Оплачиваемое работодателем питание в офисе или кафе;</li> <li>ДМС (добровольное медицинское страхование) - различные варианты программ, страховка от несчастных случаев;</li> <li>Корпоративные мероприятия и спортивные инициативы (футбол, волейбол);</li> <li>Изучение английского и занятия в тренажерном зале по корпоративным ценам;</li> <li>Возможность получения профессиональных сертификатов и прохождения курсов повышения квалификации за счёт компании.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "C++"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "DPDK"
+    },
+    {
+      "name": "TCP/IP"
+    },
+    {
+      "name": "NGFW"
+    },
+    {
+      "name": "FIrewall"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3778",
+    "name": "ИнфоТеКС",
+    "url": "https://api.hh.ru/employers/3778",
+    "alternate_url": "https://hh.ru/employer/3778",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1411874.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7267156.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7267157.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3778",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-22T16:23:36+0300",
+  "created_at": "2025-05-22T16:23:36+0300",
+  "initial_created_at": "2025-05-22T16:23:36+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120877291",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120877291",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

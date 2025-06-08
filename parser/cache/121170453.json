@@ -1,0 +1,170 @@
+{
+  "id": "121170453",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Веб-программист",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 63000,
+    "to": 155000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 63000,
+    "to": 155000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Готовы вывести на работу за 1 полный рабочий день.</strong></p> <p><strong>Требования:</strong></p> <ul> <li>PHP (&quot;1С-Битрикс&quot;, Wordpress, Laravel)</li> <li>Python</li> <li>MySQL</li> <li>Gitlab</li> <li>Jira</li> <li>PhpStorm</li> </ul> <p><strong>Обязанности:</strong></p> <ul> <li>Разработка крупных сложных сайтов или заказного веб-ориентированного программного обеспечения.</li> <li>Разработка нагруженного сайта или оптимизация скорости работы существующего.</li> <li>Разработка интернет-магазинов по индивидуальному макету и сходных по сложности проектов.</li> <li>Интеграция с внешними системами (складскими, например) (интеграция магазина с 1С, например).</li> <li>Адаптивная верстка сайта.</li> <li>Поддержка крупных сайтов.</li> <li>Написание модулей для сайтов.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Удаленная работа.</li> <li>Работа с менеджером, без прямого доступа клиентов (бывают редкие конференции), без чатиков и планёрок.</li> <li>Аутстаф не практикуем, работаем только по проектам и продуктам, много продуктовой разработки.</li> <li>8-часовой рабочий день‚ отпуска и выходные по производственному календарю РФ.</li> <li>Оклад по результатам собеседования. Фиксированный оклад. Дальнейший рост — прозрачная система грейдов и премий.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "CMS Wordpress"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "MS SQL"
+    },
+    {
+      "name": "1С-Битрикс"
+    },
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "Smarty"
+    },
+    {
+      "name": "Twig"
+    },
+    {
+      "name": "Laravel"
+    },
+    {
+      "name": "Jetbrains Phpstorm"
+    },
+    {
+      "name": "Jira"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "550175",
+    "name": "Cetera",
+    "url": "https://api.hh.ru/employers/550175",
+    "alternate_url": "https://hh.ru/employer/550175",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1409241.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7256624.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7256625.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=550175",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-30T14:07:18+0300",
+  "created_at": "2025-05-30T14:07:18+0300",
+  "initial_created_at": "2025-05-30T14:07:18+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121170453",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121170453",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

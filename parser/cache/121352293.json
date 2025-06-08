@@ -1,0 +1,172 @@
+{
+  "id": "121352293",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Аналитик/технический писатель",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 70000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 70000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "улица Братьев Быковых",
+    "building": "28",
+    "lat": 56.851348,
+    "lng": 60.601032,
+    "description": null,
+    "raw": "Екатеринбург, улица Братьев Быковых, 28",
+    "metro": {
+      "station_name": "Динамо",
+      "line_name": "Север-Юг",
+      "station_id": "48.265",
+      "line_id": "48",
+      "lat": 56.847818,
+      "lng": 60.599406
+    },
+    "metro_stations": [
+      {
+        "station_name": "Динамо",
+        "line_name": "Север-Юг",
+        "station_id": "48.265",
+        "line_id": "48",
+        "lat": 56.847818,
+        "lng": 60.599406
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Альянс АйТи Технолоджи</strong> — российский разработчик SaaS-сервисов для сферы услуг, частных медицинских центров, стоматологий и beauty-индустрии. Уже 14 лет мы помогаем компаниям автоматизировать бизнес-процессы, находить новые точки роста и освобождать сотрудников от рутины.</p> <p>Мы гордимся званием <strong>«Лучшее предприятие отрасли 2021»</strong>.</p> <p><strong>Наши клиенты</strong> — более 4000 компаний из России, СНГ и Европы.</p> <p><strong>Основные продукты компании:</strong> CRM-системы «Арника», «Дента» и «Клиника онлайн». Они помогают управлять бизнесом в индустрии красоты, стоматологии и клиниках различного профиля.</p> <div> Компания занимает лидирующие позиции на рынке и продолжает развиваться. Мы будем рады видеть тебя в нашей команде, если ты готов расти, увеличивать доход и достигать своих целей.</div> <p> </p> <p><strong>Обязанности:</strong></p> <p> </p> <ul> <li> <p>Анализ и улучшение разрабатываемого функционала.</p> </li> <li> <p>Участие в проектировании систем и сервисов.</p> </li> <li> <p>Подготовка технических заданий для внутреннего отдела разработки.</p> </li> <li> <p>Корректировка пользовательских инструкций.</p> </li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Опыт составления технических заданий разработчикам ПО от 1 года;</li> <li>Опыт систематизации и внедрения событий в продукт;</li> <li>Опыт анализа поведения пользователей;</li> <li>Опыт работы с Amplitude и Яндекс Метрикой;</li> <li>Высокие аналитические способности, внимание к деталям.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Работа в аккредитованной IT компании;</li> <li>Оформление в соответствии с нормами Трудового законодательства;</li> <li>З/п индексируется при росте уровня квалификации;</li> <li>Молодой дружный коллектив, готовый всегда прийти на помощь по любым вопросам;</li> <li>Активная корпоративная жизнь;</li> <li>График работы 5/2 с 10-00 до 19-00 или с 09-00 до 18-00, сб и вс выходные;</li> <li>Комфортный офис рядом с метро Динамо. Чай, кофе, свободный дресс-код.</li> </ul> <p><strong>Если тебе интересно стать частью нашей команды профессионалов отправляй отклик на вакансию. Мы ждем тебя в нашем дружном коллективе.</strong></p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Разработка технических заданий"
+    },
+    {
+      "name": "аналитика"
+    },
+    {
+      "name": "CRM"
+    },
+    {
+      "name": "Аналитическое мышление"
+    },
+    {
+      "name": "Разработка пользовательской документации"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "126",
+      "name": "Технический писатель"
+    }
+  ],
+  "code": "Аналитик",
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "5153615",
+    "name": "Альянс АйТи Технолоджи",
+    "url": "https://api.hh.ru/employers/5153615",
+    "alternate_url": "https://hh.ru/employer/5153615",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1198587.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6414797.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6414798.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5153615",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T16:58:02+0300",
+  "created_at": "2025-06-05T16:58:02+0300",
+  "initial_created_at": "2025-06-04T17:20:10+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121352293",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121352293",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

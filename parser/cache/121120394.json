@@ -1,0 +1,146 @@
+{
+  "id": "121120394",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Prompt-engineer / Промт-инженер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Мы — аккредитованная IT-компания и резиденты «Сколково».<br />Наша компания является лидером в разработке и внедрении решений на основе искусственного интеллекта (AI).<br />Присоединяйтесь к нам и будьте частью команды, которая меняет мир!</p> <p><strong>Обязанности:</strong><br />Разработка и настройка чат-ботов на основе LLM в визуальном редакторе.<br />Построение логики работы чат-ботов в соответствии с требованиями и ТЗ от заказчиков.<br />Обработка и анализ запросов от пользователей для улучшения функционала ботов.<br />Работа с командой разработчиков для улучшения и оптимизации работы ботов.<br />Проведение тестирования и отладки чат-ботов перед их запуском.<br />Поддержка и обслуживание существующих чат-ботов, включая обновление и исправление ошибок.<br />Соблюдение стандартов безопасности и конфиденциальности при работе с данными пользователей.<br />Постоянное обучение и развитие навыков в области создания и настройки чат-ботов.</p> <p><strong>Требования:</strong><br />Опыт написания системных промтов для LLM (Large Language Models).<br />Знание и понимание принципов работы LLM и их применения в различных контекстах.<br />Умение создавать и оптимизировать промты для улучшения производительности и точности LLM.<br />Умение работать в команде и эффективно коммуницировать с коллегами.<br />Опыт написания промптов к открытым моделям (Llama/Gemma/Mistral etc.)<br />Опыт в разработке.</p> <p><strong>Будет плюсом:</strong><br />Знание Python/JavaScript.<br />Опыт работы с моделями различной размерности 7b, 70b.<br />Опыт работы с квантизированными моделями (AWQ).<br />Опыт интеграции сервисов по API.<br />Широкие возможности для карьерного и профессионального роста.</p> <p>Пишите, всё обсудим и предоставим более подробную информацию.<br />Всегда рады новым талантам и новым успехам наших сотрудников!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "чат-бот"
+    },
+    {
+      "name": "искусственный интеллект"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "AWQ"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "11685507",
+    "name": "Диджитал Форс",
+    "url": "https://api.hh.ru/employers/11685507",
+    "alternate_url": "https://hh.ru/employer/11685507",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1371145.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7104482.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7104483.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11685507",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-29T11:52:28+0300",
+  "created_at": "2025-05-29T11:52:28+0300",
+  "initial_created_at": "2025-05-29T11:52:28+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121120394",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121120394",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

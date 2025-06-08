@@ -1,0 +1,199 @@
+{
+  "id": "121371863",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Программист-разработчик (Python/Django) / Middle back-end developer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "1-й Кожевнический переулок",
+    "building": "6с1",
+    "lat": 55.726639,
+    "lng": 37.645959,
+    "description": null,
+    "raw": "Москва, 1-й Кожевнический переулок, 6с1",
+    "metro": {
+      "station_name": "Павелецкая",
+      "line_name": "Замоскворецкая",
+      "station_id": "2.101",
+      "line_id": "2",
+      "lat": 55.729741,
+      "lng": 37.638693
+    },
+    "metro_stations": [
+      {
+        "station_name": "Павелецкая",
+        "line_name": "Замоскворецкая",
+        "station_id": "2.101",
+        "line_id": "2",
+        "lat": 55.729741,
+        "lng": 37.638693
+      },
+      {
+        "station_name": "Павелецкая",
+        "line_name": "Кольцевая",
+        "station_id": "5.102",
+        "line_id": "5",
+        "lat": 55.731414,
+        "lng": 37.636294
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>О нас:</strong></p> <p>CATAPULTO — это IT-Компания, агрегатор служб курьерской доставки, лидер в корпоративном сегменте рынка. Наши партнеры — известные всем курьерские службы и транспортные Компании, такие, как Pony Express, СДЭК, DHL, Деловые Линии, КСЕ и т.д. (всего 18 Компаний). Сотрудничая с нами, бизнес экономит до 40% при отправке документов и грузов по России, ближнему и дальнему зарубежью.</p> <p>Компания CATAPULTO стабильно работает и развивается более 10 лет, является резидентом Сколково. В настоящее время наши услуги высоко востребованы и бизнес активно масштабируется, в связи с чем мы набираем новых сотрудников в команду.</p> <p><strong>Почему разработчикам классно работается в CATAPULTO:</strong></p> <ul> <li>у нас нет жестких дедлайнов и овертаймов, разработчики сами определяют сроки по своим задачам.</li> <li>пилим новые фичи, а не только разгребаем баги.</li> <li>работа над собственным in-house продуктом.</li> <li>укомплектованная профессиональная команда, дружелюбная атмосфера.</li> <li>четко поставленные задачи с написанными функциональными требованиями.</li> <li>возможность прокачать и поддерживать английский.</li> </ul> <p> </p> <p><strong>Обязанности:</strong></p> <ul> <li>Развитие собственного in-house продукта, передового интернет-сервиса;</li> <li>Проектирование программных решений, интеграций, API;</li> <li>Проектирование технических решений;</li> <li>Разработка нового функционала на Python + FastAPI + Django;</li> <li>Рефакторинг текущей кодовой базы, проведение ревью;</li> <li>Поиск ошибок, их устранение;</li> <li>Разработка интеграций с различными внешними системами;</li> </ul> <p> </p> <p><strong>Требования:</strong></p> <ul> <li>Python 3, FastAPI, Django, Django-rest;</li> <li>Опыт работы с Postgres;</li> <li>Опыт работы c redis / rabbitmq;</li> <li>Опыт работы с docker / docker-compose;</li> <li>Опыт работы с celery;</li> <li>Unit testing;</li> <li>Умение разбираться в чужом коде;</li> <li>Понимание работы http, https. REST, RESTful, SOAP;</li> <li>git на уровне очень уверенного пользователя;</li> <li>Уверенное знание Linux.</li> <li><strong>Рассматриваем кандидатов, работающих только на территории РФ и с российским гражданством</strong></li> </ul> <p><strong>Знание английского на уровне В1 либо выше является обязательным!</strong></p> <p><strong>Условия:</strong></p> <ul> <li>Официальное оформление.</li> <li>Своевременная выплата зарплаты.</li> <li>График работы (по Москве): 5/2 с 9.00 до 18.00.</li> <li>Профессиональная команда единомышленников.</li> <li>Открытость руководства к изменениям и улучшениям, без бюрократии.</li> <li>Отлаженные процессы разработки ПО.</li> <li>Возможность прокачать английский язык.</li> </ul> <p> </p> <p><strong>О продукте и Компании:</strong></p> <p>Catapulto.ru — это передовой интернет-сервис, агрегатор служб курьерской доставки. Компания работает более 10 лет, является резидентом Сколково.<br />Мы развиваем собственный in-house продукт, которым пользуются тысячи компаний ежедневно.</p> <p><strong>Об ИТ-подразделении:</strong><br />Мы выстраиваем нашу Software Factory таким образом, чтобы максимально быстро и качественно решать коммерческие задачи за счет реализации передовых ИТ-решений.<br />Работаем с актуальным стеком технологий, не боимся пробовать новое и применять свежие решения.</p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Рефакторинг кода"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "VueJS"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1776381",
+    "name": "CATAPULTO.RU",
+    "url": "https://api.hh.ru/employers/1776381",
+    "alternate_url": "https://hh.ru/employer/1776381",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1216180.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6485165.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6485166.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1776381",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T10:45:09+0300",
+  "created_at": "2025-06-05T10:45:09+0300",
+  "initial_created_at": "2025-06-05T10:45:09+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121371863",
+  "has_test": true,
+  "test": {
+    "required": true
+  },
+  "alternate_url": "https://hh.ru/vacancy/121371863",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b1",
+        "name": "B1 — Средний"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

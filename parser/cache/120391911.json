@@ -1,0 +1,156 @@
+{
+  "id": "120391911",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер по поиску",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": null,
+    "to": 500000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 500000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Замоскворецкая линия",
+    "building": "метро Домодедовская",
+    "lat": 55.610819,
+    "lng": 37.718552,
+    "description": null,
+    "raw": "Москва, Замоскворецкая линия, метро Домодедовская",
+    "metro": {
+      "station_name": "Домодедовская",
+      "line_name": "Замоскворецкая",
+      "station_id": "2.38",
+      "line_id": "2",
+      "lat": 55.610131,
+      "lng": 37.717111
+    },
+    "metro_stations": [
+      {
+        "station_name": "Домодедовская",
+        "line_name": "Замоскворецкая",
+        "station_id": "2.38",
+        "line_id": "2",
+        "lat": 55.610131,
+        "lng": 37.717111
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><br />Мы — Revoluterra, продуктовая IT-компания, создающая инновационные решения для автоматизации продвижения бизнеса. Наши продукты помогают компаниям ускоренно продвигаться в поисковых системах и масштабироваться с использованием современных маркетинговых инструментов.</p> <p><strong>Что предстоит делать:</strong><br />- Проектировать архитектуру поисковой системы: от сбора данных до ранжирования и масштабирования<br />- Работать над улучшением релевантности, скорости и устойчивости поиска<br />- Внедрять и настраивать решения для индексации, обработки запросов и ответа на них<br />- Взаимодействовать с разработчиками, ML-инженерами, продактами<br />- Писать код, экспериментировать с алгоритмами, кастомизировать существующие инструменты или создавать свои</p> <p><strong>Мы ждём от тебя:</strong><br />- Уверенные знания в области построения поисковых систем (индексация, ранжирование, кеширование и т.п.)<br />- Понимание принципов информационного поиска и обработки текстов<br />- Архитектурное мышление и умение строить масштабируемые решения<br />- Готовность брать ответственность за результат и качество поиска<br />- Опыт в e-commerce очень важен<br />- Неважно, на каком языке ты пишешь — главное, как ты мыслишь</p> <p><strong>Что предлагаем:</strong><br />- Удаленный формат.<br />- Возможность погрузиться в уникальные продукты и технологические решения.<br />- Конкурентоспособный доход и бонусы за результат.<br />- Полная поддержка на всех этапах: от адаптации до масштабирования отдела.</p> <p>Если ты живёшь в архитектуре и думаешь поиском — нам по пути.</p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5471863",
+    "name": "Revoluterra",
+    "url": "https://api.hh.ru/employers/5471863",
+    "alternate_url": "https://hh.ru/employer/5471863",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/855578.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3863187.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3863188.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5471863",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-12T10:59:57+0300",
+  "created_at": "2025-05-12T10:59:57+0300",
+  "initial_created_at": "2025-05-12T10:59:57+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120391911",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120391911",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

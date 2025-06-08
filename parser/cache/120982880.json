@@ -1,0 +1,159 @@
+{
+  "id": "120982880",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "AI-инженер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": null,
+    "to": 250000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 250000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "MONTHLY",
+      "name": "Раз в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Пресненская набережная",
+    "building": "6с2",
+    "lat": 55.748143,
+    "lng": 37.540488,
+    "description": null,
+    "raw": "Москва, Пресненская набережная, 6с2",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>О компании</strong></p> <p>Привет! Мы группа компаний, которая развивает B2B и B2C проекты с 2016 года, а с 2021 — запускает собственные продукты и AI-сервисы. Например, соц.сеть Looky с 3,5+ млн. пользователей или AI-fashion сервис Dress-code.ai, и даже VR делаем. </p> <p>Сейчас мы ищем хороших и талантливых инженеров для работы над прототипами и проектами с использованием GenAI. Готовы рассмотреть разные уровни Junior/Senior.</p> <p><strong>Какие задачи вас ждут:</strong></p> <ul> <li> <p>Много R&amp;D: исследовать и применять передовые технологии, следить за появлением новых моделей и подходов</p> </li> <li> <p>Разработка логики вокруг генеративных моделей (в первую очередь LLM):</p> <ul> <li> <p>коррекция и валидация ответов, интеграция observability инструментов</p> </li> <li> <p>создание пайплайнов обработки данных</p> </li> </ul> </li> </ul> <p><strong>Ожидания от кандидата:</strong></p> <ul> <li> <p>Умение эффективно читать документацию на английском языке и воспринимать технический английский на слух</p> </li> <li> <p>Опыт работы с LLM: промптинг, прикладное использование, RAG</p> </li> <li> <p>Современный Python (в том числе библиотеки fastapi/litestar, sqlalchemy 2, pdm, msgspec, pydantic)</p> </li> </ul> <p><strong>Бонусом будет знание/понимание/опыт работы с:</strong></p> <ul> <li> <p>text-to-image/video и другие генеративные модели через API и напрямую</p> </li> <li> <p>LangChain/LlamaIndex</p> </li> <li> <p>DeepEval/Guardrails/Promptfoo/…</p> </li> <li> <p>pgvector/qdrant …</p> </li> <li> <p>Computer Vision</p> </li> </ul> <p><strong>Условия работы:</strong></p> <ul> <li> <p>Небольшая увлеченная команда</p> </li> <li> <p>Возможность Неизбежность профессионального роста и работы с cutting-edge технологиями (LLM, ML, DL, а если очень захочется - VR)</p> </li> <li> <p>Гибкий график с возможностью посещения офиса в Москва-Сити или полностью удаленная работа</p> </li> <li> <p>Белая и конкурентная ЗП, оплачиваемый отпуск</p> </li> <li> <p>Компания аккредитована МинЦифрой</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3855284",
+    "name": "Ван клик",
+    "url": "https://api.hh.ru/employers/3855284",
+    "alternate_url": "https://hh.ru/employer/3855284",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/612119.png",
+      "90": "https://img.hhcdn.ru/employer-logo/2889628.png",
+      "240": "https://img.hhcdn.ru/employer-logo/2889629.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3855284",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-26T14:26:50+0300",
+  "created_at": "2025-05-26T14:26:50+0300",
+  "initial_created_at": "2025-05-26T14:26:50+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120982880",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120982880",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    },
+    {
+      "id": "FOUR_ON_TWO_OFF",
+      "name": "4/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

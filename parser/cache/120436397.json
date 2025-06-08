@@ -1,0 +1,123 @@
+{
+  "id": "120436397",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Senior Frontend Developer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Мы ищем талантливого Senior фронтенд разработчика, который усилит нашу команду. У нас большой спектр задач, свобода действий и минимум бюрократии.<br /><strong>Обязанности:</strong><br />Разработка пользовательских интерфейсов;<br />Написание автоматизированных тестов;<br />Рефакторинг и оптимизация существующего кода.<br /><strong>Требования:</strong><br />Глубокое понимание JavaScript, TypeScript и React;<br />Знание алгоритмов и структур данных, а также умение применять их на практике;<br />Знание любого серверного языка;<br />Широкий технический кругозор;<br />Умение решать сложные задачи с применением простых и эффективных методов;<br />Способность быстро и самостоятельно достигать конечного результата;<br />Внимание к деталям и стремление к их тщательной проработке;<br />Высокий уровень ответственности, самостоятельности и исполнительности;<br />Опыт создания собственных проектов; при подаче заявки<strong> обязательно предоставить ссылку на один или несколько завершенных проектов.</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4329040",
+    "name": "Гипас",
+    "url": "https://api.hh.ru/employers/4329040",
+    "alternate_url": "https://hh.ru/employer/4329040",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1378538.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/7133947.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/7133948.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4329040",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-12T22:15:55+0300",
+  "created_at": "2025-05-12T22:15:55+0300",
+  "initial_created_at": "2025-05-12T22:15:55+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120436397",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120436397",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

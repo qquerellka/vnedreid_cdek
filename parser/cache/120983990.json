@@ -1,0 +1,181 @@
+{
+  "id": "120983990",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор технической поддержки",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 100000,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Певческий переулок",
+    "building": "12",
+    "lat": 59.960093,
+    "lng": 30.325166,
+    "description": null,
+    "raw": "Санкт-Петербург, Певческий переулок, 12",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><em><strong>Привет, мы являемся аутсорсинговой компанией, предоставляющей персонал для различных отраслей по всей РФ на протяжении последних 10 лет.<br /><br />Сейчас мы ищем сис. админа в команду нашего главного системного администратора.</strong></em></p> <p><strong>Что мы предлагаем?</strong></p> <ul> <li>Оклад 100000р <em>(фикс, на руки) </em>после прохождения испытательного срока<em>(длится 1 месяц, на это время оклад 50000р)</em>;</li> <li>Плавный ввод в должность с поддержкой руководителя;</li> <li>График 5/2 с 9 до 18;</li> <li>Работа в офисном формате на первое время, далее возможен переход на удаленку;</li> <li>Оформление по самозанятости <em>(налог покрываем) </em>или ГПХ на выбор;</li> <li>Молодой коллектив и комфортный офис в центре города <em>(БЦ LightHouse, 7-10 мин от м. Горьковская).</em></li> </ul> <p><strong>Чем нужно заниматься?</strong></p> <ul> <li>Установка и настройка клиентского и серверного ПО;</li> <li>Первичная техническая поддержка пользователей <em>(удаленное администрирование)</em>;</li> <li>Обслуживание оргтехники и рабочих мест;</li> <li>Документирование процессов.</li> </ul> <p><strong>Что нужно знать:</strong></p> <ul> <li>Администрирование операционных систем Windows (7/10/11), Windows Server, Linux;</li> <li>Основы сетевых технологий (TCP/IP, DNS, DHCP, VLAN, маршрутизация);</li> <li>Основы работы с командной строкой (cmd, PowerShell, bash);</li> <li>Основы Active Directory, учетные записи пользователей, права доступа;</li> <li>Основы виртуализации (KVM);</li> <li>Основы администрирования СУБД (MS SQL, MySQL);</li> <li>Мониторинг (Zabbix);</li> <li>Резервирование (Acronis, Cobian).</li> </ul> <p><strong>Что нужно уметь:</strong></p> <ul> <li>Диагностика и устранение неисправности (ПК, периферия, софт);</li> <li>Настройка оргтехники (принтеры, сканеры);</li> <li>Установка, обслуживание систем видеонаблюдения, IP-телефонии.</li> </ul> <p><strong>Будет вашим преимуществом:</strong></p> <ul> <li>Знание принципов ITIL;</li> <li>Успешный опыт общения с неквалифицированными пользователями;</li> <li>Готовность раз в неделю ездить на объекты <em>(транспорт оплачивается)</em>.</li> </ul> <p><em>Отклики рассматриваются в течение одного рабочего дня, ждем вас :)</em></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Настройка ПО"
+    },
+    {
+      "name": "Настройка сетевых подключений"
+    },
+    {
+      "name": "Администрирование сетевого оборудования"
+    },
+    {
+      "name": "Техническая поддержка пользователей"
+    },
+    {
+      "name": "Обслуживание офисной техники"
+    },
+    {
+      "name": "Windows Os"
+    },
+    {
+      "name": "Windows Server"
+    },
+    {
+      "name": "Zabbix"
+    },
+    {
+      "name": "MS SQL Server"
+    },
+    {
+      "name": "Настройка ПК"
+    },
+    {
+      "name": "Acronis"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2416338",
+    "name": "Стафф Компани",
+    "url": "https://api.hh.ru/employers/2416338",
+    "alternate_url": "https://hh.ru/employer/2416338",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/432150.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/2170670.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/2170671.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2416338",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-26T14:43:59+0300",
+  "created_at": "2025-05-26T14:43:59+0300",
+  "initial_created_at": "2025-05-26T14:43:59+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120983990",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120983990",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

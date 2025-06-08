@@ -1,0 +1,166 @@
+{
+  "id": "114259575",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 70000,
+    "to": 85000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 70000,
+    "to": 85000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "улица 8-го Марта",
+    "building": "13",
+    "lat": 56.83615,
+    "lng": 60.600448,
+    "description": null,
+    "raw": "Екатеринбург, улица 8-го Марта, 13",
+    "metro": {
+      "station_name": "Площадь 1905 года",
+      "line_name": "Север-Юг",
+      "station_id": "48.266",
+      "line_id": "48",
+      "lat": 56.837982,
+      "lng": 60.59734
+    },
+    "metro_stations": [
+      {
+        "station_name": "Площадь 1905 года",
+        "line_name": "Север-Юг",
+        "station_id": "48.266",
+        "line_id": "48",
+        "lat": 56.837982,
+        "lng": 60.59734
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>ПАО &quot;Контур.Банк&quot;</strong> требуется главный специалист Управления банковских технологий и бизнес-процессов. <strong>Работа исключительно в офисе! Удаленный вариант работы не рассматриваем! Уровень оплаты труда определяется по результатам собеседования!</strong></p> <p><strong>Обязанности:</strong></p> <ul> <li>участие в разработке и внедрении банковских продуктов и услуг;</li> <li>подготовка технических требований на разработку и модификацию программного обеспечения (ПО);</li> <li>тестирование и внедрение ПО;</li> <li>разработка инструкций для пользователей ПО;</li> <li>участие в проектах по структуризации и оптимизации деятельности Банка;</li> <li>обучение пользователей ПО новому функционалу;</li> <li>оказание технологической поддержки структурным подразделениям Банка.</li> </ul> <strong>Требования:</strong> <ul> <li>образование: высшее техническое и\\или экономическое</li> <li>опыт работы в банке в качестве методолога, бизнес-аналитика - стаж работы не менее 1 года.</li> <li>опыт внедрения новых банковских технологий и программных продуктов; создания технической документации (технических заданий, инструкций); тестирования программного обеспечения.</li> <li>коммуникабельность, умение вести переговоры, интервьюирование.</li> <li>техническая грамотность, инициативность, нацеленность на результат, процессное аналитическое мышление (умение выявлять, анализировать и систематизировать информацию).</li> <li>грамотная устная и письменная речь.</li> <li>высокая степень личной ответственности за результаты труда.</li> </ul> <strong>Условия:</strong> <ul> <li>стабильная работа и зарплата;</li> <li>официальное оформление по ТК РФ;</li> <li>возможности профессионального роста;</li> <li>добровольное медицинское страхование и социальная поддержка согласно внутренней Политике Банка.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Аналитическое мышление"
+    },
+    {
+      "name": "Бизнес-анализ"
+    },
+    {
+      "name": "Оптимизация бизнес-процессов"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "10",
+      "name": "Аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "817201",
+    "name": "Контур.Банк",
+    "url": "https://api.hh.ru/employers/817201",
+    "alternate_url": "https://hh.ru/employer/817201",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1216406.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6486069.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6486070.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=817201",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T06:54:48+0300",
+  "created_at": "2025-06-02T06:54:48+0300",
+  "initial_created_at": "2024-12-20T07:52:16+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=114259575",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/114259575",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

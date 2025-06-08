@@ -1,0 +1,149 @@
+{
+  "id": "120923242",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный аналитик (Middle/Middle+)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 1200,
+    "to": 1800,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 1200,
+    "to": 1800,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "HOUR",
+      "name": "За час"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "part",
+    "name": "Частичная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Мы — Mish Product Lab, </strong>лаборатория продуктового дизайна. От тщательных UX/UI-исследований и креатива до разработки и поддержки. А ещё мы про сильную экспертизу и команду, в которую требуется <strong>Системный аналитик на part-time.</strong></p> <p><strong>Что предстоит делать:</strong></p> <ul> <li>Собирать и анализировать технические требования по продукту/проекту.</li> <li>Разрабатывать техническое ТЗ для команды разработки.</li> <li>Описывать архитектурные блоки, API-интерфейсы, интеграции и логику взаимодействия систем.</li> <li>Участвовать в пресейлах и формировании техчасти проектной документации.</li> <li>Работать совместно с бизнес-аналитиками и архитекторами.</li> </ul> <p><strong>Что ждём от тебя:</strong></p> <ul> <li>Опыт в системном анализе от 2–3 лет.</li> <li>Уверенное понимание клиент-серверной архитектуры, API, протоколов взаимодействия, БД.</li> <li>Опыт описания интеграционных решений, моделей данных, схем взаимодействия.</li> <li>Способность разложить задачу до уровня разработки — и быть понятным как для разработчиков, так и для менеджеров.</li> <li>Аккуратность в документации: структурировано, логично, без каши.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт работы с BPMN, UML, ER-диаграммами.</li> <li>Бэкграунд в разработке или QA-инженерии.</li> <li>Опыт в системах класса CRM/ERP/порталы/внутренние ИС.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Формат работы: парт-тайм, удаленка.</li> <li>Загруженность: плавающая, несколько часов в день в рамках рабочего времени с 10:00 до 19:00 (задачи поступают в течение дня, требуется доступность в рабочее время).</li> <li>Ставка почасовая: от 1 200 до 1 800 руб/час.</li> <li>Оформление по договору ГПХ.</li> <li>Работа в продуктовой команде с выстроенными процессами.</li> <li><strong>Особенности позиции: </strong>подходит для тех, кто работает на парт-тайм или проектной основе.</li> </ul> <p>Если вы готовы применять свои навыки системного аналитика в креативной и профессиональной команде, работать над интересными задачами и создавать качественные продукты — мы ждем именно вас!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "BPMN"
+    },
+    {
+      "name": "UML"
+    },
+    {
+      "name": "Системный анализ"
+    },
+    {
+      "name": "API"
+    },
+    {
+      "name": "Постановка задач разработчикам"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "148",
+      "name": "Системный аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3980424",
+    "name": "Mish Design",
+    "url": "https://api.hh.ru/employers/3980424",
+    "alternate_url": "https://hh.ru/employer/3980424",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1234128.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6556953.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6556954.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3980424",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-23T18:08:45+0300",
+  "created_at": "2025-05-23T18:08:45+0300",
+  "initial_created_at": "2025-05-23T18:08:45+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120923242",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120923242",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "PART",
+    "name": "Частичная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "FLEXIBLE",
+      "name": "По договорённости"
+    }
+  ],
+  "show_logo_in_search": null
+}

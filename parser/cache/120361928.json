@@ -1,0 +1,198 @@
+{
+  "id": "120361928",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Python-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 90000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 90000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Пресненская набережная",
+    "building": "12",
+    "lat": 55.749633,
+    "lng": 37.537434,
+    "description": null,
+    "raw": "Москва, Пресненская набережная, 12",
+    "metro": {
+      "station_name": "Деловой центр",
+      "line_name": "Солнцевская",
+      "station_id": "133.468",
+      "line_id": "133",
+      "lat": 55.7491,
+      "lng": 37.5395
+    },
+    "metro_stations": [
+      {
+        "station_name": "Деловой центр",
+        "line_name": "Солнцевская",
+        "station_id": "133.468",
+        "line_id": "133",
+        "lat": 55.7491,
+        "lng": 37.5395
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>О компании:</strong> Hireway — рекрутинговое агентство, специализирующееся на подборе IT-специалистов. Мы находим идеальное совпадение между талантами и компаниями, предлагая лучшие условия и поддержку в развитии карьеры. Присоединяйтесь к нам и станьте частью команды, создающей будущее технологий!</p> <p><strong>Присоединяйтесь к нашей команде Python-разработчиков!</strong></p> <p>Вы мечтаете создавать инновационные мобильные приложения и цифровые решения? Мы ищем талантливого Python-разработчика, который готов принять вызов и внести свой вклад в развитие передовых технологий.</p> <p><strong>Обязанности:</strong></p> <ul> <li>Разработка и поддержка мобильных приложений и цифровых решений на Python.</li> <li>Участие в проектировании архитектуры программного обеспечения.</li> <li>Интеграция с внешними API и сервисами.</li> <li>Оптимизация и улучшение производительности существующих приложений.</li> <li>Работа в команде с другими разработчиками и дизайнерами для достижения общих целей.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Базовые знания Python и желание развиваться в этом направлении.</li> <li>Понимание принципов объектно-ориентированного программирования.</li> <li>Способность работать в команде и эффективно коммуницировать.</li> <li>Готовность учиться и адаптироваться к новым технологиям.</li> </ul> <p><strong>Условия и преимущества:</strong></p> <ul> <li>Полная занятость с графиком 5/2.</li> <li>Возможность работать на месте работодателя, удаленно или в гибридном формате.</li> <li>Конкурентоспособная зарплата и программы развития за счёт работодателя.</li> <li>Доступ к эксклюзивным вакансиям и карьерный адвайзер для вашего роста</li> </ul> <p><strong>Присоединяйтесь к нашей команде Python-разработчиков! </strong>Вы мечтаете создавать инновационные мобильные приложения и цифровые решения? Мы ищем талантливого Python-разработчика, который готов принять вызов и внести свой вклад в развитие передовых технологий.</p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Django Framework"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "FastAPI"
+    },
+    {
+      "name": "Redis"
+    },
+    {
+      "name": "API"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "11774774",
+    "name": "Кадровое агентство HireWay",
+    "url": "https://api.hh.ru/employers/11774774",
+    "alternate_url": "https://hh.ru/employer/11774774",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1387298.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7168979.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7168980.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11774774",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-11T17:58:03+0300",
+  "created_at": "2025-05-11T17:58:03+0300",
+  "initial_created_at": "2025-05-11T17:58:03+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120361928",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120361928",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

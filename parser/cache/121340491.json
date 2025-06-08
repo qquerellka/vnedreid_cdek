@@ -1,0 +1,147 @@
+{
+  "id": "121340491",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Тестировщик 1С(в офис)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 60000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 60000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "улица Черняховского",
+    "building": "86к13",
+    "lat": 56.761383,
+    "lng": 60.748868,
+    "description": null,
+    "raw": "Екатеринбург, улица Черняховского, 86к13",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": false,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<div> <p>Знаете основы тестирования программных продуктов? А может, у вас уже есть опыт в этой сфере? Мы в поисках тестировщика, который будет вручную тестировать новые программные решения в 1С и находить уязвимости в работе базы данных. Вы будете работать в современном и комфортном офисе, а также получать много других бонусов от компании.</p> <p><strong>Вы подходите нам, если:</strong></p> <ul> <li>Имеете опыт работы с 1С (даже небольшой).</li> <li>Понимаете основы тестирования программных продуктов и, возможно, уже имели опыт в этой сфере.</li> <li>Умеете находить и описывать баги, уязвимости и несоответствия в работе программных продуктов.</li> <li>Обладаете аналитическим мышлением и внимательны к деталям.</li> <li>Готовы к изучению новых функций и возможностей платформы 1С.</li> <li>Умеете работать в команде и эффективно взаимодействовать с коллегами.</li> <li>Обладаете базовыми навыками составления инструкций, отчётов.</li> <li>Стремитесь к качественному выполнению задач и готовы совершенствовать свои навыки в области тестирования.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Знание основ работы с REST API.</li> <li>Прохождение курсов «Инженер по тестированию».</li> </ul> </div> <div> <p><strong>У нас вы будете:</strong></p> <ul> <li>Проводить мануальное (ручное) тестирование доработок существующих функций в 1С.</li> <li>Тестировать новые программные решения на платформе 1С.</li> <li>Составлять и поддерживать в актуальном состоянии тест-кейсы для различных сценариев использования.</li> <li>Находить и документировать уязвимости и баги в работе базы данных и программных модулей 1С.</li> <li>Разрабатывать и обновлять инструкции по работе с отчётами и обработками в системе 1С.</li> <li>Писать подробные отчёты по итогам проведённого тестирования.</li> <li>Взаимодействовать с проджект-менеджерами и разработчиками для обсуждения найденных проблем и поиска путей их решения.</li> <li>Поддерживать высокий уровень качества тестирования и стремиться к улучшению процессов проверки программных продуктов.</li> </ul> </div> <div> <p><strong>Условия:</strong></p> <ul> <li>Работа в графике 5/2 с 9:00 до 18:00 в современном офисе формата open space.</li> <li>Официальное трудоустройство с первого рабочего дня согласно ТК РФ.</li> <li>Дружный молодой коллектив.</li> <li>Корпоративный транспорт по всем районам города.</li> <li>Охраняемая парковка.</li> </ul> <p><strong>А ещё:</strong></p> <ul> <li>Бесплатный тренажёрный зал на территории компании + штатный тренер.</li> <li>Оптовые цены на товары нашего гипермаркета.</li> <li>Автошкола — учитесь и сдавайте на права прямо на работе.</li> <li>Скидки на билеты: концерты и театральные постановки.</li> <li>Пригласительные на спортивные матчи.</li> </ul> </div>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Работа в команде"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "46587",
+    "name": "Сима-ленд",
+    "url": "https://api.hh.ru/employers/46587",
+    "alternate_url": "https://hh.ru/employer/46587",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/847041.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3829039.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3829040.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=46587",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T14:13:04+0300",
+  "created_at": "2025-06-04T14:13:04+0300",
+  "initial_created_at": "2025-06-04T14:13:04+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121340491",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121340491",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

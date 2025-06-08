@@ -1,0 +1,172 @@
+{
+  "id": "120978925",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист чат-поддержки",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 35000,
+    "to": 43000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 35000,
+    "to": 43000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "проспект Ленина",
+    "building": "38А",
+    "lat": 56.83877,
+    "lng": 60.61103,
+    "description": null,
+    "raw": "Екатеринбург, проспект Ленина, 38А",
+    "metro": {
+      "station_name": "Площадь 1905 года",
+      "line_name": "Север-Юг",
+      "station_id": "48.266",
+      "line_id": "48",
+      "lat": 56.837982,
+      "lng": 60.59734
+    },
+    "metro_stations": [
+      {
+        "station_name": "Площадь 1905 года",
+        "line_name": "Север-Юг",
+        "station_id": "48.266",
+        "line_id": "48",
+        "lat": 56.837982,
+        "lng": 60.59734
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "shift",
+    "name": "Сменный график"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><em>Мы в поиске оператора поддержки партнеров в чатах.</em><br /><br />Основной задачей будет прием и обработка входящих обращений от наших партнеров через мессенджеры.<br />Мы готовы принять на работу начинающего специалиста с небольшим опытом, но с большим желанием работать и развивать свои навыки.</p> <p><em>Почему у нас хорошо</em>:</p> <ul> <li>Работа в крупной федеральной компании;</li> <li>Стабильный уровень заработной платы - 43 000р. после испытательного срока;</li> <li>График работы 2/2 с 09:00 до 21:00;</li> <li>Удаленный формат работы;</li> <li>Наставничество, ввод в должность;</li> <li>Возможность карьерного и профессионального роста.</li> </ul> <p><em>Чем нужно будет заниматься:</em></p> <ul> <li>Обрабатывать входящие запросы от партнеров в нашем WhatsApp;</li> <li>Обрабатывать письма на электронной почте.</li> </ul> <p><em>Ты - наш идеальный кандидат, если:</em></p> <ul> <li>Любишь помогать людям и всегда готов объяснить, рассказать, направить;</li> <li>Умеешь четко и грамотно излагать свои мысли;</li> <li>Работаешь на компьютере и легко справляешься с большими объёмами информации.</li> </ul> <p><em><strong>ЖДЕМ ТВОЕ РЕЗЮМЕ!</strong></em></p>",
+  "branded_description": "\n<style>\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    font-family: \"Arial\", sans-serif;\n    color: #000;\n    font-size: 16px;\n    line-height: 22px;\n    overflow: hidden;\n}\n.tmpl_hh_wrapper *{\n    box-sizing: border-box;\n}\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n.hht-vacancydescription {\n    padding: 0px;\n}\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;    \n}\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-weight: normal;\n    font-size: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n    display: inline;\n}\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    margin: 0 0 16px;\n}\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    display: block;\n    letter-spacing: 0.01em;\n    text-transform: uppercase;\n}\n.tmpl_hh_content b em,\n.tmpl_hh_content strong em,\n.tmpl_hh_content em b,\n.tmpl_hh_content em strong {\n    font-size: 20px;\n    line-height: 40px;\n    font-style: normal;\n    font-weight: bold;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong{\n    margin: 0;   \n    display: inline;\n}\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 20px;\n    list-style: none !important;\n    margin-bottom: 34px;\n}\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 16px;\n}\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ul li strong em,\n.tmpl_hh_content ol li strong em,\n.tmpl_hh_content ul li em strong,\n.tmpl_hh_content ol li em strong {\n    font-size: initial;\n    line-height: initial;\n    font-weight: bold;\n    font-style: normal;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 8px;\n    margin-bottom: 8px;\n}\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;    \n}\n.tmpl_hh_content li:before {\n    content: '';\n    position: absolute;\n    left: -18px;\n    top: 0;\n}\n.tmpl_hh_content ul>li:before {\n    width: 5px;\n    height: 5px;\n    border-radius: 100%;\n    background-color: #000;\n    left: -21px;\n    top: 8px;\n}\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter)'.';\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n.tmpl_hh_video {\n    position: relative;\n    width: 100%;\n}\n.tmpl_hh_video img,\n.tmpl_hh_video iframe {\n    position: absolute;\n    left: 0;\n    top: 0;\n    width: 100%;\n    height: 100%;\n}\n\n.tmpl_hh_wrapper img{\n    width: 100%;\n    display: block;\n}\n.tmpl_hh_content {\n    padding: 40px 90px 1px;\n}\n.tmpl_hh_content .tmpl_hh_margin{\n    margin-top: 55px ;\n}\n\n\n\n.tmpl_hh_header{\n    padding: 48px 45px 24px 39px;\n    display: flex;\n    justify-content: space-between;\n    flex-wrap: wrap;\n}\n.tmpl_hh_header__text{\n    width: 50%;\n}\n.tmpl_hh_header__text .tmpl_hh_logo{\n    width: 240px;\n}\n.tmpl_hh_header__text p{\n    max-width: 214px;\n    font-size: 13px;\n    line-height: 19px;\n    margin-top: 13px;\n    margin-left: 5px;\n}\n.tmpl_hh_header__imgs{\n    width: 46.2%;\n    display: flex;\n    justify-content: space-between;\n    flex-wrap: wrap;\n}\n.tmpl_hh_header__imgs .tmpl_hh_img{\n    width: calc(50% - 3.5px);\n    padding-bottom: 136px;\n    border-radius: 32px;\n    background: #F6CF03 bottom center/cover no-repeat;\n    margin-bottom: 11px;\n    position: relative;\n}\n.tmpl_hh_header__imgs .tmpl_hh_img--1{\n    background-image: url(https://hhcdn.ru/ichameleon/377457.jpg);\n}\n.tmpl_hh_header__imgs .tmpl_hh_img--2{\n    background-image: url(https://hhcdn.ru/ichameleon/377460.jpg);\n}\n.tmpl_hh_header__imgs .tmpl_hh_img--3{\n    background-image: url(https://hhcdn.ru/ichameleon/377458.jpg);\n}\n.tmpl_hh_header__imgs .tmpl_hh_img--4{\n    background-image: url(https://hhcdn.ru/ichameleon/377459.jpg);\n}\n.tmpl_hh_header__imgs span{\n    position: absolute;\n    bottom: -5px;\n    left: 50%;\n    transform: translateX(-50%);\n    background-color: #fff;\n    border-radius: 20px;\n    text-align: center;\n    padding: 3px 9px;\n    font-size: 10px;\n    line-height: 12px;\n    font-weight: 900;\n    text-transform: uppercase;\n}\n\n.tmpl_hh_about{\n    margin: 0 50px 0 43px;\n    border: 1px solid #F6CF03;\n    border-radius: 31px;\n    padding: 19px 58px 20px 45px;\n}\n.tmpl_hh_about b{\n    font-size: 24px;\n    line-height: 22px;\n    margin-right: 4px;\n}\n.tmpl_hh_about p{\n    font-size: 14px;\n    line-height: 22px;\n}\n\n.tmpl_hh_footer{\n    padding: 0 42px 0 44px;\n}\n.tmpl_hh_footer__items{\n    position: relative;\n    height: 416px;\n}\n.tmpl_hh_footer__items .tmpl_hh_text{\n    width: 33.5%;\n    border: 1px solid #F6CF03;\n    border-radius: 31px;\n    padding: 20px 14px;\n    height: 162px;\n}\n.tmpl_hh_footer__items .tmpl_hh_text img{\n    width: 157px;\n}\n.tmpl_hh_footer__items .tmpl_hh_yellow{\n    position: absolute;\n    top: 174px;\n    left: 0;\n    width: 24%;\n    height: 168px;\n    background-color: #F6CF03;\n    border-radius: 31px;\n}\n.tmpl_hh_footer__items .tmpl_hh_yellow img{\n    position: absolute;\n    left: 20px;\n    top: -82px;\n    width: 99%;\n}\n.tmpl_hh_footer__items .tmpl_hh_circle{\n    position: absolute;\n    top: 2px;\n    left: 69.5%;\n    width: 134px;\n    height: 134px;\n    border-radius: 100%;\n    background-color: #F6CF03;\n}\n.tmpl_hh_footer__items .tmpl_hh_circle img{\n    position: absolute;\n    top: 50%;\n    left: 50%;\n    transform: translate(-50%, -50%);\n    width: 54%;\n}\n.tmpl_hh_footer__items .tmpl_hh_img{\n    position: absolute;\n    width: 33%;\n    padding-bottom: 135px;\n    background: #646464 top center/cover no-repeat;\n    border-radius: 31px;\n}\n.tmpl_hh_footer__items .tmpl_hh_img p{\n    position: absolute;\n    bottom: 14px;\n    left: 21px;\n    color: #fff;\n    font-weight: bold;\n    font-size: 16px;\n    line-height: 16px;\n    letter-spacing: -0.01em;\n}\n.tmpl_hh_footer__items .tmpl_hh_img b{\n    font-size: 33px;\n    line-height: 1;\n}\n.tmpl_hh_footer__items .tmpl_hh_img--1{\n    top: 0;\n    left: 35%;\n    background-image: url(https://hhcdn.ru/ichameleon/377512.jpg);\n}\n.tmpl_hh_footer__items .tmpl_hh_img--2{\n    top: 140px;\n    left: 25%;\n    width: 33.4%;\n    background-image: url(https://hhcdn.ru/ichameleon/377513.jpg);\n}\n.tmpl_hh_footer__items .tmpl_hh_img--2 p{\n    bottom: 10px;\n    left: 25px;\n}\n.tmpl_hh_footer__items .tmpl_hh_img--3{\n    top: 140px;\n    left: 59.8%;\n    width: 40%;\n    background-image: url(https://hhcdn.ru/ichameleon/377514.jpg);\n}\n.tmpl_hh_footer__items .tmpl_hh_img--3 p{\n    bottom: 27px;\n    left: 26px;\n}\n.tmpl_hh_footer__items .tmpl_hh_img--4{\n    top: 281px;\n    left: 25%;\n    width: 33.4%;\n    background-image: url(https://hhcdn.ru/ichameleon/377515.jpg);\n}\n.tmpl_hh_footer__items .tmpl_hh_img--4 p{\n    left: 25px;\n}\n.tmpl_hh_footer__items .tmpl_hh_img--5{\n    top: 281px;\n    left: 59.8%;\n    width: 40%;\n    background-image: url(https://hhcdn.ru/ichameleon/377516.jpg);\n}\n.tmpl_hh_footer__lawyer{\n    margin-top: 41px;\n    padding-bottom: 21px;\n}\n.tmpl_hh_footer__lawyer p{\n    opacity: 0.5;\n    font-size: 16px;\n    line-height: 22px;\n}\n.tmpl_hh_footer .tmpl_hh_title{\n    display: none;\n}\n\n@media (max-width: 1019px) {\n\n    .tmpl_hh_header__text .tmpl_hh_logo {\n        width: 214px;\n    }\n    .tmpl_hh_header__imgs {\n        width: 48.2%;\n    }\n    .tmpl_hh_header__imgs .tmpl_hh_img{\n        padding-bottom: 129px;\n    }\n    .tmpl_hh_about{\n        padding: 19px 34px 20px 34px;\n    }\n    .tmpl_hh_footer__items .tmpl_hh_img p{\n        font-size: 14px;\n        left: 15px;\n    }\n    .tmpl_hh_footer__items .tmpl_hh_text img {\n        width: 137px;\n    }\n}\n@media (max-width: 699px) {\n\n\n    .tmpl_hh_wrapper{\n        font-size: 14px;\n    }\n    .tmpl_hh_content ol, .tmpl_hh_content ul{\n        margin-bottom: 36px;\n    }\n    .tmpl_hh_header{\n        padding: 21px 15px 24px 15px;\n    }\n    .tmpl_hh_header__text{\n        width: 100%;\n    }\n    .tmpl_hh_header__text .tmpl_hh_logo {\n        width: 171px;\n    }\n    .tmpl_hh_header__text p{\n        margin-left: 0;\n        font-size: 12px;\n        line-height: 17px;\n        margin-top: 16px;\n        max-width: 100%;\n        padding-right: 40px;\n    }\n    .tmpl_hh_header__imgs{\n        width: 100%;\n        margin-top: 22px;\n    }\n    .tmpl_hh_header__imgs .tmpl_hh_img{\n        padding-bottom: 48.5%;\n    }\n    .tmpl_hh_about{\n        margin: 0;\n        border: 0;\n        padding: 15px 2px 15px 15px;\n    }\n    .tmpl_hh_about p {\n        font-size: 14px;\n        line-height: 26px;\n    }\n    .tmpl_hh_about b {\n        font-size: 20px;\n        line-height: 20px;\n    }\n    .tmpl_hh_content {\n        padding: 19px 14px 1px;\n    }\n    .tmpl_hh_content .tmpl_hh_margin {\n        margin-top: 48px;\n    }\n    .tmpl_hh_footer {\n        padding: 0 14px 0 14px;\n    }\n    .tmpl_hh_footer__items .tmpl_hh_text{\n    display: none;\n    }\n    .tmpl_hh_footer .tmpl_hh_title{\n        display: block;\n        font-size: 20px;\n        line-height: 26px;\n        font-weight: bold;\n        text-transform: uppercase;\n        margin-bottom: 29px;\n    }\n\n    .tmpl_hh_footer__items{\n        height: auto;\n    }\n    .tmpl_hh_footer__items .tmpl_hh_yellow {\n        top: auto;\n        width: 41%;\n        height: 0;\n        padding-bottom: 77%;\n        border-radius: 23px;\n        position: relative;\n        margin-top: 4px;\n    }\n    .tmpl_hh_footer__items .tmpl_hh_yellow img{\n        left: 0;\n        top: 17%;\n        width: 101%;\n    }\n    .tmpl_hh_footer__items .tmpl_hh_img{\n        border-radius: 22px;\n        padding-bottom: 38%;\n    }\n    .tmpl_hh_footer__items .tmpl_hh_img p{\n        font-size: 10px;\n        left: 15px;\n        line-height: 10px;\n        width: 89px;\n        bottom: 11px;\n    }\n    .tmpl_hh_footer__items .tmpl_hh_img--1{\n        left: 0;\n        width: 41%;\n        position: relative;\n        border-radius: 16px;\n    }\n    .tmpl_hh_footer__items .tmpl_hh_img--1 br{\n        display: none;\n    }\n    .tmpl_hh_footer__items .tmpl_hh_circle {\n        position: relative;\n        top: auto;\n        left: auto;\n        width: 38%;\n        padding-bottom: 38%;\n        height: 0;\n        margin-top: 4px;\n        margin-left: 1%;\n    }\n    .tmpl_hh_footer__items .tmpl_hh_circle img{\n        width: 55%;\n    }\n    .tmpl_hh_footer__items .tmpl_hh_img--2 {\n        top: 25%;\n        left: auto;\n        right: 0;\n        width: 56.4%;\n    }\n    .tmpl_hh_footer__items .tmpl_hh_img--3 {\n        top: 76%;\n        left: auto;\n        right: 0;\n        width: 56.4%;\n    }\n    .tmpl_hh_footer__items .tmpl_hh_img--4 {\n        top: 50.5%;\n        left: auto;\n        right: 0;\n        width: 56.4%;\n    }\n    .tmpl_hh_footer__items .tmpl_hh_img--5 {\n        top: 0;\n        left: auto;\n        right: 0;\n        width: 56.4%;\n    }\n    .tmpl_hh_footer__items .tmpl_hh_img b {\n        font-size: 26px;\n    }\n    .tmpl_hh_footer__lawyer {\n        margin-top: 22px;\n    }\n    .tmpl_hh_footer__lawyer p {\n        font-size: 12px;\n        line-height: 16px;\n    }\n}\n\n</style>\n\n    <div class=\"tmpl_hh_wrapper\">\n        <div class=\"tmpl_hh_header\">\n            <div class=\"tmpl_hh_header__text\">\n                <img src=\"https://hhcdn.ru/ichameleon/377456.svg\" alt=\"\" class=\"tmpl_hh_logo\">\n                <p>Создавай среду, в которой люди счастливы. Работай в Компании, где каждый занимается любимым делом и делится своими эмоциями через проекты, продукты и искренний сервис.</p>\n            </div>\n            <div class=\"tmpl_hh_header__imgs\">\n                <div class=\"tmpl_hh_img tmpl_hh_img--1\">\n                    <span>ОФИС</span>\n                </div>\n                <div class=\"tmpl_hh_img tmpl_hh_img--2\">\n                    <span>МАГАЗИНЫ</span>\n                </div>\n                <div class=\"tmpl_hh_img tmpl_hh_img--3\">\n                    <span>СКЛАД</span>\n                </div>\n                <div class=\"tmpl_hh_img tmpl_hh_img--4\"></div>\n            </div>\n        </div>\n\n        <div class=\"tmpl_hh_about\">\n            <p><b>Пив&amp;Ко</b> –  это больше, чем просто крупная федеральная сеть разливных напитков. С гордостью объединив более 1800 талантливых сотрудников, мы создали и продолжаем совершенствовать уникальные продукты на собственных производствах.  Мы работаем в стильных офисах по всему Екатеринбургу и доставляем товар по всей России через собственный распределительный центр. Благодаря нашей обширной сети магазинов, Пив&amp;Ко предлагает отличные возможности для работы прямо рядом с вашим домом. Присоединяйтесь к нам и откройте свою территорию счастья в Пив&amp;Ко!</p>\n        </div>\n        \n        <div class=\"tmpl_hh_content\">\n            <p><em>Мы в поиске оператора поддержки партнеров в чатах.</em><br><br>Основной задачей будет прием и обработка входящих обращений от наших партнеров через мессенджеры.<br>Мы готовы принять на работу начинающего специалиста с небольшим опытом, но с большим желанием работать и развивать свои навыки.</p> <p><em>Почему у нас хорошо</em>:</p> <ul> <li>Работа в крупной федеральной компании;</li> <li>Стабильный уровень заработной платы - 43 000р. после испытательного срока;</li> <li>График работы 2/2 с 09:00 до 21:00;</li> <li>Удаленный формат работы;</li> <li>Наставничество, ввод в должность;</li> <li>Возможность карьерного и профессионального роста.</li> </ul> <p><em>Чем нужно будет заниматься:</em></p> <ul> <li>Обрабатывать входящие запросы от партнеров в нашем WhatsApp;</li> <li>Обрабатывать письма на электронной почте.</li> </ul> <p><em>Ты - наш идеальный кандидат, если:</em></p> <ul> <li>Любишь помогать людям и всегда готов объяснить, рассказать, направить;</li> <li>Умеешь четко и грамотно излагать свои мысли;</li> <li>Работаешь на компьютере и легко справляешься с большими объёмами информации.</li> </ul> <p><em><strong>ЖДЕМ ТВОЕ РЕЗЮМЕ!</strong></em></p><div class=\"tmpl_hh_margin\"></div>\n        </div>\n\n        <div class=\"tmpl_hh_footer\">\n            <div class=\"tmpl_hh_title\">Построй карьеру с нами!</div>\n            <div class=\"tmpl_hh_footer__items\">\n                <div class=\"tmpl_hh_text\">\n                    <img src=\"https://hhcdn.ru/ichameleon/377486.svg\" alt=\"\">\n                </div>\n                <div class=\"tmpl_hh_img tmpl_hh_img--1\">\n                    <p>Распредели­тельный <br>центр</p>\n                </div>\n                <div class=\"tmpl_hh_yellow\">\n                    <img src=\"https://hhcdn.ru/ichameleon/377477.png\" alt=\"\">\n                </div>\n                <div class=\"tmpl_hh_circle\">\n                    <img src=\"https://hhcdn.ru/ichameleon/377478.svg\" alt=\"\">\n                </div>\n                <div class=\"tmpl_hh_img tmpl_hh_img--2\">\n                    <p><b>600</b> <br>Сотрудников <br>back-офис</p>\n                </div>\n                <div class=\"tmpl_hh_img tmpl_hh_img--3\">\n                    <p>Стабильность</p>\n                </div>\n                <div class=\"tmpl_hh_img tmpl_hh_img--4\">\n                    <p><b>&gt;500</b> <br>магазинов</p>\n                </div>\n                <div class=\"tmpl_hh_img tmpl_hh_img--5\">\n                    <p>Возможности <br>карьерного роста</p>\n                </div>\n            </div>\n            <div class=\"tmpl_hh_footer__lawyer\">\n                <p>ООО «Кадровые решения» представляет бренд ПивКо</p>\n            </div>\n        </div>\n    </div>\n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Работа с большим объемом информации"
+    },
+    {
+      "name": "Грамотность"
+    },
+    {
+      "name": "Умение работать в команде"
+    },
+    {
+      "name": "Ведение переписки"
+    },
+    {
+      "name": "Деловая коммуникация"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "865513",
+    "name": "ПивКо",
+    "url": "https://api.hh.ru/employers/865513",
+    "alternate_url": "https://hh.ru/employer/865513",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/825256.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3741911.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3741912.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=865513",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T08:51:52+0300",
+  "created_at": "2025-06-02T08:51:52+0300",
+  "initial_created_at": "2025-05-26T13:37:30+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120978925",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120978925",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "TWO_ON_TWO_OFF",
+      "name": "2/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_12",
+      "name": "12 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

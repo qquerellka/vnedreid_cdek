@@ -1,0 +1,190 @@
+{
+  "id": "121328705",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Разработчик Python Developer Middle, Middle+ (робототехника)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Отрадная улица",
+    "building": "2Бс7",
+    "lat": 55.857276,
+    "lng": 37.601708,
+    "description": null,
+    "raw": "Москва, Отрадная улица, 2Бс7",
+    "metro": {
+      "station_name": "Отрадное",
+      "line_name": "Серпуховско-Тимирязевская",
+      "station_id": "9.97",
+      "line_id": "9",
+      "lat": 55.864273,
+      "lng": 37.605066
+    },
+    "metro_stations": [
+      {
+        "station_name": "Отрадное",
+        "line_name": "Серпуховско-Тимирязевская",
+        "station_id": "9.97",
+        "line_id": "9",
+        "lat": 55.864273,
+        "lng": 37.605066
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Группа компаний «Робопро»</strong> - первый в России производитель безопасных и легко программируемых коллаборативных роботов для выполнения широкого круга задач. Наряду с коботами ключевыми продуктами компании являются компактные и мощные сервомоторы и бесколлекторные двигатели для обширного диапазона применения.</p> <p><strong>Робопро</strong> - единственная компания на территории СНГ, которая имеет научно-техническую базу, позволяющую осуществлять полный цикл серийного производства с высокой степенью локализации – от серводвигателей до роботов с собственным уникальным программным обеспечением.</p> <p>Наша цель - создание безопасных, комфортных в программировании роботов, способных автоматизировать сложные, монотонные и опасные для человека задачи на различных производствах. Мы предлагаем работу над инновационными проектами в области современной робототехники, где соединяется мехатроника и программное обеспечение.</p> <p>В данный момент мы расширяем наше продуктовое портфолио, в связи с чем ищем в свою команду увлеченного и талантливого <strong>Разработчика Python Developer. </strong></p> <strong>Чем предстоит заниматься:</strong> <p>- Разработка графических и консольных приложений — для конфигурации, тестирования и анализа работы робота;</p> <p> - Разработка и поддержка API управления роботом;<br />- Тестирование и отладка программных решений;<br />- Ведение документации в корпоративной базе знаний.</p> <p><strong>Мы ищем человека, у которого есть:</strong></p> <p>- Опыт коммерческой разработки на Python 3.7+ от 1 года<br />- Знание особенностей языка Python и способов работы с ними<br />- Знание встроенных библиотек Python (os, threading, multiprocessing, asyncio, struct и т.д.)<br />- Опыт использования стандартов Python и типизации (PEP8, typing и т.д.)<br />- Понимание принципов и паттернов проектирования и разработки ПО<br />- Уверенное владение ОС Linux, умение использовать терминал<br />- Уверенное владение многопоточностью и многопроцессностью<br />- Базовое понимание сетей (TCP/IP, UDP, socket)<br />- Умение работать с Git<br />- Умение самостоятельно оценивать и декомпозировать задачи</p> <p><strong>Будет плюсом:</strong></p> <p>- Знание сторонних библиотек и фреймворков: Poetry, PyQt6/PySide6, pandas, numpy, scipy, FastAPI</p> <p>- Знание английского языка на уровне, достаточном для чтения документации</p> <p>- Умение читать C/C++ код на базовом уровне, опыт интеграции C/C++ и Python</p> <p>- Опыт написания unit-тестов и настройки CI/CD пайплайнов<br />- Знание линейной алгебры и аналитической геометрии</p> <p>- Опыт работы с протоколами EtherCAT, Modbus и Profinet<br />- Базовые знания в области роботехники</p> <p>- Открытые git-репозитории</p> <p><strong>Что мы предлагаем</strong>:</p> <p>-Оформление согласно ТК РФ с первого дня;</p> <p>-Официальная фиксированная заработная плата;</p> <p>-Конкурентоспособная заработная плата, обсуждается по итогам интервью;</p> <p>-График работы 5/2 с 9:00 до 18:00;</p> <p>-Комфортный офис в современном Бизнес-центре «Технопарк – Отрадное» в 6 минутах ходьбы от метро Отрадное;</p> <p>-Расширенное ДМС после прохождения испытательного срока;</p> <p>-Бесплатный спортзал для сотрудников 24/7.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python Core"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Flask"
+    },
+    {
+      "name": "Unit Testing"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "GitlabCI"
+    },
+    {
+      "name": "Английский — B1 — Средний"
+    },
+    {
+      "name": "Робототехника"
+    },
+    {
+      "name": "Qt"
+    },
+    {
+      "name": "TCP/IP"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "C/C++"
+    },
+    {
+      "name": "Sphinx"
+    },
+    {
+      "name": "pandas"
+    },
+    {
+      "name": "Poetry"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9174671",
+    "name": "Робопро",
+    "url": "https://api.hh.ru/employers/9174671",
+    "alternate_url": "https://hh.ru/employer/9174671",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1099587.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6018961.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6018962.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9174671",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T11:24:27+0300",
+  "created_at": "2025-06-07T11:24:27+0300",
+  "initial_created_at": "2025-06-04T11:24:27+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121328705",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121328705",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

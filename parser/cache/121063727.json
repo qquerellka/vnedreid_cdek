@@ -1,0 +1,145 @@
+{
+  "id": "121063727",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Middle .NET developer С#",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "Советский район, микрорайон Академгородок, Инженерная улица",
+    "building": "18",
+    "lat": 54.854776,
+    "lng": 83.11195,
+    "description": null,
+    "raw": "Новосибирск, Советский район, микрорайон Академгородок, Инженерная улица, 18",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>CityAir — аккредитованная IT-компания.</strong></p> <p>Мы разрабатываем и производим собственные станции для анализа примесей в воздухе и создаем цифровые платформы для мониторинга качества атмосферного воздуха</p> <p><strong>Наша цель — оцифровать качество воздуха планеты.</strong></p> <p><strong>Продукт CityAir — </strong>Система (программно-аппаратный комплекс) для оперативного контроля загрязнения атмосферного воздуха. Наши сети развернуты в нескольких крупных городах России. Мы продолжаем развиваться в России и выходим на международный рынок.<br /><br /><strong>Внешний контекст IT-команды CityAir:</strong><br />Совместная работа с инженерной лабораторией — у нас есть собственное оборудование для измерения концентрации пыли и газов в воздухе. Результаты этих измерений собираются и анализируются на платформе, с которой работают клиенты — экологи и сити-менеджеры;<br />Кроме веб-платформ, у нас есть мобильные сервисы, как для широкого круга, так и закрытые, для авторизованных пользователей;</p> <p><strong>Обязанности:</strong></p> <ul> <li>Поддержка текущего стека приема данных от измерительных устройств собственной разработки и других производителей, а также внешних источников в виде API;</li> <li>Поддержка и развитие сервисов обработки данных и доступа к этим данным посредством API.</li> <li>Опыт работы с нереляционными базами данных (ClickHouse, Redis), брокерами сообщений (Kafka);</li> </ul> <strong>Требования:</strong> <ul> <li>Опыт работы с .NET 8 (C#)</li> <li>Опыт работы в больших и средних проектах</li> <li>Реальный опыт проектирования API для web-приложений и межсерверного взаимодействия</li> <li>Знание docker/docker-compose</li> <li>Опыт проектирования баз данных;</li> </ul> <p><strong>Опциональные требования (важно попадание от 2 пунктов и выше):</strong></p> <ul> <li>Знание python (либо интерес к освоению)</li> <li>Опыт работы с gitlab ci или другими ci инструментами;</li> <li>Опыт работы с geo-данными;</li> <li>Опыт работы с timeseries-данными;</li> <li>Знаком с облачными сервисами AWS: S3</li> </ul> <p><strong>Общий портрет идеального члена команды разработки:</strong></p> <p>Ждем коллегу, который будет принимать участие в проектировании, будет готов к разработке с нуля, а также к адаптации старого кода в новую платформу.</p> <p>Нам важен широкий кругозор и достаточная глубина знаний баз данных, организации межсерверного взаимодействия, интерес к облачным технологиям.</p> <p>Будем рады сторонникам сервис-ориентированной архитектуры.</p> <p>Ценим вдумчивых людей, живо интересующихся развитием продукта, которые обладают инженерным мышлением – способны вписывать свои задачи в общий процесс разработки и цели проекта, стремятся решать реальные проблемы пользователей, умеют находить простые решения сложных задач, могут предложить улучшения и реализовать их. Считаем важным понимание, что задача закрыта не после коммита, а после того, как результат доставлен и используется клиентом.·</p> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Трудоустройство по ТК РФ</li> <li>График работы 5/2</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": ".NET Core"
+    },
+    {
+      "name": "C#"
+    },
+    {
+      "name": "Kafka"
+    },
+    {
+      "name": "Clickhouse"
+    },
+    {
+      "name": "PostgreSQL"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5468523",
+    "name": "CityAir",
+    "url": "https://api.hh.ru/employers/5468523",
+    "alternate_url": "https://hh.ru/employer/5468523",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/855133.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3861407.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3861408.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5468523",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T09:11:54+0300",
+  "created_at": "2025-06-06T09:11:54+0300",
+  "initial_created_at": "2025-05-28T09:11:54+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121063727",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121063727",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

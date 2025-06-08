@@ -1,0 +1,149 @@
+{
+  "id": "121380794",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер-программист (Python)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "66",
+    "name": "Нижний Новгород",
+    "url": "https://api.hh.ru/areas/66"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Нижний Новгород",
+    "street": "Сормовское шоссе",
+    "building": "1Ж",
+    "lat": 56.329751,
+    "lng": 43.908447,
+    "description": null,
+    "raw": "Нижний Новгород, Сормовское шоссе, 1Ж",
+    "metro": {
+      "station_name": "Буревестник",
+      "line_name": "Сормовская",
+      "station_id": "51.292",
+      "line_id": "51",
+      "lat": 56.333834,
+      "lng": 43.892799
+    },
+    "metro_stations": [
+      {
+        "station_name": "Буревестник",
+        "line_name": "Сормовская",
+        "station_id": "51.292",
+        "line_id": "51",
+        "lat": 56.333834,
+        "lng": 43.892799
+      },
+      {
+        "station_name": "Бурнаковская",
+        "line_name": "Сормовская",
+        "station_id": "51.291",
+        "line_id": "51",
+        "lat": 56.325704,
+        "lng": 43.911897
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><em><strong>Научно-производственное предприятие &quot;ПРИМА&quot; — </strong>современное стабильно работающее предприятие по разработке и производству авиационной воздушной, наземной и морской аппаратуры радиосвязи.</em></p> <p><em>Состоит в реестрах организаций:</em></p> <ul> <li><em>оборонно-промышленного комплекса <strong>(ОПК)</strong></em></li> <li><em>аккредитованных <strong>IT-компаний</strong></em></li> </ul> <p><strong>Наши преимущества:</strong></p> <ul> <li> <p>Интересные и нестандартные задачи, современные подходы в управлении предприятием с применением цифровых технологий.</p> </li> <li> <p>Достойную оплату труда и ежемесячную премию по результатам работы.</p> </li> <li> <p>Полис Добровольного медицинского страхования (ДМС), включающий бесплатное лечение в ведущих медицинских центрах Нижнего Новгорода.</p> </li> <li>Молодой и дружный коллектив профессионалов с атмосферой взаимовыручки.</li> <li>Гарантию доверия (официальное трудоустройство, оплата отпуска и больничного).</li> <li> <p>График работы 5/2.</p> </li> <li> <p><strong>Работа из офиса.</strong></p> </li> </ul> <p><strong>Функционал:</strong></p> <ul> <li> <p>Разработка и поддержание в актуальном состоянии автоматических тестов для ПО радиосвязного оборудования.</p> </li> </ul> <p><strong>Что мы ожидаем от кандидата:</strong></p> <ul> <li>Умение разрабатывать автоматические тесты программного обеспечения на языке Python.</li> <li> <p>PyCharm, Visual Studio, Git.</p> </li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "2004821",
+    "name": "Научно-производственное предприятие ПРИМА",
+    "url": "https://api.hh.ru/employers/2004821",
+    "alternate_url": "https://hh.ru/employer/2004821",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/921274.png",
+      "90": "https://img.hhcdn.ru/employer-logo/4125668.png",
+      "240": "https://img.hhcdn.ru/employer-logo/4125669.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2004821",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T12:57:37+0300",
+  "created_at": "2025-06-05T12:57:37+0300",
+  "initial_created_at": "2025-06-05T12:57:37+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121380794",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121380794",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

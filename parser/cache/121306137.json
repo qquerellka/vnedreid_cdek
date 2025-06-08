@@ -1,0 +1,247 @@
+{
+  "id": "121306137",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Специалист ML/DS",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 80000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 80000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "MONTHLY",
+      "name": "Раз в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "4й Лихачевский переулок",
+    "building": "15",
+    "lat": 55.85817,
+    "lng": 37.529394,
+    "description": null,
+    "raw": "Москва, 4й Лихачевский переулок, 15",
+    "metro": {
+      "station_name": "Грачёвская",
+      "line_name": "МЦД-3",
+      "station_id": "135.846",
+      "line_id": "135",
+      "lat": 55.869444,
+      "lng": 37.509167
+    },
+    "metro_stations": [
+      {
+        "station_name": "Грачёвская",
+        "line_name": "МЦД-3",
+        "station_id": "135.846",
+        "line_id": "135",
+        "lat": 55.869444,
+        "lng": 37.509167
+      },
+      {
+        "station_name": "Лихоборы",
+        "line_name": "МЦД-3",
+        "station_id": "135.848",
+        "line_id": "135",
+        "lat": 55.85,
+        "lng": 37.5525
+      },
+      {
+        "station_name": "Моссельмаш",
+        "line_name": "МЦД-3",
+        "station_id": "135.847",
+        "line_id": "135",
+        "lat": 55.862222,
+        "lng": 37.526389
+      },
+      {
+        "station_name": "Селигерская",
+        "line_name": "Люблинско-Дмитровская",
+        "station_id": "10.597",
+        "line_id": "10",
+        "lat": 55.86483,
+        "lng": 37.55005
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>разработка и внедрение методов машинного обучения</li> <li>специализация (NLP/LLM, табличные данные, ML в ИБ) определяется по результатам собеседования с учетом пожеланий кандидата</li> </ul> <strong>Требования:</strong> <ul> <li>законченное высшее образование или студент старших курсов</li> <li>навыки программирования на Python</li> <li>опыт работы с Numpy, Pandas, Pytorch/Tensorflow</li> <li>приветствуется: опыт работы с Transformers/LangChain, опыт использования Linux, bash, git, docker и взаимодействия с СУБД</li> <li>базовые знания прикладной математики</li> </ul> <strong>Условия:</strong> <ul> <li>интересные и нестандартные задачи широкого спектра</li> <li>оформление по ТК РФ</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Английский язык"
+    },
+    {
+      "name": "Исследовательский анализ данных"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Алгоритмы и структуры данных"
+    },
+    {
+      "name": "Визуализация данных"
+    },
+    {
+      "name": "Deep Learning"
+    },
+    {
+      "name": "TensorFlow"
+    },
+    {
+      "name": "PyTorch"
+    },
+    {
+      "name": "Scikit-learn"
+    },
+    {
+      "name": "Numpy"
+    },
+    {
+      "name": "pandas"
+    },
+    {
+      "name": "NLTK"
+    },
+    {
+      "name": "OpenCV"
+    },
+    {
+      "name": "CatBoost"
+    },
+    {
+      "name": "Аналитическое мышление"
+    },
+    {
+      "name": "Анализ текстовой информации"
+    },
+    {
+      "name": "Natural Language Processing"
+    },
+    {
+      "name": "LLM"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "165",
+      "name": "Дата-сайентист"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "566866",
+    "name": "ФГУП НИИ Квант",
+    "url": "https://api.hh.ru/employers/566866",
+    "alternate_url": "https://hh.ru/employer/566866",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/435063.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/2182223.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/2182224.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=566866",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T17:45:58+0300",
+  "created_at": "2025-06-06T17:45:58+0300",
+  "initial_created_at": "2025-06-03T17:45:58+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121306137",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121306137",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b1",
+        "name": "B1 — Средний"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

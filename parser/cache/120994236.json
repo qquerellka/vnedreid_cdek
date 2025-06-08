@@ -1,0 +1,120 @@
+{
+  "id": "120994236",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Java-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Видное",
+    "street": "район Расторгуево, улица Героя России Тинькова",
+    "building": "39",
+    "lat": 55.542248,
+    "lng": 37.670393,
+    "description": null,
+    "raw": "Видное, район Расторгуево, улица Героя России Тинькова, 39",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>«Аврора» </strong>— IT-компания, создающая инновационные технологические решения для бизнеса. Мы разрабатываем проекты с нуля, работая с крупными корпорациями и перспективными стартапами.</p> <p><strong>Требования:</strong></p> <ul> <li>Опыт работы с Java 11+.</li> <li>Глубокое знание Spring Framework (Core, MVC, Data, Batch, Cloud) и Spring Boot 2.0+.</li> <li>Практический опыт работы с JPA, Hibernate.</li> <li>Понимание принципов GoF, GRASP, SOLID и умение применять их на практике.</li> <li>Навык написания чистого кода и опыт работы с SonarQube, Checkstyle.</li> <li>Знание концепций 12FactorApp и микросервисной архитектуры (MSA).</li> <li>Опыт работы с Kubernetes / OpenShift / GCP / AWS.</li> <li>Работа с Docker и брокерами сообщений: Kafka / RabbitMQ / ActiveMQ / SQS.</li> <li>Уверенное владение реляционными СУБД: PostgreSQL / Oracle / MS SQL.</li> <li>Написание тестов с использованием JUnit, Mockito.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт работы с Camunda / Zeebe / Temporal / Netflix Conductor / AWS StepFunctions.</li> <li>Знание Debezium, SQL, JOOQ.</li> <li>Опыт тестирования с Testcontainers, AssertJ, Wiremock / Prism.</li> <li>Работа с Redis / Hazelcast / Tarantool, MongoDB.</li> <li>Применение resilience4j и устойчивых паттернов проектирования.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>График: 5/2 с 9:00 до 18:00 (гибкое начало дня возможно).</li> <li>Гибкость: учитываем ваши предпочтения по условиям работы.</li> <li>Доход: от 200 000 до 350 000 руб. в месяц.</li> <li>Формат: полностью удалённая работа — из любой точки мира.</li> <li>Культура: прозрачные отношения, минимум бюрократии, команда профессионалов.</li> </ul> <p><br />Если вы хотите работать с современными технологиями и участвовать в масштабных проектах, Аврора — отличный выбор. Ваши навыки и идеи помогут создавать передовые IT-решения в нашей команде!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11924956",
+    "name": "Аврора",
+    "url": "https://api.hh.ru/employers/11924956",
+    "alternate_url": "https://hh.ru/employer/11924956",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11924956",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-26T17:17:44+0300",
+  "created_at": "2025-05-26T17:17:44+0300",
+  "initial_created_at": "2025-05-26T17:17:44+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120994236",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120994236",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

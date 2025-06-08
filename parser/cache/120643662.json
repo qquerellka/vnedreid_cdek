@@ -1,0 +1,151 @@
+{
+  "id": "120643662",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Технолог-программист станков с ЧПУ",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 150000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 150000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "территория Лахта, улица Красных Партизан",
+    "building": "14Б",
+    "lat": 59.996371,
+    "lng": 30.152842,
+    "description": null,
+    "raw": "Санкт-Петербург, территория Лахта, улица Красных Партизан, 14Б",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><b>Обязанности:</b></p><ul><li>Разработка 3d моделей в Компас-3d и приведение моделей в середину допуска;</li><li>Разработка управляющих программ в SprutCAM или NX для фрезерной обработки, включая разработку УП для 4-ой оси;</li><li>Оформление карт наладок для наладчиков станков с ЧПУ;</li><li>Отладка УП на станке совместно с оператором-наладчиком с дальнейшей оптимизацией;</li><li>Решение технических вопросов, возникающих в ходе производственных процессов.</li></ul><p><b>Требования:</b></p><ul><li>Высшее техническое образование и опыт работы программистом от 1 года, или профильное профессиональное образование и опыт работ с ЧПУ Fanuc;</li><li>Опытный пользователь ПК;</li><li>Чтение чертежей;</li><li>Знание CAD/CAM систем;</li><li>Знание металлорежущего инструмента и оборудования;</li><li>Знание режимов обработки для различных материалов;</li><li>Знание измерительного инструмента и методов контроля;</li><li>Знание методов и способов базирования соблюдения принципов единства баз;</li><li>Знание последовательности выполнения операций механической обработки.</li></ul><p><b>Условия:</b></p><ul><li>График работы 3/3 либо 5/2;</li><li>Место работы - ул. Красных Партизан, Лахта. 3 минуты пешком от ж/д станции Лахта, 12 минут на автобусе от м. Беговая;</li><li>Официальное трудоустройство, полностью белая з/п;</li><li>Возможность повышение квалификации</li><li>Годовая премия</li><li>Отпуск и больничный согласно ТК РФ.</li><li>Возможно заключение договора подряда на определенный срок с целью оценки взаимовыгодности дальнейшего сотрудничества.</li><li>Компания обеспечивает переподготовку по работе с SprutCAM</li></ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Компас-3D"
+    },
+    {
+      "name": "3D Моделирование"
+    },
+    {
+      "name": "SprutCAM"
+    },
+    {
+      "name": "Чтение чертежей"
+    },
+    {
+      "name": "Станки ЧПУ"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "8994023",
+    "name": "Меркурий",
+    "url": "https://api.hh.ru/employers/8994023",
+    "alternate_url": "https://hh.ru/employer/8994023",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=8994023",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T16:13:24+0300",
+  "created_at": "2025-06-06T16:13:24+0300",
+  "initial_created_at": "2025-05-16T16:13:24+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120643662",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120643662",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

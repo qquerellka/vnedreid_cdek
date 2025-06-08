@@ -1,0 +1,123 @@
+{
+  "id": "95143037",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Программист C#",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p> </p> <p><strong>Задачи, которые предстоит решать:</strong></p> <ul> <li>Развитие распределённой, высоконагруженной информационной системы по осуществлению переводов и платежей, участие в принятии архитектурных решений.</li> <li>Разработка новых решений по предоставлению сервисов платежной системы.</li> <li>Интеграция с внутренними системами компании и с внешними системами партнеров.</li> <li>Разработка и проектирование API для партнеров.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Опыт командной разработки программного обеспечения на платформе .NET C# от 3 лет.</li> <li>Опыт разработки многопоточных и отказоустойчивых систем.</li> <li>Понимание современных подходов к архитектуре и разработке.</li> <li>Знания методологий разработки и паттернов: ООП, SOLID<strong>,</strong> GOF.</li> <li>Использование Unit-тестирования.</li> <li>Понимание специфики разработки веб приложений. Понимание работы протокола HTTP, технологий: REST, ASP.NET MVC, ASP.NET WEBAPI.</li> <li>Опыт работы с Ioc-контейнерами, Nuget.</li> <li>Уверенное владение одной из систем контроля версий исходного кода (Git, Mercurial).</li> <li>Желание активно развиваться и самообучаться.</li> </ul> <p><strong>О проекте:</strong></p> <ul> <li>Система основана на архитектурном подходе CQRS + Event Sourcing. Модули системы представлены микросервисами, взаимодействие между которыми основано на Reliable Messaging и HTTP-транспорте.</li> <li>Технологии: RabbitMQ, Microsoft .NET, ASP.NET WebAPI, ASP.NET MVC, WCF, Microsoft SQL Server, RavenDB, KnockoutJS/Durandal, Grunt, Castle Windsor.</li> <li>Принципы и методологии: DDD, SOA, Micro Services, REST, SOLID.</li> <li>Языки: C#, Java Script, T-SQL, XML-NAnt.</li> <li>Инструментарий: MS Visual Studio 2017, Confluence, JetBrains Team City, RedMine.</li> <li>Система контроля версий: Git.</li> </ul> <p><strong>Условия работы:</strong></p> <ul> <li>Полный рабочий день, возможность удаленной работы;</li> <li>Возможность профессионального и карьерного рост;</li> <li>Оформление в соответствии с ТК РФ;</li> <li>Соц. пакет;</li> <li>Дружный коллектив высококвалифицированных сотрудников, демократичная атмосфера.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "С#"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "RabbitMQ"
+    },
+    {
+      "name": "SQL"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "55551",
+    "name": "ЮНИСТРИМ БАНК",
+    "url": "https://api.hh.ru/employers/55551",
+    "alternate_url": "https://hh.ru/employer/55551",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/478320.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/2355132.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/2355133.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=55551",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-12T09:58:54+0300",
+  "created_at": "2025-05-12T09:58:54+0300",
+  "initial_created_at": "2024-03-20T16:37:10+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95143037",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/95143037",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

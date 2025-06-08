@@ -1,0 +1,172 @@
+{
+  "id": "119782850",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "DevOps (W&S)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "город Новосибирск",
+    "street": "Окружная улица",
+    "building": "29в",
+    "lat": 55.083601,
+    "lng": 82.938396,
+    "description": null,
+    "raw": "город Новосибирск, Окружная улица, 29в",
+    "metro": {
+      "station_name": "Заельцовская",
+      "line_name": "Ленинская",
+      "station_id": "52.294",
+      "line_id": "52",
+      "lat": 55.059291,
+      "lng": 82.912569
+    },
+    "metro_stations": [
+      {
+        "station_name": "Заельцовская",
+        "line_name": "Ленинская",
+        "station_id": "52.294",
+        "line_id": "52",
+        "lat": 55.059291,
+        "lng": 82.912569
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Кто мы:</strong></p> <p><strong>Eltex</strong> - ведущий российский разработчик и производитель телекоммуникационного оборудования. Наша компания - это дружный коллектив, со штатом уже более 1800 сотрудников. Наш офис располагается на границе с сосновым бором и состоит из двух корпусов. Прямо здесь находится производственная линия, на которой выпускается телеком оборудование различных классов от ip-телефонов и “умных” розеток до телефонных станций, от домашних модемов до магистральных маршрутизаторов, которые позволяют обеспечить бесперебойную связь для целых регионов. Eltex — <em>аккредитованная IT</em>-<em>компания</em>.</p> <p>Мы разрабатываем большое количество софтовых продуктов и в каждом из них необходимо решать вопросы:</p> <p>- Удобный деплой продукта<br />- Мониторинг продукта<br />- Отказоустойчивость<br />- Резервирование<br />- Масштабирование<br />- Логирование<br />- Дистрибуция<br />- CI/CD для прогона автотестов</p> <div>Мы хотели бы, чтобы решение этих вопросов не было уникальным в каждом продукте, а распространялось на все продукты компании.</div> <div> </div> <div>Ищем талантливого<strong> DevOps инженера в группу серверных решений.</strong></div> <div> </div> <p><strong>Вам предстоит:</strong></p> <p>-Делать так, чтобы наши продукты разворачивались у клиентов легко и просто на различных дистрибутивах Linux с использованием Docker и Ansible</p> <p>- Придумывать, как сделать так, чтобы после установки продукты работали стабильно и надежно</p> <p>- Решать вопросы масштабирования наших продуктов в случае высокой нагрузки</p> <p>- Разрабатывать централизованные системы мониторинга и логирования наших продуктов на базе Grafana, ELK и других инструментов</p> <p>- Строить CI/CD пайплайны</p> <p><strong>Наш стек:</strong></p> <p>- Linux: Ubuntu, RedOS, Astra, Alt</p> <p>- Docker</p> <p>- Grafana, Prometheus, Telegraf, InfluxDB</p> <p>- ELK</p> <p>- Ansible</p> <p>- Postgres</p> <p>- Opennebula</p> <p>- Python</p> <p>- Gitlab (Gitlab-CI)</p> <p><strong>Мы предлагаем:</strong></p> <p>- Интересные задачи, амбициозные цели и возможность стоять у истоков нового проекта</p> <p>- Конкурентную белую з/п (уровень обсуждается на техническом собеседовании) и ее регулярный пересмотр</p> <p>- Официальное трудоустройство с первого дня</p> <p><strong>Приятные бонусы:</strong></p> <p>- Профессиональное развитие</p> <p>- Молодой и дружный коллектив, команду профессионалов, у которых есть чему поучиться</p> <p>- ДМС после прохождения испытательного срока</p> <p>- Участие в профессиональных конференциях (оказываем софинансирование)</p> <p>- Скидки от компаний-партнеров (фитнес, развлечения)</p> <p>- Поддержка спортивного духа в компании (мы регулярно принимаем участие в командных соревнованиях , например таких, как: &quot;Гонка героев&quot;, теннисный турнир)</p> <p>- Тренажерный зал у нас в офисе (а также кикер и настолки)</p> <p>- Корпоративный английский после работы (оказываем софинансирование)</p> <p>- Большое и современное здание на собственной территории (у нас найдется парковочное место не только для авто, но и для велосипеда)</p> <p>- Парк, уличная спортивная зона</p> <p>- Служебный транспорт от пл.Калинина и 4,5,6 мкр</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "CI/CD"
+    },
+    {
+      "name": "Ansible"
+    },
+    {
+      "name": "Prometheus"
+    },
+    {
+      "name": "Grafana"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "GitLab CI"
+    },
+    {
+      "name": "Gitlab"
+    },
+    {
+      "name": "ELK"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "160",
+      "name": "DevOps-инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "828199",
+    "name": "«Предприятие «ЭЛТЕКС»",
+    "url": "https://api.hh.ru/employers/828199",
+    "alternate_url": "https://hh.ru/employer/828199",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1139178.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6177301.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6177302.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=828199",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-12T12:40:32+0300",
+  "created_at": "2025-05-12T12:40:32+0300",
+  "initial_created_at": "2025-04-21T16:37:47+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119782850",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119782850",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

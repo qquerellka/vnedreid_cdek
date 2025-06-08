@@ -1,0 +1,168 @@
+{
+  "id": "120701939",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 80000,
+    "to": 95000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 80000,
+    "to": 95000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "улица Серафимы Дерябиной",
+    "building": "32Б",
+    "lat": 56.810202,
+    "lng": 60.535077,
+    "description": null,
+    "raw": "Екатеринбург, улица Серафимы Дерябиной, 32Б",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>О компании:</strong><br />ТОКСБ — федеральный эксперт в области слаботочных систем с более чем 10-летним опытом. Мы сопровождаем проекты на всех этапах — от проектирования до технического обслуживания, обеспечивая технологичную безопасность объектов любого масштаба.</p> <p>В команде — профессиональные инженеры и проектировщики. Компания имеет все необходимые лицензии (МЧС, ОПС), входит в СРО и является официальным дистрибьютором ведущих производителей оборудования.</p> <p>Среди наших клиентов — УГМК, Синара, РМК, Брусника, TEN, аэропорт Салехард и другие крупные застройщики и организации.</p> <p>Присоединяйтесь к стабильной и развивающейся команде, где ценят компетентность, надёжность и рост.</p> <p><strong>Обязанности:</strong></p> <ul> <li>Обеспечение стабильной работы ИТ-инфраструктуры (серверы, ПК, оргтехника, ЛВС);</li> <li>Программирование (маршруты, группы, временные правила, интеграция) IP телефонии (Asterisk, NeoPBX), поиск и устранение неполадок;</li> <li>Закупка, настройка и установка компьютерного оборудования, оргтехники;</li> <li>Сборка и установка рабочих станций, установка ОС Windows / Linux и офисного ПО;</li> <li>Подключение и сопровождение систем видеонаблюдения, СКУД и домофонии;</li> <li>Настройка антивирусной и базовой информационной безопасности;</li> <li>Обеспечение информационной безопасности в сети компании;</li> <li>Организация и подключение новых рабочих мест;</li> <li>Выезды на объекты при необходимости (настройка оборудования);</li> <li>Учёт техники, контроль наличия расходных материалов;</li> <li>Выполнение технических задач и поручений руководителя.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Высшее / неоконченное высшее / среднее профессиональное образование;</li> <li>Уверенные знания по настройке и сборке ПК, установке и настройке ОС семейства Windows, Windows Server, офисных приложений, Linux;</li> <li>Умение работать с сетевым оборудованием, IP-телефонией — приветствуется;</li> <li>Внимательность, ответственность, самостоятельность;</li> <li>Коммуникабельность и грамотная письменная речь.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>График работы 5/2 с 9-00 до 18-00, (выходные суббота, воскресенье);</li> <li>Заработная плата: от 80 000 ₽ (после испытательного срока); ЗП на время испытательного срока обсуждается индивидуально;</li> <li>Оформление по ТК РФ, стабильные выплаты дважды в месяц;</li> <li>Внутрикорпоративное обучение, помощь в адаптации;</li> <li>Участие в инженерных и инфраструктурных проектах с перспективой роста.</li> </ul> <p><strong>​​​Вакансия подойдёт вам, если:</strong></p> <ul> <li>Вы хотите работать в стабильной, развивающейся компании;</li> <li>Интересуетесь инженерными системами и IT-инфраструктурой;</li> <li>Цените разнообразные задачи, где можно применять и развивать практические навыки.</li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Информационная безопасность"
+    },
+    {
+      "name": "Администрирование сетевого оборудования"
+    },
+    {
+      "name": "Настройка ПК"
+    },
+    {
+      "name": "Информационные технологии"
+    },
+    {
+      "name": "Техническая поддержка"
+    },
+    {
+      "name": "Администрирование серверов Windows"
+    },
+    {
+      "name": "Обеспечение антивирусной защиты"
+    },
+    {
+      "name": "Администрирование ОС"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3512809",
+    "name": "ТОКСБ",
+    "url": "https://api.hh.ru/employers/3512809",
+    "alternate_url": "https://hh.ru/employer/3512809",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/904764.png",
+      "90": "https://img.hhcdn.ru/employer-logo/4059743.png",
+      "240": "https://img.hhcdn.ru/employer-logo/4059744.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3512809",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-27T14:30:52+0300",
+  "created_at": "2025-05-27T14:30:52+0300",
+  "initial_created_at": "2025-05-19T12:37:17+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120701939",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120701939",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

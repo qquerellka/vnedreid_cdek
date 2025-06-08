@@ -1,0 +1,159 @@
+{
+  "id": "119765908",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Тестировщик (web/мобильное приложение)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "проспект Лихачёва",
+    "building": "15",
+    "lat": 55.699807,
+    "lng": 37.644612,
+    "description": null,
+    "raw": "Москва, проспект Лихачёва, 15",
+    "metro": {
+      "station_name": "Автозаводская",
+      "line_name": "Замоскворецкая",
+      "station_id": "2.2",
+      "line_id": "2",
+      "lat": 55.706634,
+      "lng": 37.657008
+    },
+    "metro_stations": [
+      {
+        "station_name": "Автозаводская",
+        "line_name": "Замоскворецкая",
+        "station_id": "2.2",
+        "line_id": "2",
+        "lat": 55.706634,
+        "lng": 37.657008
+      },
+      {
+        "station_name": "ЗИЛ",
+        "line_name": "МЦК",
+        "station_id": "95.531",
+        "line_id": "95",
+        "lat": 55.698333,
+        "lng": 37.648333
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Вам предстоит</strong> тестировать внедряемый функционал личного кабинета (web/моб. приложение). А также:</p> <ul> <li>разрабатывать тест-кейсы, методики и сценарии тестирования;</li> <li>анализировать причины возникновения проблем в продуктовой среде;</li> <li>решать инциденты совместно с другими членами Scrum-команды;</li> <li>участвовать в устранении выявленных дефектов и недостатков;</li> <li>вести тестовую документацию.</li> </ul> <p><strong>Мы ценим</strong> инициативу в достижении общего результата и уважаем различия во мнениях. В соискателе на данную вакансию для нас также важно:</p> <ul> <li>высшее образование, желательно математическое или техническое;</li> <li>опыт работы тестировщиком от 1 года, желательно в финансовой или страховой компании;</li> <li>опыт тестирования web и мобильных приложений;</li> <li>знание методик тестирования, умение разрабатывать чек-листы и тест-кейсы;</li> <li>понимание процессов и этапов реализации функционала в IT-системах;</li> <li>способность гибко реагировать на изменения, готовность к высокой степени автономности и ответственности за результаты своей работы.</li> </ul> <p><strong>Мы предлагаем </strong>стать частью профессиональной команды в стабильной компании, которая входит в число отраслевых лидеров. Успешного кандидата также ждет:</p> <ul> <li>оформление в штат по ТК РФ, испытательный срок 3 месяца;</li> <li>новый комфортный офис, гибридный\\удаленный формат работы;</li> <li>ДМС со стоматологией, страхование от несчастного случая и онкологических заболеваний, корпоративная программа «Здоровье 360»;</li> <li>заработная плата: оклад + квартальная премия за выполнение KPI;</li> <li>скидки на продукты компании и партнеров (туризм, рестораны, фитнес и т.д.);</li> </ul> <ul> <li>корпоративные программы обучения, возможности для карьерного и профессионального роста.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2101125",
+    "name": "АльфаСтрахование Жизнь",
+    "url": "https://api.hh.ru/employers/2101125",
+    "alternate_url": "https://hh.ru/employer/2101125",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1084197.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5957417.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5957418.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2101125",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-20T15:43:26+0300",
+  "created_at": "2025-05-20T15:43:26+0300",
+  "initial_created_at": "2025-04-21T12:44:39+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119765908",
+  "has_test": true,
+  "test": {
+    "required": true
+  },
+  "alternate_url": "https://hh.ru/vacancy/119765908",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

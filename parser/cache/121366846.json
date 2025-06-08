@@ -1,0 +1,158 @@
+{
+  "id": "121366846",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист поддержки и настроек ИИ-ботов",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 40000,
+    "to": 60000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 40000,
+    "to": 60000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": false,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Требуется специалист по поддержке настройке ИИ-ботов для продаж</p> <p>Chatix﻿ — это платформа для создания ИИ-продавцов в переписках. Мы используем ChatGPT, на основе которых наши боты ведут естественный диалог с клиентами наших заказчиков, помогая продавать различные товары и услуги.</p> <p> </p> <p><strong>Что делать:</strong></p> <p>- Осуществлять поддержку клиентов платформы, обучать ей пользоваться.</p> <p>- Настраивать ИИ-ботов на нашей платформе.</p> <p>- Работать с обратной связью от клиентов и вносить корректировки.</p> <p>- Оптимизировать ответы ботов.</p> <p>- Предлагать и внедрять идеи улучшения ИИ-ботов для продаж.</p> <p> </p> <p><strong>Что требуется:</strong></p> <p>- Интерес к теме ИИ и продаж.</p> <p>- Грамотная письменная и устная речь.</p> <p>- Опыт не обязателен — всему обучим.</p> <p>- Умение работать с большими объемами информации и структурно мыслить.</p> <p>- Способность легко устанавливать контакт и решать вопросы клиентов.</p> <p> </p> <p><strong>Что предлагаем:</strong></p> <p>- Удаленная работа.</p> <p>- График 5/2.</p> <p>- Зарплата от 40 000 до 60 000 руб/мес.</p> <p>- Уникальный опыт в сфере ИИ.</p> <p>- Бонусы за отличные результаты.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "ChatGPT"
+    },
+    {
+      "name": "Техническая поддержка пользователей"
+    },
+    {
+      "name": "Разработка скриптов продаж"
+    },
+    {
+      "name": "Google Docs"
+    },
+    {
+      "name": "Account Management"
+    },
+    {
+      "name": "Project management"
+    },
+    {
+      "name": "Коммуникабельность"
+    },
+    {
+      "name": "Тестирование ПО"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "5135119",
+    "name": "Chatix",
+    "url": "https://api.hh.ru/employers/5135119",
+    "alternate_url": "https://hh.ru/employer/5135119",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1338370.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6973458.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6973459.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5135119",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T09:34:52+0300",
+  "created_at": "2025-06-05T09:34:52+0300",
+  "initial_created_at": "2025-06-05T09:34:52+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121366846",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121366846",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": true,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,164 @@
+{
+  "id": "121331971",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 60000,
+    "to": 70000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 60000,
+    "to": 70000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "улица Гагарина",
+    "building": "28",
+    "lat": 56.836948,
+    "lng": 60.647097,
+    "description": null,
+    "raw": "Екатеринбург, улица Гагарина, 28",
+    "metro": {
+      "station_name": "Геологическая",
+      "line_name": "Север-Юг",
+      "station_id": "48.267",
+      "line_id": "48",
+      "lat": 56.826715,
+      "lng": 60.603754
+    },
+    "metro_stations": [
+      {
+        "station_name": "Геологическая",
+        "line_name": "Север-Юг",
+        "station_id": "48.267",
+        "line_id": "48",
+        "lat": 56.826715,
+        "lng": 60.603754
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>ремонт используемой техники.</li> <li>администрирование серверов Windows Server и 1С</li> <li>настройка ПО для работы ЭЦП</li> <li>владение орг. техники, настройка АТС.</li> <li>обеспечение бесперебойной работы всех персональных компьютеров.</li> <li>установка и настройка программного обеспечения для корректной работы.</li> <li>своевременное обновление необходимого программного обеспечения.</li> <li>обеспечение информационной безопасности и защиты от хакерских атак и от спама.</li> </ul> <strong>Требования:</strong> <ul> <li>соответствующее образование в области информационных систем или информационных технологий.</li> <li>умение расставлять приоритеты для широкого спектра рабочих нагрузок с критическими сроками.</li> <li>доступность в нерабочее время для оперативного решения экстренных вопросов</li> <li>опыт установки и поддержки серверного программного обеспечения.</li> </ul> <strong>Условия:</strong> <ul> <li>полный рабочий день.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "214049",
+    "name": "Преображенская клиника",
+    "url": "https://api.hh.ru/employers/214049",
+    "alternate_url": "https://hh.ru/employer/214049",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1409720.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7258540.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7258541.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=214049",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T12:08:17+0300",
+  "created_at": "2025-06-04T12:08:17+0300",
+  "initial_created_at": "2025-06-04T12:08:17+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121331971",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121331971",
+  "working_days": [],
+  "working_time_intervals": [
+    {
+      "id": "from_four_to_six_hours_in_a_day",
+      "name": "Можно сменами по 4-6 часов в день"
+    }
+  ],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_4",
+      "name": "4 часа"
+    },
+    {
+      "id": "HOURS_6",
+      "name": "6 часов"
+    },
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

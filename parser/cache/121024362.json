@@ -1,0 +1,203 @@
+{
+  "id": "121024362",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Frontend-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 280000,
+    "to": 380000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 280000,
+    "to": 380000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "MONTHLY",
+      "name": "Раз в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "набережная Академика Туполева",
+    "building": "15к22",
+    "lat": 55.762085,
+    "lng": 37.679062,
+    "description": null,
+    "raw": "Москва, набережная Академика Туполева, 15к22",
+    "metro": {
+      "station_name": "Бауманская",
+      "line_name": "Арбатско-Покровская",
+      "station_id": "3.17",
+      "line_id": "3",
+      "lat": 55.772405,
+      "lng": 37.67904
+    },
+    "metro_stations": [
+      {
+        "station_name": "Бауманская",
+        "line_name": "Арбатско-Покровская",
+        "station_id": "3.17",
+        "line_id": "3",
+        "lat": 55.772405,
+        "lng": 37.67904
+      },
+      {
+        "station_name": "Курская",
+        "line_name": "Кольцевая",
+        "station_id": "5.71",
+        "line_id": "5",
+        "lat": 55.758631,
+        "lng": 37.661059
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Sapiens Solutions</strong> - команда экспертов, специализирующаяся на разработке решений в области хранилищ данных, аналитической отчетности, мобильных приложений, системах планирования и прогнозирования. Опыт команды и её безупречная репутация - гарантия успешного сотрудничества с нашими клиентами.</p> <p>«Мы ценим красивые технические решения и создаем приложения, которыми пользуются».</p> <p>Мы предлагаем участие в проектах по реализации корпоративной системы распределения расходов на open-source решениях: Postgres, Clickhouse, Airflow, Superset, JS/Python (пилотная функциональность).<br /><br /><strong>Заказчик: </strong>один из крупнейших банков РФ.</p> <p><strong>Что Вам предстоит делать?</strong><br />- разработка программных решений различной сложности;<br />- работа над задачами требующими творческого и гибкого подхода;<br />- разработка нестандартных решений используя как различные библиотеки так и Vanilla JS;<br />- принимать решения как по использованию js технологий так и архитектурных решений.</p> <p><strong>Требования:</strong><br />- коммерческий опыт работы в роли Frontend-разработчика от 5 лет;<br />- опыт работы с React/Zustand/Redux/TypeScript, Vanilla JS;<br />- умение работать с Webpack или Vite;<br />- опыт работы со StyledComponents;<br />- опыт и понимание различных архитектурных решений;<br />- знание и понимание паттернов проектирования, принципов чистого кода;<br />- опыт написания гибкого, поддерживаемого кода.</p> <p><strong>Что мы Вам предлагаем?</strong><br />- Комбинированный (офис/дом) или полностью дистанционный формат работы (только на территории РФ);<br />- Оформление согласно ИП;<br />- Стабильный и прозрачный доход: зарплата и премии по результатам работы;<br />- Обучение и сертификация;<br />- Корпоративные мероприятия для наших сотрудников (Выездные мероприятия, кинопоказы, квизы, настолки и многое другое).</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "Webpack"
+    },
+    {
+      "name": "React"
+    },
+    {
+      "name": "TypeScript"
+    },
+    {
+      "name": "Redux"
+    },
+    {
+      "name": "StyledComponents"
+    },
+    {
+      "name": "Zustand"
+    },
+    {
+      "name": "Vanilla JS"
+    },
+    {
+      "name": "Vite"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1789341",
+    "name": "Sapiens solutions",
+    "url": "https://api.hh.ru/employers/1789341",
+    "alternate_url": "https://hh.ru/employer/1789341",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1385473.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7161679.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7161680.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1789341",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T11:56:24+0300",
+  "created_at": "2025-06-05T11:56:24+0300",
+  "initial_created_at": "2025-05-27T11:56:24+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121024362",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121024362",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

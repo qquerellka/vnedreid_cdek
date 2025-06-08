@@ -1,0 +1,170 @@
+{
+  "id": "119594047",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Junior-разработчик на PHP",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 50000,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 50000,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "улица Радищева",
+    "building": "6А",
+    "lat": 56.831226,
+    "lng": 60.598894,
+    "description": null,
+    "raw": "Екатеринбург, улица Радищева, 6А",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "part",
+    "name": "Частичная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Наша компания - №1 в России по количеству внедрений SugarCRM. Эта платформа - самая популярная в мире CRM-система с открытым исходным кодом.<br /><br />Мы будем рады принять в свои ряды начинающего PHP-программиста, который хочет решать сложные, интересные и разнообразные задачи, абсолютно никак не связанные с версткой, но зато связанные с нетривиальной логикой, скоростью и нагрузками.</p> <p><strong>Требования</strong><br />Что мы ждём от вас:<br />- Знание PHP и понимание загадочных слов ООП, MVC<br />- <strong>Опыт разработки на PHP от 6 месяцев (хорошие самостоятельно сделанные в рамках университетской программы работы также учитываются)</strong><br />- Знание основ AJAX, JavaScript<br />- Знание основ SQL запросов (для MySQL)<br />- Желание писать красивый код по стандартам компании<br />- Получать удовольствие от создания приложений, которые приносят людям реальную пользу и экономят их рабочее время</p> <p><strong>Условия</strong><br />За вашу отличную работу мы предлагаем:<br />- Учебный проект на 1-2 месяца с опытным и терпеливым наставником. На время выполнения проекта выплачивается стипендия!<br />- Индивидуальная программа профессионального развития, прозрачная лестница зарплаты<br />- Уникальные для Екатеринбурга по своей сложности и разнообразию задачи: если вы устали от верстки и хочется «поразмять» голову – вам у нас будет интересно!<br />- Офис в самом центре города (район ТРЦ Гринвич, 5 мин. от ст.Геологическая, Радищева - 8-е Марта). Рядом метро и остановки всех видов транспорта.<br />- Свободный график, но минимум 30 рабочих часов в неделю (офис открыт с 08:00 до 21:00)</p> <p>- ДМС и компенсация расходов на занятие спортом ( после испытательного срока)</p> <p>- Дополнительный оплачиваемый отпуск ( от стажа работы)</p> <p> </p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "ООП"
+    },
+    {
+      "name": "SQL"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "1422042",
+    "name": "Ведисофт",
+    "url": "https://api.hh.ru/employers/1422042",
+    "alternate_url": "https://hh.ru/employer/1422042",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/304050.png",
+      "90": "https://img.hhcdn.ru/employer-logo/1658574.png",
+      "240": "https://img.hhcdn.ru/employer-logo/1658575.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1422042",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-30T10:12:58+0300",
+  "created_at": "2025-05-30T10:12:58+0300",
+  "initial_created_at": "2025-04-16T14:26:20+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119594047",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119594047",
+  "working_days": [],
+  "working_time_intervals": [
+    {
+      "id": "from_four_to_six_hours_in_a_day",
+      "name": "Можно сменами по 4-6 часов в день"
+    }
+  ],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "PART",
+    "name": "Частичная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    },
+    {
+      "id": "OTHER",
+      "name": "Другое"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_6",
+      "name": "6 часов"
+    },
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    },
+    {
+      "id": "OTHER",
+      "name": "Другое"
+    }
+  ],
+  "show_logo_in_search": null
+}

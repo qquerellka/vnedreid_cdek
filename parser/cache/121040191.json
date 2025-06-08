@@ -1,0 +1,125 @@
+{
+  "id": "121040191",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Backend разработчик (Python, Django)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Bulltrade — это компания, создающая игровые сервисы в мирах разных видеоигр. Наша цель — предоставлять игрокам дополнительные возможности вне игровых клиентов с лучшим пользовательским опытом и сопровождением на рынке.<br />Мы развиваемся: запускаем новые проекты и активно растём по пользовательской базе — как в количестве, так и по географии. Чтобы поддерживать это движение, нам нужен сильный backend-разработчик, который поможет строить надежные и масштабируемые решения.</p> <p><em>При отклике будем благодарны, если укажешь свой Telegram</em></p> <p>​​​​​​​<strong>Требования:​​​​​​​</strong></p> <ul> <li>Уверенное знание Python и Django.</li> <li>Опыт работы с PostgreSQL и понимание того, как писать быстрые запросы и оптимизировать медленные.</li> <li>Желание разбираться в задачах и предлагать решения, а не просто закрывать тикеты.</li> <li>Опыт работы с системами контроля версий и CI/CD.</li> <li>Большим плюсом будет опыт работы с асинхронными фреймворками.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Свобода в выборе подходов и инструментов — если можешь обосновать, можешь внедрить.</li> <li>Полная удалёнка, работай откуда хочешь.</li> <li>Прозрачные процессы и адекватные ожидания.</li> <li>Оформление в удобном формате (ИП, самозанятость и т.п.).</li> <li>Оплачиваемые больничные, отпуска, day-off’ы.</li> <li>Взаимодействие с сильной командой — можно делать крутые вещи быстро.</li> <li>Неформальная среда: без жёсткой бюрократии, micromanagement и бесконечных созвонов.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Django Framework"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9649862",
+    "name": "Бултрейд",
+    "url": "https://api.hh.ru/employers/9649862",
+    "alternate_url": "https://hh.ru/employer/9649862",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1073162.jpeg",
+      "90": "https://img.hhcdn.ru/employer-logo/5913277.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/5913278.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9649862",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-27T15:51:12+0300",
+  "created_at": "2025-05-27T15:51:12+0300",
+  "initial_created_at": "2025-05-27T15:51:12+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121040191",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121040191",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,191 @@
+{
+  "id": "121267016",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "PHP разработчик (Laravel)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 115000,
+    "to": 136000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 115000,
+    "to": 136000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Большая Морская улица",
+    "building": "57",
+    "lat": 59.931161,
+    "lng": 30.301809,
+    "description": null,
+    "raw": "Санкт-Петербург, Большая Морская улица, 57",
+    "metro": {
+      "station_name": "Адмиралтейская",
+      "line_name": "Фрунзенско-Приморская",
+      "station_id": "18.258",
+      "line_id": "18",
+      "lat": 59.935867,
+      "lng": 30.31523
+    },
+    "metro_stations": [
+      {
+        "station_name": "Адмиралтейская",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.258",
+        "line_id": "18",
+        "lat": 59.935867,
+        "lng": 30.31523
+      },
+      {
+        "station_name": "Садовая",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.250",
+        "line_id": "18",
+        "lat": 59.926739,
+        "lng": 30.317753
+      },
+      {
+        "station_name": "Сенная площадь",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.218",
+        "line_id": "15",
+        "lat": 59.927135,
+        "lng": 30.320316
+      }
+    ]
+  },
+  "allow_messages": false,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Полицифра – </strong>российский разработчик ИТ-решений для цифровизации процессов в строительной отрасли и ЖКХ.</p> <p>Мы — команда профессионалов, которая создаёт цифровые решения для компаний Группы <strong>ПОЛИПЛАСТИК</strong>, обеспечивает их стабильность, масштабируемость и готовность к достижению новых горизонтов.</p> <p><strong>В настоящий момент мы усиливаем один из наших цифровых проектов, поэтому ищем в нашу команду PHP разработчика.</strong></p> <p><strong>Наш опыт</strong></p> <p>Полицифра является частью Группы Полипластик и обладает уникальным опытом в реализации сложных и масштабных ИТ-проектов, экспертизой в областях процессного подхода, автоматизации «под ключ», управления нормативно-справочными данными, создания собственных программных продуктов.</p> <p>Ориентируемся на внедрение комплексных решений, повышающих скорость принятия решений на всех уровнях управления компаний и обеспечивающих слаженное взаимодействие всех бизнес-процессов внутри каждого направления деятельности.</p> <p><strong>Наш стек технологий: </strong><em>Laravel 10, PHP 8.2, Postgres, Redis, ELK, Docker, Git, Gitlab, Linux</em></p> <p><strong><strong>Какие задачи предстоит решать</strong></strong></p> <ul> <li>Разработка крупных программных модулей, написание чистого кода (backend);</li> <li>Code Review;</li> <li>Покрытие кода тестами;</li> <li>Грамотная оценка времени, необходимого на решение поставленной задачи.</li> </ul> <p><strong>У нас точно будет <em>match</em>, если у тебя есть</strong></p> <ul> <li>Опыт в web-разработке от 1 года;</li> <li>Опыт разработки сложных систем и модулей;</li> <li>Отличные знания PHP (7, 8), Laravel, MySQL/PostgreSQL;</li> <li>Опыт работы с Redis;</li> <li>Понимание и способность применять на практике: паттерны, SOLID, DRY, KISS, PSR;</li> <li>Базовое понимание DevOps;</li> <li>Опыт работы с высоконагруженными сиcтемами.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li> <p>Работу в стабильной аккредитованной компании;</p> </li> <li> <p>Участие в проектах, которыми пользуются крупные бизнесы и государственные предприятия;</p> </li> <li> <p>В нашей дружной команде вы найдете опытных профессионалов, которые будут готовы помочь, подсказать и поделиться своими знаниями;</p> </li> <li> <p>Полностью белую заработную плату, оформление в соответствии требованиями трудового кодекса;</p> </li> <li> <p>Бонусы от компании (обучение, ДМС);</p> </li> <li> <p>Возможности для профессионального развития;</p> </li> <li> <p>Культуру вовлеченности и возможность предлагать и реализовывать свои идеи;</p> </li> <li> <p>Мы ценим личное общение и хотели бы тебя видеть в офисе, наш уютный офис удобно расположен в центре города, недалеко от метро Адмиралтейская.</p> </li> </ul> <p><br /><strong>Очень ждем вашего отклика! ❤️</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "Laravel"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "Redis"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3291",
+    "name": "Группа Полипластик",
+    "url": "https://api.hh.ru/employers/3291",
+    "alternate_url": "https://hh.ru/employer/3291",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/965302.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5478712.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5478713.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3291",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T09:53:24+0300",
+  "created_at": "2025-06-03T09:53:24+0300",
+  "initial_created_at": "2025-06-03T09:53:24+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121267016",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121267016",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

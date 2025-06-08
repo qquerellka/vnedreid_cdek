@@ -1,0 +1,159 @@
+{
+  "id": "121085145",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Системный администратор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 80000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 80000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "улица Большакова",
+    "building": "70",
+    "lat": 56.818942,
+    "lng": 60.613402,
+    "description": null,
+    "raw": "Екатеринбург, улица Большакова, 70",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Условия:</strong></p> <ul> <li>Работа в офисе категории А, в дружном, увлеченном коллективе.</li> <li>​Оформление согласно ТК.</li> <li>​Полный рабочий день с 10 до 18, пять дней в неделю.</li> <li>Оплачиваемые отпуска, больничные.</li> </ul> <p><strong><em>Мы ищем специалиста, обладающего следующими навыками:</em></strong></p> <ul> <li><strong>Техническое образование</strong></li> <li><strong>Базовые знания операционной системы</strong> Windows 10 Pro — установка, настройка, обновление и устранение неполадок. </li> <li><strong>Сетевые технологии</strong> — понимание работы TCP/IP, DNS, DHCP, VPN и других протоколов, умение настраивать маршрутизаторы и коммутаторы.</li> <li><strong>Умение работать с периферийными устройствами, диагностировать неполадки техники</strong></li> <li><strong>Безопасность</strong> — настройка антивирусного ПО, управление правами доступа, мониторинг безопасности. </li> </ul> <ul> <li><strong>Коммуникация</strong> — умение ясно и доступно объяснять технические вопросы, работать в команде. </li> <li><strong>Тайм-менеджмент</strong> — способность правильно распределять время на задачи и определять приоритетные.</li> </ul> <p><strong>Приветствуются</strong>:</p> <ul> <li><strong>Стрессоустойчивость</strong> — умение сохранять спокойствие и действовать в сложных ситуациях.</li> </ul> <ul> <li><strong>Аналитическое мышление</strong> — умение быстро находить причины технических проблем. </li> <li><strong>Внимательность</strong> — способность не упустить важные детали. </li> <li><strong>Обучаемость</strong> — готовность постоянно развиваться и учиться новому.</li> <li><strong>Ответственность</strong> — выполнение обязанностей вовремя и качественно.</li> <li><strong>Дисциплинированность</strong> — работа по установленным правилам и процедурам.</li> <li><strong>Практический опыт.</strong></li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Настройка ПК"
+    },
+    {
+      "name": "Установка ПО"
+    },
+    {
+      "name": "Настройка роутеров"
+    },
+    {
+      "name": "Настройка почтовых серверов"
+    },
+    {
+      "name": "Обеспечение антивирусной защиты"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "933926",
+    "name": "Ортус-МС",
+    "url": "https://api.hh.ru/employers/933926",
+    "alternate_url": "https://hh.ru/employer/933926",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/997235.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/5609732.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/5609733.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=933926",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T14:08:33+0300",
+  "created_at": "2025-06-06T14:08:33+0300",
+  "initial_created_at": "2025-05-28T14:08:33+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121085145",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121085145",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

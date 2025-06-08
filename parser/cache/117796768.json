@@ -1,0 +1,154 @@
+{
+  "id": "117796768",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Тестировщик ПО (junior)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "Зоологическая улица",
+    "building": "9",
+    "lat": 56.813449,
+    "lng": 60.536623,
+    "description": null,
+    "raw": "Екатеринбург, Зоологическая улица, 9",
+    "metro": {
+      "station_name": "Чкаловская",
+      "line_name": "Север-Юг",
+      "station_id": "48.269",
+      "line_id": "48",
+      "lat": 56.808502,
+      "lng": 60.610698
+    },
+    "metro_stations": [
+      {
+        "station_name": "Чкаловская",
+        "line_name": "Север-Юг",
+        "station_id": "48.269",
+        "line_id": "48",
+        "lat": 56.808502,
+        "lng": 60.610698
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>«ПРОСОФТ-СИСТЕМЫ»</strong> — крупнейшая приборостроительная и инженерная компания на Урале. У нас действительно интересная и важная работа. Наше оборудование и системы применяются на объектах энергетики и промышленных предприятиях по России и в странах СНГ.</p> <p>Сейчас мы ищем <strong>ИНЖЕНЕРА-ТЕСТИРОВЩИКА ПО </strong>в Департамент релейной защиты и противоаварийной автоматики высокого напряжения. <strong>Направление деятельности: </strong>Функциональное, регрессионное и интеграционное тестирование системного и прикладного ПО отдела: устройства релейной защиты и противоаварийной автоматики (МКПА, РЭС-3, ТПА, ИСС). Это оборудование и системы защиты позволяют управлять объектами электроэнергетики в режиме реального времени.</p> <p><strong>МЫ ПРЕДЛАГАЕМ:</strong></p> <ul> <li>Оформление по ТК РФ с первого дня. У нас все по закону, прозрачно и честно,</li> <li>Достойную заработную плату, которая складывается из оклада и квартальных премий,</li> <li>Профессиональную команду, которая поддержит, объяснит и поможет в адаптации,</li> <li>Заботу о здоровье. Мы частично компенсируем ДМС и спортивный абонемент,</li> <li>Внутреннее и внешнее обучение. Возможность расти как в должности, так и в профессиональном мастерстве,</li> <li>Гибкое начало и конец рабочего дня,</li> <li>Активности вне работы. Мы устраиваем походы, сплавы, спортивные мероприятия, вечеринки. И не только!</li> </ul> <p><strong>МЕСТО РАБОТЫ:</strong> г. Екатеринбург, ул. Зоологическая,9.</p> <p><strong>ОСНОВНЫЕ ЗАДАЧИ:</strong></p> <ul> <li> <p>Составлять тест-дизайн, тест кейсы, баг-репорты,</p> </li> <li> <p>Разрабатывать и сопровождать автоматические тесты,</p> </li> <li>Выполнять ручное тестирование оборудования и прикладного ПО департамента,</li> <li>Создавать тестовую документацию.</li> </ul> <p><strong>ПОЖЕЛАНИЯ К КАНДИДАТУ:</strong></p> <ul> <li>Высшее техническое образование,</li> <li> <p>Понимание процесса разработки программного обеспечения, жизненного цикла программного продукта,</p> </li> <li> <p>Умение работать с системой контроля версий Git.</p> </li> </ul> <p><strong>БУДЕТ ПЛЮСОМ: </strong></p> <ul> <li>Оконченные курсы по тестированию,</li> <li>Знание Python, Pytest.</li> </ul>",
+  "branded_description": "\n<style>\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;    \n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n    line-height: inherit;\n    font-family: inherit !important;\n    display: inline;\n    font-weight: bold;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    display: inline;\n    margin: 0;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    overflow: hidden;\n    color: #000;\n    font-family: ProximaNovaCond, 'Proxima Nova Condensed', 'Arial', sans-serif;\n    font-size: 16px;\n    line-height: 140%; \n    z-index: 1;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_content {\n    padding: 45px 50px 39px;\n    position: relative;\n    z-index: 1;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    margin: 32px 0 16px;\n}\n\n.tmpl_hh_content b, \n.tmpl_hh_content strong {\n    display: inline-block;\n    font-size: 22px;\n    font-weight: 600;\n    line-height: normal;\n    text-transform: uppercase;\n}\n\n.tmpl_hh_content i b, \n.tmpl_hh_content i strong,\n.tmpl_hh_content em b, \n.tmpl_hh_content em strong,\n.tmpl_hh_content b em, \n.tmpl_hh_content strong em,\n.tmpl_hh_content b i, \n.tmpl_hh_content strong i {\n    font-weight: 700;\n    font-style: normal;\n    font-size: 16px;\n    line-height: 140%; \n    text-transform: none;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 14px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 10px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 10px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;    \n}\n\n.tmpl_hh_content li:before {\n    position: absolute;\n    left: -14px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"\";\n    width: 4px;\n    height: 4px;\n    border-radius: 50%;\n    top: 10px;\n    background: #000;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter)'.';\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n\n.tmpl_hh_flex {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n}\n\n.tmpl_hh_items.tmpl_hh_flex {\n    margin: 0 50px 0;\n}\n\n.tmpl_hh_item {\n    width: 46%;\n    display: flex;\n    font-size: 14px;\n    line-height: 120%;\n    margin-bottom: 49px;\n    box-sizing: border-box;\n    padding: 0 0 0 0;\n}\n\n.tmpl_hh_item__icon {\n    height: 40px;\n    flex-shrink: 0;\n    width: 63px;\n}\n\n.tmpl_hh_item__icon img {\n    width: auto;\n    height: 100%;\n}\n\n@media screen and (max-width: 1019px) {\n\n}\n\n@media screen and (max-width: 699px) {\n    .tmpl_hh_content {\n        padding: 34px 0px 27px;\n    }\n\n    .tmpl_hh_items.tmpl_hh_flex {\n        margin: 0 0px 16px;\n    }\n\n    .tmpl_hh_item {\n        width: 99%;\n        margin-bottom: 25px;\n    }\n\n    .tmpl_hh_item__icon {\n        height: 40px;\n        flex-shrink: 0;\n        width: 40px;\n        margin-right: 12px; \n    }\n\n    .tmpl_hh_item__icon img {\n        width: 100%;\n        height: auto;\n    }\n}\n</style>\n\n<div class=\"tmpl_hh_wrapper\">\n    <div class=\"tmpl_hh_header\"><img src=\"https://hhcdn.ru/ichameleon/300136.jpg\" alt=\"\"></div>\n    <div class=\"tmpl_hh_content\">\n        <p><strong>«ПРОСОФТ-СИСТЕМЫ»</strong> — крупнейшая приборостроительная и инженерная компания на Урале. У нас действительно интересная и важная работа. Наше оборудование и системы применяются на объектах энергетики и промышленных предприятиях по России и в странах СНГ.</p> <p>Сейчас мы ищем <strong>ИНЖЕНЕРА-ТЕСТИРОВЩИКА ПО </strong>в Департамент релейной защиты и противоаварийной автоматики высокого напряжения. <strong>Направление деятельности: </strong>Функциональное, регрессионное и интеграционное тестирование системного и прикладного ПО отдела: устройства релейной защиты и противоаварийной автоматики (МКПА, РЭС-3, ТПА, ИСС). Это оборудование и системы защиты позволяют управлять объектами электроэнергетики в режиме реального времени.</p> <p><strong>МЫ ПРЕДЛАГАЕМ:</strong></p> <ul> <li>Оформление по ТК РФ с первого дня. У нас все по закону, прозрачно и честно,</li> <li>Достойную заработную плату, которая складывается из оклада и квартальных премий,</li> <li>Профессиональную команду, которая поддержит, объяснит и поможет в адаптации,</li> <li>Заботу о здоровье. Мы частично компенсируем ДМС и спортивный абонемент,</li> <li>Внутреннее и внешнее обучение. Возможность расти как в должности, так и в профессиональном мастерстве,</li> <li>Гибкое начало и конец рабочего дня,</li> <li>Активности вне работы. Мы устраиваем походы, сплавы, спортивные мероприятия, вечеринки. И не только!</li> </ul> <p><strong>МЕСТО РАБОТЫ:</strong> г. Екатеринбург, ул. Зоологическая,9.</p> <p><strong>ОСНОВНЫЕ ЗАДАЧИ:</strong></p> <ul> <li> <p>Составлять тест-дизайн, тест кейсы, баг-репорты,</p> </li> <li> <p>Разрабатывать и сопровождать автоматические тесты,</p> </li> <li>Выполнять ручное тестирование оборудования и прикладного ПО департамента,</li> <li>Создавать тестовую документацию.</li> </ul> <p><strong>ПОЖЕЛАНИЯ К КАНДИДАТУ:</strong></p> <ul> <li>Высшее техническое образование,</li> <li> <p>Понимание процесса разработки программного обеспечения, жизненного цикла программного продукта,</p> </li> <li> <p>Умение работать с системой контроля версий Git.</p> </li> </ul> <p><strong>БУДЕТ ПЛЮСОМ: </strong></p> <ul> <li>Оконченные курсы по тестированию,</li> <li>Знание Python, Pytest.</li> </ul></div>\n    <div class=\"tmpl_hh_items tmpl_hh_flex\">\n        <div class=\"tmpl_hh_item\">\n            <div class=\"tmpl_hh_item__icon\"><img src=\"https://hhcdn.ru/ichameleon/299051.svg\" alt=\"\"></div>\n            <p>У нас стабильная работа. Мы соблюдаем закон и оформляем по ТК РФ с первого дня. Выплачиваем квартальные и годовые премии.</p>\n        </div>\n        <div class=\"tmpl_hh_item\">\n            <div class=\"tmpl_hh_item__icon\"><img src=\"https://hhcdn.ru/ichameleon/299048.svg\" alt=\"\"></div>\n            <p>Один из приоритетов компании — забота о здоровье и благополучии сотрудников. Оформляем полис ДМС в лучших поликлиниках города, компенсируем стоимость спортивного абонемента.</p>\n        </div>\n        <div class=\"tmpl_hh_item\">\n            <div class=\"tmpl_hh_item__icon\"><img src=\"https://hhcdn.ru/ichameleon/299050.svg\" alt=\"\"></div>\n            <p>Работаем в атмосфере взаимоуважения, дружелюбия и помощи. Еще устраиваем походы, сплавы, вечеринки, спортивные мероприятия. Каждый находит мероприятия по интересам.</p>\n        </div>\n        <div class=\"tmpl_hh_item\">\n            <div class=\"tmpl_hh_item__icon\"><img src=\"https://hhcdn.ru/ichameleon/299049.svg\" alt=\"\"></div>\n            <p>У нас работают высококвалифицированные специалисты. Сложные проекты и сильная команда — все, чтобы прокачивать профессиональный интеллект.</p>\n        </div>\n    </div>\n    <div class=\"tmpl_hh_footer\">\n        <picture>\n            <source srcset=\"https://hhcdn.ru/ichameleon/299697.jpg\" media=\"(max-width: 699px)\"></source>\n            <img src=\"https://hhcdn.ru/ichameleon/299696.jpg\" alt=\"\">\n        </picture>\n    </div>\n</div> \n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Тестирование"
+    },
+    {
+      "name": "QA"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Git"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "48478",
+    "name": "Прософт-Системы",
+    "url": "https://api.hh.ru/employers/48478",
+    "alternate_url": "https://hh.ru/employer/48478",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1231372.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6545929.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6545930.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=48478",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-19T09:10:27+0300",
+  "created_at": "2025-05-19T09:10:27+0300",
+  "initial_created_at": "2025-02-27T15:45:22+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=117796768",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/117796768",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

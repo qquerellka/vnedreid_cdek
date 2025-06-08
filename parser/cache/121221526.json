@@ -1,0 +1,126 @@
+{
+  "id": "121221526",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Python Engineer (LLM Evaluation & Analytics Engineer)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li> <p>Автоматизированная валидация промтов</p> </li> </ul> <p>писать на Python скрипты, которые:</p> <p>• берут тестовые сценарии (JSON/CSV);</p> <p>​ • вызывают актуальные промт-инструкции (через API LLM или локальный сервер);</p> <p>​ • сохраняют ответы, метаданные и оценки (rouge/BLEU/LLM-as-judge/ручные метки);</p> <p>​ • формируют отчёты (Markdown/CSV/DB) и алерты при деградации качества;</p> <p>​ • поддерживать пайплайн с дифф-тестами при каждом изменении промта.</p> <ul> <li> <p>Подготовка тестовых датасетов</p> <p>​ • собирать и курировать сценарии (user stories, edge-cases, негативные примеры);</p> <p>​ • анонимизировать, версионировать и документировать выборку.</p> </li> <li> <p>​Аналитические дашборды (Redash)</p> <p>​ • писать SQL-запросы и визуализации;</p> <p>​ • настраивать auto-refresh и рассылку отчётов.</p> </li> <li> <p>Сотрудничество</p> <p>​ • работать с продакт-менеджером и дизайнером промтов;</p> <p>​ • помогать формулировать метрики качества (precision@k, hallucination rate, UX CSAT)</p> </li> </ul> <strong>Требования:</strong> <p>• Python-бэкграунд (3+ года) — асинхронность или multiprocessing, pandas / polars. </p> <p>• Работа с LLM-стеком и промт-инженерией — вызов моделей, управление параметрами температуры, топ-p; понимание RAG-архитектуры и ограничений больших языковых моделей.</p> <p>• Автоматизированная оценка качества модели — разработка скриптов pairwise / LLM-as-Judge, метрики ROUGE / BLEU / BERTScore / hallucination rate, отчёты о деградациях.</p> <p>• Дашборды и аналитика — создание информативных визуализаций.</p> <p>• Английский не ниже B2 — чтение технических статей, ведение переписки и созвонов с международными коллегами.</p> <p><strong>Желательно иметь</strong></p> <p>• опыт с LLM-as-Judge подходами (gpt-4-o scoring и т.д.);</p> <p>• знание Grafana/Prometheus для runtime-метрик;</p> <p>• опыт A/B-экспериментов или онлайн-валидиции моделей.</p> <strong>Условия:</strong> <ul> <li>График работы с 10:00 до 19:00 (гибко, можно обсуждать)</li> <li>Удаленный формат работы </li> <li>Доступ к современным инструментам и технологиям, обучение и профессиональное развитие.</li> <li>Дружелюбная и поддерживающая команда, открытая к инновациям и новым идеям.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Redash"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11218585",
+    "name": "Воронцова Тамара Александровна",
+    "url": "https://api.hh.ru/employers/11218585",
+    "alternate_url": "https://hh.ru/employer/11218585",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11218585",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T13:10:36+0300",
+  "created_at": "2025-06-05T13:10:36+0300",
+  "initial_created_at": "2025-06-02T13:10:36+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121221526",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121221526",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

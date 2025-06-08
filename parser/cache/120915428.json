@@ -1,0 +1,115 @@
+{
+  "id": "120915428",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Разработчик РЭА, электроники/инженер РЭА",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "project",
+    "name": "Проектная работа"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Ищем талантливого Разработчика РЭА!</strong></p> <p>Вы увлечены программированием и хотите применить свои навыки в разработке электроники? Мы ищем именно вас! Присоединяйтесь к нашей команде и работайте над интересными проектами удаленно.</p> <p><strong>Обязанности:</strong></p> <ul> <li>Программирование микроконтроллеров: ESP (GSM/GPRS/HTTP/Wi-fi + telegram bot, FreeRTOS), Arduino на C/C++ в VS Code platformio, Arduino IDE.</li> <li>Работа с интерфейсами и протоколами: UART, I2C, SPI, CAN, RS232.</li> <li>Использование библиотеки LVGL GUI для разработки интерфейсов.</li> <li>Разработка схем и написание программ для ПК на Python.</li> <li>Сборка тестовых стендов и их отладка.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Базовые знания программирования микроконтроллеров и работы с интерфейсами.</li> <li>Умение работать с библиотеками и протоколами.</li> <li>Навыки пайки и отладки оборудования.</li> </ul> <p><strong>Условия и преимущества:</strong></p> <ul> <li>Удаленная работа с гибким графиком.</li> <li>Возможность участия в интересных и инновационных проектах.</li> <li>Поддержка и обучение от опытных коллег.</li> <li>Проектная занятость с возможностью дальнейшего сотрудничества.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "3515036",
+    "name": "Видеоспецсервис",
+    "url": "https://api.hh.ru/employers/3515036",
+    "alternate_url": "https://hh.ru/employer/3515036",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1009357.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5658204.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5658205.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3515036",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-23T15:29:53+0300",
+  "created_at": "2025-05-23T15:29:53+0300",
+  "initial_created_at": "2025-05-23T15:29:53+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120915428",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120915428",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "PROJECT",
+    "name": "Проект или разовое задание"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FLEXIBLE",
+      "name": "Свободный"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "FLEXIBLE",
+      "name": "По договорённости"
+    }
+  ],
+  "show_logo_in_search": null
+}

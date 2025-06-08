@@ -1,0 +1,170 @@
+{
+  "id": "119600668",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Тестировщик ПО",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 40000,
+    "to": 70000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 40000,
+    "to": 70000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "улица Долорес Ибаррури",
+    "building": "2/4",
+    "lat": 56.840316,
+    "lng": 60.569456,
+    "description": null,
+    "raw": "Екатеринбург, улица Долорес Ибаррури, 2/4",
+    "metro": {
+      "station_name": "Площадь 1905 года",
+      "line_name": "Север-Юг",
+      "station_id": "48.266",
+      "line_id": "48",
+      "lat": 56.837982,
+      "lng": 60.59734
+    },
+    "metro_stations": [
+      {
+        "station_name": "Площадь 1905 года",
+        "line_name": "Север-Юг",
+        "station_id": "48.266",
+        "line_id": "48",
+        "lat": 56.837982,
+        "lng": 60.59734
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>ООО СИТИС - компания, занимающаяся разработкой ПО для инженерных расчетов и компьютерного моделирования. В связи с расширением штата в компанию Ситис требуется тестировщик программного обеспечения</p> <p> </p> <p><strong>Обязанности:</strong></p> <ul> <li>Обязанности: Тестирование программного обеспечения для настольных компьютеров и мобильных устройств</li> <li>Работа в группе разработки новых программных продуктов</li> </ul> <strong>Требования:</strong> <ul> <li> <p>Высшее (бакалавр, магистр) - профильное, среднее специальное-профильное</p> </li> <li> <p>Знание основ разработки программ</p> </li> <li> <p>опыт работы не обязателен</p> </li> <li> <p>Умение работать в команде.</p> </li> </ul> <strong>Условия:</strong> <ul> <li> <p>Трудоустройство согласно ТК РФ</p> </li> <li> <p>Пятидневная рабочая неделя</p> </li> <li> <p>Работа в офисе компании</p> </li> <li> <p>Стабильная зарплата без задержек</p> </li> <li> <p>Стандартный соцпакет</p> </li> <li> <p>Дружный коллектив</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Аналитические способности"
+    },
+    {
+      "name": "MS Access"
+    },
+    {
+      "name": "Многозадачность"
+    },
+    {
+      "name": "Microsoft Access"
+    },
+    {
+      "name": "XMind"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "740482",
+    "name": "СИТИС",
+    "url": "https://api.hh.ru/employers/740482",
+    "alternate_url": "https://hh.ru/employer/740482",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=740482",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-13T14:43:25+0300",
+  "created_at": "2025-05-13T14:43:25+0300",
+  "initial_created_at": "2025-04-16T16:12:10+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119600668",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119600668",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

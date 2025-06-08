@@ -1,0 +1,150 @@
+{
+  "id": "110840156",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Ведущий разработчик 1С",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 230000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 230000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": 54.929304620427516,
+    "lng": 82.81471524075316,
+    "description": null,
+    "raw": "поселок Красный Восток, Советская улица 1/1",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><em>У нас в самом сердце Сибири не только морозы, медведи и просторы, но и люди с внутренней силой, упорством и теплым отношением к окружающим. <strong>Сибирский Гурман больше, чем просто бизнес.</strong> Мы - команда увлеченных людей, создающая вкусный продукт. <strong>Открой Сибирь с нами!</strong></em></p> <p>Нас более чем 1000 человек и все мы объединены одной общей миссией. И сейчас мы в поисках <strong><em>ведущего разработчика 1С</em> </strong>на внутренний проект!</p> <p><strong>В круг твоих обязанностей войдет:</strong></p> <p><em>Участие в проекте внедрения ПО в качестве IT-эксперта</em></p> <ul> <li>Взаимодействие с внутренним заказчиком, сбор требований;</li> <li>Взаимодействие с внешним интегратором, согласование и оформление требования;</li> <li>Прием, контроль и реализация задач;</li> <li>Написание и ревью кода;</li> <li>Внедрение и сопровождение реализованных процессов, контроль работоспособности в процессе эксплуатации.</li> </ul> <p> </p> <p><strong>От тебя мы ждем:</strong></p> <ul> <li>Знание типовых конфигураций и понимание клиент-серверной архитектуры;</li> <li>Умение работать с хранилищем конфигурации 1С и с расширениями;</li> <li>Опыт написание обменов HTTP, web-сервисов, FTP;</li> <li>Опыт разработки мобильных приложений на мобильной платформе 1С;</li> <li>Знание СКД, КД, БСП, XDTO;</li> <li>Опыт работы с тех.документацией и её написания;</li> <li>Опыт ревью чужого кода.</li> </ul> <p><em>Участие в реализации крупных проектов уровня ERP - твое преимущество </em></p> <p> </p> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Официальное &quot;белое&quot; трудоустройство, бессрочный договор;</li> <li>График работы 5/2 с 8:00 до 17:00, по пятницам до 16:00;</li> <li>Гибридный формат работы;</li> <li>Возможность квартального премирования;</li> <li>Бесплатный служебный транспорт по левому берегу;</li> <li>Корпоративное обучение;</li> <li>ДМС;</li> <li>Спортивные активности и мероприятия;</li> <li>Скидки и бонусы на продукцию компании;</li> <li>Парковка и собственная столовая на территории предприятия.</li> </ul> <p><em>С нетерпением ждем знакомства! <strong>Оставляй отклик</strong> и мы свяжемся с тобой в ближайшее время! </em></p> <p> </p> <ul> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": {
+    "id": 45345,
+    "name": "Брендированный шаблон 1",
+    "top_picture": {
+      "height": 840,
+      "width": 2310,
+      "path": "https://img.hhcdn.ru/branding-pictures/3126389.jpeg",
+      "blurred_path": null
+    },
+    "bottom_picture": {
+      "height": 704,
+      "width": 1540,
+      "path": "https://img.hhcdn.ru/branding-pictures/3123550.png",
+      "blurred_path": null
+    }
+  },
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "51137",
+    "name": "Сибирский Гурман, КП",
+    "url": "https://api.hh.ru/employers/51137",
+    "alternate_url": "https://hh.ru/employer/51137",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1381512.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7145843.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7145844.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=51137",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-23T05:06:18+0300",
+  "created_at": "2025-05-23T05:06:18+0300",
+  "initial_created_at": "2024-11-13T08:07:42+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=110840156",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/110840156",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

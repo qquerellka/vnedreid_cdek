@@ -1,0 +1,120 @@
+{
+  "id": "120460386",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист ручного тестирования",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "улица Ленинская Слобода",
+    "building": "19с6",
+    "lat": 55.707547,
+    "lng": 37.651169,
+    "description": null,
+    "raw": "Москва, улица Ленинская Слобода, 19с6",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Обязанности</strong></p> <ul> <li>Составление тест-планов и тест-кейсов;</li> <li>Функциональное/ Регрессионное тестирование;</li> <li>Тестирование Web-приложений;</li> <li>Тестирование корпоративного программного обеспечения;</li> <li>Моделирование ситуаций, приводящих к ошибкам;</li> <li>Диагностика ошибок;</li> <li>Классификация ошибок и заведение их в багтрекер;</li> <li>Взаимодействие с разработчиками, аналитиками.</li> </ul> <p><strong>Требования</strong></p> <p>Обязательно:</p> <ul> <li>Понимание основных принципов работы и технологий HTTP, REST, JSON, XML;</li> <li>Понимание принципа работы реляционных баз данных начального/среднего уровня, языка запросов SQL, PL/SQL;</li> <li>Понимание принципа работы web языков программирования (PHP, Javascript);</li> <li>Знание теории, принципов и методологии тестирования;</li> <li>Тест-дизайн;</li> <li>Опыт написания тест-кейсов;</li> <li>Понимание цикла разработки ПО;</li> <li>Опыт ручного тестирования программного обеспечения;</li> <li>Опыт работы с баг-трекинг системами;</li> <li>Способность выявлять уязвимые места систем, способность к поиску дефектов.</li> </ul> <p>Желательные профессиональные навыки:</p> <ul> <li>Знание любого скриптового языка;</li> <li>Работа со средствами защиты информации.</li> </ul> <p>Знание иностранных языков: Английский (технический).</p> <p> </p> <p><strong>Условия</strong></p> <ul> <li>Гибридный/удаленный формат работы;</li> <li>График работы 5/2 с 9.00 до 18.00, сокращенный рабочий день в пятницу до 16.45;</li> <li>Оформление на постоянной основе согласно ТК РФ;</li> <li>Конкурентная заработная плата + система мотивации;</li> <li>Программа лояльности для сотрудников компании (корпоративные скидки на страховые продукты, ДМС, фитнес, путешествия и многое другое);</li> <li>Корпоративное обучение;</li> <li>Электронная библиотека;</li> <li>Корпоративные мероприятия (тимбилдинги, подарки для сотрудников и их детей);</li> <li>Спортивные мероприятия (футбол, беговые события).</li> </ul>",
+  "branded_description": "\n<style>\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;    \n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-weight: normal;\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    display: inline;\n    margin: 0;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    overflow: hidden;\n    font-family: 'Verdana';\n    font-size: 14px;\n    line-height: 20px;\n    color: #000;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n}\n\n.tmpl_hh_content {\n    position: relative;\n    padding: 50px 40px 37px;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    margin: 30px 0 16px;\n}\n\n.tmpl_hh_content b, \n.tmpl_hh_content strong {\n    display: inline-block;\n    font-weight: bold;\n    font-size: 18px;\n    line-height: 24px;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    text-indent: 23px;\n    margin-bottom: 12px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 12px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;    \n}\n\n.tmpl_hh_content li:before {\n    position: absolute;\n    left: -23px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"—\";\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter)'.';\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n\n.tmpl_hh_flex {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n}\n\n.tmpl_hh_header {\n    position: relative;\n    padding: 14.7% 40px 14.7%;\n}\n\n.tmpl_hh_header:before {\n    content: \"\";\n    background: linear-gradient(360deg, rgba(65, 182, 230, 0.1) 0%, rgba(65, 182, 230, 0) 100%);\n    width: 100%;\n    height: 65%;\n    bottom: 0;\n    left: 0;\n    position: absolute;\n}\n\nimg.tmpl_hh_header__umbrella {\n    position: absolute;\n    right: 0;\n    width: 46.5%;\n    bottom: 0px;\n}\n\np.tmpl_hh_header__slogan b {\n    font-size: 22px;\n    line-height: 125%;\n    color: #005596;\n    display: block;\n    margin-bottom: 12px;\n}\n\n.tmpl_hh_slogan {\n    background: linear-gradient(180deg, rgba(65, 182, 230, 0.1) 0%, rgba(65, 182, 230, 0) 100%);\n    font-weight: bold;\n    font-size: 22px;\n    line-height: 30px;\n    text-align: center;\n    color: #005596;\n    padding: 51px 0 47px;\n}\n\n.tmpl_hh_photo__item {\n    width: 33.33%;\n}\n\n.tmpl_hh_photo__item img {\n    width: calc(100% + 1px);\n}\n\n@media screen and (max-width: 699px) {\n    .tmpl_hh_header {\n        padding: 13.5% 9px 13.7%;\n    } \n\n    .tmpl_hh_header:before {\n        height: 80%;\n    }\n\n    p.tmpl_hh_header__slogan {\n        width: 55%;\n    }\n\n    p.tmpl_hh_header__slogan b {\n        font-size: 18px;\n        line-height: 22px;\n        margin-bottom: 12px;\n    }    \n\n    img.tmpl_hh_header__umbrella {\n        right: -101px;\n        width: auto;\n        height: 87.7%;\n        bottom: 1px;\n    }    \n\n    .tmpl_hh_content {\n        padding: 36px 10px 28px;\n    }\n\n    .tmpl_hh_slogan {\n        font-size: 18px;\n        line-height: 24px;\n        padding: 35px 5px 36px;\n    }\n\n    .tmpl_hh_photo__item {\n        width: 100%;\n    }\n}\n\n\n</style>\n\n\n<div class=\"tmpl_hh_wrapper\">\n    <div class=\"tmpl_hh_header\">\n        <p class=\"tmpl_hh_header__slogan\"><b>Ознакомьтесь<br> с описанием вакансии </b> Заинтересовали — <br>оставьте свой отклик!</p>\n        <img class=\"tmpl_hh_header__umbrella\" src=\"https://hhcdn.ru/ichameleon/181588.png\" alt=\"\">\n    </div>\n    <div class=\"tmpl_hh_content\">\n        <p><strong>Обязанности</strong></p> <ul> <li>Составление тест-планов и тест-кейсов;</li> <li>Функциональное/ Регрессионное тестирование;</li> <li>Тестирование Web-приложений;</li> <li>Тестирование корпоративного программного обеспечения;</li> <li>Моделирование ситуаций, приводящих к ошибкам;</li> <li>Диагностика ошибок;</li> <li>Классификация ошибок и заведение их в багтрекер;</li> <li>Взаимодействие с разработчиками, аналитиками.</li> </ul> <p><strong>Требования</strong></p> <p>Обязательно:</p> <ul> <li>Понимание основных принципов работы и технологий HTTP, REST, JSON, XML;</li> <li>Понимание принципа работы реляционных баз данных начального/среднего уровня, языка запросов SQL, PL/SQL;</li> <li>Понимание принципа работы web языков программирования (PHP, Javascript);</li> <li>Знание теории, принципов и методологии тестирования;</li> <li>Тест-дизайн;</li> <li>Опыт написания тест-кейсов;</li> <li>Понимание цикла разработки ПО;</li> <li>Опыт ручного тестирования программного обеспечения;</li> <li>Опыт работы с баг-трекинг системами;</li> <li>Способность выявлять уязвимые места систем, способность к поиску дефектов.</li> </ul> <p>Желательные профессиональные навыки:</p> <ul> <li>Знание любого скриптового языка;</li> <li>Работа со средствами защиты информации.</li> </ul> <p>Знание иностранных языков: Английский (технический).</p> <p> </p> <p><strong>Условия</strong></p> <ul> <li>Гибридный/удаленный формат работы;</li> <li>График работы 5/2 с 9.00 до 18.00, сокращенный рабочий день в пятницу до 16.45;</li> <li>Оформление на постоянной основе согласно ТК РФ;</li> <li>Конкурентная заработная плата + система мотивации;</li> <li>Программа лояльности для сотрудников компании (корпоративные скидки на страховые продукты, ДМС, фитнес, путешествия и многое другое);</li> <li>Корпоративное обучение;</li> <li>Электронная библиотека;</li> <li>Корпоративные мероприятия (тимбилдинги, подарки для сотрудников и их детей);</li> <li>Спортивные мероприятия (футбол, беговые события).</li> </ul></div>   \n    <div class=\"tmpl_hh_slogan\">\n       Присоединяйтесь к нашей дружной команде!\n    </div>\n    <div class=\"tmpl_hh_photo tmpl_hh_flex\">\n        <div class=\"tmpl_hh_photo__item\"><img src=\"https://hhcdn.ru/ichameleon/181586.jpg\" alt=\"\"></div>\n        <div class=\"tmpl_hh_photo__item\"><img src=\"https://hhcdn.ru/ichameleon/181585.jpg\" alt=\"\"></div>\n        <div class=\"tmpl_hh_photo__item\"><img src=\"https://hhcdn.ru/ichameleon/181587.jpg\" alt=\"\"></div>\n    </div>\n</div>\n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4431705",
+    "name": "Абсолют Страхование",
+    "url": "https://api.hh.ru/employers/4431705",
+    "alternate_url": "https://hh.ru/employer/4431705",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/798518.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3634959.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3634960.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4431705",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-13T11:05:46+0300",
+  "created_at": "2025-05-13T11:05:46+0300",
+  "initial_created_at": "2025-05-13T11:05:46+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120460386",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120460386",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

@@ -1,0 +1,120 @@
+{
+  "id": "121312787",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Разработчик БД (PostgreSQL)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><em><strong>Про нас:</strong></em></p> <p><em>Мы – ООО Парадокс, входим в группу компаний «КОНСОМ ГРУПП». Мы занимаемся созданием информационных систем для промышленных предприятий.</em></p> <p><em>Наши основные направления – металлургия и горно-добывающая промышленность. Среди наших заказчиков крупные промышленные предприятия России и СНГ. В нашей команде более 50 специалистов. Это разработчики и аналитики. </em></p> <p> </p> <p><strong>Что нужно делать:</strong></p> <ul> <li>Участвовать в разработке и сопровождении серверной части приложений, API;</li> <li>Участвовать в разработка и сопровождении клиентской части приложений;</li> <li>Выполнять работы по интеграции с различными сторонними информационными системами.</li> </ul> <p><strong>От Вас ожидаем:</strong></p> <ul> <li>Уверенное знание реляционных БД;</li> <li>Уверенное знание SQL;</li> <li>Опыт работы с PostgreSQL;</li> <li>Знание принципов ООП, MVC;</li> <li>Опыт командной работы, опыт работы с Git, Jira.</li> </ul> <p><strong>Будет полезно:</strong></p> <ul> <li>Опыт проектирования баз данных;</li> <li>Опыт составления и профилирования сложных запросов БД;</li> <li>Навык работы с событийной архитектурой (асинхронная система);</li> <li>Опыт работы с Odatа.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li> <p>Полный рабочий день / частичная занятость;</p> </li> <li>Гибридный режим работы: удаленно / в офисе;</li> <li>Возможны командировки по России и миру.</li> </ul> <p> </p> <p><strong>Заработная плата по результатам собеседования</strong></p> <p> </p> <p> </p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Английский язык"
+    },
+    {
+      "name": "Atlassian Confluence"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2386981",
+    "name": "Парадокс",
+    "url": "https://api.hh.ru/employers/2386981",
+    "alternate_url": "https://hh.ru/employer/2386981",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2386981",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T06:46:15+0300",
+  "created_at": "2025-06-04T06:46:15+0300",
+  "initial_created_at": "2025-06-04T06:46:15+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121312787",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121312787",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "id": "120634544",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Backend-разработчик (Python)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "76",
+    "name": "Ростов-на-Дону",
+    "url": "https://api.hh.ru/areas/76"
+  },
+  "salary": {
+    "from": null,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Ростов-на-Дону",
+    "street": "улица Города Волос",
+    "building": "6",
+    "lat": 47.22728,
+    "lng": 39.706057,
+    "description": null,
+    "raw": "Ростов-на-Дону, улица Города Волос, 6",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><em><strong>Webdev</strong></em> — большая команда разработчиков. Мы ведём проекты для заказчиков и параллельно развиваем свои продукты.</p> <p>Один из них — система хранения данных с веб-интерфейсом и логикой, которая напрямую взаимодействует с аппаратной частью серверного оборудования. Работа над проектом требует инженерного подхода, понимания сетевых протоколов, архитектуры систем хранения и взаимодействия с реальным &quot;железом&quot;.<br />Это не просто веб-приложение — мы разрабатываем технологически сложную систему, которая напрямую управляет инфраструктурой хранения данных.</p> <p>Мы ищем <strong>backend-разработчика</strong> в нашу команду для выполнения следующих задач:</p> <ul> <li>Разработка backend-сервиса на Python с использованием FastAPI для управления хранилищем данных;</li> <li>Подключение и настройка работы с сетевыми хранилищами и протоколами доступа к ним (например, сетевые папки, удалённые диски и т.п.);</li> <li>Работа с файловой системой ZFS: необходимо следить за скоростью работы, настраивать использование дисков и сетей;</li> <li>Участие в проработке архитектуры системы и в выборе технических решений.</li> </ul> <p><strong>Что мы от вас ожидаем:</strong></p> <ul> <li>Знания Python и опыт разработки REST API, Webhooks;</li> <li>Опыт работы с Linux, понимание работы ОС на уровне файловых систем и сетей;</li> <li>Понимание работы сетевых протоколов IP TCP/UDP;</li> <li>Использование Docker для контейнеризации приложений;</li> <li>Опыт работы с Linux Centos, R-HEL, Rocky Linux, Debian,Ubuntu, работа с оборудованием и настройками оборудования в окружении Linux (Настройка сети, драйверов и т.п);</li> <li>Опыт работы с системными утилитами Linux (Grep,awk и т.п);</li> <li>Умение работать с базами данных (PostgreSQL);</li> <li>Работа с Git;</li> <li>Работа с библиотеками (Fastapi, Redis, Celery).</li> </ul> <p><strong>Будет безусловным плюсом:</strong></p> <ul> <li>Опыт работы c BASH;</li> <li>Понимание работы кластеризации и технологий высокой доступности;</li> <li>Опыт работы с серверным оборудованием: сервера, коммутаторы;</li> <li>Понимание протоколов iSCSI, Fiber Channel, NFS и т.п;</li> <li>Базовые понятия о ZFS, опыт работы с ZFS или подобными продуктами.</li> </ul> <p> </p> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Непрерывное развитие и изучение новых технологий в процессе работы;</li> <li>Абсолютно прозрачные перспективы роста;</li> <li>Гибкое утро с 8:00 до 10:00;</li> <li>Трудоустройство по ТК РФ в аккредитованной IT-компании;</li> <li>Оплата обучения, посещения конференций;</li> <li>Ежегодный пересмотр зарплаты по мере роста навыков и уровня выполняемых задач;</li> <li>Насыщенная корпоративная жизнь (корпоративы, внутренние мероприятия, праздники для сотрудников, внутренние турниры и конкурсы, подарки для сотрудников и их детей)</li> <li>Годовые премии;</li> <li>Психологическая и юридическая поддержка (штатный юрист и психолог);</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "FastAPI"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1565051",
+    "name": "ФГАНУ НИИ Спецвузавтоматика",
+    "url": "https://api.hh.ru/employers/1565051",
+    "alternate_url": "https://hh.ru/employer/1565051",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1402980.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7231592.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7231593.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1565051",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T11:55:41+0300",
+  "created_at": "2025-06-06T11:55:41+0300",
+  "initial_created_at": "2025-05-16T13:49:20+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120634544",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120634544",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,163 @@
+{
+  "id": "120418950",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Программист микроконтроллеров С++",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 100000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "улица Тургенева",
+    "building": "13",
+    "lat": 56.841729,
+    "lng": 60.613464,
+    "description": null,
+    "raw": "Екатеринбург, улица Тургенева, 13",
+    "metro": {
+      "station_name": "Динамо",
+      "line_name": "Север-Юг",
+      "station_id": "48.265",
+      "line_id": "48",
+      "lat": 56.847818,
+      "lng": 60.599406
+    },
+    "metro_stations": [
+      {
+        "station_name": "Динамо",
+        "line_name": "Север-Юг",
+        "station_id": "48.265",
+        "line_id": "48",
+        "lat": 56.847818,
+        "lng": 60.599406
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Компания ООО «НЬЮЛИНК» (г. Екатеринбург) специализируется<br />на разработке, изготовлении и модернизации различных типов беспилотных летательных аппаратов, бортовых радиоэлектронных систем, сервоприводов и наземного оборудования.</p> <p>Организация является резидентом инновационного центра «Сколково», Федерального центра Беспилотных Авиационных Систем, Фонда Национальной Технологической Инициативы.</p> <p>Конструкторское бюро компании представляет собой коллектив штатной численностью более 50 высококвалифицированных конструкторов и разработчиков в области авиации, робототехники, программирования.<br />Мы располагаем собственным участком производства полного цикла.</p> <p>В связи с расширением штата – ищем в команду разработчика ПО для микроконтроллеров. Мы сами разрабатываем полётные контроллеры на базе stm32, сами пишем ПО для них и для наземных станций.</p> <p><strong>Что мы предлагаем:</strong><br />- Официальное трудоустройство,<br />- График 5/2,<br />- Комфортный офис в центре города,<br />- Индексацию заработной платы согласно выполняемым задачам,<br />- Работу в команде профессионалов с уникальным опытом.<br />Обязанности:<br />- Участие в разработке ПО для полётных контролеров на базе stm32:<br />* Реализация вычислительного процесса<br />* Реализация обмена с датчиками и периферией<br />* Разработка полётных алгоритмов<br /><strong>Требования:</strong><br />- знание с++ на уровне middle<br />- умение работать с git<br />- работа в команде и самостоятельность<br />- умение разрабатывать ПО для микроконтроллеров stm32, опыт работы в STM32CubeIDE и STM32CubeMX<br />- умение работать с интерфейсами RS232/422/485, Ethernet и т.п.<br />- знание схемотехники и основ радиоэлектроники<br /><strong>Приветствуется:</strong><br />- знание Qt/Qml и опыт разработки на нём<br />- умение работать с UNIX/Linux<br />Найдём применение ещё и таким навыкам как:<br />- знание Matlab/Matlab Simulink<br />- знание законов управления ЛА</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "C++"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9595993",
+    "name": "Ньюлинк",
+    "url": "https://api.hh.ru/employers/9595993",
+    "alternate_url": "https://hh.ru/employer/9595993",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1424412.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7317297.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7317298.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9595993",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-12T15:12:26+0300",
+  "created_at": "2025-05-12T15:12:26+0300",
+  "initial_created_at": "2025-05-12T15:12:26+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120418950",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120418950",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

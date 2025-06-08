@@ -1,0 +1,159 @@
+{
+  "id": "121016543",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Младший системный аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 80000,
+    "to": 105000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 80000,
+    "to": 105000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Аптекарский переулок",
+    "building": "4",
+    "lat": 55.767874,
+    "lng": 37.674687,
+    "description": null,
+    "raw": "Москва, Аптекарский переулок, 4",
+    "metro": {
+      "station_name": "Бауманская",
+      "line_name": "Арбатско-Покровская",
+      "station_id": "3.17",
+      "line_id": "3",
+      "lat": 55.772405,
+      "lng": 37.67904
+    },
+    "metro_stations": [
+      {
+        "station_name": "Бауманская",
+        "line_name": "Арбатско-Покровская",
+        "station_id": "3.17",
+        "line_id": "3",
+        "lat": 55.772405,
+        "lng": 37.67904
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Мы — растущая аккредитованная IT-компания ООО &quot;АБР Тех&quot; (дочернее предприятие АО «Акционерного Банка «РОССИЯ»), занимаемся разработкой программных продуктов нового поколения для крупнейших российских предприятий («Газпром межрегионгаз», Группа «Интер РАО», «МосОблЕИРЦ» и другие). Мы предлагаем стабильность и поддержку надежного банка, а также возможности для профессионального роста в динамичной и дружной команде.</p> <p><strong>Обязанности</strong></p> <ul> <li>Анализ поступающих требований, согласование требований с заказчиком;</li> <li>Обследование, визуализация и описание бизнес-процессов заказчика;</li> <li>Моделирование предметной области, проектирование и описание логической модели БД;</li> <li>Разработка проектной документации;</li> <li>Участие в разработке и согласовании проектных решений;</li> <li>Постановка задач для разработчиков;</li> <li>Участие в процессе сдачи работ заказчику.</li> </ul> <p><strong>Требования</strong></p> <ul> <li>Опыт работы в роли аналитика от 1 года.</li> <li>Высшее техническое образование/Неоконченное высшее образование.</li> <li>Желателен опыт разработки функциональных требований, технических заданий, иной проектной документации.</li> <li>Желателен опыт разработки требований к интеграции систем (REST, SOAP).</li> <li>Владение нотациями UML, BPMN.</li> <li>Желателен опыт работы с ER-диаграммами.</li> <li>Знание SQL на уровне написания запросов к базе данных.</li> </ul> <p><strong>Условия</strong></p> <ul> <li>Оформление по ТК РФ</li> <li>Испытательный срок 3 месяца</li> <li>Заработная плата от 80 000 - 105 000 рублей (в зависимости от уровня квалификации)</li> <li>Квартальные премии (30% от зп), годовая премия (100% от зп)</li> <li>ДМС, йога</li> <li>График работы 5/2 с 9.00-18.00 либо с 10.00-19.00</li> <li>Офис в районе м. Бауманская</li> <li>Отличные возможности для раскрытия потенциала и профессионального развития в стабильной компании</li> <li>Возможность гибридного графика (после испытательного срока)</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "148",
+      "name": "Системный аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1855221",
+    "name": "АБР Тех",
+    "url": "https://api.hh.ru/employers/1855221",
+    "alternate_url": "https://hh.ru/employer/1855221",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/521625.png",
+      "90": "https://img.hhcdn.ru/employer-logo/2527977.png",
+      "240": "https://img.hhcdn.ru/employer-logo/2527978.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1855221",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-27T10:16:50+0300",
+  "created_at": "2025-05-27T10:16:50+0300",
+  "initial_created_at": "2025-05-27T10:16:50+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121016543",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121016543",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

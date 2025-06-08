@@ -1,0 +1,162 @@
+{
+  "id": "120576423",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 270000,
+    "to": 350000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 270000,
+    "to": 350000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong><br />- Сбор и обработка требований от заказчиков, взаимодействие с ними для уточнения деталей; - Создание функциональных и нефункциональных требований к сервисам;<br />- Разработка логических и физических моделей данных для различных типов баз данных;<br />- Формирование технических заданий для разработчиков;<br />- Создание схем потоков данных, диаграмм последовательности операций и другой технической документации.</p> <p><br /><strong>Требования:</strong><br />- Глубокое понимание процессов разработки программного обеспечения и ключевых принципов микросервисной архитектуры;<br />- Опыт работы с производственными базами данных и отличное знание SQL;<br />- Способность формировать требования исходя из текущих бизнес-процессов, а не исключительно технической составляющей;<br />- Опыт в QA;<br />- Понимание методологий и видов тестирования;<br />- Опыт разработки тест-кейсов;<br />- Знание json и xsd (приветствуется опыт работы с OpenAPI);<br />- Знание BPMN и UML;<br />- Использование GitLab CI/CD для автоматизации сборки и развертывания приложения</p> <p><br /><strong>Условия:</strong></p> <p>- Официальное трудоустройство (ТК), возможна работа с ИП.<br />- Гибкий график / удалённая работа, технику предоставляет заказчик.<br />- Конкурентная заработная плата, окладная часть - 250 тыс рублей, KPI по итогу закрытия часов.<br />- Льготная IT-ипотека.<br />- Отсрочка от армии для военнообязанных.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Микросервисная архитектура"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "QA"
+    },
+    {
+      "name": "JSON"
+    },
+    {
+      "name": "Xsd"
+    },
+    {
+      "name": "BPMN"
+    },
+    {
+      "name": "UML"
+    },
+    {
+      "name": "GitLab CI"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "148",
+      "name": "Системный аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "9583348",
+    "name": "САП КОД",
+    "url": "https://api.hh.ru/employers/9583348",
+    "alternate_url": "https://hh.ru/employer/9583348",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1103483.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6034545.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6034546.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9583348",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-15T11:07:24+0300",
+  "created_at": "2025-05-15T11:07:24+0300",
+  "initial_created_at": "2025-05-15T11:07:24+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120576423",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120576423",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    },
+    {
+      "id": "FLEXIBLE",
+      "name": "По договорённости"
+    }
+  ],
+  "show_logo_in_search": null
+}

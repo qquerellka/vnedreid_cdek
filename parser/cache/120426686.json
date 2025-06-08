@@ -1,0 +1,133 @@
+{
+  "id": "120426686",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "DevOps-инженер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 250000,
+    "to": 300000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 250000,
+    "to": 300000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>ЦЕНТРОФИНАНС </strong>крупная финансовая компания.</p> <p>Наша компания работает как одна команда. Мы вместе создаем цели и движемся к ним. В нашей работе мы ориентированы на долгосрочное сотрудничество как с нашими клиентами, так и с сотрудниками.</p> <p>В свою команду ищем Devops инженера, для поддержания архитектуры проекта и внедрения новых решений.</p> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Официальное оформление в аккредитованную IT-компанию;</li> <li>Белую заработную плату;</li> <li>Удаленный формат работы. Мы считаем удаленных сотрудников полноценными участниками команды, а не внешними подрядчиками;</li> <li>Необходимую для работы технику;</li> <li>Оплата обучения (курсы, конференции, литература);</li> <li>Дружелюбную атмосферу и команду, отсутствие формальностей, высокий уровень горизонтальных связей;</li> <li>Частичную компенсацию занятий спортом;</li> <li>Бесплатную помощь от экспертов компании: психолог, юрист, финансовый консультант;</li> <li>Возможность развиваться в интересующем направлении. Мы учитываем интересы сотрудников при распределении задач, ротациях между командами и предоставляем возможности для горизонтальной и вертикальной мобильности в компании.</li> </ul> <p><strong>Ваши задачи:</strong></p> <ul> <li>Обеспечение бесперебойной работы сервисов компании (веб приложения, микросервисы);</li> <li>Автоматизация процессов разработки и CI/CD;</li> <li>Развитие систем мониторинга инфраструктуры/сервисов и сбора логов;</li> <li>Развитие продуктивных и тестовых сред исполнения.</li> </ul> <p><strong>Стек:</strong></p> <ul> <li>Платформа: Kubernetes;</li> <li>CI/CD: Gitlab;</li> <li>БД: Postgresql + MongoDB;</li> <li>Язык: Python;</li> <li>Мониторинг: Elastic + Graylog + Grafana + Prometheus.</li> </ul>",
+  "branded_description": "\n<style type=\"text/css\">\n.tmplt_hh {\n    width: 100%;\n    margin: 0 auto;\n    overflow: hidden;\n    font-family: Arial, sans-serif;\n   \n}\n\n.tmplt_hh-clearfix:before,\n.tmplt_hh-clearfix:after {\n    content: \"\";\n    display: table;\n}\n\n.tmplt_hh-clearfix:after {\n    clear: both;\n}\n\n.tmplt_hh p,\n.tmplt_hh a,\n.tmplt_hh img,\n.tmplt_hh ol,\n.tmplt_hh ul,\n.tmplt_hh li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.tmplt_hh ul,\n.tmplt_hh ul ul {\n    list-style: none;\n}\n\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmplt_hh .l-cell,\n.tmplt_hh .l-paddings {\n    padding: 0px;\n}\n\n.tmplt_hh .b-vacancy-desc,\n.tmplt_hh .l-paddings {\n    line-height: inherit;\n}\n\n.tmplt_hh-content ol li b,\n.tmplt_hh-content ol li strong,\n.tmplt_hh-content ol li p b,\n.tmplt_hh-content ol li p strong,\n.tmplt_hh-content ul li b,\n.tmplt_hh-content ul li strong,\n.tmplt_hh-content ul li p b,\n.tmplt_hh-content ul li p strong {\n    font-weight: bold;\n    font-size: inherit!important;\n    line-height: inherit!important;\n    color: inherit!important;\n    margin: 0!important;\n    padding: 0!important;\n    background: none!important;\n    display: inline!important;\n    text-transform: none;\n}\n\n.tmplt_hh-content ol li p,\n.tmplt_hh-content ul li p {\n    font-weight: normal!important;\n    margin: 0!important;\n}\n\n.tmplt_hh-content p b,\n.tmplt_hh-content p strong {\n    display: inline!important;\n    margin: 0!important;\n}\n\n.tmplt_hh-logo {\n    position: relative;\n}\n\n.tmplt_hh-logo img,\n.tmplt_hh-bot img {\n    width: 100%;\n    display: block;\n}\n\n.tmplt_hh-logo p {\n    position: absolute;\n    color: #fff;\n    text-transform: uppercase;\n    letter-spacing: 1.2px;\n    font-weight: bold;\n   font-size: 16px;\n    line-height: 24px;\n   top: 49px;\n    left: 112px;\n}\n\n\n/* Styles content */\n\n.tmplt_hh-content {\n    padding: 11px 5.55% 0;\n    box-sizing: border-box;\n    margin: 0 auto;\n    color: #111111;\n    font-size: 15px;\n    line-height: 24px;\n    position: relative;\n    z-index: 5;\n}\n\n.tmplt_hh-content strong,\n.tmplt_hh-content b {\n    display: inline-block;\n    font-size: 28px;\n    line-height: 32px;\n    color: #e31e24;\n    font-weight: normal;\n}\n\n.tmplt_hh-content p,\n.tmplt_hh-content strong,\n.tmplt_hh-content b {\n    margin: 23px 0 4px;\n}\n\n.tmplt_hh .tmplt_hh-content ul,\n.tmplt_hh .tmplt_hh-content ul ul {\n    list-style: none;\n}\n\n.tmplt_hh-content ol {\n    list-style: decimal inside;\n}\n\n.tmplt_hh-content ul,\n.tmplt_hh-content ol ol {\n    margin-left: 30px;\n}\n\n.tmplt_hh-content ol ul {\n    margin-left: 45px;\n}\n\n.tmplt_hh-content ul,\n.tmplt_hh-content ol {\n    margin-top: 13px;\n}\n\n.tmplt_hh-content ul li,\n.tmplt_hh-content ol li {\n    position: relative;\n    margin-bottom: 12px;\n}\n\n.tmplt_hh-content ul>li:before {\n    content: '\\2022';\n    position: absolute;\n    top: 0;\n    left: -12px;\n    color: #e31e24;\n    font-size: 16px;\n}\n\nspan.tmplt_hh-note {\n    text-transform: uppercase;\n    font-size: 12px;\n    color: #a3a3a3;\n    display: block;\n    margin-top: 27px;\n}\n\n.tmplt_hh-bot {\n    margin-top: 0;\n}\n\n.tmplt_hh-bot img {\n    width: 100%;\n}    \n\n.tmplt_hh-video {\n    margin-top: 25px;\n    position: relative;\n    padding-bottom: 56%;\n    z-index: 2;\n}\n\n.tmplt_hh-video iframe {\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n}\n\n/*Mobile*/\n@media (max-width: 699px) {\n.tmplt_hh-content strong, \n.tmplt_hh-content b {\n    font-size: 20px;\n    line-height: 24px;\n}\n}\n</style>\n\n    <div class=\"tmplt_hh\">\n        <div class=\"tmplt_hh-logo\">\n             <img src=\"https://hhcdn.ru/ichameleon/135452.jpg\" alt=\"\"> \n        </div>\n        <div class=\"tmplt_hh-content\">\n            <p><strong>ЦЕНТРОФИНАНС </strong>крупная финансовая компания.</p> <p>Наша компания работает как одна команда. Мы вместе создаем цели и движемся к ним. В нашей работе мы ориентированы на долгосрочное сотрудничество как с нашими клиентами, так и с сотрудниками.</p> <p>В свою команду ищем Devops инженера, для поддержания архитектуры проекта и внедрения новых решений.</p> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Официальное оформление в аккредитованную IT-компанию;</li> <li>Белую заработную плату;</li> <li>Удаленный формат работы. Мы считаем удаленных сотрудников полноценными участниками команды, а не внешними подрядчиками;</li> <li>Необходимую для работы технику;</li> <li>Оплата обучения (курсы, конференции, литература);</li> <li>Дружелюбную атмосферу и команду, отсутствие формальностей, высокий уровень горизонтальных связей;</li> <li>Частичную компенсацию занятий спортом;</li> <li>Бесплатную помощь от экспертов компании: психолог, юрист, финансовый консультант;</li> <li>Возможность развиваться в интересующем направлении. Мы учитываем интересы сотрудников при распределении задач, ротациях между командами и предоставляем возможности для горизонтальной и вертикальной мобильности в компании.</li> </ul> <p><strong>Ваши задачи:</strong></p> <ul> <li>Обеспечение бесперебойной работы сервисов компании (веб приложения, микросервисы);</li> <li>Автоматизация процессов разработки и CI/CD;</li> <li>Развитие систем мониторинга инфраструктуры/сервисов и сбора логов;</li> <li>Развитие продуктивных и тестовых сред исполнения.</li> </ul> <p><strong>Стек:</strong></p> <ul> <li>Платформа: Kubernetes;</li> <li>CI/CD: Gitlab;</li> <li>БД: Postgresql + MongoDB;</li> <li>Язык: Python;</li> <li>Мониторинг: Elastic + Graylog + Grafana + Prometheus.</li> </ul><span class=\"tmplt_hh-note\">\n                ООО МКК \"ЦЕНТРОФИНАНС ГРУПП\"\n            </span>\n\n           <div class=\"tmplt_hh-video\">\n            <iframe src=\"https://www.youtube.com/embed/Jc-4fUbIQrc?rel=0&amp;controls=0\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"allowfullscreen\"><!----></iframe>\n        </div>\n        </div>\n        <div class=\"tmplt_hh-bot\">\n            <img src=\"https://hhcdn.ru/ichameleon/96117.jpg\" alt=\"\">\n        </div>\n    </div>\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "160",
+      "name": "DevOps-инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1103383",
+    "name": "ЦЕНТРОФИНАНС",
+    "url": "https://api.hh.ru/employers/1103383",
+    "alternate_url": "https://hh.ru/employer/1103383",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/694980.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/3221036.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3221037.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1103383",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-12T16:36:54+0300",
+  "created_at": "2025-05-12T16:36:54+0300",
+  "initial_created_at": "2025-05-12T16:36:54+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120426686",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120426686",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

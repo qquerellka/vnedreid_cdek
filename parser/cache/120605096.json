@@ -1,0 +1,128 @@
+{
+  "id": "120605096",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 20000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 20000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "MONTHLY",
+      "name": "Раз в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Системный администратор (удалённо, с гибким графиком)</strong></p> <p>Хотите работать с мировыми брендами и развиваться в команде, где ценится результат и поддерживается амбиция? Тогда эта вакансия для Вас.<br /></p> <p><strong>Что вы получаете:</strong></p> <ul> <li> <p><strong>Готовую систему обучения</strong>: вы получаете доступ к нашей внутренней базе знаний и скриптам, которые уже зарабатывают сотни тысяч долларов.</p> </li> <li> <p><strong>Рост и влияние</strong>: вы станете частью команды, где ваши идеи услышат, поддержат и внедрят.</p> </li> <li> <p><strong>Топовая команда</strong>: мы работаем быстро, умно и всегда на шаг впереди. </p> </li> <li> <p><strong>Современные инструменты</strong>: искусственный интеллект, автоматизации, email-оптимизация — вы работаете с тем, что реально упрощает жизнь и приносит результат.</p> </li> <li> <p><strong>Гибкий график</strong> и удалёнка.<br /></p> </li> </ul> <p><strong>Эта работа для вас, если</strong> вы хотите:</p> <ul> <li> <p>Влиять на результат и видеть эффект от своей работы.</p> </li> <li> <p>Развиваться каждый день, а не «стоять на месте».<br /></p> </li> </ul> <p><strong>Что вы будете делать:</strong></p> <ul> <li> <p>Вести коммуникацию с потенциальными клиентами по email, помогать выстраивать диалог и доводить до следующего шага.</p> </li> <li> <p>Следить за состоянием и актуальностью базы для рассылок.</p> </li> <li> <p>Автоматизировать, оптимизировать, внедрять решения — с помощью наших внутренних скриптов и ИИ-инструментов.</p> </li> </ul> <ul> </ul> <p><strong>О компании:</strong><br /><br />Мы - лидеры в мире ретуши. Наши клиенты это именитые фотографы, кинозвёды, бренды мировых знаменитостей, глянцевые журналы и т.д.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "6119540",
+    "name": "Ретач клаб",
+    "url": "https://api.hh.ru/employers/6119540",
+    "alternate_url": "https://hh.ru/employer/6119540",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6119540",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-15T19:11:52+0300",
+  "created_at": "2025-05-15T19:11:52+0300",
+  "initial_created_at": "2025-05-15T19:11:52+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120605096",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120605096",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FLEXIBLE",
+      "name": "Свободный"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

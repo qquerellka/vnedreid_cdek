@@ -1,0 +1,167 @@
+{
+  "id": "119114474",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Senior DevOps Engineer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 250000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 250000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": null,
+    "lng": null,
+    "description": null,
+    "raw": null,
+    "metro": {
+      "station_name": "Площадь Ленина",
+      "line_name": "Ленинская",
+      "station_id": "52.297",
+      "line_id": "52",
+      "lat": 55.029941,
+      "lng": 82.92069
+    },
+    "metro_stations": [
+      {
+        "station_name": "Площадь Ленина",
+        "line_name": "Ленинская",
+        "station_id": "52.297",
+        "line_id": "52",
+        "lat": 55.029941,
+        "lng": 82.92069
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Rich Mind</strong> — лидеры арбитража трафика с более чем 3-летней историей успеха. Наша команда из 60+ профессионалов каждый день достигает новых высот, и мы продолжаем расти. Мы активно масштабируемся и ищем к себе в команду <strong>Senior DevOps Engineer</strong>, который будет развиваться вместе с нами.</p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Проектирование и выстраивание инфраструктуры: создание и поддержка самодостаточной и масштабируемой структуры серверов, соответствующей потребностям бизнеса;</li> <li>Поддержка работоспособности: обеспечение высокой доступности, надежности и производительности развернутой инфраструктуры;</li> <li>Мониторинг систем и компонентов, быстрая диагностика и устранение неполадок;</li> <li>Автоматизация процессов: разработка и внедрение процессов автоматизации развертывания, конфигурации и управления серверным окружением;</li> <li>Обеспечение безопасности: реализация мер по обеспечению безопасности серверной инфраструктуры;</li> <li>Проведение регулярных аудитов безопасности и обновление систем для защиты от уязвимостей;</li> <li>Документация и обучение: подготовка и ведение документации по инфраструктуре и процессам;</li> <li>Обучение и поддержка команды в вопросах использования созданной инфраструктуры.</li> </ul> <p><strong>Наши ожидания:</strong></p> <ul> <li>Успешный опыт работы в роли DevOps Engineer не менее 3-5 лет, с особым акцентом на построение и поддержку серверной инфраструктуры;</li> <li>Отличные навыки общения и умение работать в команде, включая сотрудничество с разработчиками и другими подразделениями;</li> <li>Способность к анализу и эффективному решению сложных технических задач.</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Конкурентную заработную плату (по итогам собеседования);</li> <li>Работаем 5/2, гибкий старт дня с 10:00 до 11:00;</li> <li> <p>Офис в центре г. Новосибирск, либо удаленный формат работы;</p> </li> <li> <p>Теплую и уютную атмосферу молодой компании, гибких процессов и прозрачности.</p> </li> </ul> <p><strong>Присоединяйся к нам и стань частью команды, которая вдохновляет, поддерживает и растёт вместе!</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Senior DevOps Engineer"
+    },
+    {
+      "name": "DevOps Engineer"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "160",
+      "name": "DevOps-инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9176260",
+    "name": "RM",
+    "url": "https://api.hh.ru/employers/9176260",
+    "alternate_url": "https://hh.ru/employer/9176260",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1387749.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7170783.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7170784.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9176260",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-29T11:12:57+0300",
+  "created_at": "2025-05-29T11:12:57+0300",
+  "initial_created_at": "2025-04-03T12:11:44+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119114474",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119114474",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

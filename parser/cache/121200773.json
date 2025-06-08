@@ -1,0 +1,143 @@
+{
+  "id": "121200773",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Аналитик Битрикс 24",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 130000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 130000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Компания-лидер</strong> на рынке ДНК-тестирования приглашает в свою Команду Аналитик Битрикс 24 / Специалиста по автоматизации статистики в Битрикс24 <strong>!</strong></p> <p>Мы <strong>– </strong> <strong>Центр ДНК Тест</strong>, наша компания основана в 2009 году, наш накопленный опыт насчитывает более 100 тыс. проведенных анализов ДНК</p> <p>Наши точки присутствия расположены в более, чем 300 городах России</p> <p>Мы активно развиваемся, за последние 2 года открыли свои представительства в шести странах: Беларусь, Казахстан, Узбекистан, Азербайджан, Кыргызстан, Грузия</p> <p>Наши высокотехнологичные методы анализа используются лишь в нескольких лабораториях по всему миру, работаем на современном оборудовании от &quot;Applied Biosystems&quot;, ведущего производителя в сфере биотехнологий</p> <p><strong>5 причин стать частью нашей команды:</strong></p> <ul> <li>У нас уже есть понятные, выстроенные процессы, и все необходимое для начала работы;</li> <li>Наше руководство всегда за коммуникацию и конструктивную обратную связь;</li> <li>Готовы слышать своих сотрудников и даем свободу в выборе подхода для решения задач;</li> <li>В нашей компании уважают личные интересы сотрудников и их work\\life balance;</li> <li>Мы активно поддерживаем и инвестируем в развитие своих сотрудников, обеспечиваем исключительную возможность для профессионального роста и развития.</li> </ul><br /><strong>Чем Вы будете заниматься:</strong> <ul> <li> <p><strong>Разрабатывать</strong> и описывать <strong>методики расчета статистик</strong>, необходимых для анализа эффективности бизнес-процессов;</p> </li> <li> <p><strong>Реализовывать </strong>методики в Bitrix24 с использованием данных из полей сущности, справочников, инфоблоков, а также, данных, которые не хранятся в публичном доступе, но их можно получить с помощью REST API, или из MySQL;</p> </li> <li> <p><strong>Создавать новые поля </strong>сущности для сбора данных сотрудниками с помощью бизнес-процессов, таблиц и других инструментов автоматизации;</p> </li> <li> <p>Взаимодействовать с руководителями для уточнения требований, постановки задач и согласования метрик.</p> </li> </ul> <strong>Мы ждем от Вас:</strong> <ul> <li>Опыт <strong>автоматизации в Bitrix24</strong> на уровне<strong> мидл</strong> (работа с битами, бизнес-процессами, таблицами, интеграциями);</li> <li>Опыт работы на аналогичных позициях (аналитик, специалист по автоматизации, специалист по метрикам) от 1 года;</li> <li>Математический склад ума, умение логически мыслить и описывать формулы и методики расчета показателей;</li> <li>Умение понимать бизнес-требования и переводить их в технические решения;</li> <li>Знание основ php и BI аналитики в Б24 будет преимуществом.</li> </ul> <strong>Мы предлагаем:</strong> <ul> <li>Удалённый формат работы <strong>– </strong> работай из любой точки мира! </li> <li>Различные варианты трудоустройство (ТК РФ, СЗ,ИП);</li> <li>График работы (классическая пятидневка с соблюдением всех Государственных праздников, суббота и воскресенье – всегда выходные дни): 5/2, с 09:00 до 18:00 по МСК; </li> <li>Комфортная адаптация (сотрудник по адаптации постоянно на связи);</li> <li>Возможность развиваться в компании с качественным продуктом;</li> <li>Дружественную атмосферу в коллективе, где сотрудники связаны общей идеей.<br /><p><br /><em>Присоединяйтесь к <strong>Компании-Лидеру</strong> на рынке ДНК-тестирования!</em></p> <p><em>Работа на передовом оборудовании. Карьерный и профессиональный рост. Стабильная заработная плата без задержек.</em></p> <p><em>Ждем Ваших откликов!</em></p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Битрикс24"
+    },
+    {
+      "name": "Аналитическое мышление"
+    },
+    {
+      "name": "работа со статистикой"
+    },
+    {
+      "name": "Автоматизация процессов"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3180754",
+    "name": "Центр ДНК Тест",
+    "url": "https://api.hh.ru/employers/3180754",
+    "alternate_url": "https://hh.ru/employer/3180754",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/670998.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3125124.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3125125.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3180754",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T08:30:48+0300",
+  "created_at": "2025-06-02T08:30:48+0300",
+  "initial_created_at": "2025-06-02T08:30:48+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121200773",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121200773",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_5",
+      "name": "5 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

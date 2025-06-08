@@ -1,0 +1,119 @@
+{
+  "id": "119925116",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "DevOps инженер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>Плотная работа со всеми командами, участвующими в проекте, это архитектура, разработка, инфраструктура, нагрузочное и регрессионное тестирование;</li> <li>Поддержка, развитие и улучшение архитектуры CI/CD проекта NGFW: <ul> <li>Внедрение дополнительных уровней и работ (stage, job) в CI/CD пайплайн;</li> <li>Оптимизация CI/CD пайплайна, доработка существующего кода;</li> <li>Интеграция с репозиториями кода, пакетов и хранилищем секретов;</li> <li>Автоматизация сборки deb пакетов, к примеру, с использованием git-buildpackage;</li> <li>Написание CI/CD пайплайна по развертыванию тестовых зон продуктов;</li> </ul> </li> <li>Подготовка SBOM продуктов для целей сертификации;</li> <li>Создание, поддержка и развитие CI/CD практик для ЦСУМ с микросервисной архитектурой;</li> <li>Внедрение DevSecOps подхода, включая статическое (svace, eslint) и динамическое (afl++) тестирование кода;</li> </ul> <strong>Требования:</strong> <ul> <li>Уверенные знания сетевых технологий;</li> <li>Unix-like системы (RedHat, Ubuntu, Debian, Астра);</li> <li>Знание и опыт работы в GitLab, Jira, Confluence;</li> <li>Понимание DevOps пайплайна, включая CI/ CD практики и сопутствующих инструментов - GitLab, Git, Nexus, Connan, и тд;</li> <li>Docker и docker compose – автоматизация создания тестовых сред и прототипов;</li> <li>K8S – оркестрация развертывания контейнеров;</li> <li>Ansible и Terraform как инструмент автоматизации работы с IaaC инфраструктурой;</li> <li>Bash/ Python как языки написания инструментов;</li> <li>Open-source стек мониторинга на базе Grafana и любой TSDB, а также сбора логов – Kibana, Elastic и т.д.;</li> </ul> <strong>Условия:</strong> <ul> <li>Постоянно придумывать и реализовывать свои инструменты и подходы, скучно в работе точно не будет;</li> <li>Неограниченно совершенствовать свои навыки и знания и решать сверхамбициозные и интересные задачи;</li> <li>Держать баланс между свободой действий и ответственностью;</li> <li>Получать конкурентный уровень заработной платы (готовы по достоинству оценить ваши знания и опыт) + премирование по результатам работы + надбавка за выслугу лет;</li> <li>Работать в комфортном офисе в БЦ «Дмитровский» с собственной кухней, лаунж-зоной с настольным теннисом и массажным креслом и совмещать с удаленной работой;</li> <li>Заботиться о здоровье: оформим полис ДМС со стоматологией после испытательного срока;</li> <li>Развиваться и отдыхать: есть доступ к библиотеке, корпоративные мероприятия, конференции, выставки и обучение;</li> <li>Работать над масштабными проектами, написанными «с нуля» в команде профессионалов.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "160",
+      "name": "DevOps-инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3452582",
+    "name": "ТехАргос",
+    "url": "https://api.hh.ru/employers/3452582",
+    "alternate_url": "https://hh.ru/employer/3452582",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/536239.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/2586429.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/2586430.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3452582",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-21T16:54:19+0300",
+  "created_at": "2025-05-21T16:54:19+0300",
+  "initial_created_at": "2025-04-24T16:03:38+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119925116",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119925116",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

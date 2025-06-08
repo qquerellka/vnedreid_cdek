@@ -1,0 +1,148 @@
+{
+  "id": "120223072",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Frontend-разработчик (Middle)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 140000,
+    "to": 180000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 140000,
+    "to": 180000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Подсосенский переулок",
+    "building": "23с3",
+    "lat": 55.755181,
+    "lng": 37.654529,
+    "description": null,
+    "raw": "Москва, Подсосенский переулок, 23с3",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Привет! Сейчас мы ищем в команду разработчика React приложений с уровнем от Middle для работы над продуктами компании в сфере компьютерного зрения.</p> <p>В обязанности входит разработка SPA приложений и web-сервисов для продуктов компании.</p> <p><strong>Необходимый опыт и знания:</strong></p> <ul> <li>React JS 18+, SASS, i18next, Reduxjs + Reduxjs/toolkit, опыт работы с сайд-эффектами (redux-thunk, redux-saga) приветствуется;</li> <li>HTML/CSS: знание семантических элементов; опыт верстки страниц, совместимых с различными браузерами;</li> <li>Уверенное знание JavaScript: замыкания, асинхронное программирование (async/await | Promises), ES6+, Browser APIs;</li> <li>Понимание REST API;</li> <li>Умение работы с WebSocket;</li> <li>Опыт работы с Webpack или другими инструментами сборки;</li> <li>Умение работы с git.</li> </ul> <p><strong>​​​​​Плюсами будут:</strong></p> <ul> <li>Опыт работы с Typescript;</li> <li>Владение техниками тестирования кода (в том числе BDD, TDD);</li> <li>Владение python, docker, nginx.</li> </ul> <p><strong>Готовы предложить:</strong></p> <ul> <li>Соблюдение ТК, белая заработная плата;</li> <li>ДМС и другие приятные дополнения;</li> <li>Команду сильных разработчиков и учёных, крутые и перспективные продукты;</li> <li>Комфортный офис рядом с м. Чкаловская/Курская</li> <li>Огромное количество интересных задач</li> </ul> <ul> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1978012",
+    "name": "ВижнЛабс (VisionLabs)",
+    "url": "https://api.hh.ru/employers/1978012",
+    "alternate_url": "https://hh.ru/employer/1978012",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/664381.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3098656.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3098657.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1978012",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T13:09:19+0300",
+  "created_at": "2025-06-02T13:09:19+0300",
+  "initial_created_at": "2025-05-05T12:12:55+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120223072",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120223072",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

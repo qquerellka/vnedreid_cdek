@@ -1,0 +1,167 @@
+{
+  "id": "121229601",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Продакт-менеджер / Конфекционер / Менеджер по закупкам",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 130000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 130000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "2-я Звенигородская улица",
+    "building": null,
+    "lat": 55.760135,
+    "lng": 37.554933,
+    "description": null,
+    "raw": "Москва, 2-я Звенигородская улица",
+    "metro": {
+      "station_name": "Улица 1905 года",
+      "line_name": "Таганско-Краснопресненская",
+      "station_id": "7.146",
+      "line_id": "7",
+      "lat": 55.763944,
+      "lng": 37.562271
+    },
+    "metro_stations": [
+      {
+        "station_name": "Улица 1905 года",
+        "line_name": "Таганско-Краснопресненская",
+        "station_id": "7.146",
+        "line_id": "7",
+        "lat": 55.763944,
+        "lng": 37.562271
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Обязанности: </strong></p> <p><br /><strong>- </strong>Поиск, подбор поставщиков /производителей тканей, комплектующих, фурнитуры, упаковочных материалов;</p> <p>- Ведение и актуализация базы поставщиков в соответствии с целевыми требованиями Производства (качество, цены, количество, сроки ассортиментной матрицей) - РФ, СНГ, ЮВА, Европа;</p> <p>- Расширение базы поставщиков (в том числе зарубежных);</p> <p>- Своевременная закупка и поставка на Производство в соответствии с заказами на закупку необходимых комплектующих для бесперебойного процесса производства изделий (в соответствии с требованиями дизайнера, конструктора, технолога);</p> <p>- Проведение переговоров с поставщиками по всем условиям, подписание/пролонгация контрактов, инвойсов, согласование;</p> <p>- Контроль качества закупаемых материалов;</p> <p>- Контроль складских остатков;</p> <p>Формирование каталогов по остаткам материалов, регулярное обновление;</p> <p>- Ведение каталога тканей и фурнитуры, анализ и поддержание складского запаса;</p> <p>- Составление и ведение конфекционных карт изделий;</p> <p>- Посещение тематических выставок;</p> <p>- Проверка всех счетов, инвойсов, отслеживание баланса, постановка в оплату, контроль за проведение платежей;</p> <p>- Исполнение Производственного календаря (цены, сроки, объемы и пр.)</p> <p><strong>Требования:</strong></p> <p>- Профильное образование;</p> <p>- Результативный релевантный опыт работы на аналогичной должности на швейном производстве от 1 года;</p> <p><em>- Знание и понимание материаловедения и фурнитуры;</em></p> <p>- Широкий диапазон цветовосприятия;</p> <p>- Уверенный пользователь ПК, MS Office;</p> <p>- Ответственность, коммуникабельность, умение работать в режиме многозадачности, скорость выполнения задач;</p> <p>- Включенность в процесс и реагирование на запросы Производства;</p> <p>-Эффективная работа в команде;</p> <p>- Умение анализировать информацию, на ее основе принимать решения и брать на себя ответственность;</p> <p> </p> <p><strong>Условия:</strong></p> <ul> <li> <p>Пятидневная рабочая неделя ПН-ПТ с 9-00 до 18-00 часов;</p> </li> <li> <p>Уровень заработной платы - по результатам собеседования, зависит от квалификации кандидата;</p> </li> <li> <p>Локация рабочего места: м. &quot;1905 года&quot; (шаговая доступность).</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Работа с поставщиками"
+    },
+    {
+      "name": "Ведение переговоров"
+    },
+    {
+      "name": "Работа с большим объемом информации"
+    },
+    {
+      "name": "Закупки"
+    },
+    {
+      "name": "Аналитические способности"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "73",
+      "name": "Менеджер продукта"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5583077",
+    "name": "Sashaskvo",
+    "url": "https://api.hh.ru/employers/5583077",
+    "alternate_url": "https://hh.ru/employer/5583077",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1420810.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7302889.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7302890.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5583077",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T15:04:52+0300",
+  "created_at": "2025-06-05T15:04:52+0300",
+  "initial_created_at": "2025-06-02T15:04:52+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121229601",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121229601",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

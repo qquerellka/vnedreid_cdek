@@ -1,0 +1,143 @@
+{
+  "id": "121225216",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Ведущий инженер-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "76",
+    "name": "Ростов-на-Дону",
+    "url": "https://api.hh.ru/areas/76"
+  },
+  "salary": {
+    "from": 130000,
+    "to": 170000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 130000,
+    "to": 170000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "посёлок Возрождённый",
+    "street": "Производственная улица",
+    "building": "1",
+    "lat": 47.431568,
+    "lng": 39.750137,
+    "description": null,
+    "raw": "посёлок Возрождённый, Производственная улица, 1",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>ООО &quot;Завод ТерраФриго&quot;</strong> – современное производственное предприятие. С 2004 года занимается разработкой и выпуском оригинального холодильного и теплообменного оборудования под брендом TerraFrigo. Нам доверяют крупнейшие автосалоны, логистические центры, перевозчики, производственные предприятия в 20 странах мира.</p> <p><strong>Наша главная ценность</strong> – сотрудники. Мы заинтересованы в компетентных кадрах, помогаем развиваться каждому работнику для его профессионального, материального и карьерного роста внутри компании!</p> <p><strong>Условия:</strong></p> <ul> <li><strong>Конкурентоспособная и прозрачная заработная плата.</strong></li> <li> <p><strong>Официальное трудоустройство</strong> с первого рабочего дня и все социальные гарантии+<strong>ДМС со стоматологией. </strong>Проектная деятельность, с возможностью трудоустройства в штат.</p> </li> <li>График работы: 5/2, 8:00-16:30, мы ценим личное время. </li> <li><strong>Рабочее место на производстве в п. Возрожденный (за п.Щепкин).</strong></li> <li><strong>Корпоративный транспорт из г. Ростова-на-Дону (Александровка, Центр, Темерник, Сельмаш, СЖМ, Военвед, Суворовский, Платовский, П. Темерницкий, СНТ Содружество).</strong></li> <li>Если у вас возникли непредвиденные ситуации и необходимо уехать с производства раньше, чем приедет корпоративный автобус, мы поможем вам доехать до ближайшей остановки или до города.</li> <li>Повышение квалификации и профессиональное развитие за счет работодателя, яркая корпоративная жизнь, тимбилдинги, корпоративы.</li> </ul> <p><strong>Обязанности:</strong></p> <ul> <li>Руководство проектами разработки систем управления рефрижераторных установок. Три проекта (количество проектов обсуждается).</li> <li>Разработка ПО систем управления рефрижераторных установок. Написание и тестирование кода, обновление версий ПО, отладка, выявление ошибок.</li> <li>Руководство командой разработки системы управления.</li> <li>Сотрудничество с подрядчиками, маркетологами, тестировщиками (ЦОП), отделом снабжения, производством.</li> <li>Внедрение новых продуктов систем управления в серийное производство.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Владения языками программирования - С или С++, Python.</li> <li>Знание принципов программирования. Специалист должен понимать структуры данных, алгоритмы, базовые шаблоны проектирования, умение работать с библиотеками.</li> <li>Использование инструментов разработки. К ним относятся системы контроля версий (например, Git), среды разработки и инструменты автоматического тестирования.</li> <li>Понимание архитектуры программных систем. Инженер-разработчик проектирует не только код, но и общую структуру программы.</li> <li>Постановка и контроль задач. Умение чётко ставить задачи и оценивать их выполнение обеспечивает ясность целей для команды и позволяет своевременно отслеживать прогресс.</li> <li>Делегирование. Способность делегировать задачи, освобождая время для стратегического планирования и предоставляя сотрудникам возможность развиваться.<br /></li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "159687",
+    "name": "TerraFrigo",
+    "url": "https://api.hh.ru/employers/159687",
+    "alternate_url": "https://hh.ru/employer/159687",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/198902.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/1003979.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/1003980.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=159687",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T10:15:29+0300",
+  "created_at": "2025-06-03T10:15:29+0300",
+  "initial_created_at": "2025-06-02T14:02:48+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121225216",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121225216",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

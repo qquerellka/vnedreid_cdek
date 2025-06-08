@@ -1,0 +1,155 @@
+{
+  "id": "121375011",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Системный аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 120000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 120000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Компания, <strong>Леон-Групп</strong>, производим комплексную автоматизацию предприятий на базе программных продуктов 1С:Предприятие. Аккредитованная IT компания, успешно развивающаяся 2007 года. В связи с расширение команды ищем в нашу команду <strong>Системного аналитика</strong>.</p> <p><strong>Основные задачи:</strong></p> <ul> <li>Составлять и оформлять требования к программному продукту;</li> <li>Анализ бизнес-требований и разработка функциональных спецификаций;</li> <li>Моделирование и оптимизация бизнес-процессов с использованием UML, BPMN и других методологий;</li> <li>Подготовка технических заданий для разработчиков;</li> <li>Взаимодействие с командами разработки, тестирования и поддержки для обеспечения качественной реализации проектов.;</li> </ul> <strong>Знания, которыми надо обладать:</strong> <ul> <li>Опыт работы на аналогичной позиции от 2-х лет, предпочтительно в IT-сфере;</li> <li>Знание методологий системного анализа и моделирования бизнес-процессов (UML, BPMN и др.);</li> <li>Опыт работы с Postman;</li> <li>Основы проектирования БД;</li> <li>Знание SQL;</li> <li>Знание REST, SOAP, JSON, XML;;.</li> </ul> <p><strong>Условия комфорта:</strong></p> <ul> <li>Трудоустройство по ТК РФ;</li> <li>Полный социальный пакет;</li> <li>Работа в аккредитованной it-компании.</li> </ul> <p><em>Работа в нашей Компании - это стабильность, уверенность в завтрашнем дне, постоянное развитие, движение вперед и интересные задачи!</em></p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Написание процедур"
+    },
+    {
+      "name": "Моделирование бизнес-процессов"
+    },
+    {
+      "name": "Автоматизация бизнес-процессов"
+    },
+    {
+      "name": "MS SQL Server"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Анализ бизнес-процессов"
+    },
+    {
+      "name": "Регламентация бизнес-процессов"
+    },
+    {
+      "name": "Аудит бизнес-процессов"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "148",
+      "name": "Системный аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "6144264",
+    "name": "ЛЕОН-ГРУПП",
+    "url": "https://api.hh.ru/employers/6144264",
+    "alternate_url": "https://hh.ru/employer/6144264",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1227502.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6530449.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6530450.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6144264",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T11:30:21+0300",
+  "created_at": "2025-06-05T11:30:21+0300",
+  "initial_created_at": "2025-06-05T11:30:21+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121375011",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121375011",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

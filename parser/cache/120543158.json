@@ -1,0 +1,155 @@
+{
+  "id": "120543158",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Программист-разработчик C#",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Тимирязевская улица",
+    "building": "1",
+    "lat": 55.807749,
+    "lng": 37.570132,
+    "description": null,
+    "raw": "Москва, Тимирязевская улица, 1",
+    "metro": {
+      "station_name": "Дмитровская",
+      "line_name": "Серпуховско-Тимирязевская",
+      "station_id": "9.35",
+      "line_id": "9",
+      "lat": 55.808056,
+      "lng": 37.581734
+    },
+    "metro_stations": [
+      {
+        "station_name": "Дмитровская",
+        "line_name": "Серпуховско-Тимирязевская",
+        "station_id": "9.35",
+        "line_id": "9",
+        "lat": 55.808056,
+        "lng": 37.581734
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Мы - компания &quot;<strong>Топ Системы</strong>&quot; - аккредитованная ИТ-компания, ведущий российский разработчик комплексных решений автоматизации проектирования, подготовки и управления производством с более чем 30-летним успешным опытом на рынке САПР.</p> <p>Приглашаем присоединиться к нашей дружной команде <strong>Разработчика С#</strong> для работы в проекте (Модуль &quot;Управление проектами&quot;)</p> <p><strong>Обязанности:</strong></p> <ul> <li>Разработка новых функций и поддержка существующих в модуле &quot;Управление проектами&quot; клиент-серверной системы:</li> <li>Реализация и доработка бизнес-логики модуля &quot;Управление проектами&quot; (.NET 8 + .NET Framework 4.7.2);</li> <li>Реализация и доработка логики уровня клиента и клиентского API (.NET 8 + .NET Framework 4.7.2);</li> <li>Реализация и доработка доработка интерфейсных компонент (WPF / AvaloniaUI);</li> </ul> <strong>Требования:</strong>​​​​​​​ <ul> <li>Отличное знание C#;</li> <li><strong>Опыт разработки с применением паттерна MVVM в технологиях WPF / AvaloniaUI;</strong></li> <li>Опыт разработки элементов управления &quot;c нуля&quot; или расширения функционала стандартных с использованием <strong>WPF / AvaloniaUI; </strong></li> <li>Опыт разработки многопоточных приложений;</li> <li>Умение разбираться в чужом коде;</li> <li>Умение писать техническую документацию по проделанной работе;</li> <li>Умение систематизировать задачи по важности и срочности исполнения;</li> </ul> <strong>Мы предлагаем:</strong> <ul> <li>Применить свои знания и получить ценный, интересный опыт в создании комплексных, значимых продуктов;</li> <li>Оформление в аккредитованную IT-компанию с соблюдением ТК РФ;</li> <li>Конкурентоспособную зарплату;</li> <li>Работу в дружном отзывчивом коллективе, помощь наставника при вхождении в должность;</li> <li>Гибридный формат работы; офисная составляющая в современном БЦ &quot;Премьер&quot; в шаговой доступности от ст. м. и ж/д станции &quot;Дмитровская&quot;;</li> <li>График 5/2 с гибким началом рабочего дня;</li> <li>Удобное рабочее место;</li> <li>Оборудованные кухни на территории офиса, столовая и кафе на территории БЦ;</li> <li>Подключение пакета ДМС со стоматологией по истечении испытательного срока 3 месяца.​​​​​​​​​​​​​​</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "C#"
+    },
+    {
+      "name": "WPF"
+    },
+    {
+      "name": "Avalonia UI;"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3435",
+    "name": "Топ Системы",
+    "url": "https://api.hh.ru/employers/3435",
+    "alternate_url": "https://hh.ru/employer/3435",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1391730.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7186703.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7186704.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3435",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-14T15:34:12+0300",
+  "created_at": "2025-05-14T15:34:12+0300",
+  "initial_created_at": "2025-05-14T15:34:12+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120543158",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120543158",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

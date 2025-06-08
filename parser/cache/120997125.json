@@ -1,0 +1,143 @@
+{
+  "id": "120997125",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Python developer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Новослободская улица",
+    "building": "24с1",
+    "lat": 55.782906,
+    "lng": 37.598232,
+    "description": null,
+    "raw": "Москва, Новослободская улица, 24с1",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Что такое eXpress</strong></p> <ul> <li><strong>Лидер рынка коммуникаций</strong>. Мы – №1 на рынке (итоговый рейтинг корпоративных мессенджеров CNEWS, декабрь 2022, 2023).</li> <li><strong>Доказанное качество.</strong> Доверие крупнейших российских заказчиков и амбициозные проекты с 11 компаниями из топ-20 списка РБК500.</li> <li><strong>Постоянный рост.</strong> Сегодня в нашей команде более 280 сотрудников и мы активно расширяемся.</li> <li><strong>Уникальные технологии.</strong> Мы с нуля создали собственный протокол передачи данных. Сегодня это единственный распределенный (федеративный) протокол онлайн-коммуникаций в мире.</li> <li><strong>Мы придумали смартаппы</strong> и приложение-криптоконтейнер, которые полностью перевернули понятие «защищенная корпоративная мобильность».</li> <li><strong>Мы не копируем чужое</strong>. Мы создаем новое, что до нас никто не создавал.</li> </ul> <p><br /><strong>О направлении Business Solutions:</strong></p> <p>Наша команда отвечает за разработку платформы чат-ботов и SmartApps, которые глубоко интегрируются в бизнес-системы клиентов. Сейчас мы ищем опытного Python-разработчика, который любит технологические вызовы и готов принимать участие во всём цикле создания нового функционала — от проектирования до релиза.</p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Разрабатывать и поддерживать новые возможности платформы с учётом высоких нагрузок и безопасности данных.</li> <li>Создавать чат-боты и SmartApps, интегрируя их с системами заказчиков.</li> <li>Разрабатывать админку и веб-сервисы, улучшать существующую инфраструктуру.</li> <li>Участвовать в code review и прорабатывать архитектурные решения вместе с командой.</li> <li>Оценивать задачи и проектировать новые фичи в тесном взаимодействии с аналитиками, тестировщиками и РП.</li> </ul> <p><strong>Технологический стек:</strong></p> <ul> <li>Python 3</li> <li>FastAPI</li> <li>PostgreSQL</li> <li>SQLAlchemy 1.4+</li> <li>Redis</li> <li>Docker, Linux</li> <li>pytest</li> <li>Mypy, Black, we-make-python-styleguide</li> </ul> <p><strong>Требования к кандидатам:</strong></p> <ul> <li>Коммерческий опыт на Python от 3х лет.</li> <li>Практический опыт асинхронной разработки от 2-ух лет (FastAPI, Django, AIOHTTP и т.д.).</li> <li>Умение писать и использовать unit-тесты (Pytest или другие фреймворки).</li> <li>Базовое знание Docker и принципов контейнеризации, опыт работы в Linux-среде.</li> <li>Опыт использования и понимание SQLAlchemy и Redis.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт написания чат-ботов, Telegram MiniApps, ai-ассистентов.</li> <li>Опыт интеграции с внешними системами (REST, gRPC, WebSockets).</li> <li>Навыки оптимизации производительности (профилирование, рефакторинг).<br /></li> </ul> <p><strong>Что готовы тебе предложить:</strong></p> <ul> <li><strong>Масштабный и высоконагруженный проект:</strong> возможность заниматься широким кругом задач, прокачивать свои инженерные скиллы и влиять на выбор подходов/технологий/библиотек;</li> <li><strong>Атмосфера профессионализма: </strong>тебя будут окружать опытные коллеги –<strong> </strong>единомышленники по всей стране, которые с удовольствием делятся опытом и знаниями друг с другом;</li> <li><strong>Сложные и интересные задачи: </strong>мессенджер — это сложно, поэтому и интересно. Мы постоянно развиваемся и стараемся не только реализовывать новую функциональность, но и улучшать старый, проводя рефакторинг кода;</li> <li><strong>Наш стек:</strong> мы работаем с Git и JIRA и у нас развитая инженерная культура разработки, прозрачный процесс код ревью. Мы оперативно внедряем новые фичи, доставляя их клиенту через настроенные процессы CI/CD и высокопрофессиональную команду QA;</li> <li><strong>Условия работы: </strong>оформление по ТК РФ; полностью белая конкурентная заработная плата, ориентируемся на ожидания кандидата в первую очередь;</li> <li><strong>Обучение: </strong>наставничество,<strong> </strong>внутреннее обучение в команде или внешние конференции, курсы;</li> <li><strong>Здоровье:</strong> после прохождения испытательного срока - доступ к программе ДМС.</li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Redis"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "FastAPI"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3087089",
+    "name": "eXpress",
+    "url": "https://api.hh.ru/employers/3087089",
+    "alternate_url": "https://hh.ru/employer/3087089",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/731162.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/3365724.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3365725.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3087089",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-26T18:23:14+0300",
+  "created_at": "2025-05-26T18:23:14+0300",
+  "initial_created_at": "2025-05-26T18:23:14+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120997125",
+  "has_test": true,
+  "test": {
+    "required": true
+  },
+  "alternate_url": "https://hh.ru/vacancy/120997125",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

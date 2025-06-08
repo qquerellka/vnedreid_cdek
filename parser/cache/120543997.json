@@ -1,0 +1,172 @@
+{
+  "id": "120543997",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Python разработчик\\Внедренец (Москва и область)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Огородный проезд",
+    "building": "16/1с5",
+    "lat": 55.816546,
+    "lng": 37.600693,
+    "description": null,
+    "raw": "Москва, Огородный проезд, 16/1с5",
+    "metro": {
+      "station_name": "Останкино",
+      "line_name": "МЦД-3",
+      "station_id": "135.850",
+      "line_id": "135",
+      "lat": 55.817222,
+      "lng": 37.603611
+    },
+    "metro_stations": [
+      {
+        "station_name": "Останкино",
+        "line_name": "МЦД-3",
+        "station_id": "135.850",
+        "line_id": "135",
+        "lat": 55.817222,
+        "lng": 37.603611
+      },
+      {
+        "station_name": "Телецентр",
+        "line_name": "Монорельс",
+        "station_id": "96.551",
+        "line_id": "96",
+        "lat": 55.821795,
+        "lng": 37.608975
+      },
+      {
+        "station_name": "Улица Милашенкова",
+        "line_name": "Монорельс",
+        "station_id": "96.550",
+        "line_id": "96",
+        "lat": 55.821876,
+        "lng": 37.591206
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Уже более 20 лет<strong> ISPsystem</strong> занимается разработкой ПО для работы с физическими серверами и другим оборудованием ЦОД DCImanager, собственной виртуализацией VMmanager и биллинговой платформой BILLmanager.</p> <p>Мы входим в группу компаний <strong>Астра</strong> - одного из лидеров российской IT-индустрии, ведущего производитель программного обеспечения.</p> <p><br />В 2022 мы вошли в рейтинг лучших ИТ-компаний России на Хабре.Наша цель: стать лидирующей экосистемой программных продуктов по управлению ИТ-инфраструктурой на всех уровнях - от железа до облаков.</p> <p><br />Мы в поиске <strong>Разработчика\\Внедренца</strong> который сможет не просто писать код, но и приехать к заказчику и развернуть наши продукты.<br />Вас ждёт множество интереснейших и нетривиальных технических задач!</p> <p> </p> <p><strong>Задачи:</strong></p> <ul> <li> <p>Изучение протоколов, с которыми работает физическое оборудование заказчика (серверы, коммутаторы, PDU, ИБП);</p> </li> <li> <p>Написание интеграционных модулей для взаимодействия платформы с физическим оборудованием;</p> </li> <li> <p>При необходимости: выезд и нахождение в течение рабочего дня на территории заказчика (Москва, МО); в остальное время - офис в Москве / удаленка.</p> </li> </ul> <strong>Hard skills:</strong> <ul> <li> <p>Python 3.9+, Docker, Git;</p> </li> <li> <p>Опыт работы с pylint, pyblack, mypy;</p> </li> <li> <p>Принципы работы сетей TCP/IP и протоколов (DNS, DHCP, SSH);</p> </li> <li> <p>Принципы работы и настройки сетевого оборудования (коммутаторов) и базовое понимание уровней L2/L3 модели OSI;</p> </li> <li> <p>Администрирование серверов Linux;</p> </li> <li> <p>Опыт работы с bash скриптами;</p> </li> <li> <p>Опыт работы с BMC, коммутаторами и пр. сетевыми устройствами (PDU, UPS) будет плюсом.</p> </li> </ul> <p>Наш стек: Python 3.9, pylint, pyblack, mypy, Docker.</p> <p><strong>Soft skills:</strong></p> <ul> <li> <p>Клиентоориентированность;</p> </li> <li> <p>Гибкость;</p> </li> <li> <p>Стрессоустойчивость;</p> </li> <li> <p>Умение систематизировать информацию.</p> </li> </ul> <p><strong>Будет преимуществом:</strong></p> <ul> <li> <p>Опыт работы с SQL и базами данных;</p> </li> <li> <p>Опыт взаимодействия с клиентами / опыт в технической поддержке / опыт работы в дата-центрах или телеком операторах;</p> </li> <li> <p>Знание протоколов SNMP, IPMI, Redfish;</p> </li> <li> <p>Опыт работы с aio* библиотеками;</p> </li> <li> <p>Oпыт работы с alembic.</p> </li> </ul> <p><strong>Почему у нас классно работать:</strong></p> <ul> <li>Работа в аккредитованной IT-компании в полном соответствии с ТК РФ.</li> <li>Интересные задачи, возможность развивать востребованные технически сложные продукты.</li> <li>Классная, технически сильная команда, в которой приветствуется обмен опытом.</li> <li>Возможность работать удаленно из дома любого города России или в одном из офисов компании в Иркутске или Москве.</li> <li>Справедливую заработную плату соразмерную профессиональному уровню (конечно же полностью &quot;белую&quot;).</li> <li>Рост заработной платы пропорционально персональным успехам.</li> <li>ДМС со стоматологией.</li> <li>Доплаты по больничным и отпускам (отдыхайте без потери дохода).</li> <li>Посещение профильных конференций, обучающих курсов;</li> <li>Участие во внутренних обучающих митапах в качестве слушателя или докладчика;</li> <li>Занятия английским со штатным преподавателем;</li> <li>2 раза в год мы все собираемся на большие оффлайн мероприятия. Некоторые проходят на Байкале ;)</li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Bash"
+    },
+    {
+      "name": "Python"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1136004",
+    "name": "ISPsystem",
+    "url": "https://api.hh.ru/employers/1136004",
+    "alternate_url": "https://hh.ru/employer/1136004",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/627791.png",
+      "90": "https://img.hhcdn.ru/employer-logo/2952316.png",
+      "240": "https://img.hhcdn.ru/employer-logo/2952317.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1136004",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-14T15:45:47+0300",
+  "created_at": "2025-05-14T15:45:47+0300",
+  "initial_created_at": "2025-05-14T15:45:47+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120543997",
+  "has_test": true,
+  "test": {
+    "required": true
+  },
+  "alternate_url": "https://hh.ru/vacancy/120543997",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

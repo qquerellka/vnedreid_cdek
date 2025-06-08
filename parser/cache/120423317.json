@@ -1,0 +1,158 @@
+{
+  "id": "120423317",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "DevOps-инженер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "72",
+    "name": "Пермь",
+    "url": "https://api.hh.ru/areas/72"
+  },
+  "salary": {
+    "from": null,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": null,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Привет! Мы — IT-команда Spectr, и мы ищем в свою команду DevOps инженера, мастера Кибер-Докера, упаковщика приложений в контейнеры.</p> <p> </p> <p><strong>Задачи и функционал:</strong></p> <ul> <li> <p>Поддержка и развитие DEV/TEST/UAT/PROD-окружений;</p> </li> <li> <p>Автоматизация процессов деплоя и инфраструктуры;</p> </li> <li> <p>Настройка CI/CD пайплайнов;</p> </li> <li> <p>Развёртывание и сопровождение кластеров Kubernetes;</p> </li> <li> <p>Мониторинг и алертинг, отладка и устранение инцидентов;</p> </li> <li> <p>Поддержка разработчиков и команд QA;</p> </li> <li> <p>Интеграция с внешними сервисами, платёжными шлюзами;</p> </li> <li> <p>Участие в миграциях, релизах, ротации команд.</p> </li> </ul> <p> </p> <strong>Наши ожидания:</strong> <ul> <li> <p>Опыт работы от 3–4 лет на позиции DevOps/инженера инфраструктуры;</p> </li> <li> <p>Linux (RHEL, Debian, Ubuntu) — уверенное администрирование, настройка, диагностика;</p> </li> <li> <p>CI/CD пайплайны — опыт работы с GitLab CI, Jenkins, Azure DevOps, TFS;</p> </li> <li>Опыт с брокерами сообщений: Kafka, RabbitMQ;</li> <li> <p>Контейнеризация и оркестрация:</p> <ul> <li> <p>Docker, Docker Compose</p> </li> <li> <p>Kubernetes (включая Helm, CSI/CNI, StatefulSets, ingress);</p> </li> </ul> </li> <li> <p>Автоматизация:</p> <ul> <li> <p>Bash, Python</p> </li> <li> <p>Ansible (часто используется);</p> </li> </ul> </li> <li> <p>Мониторинг и логирование:</p> <ul> <li> <p>Zabbix, Prometheus, Grafana</p> </li> <li> <p>ELK Stack, Graylog, Loki;</p> </li> </ul> </li> <li> <p>Git — уверенное владение;</p> </li> <li> <p>SQL — базовые знания и работа с СУБД (PostgreSQL, MSSQL);</p> </li> <li>Опыт работы с сетями: DNS, HTTP, SSL/TLS, проксирование (Nginx, Apache, HAProxy).</li> </ul> <p> </p> <p><strong>Предлагаем:</strong></p> <p>— Мы – IT компания. За этим статусом стоят бонусы в виде IT-ипотеки и отсрочки от армии;<br /><br />— Корпоративные онлайн-курсы английского языка; Инглиш, ду ю спик ит?</p> <p>— Обучение и развитие: посещение конференций, курсов и других образовательных мероприятий; Жизнь без развития — это деградация.</p> <p>— Performance review: полугодовые встречи для обсуждения твоих достижений и планов развития;<br /><br />— One to one: можешь смело рассчитывать на встречи с руководителем – он выслушает и поможет;</p> <p>— Повышение твоей экспертности и кейсы в портфолио. Мы регулярно публикуем материалы сотрудников на Хабре и выступаем в роли спикеров на митапах и конференциях. Ты тоже можешь стать частью этого движа.</p> <p> </p> <p><strong>Несколько фактов о нас:</strong></p> <p>— Мы ценим work-life balance, создаем комфортные условия для команды (в офисе кофе, чай, плюшки – само собой), кухня, корпоративный мерч и внутренняя валюта, корпоративные мероприятия, адекватный и абсолютно нетоксичный коллектив;</p> <p>— Развиваем IT-комьюнити и организуем локальные и всероссийские митапы и конференции в Перми.</p> <p>Список дел и требований серьёзный, но и мы не обидим. Если чувствуешь что подходишь по вакансии и все задачи расщёлкаешь, как орехи – смело откликайся!</p> <p>​​​​​</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Bash"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Gitlab"
+    },
+    {
+      "name": "DevOps"
+    },
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "Prometheus"
+    },
+    {
+      "name": "Grafana"
+    },
+    {
+      "name": "ELK"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "160",
+      "name": "DevOps-инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2770726",
+    "name": "Spectr",
+    "url": "https://api.hh.ru/employers/2770726",
+    "alternate_url": "https://hh.ru/employer/2770726",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/963278.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5387132.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5387133.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2770726",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-12T16:01:32+0300",
+  "created_at": "2025-05-12T16:01:32+0300",
+  "initial_created_at": "2025-05-12T16:01:32+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120423317",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120423317",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

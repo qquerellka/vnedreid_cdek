@@ -1,0 +1,119 @@
+{
+  "id": "121427950",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>В компании <strong>Janus Worldwide</strong> открыта вакансия системного администратора отдела информационных технологий</p> <p><strong>Обязанности:</strong></p> <ul> <li>поддержка пользователей по обращениям в системе ERP Helpdesk;</li> <li>установка и сопровождение системного и прикладного программного обеспечения на рабочих местах;</li> <li>сборка, настройка и установка компьютеров, периферии и оргтехники, ремонт заменой комплектующих ;</li> <li>установка и сопровождение системного программного обеспечения на серверных системах;</li> <li>настройка и эксплуатация серверного и сетевого оборудования;</li> <li>прокладка локальных сетей, настройка ip-телефонии, wi-fi роутеров, NAS;</li> <li>учёт материальных ценностей;</li> <li>выполнение общих технических работ.</li> </ul> <strong>Требования:</strong> <ul> <li>опыт работы системным администратором от 3 лет;</li> <li>активная рабочая позиция: помощь пользователям, поиск решения задач и проблем, предложения по улучшению;</li> <li>клиентские операционные системы Microsoft Windows 7-11;</li> <li>серверные операционные системы Microsoft Windows 2008-2022;</li> <li>опыт работы с виртуализацией Hyper-V или VMware;</li> <li>управление антивирусом на уровне предприятия : Kaspersky / Symantec;</li> <li>настройка сетей TCP/IP, DNS, DHCP;</li> <li>понимание принципов защиты информации;</li> <li>опыт работы с CAT-tools будет преимуществом.</li> </ul> <strong>Условия:</strong> <ul> <li>Заработная плата обсуждается по результатам собеседования;</li> <li>Гибридный формат работы;</li> <li>Профессиональный рост;</li> <li>Оформление по ТК РФ, испытательный срок 3 месяца;</li> <li>График: полная занятость, пн. - пт. 9.00-18.00/10.00-19.00;</li> <li>Комфортный офис в 10 минутах пешком от м. Старая Деревня;</li> <li>Стабильная международная компания с 1996 г.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "34805",
+    "name": "Янус",
+    "url": "https://api.hh.ru/employers/34805",
+    "alternate_url": "https://hh.ru/employer/34805",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/224846.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/316801.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/389658.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=34805",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T15:58:56+0300",
+  "created_at": "2025-06-06T15:58:56+0300",
+  "initial_created_at": "2025-06-06T15:58:56+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121427950",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121427950",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "a1",
+        "name": "A1 — Начальный"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

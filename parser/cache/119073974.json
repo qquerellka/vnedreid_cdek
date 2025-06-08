@@ -1,0 +1,156 @@
+{
+  "id": "119073974",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Программист 1С",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "99",
+    "name": "Уфа",
+    "url": "https://api.hh.ru/areas/99"
+  },
+  "salary": {
+    "from": 70000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 70000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "деревня Алексеевка",
+    "street": "Интернациональная улица",
+    "building": "1с1",
+    "lat": 54.834688,
+    "lng": 55.990869,
+    "description": null,
+    "raw": "деревня Алексеевка, Интернациональная улица, 1с1",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <ul> <li>Разработка корпоративной интегрированной системы на основе 1С: Бухгалтерия Сельского Хозяйства, 1С: Документооборот • 1С: Розница 3.0 Тестирование функционала • Участие в проекте по внедрению и сопровождению систем • Поддержка пользователей<br />Обслуживание ПК и орг. техники, торгового оборудования в магазинах торговой сети;<br />Опыт администрирования Microsoft SQL.</li> </ul> <strong>Требования:</strong> <ul> <li>Высшее образование;</li> <li>Опыт администрирования и программирования в 1С на<strong> </strong>уровне разработчика: бухгалтерия предприятия, опыт работы в СУБД; </li> <li>Знание механизмов обмена данными между конфигурациями 1С и другими системами;</li> <li>Умение писать скрипты и SQL-запросы на Bash или Python приветствуется;</li> <li>Знание устройства торгового оборудования приветствуется.</li> </ul> <strong>Условия:</strong> <ul> <li>Официальное трудоустройство согласно ТК РФ, расширенный соцпакет (отпуска, больничные, мат.помощь к отпуску);</li> <li>Официальная заработная плата без задержек;</li> <li>График работы с 08.30-17.30, 5/2;</li> <li>До работы ходит вахтовый автобус (Затон, Дмитриевка,Михайловка,8 марта, округ Галле);</li> <li>Иногородним предоставляется общежитие.</li> </ul> <p>Если у Вас есть вопросы или заинтересовала вакансия, откликайтесь. Мы с Вами обязательно свяжемся!</p> <p>Или приходите на собеседование по адресу: Уфимский район, д.Алексеевка, ул.Интернациональная 1. по будням с 8.30 - 17.00 (обед с 12.00 - 13.00).</p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Администрирование сетевого оборудования"
+    },
+    {
+      "name": "Администрирование серверов Windows"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Настройка DNS"
+    },
+    {
+      "name": "DHCP"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "1147771",
+    "name": "АПК Алексеевский",
+    "url": "https://api.hh.ru/employers/1147771",
+    "alternate_url": "https://hh.ru/employer/1147771",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1141510.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6186613.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6186614.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1147771",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-23T13:51:21+0300",
+  "created_at": "2025-05-23T13:51:21+0300",
+  "initial_created_at": "2025-04-02T13:53:07+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119073974",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119073974",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

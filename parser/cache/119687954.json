@@ -1,0 +1,173 @@
+{
+  "id": "119687954",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Middle+/Senior Python developer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Отрадная улица",
+    "building": "2Бс9",
+    "lat": 55.856548,
+    "lng": 37.600486,
+    "description": null,
+    "raw": "Москва, Отрадная улица, 2Бс9",
+    "metro": {
+      "station_name": "Отрадное",
+      "line_name": "Серпуховско-Тимирязевская",
+      "station_id": "9.97",
+      "line_id": "9",
+      "lat": 55.864273,
+      "lng": 37.605066
+    },
+    "metro_stations": [
+      {
+        "station_name": "Отрадное",
+        "line_name": "Серпуховско-Тимирязевская",
+        "station_id": "9.97",
+        "line_id": "9",
+        "lat": 55.864273,
+        "lng": 37.605066
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Привет, мы Спортлевел!<br /><br />IT компания в области SportTech, мы разрабатываем и предоставляем передовые спортивные технологии для компаний со всего мира, сотрудничаем со многими спортивными федерациями и букмекерами.<br /><br />Мы работаем над экосистемой проектов, где главная задача доставить данные со спортивных мероприятий максимально быстро нашим клиентам (спортивные федерации и букмекеры, включая крупнейших в мире). У нас более 100 сервисов по разным направлениям (CV проекты, аналитические, анимации, сбор данных и прочее).<br /><br />Мы объединяем и обрабатываем огромное количество онлайн-трансляций, получаем более 200 видеопотоков одновременно с последующим транскодированием и кешированием на CDN, в пиковые моменты в ДЦ проходит более 2Гбит/с входящего+исходяшего трафика.<br /><br />Сейчас мы ищем <strong>Middle+ и Senior</strong> <strong>Python разработчика</strong>, который присоединится к нашей команде.<br /><br /><strong>Какой стек мы используем: </strong>Python 3.12+ (FastAPI), asyncio, SQLAlchemy, alembic, pydantic, gRPC, Protobuf, PostgreSQL/MongoDB, RabbitMQ, Celery, Docker. Для организации работы: GitLab, Jira, Notion, Slack.<br /><br /><strong>Что мы ожидаем от тебя:</strong></p> <p>- Обязательно опыт работы с FastAPI или Starlette или aiohttp;<br />- Обязательно опыт написания асинхронных сервисов на Python, включая хорошее знание asyncio;<br />- Обязательно опыт работы с WebSocket;<br />- Умение находить оптимальные алгоритмы.</p> <p><strong>Будет плюсом:</strong></p> <p>- Любовь к PEP8 и типизации;<br />- Наличие математической базы (например, можешь объяснить что такое дисперсия);<br />- Опыт работы с MongoDB.</p> <p><strong>Что есть у нас:</strong></p> <p>- Белая заработная плата, официальное оформление, ДМС со стоматологией;<br />- Гибкий график, есть обязательное время, когда надо быть онлайн/в офисе: с 12 до 18 по Москве, остальное время можешь распределить как тебе удобно;<br />- Компенсация обедов за каждый рабочий день в офисе;<br />- Бонусы от компании на День рождения и Новый год;<br />- Полугодовые премии по факту выполнения KPI;<br />- Возможность полностью удаленной работы или работы из офиса по желанию;<br />- Атмосфера свободы действий. У нас нет бюрократии, и мы всегда открыты к экспериментам и изменениям;<br />- Возможности роста и развития. Мы заинтересованы в твоем развитии, если ты хочешь расти - мы дадим тебе такую возможность.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "asyncio"
+    },
+    {
+      "name": "WebSocket"
+    },
+    {
+      "name": "FastAPI"
+    },
+    {
+      "name": "RabbitMQ"
+    },
+    {
+      "name": "MongoDB"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10772259",
+    "name": "Спортлевел",
+    "url": "https://api.hh.ru/employers/10772259",
+    "alternate_url": "https://hh.ru/employer/10772259",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1421748.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7306641.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7306642.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10772259",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-18T11:55:14+0300",
+  "created_at": "2025-05-18T11:55:14+0300",
+  "initial_created_at": "2025-04-18T11:55:13+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119687954",
+  "has_test": true,
+  "test": {
+    "required": true
+  },
+  "alternate_url": "https://hh.ru/vacancy/119687954",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

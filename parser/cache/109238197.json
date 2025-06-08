@@ -1,0 +1,188 @@
+{
+  "id": "109238197",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер-программист АСУТП",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": null,
+    "to": 140000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 140000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Московский проспект",
+    "building": "212",
+    "lat": 59.852118,
+    "lng": 30.32725,
+    "description": null,
+    "raw": "Санкт-Петербург, Московский проспект, 212",
+    "metro": {
+      "station_name": "Московская",
+      "line_name": "Московско-Петроградская",
+      "station_id": "15.224",
+      "line_id": "15",
+      "lat": 59.848873,
+      "lng": 30.321483
+    },
+    "metro_stations": [
+      {
+        "station_name": "Московская",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.224",
+        "line_id": "15",
+        "lat": 59.848873,
+        "lng": 30.321483
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>&quot;МАТРИКС&quot;</strong> — ведущая компания в проектировании, строительстве линейных сооружений и объектов капитального строительства. Компания также занимаемся разработкой ИТ-решений, автоматизацией и интеграцией в строительстве и ЖКХ. Входит в состав ГК &quot;ПОЛИПЛАСТИК&quot;, одного из крупнейших предприятий химической промышленности в Европе.</p> <p>Сейчас мы в поиске квалифицированного специалиста на позицию <strong>инженера-программиста АСУТП </strong>для разработки и реализации проектов ОКР на базе собственного ПЛК.</p> <p><strong>Ваши задачи:</strong></p> <ul> <li>Разработка конструкторской документации для проектов;</li> <li>Разработка ППО для ПЛК собственного производства;</li> <li>Разработка системных библиотек на языках МЭК для ПЛК;</li> <li>Тестирование новых версий СПО ПЛК;</li> <li>Контроль работы ПЛК во время ПНР.</li> </ul> <p><strong>Наши ожидания:</strong></p> <ul> <li>Уверенные знания языков МЭК. Приоритет ST;</li> <li>Опыт самостоятельной разработки проектов;</li> <li>Знание стека TCP/IP;</li> <li>Опыт работы с протоколами Modbus TCP, S7, OPC UA, ASCII-протоколы;</li> <li>Опыт конфигурирования HMI панелей.</li> </ul> <p><strong>Преимуществом будет:</strong></p> <ul> <li>Опыт работы со средами разработки семейства Beremiz;</li> <li>Опыт программирования C/C++, Python.</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Перспективы карьерного роста. Готовы предоставить все условия для профессионального развитии и достижения новых уровней в вашей карьере.</li> <li>Конкурентная заработная плата­. Итоговое решение по доходу озвучивается на собеседовании и зависит от ваших навыков, знаний и опыта.</li> <li>Официальное трудоустройство с первого рабочего дня.</li> <li>Комфортные условия работы. График 5/2 с 9 до 18, работа в 5 минутах от м. Московская.</li> <li>После испытательного срока (3 месяца) получение ДМС.</li> </ul> <p>Мы ценим каждого сотрудника и создаем условия для его профессионального и личностного роста. <strong>Если вы готовы стать частью нашей команды, отправляйте свое резюме и мы обязательно с вами свяжемся!</strong></p> <p> </p> <p>Вакансия может подойти следующим специалистам<em>: инженер-программист автоматизированных систем управления, специалист по программному обеспечению АСУТП, разработчик программного обеспечения для АСУТП, инженер по автоматизации и программированию, инженер-автоматчик, программист систем управления технологическими процессами, инженер по информационным системам в промышленности.</em></p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "АСУ ТП"
+    },
+    {
+      "name": "ST"
+    },
+    {
+      "name": "HMI"
+    },
+    {
+      "name": "TCP/IP"
+    },
+    {
+      "name": "TCP"
+    },
+    {
+      "name": "UA"
+    },
+    {
+      "name": "S7"
+    },
+    {
+      "name": "МЭК"
+    },
+    {
+      "name": "C/C++"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Beremiz"
+    },
+    {
+      "name": "СПО ПЛК"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3780255",
+    "name": "Матрикс",
+    "url": "https://api.hh.ru/employers/3780255",
+    "alternate_url": "https://hh.ru/employer/3780255",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/597972.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/2833143.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/2833144.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3780255",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-20T10:17:22+0300",
+  "created_at": "2025-05-20T10:17:22+0300",
+  "initial_created_at": "2024-10-24T17:50:11+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=109238197",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/109238197",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

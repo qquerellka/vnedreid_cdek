@@ -1,0 +1,115 @@
+{
+  "id": "120813025",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Разработчик Frontend Vue.js",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>DZ Systems - группа компаний, основанная в 2005 году. Мы входим в реестр аккредитованных IT компаний. Созданные нами продукты давно и успешно используют крупные предприятия федерального значения. Наши ценности: качество продукта, своевременность реализации проектов, высокая адаптивность и юзабилити.</p> <p>Сейчас мы ищем кандидата на ставку <strong>Разработчика Frontend Vue.js.</strong></p> <p> </p> <p><strong>От тебя ждем:</strong></p> <p>-Опыт работы c Vue.js не менее 3 лет;<br />-Хороший опыт работы с Vue3;<br />-Хорошее знание JS;<br />-Опыт работы с Figma;<br />-Кроссбраузерная, мультиплатформенная вёрстка;<br />-Опыт написания unit тестов под Vue.js;<br />-Nuxt 3;<br />-Знание typescript будет плюсом.</p> <p> </p> <p><strong>Чем предстоит заниматься:</strong></p> <p>-Развитие интернет-магазина Hoff - реализация фронтенда сайта;<br />-Взаимодействие с командой: аналитики, разработчики, QA, Team lead;<br />-Знание и понимание SEO;<br />-Разработка компонентов разной сложности (шапка, меню, поиск, фильтры,<br />карточки товаров);<br />-Обновление UI (идет отрисовка новых макетов);<br />-Рефакторинг - переход на composition api, рефакторинг модулей стора и.т.д;<br />- Разбор инцидентов.</p> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Программу &quot;Кафетерий&quot; - наша забота о сотрудниках. Программа позволит компенсировать затраты на занятия спортом, английским языком и проф. обучение;</li> <li>English club, где можно пообщаться в теплой и веселой атмосфере и апгрейдить свой разговорный английский;</li> <li>Day-off - до 3-х дней оплачиваемого больничного без предоставления больничного листа;</li> <li>Гибкий график - ты сам планируешь свое рабочее время, главное результат;</li> <li> <p>Пересмотр заработной платы по итогам аттестации 2 раза в год.</p> </li> <li> <p>Официальное оформление по ТК РФ с первого дня работы. (Варианты по ИП/ГПХ тоже рассматриваем).</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "24155",
+    "name": "DZ Systems",
+    "url": "https://api.hh.ru/employers/24155",
+    "alternate_url": "https://hh.ru/employer/24155",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/850200.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/3841675.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3841676.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=24155",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-21T12:20:41+0300",
+  "created_at": "2025-05-21T12:20:41+0300",
+  "initial_created_at": "2025-05-21T12:20:41+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120813025",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120813025",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

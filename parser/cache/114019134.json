@@ -1,0 +1,156 @@
+{
+  "id": "114019134",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Сетевой администратор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": null,
+    "to": 79000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 79000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "улица Фрунзе",
+    "building": "17",
+    "lat": 55.037521,
+    "lng": 82.927302,
+    "description": null,
+    "raw": "Новосибирск, улица Фрунзе, 17",
+    "metro": {
+      "station_name": "Красный проспект",
+      "line_name": "Ленинская",
+      "station_id": "52.296",
+      "line_id": "52",
+      "lat": 55.040998,
+      "lng": 82.917447
+    },
+    "metro_stations": [
+      {
+        "station_name": "Красный проспект",
+        "line_name": "Ленинская",
+        "station_id": "52.296",
+        "line_id": "52",
+        "lat": 55.040998,
+        "lng": 82.917447
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>в ФГБУ &quot;ННИИТО им. Я.Л. Цивьяна&quot; Минздрава России открыта вакансия сетевого администратора.</p> <p><strong>Должностные обязанности:</strong></p> <ul> <li> <p>Выполнение работ по выявлению и устранению инцидентов в информационно-коммуникационных системах;</p> </li> <li> <p>Обеспечение работы технических и программных средств информационно-коммуникационных систем;</p> </li> <li> <p>Реализация схемы резервного копирования, архивирования и восстановления конфигураций технических и программных средств информационно-коммуникационных систем по утвержденным планам;</p> </li> <li> <p>Внесение изменений в технические и программные средства информационно-коммуникационных систем по утвержденному плану работ;</p> </li> <li> <p>Проведение обновления программного обеспечения технических средств информационно-коммуникационных систем по инструкциям производителей;</p> </li> <li> <p>Диагностика исчерпания типовых ресурсов информационно-коммуникационных систем с использованием прикладных программных средств и средств контроля;</p> </li> <li> <p>Проведение предварительных испытаний при проведении работ с возможными рисками перерывов в предоставлении сервисов информационно-коммуникационных систем.</p> </li> </ul> <p><strong>Требования к образованию и опыту работы:</strong></p> <ul> <li> <p>среднее профессиональное образование или высшее образование;</p> </li> <li> <p>опыт в практической работе в области компьютерных и телекоммуникационных технологий и информационной безопасности не менее 1 года.</p> </li> </ul> <p><strong>Особые условия допуска к работе:</strong></p> <ul> <li>прохождение обязательных предварительных (при поступлении на работу) и периодических медицинских осмотров (обследований), а также внеочередных медицинских осмотров (обследований) в порядке, установленном законодательством Российской Федерации;</li> <li>отсутствие ограничений на занятие профессиональной деятельностью, установленных законодательством Российской Федерации.</li> </ul> <p><strong>Со своей стороны мы предлагаем:</strong></p> <ul> <li>работу в государственном бюджетном учреждении в центре города;</li> <li>полный соц.пакет;</li> <li>официальное трудоустройство с первого дня работы;</li> <li>пятидневная рабочая неделя с 08:00 до 16:30;</li> <li>скидка 50% на услуги нашего учреждения для наших работников и членов его семьи.</li> </ul> <p><strong>Ждем Ваших откликов!</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "104026",
+    "name": "ФГБУ ННИИТО им.Я.Л.Цивьяна Минздрава России",
+    "url": "https://api.hh.ru/employers/104026",
+    "alternate_url": "https://hh.ru/employer/104026",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/950288.png",
+      "90": "https://img.hhcdn.ru/employer-logo/4241688.png",
+      "240": "https://img.hhcdn.ru/employer-logo/4241689.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=104026",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-13T08:07:44+0300",
+  "created_at": "2025-05-13T08:07:44+0300",
+  "initial_created_at": "2024-12-18T11:15:07+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=114019134",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/114019134",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

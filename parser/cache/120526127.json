@@ -1,0 +1,163 @@
+{
+  "id": "120526127",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Инженер-программист Rust",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 150000,
+    "to": 350000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 150000,
+    "to": 350000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "Красноуральская улица",
+    "building": "14",
+    "lat": 56.83519,
+    "lng": 60.555972,
+    "description": null,
+    "raw": "Екатеринбург, Красноуральская улица, 14",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>О нас</strong></p> <p>InfiNet разрабатывает передовые системы беспроводной связи, которые применяют операторы связи, на железнодорожном и морском транспорте, добывающие и промышленные предприятия более чем в 100 странах по всему миру. Наши клиенты разворачивают беспроводные сети, покрывающие территории целых городов и регионов в условиях экстремальной жары и холода.<br />За годы существования компании, основанной в 1993 году, более 300 заказчиков установили около 500 тыс. устройств «InfiNet» более чем в 130 странах мира.</p> <p>За это время в компании сформировался коллектив компетентных специалистов, способных решать вопросы любой сложности: проектирование активных антенных систем, разработка высокотехнологичных устройств связи с нуля, реализация собственных сетевых протоколов и т.д. Мы ведем разработку на базе собственной ОС, реализуем уникальные решения, не имеющие аналогов в мире. Наши устройства позволяют строить самоорганизующиеся сети связи, высокопроизводительные каналы передачи данных, надежные и резервируемые решения.</p> <p>Мы - международная компания, наши продукты продаются по всему миру, наше оборудование участвует в создании особо важных продуктов, которые обеспечивают сохранность природы.</p> <p>Команда Infinet Wireless приглашает к сотрудничеству Инженера-программиста RUST .</p> <p><strong> Команда Infinet Wireless:</strong></p> <ul> <li> <p>участвует в разработке высокотехнологичных продуктов, которые производятся в РФ и эксплуатируются по всему миру;</p> </li> <li> <p>решает технически сложные задачи и работает с современными технологиями в области беспроводной связи;</p> </li> <li> <p>получает быстрый и видимый результат приложенных усилий.</p> </li> </ul> <p><strong>Что нужно делать:</strong></p> <ul> <li> <p>Разработка прикладного ПО для embedded систем на базе Linux и проприетарной ОС для стационарных и мобильных систем связи.</p> </li> <li> <p>Реализация сетевых протоколов и портирование готового кода.</p> </li> <li> <p>Участие в проектировании и реализации решений для новых проектов систем связи.</p> </li> </ul> <p><strong>Что мы ожидаем от кандидата:</strong></p> <ul> <li> <p>Опыт разработки ПО на RUST от 2х лет (могут быть учебные проекты).</p> </li> <li> <p>Понимание концепции асинхронного программирования.</p> </li> <li> <p>Опыт работы с системами контроля версий (git).</p> </li> <li> <p>Опыт программирования под Unix/Linux, либо под RTOS (RTEMS, VxWorks и т.п.).</p> </li> <li> <p>Знание английского языка на уровне работы с технической документацией.</p> </li> </ul> <p><strong>Будет преимуществом:</strong></p> <ul> <li> <p>Знание языка C/C++.</p> </li> <li> <p>Опыт работы с большими массивами чужого программного кода.</p> </li> <li> <p>Опыт разработки для embedded систем.</p> </li> <li> <p>Знание сетевых технологий (L2-коммутации, динамической маршрутизации, QoS и т.п.) в проводных и беспроводных сетях.</p> </li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>работа в международной компании;</li> <li>белая заработная плата, полное соблюдение ТК РФ;</li> <li>расширенный соц. пакет (ДМС, файв-о-клок «полдники»);</li> <li>обучение за счет компании (как внутреннее, так и внешнее);</li> <li>помощь с переездом из других регионов.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "RUST"
+    },
+    {
+      "name": "C++"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "810277",
+    "name": "InfiNet Wireless",
+    "url": "https://api.hh.ru/employers/810277",
+    "alternate_url": "https://hh.ru/employer/810277",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/690206.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3201956.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3201957.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=810277",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T11:55:32+0300",
+  "created_at": "2025-06-07T11:55:32+0300",
+  "initial_created_at": "2025-05-14T11:55:32+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120526127",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120526127",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b1",
+        "name": "B1 — Средний"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "TWO_ON_TWO_OFF",
+      "name": "2/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

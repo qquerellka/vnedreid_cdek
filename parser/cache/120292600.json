@@ -1,0 +1,179 @@
+{
+  "id": "120292600",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "66",
+    "name": "Нижний Новгород",
+    "url": "https://api.hh.ru/areas/66"
+  },
+  "salary": {
+    "from": 90000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 90000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Нижний Новгород",
+    "street": "Ошарская улица",
+    "building": "14",
+    "lat": 56.32056427001953,
+    "lng": 44.00954818725586,
+    "description": null,
+    "raw": "Нижний Новгород, Ошарская улица, 14",
+    "metro": {
+      "station_name": "Горьковская",
+      "line_name": "Автозаводская",
+      "station_id": "50.278",
+      "line_id": "50",
+      "lat": 56.313933,
+      "lng": 43.99482
+    },
+    "metro_stations": [
+      {
+        "station_name": "Горьковская",
+        "line_name": "Автозаводская",
+        "station_id": "50.278",
+        "line_id": "50",
+        "lat": 56.313933,
+        "lng": 43.99482
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Вакансия: Разработчик с опытом no-code/low-code автоматизации</strong></p> <p>уровень middle (возможно strong junior), автоматизация и интеграция с API</p> <p><strong>ПРОЕКТНАЯ РАБОТА!</strong></p> <p><strong>О нас:</strong> <strong>Сервисная компания «Кристалл»</strong> — это команда профессионалов, стремящихся к активному развитию и предоставлению услуг в сфере питания, уборки и технического обслуживания для крупнейших предприятий России. Наша география охватывает как удаленные участки за Северным полярным кругом и в Восточной Сибири, так и объекты в Европейской части России. Мы ищем целеустремленных и активных сотрудников, готовых стать частью нашей команды.</p> <p><strong>Обязанности:</strong></p> <ul> <li>Разработка и внедрение решений на платформах no-code/low-code для автоматизации бизнес-процессов;</li> <li>Анализ требований и создание технической документации;</li> <li>Тестирование и оптимизация разработанных решений;</li> <li>Взаимодействие с другими отделами для выявления и реализации потребностей в автоматизации;</li> <li>Поддержка и обновление существующих решений.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li> Уверенное владение no-code/low-code платформами: Make (Integromat), n8n или Pipedream;</li> <li>Работа с API: OpenAI API, Telegram Bot API, Google Workspace API;</li> <li>Работа с шаблонами документов: Google Docs / Word DOCX, генерация PDF;</li> <li>Работа с таблицами и базами данных: Google Sheets, Airtable;</li> <li>Понимание работы с чувствительной информацией, настройка безопасности</li> </ul> <p><strong>Условия работы:</strong></p> <ul> <li><strong>Проектная работа </strong>(желающим прокачать свои скиллы);</li> <li>Рассмотрим вариант сотрудничества с СЗ, ИП;</li> <li>Возможности для профессионального роста и развития.</li> </ul> <p>Присоединяйтесь к нашей команде и станьте частью динамично развивающейся компании, где ваши навыки и стремления будут высоко оценены!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Автоматизация процессов"
+    },
+    {
+      "name": "Оптимизация бизнес-процессов"
+    },
+    {
+      "name": "Оптимизация кода"
+    },
+    {
+      "name": "Java"
+    },
+    {
+      "name": "MS SQL"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "Разработка бизнес-требований"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "2834468",
+    "name": "Кристалл",
+    "url": "https://api.hh.ru/employers/2834468",
+    "alternate_url": "https://hh.ru/employer/2834468",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/809257.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3677915.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3677916.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2834468",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-22T14:31:06+0300",
+  "created_at": "2025-05-22T14:31:06+0300",
+  "initial_created_at": "2025-05-06T16:38:39+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120292600",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120292600",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

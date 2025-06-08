@@ -1,0 +1,143 @@
+{
+  "id": "121425281",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Эксперт по бизнес-процессам",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 200000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 200000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "деревня Новая Купавна",
+    "street": "микрорайон Родинки, Сиреневая улица",
+    "building": "21",
+    "lat": 55.826781,
+    "lng": 38.096078,
+    "description": null,
+    "raw": "деревня Новая Купавна, микрорайон Родинки, Сиреневая улица, 21",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": false,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Загородный Конгресс-Отель Ареал 4* приглашает в команду Эксперта по бизнес-процессам</p> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Работу в динамичной активно развивающейся компании;</li> <li>Оформление по ТК РФ в штат с первого дня работы;</li> <li>Полный соц. пакет (оплачиваемые отпуска, больничные, мат. помощь в сложных жизненных ситуациях);</li> <li>Достойный уровень «белой» заработной платы (обсуждается на собеседовании);</li> <li>График работы: 5/2; рабочий день с 8:00 до 17:00 или с 09:00 до 18:00;</li> <li>Корпоративный трансфер от г. Балашиха, г. Ногинск, ЖД ст. Осеевская, ЖД ст. Купавна до Отеля и обратно;</li> <li>Бесплатную парковку;</li> </ul> <ul> <li>Комфортное место работы в Конгресс-Отеле &quot;Ареал&quot; 4*: Ногинский р-н, Новая Купавна;</li> <li>Мероприятия для сотрудников и их семей;</li> <li>Корпоративную программу лояльности (скидки на услуги отеля);</li> <li>Молодой и дружный коллектив единомышленников.</li> </ul> <p><strong>В Ваши обязанности будет входить:</strong></p> <ul> <li> <p>Оптимизация процессов;</p> </li> <li> <p>Автоматизация бизнес процессов;</p> </li> <li> <p>Прописание бизнес-процессов;</p> </li> <li> <p>Управление проектными командами по усовершенствованию бизнес-процессов;</p> </li> <li> <p>Мониторинг и контроль работы процессов.</p> </li> </ul> <p><strong>От Вас мы ожидаем:</strong></p> <ul> <li>Знание и понимание философии Кайдзен;</li> <li>Опыт работы в аналогичной должности;</li> <li>Высокий уровень ответственности за результат, активность, целеустремленность, стрессоустойчивость.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "150",
+      "name": "Бизнес-аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5156941",
+    "name": "Конгресс-отель Ареал",
+    "url": "https://api.hh.ru/employers/5156941",
+    "alternate_url": "https://hh.ru/employer/5156941",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/818803.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3716099.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3716100.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5156941",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T15:10:33+0300",
+  "created_at": "2025-06-06T15:10:33+0300",
+  "initial_created_at": "2025-06-06T15:10:33+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121425281",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121425281",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,129 @@
+{
+  "id": "120681583",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Тестировщик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "улица Малышева",
+    "building": "71",
+    "lat": 56.83684,
+    "lng": 60.623346,
+    "description": null,
+    "raw": "Екатеринбург, улица Малышева, 71",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Artsofte</strong> — это аккредитованная <strong>IT-компания из Екатеринбурга</strong>.</p> <p>Больше 20 лет разрабатываем программное обеспечение, которое помогает банкам, девелоперам и автодилерам строить качественный цифровой клиентский сервис. А еще у нас есть свой сервис мобильного документооборота и агентство digital-маркетинга.</p> <p><strong>Nocode.ru </strong>– это платформа для цифровой трансформации бизнеса, которая позволяет создавать сервисы и личные кабинеты без единой строчки кода.</p> <p>Наш продукт – это цифровой прорыв, в 2022 получили премию <strong>FinAward</strong>, в 2023 стали победителями <strong>Хакатона от Сбера</strong>.</p> <p>Сейчас мы находимся в поиске<strong> junior</strong> <strong>тестировщика.</strong></p> <p><strong>Обязанности:</strong></p> <ul> <li> <p>составлять, актуализировать и проверять тестовую документацию на выпускаемые продукты согласно принятым регламентам;</p> </li> <li> <p>проводить тестирование UX\\UI графических интерфейсов;</p> </li> <li> <p>проводить функциональное тестирование программных продуктов в юните;</p> </li> <li> <p>проводить smoke, sanity и регрессионное тестирование;</p> </li> <li> <p>проводить локализацию дефектов в выпускаемом продукте и описывать шаги воспроизведения, а также отслеживать их выполнение;</p> </li> <li> <p>проводить кросс-браузерное и кроссплатформенное тестирование выпускаемых продуктов;</p> </li> <li> <p>контролировать качество выпускаемых продуктов на всех этапах разработки.</p> </li> </ul> <p><strong>Требования:</strong></p> <ul> <li> <p>понимание техник тест-анализа и тест-дизайна;</p> </li> <li> <p>опыт составления тест- кейсов;</p> </li> <li> <p>опыт работы с swagger, postman, devtools;</p> </li> <li> <p>опыт работы со снифферами.</p> </li> </ul> <p><strong>Что мы ценим друг в друге:</strong></p> <ul> <li> <p>открытость новому, умение генерировать идеи для нестандартных проектов;</p> </li> <li> <p>влюбленность в свою работу, желание развиваться, повышать уровень навыков;</p> </li> <li> <p>инициативность: мы проактивная команда и ищем такого же коллегу;</p> </li> <li> <p>нацеленность на результат;</p> </li> <li> <p>высокую самостоятельность в работе.</p> </li> </ul> <p><strong>Условия:</strong></p> <ul> <li> <p>возможности для профессионального роста: опытный наставник, система грейдирования и прозрачные планы твоего развития.</p> </li> <li> <p>работа в аккредитованной IT-компании, которая заботится о своих сотрудниках;</p> </li> <li> <p>белая конкурентная зарплата, трудоустройство согласно ТК РФ - оклад обсуждаем с финалистом;</p> </li> <li> <p>график 5/2, начало рабочего дня до 11:00, после испытательного срока возможен гибрид;</p> </li> <li> <p>современный офис в формате open space в центре города (Малышева 71);</p> </li> <li> <p>ДМС.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "71518",
+    "name": "Artsofte",
+    "url": "https://api.hh.ru/employers/71518",
+    "alternate_url": "https://hh.ru/employer/71518",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1331551.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6946222.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6946223.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=71518",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T14:34:56+0300",
+  "created_at": "2025-06-06T14:34:56+0300",
+  "initial_created_at": "2025-05-19T09:23:45+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120681583",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120681583",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,152 @@
+{
+  "id": "120855794",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист технической поддержки клиентов (удаленно)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 50000,
+    "to": 60000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 50000,
+    "to": 60000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы — <strong>Enjoy Robotics</strong>, команда молодых инженеров и техно-энтузиастов на рынке образовательной робототехники. Наша миссия — сделать программирование и электронику доступными для всей семьи.</p> <p> </p> <p> </p> <p><strong>У нас:</strong></p> <p> </p> <p>✔️ Уникальный продукт — мы предлагаем действительно крутые наборы, которые выделяются на рынке;</p> <p>✔️ Удаленная работа — работаем там, где комфортно;</p> <p>✔️ Карьерный рост — мы поддерживаем амбиции наших сотрудников.</p> <p> </p> <p>Мы ищем инициативного и амбициозного специалиста технической поддержки, который будет гореть с нами одним делом.</p> <p> </p> <p> </p> <p><strong>Требования к кандидату:</strong></p> <p> </p> <ul> <li>Опыт работы с контроллерами Arduino и средами разработки Arduino IDE, mBlock 5;</li> <li>Грамотная устная и письменная речь;</li> <li>Пунктуальность и вежливость;</li> <li>Готовность и умение решать проблемы клиентов.</li> </ul> <p> </p> <p><em>Опыт преподавания робототехники будет плюсом!</em></p> <p> </p> <p> </p> <p><strong>Задачи:</strong></p> <p> </p> <ul> <li>Отвечать на обращения клиентов в техническую поддержку через систему Битрикс;</li> <li>Быть на связи в рабочее время с 9:00 по 18:00 по мск времени в будние дни;</li> <li>В ходе ответов на обращения предоставлять клиентам решения, сопровождать их до конечного результата — успешного запуска робота или электронного конструктора, который они приобрели;</li> <li>Выявлять причины возникновения проблем и помогать в их решении;</li> <li>Курировать процесс отправки клиенту замененных деталей;</li> <li>Вести аналитику часто встречаемых проблем для их решения на уровне производства и разработки.</li> </ul> <p> </p> <p> </p> <p><strong>Что мы предлагаем?</strong></p> <p> </p> <ul> <li>График работы: 5/2, с 09:00 до 18:00;</li> <li>Удаленный формат работы;</li> <li>Доход: Оклад 50 000 на ИС, 60 000 после ИС;</li> <li>Рост внутри компании персонализированный и зависит от успехов;</li> <li>Оформление <strong>по ТК РФ с первого дня</strong>.</li> </ul> <p> </p> <p> </p> <p>Присоединяйтесь к <strong>Enjoy Robotics</strong>! Станьте частью команды, которая делает будущее доступным уже сегодня.</p> <p> </p> <p><strong>Мы ждём именно вас!</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Arduino"
+    },
+    {
+      "name": "Битрикс24"
+    },
+    {
+      "name": "Грамотная речь"
+    },
+    {
+      "name": "Пунктуальность"
+    },
+    {
+      "name": "Умение учиться"
+    },
+    {
+      "name": "Коммуникабельность"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "3335742",
+    "name": "Enjoy Camp",
+    "url": "https://api.hh.ru/employers/3335742",
+    "alternate_url": "https://hh.ru/employer/3335742",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/514340.png",
+      "90": "https://img.hhcdn.ru/employer-logo/2498948.png",
+      "240": "https://img.hhcdn.ru/employer-logo/2498949.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3335742",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T13:45:57+0300",
+  "created_at": "2025-06-02T13:45:57+0300",
+  "initial_created_at": "2025-05-22T10:57:29+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120855794",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120855794",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

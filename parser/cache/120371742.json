@@ -1,0 +1,170 @@
+{
+  "id": "120371742",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Backend-разработчик (PHP)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 200000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 200000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы ценим людей, находим баланс между работой и жизнью, создаём решения, о которых не стыдно рассказать друзьям и родственникам.</p> <p>В первый день работы покажем насколько легко с нами работать — процесс трудоустройства, онбординга и вовлечения будут человечными, без лишней бюрократии и инструкций.</p> <p>Удаленка и дружеская атмосфера сделают работу ещё более комфортной.</p> <p><strong>Почему у нас круто:</strong></p> <ul> <li> <p>Молодой коллектив опытных профессионалов – у нас весело и интересно, но при этом всегда есть чему поучиться друг у друга.</p> </li> <li> <p>Гибкость и простота в процессах и решении рабочих задач.</p> </li> <li> <p>Культура открытости и взаимопомощи: команда состоит из людей, вовлеченных в создание крутого продукта и неравнодушных к своему делу.</p> </li> </ul> <p><strong>Что нужно знать и уметь:</strong></p> <p><strong>Минимальный набор </strong></p> <p>PHP, Symfony, Doctrine</p> <p>SQL, REST API</p> <p>TDD, PHPUnit в реальных проектах</p> <p><strong>Плюсом будет</strong></p> <p>Java и Spring, C# и .NET</p> <p>GraphQL</p> <p>DDD</p> <p><strong>Чем необходимо заниматься:</strong></p> <ul> <li>Моделировать бизнес-логику и процессы.</li> <li> <p>Писать код и тесты.</p> </li> <li> <p>Актуализировать стек.</p> </li> <li> <p>Интегрировать разные веб-сервисы (росреестр, банки, удостоверяющие центры и многое другое).</p> </li> </ul> <p><strong>Наш стек:</strong> PHP 8, Symfony, PostgreSQL</p> <p><strong>От нас - все для комфортной работы:</strong></p> <ul> <li> <p>Дружная, современная команда профессионалов, открытых к развитию продуктового фреймворка.</p> </li> <li> <p>Официальное трудоустройство и заработная плата.</p> </li> <li> <p>Возможность обучения, развития и роста.</p> </li> <li> <p>Гибкое начало рабочего дня (возможность работать удаленно, но по часовому поясу +- 3 часа к Екатеринбургу).</p> </li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "Symfony"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "DDD"
+    },
+    {
+      "name": "Удаленная работа"
+    },
+    {
+      "name": "GraphQL"
+    },
+    {
+      "name": "Java"
+    },
+    {
+      "name": "Spring Framework"
+    },
+    {
+      "name": "С#"
+    },
+    {
+      "name": ".NET Framework"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "doctrine"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4258907",
+    "name": "СДЕЛКАРФ",
+    "url": "https://api.hh.ru/employers/4258907",
+    "alternate_url": "https://hh.ru/employer/4258907",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/935918.png",
+      "90": "https://img.hhcdn.ru/employer-logo/4184220.png",
+      "240": "https://img.hhcdn.ru/employer-logo/4184221.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4258907",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-12T08:06:01+0300",
+  "created_at": "2025-05-12T08:06:01+0300",
+  "initial_created_at": "2025-05-12T08:06:01+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120371742",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120371742",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

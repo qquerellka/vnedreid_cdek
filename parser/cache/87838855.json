@@ -1,0 +1,125 @@
+{
+  "id": "87838855",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Разработчик Python",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 200000,
+    "to": 287000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 200000,
+    "to": 287000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Наш клиент - </strong>Компания – разработчик комплексных технических решений в сфере ИТ и ИБ (аккредитованная IT-компания)</p> <p>Приглашает на работу <strong>Разработчика Python </strong></p> <p><strong>ТРЕБОВАНИЯ:</strong></p> <ul> <li>Опыт разработки на Python 3.6+ от 3-х лет</li> <li>Опыт работы с Git</li> <li>Опыт с микросервисной архитектурой</li> <li>Опыт работы с очередями (RabbitMQ / Kafka)</li> <li>Знания - FastIAPI</li> <li>Хорошие знания алгоритмов, умение оценивать их сложность</li> <li>Опыт работы с нереляционными базами данных - MongoDB/ElasticSearch/Redis</li> <li>Опыт самостоятельной упаковки приложений в Docker</li> <li>Самостоятельность, умение анализировать требования, декомпозировать задачи</li> </ul> <p><strong>ОБЯЗАННОСТИ:</strong></p> <ul> <li>Основной стек: Python 3.6+, FastAPI, Flask, MongoDB/ElasticSearch/Redis, RabbitMQ, Docker</li> <li>Разработка и развитие backend проектов, разработка новых решений (с нуля)</li> <li>Многопоточность (Threading / Multiprocessing)</li> <li>Проектирование и разработка API web-приложений и механизмов интеграций сторонних сервисов</li> </ul> <strong>УСЛОВИЯ:</strong> <ul> <li>Место работы: г. Москва, м. Преображенская площадь</li> <li>График работы: с 09:00 до 18:00 ч.</li> <li>Высокий оклад: вилка 200 000 руб. - 250 000 руб. на руки( в зависимости от Вашего опыта работы)</li> <li>Полностью официальная заработная плата!</li> <li>Карьерный рост</li> <li>ДМС</li> <li>Официальное оформление по ТК РФ</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "25022",
+    "name": "ProfiStaff",
+    "url": "https://api.hh.ru/employers/25022",
+    "alternate_url": "https://hh.ru/employer/25022",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1400512.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7221819.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7221820.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=25022",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T10:56:38+0300",
+  "created_at": "2025-06-04T10:56:38+0300",
+  "initial_created_at": "2023-10-06T14:00:16+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=87838855",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/87838855",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

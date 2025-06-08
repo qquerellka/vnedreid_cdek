@@ -1,0 +1,186 @@
+{
+  "id": "121235137",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "PHP-разработчик (Symfony)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 150000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 150000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "улица Адмирала Макарова",
+    "building": "15",
+    "lat": 55.829128,
+    "lng": 37.493308,
+    "description": null,
+    "raw": "Москва, улица Адмирала Макарова, 15",
+    "metro": {
+      "station_name": "Балтийская",
+      "line_name": "МЦК",
+      "station_id": "95.543",
+      "line_id": "95",
+      "lat": 55.825833,
+      "lng": 37.496111
+    },
+    "metro_stations": [
+      {
+        "station_name": "Балтийская",
+        "line_name": "МЦК",
+        "station_id": "95.543",
+        "line_id": "95",
+        "lat": 55.825833,
+        "lng": 37.496111
+      },
+      {
+        "station_name": "Водный стадион",
+        "line_name": "Замоскворецкая",
+        "station_id": "2.29",
+        "line_id": "2",
+        "lat": 55.838978,
+        "lng": 37.487515
+      },
+      {
+        "station_name": "Войковская",
+        "line_name": "Замоскворецкая",
+        "station_id": "2.30",
+        "line_id": "2",
+        "lat": 55.818923,
+        "lng": 37.497791
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Наша компания создает платформу (https://gostassistent.ru/) для эффективной работы с нормативно-правовыми актами и государственными стандартами.</p> <p>Платформа включает в себя функции социальных сетей, доступа к обширной базе документов, инструменты для работы с ИИ, платежные интеграции.<br /><br />Сейчас в команду мы ищем опытного PHP-разработчика с хорошим коммерческим опытом работы на Symfony на постоянную работу в офисе.</p> <p>Задачи:<br /><br />- Поддержание имеющегося кода высоконагруженного приложения;<br />- Разработка новых модулей, рефакторинг;<br />- Написание тестов.</p> <p>Требования:</p> <p>- Обязателен опыт работы с фреймворком Symfony или Laravel;<br />- Готовность работать с чужим кодом;<br />- Наличие выполненных проектов в github;<br />- Знание SQL, REST API;<br />- Опыт работы с Docker.</p> <p>Будет плюсом:</p> <p>- Вашим преимуществом будет опыт работы с фреймворком Symfony 6;<br />- Знание других языков (Python), опыт интеграции с LLM API;<br />- Знакомы с платежным шлюзом Юкасса/1С.</p> <p>Условия работы:</p> <p>- Оформление по ТК РФ;<br />- График работы - 8 часовой рабочий день, понедельник-пятница в офисе. В сопроводительном письме напишите слово &quot;ping&quot;.<br /></p> <p>Условия работы у нас:</p> <p>- Оформление по ТК РФ;<br />- График работы - 8 часовой рабочий день, понедельник-пятница в офисе.</p> <p>Ключевые навыки:</p> <p>Postgres, PHP, Git, RestAPI, Docker</p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "RestAPI"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Symfony"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10829187",
+    "name": "Гост",
+    "url": "https://api.hh.ru/employers/10829187",
+    "alternate_url": "https://hh.ru/employer/10829187",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10829187",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T16:21:29+0300",
+  "created_at": "2025-06-02T16:21:29+0300",
+  "initial_created_at": "2025-06-02T16:21:29+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121235137",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121235137",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

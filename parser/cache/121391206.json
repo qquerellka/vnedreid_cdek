@@ -1,0 +1,164 @@
+{
+  "id": "121391206",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Разработчик 1С",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 215600,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 215600,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Задачи :</strong></p> <ul> <li>Поддержка, разработка и сопровождение систем на базе 1С,</li> <li>Работа с конфигурациями: Бухгалтерия предприятия, ЗУП и/или Розница,</li> <li>Разработка и поддержка интеграции 1С с внешними системами (API, веб-сервисы),</li> <li>Разработка отчетов разной сложности с использованием СКД,</li> <li>Работа с системами контроля версий (хранилище 1С),</li> <li>Работа по ТЗ (оценка трудозатрат, ведение задач в трекере (Jira, EVA и т.п.))</li> </ul> <p><strong>Навыки и опыт:</strong></p> <ul> <li>Опыт работы с конфигурациями: Бухгалтерия предприятия, ЗУП и/или Розница,</li> <li>Опыт настройки и работы с типовыми интеграционными решениями (1С-КА, 1С-EDI и др.),</li> <li>Знание смежных технологий (XML, JSON, HTTP, основы сетей),</li> <li>Опыт работы с региональными версиями 1С (Казахстан, Беларусь)</li> </ul> <p><em><strong>Будет плюсом: </strong>опыт работы в розничных или торговых компаниях с поддержкой 1С:Розница, участие в проектах перехода на новые конфигурации (Бухгалтерия 3.0, ЗУП 3.1, Розница 2.x)</em></p> <p><strong>Мы предлагаем:</strong></p> <p>Работу в международной компании EССO</p> <ul> <li>Плавающее начало рабочего дня с 8.00, 9.00 или 10.00</li> <li>Широкие возможности для обучения и развития: внутренние и внешние тренинги, участие в профильных конференциях и кросфункциональных проектах</li> <li>Заботу о здоровье: расширенный пакет ДМC со стоматологией, cтрахование от несчастных случаев и критических заболеваний после испытательного срока</li> <li>Скидку 50% на всю продукцию компании</li> <li>2 пары обуви в год бесплатно</li> <li>Скидки от партнеров по программе Best benefits</li> <li>И конечно, соблюдение всех социальных гарантий: оформление в полном соответствии с ТК РФ</li> </ul> <p><strong>Этапы подбора:</strong></p> <p>Онлайн интервью с HR менеджером (где мы расскажем о нашей корпоративной культуре, обсудим ваш опыт, ожидания от идеального работодателя, задачи и условия работы и разберём профессиональные кейсы)</p> <ul> <li>Выполнение онлайн тестирования (тест на тип мышления и гуманитарный тест на тип личности)</li> <li>Онлайн встреча с руководителем</li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "1С программирование"
+    },
+    {
+      "name": "1С: Управление Торговлей"
+    },
+    {
+      "name": "1С: Предприятие 8"
+    },
+    {
+      "name": "ERP-системы на базе 1С"
+    },
+    {
+      "name": "1С: Бухгалтерия"
+    },
+    {
+      "name": "1С: Документооборот"
+    },
+    {
+      "name": "1С: Управление Производственным Предприятием"
+    },
+    {
+      "name": "Обновление конфигурации 1С"
+    },
+    {
+      "name": "1С: Предприятие"
+    },
+    {
+      "name": "1С: Зарплата и кадры"
+    },
+    {
+      "name": "1С"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2884",
+    "name": "ECCO",
+    "url": "https://api.hh.ru/employers/2884",
+    "alternate_url": "https://hh.ru/employer/2884",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/657545.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/3071328.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3071329.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2884",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T15:54:25+0300",
+  "created_at": "2025-06-05T15:54:25+0300",
+  "initial_created_at": "2025-06-05T15:54:25+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121391206",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121391206",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

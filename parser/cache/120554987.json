@@ -1,0 +1,186 @@
+{
+  "id": "120554987",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Продуктолог отдела онлайн бронирования авиабилетов",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 75000,
+    "to": 85000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 75000,
+    "to": 85000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Алтайская улица",
+    "building": "21",
+    "lat": 59.84885,
+    "lng": 30.327699,
+    "description": null,
+    "raw": "Санкт-Петербург, Алтайская улица, 21",
+    "metro": {
+      "station_name": "Московская",
+      "line_name": "Московско-Петроградская",
+      "station_id": "15.224",
+      "line_id": "15",
+      "lat": 59.848873,
+      "lng": 30.321483
+    },
+    "metro_stations": [
+      {
+        "station_name": "Московская",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.224",
+        "line_id": "15",
+        "lat": 59.848873,
+        "lng": 30.321483
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <p>- формирование и корректировка ценообразования на базе файлов Excel для вывода и актуализации продукта на сайты;<br />- выполнение технических настроек на сайтах для вывода и актуализации продукта;<br /><strong>- </strong>комбинирование маршрутов, оптимизация кэша, выход на новые рынки или запуск мультимодальных путешествий;<br />- использование аналитические инструменты (работа со сводными таблицами, дашбордами поставщиков и партнеров);<br /><strong>- </strong>проведение анализа конкурентной среды, изучение предложений и стратегий конкурентов;<br />- мониторинг изменений на рынке авиаперевозок, включая тарифы, акции и новые услуги;<br />- постоянное совершенствование навыков работы с аналитическими инструментами и методами анализа данных;<br />- изучение новых трендов в области онлайн-бронирования и аналитики;<br />- взаимодействие с поставщиками и техническими провайдерами.</p> <p> </p> <p><strong>Требования:<br />-</strong> Внимательность, стрессоустойчивость, грамотная устная и письменная речь;<br />- Хорошие знания ПК, работа с сайтами, знание Excel;<br />- Знание систем бронирования авиабилетов приветствуется (но не обязательно)</p> <p> </p> <p><strong>Условия:</strong></p> <p>-Оформление по ТК РФ<br />-ДМС<br />-график работы 5-ти дневка<br />-офис 5 минут от метро &quot;Московская&quot;</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Онлайн исследования"
+    },
+    {
+      "name": "Авиаперевозки"
+    },
+    {
+      "name": "Авиабилеты"
+    },
+    {
+      "name": "Бронирование билетов"
+    },
+    {
+      "name": "Системы бронирования"
+    },
+    {
+      "name": "Работа с большим объемом информации"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "164",
+      "name": "Продуктовый аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1076397",
+    "name": "АэроТур",
+    "url": "https://api.hh.ru/employers/1076397",
+    "alternate_url": "https://hh.ru/employer/1076397",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/351350.JPG",
+      "90": "https://img.hhcdn.ru/employer-logo/1847666.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/1847667.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1076397",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T18:17:46+0300",
+  "created_at": "2025-06-04T18:17:46+0300",
+  "initial_created_at": "2025-05-14T18:17:46+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120554987",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120554987",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

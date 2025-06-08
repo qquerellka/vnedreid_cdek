@@ -1,0 +1,157 @@
+{
+  "id": "121301536",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист первой линии технической поддержки пользователей",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Рябиновая улица",
+    "building": "43к1",
+    "lat": 55.702987,
+    "lng": 37.42571,
+    "description": null,
+    "raw": "Москва, Рябиновая улица, 43к1",
+    "metro": {
+      "station_name": "Кунцевская",
+      "line_name": "Арбатско-Покровская",
+      "station_id": "3.69",
+      "line_id": "3",
+      "lat": 55.730673,
+      "lng": 37.446522
+    },
+    "metro_stations": [
+      {
+        "station_name": "Кунцевская",
+        "line_name": "Арбатско-Покровская",
+        "station_id": "3.69",
+        "line_id": "3",
+        "lat": 55.730673,
+        "lng": 37.446522
+      },
+      {
+        "station_name": "Кунцевская",
+        "line_name": "Филевская",
+        "station_id": "4.471",
+        "line_id": "4",
+        "lat": 55.730815,
+        "lng": 37.446754
+      },
+      {
+        "station_name": "Славянский бульвар",
+        "line_name": "Арбатско-Покровская",
+        "station_id": "3.176",
+        "line_id": "3",
+        "lat": 55.729542,
+        "lng": 37.470973
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>отвечать на входящие обращения (система обработки обращений, телефон, мессенджеры);</li> <li>решать вопросы и проблемы пользователей в рамках своей компетенции либо с применением базы знаний;</li> <li>регистрировать и передавать информацию о запросах и пожеланиях пользователей;</li> <li> <p>производить настройку и оптимизацию работы ноутбуков, мобильных устройств, ПО, VPN, удалённого доступа;</p> </li> <li> <p>осуществлять поддержку работы видеоконференцсвязи, презентационного оборудования;</p> </li> <li> <p>взаимодействовать с другими техническими подразделениями для ускоренного решения проблем;</p> </li> <li> <p>актуализировать документацию по обращениям, проводить анализ инцидентов для улучшения сервиса;</p> </li> <li>поддерживать обратную связь по обращениям;​​</li> <li>контролировать этапы выполнения заявок;</li> <li>контролировать сроки исполнения заявок и SLA;</li> <li>участвовать в наполнении базы знаний в wiki, принимать участие в актуализации инструкций для пользователей.</li> </ul> <strong>Требования:</strong> <ul> <li>образование средне-специальное и выше;</li> <li> <p>глубокие знания Windows, macOS, мобильных платформ (iOS, Android);</p> </li> <li> <p>навыки диагностики и устранения сетевых проблем (Wi-Fi, VPN, корпоративные сети);</p> </li> <li> <p>опыт настройки и поддержки видеоконференцсистем;</p> </li> <li>желателен опыт работы с тикет-системами (ServiceNow, Jira, Remedy) и ведения технической документации.</li> <li>грамотная устная и письменная речь;</li> <li>эмпатия, коммуникабельность, быстрая обучаемость, ответственность, стрессоустойчивость;</li> </ul> <strong>Условия:</strong> <ul> <li>Мы - аккредитованная ИТ-компания;</li> <li>команда с высоким уровнем экспертизы;</li> <li>наша заинтересованность в вашем профессиональном росте;</li> <li>работа на крупном, стабильном предприятии;</li> <li>оформление в соответствии с ТК РФ;</li> <li>заработная плата «белая», рыночного уровня;</li> <li>отсрочка от призыва на срочную военную службу, бронирование от мобилизации;</li> <li>график работы преимущественно офисный (пятидневка с 9.00 до 18.00);</li> <li>медицинское обслуживание в ведомственной поликлинике Управления делами Президента РФ;</li> <li>головной офис - Рябиновая 43, к. 1;</li> <li>корпоративный транспорт от / до офиса на Рябиновой от м. Библиотека им. Ленина и м. Славянский бульвар.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "846496",
+    "name": "ФГУП ГлавНИВЦ Управления делами Президента Российской Федерации",
+    "url": "https://api.hh.ru/employers/846496",
+    "alternate_url": "https://hh.ru/employer/846496",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/298597.png",
+      "90": "https://img.hhcdn.ru/employer-logo/1636766.png",
+      "240": "https://img.hhcdn.ru/employer-logo/1636767.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=846496",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T16:10:40+0300",
+  "created_at": "2025-06-03T16:10:40+0300",
+  "initial_created_at": "2025-06-03T16:10:40+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121301536",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121301536",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,190 @@
+{
+  "id": "121278793",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Backend-разработчик (Laravel)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 150000,
+    "to": 250000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 150000,
+    "to": 250000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>В команду профессионалов ищем Web-программиста на проект по разработке ERP-системы для промышленной отрасли.</p> <p>Требуется программист строго из г. Москвы!</p> <p>Кандидаты будут проходить тестирование путем разработок тестовых задач!</p> <p><strong>Обязанности:</strong></p> <ul> <li>Участие в разработке системы класса ERP</li> <li>Верстка</li> <li>Разработка backend (Laravel)</li> </ul> <strong>Требования:</strong> <ul> <li>Опыт самостоятельной разработки от 2 лет</li> <li>Способность разбираться в чужом коде</li> <li>Умение работать в команде</li> <li>Отличное знание HTML</li> <li>Отличное знание PHP</li> <li>Опыт работы с Laravel</li> <li>Уверенное знание SQL</li> </ul> <strong>Желательно:</strong> <ul> <li>Умение работать с Git</li> <li><em>Опыт</em> работы с системой управления задачами</li> <li>Обеспечение работоспособности Web сервера (Ubuntu, Nginx)</li> <li>Знания JavaScript </li> <li>Знания Angular</li> <li>Желание и умение развиваться также и в сторону backend</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Во время испытательного срока (3 месяца) рабочее место в офисе в БЦ &quot;МонАрх&quot; по адресу г. Москва, Ленинградский пр-т 31А стр.1. После испытательного срока возможна удаленная работа.</li> <li>Интересные уникальные задачи</li> <li>Комфортные условия труда</li> <li>Официальное оформления согласно ТК <em>РФ</em></li> <li>Высокая и официальная заработная плата</li> <li>Полный рабочий день</li> <li>Высококлассная техника для работы</li> <li>Бонусы по результатам работы</li> <li>Профессиональный рост</li> <li>Карьерный рост</li> <li>ДМС (VIP)</li> <li>Заработная плата по итогам собеседования</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "CSS3"
+    },
+    {
+      "name": "Кроссбраузерная верстка"
+    },
+    {
+      "name": "Веб-программирование"
+    },
+    {
+      "name": "MVC"
+    },
+    {
+      "name": "Ajax"
+    },
+    {
+      "name": "PHP5"
+    },
+    {
+      "name": "HTML5"
+    },
+    {
+      "name": "jQuery"
+    },
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "Верстка"
+    },
+    {
+      "name": "Adobe Photoshop"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Laravel"
+    },
+    {
+      "name": "Angular"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10268972",
+    "name": "МонАрх-АйТи",
+    "url": "https://api.hh.ru/employers/10268972",
+    "alternate_url": "https://hh.ru/employer/10268972",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1156705.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6247270.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6247271.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10268972",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T12:15:18+0300",
+  "created_at": "2025-06-06T12:15:18+0300",
+  "initial_created_at": "2025-06-03T12:15:18+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121278793",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121278793",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

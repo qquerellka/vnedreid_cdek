@@ -1,0 +1,142 @@
+{
+  "id": "120531531",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Python developer middle",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Тверская улица",
+    "building": "9с7",
+    "lat": 55.759329,
+    "lng": 37.610341,
+    "description": null,
+    "raw": "Москва, Тверская улица, 9с7",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Немного о продукте, на который мы ищем разработчика python: </strong>облачная white-label платформа полного цикла автокредитования: от подачи заявки, одобрения и оформления сделки с клиентом до взаимодействия с Партнерами и взаиморасчетов с Агентами.</p> <p> </p> <p><strong>Обязанности:</strong></p> <ul> <li> <p>разработка на Python3.10 бекенд части приложения (AioHttp, Django, Sqlalchemy, PostgreSQL, Alembic миграции)</p> </li> <li>разработка дагов для Apache Airflow (обработка данных, подготовка данных для системы отчетности)</li> <li>написание юнит тестов (pytest)</li> <li>поддержка работы с Apache Superset</li> <li>сборка релизов для выката в прод</li> </ul> <strong>Требования:</strong> <ul> <li>опыт работы в роли Python Developer от 3-х лет</li> <li><strong>законченное высшее техническое\\инженерное образование</strong></li> <li>опыт работы с реляционными СУБД: SQLAlchemy / Alembic/ SQL / PostgreSQL</li> <li>обязательно уметь писать сырые запросы в БД</li> <li>опыт работы с linux, git, docker</li> <li>аналитический склад ума, умение и желание разбираться в сложных бизнес процессах</li> <li>уверенное понимание принципов ООП и шаблонов проектирования</li> <li>ответственность, стабильная командная работа (Agile)</li> </ul> <p><strong>Наш стек:</strong></p> <ul> <li>Python 3.10</li> <li>Django / SQLAlchemy</li> <li>Redis / Clickhouse</li> <li>RabbitMQ</li> <li>Apache Airflow</li> </ul> <p>С радостью пообщаемся с вами!</p>",
+  "branded_description": "\n<style>/*13.01.2025-hh-team-007*/\n.hht-vacancydescription {\n  padding: 0;\n}\n\n.tmpl_hh_wrapper {\n  position: relative;\n  z-index: 1;\n  overflow: hidden;\n  width: 100%;\n  max-width: 690px;\n  margin: 0 auto;\n  font-weight: 400;\n  font-size: 16px;\n  font-family: Arial, sans-serif;\n  line-height: 22px;\n  letter-spacing: 0.01em;\n  word-break: normal;\n}\n\n@media (max-width: 1019px) {\n  .tmpl_hh_wrapper {\n    max-width: 610px;\n  }\n}\n\n.tmpl_hh_wrapper p, .tmpl_hh_wrapper h1, .tmpl_hh_wrapper h2, .tmpl_hh_wrapper h3, .tmpl_hh_wrapper h4, .tmpl_hh_wrapper h5, .tmpl_hh_wrapper h6, .tmpl_hh_wrapper a, .tmpl_hh_wrapper img, .tmpl_hh_wrapper ol, .tmpl_hh_wrapper ul, .tmpl_hh_wrapper li {\n  vertical-align: baseline;\n  margin: 0;\n  padding: 0;\n  border: 0;\n  font-weight: inherit;\n  font-size: inherit;\n}\n\n.tmpl_hh_wrapper ul {\n  list-style: none;\n}\n\n.tmpl_hh_wrapper a {\n  text-decoration: none;\n}\n\n.tmpl_hh_wrapper a:hover {\n  color: inherit;\n}\n\n.tmpl_hh_wrapper img {\n  display: block;\n}\n\n.tmpl_hh_wrapper button {\n  display: block;\n  padding: 0;\n  border: none;\n  background-color: transparent;\n  outline: none;\n  cursor: pointer;\n}\n\n.tmpl_hh_wrapper button svg {\n  cursor: pointer;\n}\n\n.tmpl_hh_wrapper .l-cell, .tmpl_hh_wrapper .l-paddings {\n  padding: 0 !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n  margin-top: 0 !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n  overflow: visible !important;\n  line-height: inherit;\n}\n\n.tmpl_hh_content ol li b, .tmpl_hh_content ol li strong, .tmpl_hh_content ol li p b, .tmpl_hh_content ol li p strong, .tmpl_hh_content ul li b, .tmpl_hh_content ul li strong, .tmpl_hh_content ul li p b, .tmpl_hh_content ul li p strong {\n  margin: 0 !important;\n  color: inherit !important;\n  font-size: inherit !important;\n  line-height: inherit;\n  text-transform: none;\n}\n\n.tmpl_hh_content ol li p, .tmpl_hh_content ul li p {\n  margin: 0;\n  font-weight: normal;\n}\n\n.tmpl_hh_content p {\n  margin-bottom: 16px;\n}\n\n.tmpl_hh_content p b, .tmpl_hh_content p strong {\n  display: inline;\n  margin: 0;\n}\n\n.tmpl_hh_content ol, .tmpl_hh_content ul {\n  margin-bottom: 32px;\n  margin-left: 18px;\n  list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n  counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n  position: relative;\n  margin-bottom: 8px;\n  font-size: 16px;\n}\n\n.tmpl_hh_content li:last-child {\n  margin-bottom: 0;\n}\n\n.tmpl_hh_content ul ul, .tmpl_hh_content ul ol, .tmpl_hh_content ol ol, .tmpl_hh_content ol ul {\n  margin-top: 14px;\n}\n\n.tmpl_hh_content ol > li {\n  counter-increment: list_counter;\n}\n\n.tmpl_hh_content ul > li::before {\n  content: \"\";\n  position: absolute;\n  top: 9px;\n  left: -18px;\n  width: 5px;\n  height: 5px;\n  border-radius: 100%;\n  background-color: #000;\n}\n\n.tmpl_hh_content ol > li::before {\n  content: counter(list_counter) \".\";\n  right: 100%;\n  left: auto;\n  margin-right: 2px;\n}\n\n.tmpl_hh_content :last-child {\n  margin-bottom: 0;\n}\n\n/* stylelint-disable block-no-empty */\n\n/* stylelint-enable block-no-empty */\n\n.tmpl_hh_wrapper {\n  box-sizing: border-box;\n  color: #000;\n  font-size: 18px;\n  line-height: 1.2;\n}\n\n.tmpl_hh_wrapper .tmpl_hh_designation {\n  color: #b5b5b5;\n  font-size: 14px;\n  line-height: 1.2;\n}\n\n.tmpl_hh_wrapper h2.tmpl_hh_title, .tmpl_hh_wrapper h3.tmpl_hh_title {\n  font-weight: 700;\n  font-size: 24px;\n}\n\n.tmpl_hh_wrapper h3.tmpl_hh_title--decor {\n  display: inline-block;\n  flex-shrink: 0;\n  border-bottom: 8px solid #ff5028;\n}\n\n.tmpl_hh_wrapper .tmpl_hh_box {\n  /* @include box-horisontal(px); */\n  padding-right: 40px;\n  padding-left: 40px;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_wrapper .tmpl_hh_box {\n    /* @include box-horisontal(px); */\n    padding-right: 20px;\n    padding-left: 20px;\n  }\n}\n\n.tmpl_hh_wrapper .tmpl_hh_box-t {\n  padding-top: 0;\n}\n\n.tmpl_hh_wrapper .tmpl_hh_box-b {\n  padding-bottom: 0;\n}\n\n.tmpl_hh_flex {\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n}\n\n.tmpl_hh_header {\n  padding-top: 40px;\n  padding-bottom: 40px;\n  background: url(\"https://hhcdn.ru/ichameleon/415669.jpg\") center/cover no-repeat;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_header {\n    background-image: url(\"https://hhcdn.ru/ichameleon/415712.jpg\");\n  }\n}\n\n.tmpl_hh_header__up {\n  display: flex;\n  justify-content: space-between;\n}\n\n.tmpl_hh_header__up h6 {\n  max-width: 96px;\n  font-size: 12px;\n  text-align: right;\n}\n\n.tmpl_hh_header__down {\n  max-width: 374px;\n  margin-top: 20px;\n  margin-left: auto;\n}\n\n.tmpl_hh_header .tmpl_hh_header__list {\n  display: flex;\n  margin-top: 40px;\n}\n\n.tmpl_hh_header .tmpl_hh_header__item {\n  display: flex;\n  flex-shrink: 0;\n  flex-direction: column;\n  justify-content: center;\n  align-items: center;\n  width: 138px;\n  height: 138px;\n  border-radius: 50%;\n  background: url(\"https://hhcdn.ru/ichameleon/415670.svg\") center/cover no-repeat;\n  box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.1);\n}\n\n.tmpl_hh_header .tmpl_hh_header__item:not(:first-of-type) {\n  margin-left: -20px;\n}\n\n.tmpl_hh_header .tmpl_hh_header__item h4 {\n  color: #ff5028;\n  font-weight: 700;\n  font-size: 36px;\n}\n\n.tmpl_hh_header .tmpl_hh_header__item p {\n  max-width: 112px;\n  margin-right: auto;\n  margin-left: auto;\n  font-size: 12px;\n  text-align: center;\n}\n\n.tmpl_hh_about {\n  margin-top: -20px;\n  padding-top: 40px;\n  padding-bottom: 60px;\n  border-radius: 20px 20px 0 0;\n  background: #535557;\n  color: #fff;\n}\n\n.tmpl_hh_about p {\n  font-size: 15px;\n  line-height: 1.4;\n}\n\n.tmpl_hh_about p b {\n  color: #ff5028;\n}\n\n.tmpl_hh_about__up {\n  display: flex;\n  justify-content: space-between;\n  align-items: flex-start;\n  padding-bottom: 20px;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_about__up {\n    flex-direction: column;\n    gap: 20px;\n    align-items: flex-start;\n  }\n}\n\n.tmpl_hh_about__up p {\n  max-width: 374px;\n  text-indent: 74px;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_about__up p {\n    max-width: 100%;\n    text-indent: 0;\n  }\n}\n\n.tmpl_hh_about .tmpl_hh_about__down {\n  padding-top: 20px;\n}\n\n.tmpl_hh_about .tmpl_hh_about__down::before {\n  content: \"\";\n  position: relative;\n  top: -20px;\n  display: block;\n  width: 100%;\n  height: 1px;\n  background: linear-gradient(90deg, #535557 0%, rgba(255, 255, 255, 0.2) 50%, #535557 100%);\n}\n\n.tmpl_hh_team {\n  padding-bottom: 40px;\n  border-radius: 20px;\n  background: #f0f0f0;\n  color: inherit;\n}\n\n.tmpl_hh_team .tmpl_hh_about__down::before {\n  background: linear-gradient(90deg, #f0f0f0 0%, rgba(0, 0, 0, 0.2) 50%, #f0f0f0 100%);\n}\n\n.tmpl_hh_content {\n  padding-top: 40px;\n  padding-bottom: 40px;\n}\n\n.tmpl_hh_content h2 h2, .tmpl_hh_content h2 p.tmpl_hh_content_title, .tmpl_hh_content h2 b.tmpl_hh_content_title, .tmpl_hh_content h2 strong.tmpl_hh_content_title {\n  display: block;\n  margin-bottom: 10px;\n  font-weight: 700;\n  font-style: normal;\n  font-size: 24px;\n  line-height: 1.2;\n  color: inherit;\n}\n\n.tmpl_hh_content h2 h2, .tmpl_hh_content h2 p.tmpl_hh_content_title > b, .tmpl_hh_content h2 p.tmpl_hh_content_title > strong {\n  font-weight: 700;\n  font-style: normal;\n  font-size: 24px;\n  line-height: 1.2;\n  color: inherit;\n}\n\n.tmpl_hh_content h2, .tmpl_hh_content p.tmpl_hh_content_title, .tmpl_hh_content b.tmpl_hh_content_title, .tmpl_hh_content strong.tmpl_hh_content_title {\n  display: block;\n  margin-bottom: 10px;\n  font-weight: 700;\n  font-style: normal;\n  font-size: 24px;\n  line-height: 1.2;\n  color: inherit;\n}\n\n.tmpl_hh_content h2, .tmpl_hh_content p.tmpl_hh_content_title > b, .tmpl_hh_content p.tmpl_hh_content_title > strong {\n  font-weight: 700;\n  font-style: normal;\n  font-size: 24px;\n  line-height: 1.2;\n  color: inherit;\n}\n\n.tmpl_hh_content p, .tmpl_hh_content div {\n  font-weight: 400;\n  font-style: normal;\n  font-size: 15px;\n  line-height: 1.4;\n}\n\n.tmpl_hh_content ul:not(:last-child) {\n  margin-bottom: 40px;\n}\n\n.tmpl_hh_content ul:last-child {\n  margin-bottom: 0;\n}\n\n.tmpl_hh_content ul li {\n  font-weight: 400;\n  font-style: normal;\n  font-size: 15px;\n  line-height: 1.4;\n}\n\n.tmpl_hh_content ul li:not(:last-of-type) {\n  margin-bottom: 10px;\n}\n\n.tmpl_hh_content ul li::before {\n  width: 4px;\n  height: 4px;\n  background: #000;\n  top: 8px;\n  left: -11px;\n}\n\n.tmpl_hh_advantages {\n  padding-top: 40px;\n  padding-bottom: 40px;\n  background: url(\"https://hhcdn.ru/ichameleon/415696.jpg\") center/cover no-repeat;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_advantages {\n    background-image: url(\"https://hhcdn.ru/ichameleon/415711.jpg\");\n  }\n}\n\n.tmpl_hh_advantages .tmpl_hh_advantages__list {\n  display: flex;\n  flex-wrap: wrap;\n  gap: 20px;\n  margin-top: 20px;\n}\n\n.tmpl_hh_advantages .tmpl_hh_advantages__item {\n  display: flex;\n  gap: 10px;\n  align-items: center;\n  box-sizing: border-box;\n  width: calc(50% - 10px);\n  padding: 20px;\n  border: 1px solid #b2b2b2;\n  border-radius: 10px;\n  background: rgba(255, 255, 255, 0.6);\n  box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.1);\n}\n\n.UNSAFE-vacancy-branded-is-desktop .tmpl_hh_advantages .tmpl_hh_advantages__item {\n  backdrop-filter: blur(2px);\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_advantages .tmpl_hh_advantages__item {\n    width: 100%;\n  }\n}\n\n.tmpl_hh_advantages .tmpl_hh_advantages__item p {\n  font-size: 15px;\n  line-height: 1.4;\n}\n</style>\n<div>\n    <div class=\"tmpl_hh_wrapper\">\n      <header class=\"tmpl_hh_header tmpl_hh_box\">\n        <div class=\"tmpl_hh_header__up\">\n          <img src=\"https://hhcdn.ru/ichameleon/415668.svg\" alt=\"Баланс-Платформа\">\n          <h6>аккредитованная IT-компания</h6>\n        </div>\n        <div class=\"tmpl_hh_header__down\">\n          <h2 class=\"tmpl_hh_title\">\n            Баланс-Платформа — аккредитованная ИТ-компания и разработчик программного обеспечения для ключевых участников финансового сектора.\n          </h2>\n          <!-- <ul class=\"tmpl_hh_header__list\">\n            <li class=\"tmpl_hh_header__item\">\n              <h4>7</h4>\n              <p>лет в&#160;сфере финансового сектора</p>\n            </li>\n            <li class=\"tmpl_hh_header__item\">\n              <h4>24/7</h4>\n              <p>работа сервисов и&#160;заключение сделок</p>\n            </li>\n            <li class=\"tmpl_hh_header__item\">\n              <h4>23</h4>\n              <p>патента в&#160;области автоматизации процессов</p>\n            </li>\n          </ul> -->\n        </div>\n      </header>\n      <section class=\"tmpl_hh_about tmpl_hh_box\">\n        <div class=\"tmpl_hh_about__up\">\n          <h3 class=\"tmpl_hh_title tmpl_hh_title--decor\">О нас</h3>\n          <p>\n            Мы предоставляем высокотехнологичные продукты <b>«Кредитование как сервис»</b> (Software as a Service (SaaS)) и On-premise -  набор IT-сервисов полного цикла для генерации и сопровождения кредитного портфеля на всех этапах. Это программные решения для ведущих банков, страховых, лизинговых компаний, маркетплейсов, автопроизводителей и автодилеров.\n          </p>\n        </div>\n      </section>\n      <section class=\"tmpl_hh_about tmpl_hh_team tmpl_hh_box\">\n        <div class=\"tmpl_hh_about__up\">\n          <h3 class=\"tmpl_hh_title tmpl_hh_title--decor\">Команда</h3>\n          <p>\n            Команда Баланс-Платформы состоит из <b>200+ разработчиков</b>, аналитиков, инженеров DevOps и QA. Большинство из нас пишет на Ruby,\n            но также практикуем Python, JavaScript, PHP, Elixir, C#.\n          </p>\n        </div>\n        <p class=\"tmpl_hh_about__down\">\n          Мы активно растём и развиваемся. У нас много текущих и новых проектов. Для нашей компании нет невыполнимых задач. А что самое важное — у нас очень\n          дружная команда, готовая помогать друг другу и работать на результат!\n        </p>\n      </section>\n      <main class=\"tmpl_hh_content tmpl_hh_box\">\n        <p><strong>Немного о продукте, на который мы ищем разработчика python: </strong>облачная white-label платформа полного цикла автокредитования: от подачи заявки, одобрения и оформления сделки с клиентом до взаимодействия с Партнерами и взаиморасчетов с Агентами.</p> <p> </p> <p><strong>Обязанности:</strong></p> <ul> <li> <p>разработка на Python3.10 бекенд части приложения (AioHttp, Django, Sqlalchemy, PostgreSQL, Alembic миграции)</p> </li> <li>разработка дагов для Apache Airflow (обработка данных, подготовка данных для системы отчетности)</li> <li>написание юнит тестов (pytest)</li> <li>поддержка работы с Apache Superset</li> <li>сборка релизов для выката в прод</li> </ul> <strong>Требования:</strong> <ul> <li>опыт работы в роли Python Developer от 3-х лет</li> <li><strong>законченное высшее техническое\\инженерное образование</strong></li> <li>опыт работы с реляционными СУБД: SQLAlchemy / Alembic/ SQL / PostgreSQL</li> <li>обязательно уметь писать сырые запросы в БД</li> <li>опыт работы с linux, git, docker</li> <li>аналитический склад ума, умение и желание разбираться в сложных бизнес процессах</li> <li>уверенное понимание принципов ООП и шаблонов проектирования</li> <li>ответственность, стабильная командная работа (Agile)</li> </ul> <p><strong>Наш стек:</strong></p> <ul> <li>Python 3.10</li> <li>Django / SQLAlchemy</li> <li>Redis / Clickhouse</li> <li>RabbitMQ</li> <li>Apache Airflow</li> </ul> <p>С радостью пообщаемся с вами!</p></main>\n      <section class=\"tmpl_hh_advantages tmpl_hh_box\">\n        <h3 class=\"tmpl_hh_title tmpl_hh_title--decor\">Наши преимущества</h3>\n        <ul class=\"tmpl_hh_advantages__list\">\n          <li class=\"tmpl_hh_advantages__item\">\n            <img src=\"https://hhcdn.ru/ichameleon/415709.svg\" alt=\"\">\n            <p>Аккредитованная IT-компания, оформление по ТК РФ, конкурентная заработная плата</p>\n          </li>\n          <li class=\"tmpl_hh_advantages__item\">\n            <img src=\"https://hhcdn.ru/ichameleon/415707.svg\" alt=\"\">\n            <p>Профессиональное обучение, конференции, семинары</p>\n          </li>\n          <li class=\"tmpl_hh_advantages__item\">\n            <img src=\"https://hhcdn.ru/ichameleon/415706.svg\" alt=\"\">\n            <p>Сложные и интересные задачи, современный стек технологий</p>\n          </li>\n          <li class=\"tmpl_hh_advantages__item\">\n            <img src=\"https://hhcdn.ru/ichameleon/415705.svg\" alt=\"\">\n            <p>Полис ДМС, <br>включая стоматологию</p>\n          </li>\n          <li class=\"tmpl_hh_advantages__item\">\n            <img src=\"https://hhcdn.ru/ichameleon/415704.svg\" alt=\"\">\n            <p>Реферальный бонус «Приведи друга»</p>\n          </li>\n          <li class=\"tmpl_hh_advantages__item\">\n            <img src=\"https://hhcdn.ru/ichameleon/415703.svg\" alt=\"\">\n            <p>Совместные тимбилдинги и праздники, участие в благотворительности</p>\n          </li>\n        </ul>\n      </section>\n    </div>\n  </div>\n<script>\n//\n\n\nconst main = \"\";\nconst customTitle = () => {\n  const allUl = document.querySelectorAll(\".tmpl_hh_content ul\");\n  allUl.forEach((ul, i) => {\n    const ulTitle = ul.previousElementSibling;\n    if (ulTitle) {\n      ulTitle.classList.add(\"tmpl_hh_content_title\");\n      if (i === 0) {\n        ul.previousElementSibling.classList.add(\"tmpl_hh_content_title--first\");\n      }\n    }\n  });\n};\ndocument.addEventListener(\"DOMContentLoaded\", () => {\n  try {\n    customTitle();\n  } catch (error) {\n    console.log(error);\n  }\n});\n\n\n//\n</script>\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "RabbitMQ"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2643808",
+    "name": "«Баланс-Платформа»",
+    "url": "https://api.hh.ru/employers/2643808",
+    "alternate_url": "https://hh.ru/employer/2643808",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/709178.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3277828.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3277829.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2643808",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-14T13:00:59+0300",
+  "created_at": "2025-05-14T13:00:59+0300",
+  "initial_created_at": "2025-05-14T13:00:59+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120531531",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120531531",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

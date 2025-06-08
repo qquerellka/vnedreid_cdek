@@ -1,0 +1,141 @@
+{
+  "id": "120618780",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "улица Хохрякова",
+    "building": "55",
+    "lat": 56.829724,
+    "lng": 60.594303,
+    "description": null,
+    "raw": "Екатеринбург, улица Хохрякова, 55",
+    "metro": {
+      "station_name": "Геологическая",
+      "line_name": "Север-Юг",
+      "station_id": "48.267",
+      "line_id": "48",
+      "lat": 56.826715,
+      "lng": 60.603754
+    },
+    "metro_stations": [
+      {
+        "station_name": "Геологическая",
+        "line_name": "Север-Юг",
+        "station_id": "48.267",
+        "line_id": "48",
+        "lat": 56.826715,
+        "lng": 60.603754
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Мы российская федеральная компания, занимаем первые позиции среди интернет-агрегаторов.</p> <p>Более <strong>18 лет</strong> оформляем и настраиваем полнофункциональные интернет-магазины для компаний В2В сегмента.</p> <p>Среди наших клиентов: ЛеруаМерлен, Аптека.ру, Строительный двор, БВБ - Альянс, М.Видео, Эльдорадо, Мегафон, RBT.</p> <p> </p> <p><strong>Чем Вы будете заниматься?</strong></p> <ul> <li>Исследовать рынки, собирать данные о брендах и способах их продвижения, и выявлять скрытые возможности.</li> <li>Анализировать стратегии наших конкурентов, собирать прайсы и KPI, и находить ключи к победе.</li> <li>Анализировать наш каталог, отслеживать поведенческие показатели и собирать данные о покупках, чтобы выявлять тренды и точки роста.</li> <li>Формировать<strong> </strong>и реализовывать гипотезы, способные вывести наше товарное направление на новый уровень.</li> <li>Вы будете использовать Яндекс Метрика, Google Analytics и другие инструменты, чтобы превращать данные в ценную информацию.</li> </ul> <p> </p> <p><strong>Что мы ждем от Вас?</strong></p> <ul> <li>Опыт работы в роли аналитика, маркетолога, контент-менеджера, SEO-специалиста или специалиста по контекстной рекламе – будет большим преимуществом.</li> <li>Умение анализировать данные – Ваш главный талант. Вы видите за цифрами закономерности и можете делать обоснованные выводы.</li> <li>Опыт работы с Excel/ Google Sheets, Яндекс Метрика, Яндекс Вебмастер и Google Analytics. Вы умеете обращаться с этими инструментами и получаете из них максимум пользы.</li> <li>Организованность, ответственность за результат и инициативность. Вы не боитесь брать на себя ответственность и всегда идете вперед.</li> </ul> <p> </p> <p><strong>Почему Вам понравится работать у нас?</strong></p> <ul> <li>Достойная оплата труда, которая отражает вклад и ценность! Мы ценим талант и готовы вознаграждать его.</li> <li>Официальное трудоустройство в стабильной и успешной компании – это уверенность в завтрашнем дне. Мы предлагаем надежные условия работы и прозрачные отношения.</li> <li>Возможность работать как в офисе, так и в гибридном графике. Можно выбрать комфортный для себя режим работы.</li> <li>Возможность карьерного, профессионального и финансового роста.<strong> </strong>Мы предлагаем возможности для роста и развития вместе с компанией.</li> <li>Позитивный, дружный коллектив и насыщенная корпоративная жизнь.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "10",
+      "name": "Аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5354555",
+    "name": "Я Покупаю",
+    "url": "https://api.hh.ru/employers/5354555",
+    "alternate_url": "https://hh.ru/employer/5354555",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1402446.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7229456.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7229457.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5354555",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-16T09:58:06+0300",
+  "created_at": "2025-05-16T09:58:06+0300",
+  "initial_created_at": "2025-05-16T09:58:06+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120618780",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120618780",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

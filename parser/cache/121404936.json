@@ -1,0 +1,138 @@
+{
+  "id": "121404936",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Главный специалист по противодействию иностранным техническим разведкам",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 80000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 80000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Ломоносов",
+    "street": "улица Черникова",
+    "building": "44",
+    "lat": 59.920086,
+    "lng": 29.686158,
+    "description": null,
+    "raw": "Ломоносов, улица Черникова, 44",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>Организация противодействия иностранным техническим разведкам на предприятии и на всех этапах жизненного цикла изделий.</li> <li>Разработка ТЗ в рамках ОКР ( НИОКР) на изделия ВТ</li> <li>Разработка планов по защите государственной тайны в рамках ОКР (НИОКР)</li> <li>Разработка инструкций по защите от ИТР</li> </ul> <strong>Требования:</strong> <ul> <li>Высшее образование по направлению деятельности</li> <li>Прохождение программы профессиональной переподготовки в области противодействия иностранным техническим разведкам и технической защиты информации, 504 часа</li> </ul> <strong>Условия:</strong> <ul> <li>Полный рабочий день</li> <li>с 08.30 до 17.00</li> <li>ДМС</li> <li>развозка г. Ломоносов</li> <li>Дополнительные гарантии по Коллективному договору</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "116",
+      "name": "Специалист по информационной безопасности"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1903821",
+    "name": "Научно-Исследовательский Институт Морской Теплотехники",
+    "url": "https://api.hh.ru/employers/1903821",
+    "alternate_url": "https://hh.ru/employer/1903821",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/275644.png",
+      "90": "https://img.hhcdn.ru/employer-logo/1545106.png",
+      "240": "https://img.hhcdn.ru/employer-logo/1545107.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1903821",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T08:41:04+0300",
+  "created_at": "2025-06-06T08:41:04+0300",
+  "initial_created_at": "2025-06-06T08:41:04+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121404936",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121404936",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

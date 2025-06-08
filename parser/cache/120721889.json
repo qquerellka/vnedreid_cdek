@@ -1,0 +1,162 @@
+{
+  "id": "120721889",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Разработчик C#",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "улица Годовикова",
+    "building": "9с17",
+    "lat": 55.80865,
+    "lng": 37.629403,
+    "description": null,
+    "raw": "Москва, улица Годовикова, 9с17",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Компания <strong>Avanpost</strong> более 15 лет разрабатывает продукты в области аутентификации и управления доступом пользователей, наши решения работают на стыке сфер информационной безопасности и автоматизации ИТ.</p> <p>Мы расширяемся и приглашаем <strong>Разработчика .Net/C#</strong> в команду разработки продукта <strong>Avanpost</strong> <strong>IDM.</strong> Продукт в настоящий момент является <strong>лидером рынка</strong>, его используют крупнейшие компании в РФ и СНГ. Основные задачи, которые решает продукт – это автоматизация управления доступом, аудит прав доступа и реализация процессов, направленных на поддержание минимально достаточных полномочий.</p> <p>Мы дадим тебе свободу в решении задач, ты сможешь принимать разумные риски и реализовывать свой потенциал в одной из самых быстрорастущих отраслей рынка информационной безопасности при поддержке команды единомышленников и экспертов рынка.<br /><strong>Мы аккредитованная ИТ компания.</strong></p> <p><strong>Технологический стек продукта IDM:</strong></p> <ul> <li>.Net 8</li> <li>EF Core</li> <li>Akka.net</li> <li>Web API</li> <li>OData</li> <li>SignalR</li> <li>Angular 15</li> </ul> <p><strong>Ваши основные задачи</strong>:</p> <ul> <li>Разработка бэкенда для нового функционала и выполнения нефункциональных требований;</li> <li>Рефакторинг и работа с техническим долгом;</li> <li>Участие в разработке архитектуры и технических решений.</li> </ul> <p><strong>Наши ожидания</strong>:</p> <ul> <li>Уверенные знания C# и платформы .NET;</li> <li>Понимание концепций ООП, знание основных паттернов проектирования;</li> <li>‎Понимание принципов работы реляционных СУБД, опыт работы с использованием EF (code first);</li> <li>Технический английский, чтение документации;</li> <li>Опыт работы с Git.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Знание Python;</li> <li>Опыт работы с системами распределенных вычислений.</li> </ul> <p><strong>Что предлагаем МЫ?</strong></p> <ul> <li>Работу в высокотехнологичном сегменте в команде профессионалов и единомышленников.</li> <li>Конкурентный оклад + квартальный и годовой бонусы;</li> </ul> <ul> <li>Гибкий подход к удаленке. Удобно работать из дома — работай. Соскучился по коллегам — мы рады видеть тебя в нашем современном офисе (≈7 мин. от ст. м. Алексеевская);</li> <li>Вознаграждения за рекомендации и для тех, кто любит писать посты на специализированных ресурсах;</li> <li>Забота о здоровье - ДМС (после ИС);</li> <li>Work-life balance. Свободная атмосфера - никакой лишней бюрократии, насыщенная корпоративная жизнь: выездные мероприятия, совместные обсуждения планов – каждый сотрудник может и будет услышан, ведь МЫ – одна команда!</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": ".NET Core"
+    },
+    {
+      "name": "C#"
+    },
+    {
+      "name": ".NET Framework"
+    },
+    {
+      "name": "EF Core"
+    },
+    {
+      "name": "Akka.net"
+    },
+    {
+      "name": "web API"
+    },
+    {
+      "name": "OData"
+    },
+    {
+      "name": "SignaIR"
+    },
+    {
+      "name": "Angular"
+    },
+    {
+      "name": "ООП"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Python"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2349724",
+    "name": "Avanpost",
+    "url": "https://api.hh.ru/employers/2349724",
+    "alternate_url": "https://hh.ru/employer/2349724",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1212386.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6469993.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6469994.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2349724",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-19T16:27:02+0300",
+  "created_at": "2025-05-19T16:27:02+0300",
+  "initial_created_at": "2025-05-19T16:27:02+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120721889",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120721889",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

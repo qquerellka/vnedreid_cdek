@@ -1,0 +1,219 @@
+{
+  "id": "121281517",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Системный администратор/технический специалист",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 120000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 120000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Варшавское шоссе",
+    "building": "46",
+    "lat": 55.672925,
+    "lng": 37.625181,
+    "description": null,
+    "raw": "Москва, Варшавское шоссе, 46",
+    "metro": {
+      "station_name": "Нагатинская",
+      "line_name": "Серпуховско-Тимирязевская",
+      "station_id": "9.85",
+      "line_id": "9",
+      "lat": 55.682099,
+      "lng": 37.620917
+    },
+    "metro_stations": [
+      {
+        "station_name": "Нагатинская",
+        "line_name": "Серпуховско-Тимирязевская",
+        "station_id": "9.85",
+        "line_id": "9",
+        "lat": 55.682099,
+        "lng": 37.620917
+      },
+      {
+        "station_name": "Нагорная",
+        "line_name": "Серпуховско-Тимирязевская",
+        "station_id": "9.86",
+        "line_id": "9",
+        "lat": 55.672962,
+        "lng": 37.610397
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Пищевое производство, офис и сеть кофеен. </strong></p> <p><strong>Мы открыли вакансию в офис (в офисе 35 человек)</strong></p> <p><strong>Системный администратор, технический специалист.</strong></p> <p>Техническая поддержка офиса, склада и розничной сети кофеен. Контроль it инфраструктуры</p> <p>Работа с ККМ атолл ккт: регистрация, перерегистрация, снятие с учёта, ремонт</p> <p>Работа с кассовым и складским ПО и оборудованием.</p> <p>Работа с winserver, ad (Заведение пользователей домена согласно политик, с указанием атрибутов и ролей) Добавление оргтехники и ПК в домен и группы. Работа с сервером почты Outlook. Работа с Битрикс24 настройки битрикс . Подбор, сборка, настройка ПК и оргтехники. Создание рабочих мест вместе с офис менеджером. Обеспечение удаленной работы пользователей (vpn+rdp). Ведение it-документации. Решение любых поступающих вопросов и задач от пользователей. Работа с подрядчиками it-сферы.</p> <p>Работа в 1С, Iiko (iiko готовы обучить).</p> <p>Настройка ккм, кассовых терминалов, настройка сети, физическая, замена сетевого оборудования. Поиск, закупка, установка и настройка ПК и оргтехники. Установка и настройка офисного пакета, а также любых других программ. Работа с ЭЦП. Крупноузловой ремонт и апгрейд. Поддержка локальных и удалённых серверов. Работа и поддержка сотрудников офисов. Работа с подрядчиками. Запуск объектов, участие в решении проблем связанных с кассами</p> <p><strong>Требования:</strong></p> <ul> <li>Опыт работы с торговыми кассовыми системами</li> <li>Навыки работы с компьютерным оборудованием и программным обеспечением</li> <li>Коммуникабельность и умение работать в условиях повышенной ответственности.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Официальное трудоустройство, если нет других предпочтений</li> <li>​​​​​График работы: 5/2 с 8.00 до 18.00</li> <li>Бенефиты от компании: питание на пищевом производстве, вкусный кофе в кофейне при офисе, скидки сотрудникам, подарки на дни рождения и юбилеи</li> <li>Заработная плата 120 000 на руки + премии</li> <li>компенсация карты тройка при разъездной работе </li> <li>Место работы: м. Нагорная, 10 минут пешком.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Техническая поддержка пользователей"
+    },
+    {
+      "name": "Организация работы сотрудников"
+    },
+    {
+      "name": "Администрирование сетевого оборудования"
+    },
+    {
+      "name": "Настройка ПО"
+    },
+    {
+      "name": "Установка ПО"
+    },
+    {
+      "name": "Диагностика неисправностей"
+    },
+    {
+      "name": "Настройка роутеров"
+    },
+    {
+      "name": "Ремонт оборудования"
+    },
+    {
+      "name": "Администрирование серверов"
+    },
+    {
+      "name": "Удаленное администрирование"
+    },
+    {
+      "name": "Резервное копирование"
+    },
+    {
+      "name": "Обеспечение антивирусной защиты"
+    },
+    {
+      "name": "ИТ-инфраструктура"
+    },
+    {
+      "name": "Обслуживание офисной техники"
+    },
+    {
+      "name": "Настройка ПК"
+    },
+    {
+      "name": "Настройка сетевых подключений"
+    },
+    {
+      "name": "кассовое оборудование"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11225037",
+    "name": "ЭСТЕТИКА КОФЕ",
+    "url": "https://api.hh.ru/employers/11225037",
+    "alternate_url": "https://hh.ru/employer/11225037",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1388219.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7172663.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7172664.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11225037",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T12:55:50+0300",
+  "created_at": "2025-06-06T12:55:50+0300",
+  "initial_created_at": "2025-06-03T12:55:50+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121281517",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121281517",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_9",
+      "name": "9 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

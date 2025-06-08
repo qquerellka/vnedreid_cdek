@@ -1,0 +1,156 @@
+{
+  "id": "118903417",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Junior Brand Manager / Младший бренд-менеджер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 120000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 120000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "улица Каховка",
+    "building": "23",
+    "lat": 55.654508,
+    "lng": 37.574525,
+    "description": null,
+    "raw": "Москва, улица Каховка, 23",
+    "metro": {
+      "station_name": "Зюзино",
+      "line_name": "Большая кольцевая линия",
+      "station_id": "97.817",
+      "line_id": "97",
+      "lat": 55.655158,
+      "lng": 37.575786
+    },
+    "metro_stations": [
+      {
+        "station_name": "Зюзино",
+        "line_name": "Большая кольцевая линия",
+        "station_id": "97.817",
+        "line_id": "97",
+        "lat": 55.655158,
+        "lng": 37.575786
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><em><strong>AST - это команда! Люди, которые строят историю Компании каждый день. Благодаря которым, наш уровень доверия на рынке остается стабильным вот уже более 30 лет.</strong></em></p> <p><strong>Обязанности:</strong></p> <ul> <li>Комплексная работа с поставщиками в зоне ответственности;</li> <li>Постоянная коммуникация с представителями брендов <strong>(Вино)</strong>;</li> <li>Подготовка квартальных/годовых отчетов и презентаций по представленности брендов на рынке, финансовых показателей бренда (погружение в P&amp;L брендов), регулярная аналитика бизнес-процессов;</li> <li>Сопровождение запуска новых продуктов;</li> <li>Формирование анализа продаж по SKU;</li> <li>Анализ конкурентного окружения и отслеживание активности конкурентов;</li> <li>Участие в профессиональных выставках и мероприятиях (локальных и международных).</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Опыт работы на аналогичной позиции от 2-х лет в FMCG-компаниях;</li> <li>Желание развиваться в сфере алкогольной продукции;</li> <li>Понимание работы с P&amp;L бренда;</li> <li>Развитые навыки деловой переписки;</li> <li>Хорошие коммуникационные и презентационные навыки;</li> <li>Аналитический склад ума, внимание к деталям;</li> <li>Уверенное владение MS Office (хорошее знание Excel и PowerPoint);</li> <li>Знание английского языка – базовый, знание второго иностранного языка будет являться преимуществом.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Работа в крупной и стабильной компании – лидер алкогольного бизнеса;</li> <li>Официальное трудоустройство согласно ТК РФ с первого дня;</li> <li>Белая заработная плата (обсуждается с успешным кандидатом);</li> <li>График работы: 5/2 с 09:00 до 18:00 или с 10:00 до 19:00;</li> <li>Социальный пакет: отпуска, больничные, корпоративные скидки, фитнес, бесплатное питание, своя парковка, ДМС;</li> <li>Подарки на новый год сотрудникам и их детям;</li> <li>Работа в дружной команде профессионалов;</li> <li>Новый современный офис в шаговой доступности от метро.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "73",
+      "name": "Менеджер продукта"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5382",
+    "name": "АСТ-Интернэшнл инваэронмэнт",
+    "url": "https://api.hh.ru/employers/5382",
+    "alternate_url": "https://hh.ru/employer/5382",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1389897.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7179375.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7179376.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5382",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-27T09:30:37+0300",
+  "created_at": "2025-05-27T09:30:37+0300",
+  "initial_created_at": "2025-03-28T13:59:58+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=118903417",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/118903417",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,147 @@
+{
+  "id": "121356073",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист технической поддержки L2",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 60000,
+    "to": 80000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 60000,
+    "to": 80000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Западный административный округ, Можайский район, Инновационный центр Сколково, Большой бульвар",
+    "building": "42с1",
+    "lat": 55.692318,
+    "lng": 37.347485,
+    "description": null,
+    "raw": "Москва, Западный административный округ, Можайский район, Инновационный центр Сколково, Большой бульвар, 42с1",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>О компании:</strong><br />Мы - Tool-kit.tech, IT интегратор со специализацией на проектах для компаний среднего и крупного бизнеса. Среди наших клиентов лидеры рынка: ТД Петрович, Fix Price, FM Logistics, ЕВРАЗ, РИВ ГОШ и многие другие.<br />Мы специализируемся на разработке и внедрении собственных продуктов, внедрении лучших в своей нише решений сторонних вендоров, а также заказной разработке информационных систем уровня Enterprise. Основные отрасли: Ритейл и е-ком, логистика, производство.</p> <p><strong>Обязанности:</strong></p> <ul> <li>Техническая поддержка проектов на этапе эксплуатации (2-я линия).</li> <li>Решение проблем в проектах заказчиков на уровне конфигурации системы, данных, некорректных действий пользователей.</li> <li>Консультирование пользователей.</li> <li>Ведение отчетности по решению задач.</li> <li>Актуализация пользовательской документации.</li> <li>Взаимодействие с разработчиками по исправлению ошибок ПО.</li> <li>Соблюдение SLA при работе с инцидентами</li> </ul> <strong>Требования:</strong> <ul> <li>Образование от среднего специального (желательно техническое в сфере близкой к ИТ).</li> <li><strong>Опыт работы в ИТ-сфере от 1 года.</strong></li> <li>Способность быстро ориентироваться в новом ПО корпоративного уровня.</li> <li>Умение объяснять простым языком технические термины.</li> <li>Готовность работать в режиме высокой интенсивности.</li> <li>Желательно понимание процессов работы с мастер-данными.</li> </ul> <strong>Условия:</strong> <ul> <li>Работа в компании без лишней бюрократии.</li> <li>Полное соблюдение ТК РФ.</li> <li>Удаленный формат работы с гибким графиком.</li> <li>Конкурентная «белая» заработная плата (оклад + бонусы по результатам работы).</li> <li>Работа в аккредитованной IT-компании.</li> <li>Полная занятость 5/2 .</li> <li>Выделенный наставник на период адаптации.</li> <li>Возможности для профессионального и карьерного роста в IT-компании<br /><br />Откликаясь на данную вакансию, вы даете согласие на видеозапись всех этапов отбора по вакансии. Данная видеозапись будет использована только для процессов отбора и не предназначена для публикации в публичном доступе. Наличие записи сокращает количество этапов интервью и позволяет обойтись только 2 этапами подбора (первичное интервью-итоговое интервью). Согласие может быть отозвано в любой момент посредством обращения через сайт или электронную почту.<br />Ждем Ваших откликов! :)</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Техническая поддержка"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9574490",
+    "name": "Tool-Kit",
+    "url": "https://api.hh.ru/employers/9574490",
+    "alternate_url": "https://hh.ru/employer/9574490",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1058095.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/5853021.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/5853022.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9574490",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T21:04:59+0300",
+  "created_at": "2025-06-04T21:04:59+0300",
+  "initial_created_at": "2025-06-04T21:04:59+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121356073",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121356073",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

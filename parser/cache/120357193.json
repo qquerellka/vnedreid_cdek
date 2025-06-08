@@ -1,0 +1,142 @@
+{
+  "id": "120357193",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": ".NET-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 150000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 150000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "part",
+    "name": "Частичная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><em>Компания Е-Цифра осуществляет полный цикл разработки программных комплексов, включающих в себя устройства, сетевые и облачные сервисы, мобильные <span>приложения</span>. Основная специализация - программное обеспечение для домофонии, СКУД, камер видеонаблюдения. Компания взаимодействует с крупнейшими российским производителями оборудования для жилых домов, объектов социальной сферы и промышленно-гражданского строительства.</em></p> <p>Сейчас мы в поисках .Net разработчика, который будет осуществлять разработку и поддержку программных продуктов компании, которые постоянно развиваются. Основной наш продукт - Платформа конфигурирования, управления и мониторинга инженерными системами жилого дома.</p> <p><strong>Обязанности:</strong></p> <ul> <li> <p>Поддержка и доработка существующего функционала;</p> </li> <li> <p>Участие в проектировании архитектуры;</p> </li> <li> <p>Участие в обсуждениях, планированиях, ретроспективах отдела;</p> </li> <li> <p>Ревью кода.</p> </li> <li> <p>Проведение корректировки разработанного <span>приложения</span> на основе анализа выходных данных.</p> </li> </ul> <strong>Требования:</strong> <ul> <li>​​​​​​​Среднее или высшее техническое образование.</li> <li> <p>Опыт использования в коммерческих проектах</p> </li> <li> <p>Понимание процессов разработки ПО;</p> </li> <li> <p>Опыт работы в аналогичной должности не менее 2-х лет.</p> </li> <li> <p>Знание используемых инструментов: MS Visual Studio (или Rider/VS Code), Git.</p> </li> <li> <p>Базовое знание docker</p> </li> <li> <p>C#, ASP.NET Core 8/9,</p> </li> <li> <p>Навыки работы с БД и SQL запросами.</p> </li> <li> <p>Базовое понимание принципов работы брокеров сообщений</p> </li> <li> <p>практика CI/CD</p> </li> <li> <p>понимание важности написания тестов и готовность их писать для своего кода</p> </li> <li> <p>знание принципов работы асинхронного и многопот<span>очного</span> кода</p> </li> <li> <p>понимание принципов построения микросервисной архитектуры</p> </li> </ul> <p><strong>Наш стек:</strong></p> <ul> <li>Backend: С#, NET<span> 8-9</span>, PostgreSQL, RabbitMQ.</li> <li>DevOps: ELK Stack, Grafana, Kibana, GitLab</li> </ul> <p>​​​​​​​<strong>Будет преимуществом:</strong></p> <ul> <li> <p>Знание основ разработки фронтенд части веб приложений (typescript, javascript, ReactJS).</p> </li> <li> <p>Опыт работы с sip-протоколом, sip.js;</p> </li> <li> <p>Опыт работы с брокерами сообщений;</p> </li> <li> <p>Навыки работы с микросервисной архитектурой;;</p> </li> <li> <p>Навыки работы с Jira, Confluence и т.д.;</p> </li> <li> <p>Навыки работы с GitLab;</p> </li> <li> <p>Широкий кругозор в области it.</p> </li> </ul> <strong>Условия:</strong> <ul> <li> <p>Оформление ТК РФ.</p> </li> <li> <p>Уровень дохода – от 150 000р при работе на целую ставку. Возможна частичная занятость.</p> </li> <li> <p><span>Удаленная работа</span>. По желанию можно работать в офисе.</p> </li> <li> <p>В случае работы в офисе: отсутствие дресс-кода, бесплатный чай/кофе.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11828487",
+    "name": "Е-Цифра",
+    "url": "https://api.hh.ru/employers/11828487",
+    "alternate_url": "https://hh.ru/employer/11828487",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1394262.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7196831.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7196832.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11828487",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-10T18:45:02+0300",
+  "created_at": "2025-05-10T18:45:02+0300",
+  "initial_created_at": "2025-05-10T18:45:02+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120357193",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120357193",
+  "working_days": [],
+  "working_time_intervals": [
+    {
+      "id": "from_four_to_six_hours_in_a_day",
+      "name": "Можно сменами по 4-6 часов в день"
+    }
+  ],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "PART",
+    "name": "Частичная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_4",
+      "name": "4 часа"
+    },
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,135 @@
+{
+  "id": "121271415",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Python-разработчик",
+  "insider_interview": {
+    "id": "32937",
+    "url": "https://hh.ru/interview/32937?employerId=1833"
+  },
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "проспект Мира",
+    "building": "69",
+    "lat": 55.78731,
+    "lng": 37.634326,
+    "description": null,
+    "raw": "Москва, проспект Мира, 69",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": {
+    "id": "1833-1833-bank",
+    "name": "БКС IT & Digital"
+  },
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>БКС Финтех – ИТ-компания, входящая в БКС Мир Инвестиций, в которой работают более 1300 профессионалов, реализующих актуальные решения для бизнеса. Компания аккредитована Минцифры России как ИТ-компания.</p> <p>БКС Мир инвестиций – международная инвестиционно-банковская компания, одна из крупнейших в России. Мы существуем на рынке уже 30 лет и предоставляем клиентам максимально широкий спектр брокерских и инвестиционных услуг.</p> <p>Мы – новаторы в области цифровых технологий в финансовой сфере. На единой цифровой платформе холдинга собраны все ключевые решения как для профессиональных инвесторов, так и для новичков.</p> <p>Став частью нашей команды, ты попадешь в современную ИТ-компанию, которая является резидентом Сколково.</p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Совместно с командой определять архитектуру сервиса и технический vision;</li> <li>Разрабатывать новые фичи системы брокерского антифрода;</li> <li>Совместно с штабом СDS внедрять AI/ML модели в систему;</li> <li>Работать над улучшением стабильности и отказоустойчивости сервиса.</li> </ul> <strong>Что мы ждем:</strong> <ul> <li>Хорошие знания и навыки в написании сервисов на Python;</li> <li>Опыт работы с Pandas, Numpy для обработки данных;</li> <li>Работа с Kafka, Docker, docker-compose;</li> <li>Опыт работы с одной из библиотек построения api сервисов FastApi/Flask/Django;</li> <li>Отличные навыки написания SQL;</li> <li>Опыт Git/BitBucket/GitLab;</li> <li>Понимание основ работы в linux, bash;</li> <li>Понимание основ построения ETL процессов как плюс;</li> <li>Желание развиваться в области ML алгоритмов, Scikit-learn как плюс.</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Стабильный конкурентный доход;</li> <li>Гибридный режим работы: возможность работать удаленно (частично или полностью);</li> <li>Работу в аккредитованной Минцифры России ИТ-компании, резиденте Сколково;</li> <li>Работу в стабильной и активно развивающейся компании – лидере инвестиционного рынка;</li> <li>Современный стек технологий, амбициозные проекты, возможность профессионального развития;</li> <li>ДМС с первого месяца работы;</li> <li>Оформление согласно ТК РФ.</li> </ul> <ul> <li> </li> </ul>",
+  "branded_description": "\n<style>\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;    \n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-weight: normal;\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p s,\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    display: inline;\n    margin: 0;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    overflow: hidden;\n    font-family: 'Arial';\n    font-weight: 400;\n    font-size: 18px;\n    line-height: 25px;\n    color: #FFFFFF;\n    z-index: 1;\n    background: #001A3D;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_content {\n    padding: 6px 40px 43px;\n    position: relative;\n    z-index: 1;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n   margin: 30px 0 6px;\n}\n\n.tmpl_hh_content b, \n.tmpl_hh_content strong {\n    display: inline-block;\n    font-weight: 400;\n    font-size: 25px;\n    line-height: 29px;\n    color: #80D7F2;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 30px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 6px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 6px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;    \n}\n\n.tmpl_hh_content li:before {\n    position: absolute;\n    left: -24px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"\\2022\";\n    font-family: 'Tahoma';\n    font-size: 16px;\n    line-height: 21px; \n    color: #FFFFFF;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter)'.';\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n\n.tmpl_hh_flex {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n}\n\n.tmpl_hh_header {\n    position: relative;\n    padding: 6px 6px;\n}\n\n.tmpl_hh_header__logo.tmpl_hh_header__logo--1 {\n    position: absolute;\n    top: 48.3%;\n    left: 17px;\n    width: 48.5%;\n}\n\n.tmpl_hh_header__logo.tmpl_hh_header__logo--2 {\n    position: absolute;\n    top: 59.5%;\n    left: 40px;\n    width: 82%;\n}\n\n.tmpl_hh_about {\n    font-size: 25px;\n    line-height: 120%;\n    color: #FFFFFF;\n    padding: 44px 40px 0;\n}\n\n.tmpl_hh_about p {\n    margin-bottom: 30px;\n}\n\n.tmpl_hh_offer {\n    position: relative;\n    background: url(https://hhcdn.ru/ichameleon/232422.svg) no-repeat;\n    margin: 0 22px -3px;\n    display: flex;\n    padding: 15px 19px 0;\n    justify-content: space-between;\n    background-size: 100%;\n}\n\np.tmpl_hh_offer__title {\n    font-size: 25px;\n    line-height: 29px;\n    color: #FFFFFF;\n}\n\n.tmpl_hh_offer__items.tmpl_hh_flex {\n    width: 56.4%;\n    margin: 94px 0 0;\n}\n\n.tmpl_hh_column {\n    width: 49.5%;\n}\n\n.tmpl_hh_offer__item {\n    position: relative;\n    padding: 0 0 0 47px;\n    line-height: 21px;\n    margin-bottom: 37px;\n}\n\n.tmpl_hh_offer__icon {\n    width: 34px;\n    position: absolute;\n    left: 0;\n    top: 0px;\n}\n\np.tmpl_hh_footnote {\n    font-size: 12px;\n    line-height: 15px;\n    padding: 0px 40px 18px;\n}\n\n\n\n@media screen and (max-width: 1019px) {\n    .tmpl_hh_offer__items.tmpl_hh_flex {\n        width: 64.4%;\n        margin: 62px 0 0;\n    }\n}\n\n@media screen and (max-width: 699px) {\n\n    .tmpl_hh_wrapper {\n        font-size: 14px;\n        line-height: 20px;\n    }\n\n    .tmpl_hh_content {\n        padding: 0px 10px 24px;\n        margin: -3px 0 0;\n    }\n\n    .tmpl_hh_content p,\n    .tmpl_hh_content b,\n    .tmpl_hh_content strong {\n       margin: 20px 0 6px;\n    }\n\n    .tmpl_hh_content b, \n    .tmpl_hh_content strong {\n        font-size: 18px;\n        line-height: 22px;\n    }\n\n    .tmpl_hh_header {\n        padding: 5px;\n    }\n\n    .tmpl_hh_header__logo.tmpl_hh_header__logo--1 {\n        top: 48.8%;\n        left: 10px;\n        width: 48%;\n    }\n\n    .tmpl_hh_header__logo.tmpl_hh_header__logo--2 {\n        top: 59.5%;\n        left: 19px;\n        width: 80.5%;\n    }\n\n    .tmpl_hh_about {\n        font-size: 18px;\n        line-height: 120%;\n        padding: 27px 10px 0;\n    }\n\n    .tmpl_hh_about p {\n        margin-bottom: 24px;\n    }\n\n    .tmpl_hh_offer {\n        background: url(https://hhcdn.ru/ichameleon/232434.png) no-repeat;\n        margin: 0 15px -0;\n        display: block;\n        padding: 16px 17px 39px;\n        background-size: 100% 100%;\n    }\n\n    p.tmpl_hh_offer__title {\n        font-size: 18px;\n        line-height: 21px;\n    }\n\n    .tmpl_hh_offer__items.tmpl_hh_flex {\n        width: auto;\n        margin: 18px 0 0;\n    }\n\n    .tmpl_hh_column {\n        width: 100%;\n    }\n\n    .tmpl_hh_offer__item {\n        padding: 0px 0 0 40px;\n        line-height: 16px;\n        font-size: 14px;\n        margin-bottom: 19px;\n        display: flex;\n        height: 32px;\n        align-items: center;\n    }\n\n    .tmpl_hh_offer__icon {\n        left: -2px;\n        top: 50%;\n        transform: translate(0,-50%);\n    }\n\n    p.tmpl_hh_footnote {\n        padding: 22px 30px 16px 15px;\n    }\n\n\n}\n</style>\n\n<div class=\"tmpl_hh_wrapper\">\n    <div class=\"tmpl_hh_header\">\n        <div class=\"tmpl_hh_header__logo tmpl_hh_header__logo--1\"><img src=\"https://hhcdn.ru/ichameleon/232423.svg\" alt=\"\"></div>\n        <div class=\"tmpl_hh_header__logo tmpl_hh_header__logo--2\"><img src=\"https://hhcdn.ru/ichameleon/232424.svg\" alt=\"\"></div>\n        <div class=\"tmpl_hh_header__photo\"><img src=\"https://hhcdn.ru/ichameleon/232427.png\" alt=\"\"></div>\n    </div>\n    <div class=\"tmpl_hh_about\">\n       \n    </div>\n    <div class=\"tmpl_hh_content\">\n        <p>БКС Финтех – ИТ-компания, входящая в БКС Мир Инвестиций, в которой работают более 1300 профессионалов, реализующих актуальные решения для бизнеса. Компания аккредитована Минцифры России как ИТ-компания.</p> <p>БКС Мир инвестиций – международная инвестиционно-банковская компания, одна из крупнейших в России. Мы существуем на рынке уже 30 лет и предоставляем клиентам максимально широкий спектр брокерских и инвестиционных услуг.</p> <p>Мы – новаторы в области цифровых технологий в финансовой сфере. На единой цифровой платформе холдинга собраны все ключевые решения как для профессиональных инвесторов, так и для новичков.</p> <p>Став частью нашей команды, ты попадешь в современную ИТ-компанию, которая является резидентом Сколково.</p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Совместно с командой определять архитектуру сервиса и технический vision;</li> <li>Разрабатывать новые фичи системы брокерского антифрода;</li> <li>Совместно с штабом СDS внедрять AI/ML модели в систему;</li> <li>Работать над улучшением стабильности и отказоустойчивости сервиса.</li> </ul> <strong>Что мы ждем:</strong> <ul> <li>Хорошие знания и навыки в написании сервисов на Python;</li> <li>Опыт работы с Pandas, Numpy для обработки данных;</li> <li>Работа с Kafka, Docker, docker-compose;</li> <li>Опыт работы с одной из библиотек построения api сервисов FastApi/Flask/Django;</li> <li>Отличные навыки написания SQL;</li> <li>Опыт Git/BitBucket/GitLab;</li> <li>Понимание основ работы в linux, bash;</li> <li>Понимание основ построения ETL процессов как плюс;</li> <li>Желание развиваться в области ML алгоритмов, Scikit-learn как плюс.</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Стабильный конкурентный доход;</li> <li>Гибридный режим работы: возможность работать удаленно (частично или полностью);</li> <li>Работу в аккредитованной Минцифры России ИТ-компании, резиденте Сколково;</li> <li>Работу в стабильной и активно развивающейся компании – лидере инвестиционного рынка;</li> <li>Современный стек технологий, амбициозные проекты, возможность профессионального развития;</li> <li>ДМС с первого месяца работы;</li> <li>Оформление согласно ТК РФ.</li> </ul> <ul> <li> </li> </ul></div>\n    <div class=\"tmpl_hh_offer\">\n        <p class=\"tmpl_hh_offer__title\">Преимущества<br> работы в БКС</p>\n        <div class=\"tmpl_hh_offer__items tmpl_hh_flex\">\n            <div class=\"tmpl_hh_column\">\n                <div class=\"tmpl_hh_offer__item\">\n                    <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/232428.svg\" alt=\"\"></div>\n                    <p>Масштаб корпорации</p>\n                </div>\n                <div class=\"tmpl_hh_offer__item\">\n                    <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/232430.svg\" alt=\"\"></div>\n                    <p>Карьерный рост</p>\n                </div>\n            </div>\n            <div class=\"tmpl_hh_column\">\n                <div class=\"tmpl_hh_offer__item\">\n                    <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/232429.svg\" alt=\"\"></div>\n                    <p>Комфортный старт</p>\n                </div>\n                <div class=\"tmpl_hh_offer__item\">\n                    <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/232431.svg\" alt=\"\"></div>\n                    <p>Интересная корпоративная жизнь</p>\n                </div>\n            </div>\n        </div>\n    </div>\n    <p class=\"tmpl_hh_footnote\">ООО «Компания БКС» работает под брендом БКС Мир Инвестиций</p>\n</div> \n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1833",
+    "name": "Компания БКС",
+    "url": "https://api.hh.ru/employers/1833",
+    "alternate_url": "https://hh.ru/employer/1833",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1378069.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7132071.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7132072.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1833",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T10:46:08+0300",
+  "created_at": "2025-06-03T10:46:08+0300",
+  "initial_created_at": "2025-06-03T10:46:08+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121271415",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121271415",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

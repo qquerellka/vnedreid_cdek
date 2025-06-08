@@ -1,0 +1,212 @@
+{
+  "id": "119694312",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Ведущий системный администратор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 250000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 250000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Мамоновский переулок",
+    "building": "4с1",
+    "lat": 55.765858,
+    "lng": 37.598214,
+    "description": null,
+    "raw": "Москва, Мамоновский переулок, 4с1",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Основные задачи:</strong></p> <ul> <li>Техническая поддержка 3 линии пользователей компании</li> <li>Мониторинг критически важных систем ИТ инфраструктуры</li> <li>Обслуживание серверов (Windows, Linux) и сервисов (AD DS, DHCP, DNS, AD FS, RDS-Farm, PrintServers, WSUS, SMB/CIFS, FTP, IIS, MSSQL/PostgreSQL, Exchange кластер, Видеонаблюдение, СКУД/СУРВ, серверы 1С). Выполнение регламентных заданий</li> <li>Администрирование сервера резервного копирования Veeam</li> <li>Администрирование систем виртуализации вычислительных ресурсов (гипервизоры VMware ESXi, vCenter), облачные дата-центры (VDS/VPS)</li> <li>Администрирование Систем Хранения Данных (СХД HPE MSA, Infortrend EonStor, Netgear NAS)</li> <li>Администрирование сетевой инфраструктуры (Ideco NGFW, Ideco Center, Ubiquiti UniFi, Microtik)</li> <li>Обслуживание физических серверных платформ и СХД в дата-центре (HPE, Supermicro, ASUS)</li> <li>Составление технического задания для передачи в работу ИТ-специалистам. Постановка задач и контроль их выполнения</li> <li>Взаимодействие с ИТ-подрядчиками и поставщиками ИТ-услуг по техническим вопросам</li> <li>Участие в проектной деятельности, как по внутренним задачам департамента ИТ, так и в общих для компании</li> <li>Подготовка инструкций и документации по использование и работе ИТ-сервисов компании. Участие в проработке регламентов департамента ИТ</li> <li>Консультации и обучение сотрудников департамента ИТ (специалистов 1/2 линии) по технически сложным вопросам. Участие развитие компетенций сотрудников отдела</li> <li>Поиск новых ИТ сервисов и ПО для развития глобальной ИТ-инфраструктуры компании</li> </ul> <p><strong>Необходимые нам опыт, навыки и компетенции кандидатов:</strong></p> <ul> <li>Опыт работы с аналогичным функционалом от 3х лет</li> <li>Хорошее знание сетевых служб и технологий (AD DS, ADFS, RDS-Farm, GPO, IIS)</li> <li>Настройка кластера сервера 1С: Предприятия и лицензирования 1С клиентов</li> <li>Обширный опыт администрирования ОС Windows Server и Linux (UbuntuServer, CentOS)</li> <li>Навыки развёртывания виртуализации вычислительных ресурсов (настойка гипервизоров VMware ESXi, vCenter) как на физических серверных платформах, так и на виртуальных облачных ресурсах поставщиков</li> <li>Опыт настройки СХД уровня предприятия</li> <li>Развёртывание распределённой корпоративной сети на удалённых объектах, построение VPN и локальных подсетей</li> <li>Опыт администрирования с MSSQL Server или PostgeSQL</li> <li>Опыт администрирования веб-серверов Nginx, Apache, IIS, знание стека TCP/IP и понимание модели OSI</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Конкурентную заработную плату и годовые бонусы</li> <li>Доплату до 100% к отпускам и больничным</li> <li>График работы 5/2 с 9:00 до 18:00, пятница - сокращенный рабочий день</li> <li>ДМС со стоматологией (после прохождения испытательного срока)</li> <li>Комплексную систему адаптации новых сотрудников</li> <li>Интересные корпоративные праздники и мероприятия</li> <li>Современный pet-friendly комфортный офис рядом с Патриаршими прудами (м.Пушкинская/ м.Тверская)</li> </ul>",
+  "branded_description": " \n<style>\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_wrapper * {\n    -webkit-box-sizing: border-box;\n    box-sizing: border-box;\n}\n\n.tmpl_hh_wrapper [role=button] {\n    outline: none;\n}\n\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content li p {\n    font-size: inherit !important;\n    margin: 0;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content h2:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    font-family: \"Arial\", sans-serif;\n    color:  #1C1B1C;\n    font-size: 16px;\n    line-height: 20px;\n    overflow: hidden;\n    -webkit-font-smoothing: antialiased;\n}\n\n.tmpl_hh_video {\n    position: relative;\n    width: 100%;\n}\n\n.tmpl_hh_video img,\n.tmpl_hh_video iframe {\n    position: absolute;\n    left: 0;\n    top: 0;\n    width: 100%;\n    height: 100%;\n}\n\n.tmpl_hh_content {\n    padding: 48px 48px;\n}\n\n.tmpl_hh_content p {\n    margin: 12px 0 12px;\n}\n\n.tmpl_hh_content h2 {\n    margin: 32px 0 16px;\n    font-weight: 700;\n    font-size: 22px;\n    line-height: 24px;\n    letter-spacing: 0;\n    font-weight: bold;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 19px;\n    padding-bottom: 1px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 12px;\n}\n\n.tmpl_hh_content li:last-child {\n    margin-bottom: 0;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 12px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;\n}\n\n.tmpl_hh_content li:before {\n    content: \"\";\n    position: absolute;\n    left: -13px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"\";\n    width: 4px;\n    height: 4px;\n    top: 8px;\n    border-radius: 50%;\n    background: #1C1B1C;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter) \".\";\n}\n\n.tmpl_hh_head {\n    background: url(https://hhcdn.ru/ichameleon/430896.svg), url(https://hhcdn.ru/ichameleon/430897.svg);\n    background-size: auto, auto;\n    background-position: 94% 20%, 6% 53%;\n    background-repeat: no-repeat, no-repeat;\n    padding: 37px 7% 42px 0px;\n}\n\n.tmpl_hh_head__logo {\n    width: 345px;\n    margin: 0 auto;\n}\n\n.tmpl_hh_about {\n    background: #F0F2F68F;\n    border-radius: 16px;\n    margin: 0 48px;\n    padding: 32px;\n    color: #002D72;\n}\n\np.tmpl_hh_about__title {\n    font-weight: bold;\n    font-size: 22px;\n    line-height: 26px;\n    margin-bottom: 23px;\n}\n\n.tmpl_hh_about ul {\n    list-style: none;\n    display: grid;\n    gap: 12px;\n}\n\n.tmpl_hh_about li {\n    position: relative;\n    padding: 0 0 0 23px;\n}\n\n.tmpl_hh_about li:before {\n    content: \"\";\n    height: 10px;\n    width: 10px;\n    border-radius: 50%;\n    position: absolute;\n    left: 4.5px;\n    box-sizing: border-box;\n    background: url(https://hhcdn.ru/ichameleon/430901.svg);\n    top: 5px;\n}\n\n.tmpl_hh_advantages {\n    background: #F7F8FA;\n    border-radius: 16px;\n    margin: 0 28px 0 48px;\n    padding: 25px 22px 30px 29px;\n}\n\np.tmpl_hh_advantages__title {\n    font-weight: 700;\n    font-size: 22px;\n    line-height: 24px;\n    color: #002D72;\n    margin-bottom: 23px;\n}\n\n.tmpl_hh_advantages__columns {\n    display: grid;\n    grid-template-columns: 239px auto;\n    gap: 42px;\n}\n\n.tmpl_hh_advantages__column {\n    display: grid;\n    gap: 16px;\n}\n\n.tmpl_hh_advantages__item {\n    display: flex;\n    align-items: center;\n    font-size: 16px;\n    line-height: 23px;\n    color: #2E406B;\n    gap: 10px;\n}\n\n.tmpl_hh_advantages__icon {\n    flex-shrink: 0;\n    width: 48px;\n}\n\n.tmpl_hh_banner {\n    margin: 24px 28px 32px 48px;\n    border-radius: 16px;\n    overflow: hidden;\n}\n\n.tmpl_hh_footer {\n    text-align: center;\n    padding: 32px 0 17px;\n    background: url(https://hhcdn.ru/ichameleon/430895.svg), url(https://hhcdn.ru/ichameleon/430898.svg);\n    background-repeat: no-repeat, no-repeat;\n    background-position: 1% 0, 99.3% 33%;\n}\n\np.tmpl_hh_footer__slogan {\n    font-weight: 700;\n    font-size: 26px;\n    line-height: 24px;\n    text-align: center;\n    color: #002D72;\n}\n\np.tmpl_hh_footnote {\n    font-size: 12px;\n    line-height: 24px;\n    margin: 30px 0 0;\n    color: #A1AFC3;\n}\n\n@media screen and (max-width: 1019px) {\n    .tmpl_hh_head__logo {\n        width: 290px;\n    }\n\n    .tmpl_hh_advantages {\n        margin: 0 48px 0 48px;\n        padding: 25px 29px 30px 29px;\n    }\n\n    .tmpl_hh_advantages__columns {\n        grid-template-columns: repeat(1, 1fr);\n        gap: 22px;\n    }\n\n    .tmpl_hh_advantages__columns br {\n        display: none;\n    }\n\n    .tmpl_hh_banner {\n        margin: 24px 48px 32px 48px;\n    }\n\n    .tmpl_hh_footer {\n        padding: 15px 22% 17px;\n    }\n\n    p.tmpl_hh_footnote {\n        margin: 15px 0 0;\n    }\n}\n\n@media screen and (max-width: 699px) {\n    .tmpl_hh_wrapper {\n        width: auto;\n        margin: 0 -15px;\n    }\n\n    .tmpl_hh_content {\n        padding: 32px 15px;\n    }\n\n    .tmpl_hh_content h2 {\n        margin: 32px 0 12px;\n        font-size: 20px;\n        line-height: 24px;\n    }\n\n    .tmpl_hh_head {\n        background: url(https://hhcdn.ru/ichameleon/430899.svg), url(https://hhcdn.ru/ichameleon/430900.svg);\n        background-size: auto, auto;\n        background-position: 91% 37%, 8% 15%;\n        background-repeat: no-repeat, no-repeat;\n        padding: 35px 6% 44px 0px;\n    }\n\n    .tmpl_hh_head__logo {\n        width: 248px;\n    }\n\n    .tmpl_hh_about {\n        border-radius: 12px;\n        margin: 0 15px;\n        padding: 24px;\n    }\n\n    p.tmpl_hh_about__title {\n        font-size: 20px;\n        line-height: 24px;\n        margin-bottom: 12px;\n    }\n\n    .tmpl_hh_about ul {\n        gap: 8px;\n    }\n\n    .tmpl_hh_about li {\n        padding: 0 0 0 21px;\n    }\n\n    .tmpl_hh_about li:before {\n        height: 8px;\n        width: 8px;\n        left: 4.5px;\n        background-size: 100% 100%;\n        top: 6px;\n    }\n\n    .tmpl_hh_advantages {\n        border-radius: 12px;\n        margin: 0 15px 0;\n        padding: 24px;\n    }\n\n    p.tmpl_hh_advantages__title {\n        font-size: 20px;\n        line-height: 24px;\n        margin-bottom: 12px;\n    }\n\n    .tmpl_hh_advantages__columns {\n        gap: 12px;\n    }\n\n    .tmpl_hh_advantages__column {\n        gap: 12px;\n    }\n\n    .tmpl_hh_advantages__item {\n        font-size: 16px;\n        line-height: 20px;\n        gap: 10px;\n    }\n\n    .tmpl_hh_advantages__icon {\n        width: 40px;\n    }\n\n    .tmpl_hh_banner {\n        margin: 15px 15px;\n        border-radius: 12px;\n    }\n\n    .tmpl_hh_footer {\n        padding: 27px 12% 17px;\n        background: url(https://hhcdn.ru/ichameleon/430907.svg), url(https://hhcdn.ru/ichameleon/430908.svg);\n        background-repeat: no-repeat, no-repeat;\n        background-position: 3% 28%, 97.3% 42%;\n    }\n\n    p.tmpl_hh_footer__slogan {\n        font-size: 22px;\n        line-height: 24px;\n    }\n\n    p.tmpl_hh_footnote {\n        font-size: 12px;\n        line-height: 24px;\n        margin: 1px 0 0;\n    }\n}\n@media screen and (max-width: 340px) {\n    .tmpl_hh_footer {\n        background-position: 0 17%, 100% 38%;\n    }\n}\n\n</style>\n\n<div class=\"tmpl_hh_wrapper\">\n    <div class=\"tmpl_hh_head\">\n        <div class=\"tmpl_hh_head__logo\"><img src=\"https://hhcdn.ru/ichameleon/430894.png\" alt=\"\"></div>\n    </div>\n    <div class=\"tmpl_hh_about\">\n        <p class=\"tmpl_hh_about__title\">О компании:</p>\n        <ul>\n            <li>17 лет на рынке</li>\n            <li>Официально и эксклюзивно представляем мировые бренды автозапчастей NiBK, Sakura, <nobr>JS Asakashi,</nobr> Sure</li>\n            <li>Наша команда насчитывает более 260 сотрудников в разных регионах России</li>\n        </ul>\n    </div>\n    <div class=\"tmpl_hh_content\">\n        <p><strong>Основные задачи:</strong></p> <ul> <li>Техническая поддержка 3 линии пользователей компании</li> <li>Мониторинг критически важных систем ИТ инфраструктуры</li> <li>Обслуживание серверов (Windows, Linux) и сервисов (AD DS, DHCP, DNS, AD FS, RDS-Farm, PrintServers, WSUS, SMB/CIFS, FTP, IIS, MSSQL/PostgreSQL, Exchange кластер, Видеонаблюдение, СКУД/СУРВ, серверы 1С). Выполнение регламентных заданий</li> <li>Администрирование сервера резервного копирования Veeam</li> <li>Администрирование систем виртуализации вычислительных ресурсов (гипервизоры VMware ESXi, vCenter), облачные дата-центры (VDS/VPS)</li> <li>Администрирование Систем Хранения Данных (СХД HPE MSA, Infortrend EonStor, Netgear NAS)</li> <li>Администрирование сетевой инфраструктуры (Ideco NGFW, Ideco Center, Ubiquiti UniFi, Microtik)</li> <li>Обслуживание физических серверных платформ и СХД в дата-центре (HPE, Supermicro, ASUS)</li> <li>Составление технического задания для передачи в работу ИТ-специалистам. Постановка задач и контроль их выполнения</li> <li>Взаимодействие с ИТ-подрядчиками и поставщиками ИТ-услуг по техническим вопросам</li> <li>Участие в проектной деятельности, как по внутренним задачам департамента ИТ, так и в общих для компании</li> <li>Подготовка инструкций и документации по использование и работе ИТ-сервисов компании. Участие в проработке регламентов департамента ИТ</li> <li>Консультации и обучение сотрудников департамента ИТ (специалистов 1/2 линии) по технически сложным вопросам. Участие развитие компетенций сотрудников отдела</li> <li>Поиск новых ИТ сервисов и ПО для развития глобальной ИТ-инфраструктуры компании</li> </ul> <p><strong>Необходимые нам опыт, навыки и компетенции кандидатов:</strong></p> <ul> <li>Опыт работы с аналогичным функционалом от 3х лет</li> <li>Хорошее знание сетевых служб и технологий (AD DS, ADFS, RDS-Farm, GPO, IIS)</li> <li>Настройка кластера сервера 1С: Предприятия и лицензирования 1С клиентов</li> <li>Обширный опыт администрирования ОС Windows Server и Linux (UbuntuServer, CentOS)</li> <li>Навыки развёртывания виртуализации вычислительных ресурсов (настойка гипервизоров VMware ESXi, vCenter) как на физических серверных платформах, так и на виртуальных облачных ресурсах поставщиков</li> <li>Опыт настройки СХД уровня предприятия</li> <li>Развёртывание распределённой корпоративной сети на удалённых объектах, построение VPN и локальных подсетей</li> <li>Опыт администрирования с MSSQL Server или PostgeSQL</li> <li>Опыт администрирования веб-серверов Nginx, Apache, IIS, знание стека TCP/IP и понимание модели OSI</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Конкурентную заработную плату и годовые бонусы</li> <li>Доплату до 100% к отпускам и больничным</li> <li>График работы 5/2 с 9:00 до 18:00, пятница - сокращенный рабочий день</li> <li>ДМС со стоматологией (после прохождения испытательного срока)</li> <li>Комплексную систему адаптации новых сотрудников</li> <li>Интересные корпоративные праздники и мероприятия</li> <li>Современный pet-friendly комфортный офис рядом с Патриаршими прудами (м.Пушкинская/ м.Тверская)</li> </ul></div>\n    <div class=\"tmpl_hh_advantages\">\n        <p class=\"tmpl_hh_advantages__title\">Наши преимущества:</p>\n        <div class=\"tmpl_hh_advantages__columns\">\n            <div class=\"tmpl_hh_advantages__column\">\n                <div class=\"tmpl_hh_advantages__item\">\n                    <div class=\"tmpl_hh_advantages__icon\"><img src=\"https://hhcdn.ru/ichameleon/430885.svg\" alt=\"\"></div>\n                    <p>ДМС</p>\n                </div>\n                <div class=\"tmpl_hh_advantages__item\">\n                    <div class=\"tmpl_hh_advantages__icon\"><img src=\"https://hhcdn.ru/ichameleon/430884.svg\" alt=\"\"></div>\n                    <p>Материальная<br> поддержка</p>\n                </div>\n                <div class=\"tmpl_hh_advantages__item\">\n                    <div class=\"tmpl_hh_advantages__icon\"><img src=\"https://hhcdn.ru/ichameleon/430887.svg\" alt=\"\"></div>\n                    <p>Скидки на продукцию</p>\n                </div>\n                <div class=\"tmpl_hh_advantages__item\">\n                    <div class=\"tmpl_hh_advantages__icon\"><img src=\"https://hhcdn.ru/ichameleon/430888.svg\" alt=\"\"></div>\n                    <p>Обеды и ужины для сотрудников склада</p>\n                </div>\n            </div>\n            <div class=\"tmpl_hh_advantages__column\">\n                <div class=\"tmpl_hh_advantages__item\">\n                    <div class=\"tmpl_hh_advantages__icon\"><img src=\"https://hhcdn.ru/ichameleon/430883.svg\" alt=\"\"></div>\n                    <p>Скидки от партнеров</p>\n                </div>\n                <div class=\"tmpl_hh_advantages__item\">\n                    <div class=\"tmpl_hh_advantages__icon\"><img src=\"https://hhcdn.ru/ichameleon/430886.svg\" alt=\"\"></div>\n                    <p>Система адаптации<br> новых сотрудников</p>\n                </div>\n                <div class=\"tmpl_hh_advantages__item\">\n                    <div class=\"tmpl_hh_advantages__icon\"><img src=\"https://hhcdn.ru/ichameleon/430889.svg\" alt=\"\"></div>\n                    <p>Возможность дополнительного обучения</p>\n                </div>\n                <div class=\"tmpl_hh_advantages__item\">\n                    <div class=\"tmpl_hh_advantages__icon\"><img src=\"https://hhcdn.ru/ichameleon/430890.svg\" alt=\"\"></div>\n                    <p>Премии по программе «Приведи друга»</p>\n                </div>\n            </div>\n        </div>\n    </div>\n    <div class=\"tmpl_hh_banner\">\n        <picture>\n            <source srcset=\"https://hhcdn.ru/ichameleon/430909.jpg\" media=\"(max-width: 699px)\"></source>\n            <img src=\"https://hhcdn.ru/ichameleon/430893.jpg\" alt=\"\">\n        </picture>\n    </div>\n    <div class=\"tmpl_hh_footer\">\n        <p class=\"tmpl_hh_footer__slogan\">Присоединяйтесь <nobr>к нашей команде!</nobr></p>\n        <p class=\"tmpl_hh_footnote\">подбор ведётся в АО «БРИКСО»</p>\n    </div>\n</div>\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Hyper-V"
+    },
+    {
+      "name": "VMware"
+    },
+    {
+      "name": "TCP/IP"
+    },
+    {
+      "name": "DHCP"
+    },
+    {
+      "name": "WSUS"
+    },
+    {
+      "name": "VMware ESXi"
+    },
+    {
+      "name": "MS SQL Server"
+    },
+    {
+      "name": "Windows Server 2008 R2"
+    },
+    {
+      "name": "SQL Server"
+    },
+    {
+      "name": "Active Directory"
+    },
+    {
+      "name": "Cisco"
+    },
+    {
+      "name": "Администрирование сетевого оборудования"
+    },
+    {
+      "name": "Администрирование серверов"
+    },
+    {
+      "name": "Сетевые технологии"
+    },
+    {
+      "name": "Администрирование серверов Windows"
+    },
+    {
+      "name": "MS SQL"
+    },
+    {
+      "name": "Linux"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3812503",
+    "name": "БРИКСО",
+    "url": "https://api.hh.ru/employers/3812503",
+    "alternate_url": "https://hh.ru/employer/3812503",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/840646.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/3803463.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3803464.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3812503",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-27T14:15:50+0300",
+  "created_at": "2025-05-27T14:15:50+0300",
+  "initial_created_at": "2025-04-18T13:49:34+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119694312",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119694312",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b1",
+        "name": "B1 — Средний"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

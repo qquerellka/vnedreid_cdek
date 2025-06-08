@@ -1,0 +1,131 @@
+{
+  "id": "120900884",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер техподдержки со знанием английского языка (Сербия)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<div><strong>О вакансии:</strong></div> <p>Shamrock – информационная система, созданная для управления бизнесом крупнейшего в Европе оператора такси. Программное обеспечение Haulmont управляет всем бизнесом британского лидера пассажирских перевозок: от заказа такси и назначения автомобилей на маршрут до биллинга и расчета зарплат. Компания владеет парком из 5 000 автомобилей и перевозит 10 млн пассажиров в год.</p> <p>Вы будете заниматься технической поддержкой информационной системы Shamrock, созданной для управления бизнесом крупнейшего в Европе оператора такси.</p> <p><strong>Задачи:</strong></p> <ul> <li>Сопровождение информационной системы (понимание предметной области заказчика, детальное знание системы, разрешение проблем заказчика).</li> <li>Установка и обновление версий продукта.</li> <li>Помощь в тестировании новых версий.</li> <li>Автоматизация своей деятельности и процессов заказчика.</li> <li>Командировки в Англию.</li> </ul> <ul> </ul> <p><strong>Мы ищем человека, который:</strong></p> <ul> <li>Знает SQL на высоком уровне.</li> <li>Знает английский язык на уровне upper-intermediate или выше.</li> <li>Владеет основами программирования.</li> <li>Исполнительный, ответственный, стрессоустойчивый, коммуникабельный.</li> <li>Владеет Linux на уровне уверенного пользователя.</li> <li>Умеет использовать инструменты развертывания ПО, такие как Ansible, Docker, Kubernetes и т.д.</li> </ul> <ul> </ul> <p><strong>Преимуществом будет:</strong></p> <ul> <li>Опыт работы в поддержке.</li> </ul> <ul> </ul> <ul> </ul>",
+  "branded_description": "\n<style>\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;    \n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-weight: bold;\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n    line-height: inherit !important;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    margin: 0;\n    display: inline;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    z-index: 1;\n    font-family: Arial;\n    font-size: 14px;\n    line-height: 22px;\n    color: #2B3649;\n    overflow: hidden;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n}\n\n.tmpl_hh_content {   \n    position: relative;\n    padding: 40px 65px 25px;\n    z-index: 3;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p+p {\n    margin: 15px 0 15px;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    margin: 50px 0 15px;\n}\n\n.tmpl_hh_content b, \n.tmpl_hh_content strong {\n    display: inline-block;\n    font-weight: 700;\n    font-size: 28px;\n    line-height: 32px;\n}\n\n.tmpl_hh_content i b, \n.tmpl_hh_content i strong,\n.tmpl_hh_content em b, \n.tmpl_hh_content em strong,\n.tmpl_hh_content b em, \n.tmpl_hh_content strong em,\n.tmpl_hh_content b i, \n.tmpl_hh_content strong i {\n    font-weight: 700;\n    font-style: normal;\n    font-size: 14px;\n    line-height: 22px;\n}\n\n.tmpl_hh_content ol, .tmpl_hh_content ul {\n    margin-left: 18px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 12px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 12px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;    \n}\n\n.tmpl_hh_content li:before {\n    position: absolute;\n    left: -17px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"\";\n    width: 9px;\n    height: 1px;\n    top: 11px;\n    background: #2B3649;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter) '.';\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n\n.tmpl_hh_flex {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n}\n\n.tmpl_hh_header {\n    background: url(https://hhcdn.ru/ichameleon/417558.png), url(https://hhcdn.ru/ichameleon/417556.png), linear-gradient(160.31deg, #1232AC 20.3%, #3D80EE 88.95%);\n    background-repeat: no-repeat, no-repeat;\n    background-position: 0 0, 100% 0;\n    font-size: 32px;\n    font-weight: 700;\n    line-height: 38px;\n    color: #FFFFFF;\n    padding: 136px 65px 51px;\n    position: relative;\n}\n\n.tmpl_hh_header__logo {\n    width: 100px;\n    margin-bottom: 15px;\n}\n\n.tmpl_hh_header__photo {\n    position: absolute;\n    top: 14%;\n    right: 12%;\n    width: 287px;\n    pointer-events: none;\n}\n\n.tmpl_hh_offer {\n    border-top: 1px solid #2E61D8;\n    margin: 0 65px;\n    padding: 40px 0 69px;\n}\n\np.tmpl_hh_offer__title {\n    font-size: 28px;\n    font-weight: 700;\n    line-height: 42px;\n    text-align: center;\n    color: #2E61D8;\n}\n\n.tmpl_hh_offer__items {\n    display: grid;\n    grid-template-columns: 157px 182px 189px;\n    font-size: 14px;\n    line-height: 16px;\n    text-align: center;\n    color: #2B3649;\n    margin: 39px 0 0;\n    gap: 45px 0;\n    justify-content: space-between;\n}\n\n.tmpl_hh_offer__icon {\n    width: 60px;\n    height: 60px;\n    margin: 0 auto 20px;\n    position: relative;\n}\n\n.tmpl_hh_offer__icon img {\n    position: absolute;\n    width: auto;\n    transform: translate(-50%,0);\n    left: 50%;\n    bottom: 0;\n}\n\n@media screen and (max-width: 1019px) {\n    .tmpl_hh_header {\n        padding: 136px 30px 51px;\n    }\n\n    .tmpl_hh_content {\n        padding: 40px 30px 25px;\n    }\n\n    .tmpl_hh_offer {\n        margin: 0 30px;\n    }\n}\n\n@media screen and (max-width: 699px) {\n\n    .tmpl_hh_content {   \n        padding: 40px 15px 25px;\n    }\n\n    .tmpl_hh_content b, \n    .tmpl_hh_content strong {\n        font-size: 18px;\n        line-height: 21px;\n    }\n\n    .tmpl_hh_content ol, .tmpl_hh_content ul {\n        margin-left: 17px;\n    }\n\n    .tmpl_hh_header {\n        padding: 136px 15px 28px;\n    }\n\n    .tmpl_hh_header__photo {\n        position: relative;\n        top: 0%;\n        right: 5%;\n        width: 82.5%;\n        margin: 28px auto 0;\n    }\n\n    .tmpl_hh_offer {\n        margin: 0 15px;\n        padding: 40px 0 40px;\n    }\n\n    p.tmpl_hh_offer__title {\n        font-size: 18px;\n        line-height: 27px;\n    }\n\n    .tmpl_hh_offer__items {\n        grid-template-columns: repeat(2, 1fr);\n        margin: 40px 0 0;\n        gap: 17px;\n    }\n\n    .tmpl_hh_offer__icon {\n        width: auto;\n        height: auto;\n        margin: 0 auto 20px;\n        max-height: 70px;\n    }\n\n    .tmpl_hh_offer__icon img {\n        position: relative;\n        width: auto;\n        transform: translate(0%,0);\n        left: 0;\n        bottom: 0;\n        margin: 0 auto;\n    }\n}\n\n</style>\n\n\n<div class=\"tmpl_hh_wrapper\">\n    <div class=\"tmpl_hh_header\">\n        <div class=\"tmpl_hh_header__logo\"><img src=\"https://hhcdn.ru/ichameleon/417560.svg\" alt=\"\"></div>\n        <p>Присоединяйся<br> к команде</p>\n        <div class=\"tmpl_hh_header__photo\"><img src=\"https://hhcdn.ru/ichameleon/417561.png\" alt=\"\"></div>\n    </div>\n    <div class=\"tmpl_hh_content\">\n        <div><strong>О вакансии:</strong></div> <p>Shamrock – информационная система, созданная для управления бизнесом крупнейшего в Европе оператора такси. Программное обеспечение Haulmont управляет всем бизнесом британского лидера пассажирских перевозок: от заказа такси и назначения автомобилей на маршрут до биллинга и расчета зарплат. Компания владеет парком из 5 000 автомобилей и перевозит 10 млн пассажиров в год.</p> <p>Вы будете заниматься технической поддержкой информационной системы Shamrock, созданной для управления бизнесом крупнейшего в Европе оператора такси.</p> <p><strong>Задачи:</strong></p> <ul> <li>Сопровождение информационной системы (понимание предметной области заказчика, детальное знание системы, разрешение проблем заказчика).</li> <li>Установка и обновление версий продукта.</li> <li>Помощь в тестировании новых версий.</li> <li>Автоматизация своей деятельности и процессов заказчика.</li> <li>Командировки в Англию.</li> </ul> <ul> </ul> <p><strong>Мы ищем человека, который:</strong></p> <ul> <li>Знает SQL на высоком уровне.</li> <li>Знает английский язык на уровне upper-intermediate или выше.</li> <li>Владеет основами программирования.</li> <li>Исполнительный, ответственный, стрессоустойчивый, коммуникабельный.</li> <li>Владеет Linux на уровне уверенного пользователя.</li> <li>Умеет использовать инструменты развертывания ПО, такие как Ansible, Docker, Kubernetes и т.д.</li> </ul> <ul> </ul> <p><strong>Преимуществом будет:</strong></p> <ul> <li>Опыт работы в поддержке.</li> </ul> <ul> </ul> <ul> </ul></div>\n    <div class=\"tmpl_hh_offer\">\n        <p class=\"tmpl_hh_offer__title\">Мы предлагаем</p>\n        <div class=\"tmpl_hh_offer__items\">\n            <div class=\"tmpl_hh_offer__item\">\n                <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/417555.svg\" alt=\"\"></div>\n                <p>Конкурентная зарплата</p>\n            </div>\n            <div class=\"tmpl_hh_offer__item\">\n                <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/417557.svg\" alt=\"\"></div>\n                <p>Гибкий график</p>\n            </div>\n            <div class=\"tmpl_hh_offer__item\">\n                <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/417554.svg\" alt=\"\"></div>\n                <p>ДМС и компенсации<br> на здоровье и спорт</p>\n            </div>\n            <div class=\"tmpl_hh_offer__item\">\n                <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/417553.svg\" alt=\"\"></div>\n                <p>Комфортабель­ный<br> офис или удаленка</p>\n            </div>\n            <div class=\"tmpl_hh_offer__item\">\n                <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/417552.svg\" alt=\"\"></div>\n                <p>У нас яркая корпоративная<br> жизнь как в онлайн,<br> так и офлайн</p>\n            </div>\n            <div class=\"tmpl_hh_offer__item\">\n                <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/417559.svg\" alt=\"\"></div>\n                <p>Возможность выбора<br> формата работы — <br>удаленно или в офисе</p>\n            </div>\n       </div>\n    </div>\n</div>\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Английский язык"
+    },
+    {
+      "name": "SQL"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "246739",
+    "name": "Haulmont",
+    "url": "https://api.hh.ru/employers/246739",
+    "alternate_url": "https://hh.ru/employer/246739",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1167209.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6289274.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6289275.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=246739",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-23T11:24:13+0300",
+  "created_at": "2025-05-23T11:24:13+0300",
+  "initial_created_at": "2025-05-23T11:24:13+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120900884",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120900884",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b2",
+        "name": "B2 — Средне-продвинутый"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

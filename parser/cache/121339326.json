@@ -1,0 +1,169 @@
+{
+  "id": "121339326",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Системный администратор/ DevOps-инженер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 150000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 150000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Мы компания &quot;INFOTECH&quot; - реализуем экосистему, включающую в себя специализированные решения для автобизнеса. В числе наших клиентов ведущие автопроизводители и дилерские центры в России и СНГ.</p> <p>За годы работы мы собрали слаженную команду талантливых специалистов, имеющих огромный опыт в создании программных решений для дилеров и дистрибьюторов автобизнеса.</p> <p><strong>Обязанности:</strong></p> <p><strong>Поддержание работоспособности инфраструктуры: </strong></p> <ul> <li>мониторинг состояния инфраструктуры и приложений;</li> <li>участие в формировании платформы мониторинга инфраструктуры компании;</li> <li>выявление, анализ и устранение инфраструктурных ошибок и аномалий;</li> <li>быстрая реакция на глобальные или критические сбои с уведомлением команд;</li> <li>составление отчётов и рекомендации по улучшению инфраструктуры.</li> </ul> <p><strong>Командное взаимодействие: </strong></p> <ul> <li>консультации разработчиков и других команд;</li> <li>инициация решений при необходимости устранения инфраструктурных проблем;</li> <li>внесение предложений по улучшению и автоматизации процессов.</li> </ul> <p><strong>Поддержание работоспособности </strong>кластеров DB, Elasticsearch, Clickhouse, RabbitMQ, Redis, ВМ Proxmox, Nginx, HAProxy, (продуктов компании), Github/GitLab.</p> <p><strong>Принимать участие в </strong>управлении доступами к сервисам компании, сопровождении процесса поставки продуктов компании, серверном администрировании, поддержании сред разработки.</p> <strong>Требования:</strong> <p><strong>Обязательные:</strong></p> <ul> <li>уверенные знания Linux и систем виртуализации (особенно Proxmox);</li> <li>опыт настройки и сопровождения GitLab/GitHub;</li> <li>владение Ansible, Docker;</li> <li>знание СУБД: MySQL, Percona XtraDB;</li> <li>опыт работы с инструментами мониторинга и логирования (Grafana, Prometheus, Loki, Datadog, Sentry);</li> <li>навыки анализа логов и устранения ошибок в инфраструктуре;</li> <li>умение работать в команде и самостоятельно инициировать решение задач.</li> </ul> <p><strong>Желательные:</strong></p> <ul> <li>опыт с ClickHouse, Redis, RabbitMQ;</li> <li>базовые знания PHP;</li> <li>понимание архитектуры модульных интерфейсов;</li> <li>английский язык на уровне чтения технической документации.</li> </ul> <p><strong>Технологически стек: </strong></p> <ul> <li>backend: PHP(Yii/YIi2), MySQL, ProxySQL, репликация;</li> <li>web-серверы: Nginx, Haproxy;</li> <li>очереди и кеши: RabbitMQ, Redis;</li> <li>хранение и поиск данных: Elasticsearch, Clickhouse;</li> <li>monitoring: Unix, Datadog, Grafana, Sentry;</li> <li>DevOps: GitLab CI, GitHub Actions, Docker;</li> <li>инфраструктура: Proxmox, Netbox, Ansible.</li> </ul> <strong>Условия:</strong> <ul> <li>занятость на постоянной основе в аккредитованной ИТ-компании;</li> <li>преференции от государства за работу в ИТ-компании: отсрочка от армии, льготная ипотека;</li> <li>полноценное участие в создании/совершенствовании продукта с множеством перспективных и интересных направлений;</li> <li>конкурентоспособная заработная плата по результатам собеседования;</li> <li>удаленку 5/2, график с 10 до 18 по МСК с редким подключением к решению инцидентов в нерабочее время;</li> <li>полностью официальное оформление в штат;</li> <li>компенсация на выбор: медстраховка, занятия спортом, обучение + дополнительные выходные дни и годовой бонус за стаж.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Proxmox"
+    },
+    {
+      "name": "GitHub"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "Percona XtraDB"
+    },
+    {
+      "name": "Grafana"
+    },
+    {
+      "name": "Sentry"
+    },
+    {
+      "name": "Ansible"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Prometheus"
+    },
+    {
+      "name": "Nginx"
+    },
+    {
+      "name": "Gitlab"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "954660",
+    "name": "Компания ИнфоТек",
+    "url": "https://api.hh.ru/employers/954660",
+    "alternate_url": "https://hh.ru/employer/954660",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/926062.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/4144808.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/4144809.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=954660",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T14:00:06+0300",
+  "created_at": "2025-06-07T14:00:06+0300",
+  "initial_created_at": "2025-06-04T14:00:06+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121339326",
+  "has_test": true,
+  "test": {
+    "required": true
+  },
+  "alternate_url": "https://hh.ru/vacancy/121339326",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

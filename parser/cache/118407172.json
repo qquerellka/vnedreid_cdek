@@ -1,0 +1,153 @@
+{
+  "id": "118407172",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Программист 1С",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 120000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 120000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "Электрозаводская улица",
+    "building": "4к3",
+    "lat": 55.059518,
+    "lng": 82.969657,
+    "description": null,
+    "raw": "Новосибирск, Электрозаводская улица, 4к3",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Программист 1С</strong></p> <p><strong>Вас ждет увлекательная работа в команде профессионалов!</strong> Если вы хотите развиваться в крупной компании и участвовать в интересных проектах, то эта вакансия для вас!</p> <p><strong>Обязанности:</strong></p> <p><strong>Управление розницей и Магазины</strong></p> <p>Техподдержка пользователей, оборудования, обеспечение бесперебойной работы, передачи данных сети магазинов.</p> <p>Консультации пользователей 1С магазинов, офиса по работе в программе, помощь в решении проблем.</p> <p>Доработки 1С Розница по задачам от магазинов и офиса.</p> <p>Обновление 1С Розница и оборудования под требования законодательства.</p> <p>Замена или ремонт неисправного торгового оборудования (Кассы, ТСД, Сканеры, Табло покупателя, детекторы валют)</p> <p>Составление новых и обновление существующих инструкций для сотрудников розничных магазинов.</p> <p>Внедрение и обслуживание системы маркировки товаров.</p> <p>Установка, настройка выпуск электронных цифровых подписей сотрудников магазинов. Внутренний электронный документооборот.</p> <p>Маркетинг</p> <p>Помощь и консультации маркетолога по созданию акций.</p> <p>Решение проблем при работе, корректировка акций.</p> <p>Интеграция с внешними Маркетплейсами.</p> <p><strong>Требования:</strong></p> <ul> <li>Опыт работы с 1С от 1 до 3 лет.</li> <li>Знание платформы 1С:Предприятие и языка программирования 1С.</li> <li>Умение разрабатывать и дорабатывать конфигурации.</li> <li>Навыки написания обработок и отчетов.</li> <li>умение работать с торговым оборудованием</li> <li>Способность работать в команде и взаимодействовать с пользователями.</li> </ul> <p><strong>Условия:</strong></p> <p> </p> <p><strong>О компании:</strong> АО «ФинСиб» — крупная оптовая торгово-производственная компания, входящая в ТОП-5 по России в своей отрасли. Мы предлагаем широкий ассортимент продукции и стремимся к долгосрочным отношениям с нашими клиентами. Наши ценности — это профессионализм, доверие и ответственность. Присоединяйтесь к нашей команде и развивайтесь вместе с нами!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "1С программирование"
+    },
+    {
+      "name": "Автоматизация процессов"
+    },
+    {
+      "name": "Автоматизация бизнес-процессов"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1812224",
+    "name": "Финсиб",
+    "url": "https://api.hh.ru/employers/1812224",
+    "alternate_url": "https://hh.ru/employer/1812224",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1388622.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7174275.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7174276.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1812224",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T08:55:53+0300",
+  "created_at": "2025-06-06T08:55:53+0300",
+  "initial_created_at": "2025-03-17T07:27:32+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=118407172",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/118407172",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

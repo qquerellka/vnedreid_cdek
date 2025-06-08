@@ -1,0 +1,129 @@
+{
+  "id": "121321644",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Разработчик искусственного интеллекта/python-backend",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 130000,
+    "to": 130000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 130000,
+    "to": 130000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Мы ищем разработчика, который возьмет на себя создание серверной части для AI-систем. Ваша задача — построить с нуля полноценное решение: API, обработку запросов, интеграцию с моделями, масштабирование и мониторинг. Обученные модели предоставим, Вам предстоит грамотно внедрить их в прод.</p> <p>Текущие проекты: чат-бот для B2C (поддержка и улучшение решения), проект по компьютерному зрению для лаборатории (разработка архитектуры с нуля).</p> <p><em>После отклика на вакансию, Вам будет выслана небольшая анкета с вопросами. Если Ваши ответы нас заинтересуют, то мы обязательно вернёмся к Вам с приглашением на финальный этап интервью. </em></p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Разработка с нуля и поддержка серверной логики для API с использованием Python (FastAPI);</li> <li>Поддержка и развитие существующих продуктов с ИИ;</li> <li>Интеграция и развертывание AI/ML-моделей в продакшн;</li> <li>Разработка асинхронных сервисов для обработки данных;</li> <li>Оптимизация производительности API и предсказаний моделей (кеширование, квантизация, GPU-ускорение);</li> <li>Настройка логирования, мониторинга и алертов (Prometheus, Grafana);</li> <li>Обеспечение безопасности API;</li> <li>Разработка CI/CD пайплайнов для автоматического развертывания сервисов;</li> <li>Взаимодействие с командой ML-разработчиков.</li> </ul> <p><strong>Что мы ждем от Вас:</strong></p> <ul> <li>Опыт разработки на Python от 1 года;</li> <li>Высшее образование в области математики, информатики или смежных дисциплин;</li> <li>Опыт разработки высоконагруженных микросервисов и вывода моделей в прод;</li> <li>Уверенное знание FastAPI или Django REST Framework;</li> <li>Понимание принципов контейнеризации (Docker, Kubernetes);</li> <li>Опыт работы с базами данных (PostgreSQL, MongoDB);</li> <li>Мониторинг ML-систем(Prometheus, Grafana, MLflow);</li> <li>Знание основ интеграции AI-моделей и их оптимизации;</li> <li>Навыки написания тестов (pytest);</li> <li>Понимание асинхронного программирования в Python;</li> <li>Опыт работы с облачными сервисами будет плюсом.</li> </ul> <p><strong>Наш стэк:</strong></p> <p>• Python;</p> <p>• GitHub, Docker, FastAPI;</p> <p>• Streamlit, WebSocket;</p> <p>• Postgres;</p> <p>• MLflow, JupyterLab, PyTorch, Grafana, Prometheus;</p> <p>• Серверы с GPU.</p> <p><strong>Чем мы можем Вас заинтересовать:</strong></p> <ul> <li>Дружный и неравнодушный коллектив профессионалов.</li> <li>Заботливый отдел HR, помогающий в Вашем профессиональном и карьерном развитии.</li> <li>Корпоративный психолог.</li> <li>Скидки на медицинские услуги для сотрудника и членов семьи.</li> <li>Удаленный формат работы.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "160",
+      "name": "DevOps-инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1303930",
+    "name": "Геномед",
+    "url": "https://api.hh.ru/employers/1303930",
+    "alternate_url": "https://hh.ru/employer/1303930",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1303930",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T09:56:38+0300",
+  "created_at": "2025-06-04T09:56:38+0300",
+  "initial_created_at": "2025-06-04T09:56:38+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121321644",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121321644",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "id": "120563516",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Программист 1С (УНФ)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 220000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 220000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "проспект Димитрова",
+    "building": "16",
+    "lat": 55.034203,
+    "lng": 82.912533,
+    "description": null,
+    "raw": "Новосибирск, проспект Димитрова, 16",
+    "metro": {
+      "station_name": "Площадь Ленина",
+      "line_name": "Ленинская",
+      "station_id": "52.297",
+      "line_id": "52",
+      "lat": 55.029941,
+      "lng": 82.92069
+    },
+    "metro_stations": [
+      {
+        "station_name": "Площадь Ленина",
+        "line_name": "Ленинская",
+        "station_id": "52.297",
+        "line_id": "52",
+        "lat": 55.029941,
+        "lng": 82.92069
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Привет! Я Вера, HR компании <strong>BIOREVOL. Наша команда ищет Программиста 1С.</strong></p> <p>Расскажу коротко о нас:<br />BIOREVOL - федеральная производственная компания, работающая на рынке с 2015 года и объединяющая несколько брендов. Одни из самых известных:</p> <p><strong>• </strong><strong>Siberian Nutrogunz</strong></p> <p>• <strong>Biohacking Mantra</strong></p> <p>Мы производим, продвигаем, продаем, а главное, искренне любим наш продукт вот уже 10 лет! Кроме этого, мы помогаем нашим партнерам выпускать спортивное питание и БАДы, как контрактное производство. <strong>Мы производим продукт, улучшающий качество жизни любого человека.</strong></p> <p><strong>Чем предстоит заниматься:</strong></p> <p> <strong>Творить под ключ:</strong> Разрабатывать пользовательские и управленческие отчеты в 1С:УНФ.<br /><strong>Кастомизировать под бизнес:</strong> Переделывать стандартные отчеты так, чтобы они «затачивались» под наш уникальный цикл.<br /><strong>Оптимизировать и просветлять:</strong> Ускорять запросы, чинить регистры накопления и делать аналитику прозрачной, как наши составы.<br /><strong>Коммуницировать без боли:</strong> Собирать ТЗ у коллег, тестировать решения без ущерба и внедрять их в срок.</p> <p><strong>Что мы предлагаем:</strong></p> <p> <strong>Влияние:</strong> Твоя работа сейчас супер важна для всех департаментов.<br /><strong>Деньги и плюшки:</strong> Конкурентная зарплата (обсуждаем индивидуально), Бесплатная продукция, бар в офисе, скидки на нашу продукцию, можешь ходить на работу в чем угодно. У нас гибкое начало дня. Любишь поспать подольше, приходи попозже, любишь просыпаться вместе с первыми бабушками, ждем в офисе первым.<br /><strong>Стабильность и рост:</strong> Мы – растущий рынок, ТОП-5 лидеров России по спортивному питанию. У нас все белое и пушистое.</p> <p><strong>Идеальный кандидат – это ты, если:</strong></p> <p>✔ <strong>Живешь в 1С:УНФ</strong> как рыба в воде (2+ года опыта).<br />✔ <strong>Понимаешь в СКД</strong>, запросах и составных отчетах.<br />✔ <strong>Документируешь</strong> так, чтобы коллеги не проклинали тебя в чатах.<br />✔ <strong>Понимаешь бизнес-логику</strong>: почему «отгрузка» и «себестоимость» – святое.</p> <p><strong>Будет круто, если ты:</strong><br />Знаешь 1С 8.3 на уровне разработчика.<br />Интегрировал УНФ с другими системами.<br />Разбираешься в бухучете или управленке (но не обязательно – научим!).</p> <p><strong> Формат:</strong> Офис! НСК Проспект Димитрова, 16<br /><strong> Отклик:</strong> Звони, пиши, даже если с чем-то не согласен, обсудим.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "1С: Бухгалтерия"
+    },
+    {
+      "name": "1С программирование"
+    },
+    {
+      "name": "Автоматизация учета"
+    },
+    {
+      "name": "Алгоритмы и структуры данных"
+    },
+    {
+      "name": "Интеграция программных модулей"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2144707",
+    "name": "BIOREVOL",
+    "url": "https://api.hh.ru/employers/2144707",
+    "alternate_url": "https://hh.ru/employer/2144707",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1139909.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6180221.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6180222.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2144707",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T07:59:23+0300",
+  "created_at": "2025-06-05T07:59:23+0300",
+  "initial_created_at": "2025-05-15T07:59:23+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120563516",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120563516",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

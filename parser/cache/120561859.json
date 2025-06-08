@@ -1,0 +1,149 @@
+{
+  "id": "120561859",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Помощник/ассистент руководителя в телекоммуникационный отдел",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 120000,
+    "to": 180000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 120000,
+    "to": 180000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Пресненская набережная",
+    "building": "12",
+    "lat": 55.749633,
+    "lng": 37.537434,
+    "description": null,
+    "raw": "Москва, Пресненская набережная, 12",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong><strong>Требования и описание работы:</strong></strong></p> <p>1. Поддержка связи и общение с операторами, системными интеграторами, государственными и корпоративными заказчиками, помощь менеджерам в управлении проектами и напоминание о незавершенных делах.</p> <p>2. Собирать и систематизировать информацию о потребностях клиентов, соответствующую отраслевую информацию и составлять по ней отраслевые исследовательские отчеты</p> <p>3. Выполнять организационную работу, связанную с посещением и приемом клиентов</p> <p>4. Собирать и отражать информацию, касающуюся динамики рынка клиентов и конкурентов</p> <p>5. Другие задачи, входящие в обязанности помощника телекоммуникационного отдлеа</p> <p><strong><strong>Требования к кандидату:</strong></strong></p> <p>1. Наличие профессионального опыта в области индустрии связи, сети, данных или цифровой индустрии.</p> <p>2. Предпочтителен опыт продаж базовых станций, серверов, систем хранения данных, сетевого оборудования и продуктов, связанных с сетевой безопасностью</p> <p>3. Степень бакалавра и выше, владение разговорным английским языком, умение грамотно составлять документы на английском языке будет Вашим преимуществом.</p> <p>4. Готовность к многозадачности, умение работать в команде, способность к быстрому обучению и адаптации, ответственный подход к работе, коммуникабельность, приветливость в общении с клиентами и коллегами.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "73",
+      "name": "Менеджер продукта"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9309435",
+    "name": "Beijing Dingxin Jiacheng Investment Management Co",
+    "url": "https://api.hh.ru/employers/9309435",
+    "alternate_url": "https://hh.ru/employer/9309435",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1030278.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5741872.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5741873.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9309435",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-15T07:00:01+0300",
+  "created_at": "2025-05-15T07:00:01+0300",
+  "initial_created_at": "2025-05-15T07:00:01+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120561859",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120561859",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b2",
+        "name": "B2 — Средне-продвинутый"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

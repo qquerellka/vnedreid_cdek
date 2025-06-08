@@ -1,0 +1,165 @@
+{
+  "id": "120604120",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "General On-Prem DevOps инженер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Каменноостровский проспект",
+    "building": "11",
+    "lat": 59.958629,
+    "lng": 30.318976,
+    "description": null,
+    "raw": "Санкт-Петербург, Каменноостровский проспект, 11",
+    "metro": {
+      "station_name": "Горьковская",
+      "line_name": "Московско-Петроградская",
+      "station_id": "15.216",
+      "line_id": "15",
+      "lat": 59.956112,
+      "lng": 30.31889
+    },
+    "metro_stations": [
+      {
+        "station_name": "Горьковская",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.216",
+        "line_id": "15",
+        "lat": 59.956112,
+        "lng": 30.31889
+      },
+      {
+        "station_name": "Петроградская",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.215",
+        "line_id": "15",
+        "lat": 59.966389,
+        "lng": 30.311293
+      },
+      {
+        "station_name": "Чкаловская",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.248",
+        "line_id": "18",
+        "lat": 59.961033,
+        "lng": 30.292006
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Компания WaveAccess с радостью примет в свои ряды General On-Prem DevOps с возможностью работать как в офисах в городах присутствия, так и полностью удалённо!</strong><br /><br /><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Проектирование, развертывание, ввод в эксплуатацию, организация поддержки масштабируемой облачной платформы</li> <li>Создание стендов тестирования, исследование возможность использования технологий и решений в существующей и разрабатываемой инфраструктуре</li> <li>Диагностика и устранение проблем инфраструктуры</li> <li>Выявление узких мест в инфраструктуре системы, производительности и потенциальных условий сбоя</li> <li>Применение DevOps-практик совместно с командами разработки и эксплуатации ПО</li> <li>Реализация и внедрение процессов CI/CD</li> <li>Подготовка информационных систем к запуску и дальнейшему сопровождению</li> <li>Автоматизация настроек (внедрение Infrastructure as Code)</li> <li>Повышение отказоустойчивости и масштабируемости продуктов</li> <li>Ведение документации<br /></li> </ul> <p><strong>Для реализации этих задач потребуется:</strong></p> <ul> <li>Опыт конфигурации и уверенное владение Linux на уровне не ниже системного администратора (один пункт из, остальные будут плюсом: CentOS, Ubuntu, AstraLinux)</li> <li>Глубокие знания траблшутинга в Linux, включая работу с сетью, файловыми системами и безопасностью</li> <li>Знакомство с сетевыми технологиям в области серверной инфраструктуры (TCP/IP, IPv6, VLAN, HA), знание динамической и статической маршрутизации будет плюсом.</li> <li>Опыт написания скриптов (один пункт из, остальные будут плюсом: Python, Bash, PowerShell)</li> <li>Опыт работы с брокерами событий/сообщений (RabbitMQ и/или Apache Kafka)</li> <li>Опыт использования систем управления конфигурацией и знание практик Infrastructure as code (Ansible, Terraform)</li> <li>Опыт работы с прокси и серверами приложений (один пункт из, остальные будут плюсом: HAProxy, Nginx, Traefik, Tomcat, IIS)</li> <li>Опыт работы с контейнеризацией и виртуализацией (Docker, Docker-Compose, Kubernetes, Helm), будут плюсом: LXD, KVM, Docker Swarm, Podman, LXC.</li> <li>Опыт организации Commit-to-Production (Git, Jenkins, GitLab), будет плюсом: TeamCity, Bitbucket, GitHub Action и т. п.</li> <li>Опыт администрирования, оптимизации и кластеризации баз данных (один из, остальные будут плюсом: PostgreSQL, MySQL, MongoDB, MSSQL, Oracle, Cassandra, Couchbase)</li> <li>Опыт настройки инструментов мониторинга (один из, остальные будут плюсом: Prometheus, Grafana, Zabbix, Loki, Victoria Metrics, Victoria Logs, ELK/EFK)</li> <li>Опыт организации базы знаний (Wiki, Confluence)</li> <li>Опыт управления инфраструктурой с ARM архитектурой<br /></li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Знание: Keycloak, FluxCD, ArgoCD, HashiCorp Vault, MinIO</li> <li>Опыт работы с Yandex cloud и/или другими отечественными облаками</li> </ul> <p><br /><strong>Что мы ожидаем от кандидата:</strong></p> <ul> <li>Опыт работы в аналогичной должности от 5 лет</li> <li>Опыт работы на западных проектах - как преимущество</li> <li>Опыт организации работы сотрудников в удаленном режиме</li> <li>​​​​​​​Хороший разговорный и письменный английский (Upper Intermediate и выше)</li> <li>Готовность к большому потоку задач, инициативность<br />​​​​​​​</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Работу в крупной компании, включенной Минцифры РФ в реестр аккредитованных IT-компаний (отсрочка от армии, ИТ-ипотека)</li> <li>Интересные Российские и международные проекты</li> <li>Высокую белую и ежегодно индексируемую заработную плату</li> <li>Оформление по ТК, 100% оплату больничного и отпуска</li> <li>Добровольное медицинское страхование (ДМС) со стоматологией и международная страховка</li> <li>Изучение английского языка и English Speaking Club</li> <li>Демократичный подход к дресс-коду и процессам, гибкое начало рабочего дня</li> <li>Техника для комфортной работы из дома</li> <li>Еженедельные семинары, участие в конференциях и митапах, оплачиваемые сертификационные экзамены</li> <li>​​​​​​​Игры, зажигательные тимбилдинги, масштабные корпоративные мероприятия, выезды на природу</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "160",
+      "name": "DevOps-инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2251053",
+    "name": "WaveAccess",
+    "url": "https://api.hh.ru/employers/2251053",
+    "alternate_url": "https://hh.ru/employer/2251053",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1024384.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5718304.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5718305.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2251053",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-15T18:07:18+0300",
+  "created_at": "2025-05-15T18:07:18+0300",
+  "initial_created_at": "2025-05-15T18:07:18+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120604120",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120604120",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

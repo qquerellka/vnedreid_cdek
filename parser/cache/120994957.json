@@ -1,0 +1,161 @@
+{
+  "id": "120994957",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Программист-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": null,
+    "to": 300000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 300000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "Советский район, микрорайон Академгородок, проспект Академика Лаврентьева",
+    "building": "2/2",
+    "lat": 54.853138,
+    "lng": 83.09853,
+    "description": null,
+    "raw": "Новосибирск, Советский район, микрорайон Академгородок, проспект Академика Лаврентьева, 2/2",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "part",
+    "name": "Частичная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Компания ООО &quot;Передовые Технологии&quot; разрабатывает отечественное программное обеспечение RuDesktop – удаленный доступ и управление конфигурациями устройств на любой ОС.</p> <p>Сотрудники компании имеют большой опыт в области разработки программного обеспечение, что позволяет создавать качественный продукт.<br /><br /><strong>Ожидания от кандидата</strong></p> <p>Мы ищем разработчиков, имеющих опыт разработки высокопроизводительных приложений, и готовых попробовать свои силы в языке программирования</p> <p><strong>Для нас важно:</strong><br /><br />1.Опыт разработки на языке Python, Rust.<br /><br />2. Знание фреймворков Django/DRF.<br /><br />3. Знание паттернов проектирования (например - SOLID, KISS, DRY, YAGNI..).<br /><br /><strong>Из баз данных:</strong><br />1.PostgreSQL, умение писать SQL запросы.<br />2. Знание DjangoORM.<br /><br />3. Понимание, как работают модели конкурентности.<br /><br />4. Умение использовать Ansible.<br /><br />5. Понимание сетевого стека TCP/IP, и работа с ним в OS Linux.<br /><br />6. Опыт системного администрирования под Windows и Linux.</p> <p><strong>Условия работы</strong></p> <p>1. У нас возможет любой формат работы: Полная занятость, удаленная работа, гибридный график.</p> <p>2. Официальное трудоустройство в аккредитованную IT-компанию с первого рабочего дня согласно ТК РФ.</p> <p>3. Оклад по результатам собеседования (ограничен только опытом и знаниями).</p> <p>4. Команда разработчиков, которые готовы поделиться опытом.</p> <p>5. У нас нет бюрократии и тайм-трекеров работаем в комфортном режиме.</p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9150066",
+    "name": "Передовые технологии",
+    "url": "https://api.hh.ru/employers/9150066",
+    "alternate_url": "https://hh.ru/employer/9150066",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1081518.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/5946701.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/5946702.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9150066",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T17:32:56+0300",
+  "created_at": "2025-06-04T17:32:56+0300",
+  "initial_created_at": "2025-05-26T17:32:56+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120994957",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120994957",
+  "working_days": [],
+  "working_time_intervals": [
+    {
+      "id": "from_four_to_six_hours_in_a_day",
+      "name": "Можно сменами по 4-6 часов в день"
+    }
+  ],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "PART",
+    "name": "Частичная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    },
+    {
+      "id": "WEEKEND",
+      "name": "По выходным"
+    },
+    {
+      "id": "FLEXIBLE",
+      "name": "Свободный"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_4",
+      "name": "4 часа"
+    },
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    },
+    {
+      "id": "FLEXIBLE",
+      "name": "По договорённости"
+    }
+  ],
+  "show_logo_in_search": null
+}

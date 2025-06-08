@@ -1,0 +1,172 @@
+{
+  "id": "119581084",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "BI-Аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 160000,
+    "to": 250000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 160000,
+    "to": 250000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Фрунзенская набережная",
+    "building": "50",
+    "lat": 55.718664,
+    "lng": 37.576816,
+    "description": null,
+    "raw": "Москва, Фрунзенская набережная, 50",
+    "metro": {
+      "station_name": "Лужники",
+      "line_name": "МЦК",
+      "station_id": "95.535",
+      "line_id": "95",
+      "lat": 55.720278,
+      "lng": 37.563056
+    },
+    "metro_stations": [
+      {
+        "station_name": "Лужники",
+        "line_name": "МЦК",
+        "station_id": "95.535",
+        "line_id": "95",
+        "lat": 55.720278,
+        "lng": 37.563056
+      },
+      {
+        "station_name": "Спортивная",
+        "line_name": "Сокольническая",
+        "station_id": "1.135",
+        "line_id": "1",
+        "lat": 55.722388,
+        "lng": 37.562041
+      },
+      {
+        "station_name": "Фрунзенская",
+        "line_name": "Сокольническая",
+        "station_id": "1.152",
+        "line_id": "1",
+        "lat": 55.727462,
+        "lng": 37.58022
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Присоединяйтесь к команде лидеров BI-аналитики!</strong></p> <p>Мы — команда разработки Modus, одной из ведущих платформ для бизнес-аналитики в России. Наш продукт входит в ТОП-3 BI-систем, помогая крупнейшим компаниям управлять данными, определять тренды и прогнозировать показатели.</p> <p><strong>Что мы создаем?</strong></p> <p><strong>Modus BI </strong>— мощная аналитическая платформа, упрощающая работу с большими данными.<br /><strong>Modus ETL</strong> — инструмент для сбора, обработки и организации данных из разрозненных источников.<br />Наши клиенты — ведущие компании финансового, промышленного и государственного секторов. Мы работаем над крупнейшими национальными проектами, сотрудничая с ключевыми игроками рынка.</p> <p><strong>Почему работать у нас — отличное решение?</strong></p> <p>✅Условия: оклад + прозрачный KPI.<br /><strong>✅ </strong>ДМС со стоматологией — заботимся о здоровье сотрудников.<br />✅ Официальная аккредитация — Modus включен в реестр IT-компаний, а продукты Modus BI — в реестр Отечественного ПО.<br />✅ Стабильный рост и развитие — активно расширяем аудиторию пользователей и совершенствуем платформу.<br />✅ Интересные задачи и влияние на продукт — работаем с большими данными и создаем решения, которыми пользуются лидеры рынка.</p> <p>Мы активно развиваемся и наращиваем аудиторию пользователей, поэтому в команду разработки мы ищем BI-аналитика для развития функциональности платформы.</p> <p><strong>Обязанности:</strong></p> <ul> <li> <p>Проводить Pre-sale;</p> </li> <li> <p>Собирать и согласовывать требования заказчиков;</p> </li> <li> <p>Определять функциональные разрывы проекта и прорабатывать варианты их решения;</p> </li> <li> <p>Разрабатывать и поддерживать ETL процессы для подготовки данных в аналитических хранилищах;</p> </li> <li> <p>Разрабатывать дашборды в продукте Modus BI;</p> </li> <li> <p>Поддерживать и актуализировать базу знаний, инструкции и сопроводительную документацию;</p> </li> <li> <p>Консультировать пользователей и партнеров.</p> </li> </ul> <strong>Требования:</strong> <ul> <li>Опыт работы на позиции DWH/BI-аналитика от 1 года;</li> <li>Общий опыт в разработке/аналитике от 2 лет;</li> <li>Уверенные знания SQL и опыт работы с базами данных;</li> <li>Понимания концепций построения хранилищ данных (DWH).</li> </ul> <p><strong>Как преимущество:</strong></p> <ul> <li>Опыт работы Data Engeneering &amp; ETL/ELT;</li> <li>Опыт работы с GreenPlum/СlickHouse;</li> <li>Опыт работы на проектах связанных с обработкой данных и интеграциями;</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Конкурентная белая заработная плата;</li> <li>После ИС ДМС со стоматологией или компенсация спорта;</li> <li>Премии по результатам работы;</li> <li>Поддержка вашего развития и предоставление возможностей для карьерного роста;</li> <li>Гибкое начало рабочего дня (с 8 – 10 мск);</li> <li>Ноутбук, связь.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "156",
+      "name": "BI-аналитик, аналитик данных"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5593615",
+    "name": "БиАй Продакшн",
+    "url": "https://api.hh.ru/employers/5593615",
+    "alternate_url": "https://hh.ru/employer/5593615",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1350591.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7022302.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7022303.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5593615",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-16T11:12:13+0300",
+  "created_at": "2025-05-16T11:12:13+0300",
+  "initial_created_at": "2025-04-16T11:12:12+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119581084",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119581084",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

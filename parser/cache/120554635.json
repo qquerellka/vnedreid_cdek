@@ -1,0 +1,118 @@
+{
+  "id": "120554635",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "DevOps инженер (г. Санкт - Петербург)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Мы ожидаем:</strong></p> <ul> <li> <p>Опыт работы DevOps инженером от 3-х лет;</p> </li> <li> <p>Знание Linux на уровне системного администратора (у нас используется РЕД ОС и Альт Сервер);</p> </li> <li> <p>Опыт работы с системой контейнеризации Docker;</p> </li> <li> <p>Опыт работы с системой оркестрирования Kubernetes и управления Rancher, Helm;</p> </li> <li> <p>Опыт работы с GitLab и разработки CI/CD Pipeline;</p> </li> <li> <p>Опыт работы с брокером сообщений Artemis MQ (Master/Slave, Queue Federation);</p> </li> <li> <p>Опыт работы с системами мониторинга Prometheus, Grafana, Zabbix и агрегации логов Loki;</p> </li> <li> <p>Опыт работы с Ansible;</p> </li> <li> <p>Знание Bash, Python на уровне достаточном для автоматизации рутинных задач;</p> </li> <li> <p>Понимание работы сетевой инфраструктуры.</p> </li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li> <p>Опыт администрирования PostgreSQL и сопровождение отказоустойчивых кластеров;</p> </li> <li> <p>Опыт администрирования СУБД Oracle;​​​</p> </li> </ul> <strong>Условия:</strong> <ul> <li><strong>Релокация компании </strong>в г. Санкт - Петербург начинается в декабре 2024 года</li> <li>Офис Невский Проспект, <strong>график работы 5/2</strong></li> <li> <p>Дополнительные дни отдыха по коллективному договору (<strong>8дн</strong>.)</p> </li> <li> <p><strong>ДМС</strong> (+стоматология) сразу после испытательного срока (3 мес.)</p> </li> <li> <p>Возможность предоставления <strong>бронирования</strong> (освобождение от мобилизации)</p> </li> <li> <p>Внутреннее и внешнее обучение</p> </li> <li> <p><strong>Премиальная система</strong> (выплата к праздничным датам 23 февраля/8 марта, день нефтяной и газовой промышленности, премия по итогу года (13-ая), материальная помощь к отпуску)+ <strong>индексация</strong> заработной платы</p> </li> <li> <p>Организация различных мероприятий для работников от профсоюза</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "Gitlab"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Grafana"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "160",
+      "name": "DevOps-инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "13482",
+    "name": "Газпромтранс",
+    "url": "https://api.hh.ru/employers/13482",
+    "alternate_url": "https://hh.ru/employer/13482",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=13482",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-14T18:06:41+0300",
+  "created_at": "2025-05-14T18:06:41+0300",
+  "initial_created_at": "2025-05-14T18:06:41+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120554635",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120554635",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

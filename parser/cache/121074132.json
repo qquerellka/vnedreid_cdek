@@ -1,0 +1,146 @@
+{
+  "id": "121074132",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Сотрудник отдела информационной безопасности и информационных технологий",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 70000,
+    "to": 90000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 70000,
+    "to": 90000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "3-я Мытищинская улица",
+    "building": "16А",
+    "lat": 55.804638,
+    "lng": 37.645303,
+    "description": null,
+    "raw": "Москва, 3-я Мытищинская улица, 16А",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <p>Контроль за работоспособностью аппаратной части , системного и прикладного программного обеспечения и выставление заявок обслуживающим организациям;</p> <p>Ведение внутренней документации отдела (подготовка проектов распорядительных документов, отчетов);</p> <p>Администрирование сетевых ресурсов и обеспечение резервного копирования баз данных и программных средств;</p> <p>Обеспечение выполнения технических работ по предоставлению пользователям доступа к информационным ресурсам;</p> <p>Участие в рамках установленной компетенции в выполнении задач, связанных с реализацией федеральных программ;</p> <p>Мониторинг и анализ технологических процессов;</p> <p>Оказание консультационной и и практической помощи сотрудникам Инспекции;</p> <p>Внедрение и сопровождение ведомственных прикладных программных комплексов.</p> <p>В части информ безопасности: её поддержание</p> <strong>Условия:</strong> <p>Государственная гражданская служба.</p> <p>Полный социальный пакет:</p> <p>- Ежегодный отпуск до 43 календарных дней;</p> <p>- Предоставление учебных отпусков;</p> <p>- Медицинское страхование;</p> <p>- Путевки в санатории и детские оздоровительные лагеря.</p> <p>Возможность карьерного роста. Дружный коллектив. Стабильная заработная плата. Ежеквартальное материальное стимулирование.</p> <p>Прием осуществляется по конкурсу.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Пользователь ПК"
+    },
+    {
+      "name": "Работа с базами данных"
+    },
+    {
+      "name": "Базы данных"
+    },
+    {
+      "name": "Материальная ответственность"
+    },
+    {
+      "name": "Навыки работы с первичной документацией"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "116",
+      "name": "Специалист по информационной безопасности"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2644785",
+    "name": "Инспекция Федеральной налоговой службы № 17 по г. Москве",
+    "url": "https://api.hh.ru/employers/2644785",
+    "alternate_url": "https://hh.ru/employer/2644785",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2644785",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-28T11:27:03+0300",
+  "created_at": "2025-05-28T11:27:03+0300",
+  "initial_created_at": "2025-05-28T11:27:03+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121074132",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121074132",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

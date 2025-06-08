@@ -1,0 +1,152 @@
+{
+  "id": "121204967",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": ".Net Developer (Ведущий программист)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "улица Ивана Франко",
+    "building": "8",
+    "lat": 55.727891,
+    "lng": 37.44965,
+    "description": null,
+    "raw": "Москва, улица Ивана Франко, 8",
+    "metro": {
+      "station_name": "Кунцевская",
+      "line_name": "Арбатско-Покровская",
+      "station_id": "3.69",
+      "line_id": "3",
+      "lat": 55.730673,
+      "lng": 37.446522
+    },
+    "metro_stations": [
+      {
+        "station_name": "Кунцевская",
+        "line_name": "Арбатско-Покровская",
+        "station_id": "3.69",
+        "line_id": "3",
+        "lat": 55.730673,
+        "lng": 37.446522
+      },
+      {
+        "station_name": "Кунцевская",
+        "line_name": "Филевская",
+        "station_id": "4.471",
+        "line_id": "4",
+        "lat": 55.730815,
+        "lng": 37.446754
+      },
+      {
+        "station_name": "Кунцевская",
+        "line_name": "Большая кольцевая линия",
+        "station_id": "97.810",
+        "line_id": "97",
+        "lat": 55.730278,
+        "lng": 37.445833
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><em><strong>БАНК &quot;СОКОЛОВСКИЙ&quot; - ОПЕРАТОР КРУПНОЙ ПЛАТЕЖНОЙ СИСТЕМЫ</strong></em></p> <p><em><strong>ОБЪЯВЛЯЕТ НАБОР НА ВАКАНСИЮ </strong></em><strong><em>ВЕДУЩЕГО ПРОГРАММИСТА (.NET DEVELOPER) ОТДЕЛА РАЗРАБОТКИ И ВНЕДРЕНИЯ ИНФОРМАЦИОННЫХ СИСТЕМ ПЛАТЕЖНОЙ СИСТЕМЫ</em></strong></p> <p><em>МЫ ПРЕДЛАГАЕМ:</em></p> <p>- Комфортные условия работы в Банке с 30-летней историей;</p> <p>- Официальное трудоустройство в полном соответствии с Трудовым кодексом РФ;</p> <p>- Возможность профессионального роста;</p> <p>- Конкурентная заработная плата (оклад + премия) по итогам собеседования;</p> <p>- Оплачиваемый отпуск и больничный;</p> <p>- ДМС после испытательного срока;</p> <p>- Современное обучение и поддержку от коллег;</p> <p>- Гибридный режим работы (офис/удаленно) по договоренности с руководителем;</p> <p>- Современный офис.</p> <p><em>ИСПОЛЬЗУЕМЫЕ В ПРОЕКТАХ ТЕХНОЛОГИИ<strong>:</strong></em></p> <ul> <li>.NET Core 6/7</li> <li>RabbitMQ</li> <li>PostgreSQL</li> <li>Grafana Loki</li> <li>Docker; TeamCity</li> <li>Git</li> <li>YouTrack</li> <li>Встроенный язык low-code платформы Green Data (BPMS 2.0 и Groovy base)</li> </ul> <p><em>ЗАДАЧИ, КОТОРЫЕ ПРЕДСТОИТ РЕШАТЬ<strong>:</strong></em></p> <ul> <li>Поддержка и развитие реализованных решений на основе low-code платформы;</li> <li>Уточнение/проработка реализаций с бизнес-заказчиком предложений и требований по разработке новых и изменению текущих бизнес-процессов;</li> <li>Реализация форм и алгоритмов создания/изменения продуктов с использованием low-code платформы;</li> <li>Реализация интеграций low-code платформы с внешними системами;</li> <li>Участие в функциональном тестировании и внедрении изменений;</li> <li>Разработка сервисов;</li> <li>Разработка API;</li> <li>Ревью/Рефакторинг кода;</li> <li>Поддержка текущего продукта;</li> <li>Участие в развитие продукта;</li> <li>Интеграции между компонентами Продукта;</li> <li>Написание UnitTest</li> </ul> <p><em>ОБЯЗАТЕЛЬНЫЕ ТРЕБОВАНИЯ<strong>:</strong></em></p> <ul> <li>Опыт разработки на .NET (C#)</li> <li>Опыт работы с Postgress</li> <li>Опыт работы с RabbitMQ</li> <li>Понимание принципов SOLID, KISS</li> <li>Опыт работы с CI/CD</li> <li>Опыт работы с API клиентом (SOAP/Postman)</li> <li>Опыт работы с XML/XSD/JSON</li> <li>ЖЕЛАТЕЛЬНО*<strong>:</strong></li> <li>Опыт создания приложений на базе low-code платформы Green Data; понимание основных принципов работы платформы;</li> <li>Опыт работы со встроенным языком low-code платформы Green Data;</li> <li>Опыт взаимодействия с Web-сервисами через API средствами low-code платформы</li> </ul> <p>*<em>рассматриваются кандидаты без указанных навыков, но с желанием развиваться и обучаться в указанных областях</em></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "414239",
+    "name": "КБ Соколовский",
+    "url": "https://api.hh.ru/employers/414239",
+    "alternate_url": "https://hh.ru/employer/414239",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1374417.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7117570.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7117571.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=414239",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T09:30:40+0300",
+  "created_at": "2025-06-02T09:30:40+0300",
+  "initial_created_at": "2025-06-02T09:30:40+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121204967",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121204967",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

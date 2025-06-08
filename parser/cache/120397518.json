@@ -1,0 +1,160 @@
+{
+  "id": "120397518",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Ведущий инженер-программист пользовательских приложений",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Таллинская улица",
+    "building": "7Д",
+    "lat": 59.922869,
+    "lng": 30.414557,
+    "description": null,
+    "raw": "Санкт-Петербург, Таллинская улица, 7Д",
+    "metro": {
+      "station_name": "Ладожская",
+      "line_name": "Лахтинско-Правобережная",
+      "station_id": "17.242",
+      "line_id": "17",
+      "lat": 59.93243,
+      "lng": 30.439274
+    },
+    "metro_stations": [
+      {
+        "station_name": "Ладожская",
+        "line_name": "Лахтинско-Правобережная",
+        "station_id": "17.242",
+        "line_id": "17",
+        "lat": 59.93243,
+        "lng": 30.439274
+      },
+      {
+        "station_name": "Новочеркасская",
+        "line_name": "Лахтинско-Правобережная",
+        "station_id": "17.241",
+        "line_id": "17",
+        "lat": 59.929092,
+        "lng": 30.411915
+      },
+      {
+        "station_name": "Площадь Александра Невского 1",
+        "line_name": "Невско-Василеостровская",
+        "station_id": "16.231",
+        "line_id": "16",
+        "lat": 59.924369,
+        "lng": 30.384989
+      },
+      {
+        "station_name": "Площадь Александра Невского 2",
+        "line_name": "Лахтинско-Правобережная",
+        "station_id": "17.240",
+        "line_id": "17",
+        "lat": 59.923563,
+        "lng": 30.383421
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>разработка прикладных десктоп приложений для промышленных компьютеров взаимодействующих с судовым оборудованием;</li> <li>разработка приложений для стендового оборудования.</li> </ul> <strong>Требования:</strong> <ul> <li>технический английский;</li> <li>владение С/С++;</li> <li>опыт написания приложений для *nix систем;</li> <li>знание TCP/IP, RS 232/422/485;</li> <li> <p>опыт в написании высокопроизводительного ПО;</p> </li> <li>разработка GUI</li> <li>Будет плюсом: знание Python, Qt, знание основ ЦОС, знание Asterix, знание MIL STD1553.</li> </ul> <strong>Условия:</strong> <ul> <li> <p>График работы: 5/2</p> </li> <li> <p>ДМС</p> </li> <li> <p>Оформление по ТК РФ</p> </li> <li>Соц.пакет</li> <li>Повышение квалификации за счет компании</li> <li>Спортзал на территории предприятия</li> <li>Предприятие ВПК</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "988016",
+    "name": "Северный пресс",
+    "url": "https://api.hh.ru/employers/988016",
+    "alternate_url": "https://hh.ru/employer/988016",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/827780.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/3752003.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3752004.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=988016",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-12T11:46:25+0300",
+  "created_at": "2025-05-12T11:46:25+0300",
+  "initial_created_at": "2025-05-12T11:46:25+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120397518",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120397518",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

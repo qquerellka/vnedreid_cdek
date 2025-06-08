@@ -1,0 +1,190 @@
+{
+  "id": "120642310",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Backend-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 150000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 150000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "MONTHLY",
+      "name": "Раз в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "проспект Мира",
+    "building": "101Вс2",
+    "lat": 55.812808,
+    "lng": 37.632269,
+    "description": null,
+    "raw": "Москва, проспект Мира, 101Вс2",
+    "metro": {
+      "station_name": "Алексеевская",
+      "line_name": "Калужско-Рижская",
+      "station_id": "6.8",
+      "line_id": "6",
+      "lat": 55.807794,
+      "lng": 37.638699
+    },
+    "metro_stations": [
+      {
+        "station_name": "Алексеевская",
+        "line_name": "Калужско-Рижская",
+        "station_id": "6.8",
+        "line_id": "6",
+        "lat": 55.807794,
+        "lng": 37.638699
+      },
+      {
+        "station_name": "ВДНХ",
+        "line_name": "Калужско-Рижская",
+        "station_id": "6.27",
+        "line_id": "6",
+        "lat": 55.819626,
+        "lng": 37.640751
+      },
+      {
+        "station_name": "Выставочный центр",
+        "line_name": "Монорельс",
+        "station_id": "96.553",
+        "line_id": "96",
+        "lat": 55.824086,
+        "lng": 37.638494
+      },
+      {
+        "station_name": "Улица Академика Королёва",
+        "line_name": "Монорельс",
+        "station_id": "96.552",
+        "line_id": "96",
+        "lat": 55.821821,
+        "lng": 37.627167
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Что предстоит делать</p> <ul> <li> <p>Разрабатывать и поддерживать высоконагруженные HTTP-/gRPC-микросервисы на Python (FastAPI/AIOHTTP).</p> </li> <li> <p>Проектировать и оптимизировать структуру БД в PostgreSQL, писать сложные SQL-запросы, настраивать индексы.</p> </li> <li> <p>Обеспечивать асинхронную обработку задач (asyncio, multiprocessing, Celery/RabbitMQ).</p> </li> <li> <p>Писать unit- и интеграционные тесты (Pytest, Mock), поддерживать покрытие на высоком уровне.</p> </li> <li> <p>Контейнеризировать сервисы и настраивать CI/CD-конвейеры (GitHub Actions).</p> </li> <li> <p>Настраивать мониторинг и алертинг в Prometheus/Grafana, логирование через ELK (ElasticSearch, Logstash, Filebeat, Kibana).</p> </li> <li> <p>Участвовать в проектировании отказоустойчивой и масштабируемой микросервисной архитектуры.</p> </li> </ul> <p>Требования к кандидату</p> <ul> <li> <p>Опыт коммерческой разработки на Python не менее 3 лет.</p> </li> <li> <p>Глубокие знания FastAPI и асинхронного программирования (asyncio, multiprocessing и/или Celery).</p> </li> <li> <p>Уверенные навыки работы с PostgreSQL: проектирование схем, оптимизация сложных SQL-запросов, индексация.</p> </li> <li> <p>Практика написания unit- и интеграционных тестов (Pytest, Mock).</p> </li> <li> <p>Опыт контейнеризации приложений и работы с Docker (Docker Compose), понимание принципов CI/CD.</p> </li> <li> <p>Знание принципов построения микросервисов: взаимодействие через RabbitMQ, Redis, HTTP/gRPC.</p> </li> <li> <p>Ответственность, внимательность к деталям, умение самоорганизоваться и работать в команде.</p> </li> </ul> <p>Будет плюсом</p> <ul> <li> <p>Опыт оптимизации производительности API (кэширование, балансировка нагрузки).</p> </li> <li> <p>Знание Pydantic, Typing, опыт работы с Alembic (миграции БД).</p> </li> <li> <p>Опыт настройки мониторинга и метрик в Prometheus/Grafana.</p> </li> <li> <p>Знакомство с ELK-стеком (ElasticSearch, Logstash, Filebeat, Kibana).</p> </li> <li> <p>Умение разрабатывать отказоустойчивые и масштабируемые сервисы.</p> </li> <li> <p>Опыт работы по Scrum/Kanban, участие в agile-методологиях.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "PostgreSQL"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1125468",
+    "name": "ATF digital",
+    "url": "https://api.hh.ru/employers/1125468",
+    "alternate_url": "https://hh.ru/employer/1125468",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/849071.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3837159.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3837160.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1125468",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-16T15:49:21+0300",
+  "created_at": "2025-05-16T15:49:21+0300",
+  "initial_created_at": "2025-05-16T15:49:21+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120642310",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120642310",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

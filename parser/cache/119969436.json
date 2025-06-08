@@ -1,0 +1,158 @@
+{
+  "id": "119969436",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер-программист в НТК",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 60000,
+    "to": 90000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 60000,
+    "to": 90000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "проспект Обуховской Обороны",
+    "building": "120с13",
+    "lat": 59.864299,
+    "lng": 30.475346,
+    "description": null,
+    "raw": "Санкт-Петербург, проспект Обуховской Обороны, 120с13",
+    "metro": {
+      "station_name": "Пролетарская",
+      "line_name": "Невско-Василеостровская",
+      "station_id": "16.234",
+      "line_id": "16",
+      "lat": 59.865,
+      "lng": 30.47
+    },
+    "metro_stations": [
+      {
+        "station_name": "Пролетарская",
+        "line_name": "Невско-Василеостровская",
+        "station_id": "16.234",
+        "line_id": "16",
+        "lat": 59.865,
+        "lng": 30.47
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <ul> <li>Проведение тестирования и верификации программного обеспечения;</li> <li>обеспечение режима готовности тестовых окружений, включая настройку и поддержку;</li> <li>проведение статического анализа исходного кода программы;</li> <li>проведение динамического анализа кода;</li> <li>аудит безопасности. Проведение тестирования на проникновение программы (изделия);</li> <li>проведение фаззинг-тестирования;</li> <li>оформление результатов тестирования и верификации.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>высшее <strong>техническое</strong> образование (инженер-программист/специалист по защите информации/информационные технологии/информационная безопасность) или дополнительное в области информационных технологий, разработки радиоэлектронной аппаратуры и программного обеспечения.</li> <li>владение ОС &quot;Astra Linux Special Edition&quot;;</li> <li>знание основ тестирования программного обеспечения, методологий и типов тестирования;</li> <li>опыт работы с системами контроля версий (GIT) и системами управления проектами;</li> <li>знание инструментов тестирования ПО;</li> <li>знание процессов разработки ПО и этапов жизненного цикла программного продукта;</li> <li>базовое знание языков программирования C/C++, Python.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>график работы 5/2;</li> <li>официальное оформление согласно ТК <em>РФ</em>;</li> <li>выплата заработной платы два раза в месяц, без задержек;</li> <li>13-я заработная плата (ежегодная поощрительная премия);</li> <li>ДМС после испытательного срока + наличие на территории своего медицинского центра;</li> <li>на территории предприятия работает сеть столовых;</li> <li>наличие своего <em>спорт</em>комплекса с бассейном для работников и их семей;</li> <li>частичная компенсация стоимости <em>аренд</em>ы жилья <em>иногород</em>ним рабочим и специалистам;</li> <li>возможность повышения квалификации, разрядов работников (учебные центры, целевое обучение в ВУЗах), обучения в аспирантуре на базе предприятия;</li> <li>корпоративные мероприятия, <em>молод</em>ежный совет;</li> <li>дополнительные стимулирующие выплаты, специальные социальные программы.</li> </ul>",
+  "branded_description": "\n<style>\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    font-family: \"Arial\", sans-serif;\n    color: #000;\n    font-size: 14px;\n    line-height: 20px;\n    overflow: hidden;\n    border-radius: 4px;\n}\n.tmpl_hh_wrapper *{\n    box-sizing: border-box;\n}\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n.hht-vacancydescription {\n    padding: 0px;\n}\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;    \n}\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-weight: normal;\n    font-size: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n    display: inline;\n}\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    margin: 0 0 16px;\n}\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    color: #000;\n    display: block;\n    font-size: 24px;\n    line-height: 28px;\n}\n.tmpl_hh_content b em,\n.tmpl_hh_content strong em,\n.tmpl_hh_content em b,\n.tmpl_hh_content em strong {\n    font-size: initial;\n    line-height: initial;\n    font-style: normal;\n    font-weight: bold;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong{\n    margin: 0;   \n    display: inline;\n}\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 14px;\n    list-style: none !important;\n    margin-bottom: 24px;\n}\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 10px;\n    letter-spacing: 0.03em;\n}\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ul li strong em,\n.tmpl_hh_content ol li strong em,\n.tmpl_hh_content ul li em strong,\n.tmpl_hh_content ol li em strong {\n    font-size: initial;\n    line-height: initial;\n    font-weight: bold;\n    font-style: normal;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 8px;\n    margin-bottom: 8px;\n}\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;    \n}\n.tmpl_hh_content li:before {\n    content: '';\n    position: absolute;\n    left: -18px;\n    top: 0;\n}\n.tmpl_hh_content ul>li:before {\n    width: 4px;\n    height: 4px;\n    border-radius: 100%;\n    background-color: #000;\n    left: -14px;\n    top: 8px;\n}\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter)'.';\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n.tmpl_hh_video {\n    position: relative;\n    width: 100%;\n}\n.tmpl_hh_video img,\n.tmpl_hh_video iframe {\n    position: absolute;\n    left: 0;\n    top: 0;\n    width: 100%;\n    height: 100%;\n}\n\n.tmpl_hh_wrapper img{\n    width: 100%;\n    display: block;\n}\n.tmpl_hh_content {\n    padding: 5px 34px 22px;\n}\n.tmpl_hh_lawyer{\n    margin-top: 24px;\n    font-size: 10px;\n    line-height: 14px;\n    letter-spacing: 0.02em;\n    color: rgba(0, 0, 0, 0.32);\n}\n.tmpl_hh_content .tmpl_hh_title{\n    display: block;\n    margin-top: 24px;\n}\n\n\n.tmpl_hh_header{\n    position: relative;\n}\n.tmpl_hh_header__intro {\n    position: relative;\n    height: 0;\n    padding-bottom: 68%;\n    background: url(https://hhcdn.ru/ichameleon/403260.jpg) top left/cover no-repeat;\n}\n.tmpl_hh_header__intro .tmpl_hh_logo{\n    position: absolute;\n    top: 15.6%;\n    left: 34px;\n    width: 69px;\n}\n.tmpl_hh_header__text{\n    position: relative;\n    border-radius: 24px 24px 0 0;\n    background-color: #fff;\n    padding: 48px 0 0 0;\n    margin-top: -31px;\n}\n.tmpl_hh_header__text .tmpl_hh_text{\n    position: absolute;\n    bottom: calc(100% + 84px);\n    z-index: 10;\n    left: 34px;\n    max-width: 379px;\n    color: #fff;\n}\n.tmpl_hh_header__text p{\n    margin-top: 12px;\n    font-size: 13px;\n    line-height: 18px;\n    letter-spacing: 0.02em;\n}\n.tmpl_hh_header__text .tmpl_hh_bold{\n    max-width: 329px;\n}\n\n.tmpl_hh_benefits{\n    padding: 0 34px;\n    position: relative;\n    z-index: 2;\n}\n.tmpl_hh_benefits b{\n    display: block;\n    font-size: 24px;\n    line-height: 28px;\n    margin-bottom: 24px;\n}\n.tmpl_hh_benefits .tmpl_hh_flex{\n    display: flex;\n    justify-content: space-between;\n    flex-wrap: wrap;\n}\n.tmpl_hh_benefits .tmpl_hh_item{\n    background: #003A66 url(https://hhcdn.ru/ichameleon/403282.svg) top right -1px/92px no-repeat;\n    position: relative;\n    border-radius: 12px;\n    margin-bottom: 8px;\n    width: 32.4%;\n    padding: 62px 12px 16px;\n    height: 139px;\n}\n.tmpl_hh_benefits .tmpl_hh_item--2{\n    padding-top: 55px;\n}\n.tmpl_hh_benefits p{\n    font-weight: bold;\n    color: #fff;\n    font-size: 14px;\n    line-height: 20px;\n}\n.tmpl_hh_benefits .tmpl_hh_icon {\n    position: absolute;\n    top: 24px;\n    left: 12px;\n    width: auto;\n    height: 29px;\n}\n.tmpl_hh_benefits .tmpl_hh_icon--2{\n    height: 22px;\n}\n.tmpl_hh_benefits .tmpl_hh_item--7{\n    background: url(https://hhcdn.ru/ichameleon/403291.jpg) top center/cover no-repeat !important;\n}\n.tmpl_hh_benefits .tmpl_hh_item--9{\n    background: url(https://hhcdn.ru/ichameleon/403290.jpg) top center/cover no-repeat !important;\n}\n.tmpl_hh_footer{\n    position: relative;\n    background: url(https://hhcdn.ru/ichameleon/403322.jpg) top center/cover no-repeat;\n    height: 0;\n    padding-bottom: 65.3%;\n    margin-top: -102px;\n}\n.tmpl_hh_footer b{\n    display: block;\n    font-size: 20px;\n    line-height: 26px;\n    text-align: center;\n    position: absolute;\n    top: 142px;\n    left: 0;\n    width: 100%;\n}\n\n@media (max-width: 1019px) {\n    \n    .tmpl_hh_header__intro .tmpl_hh_logo{\n        width: 60px;\n    }\n    .tmpl_hh_header__text .tmpl_hh_bold {\n        max-width: 314px;\n    }\n    .tmpl_hh_header__text .tmpl_hh_text{\n        bottom: calc(100% + 50px);\n    }\n    .tmpl_hh_footer{\n        margin-top: -74px;\n    }\n    .tmpl_hh_footer b{\n        top: 114px;\n    }\n}\n\n@media (max-width: 699px) {\n\n    .tmpl_hh_wrapper{\n        border-radius: 0;\n        margin-left: -15px;\n        width: calc(100% + 30px);\n    }\n    .tmpl_hh_header__intro{\n        background-image: url(https://hhcdn.ru/ichameleon/403533.jpg);\n        padding-bottom: 54%;\n    }\n    .tmpl_hh_header__intro .tmpl_hh_logo {\n        width: 48px;\n        top: 40px;\n        left: 16px;\n    }\n    .tmpl_hh_header__text{\n        border-radius: 12px 12px 0 0;\n        margin-top: -21px;\n        padding: 22px 15px 0;\n    }\n    .tmpl_hh_header__text .tmpl_hh_bold {\n        max-width: 264px;\n    }\n    .tmpl_hh_header__text p{\n        margin-top: 7px;\n    }\n    .tmpl_hh_header__text .tmpl_hh_text{\n        bottom: auto;\n        left: auto;\n        position: relative;\n        color: #000;\n    }\n    .tmpl_hh_content p, .tmpl_hh_content b, .tmpl_hh_content strong {\n        margin: 0 0 12px;\n    }\n    .tmpl_hh_content b, .tmpl_hh_content strong{\n        font-size: 20px;\n        line-height: 23px;\n    }\n    .tmpl_hh_content{\n        padding: 31px 16px 33px;\n    }\n    .tmpl_hh_content li{\n        margin-bottom: 8px;\n    }\n    .tmpl_hh_benefits {\n        padding: 0 16px;\n    }\n    .tmpl_hh_benefits b{\n        font-size: 20px;\n        line-height: 23px;\n        margin-bottom: 19px;\n    }\n    .tmpl_hh_benefits .tmpl_hh_item{\n        width: calc(50% - 4px);\n        padding: 54px 12px 11px;\n        height: 129px;\n        background-image: url(https://hhcdn.ru/ichameleon/403536.svg);\n        background-size: 46px;\n        order: 1;\n    }\n    .tmpl_hh_benefits p{\n        font-size: 13px;\n        line-height: 16px;\n    }\n    .tmpl_hh_benefits .tmpl_hh_icon{\n        top: 16px;\n    }\n    .tmpl_hh_benefits .tmpl_hh_icon--2{\n        top: 19px;\n    }\n    .tmpl_hh_benefits .tmpl_hh_icon--3 {\n        top: 18px;\n    }\n    .tmpl_hh_benefits .tmpl_hh_item--7{\n        order: 2;\n        padding-bottom: 50%;\n        width: 100%;\n    }\n    .tmpl_hh_benefits .tmpl_hh_item--8{\n        width: 100%;\n        height: auto;\n    }\n    .tmpl_hh_benefits .tmpl_hh_item--8 p{\n        max-width: 194px;\n    }\n    .tmpl_hh_benefits .tmpl_hh_item--9{\n        order: 3;\n        padding-bottom: 50%;\n        width: 100%;\n    }\n    .tmpl_hh_footer{\n        margin-top: -62px;\n        padding-bottom: 448PX;\n    }\n    .tmpl_hh_footer b{\n        top: 96px;\n        font-size: 18px;\n        line-height: 23px;\n        letter-spacing: 0.01em;\n        left: 49%;\n        transform: translateX(-50%);\n        max-width: 258px;\n    }\n}\n</style>\n\n<script>\n//\n\n    function DOM_HH_Ready() {\n\n    const initTitles = () => {\n        const lists = document.querySelectorAll('.tmpl_hh_content ul, .tmpl_hh_content ol');\n        lists.forEach((item) => {\n            if (item.previousElementSibling != null) {\n                const beforeEl = item.previousElementSibling;\n                beforeEl.classList.add('tmpl_hh_title');\n            }\n        });\n    }\n    initTitles();\n\n    }\n    if (document.readyState === \"loading\") {\n        document.addEventListener(\"DOMContentLoaded\", DOM_HH_Ready);\n    } else {\n        DOM_HH_Ready();\n    }\n\n//\n</script>\n\n    <div class=\"tmpl_hh_wrapper\">\n        <div class=\"tmpl_hh_header\">\n            <div class=\"tmpl_hh_header__intro\">\n                <img src=\"https://hhcdn.ru/ichameleon/403259.svg\" alt=\"\" class=\"tmpl_hh_logo\">\n            </div>\n            <div class=\"tmpl_hh_header__text\">\n                <div class=\"tmpl_hh_text\">\n                    <picture>\n                        <source srcset=\"https://hhcdn.ru/ichameleon/403262.svg\" media=\"(max-width: 699px)\"></source>\n                        <img src=\"https://hhcdn.ru/ichameleon/403261.svg\" class=\"tmpl_hh_bold\" alt=\"\">\n                    </picture>\n                    <p>Объединяет научно-исследовательские, конструкторские комплексы, мощное машиностроительное и радиотехническое производство и испытательные центры.</p>\n                </div>\n            </div>\n        </div>\n        \n        <div class=\"tmpl_hh_content\">\n            <p><strong>Обязанности:</strong></p> <ul> <li>Проведение тестирования и верификации программного обеспечения;</li> <li>обеспечение режима готовности тестовых окружений, включая настройку и поддержку;</li> <li>проведение статического анализа исходного кода программы;</li> <li>проведение динамического анализа кода;</li> <li>аудит безопасности. Проведение тестирования на проникновение программы (изделия);</li> <li>проведение фаззинг-тестирования;</li> <li>оформление результатов тестирования и верификации.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>высшее <strong>техническое</strong> образование (инженер-программист/специалист по защите информации/информационные технологии/информационная безопасность) или дополнительное в области информационных технологий, разработки радиоэлектронной аппаратуры и программного обеспечения.</li> <li>владение ОС \"Astra Linux Special Edition\";</li> <li>знание основ тестирования программного обеспечения, методологий и типов тестирования;</li> <li>опыт работы с системами контроля версий (GIT) и системами управления проектами;</li> <li>знание инструментов тестирования ПО;</li> <li>знание процессов разработки ПО и этапов жизненного цикла программного продукта;</li> <li>базовое знание языков программирования C/C++, Python.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>график работы 5/2;</li> <li>официальное оформление согласно ТК <em>РФ</em>;</li> <li>выплата заработной платы два раза в месяц, без задержек;</li> <li>13-я заработная плата (ежегодная поощрительная премия);</li> <li>ДМС после испытательного срока + наличие на территории своего медицинского центра;</li> <li>на территории предприятия работает сеть столовых;</li> <li>наличие своего <em>спорт</em>комплекса с бассейном для работников и их семей;</li> <li>частичная компенсация стоимости <em>аренд</em>ы жилья <em>иногород</em>ним рабочим и специалистам;</li> <li>возможность повышения квалификации, разрядов работников (учебные центры, целевое обучение в ВУЗах), обучения в аспирантуре на базе предприятия;</li> <li>корпоративные мероприятия, <em>молод</em>ежный совет;</li> <li>дополнительные стимулирующие выплаты, специальные социальные программы.</li> </ul><div class=\"tmpl_hh_lawyer\">Подбор работников осуществляется в АО «СЕВЕРО-ЗАПАДНЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР КОНЦЕРНА ВКО «АЛМАЗ-АНТЕЙ» – ОБУХОВСКИЙ ЗАВОД»</div>\n        </div>\n\n        <div class=\"tmpl_hh_benefits\">\n            <b>Мы предлагаем</b>\n            <div class=\"tmpl_hh_flex\">\n                <div class=\"tmpl_hh_item tmpl_hh_item--1\">\n                    <img src=\"https://hhcdn.ru/ichameleon/403271.svg\" alt=\"\" class=\"tmpl_hh_icon tmpl_hh_icon--1\">\n                    <p>Работа в крупной, стабильной компании</p>\n                </div>\n                <div class=\"tmpl_hh_item tmpl_hh_item--2\">\n                    <img src=\"https://hhcdn.ru/ichameleon/403272.svg\" alt=\"\" class=\"tmpl_hh_icon tmpl_hh_icon--2\">\n                    <p>Достойная \n                        и своевременная \n                        оплата труда</p>\n                </div>\n                <div class=\"tmpl_hh_item tmpl_hh_item--3\">\n                    <img src=\"https://hhcdn.ru/ichameleon/403273.svg\" alt=\"\" class=\"tmpl_hh_icon tmpl_hh_icon--3\">\n                    <p>Забота \n                        <br>и поддержка</p>\n                </div>\n                <div class=\"tmpl_hh_item tmpl_hh_item--4\">\n                    <img src=\"https://hhcdn.ru/ichameleon/403277.svg\" alt=\"\" class=\"tmpl_hh_icon tmpl_hh_icon--4\">\n                    <p>Профессиональ­ное развитие</p>\n                </div>\n                <div class=\"tmpl_hh_item tmpl_hh_item--5\">\n                    <img src=\"https://hhcdn.ru/ichameleon/403276.svg\" alt=\"\" class=\"tmpl_hh_icon tmpl_hh_icon--5\">\n                    <p>Корпоративная жизнь \n                        и спорт</p>\n                </div>\n                <div class=\"tmpl_hh_item tmpl_hh_item--6\">\n                    <img src=\"https://hhcdn.ru/ichameleon/403275.svg\" alt=\"\" class=\"tmpl_hh_icon tmpl_hh_icon--6\">\n                    <p>Работа в пешей доступности от метро</p>\n                </div>\n                <div class=\"tmpl_hh_item tmpl_hh_item--7\"></div>\n                <div class=\"tmpl_hh_item tmpl_hh_item--8\">\n                    <img src=\"https://hhcdn.ru/ichameleon/403274.svg\" alt=\"\" class=\"tmpl_hh_icon tmpl_hh_icon--8\">\n                    <p>Бонусы за трудоустройство по вашей рекомендации</p>\n                </div>\n                <div class=\"tmpl_hh_item tmpl_hh_item--9\"></div>\n            </div>\n        </div>\n\n        <div class=\"tmpl_hh_footer\">\n            <b>Присоединяйтесь к команде \n                <br>АО «Обуховский завод», создавайте будущее с нами!</b>\n        </div>\n    </div>\n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "C/C++"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": "Власов",
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "611846",
+    "name": "Северо-Западный Региональный Центр Концерна ВКО Алмаз-Антей - Обуховский Завод",
+    "url": "https://api.hh.ru/employers/611846",
+    "alternate_url": "https://hh.ru/employer/611846",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1116277.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6085705.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6085706.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=611846",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-25T16:35:00+0300",
+  "created_at": "2025-05-25T16:35:00+0300",
+  "initial_created_at": "2025-04-25T16:34:59+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119969436",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119969436",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

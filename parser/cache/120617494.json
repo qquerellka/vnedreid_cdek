@@ -1,0 +1,172 @@
+{
+  "id": "120617494",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "LINUX Инженер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 100000,
+    "to": 180000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": 180000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "Луначарского",
+    "building": "36",
+    "lat": 56.853247,
+    "lng": 60.615117,
+    "description": null,
+    "raw": "Екатеринбург, Луначарского, 36",
+    "metro": {
+      "station_name": "Уральская",
+      "line_name": "Север-Юг",
+      "station_id": "48.264",
+      "line_id": "48",
+      "lat": 56.858056,
+      "lng": 60.600816
+    },
+    "metro_stations": [
+      {
+        "station_name": "Уральская",
+        "line_name": "Север-Юг",
+        "station_id": "48.264",
+        "line_id": "48",
+        "lat": 56.858056,
+        "lng": 60.600816
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Мы предлагаем вакансию в отделе информационных технологий.</p> <p>Инженер Linux - это специалист по операционным системам LINUX и программным продуктам для этой операционной системы.<br /><br />Наша ИТ команда многочисленна, состоит из специалистов различных направлений, объединенных общим желанием – достижением результатов. Работа в профессиональном и дружном коллективе - это не только удовольствие, но и отличная возможность получить уникальный опыт в различных областях ИТ.<br /><br />Нам необходим специалист, с опытом работы или желающий развиваться в направлении LINUX, для участия в сложных, интересных инфраструктурных проектах.</p> <p>Инициативность, ориентированность на результат и умение работать в команде – вот основные качества нашего будущего коллеги!</p> <p><strong>Требования:</strong></p> <ul> <li>Навыки развертывания и администрирования: RHEL, CentOS, Debian, AstraLinux, RED OS;</li> <li>Навыки развертывания и администрирования: SAMBA DC, LDAP, FreeIPA, AD;</li> <li>Навыки развертывания и администрирования систем автоматизации и управления конфигурациями: Ansible, Puppet, Salt;</li> <li>Навыки работы развертывания и администрирования систем виртуализации: VMWare (ESXi), KVM;</li> <li>Знание сетевых технологий.</li> </ul> <p><strong>Обязанности:</strong></p> <ul> <li>Участие в разработке и внедрении проектов корпоративной ИТ-инфраструктуры в т.ч. импортозамещения;</li> <li>Мониторинг ИТ-сервисов;</li> <li>Техническая поддержка.</li> </ul> <p><strong>Условия работы:</strong></p> <ul> <li>Официальное трудоустройство, соц. пакет в соответствии с ТК;</li> <li>Стабильное место работы;</li> <li>Уникальный профессиональный рост, интересные задачи, дружный коллектив;</li> <li>Гибкий подход к планированию рабочего времени;</li> <li>Возможна удаленная работа после прохождения испытательного срока;</li> <li>Регулярное обучение, сертификация;</li> <li>Удобный офис;</li> <li>Ежеквартальные премии и годовой бонус по результатам работы.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Информационные технологии"
+    },
+    {
+      "name": "Сетевые технологии"
+    },
+    {
+      "name": "Системная интеграция"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "114",
+      "name": "Системный инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "161415",
+    "name": "Астерит",
+    "url": "https://api.hh.ru/employers/161415",
+    "alternate_url": "https://hh.ru/employer/161415",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1254485.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6638369.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6638370.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=161415",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-16T09:43:38+0300",
+  "created_at": "2025-05-16T09:43:38+0300",
+  "initial_created_at": "2025-05-16T09:43:38+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120617494",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120617494",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

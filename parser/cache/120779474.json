@@ -1,0 +1,142 @@
+{
+  "id": "120779474",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Backend",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 200000,
+    "to": 250000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 200000,
+    "to": 250000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": null,
+    "building": null,
+    "lat": 55.755864,
+    "lng": 37.617698,
+    "description": null,
+    "raw": "Москва",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Что мы предлагаем<br /><br />-Комфортные условия работы в гибридном формате (офис + удалёнка);<br />-График 5/2, с 11:00 до 19:00;<br />-Конкурентный оклад 200 000 – 250 000 ₽ ;<br />-Полное сопровождение и ответы на все вопросы для эффективной работы;<br />-Дружный, профессиональный коллектив и возможность участия в масштабных проектах.<br /></p> <p>Наш идеальный кандидат</p> <p><br />- Имеет опыт коммерческой разработки на Python3 — 3–6 лет;<br />-Уверенно владеет SQL и минимум одним NoSQL-хранилищем;<br />-Имеет опыт работы с PostgreSQL, RabbitMQ, Redis;<br />-Знает Docker и Docker-Compose для контейнеризации сервисов;<br />-Понимает принципы микросервисной архитектуры и работы брокеров сообщений;<br />-Имеет глубокие знания FastAPI или других асинхронных фреймворков;<br />-Ответственный, инициативный и умеет доводить задачи до готового решения.<br /></p> <p>Что предстоит делать</p> <p>-Разрабатывать и поддерживать backend-сервисы на Python;<br />-Работа с асинхронными фреймворками (FastAPI и др.);<br />-Проектирование и оптимизация схем баз данных;<br />-Интеграция с внешними API, написание клиентских модулей;<br />-Настройка и сопровождение очередей сообщений (RabbitMQ, Kafka);<br />-Написание модульных и интеграционных тестов.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11896237",
+    "name": "Хачатрян Лиля Геворговна",
+    "url": "https://api.hh.ru/employers/11896237",
+    "alternate_url": "https://hh.ru/employer/11896237",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11896237",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-20T17:10:31+0300",
+  "created_at": "2025-05-20T17:10:31+0300",
+  "initial_created_at": "2025-05-20T17:10:31+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120779474",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120779474",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

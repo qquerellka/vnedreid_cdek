@@ -1,0 +1,176 @@
+{
+  "id": "118899098",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Бизнес-аналитик",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 120000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 120000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "улица Орджоникидзе",
+    "building": "40",
+    "lat": 55.031634,
+    "lng": 82.935988,
+    "description": null,
+    "raw": "Новосибирск, улица Орджоникидзе, 40",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Мы-команда ТачФинанс, современный финансовый проект альтернативного кредитования в стране.<br />С 2023 года наша компания растет и развивается в сфере онлайн кредитования и поддерживает агентскую сеть по выдаче займов. Приглашаем в нашу команду <strong>аналитика.</strong><br /><br /><strong>Мы предлагаем:</strong></p> <ul> <li>официальное трудоустройство по ТД;</li> <li>белая зарплата и бонусы;</li> <li>график работы 5/2 с 9:00 до 18:00;</li> <li>отсутствие жёсткого дресс-кода;</li> <li>комфортный офис в центре города рядом с метро площадь Ленина;</li> <li>оборудованная столовая комната с кофемашиной, холодильником и микроволновкой;</li> <li>корпоративные мероприятия, подарки и мерчи за счёт компании;</li> <li>ДМС со стоматологией после 1 года работы в компании;</li> <li>возможность гибридного формата и удаленной работы после испытательного срока.</li> </ul> <p><strong>Вам предстоит:</strong></p> <ul> <li>разрабатывать и внедрять аналитические модели;</li> <li>составлять и анализировать SCORE модели;</li> <li>выполнять качественный анализа кредитного портфеля;</li> <li>строить операционную и бизнес отчетность;</li> <li>анализировать и прорабатывать бизнес-решения, давать рекомендации по улучшению стратегии кредитования и других операционных процессов;</li> <li>осуществлять поддержку, актуализацию и реинжиниринг работы консолидированной модели прогнозирования (денежных потоков, баланса, резервов);</li> <li>мониторить показатели деятельности (RI, ROS, ROA, EBITDA, COR, ROI, LTV, винтажные показатели просрочки и прочие), проводить анализ причин изменения этих показателей;</li> <li>формировать предложения по изменению показателей бизнес-модели для достижения плановых показателей деятельности;</li> <li> <p>заниматься оптимизацией существующих моделей и реинжинирингом;</p> </li> <li> <p>выполнять Ad-hoc аналитику (проверка гипотез, A/B тестирование, оптимизация стратегии управления;</p> </li> <li> <p>принимать участие в формировании резервов РВПЗ и МСФО в соответствии с требованиями нормативных документов Банка России;</p> </li> <li>готовить аналитические материалы и отчеты по резервам;</li> <li>участвовать в процессах взаимодействия с внутренними и внешними контрагентами (Банк России, аудиторы и др.) в части компетенций.</li> </ul> <p><strong>От вас мы ожидаем:</strong></p> <ul> <li>высшее образование (экономика, математика, финансы);</li> <li>знание теории вероятностей, статистики;</li> <li>высокий уровень владения Excel;</li> <li>продвинутое знание Python, SQL, clickhouse, Power Pivot (формулы, сводные таблицы, графики, модель данных), Power Query (подключение к БД и файлам, расчётные столбцы, работа с датами и фильтрами) будет вашим преимуществом;</li> <li>навыки написания запросов и процедур;</li> <li>опыт работы бизнес аналитиком в банке или МФО будет являться преимуществом;</li> <li>опыт построения операционной и бизнес отчетности;</li> <li>навыки работы с большим массивом данных, опыт исследования и анализа данных;</li> <li>хорошие коммуникативные и презентационные навыки;</li> <li>гибкость и адаптивность.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "MS Excel"
+    },
+    {
+      "name": "MS SQL"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Ad Hoc Analysis"
+    },
+    {
+      "name": "Power Query"
+    },
+    {
+      "name": "Power Pivot"
+    },
+    {
+      "name": "Анализ бизнес показателей"
+    },
+    {
+      "name": "Прогнозирование"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "150",
+      "name": "Бизнес-аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11008468",
+    "name": "МКК ТачФинанс",
+    "url": "https://api.hh.ru/employers/11008468",
+    "alternate_url": "https://hh.ru/employer/11008468",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1383405.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/7153407.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/7153408.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11008468",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-20T12:03:50+0300",
+  "created_at": "2025-05-20T12:03:50+0300",
+  "initial_created_at": "2025-03-28T12:38:12+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=118899098",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/118899098",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_5",
+      "name": "5 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,133 @@
+{
+  "id": "121351759",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Квант разработчик (криптовалютные торговые боты и арбитраж)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 5000,
+    "to": 9000,
+    "currency": "USD",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 5000,
+    "to": 9000,
+    "currency": "USD",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы ищем квант разработчика для создания и оптимизации высокопроизводительных торговых алгоритмов для децентрализованных и централизованных бирж с упором на DeFi и кросс-чейн арбитраж.</p> <p><strong>Обязанности:</strong><br />-Проектирование, разработка и поддержка торговых ботов для платформ DEX и CEX<br />-Внедрение и оптимизация стратегий арбитража и маркет-мейкинга на DEX на базе EVM и Solana<br />-Разработка логики исполнения и систем управления капиталом<br />-Интеграция с протоколами DeFi (например, Uniswap, Curve)<br />-Использование закрытых конечных точек RPC для выполнения с малой задержкой</p> <p><strong>Требования:</strong><br />-Подтвержденный опыт арбитража DEX (предпочтительно как на EVM, так и на Solana)<br />-Глубокое понимание торговой инфраструктуры CEX (order books, APIs, latency)<br />-Глубокие знания протоколов DeFi и их механики<br />-Владение как минимум одним языком программирования: Python, C++ или Rust<br />-Знакомство с закрытыми каналами RPC и оптимизацией для стратегий</p> <p><strong><em>Будет плюсом:</em></strong><br />Опыт разработки EVM/Smart Contract (Solidity)<br />Знание систем RFQ и/или инфраструктуры HFT<br />Проверенные стратегии MEV: потоки поиска, обратный запуск<br />Глубокие знания конечных точек RPC и API-интерфейсов конструктора блоков (Flashbots, MEV-Boost и т. д.)<br />Знакомство с протоколами DeFi, стандартами ERC-20/ERC-4626 и нюансами<br />Уверенность в работе с инфраструктурой с низкой задержкой, мониторингом Prometheus/Grafana и CI/CD на основе Git<br /><br /><strong>Мы предлагаем:</strong><br />- Конкурентную зарплату по результатам собеседования;<br />- Гибкий рабочий график (полная занятость);<br />- Гибридный формат работы: удаленная работа или возможность релокации в ОАЭ (Дубай), где находится центральный офис компании;<br />- Помощь в релокации, оплата комфортабельного жилья, официальное оформление ВНЖ;<br />- Неограниченные возможности для профессионального роста;<br />- Широкий спектр интересных задач;<br />- Дружная команда настоящих профессионалов;</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5531122",
+    "name": "Heaad",
+    "url": "https://api.hh.ru/employers/5531122",
+    "alternate_url": "https://hh.ru/employer/5531122",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1190675.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6383157.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6383158.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5531122",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T17:12:00+0300",
+  "created_at": "2025-06-04T17:12:00+0300",
+  "initial_created_at": "2025-06-04T17:12:00+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121351759",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121351759",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,143 @@
+{
+  "id": "118978708",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Senior PHP/Laravel разработчик (Ростов и область)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "76",
+    "name": "Ростов-на-Дону",
+    "url": "https://api.hh.ru/areas/76"
+  },
+  "salary": {
+    "from": 130000,
+    "to": 180000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 130000,
+    "to": 180000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Ростов-на-Дону",
+    "street": "Таганрогская улица",
+    "building": "114И",
+    "lat": 47.258577,
+    "lng": 39.651089,
+    "description": null,
+    "raw": "Ростов-на-Дону, Таганрогская улица, 114И",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>ВНИМАНИЕ! </strong>Вакансия размещена по просьбе наших партнеров.</p> <p>Компания уже более 20 лет занимается фото-видеосъемкой различных праздников и других торжественных мероприятий.</p> <p>Мы создаем:</p> <p>Комплекты студийных фотографий;</p> <p>Индивидуальные фильмы;</p> <p>Сувениры, подарочные наборы, фотоальбомы и многое другое.</p> <p> Вакансия: Senior PHP / Laravel разработчик для вывода проекта из стадии MVP </p> <p> Что нужно делать:<br />Ты будешь ключевым разработчиком в команде, который:<br />- Спроектирует устойчивую архитектуру монолитного Laravel-приложения<br />- Проведёт рефакторинг MVP-кода , чтобы убрать хаос и заложить фундамент под рост<br />- Оптимизирует производительность под высокую нагрузку (много медиа, интенсивная генерация файлов)<br />- Улучшит CI/CD, логирование, мониторинг</p> <p> О проекте :<br />Многофункциональный портал сотрудников в сфере фото- и видеосъёмки с полным циклом:<br />- Загрузка/обработка медиа<br />- Модерация, генерация композиций, видео и печатных файлов<br />- CRM, управление задачами, учётка<br />- Презентация и продажа готовых работ клиентам</p> <p> Сейчас MVP живёт, но:<br />- Код сложно масштабировать<br />- Высокий уровень связанности кода<br />- Архитектура требует пересборки<br />- Большой потенциал повышения производительности</p> <p>✅ Требования:<br />- 4+ лет опыта с PHP 7.4+ / 8+<br />- Отличное знание Laravel 8/9, Eloquent, очереди, события, сервис-контейнер<br />- Умение строить архитектуру (DDD, модульный подход, чистый код)<br />- Опыт рефакторинга чужого кода<br />- Навыки оптимизации SQL-запросов, очередей, работы с файлами<br />- Опыт работы с нагруженными проектами (обязательно)<br />- Желательно — базовое понимание Python (обработка медиа, генерация контента)</p> <p> Команда:<br />- Backend-разработчик<br />- Сисадмин<br />- Vue-разработчик (открыта вакансия)<br />- UX-дизайнер (открыта вакансия)<br />- Не хватает сильного лидера backend’а</p> <p> Условия:<br />- Удалёнка (предпочтение — Ростовская область)<br />- Свободный график<br />- Всё в работе — живая система, а не музей ТЗ<br />- Есть зона ответственности, есть свобода, нет микроменеджмента</p> <p>Хочешь не просто писать код, а делать архитектуру, на которой держится продукт? Пиши — обсудим, покажем проект. </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1763016",
+    "name": "ЛАЗЕРГРАФ",
+    "url": "https://api.hh.ru/employers/1763016",
+    "alternate_url": "https://hh.ru/employer/1763016",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1236920.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6568117.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6568118.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1763016",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-29T07:59:03+0300",
+  "created_at": "2025-05-29T07:59:03+0300",
+  "initial_created_at": "2025-03-31T14:40:14+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=118978708",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/118978708",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

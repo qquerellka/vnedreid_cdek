@@ -1,0 +1,134 @@
+{
+  "id": "119580656",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер ядра опорной сети",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Привет! Мы ищем Инженера ядра опорной сети (голосовой домен СS Core Network) в ведущую мировую компанию-поставщик интеллектуальных устройств и инфраструктуры в области информационно-коммуникационных технологий.</p> <p>Основный задачи:</p> <ul> <li>Оказание консультаций по проблемам работы оборудования и ПО;</li> <li>Участие в аварийно-восстановительных мероприятиях сети заказчика;</li> <li>Проведение и оказание технической поддержки по работам на сети заказчика;</li> <li>Выполнение профилактических работ;</li> <li>Развертывание новых сетей CS/IMS/VoLTE (короткие командировки).</li> </ul> <p>Ожидания:</p> <ul> <li>Опыт работы от 2х лет в сфере телекоммуникаций опорной сети (Core Network), IT, эксплуатации оператора связи или в технической поддержке вендора (желательно);</li> <li>Знание построения сетей 2G/3G/4G и IMS, интерфейсов, стеков протоколов;</li> <li>Опыт внедрения/ администрирования/ решения технических проблем систем виртуализации (VMWare/FusionSphere);</li> <li>Опыт внедрения/администрирования/решения технических проблем ОС Linux;</li> <li>Знание сетевого стека OSI, TCP/IP;</li> <li>Понимание принципов решений виртуализации;</li> <li>Высшее техническое образование;</li> <li>Английский язык на уровне не ниже Pre-Intermediate;</li> <li>Приветствуется наличие курсов и сертификатов Huawei, Cisco, Nokia, Ericsson.</li> </ul> <p>Мы предлагаем:</p> <ul> <li>Офисный формат работы с возможностью командировок;</li> <li>Оформление в аккредитованную IT-компанию;</li> <li>ДМС;</li> <li>Оплата мобильной связи;</li> <li>Корпоративные и спортивные мероприятия.</li> </ul> <p>Интересно предложение? Ждем ваш отклик!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": {
+    "id": 32918,
+    "name": "Ventra IT",
+    "top_picture": {
+      "height": 560,
+      "width": 1540,
+      "path": "https://img.hhcdn.ru/branding-pictures/2637382.jpeg",
+      "blurred_path": null
+    },
+    "bottom_picture": null
+  },
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "112",
+      "name": "Сетевой инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "1838",
+    "name": "Ventra",
+    "url": "https://api.hh.ru/employers/1838",
+    "alternate_url": "https://hh.ru/employer/1838",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1096753.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6007629.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6007630.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1838",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-13T10:38:13+0300",
+  "created_at": "2025-05-13T10:38:13+0300",
+  "initial_created_at": "2025-04-16T11:07:18+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119580656",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119580656",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "a2",
+        "name": "A2 — Элементарный"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

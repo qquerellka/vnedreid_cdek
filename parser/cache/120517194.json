@@ -1,0 +1,149 @@
+{
+  "id": "120517194",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный разработчик (Python, Linux, C++)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Лесная улица",
+    "building": "43",
+    "lat": 55.780588,
+    "lng": 37.590677,
+    "description": null,
+    "raw": "Москва, Лесная улица, 43",
+    "metro": {
+      "station_name": "Белорусская",
+      "line_name": "Замоскворецкая",
+      "station_id": "2.19",
+      "line_id": "2",
+      "lat": 55.777439,
+      "lng": 37.582107
+    },
+    "metro_stations": [
+      {
+        "station_name": "Белорусская",
+        "line_name": "Замоскворецкая",
+        "station_id": "2.19",
+        "line_id": "2",
+        "lat": 55.777439,
+        "lng": 37.582107
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Xello – IT-компания, прошедшая путь от стартапа до одного из ключевых игроков на рынке информационной безопасности. Мы создаём передовые продукты в сфере кибербезопасности, направленные на предотвращение хакерских атак. Наши решения помогают бизнесам любого масштаба защищать свои критические данные и данные клиентов.<br />Мы аккредитованная IT-компания в Минцифры и резиденты Сколково, и наши сотрудники могут воспользоваться предлагаемыми льготами.</p> <p>Наша команда регулярно участвует в профильных конференциях, а проекты реализуются на современном технологическом стеке, что обеспечивает инновационность и качество наших решений.</p> <p>Мы работаем с передовым технологическим стеком и решаем сложные задачи, связанные с созданием высоконагруженных систем и архитектурных компонентов. У нас вы будете участвовать в разработке решений, которые взаимодействуют с операционными системами и инфраструктурой, обрабатывают сотни тысяч событий в секунду и оптимизируют процессы хранения данных и коммуникации между компонентами. Мы ценим инновации и открыты для экспериментов, постоянно используем современные подходы и инструменты в разработке.</p> <p>Сейчас мы ищем разработчика с опытом в Python и глубокой экспертизой в Linux, для работы над задачами в области изоляции данных и кибербезопасности.</p> <p><strong>Чем вам предстоит заниматься:</strong></p> <ul> <li>Разрабатывать модули для изоляции и шифрования данных в ОС Linux;</li> <li>Создавать системы защиты данных от вмешательства на уровне пользователя и ядра.</li> </ul> <strong>Что ожидаем от кандидата:</strong> <ul> <li>Опыт разработки: <ul> <li>Production-код на Python (от 5 лет);</li> <li>Знание алгоритмов, структур данных и паттернов проектирования;</li> <li>Создание архитектуры прикладных и облачных приложений;</li> </ul> </li> <li>Экспертиза в Linux: <ul> <li>Глубокое понимание устройства Linux и принципов его работы;</li> <li>Опыт работы с системами изоляции (namespace, chroot, cgroup, sandbox);</li> </ul> </li> <li>Знания в области сетей и безопасности: <ul> <li>Протоколы передачи данных, технологии защищенных соединений;</li> <li>Шифрование данных и безопасное хранение информации;</li> </ul> </li> <li>Личностные качества: <ul> <li>Самостоятельность, инициативность и готовность к быстрому обучению.</li> </ul> </li> </ul> <p><strong>Преимуществом будет: </strong></p> <ul> <li>Опыт работы в kernel space, включая разработку с использованием eBPF/BPF;</li> <li>Опыт работы с виртуализацией / контейнеризацией в Windows, Android или macOS;</li> <li>Опыт C/C++, библиотеками Qt, Xlib;</li> <li>Работа с технологиями mTLS, WebSocket, а также инструментами WireGuard, nftables, iproute2;</li> <li>Навыки шифрования данных и работы с cryptsetup или другими технологиями безопасного хранения данных;</li> <li>Опыт в реверс-инжиниринге и защите от него;</li> <li>Проведение тестирования на устойчивость ПО к киберугрозам и утечкам данных;</li> <li>Понимание Agile и DevOps методологии и подходов;</li> <li>Интерес к функциональной безопасности и кибербезопасности.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Гибкий гибридный график работы;</li> <li>Возможность удаленной работы;</li> <li>Достойную заработную плату, которая обсуждается с каждым кандидатом индивидуально и зависит от знаний и опыта;</li> <li>Пересмотр заработной платы в соответствии с профессиональным ростом;</li> <li>Возможность максимально влиять на продукт;</li> <li>Профессиональный рост в роли разработчика, возможность работы над сложными задачами в рамках уникального продукта;</li> <li>Возможность принимать участие в профильных мероприятиях и конференциях.</li> <li>Качественный пакет ДМС, day-off pack, и т.д.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4712081",
+    "name": "Xello",
+    "url": "https://api.hh.ru/employers/4712081",
+    "alternate_url": "https://hh.ru/employer/4712081",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/750355.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3442381.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3442382.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4712081",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-14T10:24:48+0300",
+  "created_at": "2025-05-14T10:24:48+0300",
+  "initial_created_at": "2025-05-14T10:24:48+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120517194",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120517194",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

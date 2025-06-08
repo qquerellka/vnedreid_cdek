@@ -1,0 +1,130 @@
+{
+  "id": "119768119",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "QA Engineer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": null,
+    "to": 2000,
+    "currency": "USD",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 2000,
+    "currency": "USD",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<strong>Мы — FinTech</strong> <strong>компания, </strong>разрабатывающая<strong> B2C-продукт </strong>в сфере<strong> финансовых рынков. </strong>Показываем стабильный рост и также активно развиваемся! Сейчас ищем талантливого QA инженера, который усилит нашу команду и поможет вывести платформу на новый уровень.<br /><p><strong>Наши ожидания: </strong></p> <ul> <li>Опыт работы в <strong>QA от 3-х лет;</strong></li> <li>Умение грамотно излагать свои мысли, составлять описание баг-репортов;</li> <li>Хорошее знание <strong> JavaScript/TypeScript</strong>;</li> <li>Опыт в написании SQL-запросов;</li> <li>Опыт в автоматизации тестирования веб-приложений - <strong>Playwright, Allure/Zephyr;</strong></li> <li><strong>Будет плюсом</strong> знакомство с Docker, Linux.</li> </ul> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>поиск и локализация дефектов, написание баг-репортов;</li> <li>проведение ручного интеграционного и функционального тестирования нового функционала веб-сервисов;</li> <li>описание тестовых артефактов (тест-план, тест-кейсы, чек-листы);</li> <li>автоматизация тестирования стабильного функционала сервисов;</li> <li>настройка и поддержка конфигурации CI для выполнения автотестов;</li> <li>взаимодействие с командами для решения проблем;</li> </ul> <p><strong>Что мы предлагаем: </strong></p> <ul> <li><strong>Удалённая </strong>работа с<strong> гибким </strong>графиком;</li> <li><strong>Оформление: </strong>крипта(в приоритете), самозанятость/ИП;</li> <li><strong>Карьерный рост: </strong>международный проект, дружная команда, интересные задачи. Рост <strong>быстрее</strong>, чем в крупных компаниях;</li> <li><strong>Приятный коллектив!)</strong></li> </ul> <p><em><strong>Увидели себя? Скорее откликайтесь! :)</strong></em></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5174849",
+    "name": "Wanted",
+    "url": "https://api.hh.ru/employers/5174849",
+    "alternate_url": "https://hh.ru/employer/5174849",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1331476.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6945922.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6945923.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5174849",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-13T17:02:42+0300",
+  "created_at": "2025-05-13T17:02:42+0300",
+  "initial_created_at": "2025-04-21T13:15:01+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119768119",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119768119",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "OTHER",
+      "name": "Другое"
+    }
+  ],
+  "show_logo_in_search": null
+}

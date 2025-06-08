@@ -1,0 +1,163 @@
+{
+  "id": "118284289",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Flutter-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 110000,
+    "to": 110000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 110000,
+    "to": 110000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "Ядринцевская улица",
+    "building": "18",
+    "lat": 55.033032,
+    "lng": 82.924697,
+    "description": null,
+    "raw": "Новосибирск, Ядринцевская улица, 18",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Иногородних не рассматриваем, работа в офисе г. Новосибирск.</strong></p> <p>Ищем программиста для <strong>поддержки и дальнейшего развития двух текущих проектов </strong>. Важно — желание учиться, разбираться в чужом коде и быстро вникать в существующие решения.</p> <p><strong>Работа предстоит с уже действующими мобильными приложениями (Android и iOS).</strong></p> <p><strong>Чего мы ожидаем:</strong></p> <ul> <li>Опыт коммерческой разработки на Dart с использованием Flutter.</li> <li>Знание принципов работы с HTTP и REST API, умение работать с соответствующими библиотеками.</li> <li>Опыт проектирования архитектуры мобильных приложений и написания тестов.</li> <li>Знакомство с популярными библиотеками: flutter_bloc, auto_route, dio.</li> <li>Умение разбираться в чужом коде, вносить изменения и оптимизировать существующую логику.</li> </ul> <p><strong>Что предстоит делать:</strong></p> <ul> <li>Поддерживать и развивать два действующих приложения.</li> <li>Исправлять баги, оптимизировать производительность.</li> <li>Добавлять новый функционал по мере необходимости.</li> <li>Участвовать в code-review и доработке архитектуры.</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Оклад <strong>110 000 рублей на руки</strong></li> <li>График работы <strong>5/2 </strong>(суббота и воскресенье — выходные), с <strong>10:00 до 19:00</strong></li> <li>Официальное трудоустройство</li> <li>Офис в центре города</li> <li>Молодой, дружелюбный коллектив</li> <li>Корпоративы 3 раза в год<br /></li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Flutter"
+    },
+    {
+      "name": "Dart"
+    },
+    {
+      "name": "Webflow"
+    },
+    {
+      "name": "Xcode"
+    },
+    {
+      "name": "Swift"
+    },
+    {
+      "name": "iOS"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "Аналитическое мышление"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11853984",
+    "name": "Миндюк Антон Васильевич",
+    "url": "https://api.hh.ru/employers/11853984",
+    "alternate_url": "https://hh.ru/employer/11853984",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11853984",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T10:29:36+0300",
+  "created_at": "2025-06-05T10:29:36+0300",
+  "initial_created_at": "2025-03-13T10:29:34+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=118284289",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/118284289",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

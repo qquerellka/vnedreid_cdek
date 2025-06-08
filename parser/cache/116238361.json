@@ -1,0 +1,191 @@
+{
+  "id": "116238361",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Junior DevOps specialist",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 40000,
+    "to": 65000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 40000,
+    "to": 65000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "улица Тургенева",
+    "building": "18",
+    "lat": 56.842984,
+    "lng": 60.6143,
+    "description": null,
+    "raw": "Екатеринбург, улица Тургенева, 18",
+    "metro": {
+      "station_name": "Динамо",
+      "line_name": "Север-Юг",
+      "station_id": "48.265",
+      "line_id": "48",
+      "lat": 56.847818,
+      "lng": 60.599406
+    },
+    "metro_stations": [
+      {
+        "station_name": "Динамо",
+        "line_name": "Север-Юг",
+        "station_id": "48.265",
+        "line_id": "48",
+        "lat": 56.847818,
+        "lng": 60.599406
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Привет, это команда Домов!</p> <p>Дома — это SaaS-платформа для управляющих организаций. Мы помогаем Управляющим Компаниям оптимизировать внутренние процессы и повысить прибыль, а жителям домов решать проблемы во взаимодействии с УК. Наша цель — сделать ЖКХ понятным, простым и эффективным.</p> <p>Сейчас команда Домов это 150 человек. Большая часть команды — это продуктовое направление. У нас несколько кросс-функциональных команд, которые фокусируются на разные доменах: мобильные приложения, биллинг, умные дома и пр.</p> <p>У нас классный it-продукт, который активно растет и нам в команду инфраструктуры нужен Devops, чтобы вместе с ним делать мир жилищно-коммунальных услуг для всех понятнее и проще.</p> <p><strong>Легко вольешься в команду, если:</strong></p> <ul> <li>Ты учишься на 3-4 курсе Радиофак/ Мат-Мех УрГУ / УрФУ и при этом можешь работать 40 часов в неделю, или ты уже выпускник с техническим образованием;</li> <li>Круто, но не обязательно, если есть опыт работы в IT;</li> <li>Хочешь развиваться, готов к работе в команде;</li> <li>Знаешь, что такое Kubernetes, Docker, Ansible, Github/Gitlab (видел, пробовал что-то делать)</li> </ul> <p><strong>Чем заниматься в ДОМАХ</strong></p> <ul> <li>Автоматизировать процессы - мы не любим &quot;работать руками&quot;, поэтому автоматизируем все, что можно;</li> <li>Мониторить инфраструктуру и управлять ресурсами на серверах;</li> <li>Развертывать и поддерживать тестовые стенды.</li> <li>Готовить инфраструктуру для веб-приложения и мобилки;</li> <li>Участвовать в разборе инцидентов;</li> <li>Взаимодействовать с разработкой, продуктом и бизнесом.</li> </ul> <p><strong>Формальности</strong></p> <p><strong>Оформление: </strong>официально с 1-го дня.</p> <p><strong>Зарплата: </strong>стабильный оклад — доплачиваем до оклада в месяцы отпуска (у нас нет «невыгодных месяцев для отпуска»).</p> <p><strong>График работы: </strong>у нас нет жесткого графика работы, мы придерживаемся здравого смысла. Мы работаем с понедельника по пятницу, и большинство коллег начинает рабочий день с 8 до 11 Мск.</p> <p><strong>Формат работы: </strong>удаленно, гибрид или офис по желанию. Офис в Екатеринбурге — в Деловом центре «Тургенев» на Тургенева, 18, м. Динамо.</p> <p><strong>Как мы нанимаем: </strong>короткое собеседование с HR → техническое собеседование → собеседование с руководителем → оффер.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Git"
+    },
+    {
+      "name": "GitHub"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Gitlab"
+    },
+    {
+      "name": "CI/CD"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Ansible"
+    },
+    {
+      "name": "Kubernetes"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "160",
+      "name": "DevOps-инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5410307",
+    "name": "ДОМА",
+    "url": "https://api.hh.ru/employers/5410307",
+    "alternate_url": "https://hh.ru/employer/5410307",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1053144.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5833225.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5833226.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5410307",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T18:43:54+0300",
+  "created_at": "2025-06-05T18:43:54+0300",
+  "initial_created_at": "2025-01-24T18:43:50+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=116238361",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/116238361",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

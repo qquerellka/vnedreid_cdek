@@ -1,0 +1,171 @@
+{
+  "id": "120877804",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Инженер технической поддержки",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": null,
+    "to": 270000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 270000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Зеленоград",
+    "street": "улица Юности",
+    "building": "8",
+    "lat": 55.999017,
+    "lng": 37.223832,
+    "description": null,
+    "raw": "Зеленоград, улица Юности, 8",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы — разработчики комплексного OSS/BSS-решения для операторов связи. Наш основной продукт — биллинг «Гидра» для провайдеров интернета, телефонии и телевидения . Биллинг принимает платежи абонентов, проводит начисления, выставляет счета, управляет сетью, т. е. является мозгом оператора связи. Помимо биллинга мы занимаемся автоматизацией бизнес-процессов и выездных работ.</p> <p>Мы работаем на рынке с 2007-го года. У нас более 170 клиентов в 18 странах мира. Мы дорожим каждым клиентом и уделяем большое внимание качеству своей деятельности: от первой строки кода до инцидентов в продакшене. Наши продукты работают под Linux, используют Oracle и PostgreSQL, написаны на Ruby и Python, упакованы в Docker, а сервера конфигурируются с помощью Ansible.</p> <p>Наша клиентская база растет, поэтому мы ищем специалиста на удаленную работу по внедрению и техподдержке.</p> <p><strong>Что нужно делать:</strong></p> <p>— настраивать биллинг при внедрении в компаниях по всему миру (без выезда);</p> <p>— поддерживать работу уже внедренного биллинга;</p> <p>— участвовать в решении сложных задач совместно с разработчиками;</p> <p>— общаться с клиентами: консультировать по работе и настройке системы (преимущественно в письменном виде);</p> <p>— интегрировать биллинг с внешними сервисами и оборудованием.</p> <p><strong>Требования:</strong></p> <p>— представление об устройстве компьютерных сетей;</p> <p>— умение установить и настроить приложение в консоли Linux;</p> <p>— знание основ языка запросов SQL (опыт работы с любой СУБД будет плюсом);</p> <p>— представление о программировании (умение написать простой скрипт для решения конкретной задачи будет плюсом);</p> <p>— знание английского на уровне, достаточном для чтения технической документации;</p> <p>— инициативность и ответственность.</p> <p><strong>Условия:</strong></p> <p>— <strong>удаленная работа;</strong></p> <p>— дружный коллектив, в котором ценится обмен знаниями и профессиональный рост (пересечение с коллегами 3 часа);</p> <p>— стабильно растущая зарплата, которая выплачивается полностью и без задержек;</p> <p>— 8-часовой рабочий день со свободным перерывом на обед;</p> <ul> <li><strong>Мы являемся аккредитованной в Минцифры ИТ Компанией, предоставляющей право на льготную ипотеку, также и право подачи документов на отсрочку от мобилизации (для военнообязанных) для профильных ИТ специалистов в соответствии с приказом Минцифры.</strong></li> </ul> <p> </p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Bash"
+    },
+    {
+      "name": "Администрирование серверов Linux"
+    },
+    {
+      "name": "Консультирование клиентов"
+    },
+    {
+      "name": "Техническая поддержка"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1050345",
+    "name": "Латера",
+    "url": "https://api.hh.ru/employers/1050345",
+    "alternate_url": "https://hh.ru/employer/1050345",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/87543.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/719345.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/719346.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1050345",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T16:34:47+0300",
+  "created_at": "2025-06-06T16:34:47+0300",
+  "initial_created_at": "2025-05-22T16:34:47+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120877804",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120877804",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b2",
+        "name": "B2 — Средне-продвинутый"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

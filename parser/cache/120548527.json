@@ -1,0 +1,133 @@
+{
+  "id": "120548527",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Специалист по созданию чат-ботов",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 80000,
+    "to": 130000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 80000,
+    "to": 130000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>InvestFuture (IF)</strong> — это крупнейший проект в России, объединивший в себе Media и Ed-Tech для развития инвестиционной культуры и повышения финансовой грамотности каждого жителя страны:</p> <ul> <li><strong>Media</strong> — YouTube-канал и тематические Telegram-площадки, на которых выходят свежие и непредвзятые новости мира финансов, экономики, инвестиций, а также информация о выгодных путешествиях и значимых мировых событиях.</li> </ul> <ul> <li><strong>EdTech</strong> — Образовательные продукты по развитию финансовой грамотности с применением современных технологий, которые можно найти на различных обучающих платформах и, в том числе, на нашей собственной.</li> </ul> <p>На данный момент нас уже смотрит, слушает и читает&gt; 2.000.000 уникальных пользователей, число которых постоянно растёт, поэтому мы регулярно расширяем штат сотрудников.</p> <p>Мы продвигаем философию долгосрочных инвестиций для создания личного и семейного капитала.</p> <p>Более подробное описание компании и внутрикорпоративных направлений можно прочитать в описании InvestFuture</p> <p><strong>Мы находимся в активном поиске Технического специалиста.</strong></p> <p><strong>Задачи, которые предстоит решать:</strong></p> <ul> <li> <p>Разработка ботов в конструкторах для автоматизации процессов. Боты для интеграции в сервисы и сайты (Sale bot, Voice Flow, Телеграмм, лендинги). Тестирование и оптимизация работы ботов.</p> </li> <li> <p>Настройка подключения CRM-систем к внешним сервисам (например, платежные системы, сервисы, лендинги), а также в лид формы.</p> </li> <li> <p>Настройка доменов, SSL-сертификатов, метрик (Google Analytics, Яндекс.Метрика).</p> </li> <li> <p>Обеспечение бесперебойной работы сайтов (мониторинг ошибок, исправление багов).</p> </li> <li> <p>Интеграция веб-платформ с CRM, платежными шлюзами и аналитическими инструментами.</p> </li> <li> <p>Решение возникающих технических проблем (серверные ошибки, сбои в API).</p> </li> <li> <p>Настройка сквозной аналитики CRM, Яндекс Метрика.</p> </li> </ul> <p><strong>Что для нас важно:</strong></p> <ul> <li> <p>Опыт работы в аналогичной должности от 1 года в технической роли в digital маркетинге.</p> </li> <li> <p>Знание особенностей работы с API и интеграция сервисов.</p> </li> <li> <p>Умение производить настройку и администрировать CRM-систему.</p> </li> <li> <p>Понимание основ работы на платформе Tilda (настройка доменов, метрик, интеграция внешних сервисов).</p> </li> <li> <p>Знание основ программирования (Python, JavaScript, SQL).</p> </li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Возможность работать из любой точки мира, полностью удалённая работа</li> <li>Работа в современной, динамичной компании</li> <li>Прозрачная система мотивации, уровень заработной платы готовы обсудить на собеседовании.</li> <li>Поддержку новичков по программе наставничества.</li> <li>Высокий уровень корпоративной культуры.</li> <li>Свободный доступ ко всем образовательным курсам InvestFuture.</li> </ul> <p><em>Присоединяйся к нашей команде! Обязательно оставляй отклик на вакансию, и в случае принятия решения о личной встрече наш HR-менеджер свяжется с тобой, чтобы познакомиться поближе. Если есть вопросы, пиши в Тг: @OlgaSergeevna1992</em></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5137862",
+    "name": "InvestFuture",
+    "url": "https://api.hh.ru/employers/5137862",
+    "alternate_url": "https://hh.ru/employer/5137862",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/806052.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/3665095.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3665096.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5137862",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T16:52:23+0300",
+  "created_at": "2025-06-07T16:52:23+0300",
+  "initial_created_at": "2025-05-14T16:52:23+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120548527",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120548527",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

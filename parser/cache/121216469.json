@@ -1,0 +1,130 @@
+{
+  "id": "121216469",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Middle\\Senior Android-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "Привет! Я Катя, ищу Android разработчика в<strong> </strong>крупную российскую розничную компанию, управляющую популярными продуктовыми сетями и цифровыми сервисами.<br /><br />Ребята разрабатывают решения для сотен тысяч сотрудников и миллионов покупателей, работать будет круто и интересно ;) <p><br /><strong>Чем предстоит заниматься:</strong></p> <ul> <li> <p>Разработкой клиентских приложений для Android;</p> </li> <li> <p>Помощь в локализации ошибок и взаимодействие с QA-специалистами;</p> </li> <li> <p>Проведение code-review;</p> </li> <li> <p>Написание unit-тестов.</p> </li> <li> <p>Для Senior специалистов также участие в процессе разработки архитектуры приложений.</p> </li> </ul> <p><strong>Ожидания:</strong></p> <ul> <li>Опыт разработки на Kotlin от 2-3 лет;</li> <li>Опыт работы с Jetpack Compose;</li> <li>Отличное знание Kotlin Coroutines;</li> <li> <p>Опыт работы с Kotlin Multiplatform как плюс (либо готовность к работе в скором будущем);</p> </li> <li> <p>Разработка BDUI;</p> </li> <li> <p>Умение проектировать клиент-серверное взаимодействие;</p> </li> <li> <p>Способность разбираться в чужом коде и дорабатывать его.</p> </li> </ul> <p><strong>Что готовы предложить:</strong></p> <ul> <li>Официальное трудоустройство с конкурентной зарплатой и квартальными премиями.</li> <li>Гибкий формат работы: удалённо или гибрид.</li> <li>Расширенный ДМС (включая стоматологию и страхование за рубежом), страхование жизни.</li> <li>Обучение за счёт компании: тренинги, конференции, корпоративные программы развития.</li> <li>Поддержка спикеров и авторов: менторство, публикации на Хабре, участие в конференциях.</li> <li>Технические комьюнити по разным направлениям.</li> <li>Корпоративные мероприятия, волонтёрство, спортивные активности.</li> <li>Скидки в продуктовых сервисах компании и партнёров.</li> <li>Материальная поддержка в сложных ситуациях.​​​​​​​<br /><br /><em><strong>Жду вашего отклика!)</strong></em></li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Android"
+    },
+    {
+      "name": "Kotlin"
+    },
+    {
+      "name": "Clean Architecture"
+    },
+    {
+      "name": "Android SDK"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1111058",
+    "name": "Hi, Rockits!",
+    "url": "https://api.hh.ru/employers/1111058",
+    "alternate_url": "https://hh.ru/employer/1111058",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/857842.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/3872243.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3872244.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1111058",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T15:54:56+0300",
+  "created_at": "2025-06-06T15:54:56+0300",
+  "initial_created_at": "2025-06-02T12:01:10+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121216469",
+  "has_test": true,
+  "test": {
+    "required": true
+  },
+  "alternate_url": "https://hh.ru/vacancy/121216469",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

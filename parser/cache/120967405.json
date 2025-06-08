@@ -1,0 +1,130 @@
+{
+  "id": "120967405",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Backend Python разработчик (Middle+/Senior)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 200000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 200000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Проект: </strong>HR Family — автоматизация подбора кандидатов</p> <p><strong>О проекте</strong></p> <p>Мы разрабатываем высоконагруженную HR-платформу, которая автоматизирует процесс подбора персонала, используя анализ резюме, умный матчинг кандидатов и управление наймом. Наш сервис помогает компаниям находить и отбирать подходящих специалистов быстрее и точнее.</p> <p><strong>Технический стек:</strong></p> <ul> <li> <p>Backend: Python 3.12, Flask, SQLAlchemy, Temporal</p> </li> <li> <p>БД: PostgreSQL (OLTP), ClickHouse/StarRocks (аналитика), Redis (кеш)</p> </li> <li> <p>Архитектура: Event-Driven (Kafka), DDD, TDD</p> </li> <li> <p>API: REST, GraphQL</p> </li> <li> <p>Инфраструктура: Docker, GitLab CI/CD, ELK, Sentry, SonarQube</p> </li> <li> <p>Вспомогательные инструменты: Directus (CMS для HR-данных)</p> </li> </ul> <p><strong>Что предстоит делать</strong></p> <ul> <li> <p>Проектировать архитектуру новых модулей (Event-Driven)</p> </li> <li> <p>Разрабатывать и масштабировать сервисы для автоматизированного подбора кандидатов</p> </li> <li> <p>Реализовывать сложные бизнес-процессы с использованием Temporal (оркестрация workflow)</p> </li> <li> <p>Оптимизировать запросы к ClickHouse и PostgreSQL для работы с большими объемами HR-данных</p> </li> <li> <p>Проводить code review, участвовать в принятии технических решений</p> </li> <li> <p>Работать с Kafka для обработки событий (например, уведомления о новых вакансиях)</p> </li> </ul> <p><strong>Мы ждём от кандидата</strong></p> <ul> <li> <p>Опыт от 3 лет в backend-разработке на Python (Flask/Django/FastAPI)</p> </li> <li> <p>Уверенное владение SQLAlchemy, AsyncIO, PostgreSQL</p> </li> <li> <p>Понимание распределённых систем и Event-Driven архитектуры</p> </li> <li> <p>Опыт работы с Kafka</p> </li> <li> <p>Практика TDD, unit- и интеграционных тестов</p> </li> <li> <p>Желание работать с HR-tech, Data-Driven решениями</p> </li> <li> <p>Опыт работы с Aider, Cursor.ai приветствуется</p> </li> </ul> <p><strong>Мы предлагаем</strong></p> <ul> <li> <p>Полностью удалённая работа (без офиса)</p> </li> <li> <p>Обучение за счет компании (курсы, конференции)</p> </li> <li> <p>Возможность влиять на архитектуру и технологии</p> </li> <li> <p>Гибкий график (ежедневные Scrum-митинги, ретро 1 раз в 2 недели)</p> </li> </ul> <p><strong>Команда и культура</strong></p> <ul> <li> <p>Работаем по Agile (Scrum) с акцентом на качество кода и документацию</p> </li> <li> <p>Активно используем CI/CD (GitLab), code review, статический анализ (SonarQube)</p> </li> <li> <p>Поощряем инициативы по оптимизации и внедрению новых технологий</p> </li> <li> <p>В будущем — возможен рост до Tech Lead направления</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "783222",
+    "name": "Leads",
+    "url": "https://api.hh.ru/employers/783222",
+    "alternate_url": "https://hh.ru/employer/783222",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1390207.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7180615.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7180616.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=783222",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T11:24:45+0300",
+  "created_at": "2025-06-07T11:24:45+0300",
+  "initial_created_at": "2025-05-26T11:24:45+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120967405",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120967405",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

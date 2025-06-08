@@ -1,0 +1,119 @@
+{
+  "id": "121183717",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Python-разработчик (интеграционные решения)",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>О нас</strong></p> <p>Мы - динамично развивающаяся финтех-компания, создающая инновационные решения на рынке финансовых технологий. Наша команда профессионалов ищет талантливого Python-разработчика для усиления технического направления по интеграциям.</p> <p><strong>Кого мы ищем</strong></p> <p>Энергичного и целеустремлённого разработчика, который возьмет на себя ответственность за интеграционные решения, архитектуру и качество кода, а также оптимизацию и поддержку текущих проектов.</p> <p><strong>Обязанности:</strong></p> <ul> <li> <p>Разработка интеграций: Проектирование, разработка и поддержка модулей, обеспечивающих обмен данными между различными системами и сервисами</p> </li> <li> <p>Работа с базами данных: Проектирование схем, оптимизация запросов, обеспечение целостности данных при взаимодействии с реляционными (PostgreSQL, MySQL) базами данных</p> </li> <li> <p>API-интеграция: Разработка RESTful сервисов с использованием FastAPI, включая аутентификацию, авторизацию и обработку ошибок</p> </li> <li> <p>Документация и code review: Создание технической документации, участие в code review и обмен опытом с коллегами</p> </li> </ul> <p><strong>Требования:</strong></p> <p><em><strong>Обязательные навыки:</strong></em></p> <ul> <li> <p>Python: от 1 года практического опыта, уверенное владение HTTP-библиотеками (requests, httpx), понимание асинхронного программирования</p> </li> <li> <p>FastAPI: опыт создания RESTful API, реализации аутентификации (OAuth, JWT) и обработки ошибок</p> </li> <li> <p>Базы данных: практический опыт с PostgreSQL/MySQL и/или NoSQL (MongoDB, Redis)</p> </li> <li> <p>Интеграции: понимание принципов обмена данными (JSON, XML, REST, WebSocket), опыт тестирования API через Postman</p> </li> <li> <p>Архитектура: знание и применение принципов SOLID, DRY, KISS в реальных проектах</p> </li> <li> <p>Git и CI/CD: опыт работы с системами контроля версий и автоматизации сборки/тестирования</p> </li> <li> <p>Английский язык: уровень, достаточный для чтения технической документации</p> </li> </ul> <p><strong><em>Будет преимуществом:</em></strong></p> <ul> <li> <p>Опыт работы с Docker и Docker Compose</p> </li> <li> <p>Знание брокеров сообщений (RabbitMQ, Kafka) и асинхронной обработки данных</p> </li> <li> <p>Опыт работы в финтех-проектах</p> </li> <li> <p>Понимание принципов безопасности при разработке API</p> </li> </ul> <p><strong>Что мы предлагаем</strong><strong>:</strong></p> <ul> <li> <p>Работу над интересными проектами в быстрорастущей финтех-компании</p> </li> <li> <p>Возможности для профессионального роста и внедрения современных технологий</p> </li> <li> <p>Дружный коллектив единомышленников</p> </li> <li> <p>Гибкий график и возможность удаленной работы</p> </li> <li> <p>Конкурентную заработную плату (обсуждается индивидуально на собеседовании)</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5402004",
+    "name": "Lenkep recruitment",
+    "url": "https://api.hh.ru/employers/5402004",
+    "alternate_url": "https://hh.ru/employer/5402004",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1418960.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7295489.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7295490.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5402004",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-30T20:02:09+0300",
+  "created_at": "2025-05-30T20:02:09+0300",
+  "initial_created_at": "2025-05-30T20:02:09+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121183717",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121183717",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_5",
+      "name": "5 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

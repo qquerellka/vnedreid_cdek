@@ -1,0 +1,190 @@
+{
+  "id": "121285729",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Ручной тестировщик / Manual QA-инженер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": null,
+    "to": 130000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 130000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "улица Маршала Говорова",
+    "building": "35к5",
+    "lat": 59.888347,
+    "lng": 30.281265,
+    "description": null,
+    "raw": "Санкт-Петербург, улица Маршала Говорова, 35к5",
+    "metro": {
+      "station_name": "Кировский завод",
+      "line_name": "Кировско-Выборгская",
+      "station_id": "14.205",
+      "line_id": "14",
+      "lat": 59.879688,
+      "lng": 30.261921
+    },
+    "metro_stations": [
+      {
+        "station_name": "Кировский завод",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.205",
+        "line_id": "14",
+        "lat": 59.879688,
+        "lng": 30.261921
+      },
+      {
+        "station_name": "Нарвская",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.204",
+        "line_id": "14",
+        "lat": 59.901218,
+        "lng": 30.274908
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Лаборатория 50</strong> - компания, специализирующаяся на создании инновационных решений на базе отечественных операционных систем.</p> <p>Наша команда предоставляет полный спектр услуг и готовых продуктов, которые активно используются как сообществом пользователей российских ОС, так и многими ИТ-компаниями.</p> <p>Мы работаем с <strong>2010 года</strong> и за это время успешно реализовали множество проектов для таких крупных компаний, как<strong> Газпром Проектирование</strong>, <strong>ЛЭТИ</strong>, <strong>НИИ ТП</strong>, <strong>Вертолеты России</strong>, <strong>АО Решетнев</strong> и другие.<br /><br />https://lab50.net/</p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Ведение тестовой документации: написание тест-кейсов, чек-листов.</li> <li>Работа с баг-трекером: документирование дефектов и контроль их исправления.</li> <li>Написания подробных и понятных баг-репортов.</li> <li>Взаимодействие с командой разработки, принятие совместных решений об улучшении продукта.</li> <li>Автоматизация тестирования.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Понимание процесса тестирования (цели и задачи, виды тестирования, тест-дизайн, и т.д.).</li> <li>Опыт разработки тестовой документации (тест-кейсы, чек-листы).</li> <li>Опыт работы с инструментами тестирования (TestRail, TestIt и пр.).</li> <li>Умение писать простые SQL запросы.</li> <li>Понимание клиент-серверной архитектуры.</li> <li>Работа с командной строкой *nix систем.</li> <li>Инициативность и умение работать в команде.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Официальная заработная плата (обсуждается по результатам собеседования);</li> <li>Работа в аккредитованной IT компании;</li> <li>Возможность удаленной/гибридной работы;</li> <li>Гибкое начало рабочего дня;</li> <li>Оформление и условия работы в соответствии с ТК РФ;</li> <li>Работа с командой профессионалов с, которой можно расти и реализовывать проекты на базе Российского ПО;</li> <li>Возможность карьерного роста;</li> <li>Офис в шаговой доступности от метро Кировский завод. Наличие вело- и автопарковки.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Функциональное тестирование"
+    },
+    {
+      "name": "Test case"
+    },
+    {
+      "name": "Регрессионное тестирование"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Тестирование пользовательского интерфейса"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Работа в команде"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4099097",
+    "name": "Лаборатория 50",
+    "url": "https://api.hh.ru/employers/4099097",
+    "alternate_url": "https://hh.ru/employer/4099097",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/737546.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3391161.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3391162.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4099097",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T13:56:04+0300",
+  "created_at": "2025-06-06T13:56:04+0300",
+  "initial_created_at": "2025-06-03T13:56:04+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121285729",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121285729",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

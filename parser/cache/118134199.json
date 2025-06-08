@@ -1,0 +1,154 @@
+{
+  "id": "118134199",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Python разработчик в офис",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "улица Кирова",
+    "building": "50",
+    "lat": 55.01738,
+    "lng": 82.941262,
+    "description": null,
+    "raw": "Новосибирск, улица Кирова, 50",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><em>Совкомбанк Технологии - это аккредитованная ИТ-компания. </em></p> <p><em>Мы создаём и развиваем сервисы, которыми пользуются миллионы людей и мы сами.</em></p> <p><em>На рынке с 2021 года. Входим в группу Совкомбанка и в топ-5 лучших ИТ-работодателей 2022 года в рейтинге «Хабр Карьера».</em></p> <p><em>Сегодня Совкомбанк Технологии — это 3000+ профессионалов и 18 центров компетенций по всей России.</em></p> <p><em>Одно из наших основных направлений разработки - это внутрикорпоративные сервисы для автоматизации, оптимизации и обеспечения эффективности процессов Банка и дочерних компаний.</em></p> <p><em>Основной стек технологий – Python, PostgreSQL, Kafka/RabbitMQ, Redis, Docker, Kubernetes. Используемые фреймворки - Django/DRF и FastAPI.<br /><br />Наша команда выполняет весь спектр работ по развитию приложения: от проработки логики и архитектуры до тестирования и пилотирования.<br /><br />Мы находимся в поиске единомышленников – тех людей, которые нацелены на результат и ценят работу в команде и нам требуется разработчик для решения наших амбициозных задач. С нами тебя ждут интересные проекты, новые вызовы, интеграции с другими системами, а также ответственность за результат и, конечно же, дружная команда.</em></p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Развитием собственных систем (разработка продукта, интеграция с внешними и внутренними сервисами, доработка текущего функционала);</li> <li>Реализация и сопровождение системы в боевом контуре.</li> </ul> <p><strong>Что ожидаем:</strong></p> <ul> <li>Высшее техническое образование;</li> <li>Понимание ООП, знание паттернов разработки;</li> <li>Опыт работы с языком программирования Python от 2-х лет;</li> <li>Хорошее знание базовых библиотек Python;</li> <li>Опыт работы с FastAPI для разработки коммерческих приложений от 1-го года (или с другими фреймворками: Django/DRF, Flask);</li> <li>Понимание REST-архитектуры, опыт разработки серверной части REST;</li> <li>Опыт работы с PostgreSQL и Redis;</li> <li>Уверенная работа с git и другими инструментами разработчика;</li> <li>Опыт написания Unit-тестов;</li> <li>Знание английского на уровне необходимом для чтения документации.</li> </ul> <p><strong>Приветствуется:</strong></p> <ul> <li>Опыт работы по git-flow;</li> <li>Умение тестировать приложение;</li> <li>Знание фреймворков тестирования (unit-тестирование, интеграционное тестирование);</li> <li>Работа по методологии TDD и BDD;</li> <li>Опыт работы в сложных и интересных проектах;</li> <li>Опыт настройки веб-серверов, владение инструментами для деплоя.</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Трудоустройство по ТК РФ в аккредитованную IT-компанию;</li> <li>Самый уникальный портфель бонусов (ДМС со стоматологией, ИТ-ипотека, фитнес, школа ин. языков на выбор, скидки на коробочные продукты банка и партнеров, коворкинг в Сочи и прочее);</li> <li>Помощь в развитии вашей проф. экспертизы: оплатим профессиональные тренинги и внешние образовательные курсы, участие в ИТ активностях (митапы, хакатоны, юконы);</li> <li>Атмосферу профессионального развития, вдохновленную принципами Agile;</li> <li>Отзывчивых коллег и помощь ментора в адаптации;</li> <li>Вовлеченность, комфорт, свободу, минимум бюрократии, отсутствие дресс-кода, гибкое начало и завершение рабочего дня.</li> </ul> <p><strong>Приходи – с нами будет интересно!</strong></p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "REST"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Redis"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Unit Testing"
+    },
+    {
+      "name": "git-flow"
+    },
+    {
+      "name": "TDD"
+    },
+    {
+      "name": "BDD"
+    },
+    {
+      "name": "Agile Project Management"
+    },
+    {
+      "name": "FastAPI"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5390761",
+    "name": "Совкомбанк Технологии",
+    "url": "https://api.hh.ru/employers/5390761",
+    "alternate_url": "https://hh.ru/employer/5390761",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1310092.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6860626.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6860627.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5390761",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-09T14:13:54+0300",
+  "created_at": "2025-05-09T14:13:54+0300",
+  "initial_created_at": "2025-03-10T14:13:52+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=118134199",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/118134199",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

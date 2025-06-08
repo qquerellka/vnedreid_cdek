@@ -1,0 +1,123 @@
+{
+  "id": "114684006",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Cтажёр-разработчик автоматизированных тестов",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы ищем кандидатов без опыта работы в автоматизации, но с базовыми знаниями ООП и желанием развиваться в сфере. <strong>Вакансия предполагает обязательное предварительное обучение в онлайн формате, длительность которого ориентировочно 3 месяца. </strong>Мы бесплатно обучаем в нашем внутреннем учебном центре и всех успешно завершивших, официально трудоустраиваем к себе в компанию в соответствии с ТК РФ.</p> <p><strong>Обязанности:</strong></p> <ul> <li>разработка автоматизированных тестов;</li> <li>запуск и анализ результатов автоматизированных тестов;</li> <li>настройка и поддержка окружения для запуска автоматизированных тестов;</li> <li>взаимодействие с проектной командой.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>базовые знания любого языка программирования с поддержкой ООП (Java, C#, Python, JS наши основные языки);</li> <li>базовые навыки работы со средами программирования (Jetbrains IDEA, Visual Studio, Pycharm и т.п.);</li> <li>возможность работать не менее 30 часов в неделю.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>возможность трудоустройства по итогам обучения;</li> <li>получение уникальной экспертизы в рамках собственного учебного центра;</li> <li>работу на интересных проектах и с известными заказчиками;</li> <li>возможность удалённой работы и гибкого графика;</li> <li>стабильную зарплату и социальный пакет.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "ООП"
+    },
+    {
+      "name": "Java"
+    },
+    {
+      "name": "C#"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "8644487",
+    "name": "Точка Качества",
+    "url": "https://api.hh.ru/employers/8644487",
+    "alternate_url": "https://hh.ru/employer/8644487",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1067212.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5889477.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5889478.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=8644487",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-23T12:15:01+0300",
+  "created_at": "2025-05-23T12:15:01+0300",
+  "initial_created_at": "2024-12-24T12:14:56+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=114684006",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/114684006",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": true,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,173 @@
+{
+  "id": "117127989",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Lead SRE / DevOps (SaaS)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Привет! Я Ника, HR Sipuni.</p> <p>Sipuni — это телефония. Нас называют по-разному: IP телефония, виртуальная АТС, связь для бизнеса. Помогаем компаниям дозваниваться до клиентов. Продаем номера и доступ к софту, где настраивается распределение звонков, подключается интеграция с CRM или речевой аналитикой. Работаем 16 лет и растем быстрее рынка.</p> <p>Ищем <strong>Lead SRE / DevOps</strong>, который возьмет под контроль команду, улучшит процессы и продолжит развитие инфраструктуры.</p> <p><strong>Что нужно делать</strong></p> <ul> <li> <p><strong>Оптимизировать процесс устранения инцидентов. </strong>Сейчас команда чинит проблемы разными способами, иногда с костылями. Нужно сделать так, чтобы инциденты устранялись быстро и без временных решений.</p> </li> <li> <p><strong>Развивать инфраструктуру.</strong> Оценить текущее состояние серверов и оборудования, найти слабые места, построить план развития инфраструктуры.</p> </li> <li> <p><strong>Завершить переход в Kubernetes. </strong>Часть сервисов уже в Kubernetes, но часть еще не перенесена. Нужно довести процесс до конца.</p> </li> </ul> <p><em><strong>Стек</strong></em></p> <ul> <li> <p><em>ОС: Linux, Debian</em></p> </li> <li> <p><em>Контейнеризация: Docker, Kubernetes</em></p> </li> <li> <p><em>CI/CD: GitLab CI/CD, Git</em></p> </li> <li> <p><em>Балансировка нагрузки: Nginx, HAProxy</em></p> </li> <li> <p><em>Автоматизация: Ansible (разработка и использование плейбуков)</em></p> </li> <li> <p><em>Виртуализация: Proxmox</em></p> </li> <li> <p><em>Мониторинг: Zabbix, Grafana, Graylog</em></p> </li> <li> <p><em>Базы данных: MySQL, Redis, MongoDB</em></p> </li> <li> <p><em>Скриптинг: Bash</em></p> </li> <li> <p><em>Будут плюсом: ClickHouse, Percona Cluster, RabbitMQ, Python, PostgreSQL, SIP</em></p> </li> </ul> <p><strong>Кого мы ищем</strong></p> <ul> <li><strong>Вы уже управляли командой от 2-х до 5-ти человек. </strong>Умеете организовать работу команды и выстраивать процессы.</li> <li><strong>Вы hands-on специалист.</strong> Понимаете технические нюансы, можете сами подключиться к решению сложных задач, когда без вашей помощи никак.</li> </ul> <p> </p> <p><strong>Условия</strong></p> <ul> <li> <p>Зарплата обсуждается индивидуально, зависит от опыта и навыков.</p> </li> <li> <p>Оформляем по ТК РФ.</p> </li> <li> <p>Удаленка. Можете работать из любой точки мира.</p> </li> <li> <p>Фуллтайм.</p> </li> <li> <p>Внешнее обучение за счёт компании.</p> </li> <li> <p>Компенсация терапии.</p> </li> <li> <p>Безлимитная библиотека в Литрес.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "GitLab CI"
+    },
+    {
+      "name": "CI/CD"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Nginx"
+    },
+    {
+      "name": "Proxmox"
+    },
+    {
+      "name": "HAProxy"
+    },
+    {
+      "name": "Ansible"
+    },
+    {
+      "name": "Zabbix"
+    },
+    {
+      "name": "Grafana"
+    },
+    {
+      "name": "Graylog"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "Redis"
+    },
+    {
+      "name": "MongoDB"
+    },
+    {
+      "name": "SIP"
+    },
+    {
+      "name": "SRE"
+    },
+    {
+      "name": "DevOps"
+    },
+    {
+      "name": "SaaS"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "160",
+      "name": "DevOps-инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1194368",
+    "name": "Sipuni.com",
+    "url": "https://api.hh.ru/employers/1194368",
+    "alternate_url": "https://hh.ru/employer/1194368",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1419409.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7297285.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7297286.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1194368",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-19T20:27:49+0300",
+  "created_at": "2025-05-19T20:27:49+0300",
+  "initial_created_at": "2025-02-12T09:50:01+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=117127989",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/117127989",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

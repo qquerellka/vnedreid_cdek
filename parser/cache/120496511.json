@@ -1,0 +1,161 @@
+{
+  "id": "120496511",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "QA Engineer | Тестировщик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 30000,
+    "to": 60000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 30000,
+    "to": 60000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>RichBee</strong> - коммерческая студия разработки, разрабатывающая клиентские и собственные продукты.<br />Наша цель - повышение эффективности бизнеса за счёт облачных цифровых технологий.</p> <p>Основная специализация - ERP, TMS, MES и CRM системы.<br />Мы предлагаем полный спектр услуг от проектирования и внедрения решений до сервисной поддержки и обучения специалистов клиента.</p> <p><strong>Цифра</strong> - наш облачный подписочный сервис диспетчеризации<strong> </strong>и контроля для бетонной отрасли.</p> <p><strong>Ищем специалиста </strong>с небольшим, но всё же с коммерческим опытом, которого мы готовы обучать в процессе работы.</p> <p>Наш текущий стек: php8.0, laravel 8, postgres 15, vue 3</p> <p><strong>Что ты должен знать и уметь:</strong></p> <ul> <li> <p>Опыт работы с Postman</p> </li> <li>Навыки коммуникаций с разработчиками</li> <li>Функциональное ручное тестирование</li> <li>Работа в баг-трекинговых системах (jira/confluence)</li> <li>Умение работать с DevTools браузера</li> <li>Знание и понимание методологий тестирования, этапов разработки ПО, клиент-серверной архитектуры</li> <li>Понимание принципов работы front и backend приложений</li> <li>Понимание микросервисной архитектуры</li> <li>Желателен опыт проектирования баз данных</li> <li>Будет плюсом опыт разработки Vue.js и Laravel</li> <li>Будет большим плюсом опыт написание базовых автоматический тестов в Laravel или на другом стеке</li> </ul> <p><strong>Что будешь делать:</strong></p> <ul> <li>Работать в команде вместе с сильными разработчиками</li> <li>Проводить ручное тестирование</li> <li>Составлять баг-репорты по итогам тестирования, передавать их разработчикам, сопровождать исправления багов, проверять исправленные баги на стендах</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Оклад до 60 000 рублей. Если будешь активно расти в качестве и скорости своей работы, то соответствующее денежное вознаграждение не заставит себя ждать!</li> <li>Полностью удалённая работа</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Тестирование"
+    },
+    {
+      "name": "Ручное тестирование"
+    },
+    {
+      "name": "Atlassian Jira"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Laravel"
+    },
+    {
+      "name": "VueJS"
+    },
+    {
+      "name": "QA"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "Postman"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3996161",
+    "name": "RichBee",
+    "url": "https://api.hh.ru/employers/3996161",
+    "alternate_url": "https://hh.ru/employer/3996161",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/760260.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/3481997.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3481998.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3996161",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-13T21:05:38+0300",
+  "created_at": "2025-05-13T21:05:38+0300",
+  "initial_created_at": "2025-05-13T21:05:38+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120496511",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120496511",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

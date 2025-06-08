@@ -1,0 +1,171 @@
+{
+  "id": "120449287",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер-разработчик / инженер-программист / embedded developer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 150000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 150000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Комиссара Смирнова",
+    "building": "9",
+    "lat": 59.963084,
+    "lng": 30.350956,
+    "description": null,
+    "raw": "Санкт-Петербург, Комиссара Смирнова, 9",
+    "metro": {
+      "station_name": "Горьковская",
+      "line_name": "Московско-Петроградская",
+      "station_id": "15.216",
+      "line_id": "15",
+      "lat": 59.956112,
+      "lng": 30.31889
+    },
+    "metro_stations": [
+      {
+        "station_name": "Горьковская",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.216",
+        "line_id": "15",
+        "lat": 59.956112,
+        "lng": 30.31889
+      },
+      {
+        "station_name": "Площадь Ленина",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.197",
+        "line_id": "14",
+        "lat": 59.955611,
+        "lng": 30.35605
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Мы обеспечиваем надежную защиту, умный комфорт и умную экономию для 20 млн. автопользователей. И мы приглашаем к нам в команду <strong>embedded developer</strong></p> <p><strong>Что предстоит делать:</strong></p> <ul> <li>Разрабатывать программное обеспечение для автомобильных охранных комплексов StarLine</li> </ul> <p><strong>Что мы ожидаем от кандидатов:</strong></p> <ul> <li>Желание создавать уникальное охранное оборудование, осваивать новые области электроники, программирования и совершенствовать свои профессиональные навыки</li> <li>Отличное знание языка Си</li> <li>Опыт разработки приложений на Python</li> <li>Знание основ аналоговой и цифровой схемотехники</li> <li>Опыт разработки ПО для аналого-цифровых устройств</li> <li>Проекты, выполненные на микроконтроллерах STM32</li> <li>Технический английский</li> <li>Коммуникабельность, опыт работы в команде</li> </ul> <p><strong>Преимуществом будут</strong></p> <ul> <li>Работа с интерфейсами CAN, USB</li> <li>Детальное знание архитектуры Cortex-M7/M4/M3/M33/M0</li> <li>Использование RTOS для однокристальных МК, понимание примитивов синхронизации</li> <li>Опыт разработки криптографических систем</li> <li>Навыки использования багтрекеров и систем контроля версий</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Комфортный, современный офис в 7 минутах от ст.м. &quot;Площадь Ленина&quot;. Для велосипедистов есть велопарковка</li> <li>Релокационный пакет для кандидатов из других регионов :)</li> <li>Достойная оплата труда по результатам собеседования</li> <li>Официальное оформление с первого рабочего дня (отпуск, больничный по ТК РФ)</li> <li>ДМС со стоматологией</li> <li>Гибкий график работы</li> <li>Возможность проходить обучение, посещать тематические конференции и семинары</li> <li>Работа в команде профессионалов над интересными и сложными проектами</li> <li>Отлично оборудованное рабочее место</li> <li>Отдых в семейно-дружественном санатории СтарЛайн в Черногории</li> <li>Завтрак, обед и ужин во вкусном кафе на территории офиса</li> <li>Корпоративные мероприятия, спорт (волейбол, футбол, яхтенный спорт, йога, trx, массаж, тренажерный зал)</li> </ul>",
+  "branded_description": "\n<style>\n\n.tmpl_hh_vacancy_block {\n    display: none;\n}\n.UNSAFE-employer-branded-is-desktop .tmpl_hh_vacancy_block {\n    display: block;\n}\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    font-family: \"Arial\", sans-serif;\n    color: #000;\n    font-size: 14px;\n    line-height: 16px;\n    overflow: hidden;\n}\n.tmpl_hh_wrapper *{\n    box-sizing: border-box;\n}\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;    \n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-weight: normal;\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    margin: 0 0 10px;\n}\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    color: #F58220;\n    font-size: 20px;\n    line-height: 24px;\n    display: block;\n}\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong{\n    margin: 0;   \n    display: inline;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 22px;\n    list-style: none !important;\n    margin-bottom: 40px;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 10px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 8px;\n    margin-bottom: 8px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;    \n}\n\n.tmpl_hh_content li:before {\n    content: '';\n    position: absolute;\n    left: -18px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    width: 4px;\n    height: 4px;\n    border-radius: 100%;\n    background-color: #000;\n    left: -14px;\n    top: 6px;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter)'.';\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n.tmpl_hh_video {\n    position: relative;\n    width: 100%;\n}\n.tmpl_hh_video img,\n.tmpl_hh_video iframe {\n    position: absolute;\n    left: 0;\n    top: 0;\n    width: 100%;\n    height: 100%;\n}\n\n.tmpl_hh_wrapper img{\n    width: 100%;\n    display: block;\n}\n.tmpl_hh_content {\n    padding: 40px 40px 1px;\n}\n\n.tmpl_hh_header{\n    position: relative;\n}\n.tmpl_hh_header .tmpl_hh_logo{\n    width: 155px;\n    position: absolute;\n    top: 37px;\n    left: 40px;\n}\n.tmpl_hh_header b{\n    position: absolute;\n    top: 39%;\n    left: 40px;\n    color: #fff;\n    font-size: 32px;\n    line-height: 41px;\n}\n.tmpl_hh_values{\n    background: #0099E5;\n    display: flex;\n    justify-content: space-between;\n    flex-wrap: wrap;\n    padding: 22px 30px 24px;\n}\n.tmpl_hh_values .tmpl_hh_item{\n    text-align: center;\n    color: #fff;\n}\n.tmpl_hh_values b{\n    font-size: 28px;\n    line-height: 34px;\n    display: block;\n    margin-bottom: 2px;\n}\n\n.tmpl_hh_footer{\n    display: flex;\n    justify-content: space-between;\n    flex-wrap: wrap;\n    padding: 40px;\n}\n.tmpl_hh_footer .tmpl_hh_item{\n    padding: 22px 0 24px;\n    width: 31%;\n}\n.tmpl_hh_footer img{\n    width: 80px;\n    margin: 0 auto 16px;\n}\n.tmpl_hh_footer p{\n    text-align: center;\n}\n.tmpl_hh_footer .tmpl_hh_green{\n    background: rgba(153, 204, 102, 0.3);\n}\n.tmpl_hh_footer .tmpl_hh_blue{\n    background: rgba(0, 153, 229, 0.3);\n}\n.tmpl_hh_footer .tmpl_hh_orange{\n    background: rgba(255, 128, 0, 0.3);\n}\n.tmpl_hh_content .tmpl_hh_title{\n    margin-top: 40px;\n    display: block;\n}\n\n@media (max-width: 1019px) {\n    .tmpl_hh_footer .tmpl_hh_orange p br{\n        display: none;\n    }\n}\n\n@media (max-width: 699px) {\n\n    .tmpl_hh_header .tmpl_hh_logo{\n        width: 116px;\n        top: 40px;\n        left: 14px;\n    }\n    .tmpl_hh_header b{\n        left: 14px;\n        font-size: 26px;\n        line-height: 35px;\n    }\n    .tmpl_hh_content {\n        padding: 40px 14px 10px;\n    }\n    .tmpl_hh_content ol, .tmpl_hh_content ul{\n        margin-bottom: 30px;\n    }\n    .tmpl_hh_values{\n        padding: 31px 20px 9px;\n    }\n    .tmpl_hh_values .tmpl_hh_item{\n        width: 100%;\n        margin-bottom: 22px;\n    }\n    .tmpl_hh_footer{\n        padding: 30px 0;\n    }\n    .tmpl_hh_footer .tmpl_hh_item{\n        width: 100%;\n        margin-bottom: 20px;\n        padding: 22px 55px 24px;\n    }\n    .tmpl_hh_footer p br{\n        display: none;\n    }\n    .tmpl_hh_content .tmpl_hh_title{\n        margin-top: 30px;\n    }\n}\n\n</style>\n\n<script>\n//\n\n    function DOM_HH_Ready() {\n    \n    var lists = [].slice.call(document.querySelectorAll('.tmpl_hh_content ul, .tmpl_hh_content ol'));\n        lists.forEach(function(item){\n            var beforeEl = item.previousElementSibling;\n            beforeEl.classList.add('tmpl_hh_title');\n        });\n\n    }\n    if (document.readyState === \"loading\") {\n        document.addEventListener(\"DOMContentLoaded\", DOM_HH_Ready);\n    } else {\n        DOM_HH_Ready();\n    }\n\n//\n</script>\n\n    <div class=\"tmpl_hh_wrapper\">\n        <div class=\"tmpl_hh_header\">\n            <picture>\n                <source media=\"(max-width: 699px)\" srcset=\"https://hhcdn.ru/ichameleon/209911.jpg\"></source>\n                <img src=\"https://hhcdn.ru/ichameleon/209909.jpg\" srcset=\"https://hhcdn.ru/ichameleon/209910.jpg 2x\" alt=\"\">\n            </picture>\n            <img src=\"https://hhcdn.ru/ichameleon/209908.svg\" alt=\"\" class=\"tmpl_hh_logo\">\n            <b>Инновации<br>Разработка<br>Производство</b>\n        </div>\n        \n        <div class=\"tmpl_hh_content\">\n            <p>Мы обеспечиваем надежную защиту, умный комфорт и умную экономию для 20 млн. автопользователей. И мы приглашаем к нам в команду <strong>embedded developer</strong></p> <p><strong>Что предстоит делать:</strong></p> <ul> <li>Разрабатывать программное обеспечение для автомобильных охранных комплексов StarLine</li> </ul> <p><strong>Что мы ожидаем от кандидатов:</strong></p> <ul> <li>Желание создавать уникальное охранное оборудование, осваивать новые области электроники, программирования и совершенствовать свои профессиональные навыки</li> <li>Отличное знание языка Си</li> <li>Опыт разработки приложений на Python</li> <li>Знание основ аналоговой и цифровой схемотехники</li> <li>Опыт разработки ПО для аналого-цифровых устройств</li> <li>Проекты, выполненные на микроконтроллерах STM32</li> <li>Технический английский</li> <li>Коммуникабельность, опыт работы в команде</li> </ul> <p><strong>Преимуществом будут</strong></p> <ul> <li>Работа с интерфейсами CAN, USB</li> <li>Детальное знание архитектуры Cortex-M7/M4/M3/M33/M0</li> <li>Использование RTOS для однокристальных МК, понимание примитивов синхронизации</li> <li>Опыт разработки криптографических систем</li> <li>Навыки использования багтрекеров и систем контроля версий</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Комфортный, современный офис в 7 минутах от ст.м. \"Площадь Ленина\". Для велосипедистов есть велопарковка</li> <li>Релокационный пакет для кандидатов из других регионов :)</li> <li>Достойная оплата труда по результатам собеседования</li> <li>Официальное оформление с первого рабочего дня (отпуск, больничный по ТК РФ)</li> <li>ДМС со стоматологией</li> <li>Гибкий график работы</li> <li>Возможность проходить обучение, посещать тематические конференции и семинары</li> <li>Работа в команде профессионалов над интересными и сложными проектами</li> <li>Отлично оборудованное рабочее место</li> <li>Отдых в семейно-дружественном санатории СтарЛайн в Черногории</li> <li>Завтрак, обед и ужин во вкусном кафе на территории офиса</li> <li>Корпоративные мероприятия, спорт (волейбол, футбол, яхтенный спорт, йога, trx, массаж, тренажерный зал)</li> </ul></div>\n\n        <div class=\"tmpl_hh_values\">\n            <div class=\"tmpl_hh_item\">\n                <b>Топ 10</b>\n                <p>крупных высокотехнологичных\n                    <br>компаний России </p>\n            </div>\n            <div class=\"tmpl_hh_item\">\n                <b>1988</b>\n                <p>год основания\n                    <br>компании</p>\n            </div>\n            <div class=\"tmpl_hh_item\">\n                <b>58</b>\n                <p>стран мира пользуются продуктами \n                    <br>и сервисами НПО СтарЛайн</p>\n            </div>\n        </div>\n\n        <div class=\"tmpl_hh_footer\">\n            <div class=\"tmpl_hh_item tmpl_hh_green\">\n                <img src=\"https://hhcdn.ru/ichameleon/209906.svg\" alt=\"\">\n                <p>Корпоративный спорт\n                    <br>и мероприятия</p>\n            </div>\n            <div class=\"tmpl_hh_item tmpl_hh_blue\">\n                <img src=\"https://hhcdn.ru/ichameleon/209905.svg\" alt=\"\">\n                <p>Комфортные\n                    <br>рабочие места</p>\n            </div>\n            <div class=\"tmpl_hh_item tmpl_hh_orange\">\n                <img src=\"https://hhcdn.ru/ichameleon/209907.svg\" alt=\"\">\n                <p>Отличное питание в кафе\n                    <br>(завтрак, обед, ужин)</p>\n            </div>\n        </div>\n    </div>\n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Си"
+    },
+    {
+      "name": "Python"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": "ОР-3",
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3124",
+    "name": "СтарЛайн, Научно-производственное объединение",
+    "url": "https://api.hh.ru/employers/3124",
+    "alternate_url": "https://hh.ru/employer/3124",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1385963.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7163639.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7163640.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3124",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-13T09:17:18+0300",
+  "created_at": "2025-05-13T09:17:18+0300",
+  "initial_created_at": "2025-05-13T09:17:18+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120449287",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120449287",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

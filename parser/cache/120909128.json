@@ -1,0 +1,152 @@
+{
+  "id": "120909128",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": null,
+    "to": 250000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 250000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Dcloud</strong> — это сплоченное сообщество независимых разработчиков, основанное более 10 лет назад профессионалами из ведущих IT-компаний, таких как Epam, Luxoft и Accenture. Мы специализируемся на разработке проектов с нуля, сотрудничая с крупными корпорациями и известными стартапами.</p> <p><strong>Требуется (Soft-skills)</strong></p> <p>-ответственность и самодисциплина</p> <p>-умение эффективно использовать своё время и время команды</p> <p>-понимание рабочей этики (в общении с командой и заказчиком)</p> <p><strong>Опыт:</strong></p> <p>-работы системным аналитиком от 2-х лет</p> <p>-разработки проектной документации бизнес/системного уровня (ТЗ и спецификации)</p> <p>-работы с REST API, JSON, XML/брокерами сообщений</p> <p>-работы с логической моделью данных</p> <p>-работы с АБС.</p> <p><strong>Понимание:</strong></p> <p>-принципов и процесса разработки ПО в методологии agile</p> <p>-базового SQL</p> <p>-управления требованиями на всех этапах разработки ПО</p> <p>-построения и назначения диаграмм в нотациях UML, BPMN</p> <p><strong>Вам предстоит:</strong></p> <p>-сбор, анализ, формализация и согласование с заказчиками бизнес- требований</p> <p>-обсуждение и согласование технической реализации как внутри команды, так и со смежными командами</p> <p>-подготовка технических заданий на разработку ИС и интеграций ИС</p> <p>-участие в процессах постановки и оптимизации внутренних процессов (и это действительно так - мы слушаем, слышим и обсуждаем предложения оптимизации работы в команде)</p> <p>-управление требованиями и документацией</p> <p>-проработка REST-API по формату OpenAPI, формата сообщений для брокеров сообщений</p> <p>-отрисовка диаграмм (DFD, Sequence)</p> <p><strong>Будет плюсом:</strong></p> <p>-опыт работы : депозитарии, инвестиционные банки, брокерские компании, организаторы торгов на фондовом рынке (биржи и т.д.), регуляторные органы по фондовым рынкам</p> <p>-знание банковских стандартов и принципов жизненного цикла ППО</p> <p>-способность создать и эксплуатировать законченный контур производства / тестирования / вывода в промышленную эксплуатацию</p> <p>-способность организовать производство / доработку ППО в соответствии с заданными метриками</p> <p>-знание теории системного и бизнес анализа применительно к разработке ПО</p> <p>-понимание назначения методологиям Agile, ролей в команде, назначение и значение Scrum мастера</p> <p><strong>Что мы предлагаем:</strong></p> <p><em>Оформление</em>: ИП, оформление по ТК тоже возможно.</p> <p><em>График</em><strong>: </strong>5/2 с 9 до 18 или с 10 до 19 мск, возможно гибкое начало дня.</p> <p><em>Гибкость</em>: мы понимаем, что у каждого свои предпочтения, поэтому готовы обсудить наиболее удобные условия работы для вас.</p> <p><em>Формат работы:</em> полностью удаленная работа.</p> <p> </p> <p><strong>Присоединяйтесь к нам!</strong> Если вы готовы к новым вызовам и хотите работать на масштабных проектах, соответствующих вашему опыту и интересам, Dcloud — это то, что вам нужно. Мы ждем вас в нашей команде, где ваши идеи и опыт станут частью передовых решений!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Системный анализ"
+    },
+    {
+      "name": "Scrum"
+    },
+    {
+      "name": "BPMN"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Atlassian Jira"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "JSON API"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "148",
+      "name": "Системный аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "4770322",
+    "name": "DCloud",
+    "url": "https://api.hh.ru/employers/4770322",
+    "alternate_url": "https://hh.ru/employer/4770322",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/853705.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/3855695.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3855696.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4770322",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-23T13:45:00+0300",
+  "created_at": "2025-05-23T13:45:00+0300",
+  "initial_created_at": "2025-05-23T13:45:00+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120909128",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120909128",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

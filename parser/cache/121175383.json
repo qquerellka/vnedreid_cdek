@@ -1,0 +1,157 @@
+{
+  "id": "121175383",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Программист 1С",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 190000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 190000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "Чистопольская улица",
+    "building": "6",
+    "lat": 56.82337,
+    "lng": 60.683308,
+    "description": null,
+    "raw": "Екатеринбург, Чистопольская улица, 6",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <ul> <li>Автоматизация бизнес-процессов на базе 1С;</li> <li>Поддержка, доработка существующего функционала;</li> <li>Создание новых и доработка существующих объектов.</li> </ul> <strong>Требования:</strong> <ul> <li>Знание типовых конфигураций УТ 11.5, БП 3.0;</li> <li>Опыт работы и разработки на платформе 1С 8.3 (опыт работы с управляемыми формами)​​​​​​;</li> <li>Опыт разработки через расширения конфигурации;</li> <li>Опыт настройки обменов и работы с конвертацией данных;</li> <li>Знание механизмов СКД и RLS, запросы, HTTP и WEB сервисы;</li> <li>Знание архитектуры платформы 1С версии 8;</li> <li>Опыт работы с БСП;</li> </ul> <strong>Условия:</strong> <ul> <li>График работы: пятидневка (5/2) (с 8:00 или с 9:00 на выбор);</li> <li>Комфортный офис со своей парковкой;</li> <li>Скидки на продукцию компании;</li> <li>Работа в большом и дружном коллективе;</li> <li>Подарки в честь Дня Рождения и по праздникам;</li> <li>Официальное трудоустройство согласно ТК РФ, самозанятость, другие варианты;</li> <li>На время испытательного срока закрепляется наставник (непосредственно руководитель IT отдела);</li> <li><strong>Структура заработной платы: фиксированный оклад от 190 т.р.+ премии; </strong></li> <li><strong>Уровень заработной платы обсуждается во время собеседования. </strong></li> </ul> <p><strong>О компании:</strong> Компания ООО &quot;УралРегионИнструмент&quot;. Мы являемся оптово-торговой компанией с широким ассортиментом товаров, включая электроинструменты, бензоинструменты, бытовую технику, запчасти и комплектующие, а также одежду, новогодние товары, канцтовары и многое другое. У нас более 23000 SKU. Мы занимаемся продажей на маркетплейсах (Wildberries, Ozon, AliExpress, ЯндексМаркет, СберМаркет) и через розничные/оптовые магазины в Екатеринбурге, Тюмени. Мы продолжаем расширять наши сферы деятельности и приглашаем вас стать частью нашей команды!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "1С программирование"
+    },
+    {
+      "name": "1С: Управление Торговлей"
+    },
+    {
+      "name": "1С: Предприятие 8"
+    },
+    {
+      "name": "1С: Бухгалтерия"
+    },
+    {
+      "name": "Оптимизация бизнес-процессов"
+    },
+    {
+      "name": "Анализ бизнес-процессов"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9104053",
+    "name": "Уралрегионинструмент",
+    "url": "https://api.hh.ru/employers/9104053",
+    "alternate_url": "https://hh.ru/employer/9104053",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9104053",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-30T15:33:21+0300",
+  "created_at": "2025-05-30T15:33:21+0300",
+  "initial_created_at": "2025-05-30T15:33:21+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121175383",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121175383",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_9",
+      "name": "9 часов"
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "id": "120867889",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер-программист/МЭК: ST, LD/LAD, FBD",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 80000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 80000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "Сибирский тракт",
+    "building": "12с8",
+    "lat": 56.820035,
+    "lng": 60.652227,
+    "description": null,
+    "raw": "Екатеринбург, Сибирский тракт, 12с8",
+    "metro": {
+      "station_name": "Ботаническая",
+      "line_name": "Север-Юг",
+      "station_id": "48.270",
+      "line_id": "48",
+      "lat": 56.797487,
+      "lng": 60.633362
+    },
+    "metro_stations": [
+      {
+        "station_name": "Ботаническая",
+        "line_name": "Север-Юг",
+        "station_id": "48.270",
+        "line_id": "48",
+        "lat": 56.797487,
+        "lng": 60.633362
+      },
+      {
+        "station_name": "Геологическая",
+        "line_name": "Север-Юг",
+        "station_id": "48.267",
+        "line_id": "48",
+        "lat": 56.826715,
+        "lng": 60.603754
+      },
+      {
+        "station_name": "Чкаловская",
+        "line_name": "Север-Юг",
+        "station_id": "48.269",
+        "line_id": "48",
+        "lat": 56.808502,
+        "lng": 60.610698
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><em><strong>Инженерная группа ПЛАНА</strong></em> – <em>лидер российского рынка проектирования, производства и поставки очистных сооружений, сливных станций и установок очистки питьевой воды.</em></p> <p><strong>Обязанности:</strong></p> <ul> <li>разработка ППО для ЛСУ до 200 точек ввода/вывода ПЛК;</li> <li>наладка разработанного ППО на объектах заказчика;</li> <li>техподдержка наладчиков на объектах заказчика;</li> <li>совместная работа со смежными отделами организации;</li> <li>разработка необходимой документации (руководство оператора, руководство системного инженера и пр.)</li> </ul> <strong>Требования:</strong> <ul> <li>профильное образование (автоматизация и привод, программирование, электроэнергетика и пр.)</li> <li>базовые знания КИПиА, электротехники;</li> <li>умение читать технологические и электрические схемы;</li> <li>опыт работы в среде разработки EasyBuilder Pro и Codesys v 2.3</li> <li><em>готовы рассмотреть без опыта работы, всему научим!</em></li> </ul> <strong>Условия:</strong> <ul> <li>официальное оформление</li> <li>100% белая зп</li> <li> <p>ДМС</p> </li> <li> <p>социальный пакет (отпускные, оплата больничного).</p> </li> <li> <p>корпоративная связь, компенсация ГСМ.</p> </li> <li> <p>регулярное повышение профессиональных компетенций (наставник, обучение, участие в конференциях, конкурсах и т.п).</p> </li> <li>корпоративные мероприятия (спортивные/торжественные, подарки).</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "9823067",
+    "name": "Комкад",
+    "url": "https://api.hh.ru/employers/9823067",
+    "alternate_url": "https://hh.ru/employer/9823067",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1307093.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6848634.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6848635.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9823067",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-22T13:50:58+0300",
+  "created_at": "2025-05-22T13:50:58+0300",
+  "initial_created_at": "2025-05-22T13:50:58+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120867889",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120867889",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    },
+    {
+      "id": "HOURS_9",
+      "name": "9 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

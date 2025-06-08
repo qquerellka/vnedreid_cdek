@@ -1,0 +1,194 @@
+{
+  "id": "120896702",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер по тестированию",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "3-я Песчаная улица",
+    "building": "2А",
+    "lat": 55.791769,
+    "lng": 37.517006,
+    "description": null,
+    "raw": "Москва, 3-я Песчаная улица, 2А",
+    "metro": {
+      "station_name": "Зорге",
+      "line_name": "МЦК",
+      "station_id": "95.540",
+      "line_id": "95",
+      "lat": 55.787778,
+      "lng": 37.504444
+    },
+    "metro_stations": [
+      {
+        "station_name": "Зорге",
+        "line_name": "МЦК",
+        "station_id": "95.540",
+        "line_id": "95",
+        "lat": 55.787778,
+        "lng": 37.504444
+      },
+      {
+        "station_name": "Полежаевская",
+        "line_name": "Таганско-Краснопресненская",
+        "station_id": "7.114",
+        "line_id": "7",
+        "lat": 55.777201,
+        "lng": 37.517895
+      },
+      {
+        "station_name": "ЦСКА",
+        "line_name": "Большая кольцевая линия",
+        "station_id": "97.600",
+        "line_id": "97",
+        "lat": 55.78643,
+        "lng": 37.53502
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Транснефть-Технологии </strong>оказывает IT-услуги организациям системы «Транснефть» в области внедрения, технической эксплуатации и сопровождения корпоративных информационных систем и IT-инфраструктуры.</p> <p>Мы R&amp;D команда ООО &quot;Транснефть-Технологии&quot;, работающая над интересными проектами в сфере разработки программного обеспечения, автоматизируя ручной труд сотрудников ПАО &quot;Транснефть&quot;. Аналогов наших продуктов в мире практически не существует и каждый из них основан на результатах исследований, тестирования гипотез и математических изысканий. Мы проводим глубинные интервью, выявляем боли заинтересованных лиц, определяем слабые стороны существующего на производстве софта и исходя из полученных предпосылок формируем действительно полезный для конечного пользователя продукт.</p> <p>В данный момент расширяется команда qa для участия в новых проектах автоматизации транспортного, технологического и диспетчерского секторов ПАО &quot;Транснефть&quot; и нам нужны опытные и талантливые инженеры для тестирования клиент-серверных приложений с микросервисной архитектурой, знающие как хорошо покрыть функциональность тестами, способные применить оптимальные методы тестирования и грамотно оценить результаты.</p> <p><strong>Стек технологий:</strong></p> <ul> <li>backend на .NET 8;</li> <li>frontend на ANGULAR;</li> <li>микросервисы в k8s;</li> <li>CI/CD в GitLab;</li> <li>PostgreSQL;</li> <li>Автоматизация на Python + pytest</li> </ul> <p><strong>Обязанности:</strong></p> <ul> <li>Выполнение различных видов тестирования в соответствии с проектными задачами;</li> <li>Обнаружение, исследование и регистрация дефектов ПО, проверка исправлений</li> <li>Разработка, поддержка, ревью тестовых сценариев и планов тестирования;</li> <li>Оценка трудозатрат по выполнению проектных задач;</li> <li>Составление отчетов по результатам тестирования;</li> <li>Внесение обнаруженных ошибок в task tracking system и контроль их исправления;</li> <li>Подготовка отчетов о выполненной работе;</li> <li>Взаимодействие с сотрудниками других отделов.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Опыт в тестировании клиент-серверных приложений от 2 лет;</li> <li>Умение и желание обнаружить дефект, локализовать и грамотно изложить суть;</li> <li>Знание основ тестирования ПО (цели и задачи тестирования, виды тестирования, тест кейсы, тест план, методы создания тест кейсов) и желание развиваться в этой области;</li> <li>Навыки анализа требований, разработки и актуализации тестовых сценариев, тест-планов;</li> <li>Опыт работы с Postman;</li> <li>Знание SQL.</li> </ul> <p><strong>Желательно:</strong></p> <ul> <li>Опыт работы с Message Broker (Kafka, RabbitMQ);</li> <li>Опыт работы с Docker;</li> <li>Опыт проведения нагрузочного тестирования.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Работа в стабильной, развивающейся, аккредитованной ИТ-компании, высокий уровень дохода (оклад +ежемесячные и годовые премии)</li> <li>Широкий социальный пакет: ДМС (+стоматология), доплата к отпуску, частичная компенсация санаторно-курортного лечения и отдыха; скидки на фитнесс и др.</li> <li>График работы: с 09:00 до 18.00; пятница: до 16.45;</li> <li>Гибридный график работы;</li> <li>Уютный и комфортный офис в 15 минутах от м.Зорге, м. Полежаевская, м. ЦСКА</li> <li>Возможности карьерного и профессионального роста.</li> </ul> <p>​​​​​​​</p>",
+  "branded_description": "\n<style>\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;    \n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-weight: normal;\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    display: inline;\n    margin: 0;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    overflow: hidden;\n    font-family: 'Arial';\n    font-weight: 400;\n    font-size: 14px;\n    line-height: 17px;\n    color: #000;\n    z-index: 1;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_content {\n    padding: 33px 50px 33px 50px;\n    position: relative;\n    z-index: 1;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n   margin: 50px 0 30px;\n}\n\n.tmpl_hh_content b, \n.tmpl_hh_content strong {\n    display: inline-block;\n    font-weight: 700;\n    font-size: 20px;\n    line-height: 120%;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 25px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 17px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 17px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;    \n}\n\n.tmpl_hh_content li:before {\n    position: absolute;\n    left: -25px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"\";\n    width: 8px;\n    height: 8px;\n    border-radius: 50%;\n    top: 5px;\n    background: #000000;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter)'.';\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n\n.tmpl_hh_flex {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n}\n\n.tmpl_hh_header {\n    position: relative;\n}\n\np.tmpl_hh_header__text {\n    font-size: 30px;\n    line-height: 120%;\n    letter-spacing: 0.02em;\n    color: #173990;\n    position: absolute;\n    left: 50px;\n    bottom: 90px;\n}\n\n.tmpl_hh_header__logo {\n    position: absolute;\n    left: 50px;\n    top: 59px;\n}\n\n.tmpl_hh_about {\n    background: #EFF0F6;\n    position: relative;\n    padding: 40px 44% 17px 50px;\n}\n\n.tmpl_hh_about__photo {\n    position: absolute;\n    bottom: 11.5%;\n    right: 7%;\n    width: 26.5%;\n}\n\n.tmpl_hh_about ul {\n    list-style: none;\n}\n\n.tmpl_hh_about li {\n    position: relative;\n    padding-left: 28px;\n    margin-bottom: 21px;\n}\n\n.tmpl_hh_about li:before {\n    content: \"\";\n    position: absolute;\n    width: 10px;\n    height: 1px;\n    background: #000;\n    left: 0;\n    top: 8px;\n}\n\np.tmpl_hh_about__title {\n    font-weight: 700;\n    font-size: 20px;\n    line-height: 120%;\n    margin-bottom: 30px;\n}\n\n.tmpl_hh_footer {\n    font-weight: 700;\n    font-size: 20px;\n    line-height: 120%;\n    text-align: center;\n    color: #1F4FC9;\n    padding: 25px 0;\n}\n\n@media screen and (max-width: 1019px) {\n\n}\n\n@media screen and (max-width: 699px) {\n    .tmpl_hh_content {\n        padding: 32px 6px 23px;\n    }\n\n    .tmpl_hh_content p,\n    .tmpl_hh_content b,\n    .tmpl_hh_content strong {\n       margin: 30px 0 20px;\n    }\n\n    .tmpl_hh_content ol,\n    .tmpl_hh_content ul {\n        margin-left: 22px;\n    }\n\n    .tmpl_hh_content li:before {\n        left: -22px;\n    }\n\n    .tmpl_hh_content li {\n        margin-bottom: 14px;\n    }\n\n    .tmpl_hh_content ul ul,\n    .tmpl_hh_content ul ol,\n    .tmpl_hh_content ol ol,\n    .tmpl_hh_content ol ul {\n        margin-top: 14px;\n    }\n\n    p.tmpl_hh_header__text {\n        font-size: 4.6vw;\n        line-height: 120%;\n        left: 13px;\n        bottom: 25%;\n    }\n\n    .tmpl_hh_header__logo {\n        left: 13px;\n        top: 9%;\n        width: 44%;\n    }\n\n    .tmpl_hh_about {\n        padding: 20px 11px 20px 11px;\n    }\n\n    .tmpl_hh_about__photo {\n        position: relative;\n        bottom: 0;\n        right: 0;\n        margin: 0 auto;\n        width: 80%;\n    }\n\n    .tmpl_hh_about li {\n        margin-bottom: 21.5px;\n    }\n\n    p.tmpl_hh_about__title {\n        margin-bottom: 30px;\n    }\n\n    .tmpl_hh_footer {\n        padding: 33px 30px;\n    }\n}\n</style>\n\n<div class=\"tmpl_hh_wrapper\">\n    <div class=\"tmpl_hh_header\">\n        <div class=\"tmpl_hh_header__logo\"><img src=\"https://hhcdn.ru/ichameleon/255421.svg\" alt=\"\"></div>\n        <p class=\"tmpl_hh_header__text\">Аккредитованная<br> Минцифры ИТ-компания</p>\n        <div class=\"tmpl_hh_header__photo\"><img src=\"https://hhcdn.ru/ichameleon/255419.png\" alt=\"\"></div>\n    </div>\n    <div class=\"tmpl_hh_content\">\n        <p><strong>Транснефть-Технологии </strong>оказывает IT-услуги организациям системы «Транснефть» в области внедрения, технической эксплуатации и сопровождения корпоративных информационных систем и IT-инфраструктуры.</p> <p>Мы R&amp;D команда ООО \"Транснефть-Технологии\", работающая над интересными проектами в сфере разработки программного обеспечения, автоматизируя ручной труд сотрудников ПАО \"Транснефть\". Аналогов наших продуктов в мире практически не существует и каждый из них основан на результатах исследований, тестирования гипотез и математических изысканий. Мы проводим глубинные интервью, выявляем боли заинтересованных лиц, определяем слабые стороны существующего на производстве софта и исходя из полученных предпосылок формируем действительно полезный для конечного пользователя продукт.</p> <p>В данный момент расширяется команда qa для участия в новых проектах автоматизации транспортного, технологического и диспетчерского секторов ПАО \"Транснефть\" и нам нужны опытные и талантливые инженеры для тестирования клиент-серверных приложений с микросервисной архитектурой, знающие как хорошо покрыть функциональность тестами, способные применить оптимальные методы тестирования и грамотно оценить результаты.</p> <p><strong>Стек технологий:</strong></p> <ul> <li>backend на .NET 8;</li> <li>frontend на ANGULAR;</li> <li>микросервисы в k8s;</li> <li>CI/CD в GitLab;</li> <li>PostgreSQL;</li> <li>Автоматизация на Python + pytest</li> </ul> <p><strong>Обязанности:</strong></p> <ul> <li>Выполнение различных видов тестирования в соответствии с проектными задачами;</li> <li>Обнаружение, исследование и регистрация дефектов ПО, проверка исправлений</li> <li>Разработка, поддержка, ревью тестовых сценариев и планов тестирования;</li> <li>Оценка трудозатрат по выполнению проектных задач;</li> <li>Составление отчетов по результатам тестирования;</li> <li>Внесение обнаруженных ошибок в task tracking system и контроль их исправления;</li> <li>Подготовка отчетов о выполненной работе;</li> <li>Взаимодействие с сотрудниками других отделов.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Опыт в тестировании клиент-серверных приложений от 2 лет;</li> <li>Умение и желание обнаружить дефект, локализовать и грамотно изложить суть;</li> <li>Знание основ тестирования ПО (цели и задачи тестирования, виды тестирования, тест кейсы, тест план, методы создания тест кейсов) и желание развиваться в этой области;</li> <li>Навыки анализа требований, разработки и актуализации тестовых сценариев, тест-планов;</li> <li>Опыт работы с Postman;</li> <li>Знание SQL.</li> </ul> <p><strong>Желательно:</strong></p> <ul> <li>Опыт работы с Message Broker (Kafka, RabbitMQ);</li> <li>Опыт работы с Docker;</li> <li>Опыт проведения нагрузочного тестирования.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Работа в стабильной, развивающейся, аккредитованной ИТ-компании, высокий уровень дохода (оклад +ежемесячные и годовые премии)</li> <li>Широкий социальный пакет: ДМС (+стоматология), доплата к отпуску, частичная компенсация санаторно-курортного лечения и отдыха; скидки на фитнесс и др.</li> <li>График работы: с 09:00 до 18.00; пятница: до 16.45;</li> <li>Гибридный график работы;</li> <li>Уютный и комфортный офис в 15 минутах от м.Зорге, м. Полежаевская, м. ЦСКА</li> <li>Возможности карьерного и профессионального роста.</li> </ul> <p>​​​​​​​</p></div>\n    <div class=\"tmpl_hh_about\">\n        <p class=\"tmpl_hh_about__title\">Преимущества работы<br> в нашей команде:</p>\n        <ul>\n            <li>Интересные проекты разного масштаба и сложности</li>\n            <li>Обучающие тренинги для развития ключевых ИТ-компетенций</li>\n            <li>Команда профессионалов, готовых поддержать и обучить</li>\n            <li>Социальный пакет: ДМС, корпоративная пенсионная программа, дополнительные выплаты к отпуску, льготный санаторно-курортный отдых для сотрудников и членов их семей</li>\n            <li>Возможности для регулярных занятий спортом: участие в корпоративных спартакиадах, спортивные сообщества, премии за сдачу нормативов ГТО, скидки на занятия спортом</li>\n            <li>Комфортный гибкий режим работы</li>\n        </ul>\n        <div class=\"tmpl_hh_about__photo\">\n            <picture>\n                <source srcset=\"https://hhcdn.ru/ichameleon/255454.png\" media=\"(max-width: 699px)\"></source>\n                <img src=\"https://hhcdn.ru/ichameleon/255420.png\" alt=\"\">\n            </picture>\n        </div>\n    </div>\n    <div class=\"tmpl_hh_footer\">\n        <p>Присоединяйтесь к нашей команде!</p>\n    </div>\n</div> \n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Проведение тестирований"
+    },
+    {
+      "name": "Ручное тестирование"
+    },
+    {
+      "name": "Техническая документация"
+    },
+    {
+      "name": "Функциональное тестирование"
+    },
+    {
+      "name": "Тестирование пользовательского интерфейса"
+    },
+    {
+      "name": "Тестирование"
+    },
+    {
+      "name": ".NET 8"
+    },
+    {
+      "name": "CI/CD"
+    },
+    {
+      "name": "Gitlab"
+    },
+    {
+      "name": "Angular"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2163044",
+    "name": "Транснефть-Технологии",
+    "url": "https://api.hh.ru/employers/2163044",
+    "alternate_url": "https://hh.ru/employer/2163044",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1020779.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5703884.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5703885.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2163044",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-23T10:20:33+0300",
+  "created_at": "2025-05-23T10:20:33+0300",
+  "initial_created_at": "2025-05-23T10:20:33+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120896702",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120896702",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

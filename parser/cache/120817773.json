@@ -1,0 +1,163 @@
+{
+  "id": "120817773",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Ведущий Python-разработчик / Архитектор ПО (Новосибирск)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 280000,
+    "to": 350000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 280000,
+    "to": 350000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "улица Николаева",
+    "building": "12",
+    "lat": 54.857844,
+    "lng": 83.111807,
+    "description": null,
+    "raw": "Новосибирск, улица Николаева, 12",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Всем привет!</p> <p>На связи рекрутинговое агентство &quot;The One&quot;! Мы ищем и находим тех самых людей в высокотехнологичных сферах: IT и приборостроение, а также био- и нанотехнологии.</p> <p>Наши заказчики обращаются к нам, чтобы мы нашли специалистов, которых трудно найти — а мы очень стараемся, и поэтому находим. Возможно, прямо сейчас мы ищем именно вас. Поможете нам?</p> <p><strong>Кого и для кого мы ищем</strong></p> <p>Сейчас мы находимся в поиске <strong>Архитектора ПО</strong> в IT-компанию, которая занимается <strong>аналитикой и разработкой решений в области машинного обучения</strong>. Направления работы включают в себя встраиваемые нейронные сети, компьютерное зрение, аудиоаналитику, технологии обработки естественного языка, анализ данных, прогностические модели.</p> <p>Компания работает с заказчиками из разных сфер – это IT-отрасль, финансы, медицина, промышленность, безопасность, логистика и другие.</p> <p>Со своей стороны предлагаем широкие возможности влиять на выбор технологий и подходов, работу в команде единомышленников и атмосферу взаимоподдержки и постоянного профессионального роста :)</p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li> <p>Руководство процессом разработки реального прототипа системы оптической навигации;</p> </li> <li> <p>Разработка и оптимизация алгоритмов оптической навигации;</p> </li> <li> <p>Проектирование архитектуры приложения и контроль качества кода;</p> </li> <li> <p>Выстраивание процессов тестирования и интеграции периферийных устройств.</p> </li> </ul> <p><strong>Что мы ожидаем от кандидата:</strong></p> <ul> <li> <p>Опыт разработки на Python от 5 лет;</p> </li> <li> <p>Уверенные знания паттернов проектирования и опыт разработки архитектуры приложений;</p> </li> <li> <p>Знакомство с многопоточностью, понимание примитивов синхронизации и их применения;</p> </li> <li> <p>Знание методов передачи данных между потоками и процессами;</p> </li> <li> <p>Знание назначения CI/CD-пайплайнов и умение их создавать в GitLab или GitHub.</p> </li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li> <p>Знание C++ для взаимодействия со сторонними модулями на C/C++ и контроля их интеграции;</p> </li> <li> <p>Опыт проектирования или разработки приложений, напрямую работающих с аппаратным обеспечением.</p> </li> </ul> <p><strong>Что предлагается взамен:</strong></p> <ul> <li> <p>Оформление по ТК РФ (аккредитованная IT-компания);</p> </li> <li> <p>Заработная плата от 280 до 350 тыс. руб. на руки;</p> </li> <li> <p>ДМС после прохождения испытательного срока;</p> </li> <li> <p>Удаленный формат работы после прохождения испытательного срока (офис находится в Академпарке);</p> </li> <li> <p>Гибкий график по договоренности с руководителем;</p> </li> <li> <p>Погружение в сферу ML и интересные проекты;</p> </li> <li> <p>Прохождение курсов/участие в конференциях за счет компании;</p> </li> <li> <p>Дружелюбная атмосфера, поддержка инициатив;</p> </li> <li> <p>Офисные бенефиты: чай/кофе, массажное кресло, робособака :)</p> </li> </ul> <p><strong>Откликайтесь на вакансию — мы будем рады поделиться подробной информацией, пообщаться и ответить на ваши вопросы. Мы очень ждем!</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "OpenCV"
+    },
+    {
+      "name": "Numpy"
+    },
+    {
+      "name": "CI/CD"
+    },
+    {
+      "name": "GitLab CI"
+    },
+    {
+      "name": "GitHub"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5418368",
+    "name": "Рекрутинговое агентство The One",
+    "url": "https://api.hh.ru/employers/5418368",
+    "alternate_url": "https://hh.ru/employer/5418368",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1137284.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6169721.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6169722.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5418368",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-21T13:26:24+0300",
+  "created_at": "2025-05-21T13:26:24+0300",
+  "initial_created_at": "2025-05-21T13:26:24+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120817773",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120817773",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

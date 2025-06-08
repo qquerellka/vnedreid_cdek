@@ -1,0 +1,120 @@
+{
+  "id": "121179154",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист технической поддержки",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<h2><strong>Задачи, которые будут в твоих руках:</strong></h2> <ul> <li>администрирование ИС в зоне ответственности 2L;</li> <li>решение инцидентов и нетиповых запросов пользователей, участие в аварийно-восстановительных работах;</li> <li>взаимодействие с командами Развития (3L);</li> <li>описание и автоматизация типовых кейсов, передача скриптов и сценариев решения на нижележащие линии поддержки (0L / 1L).</li> </ul> <h2><strong>Что для этого нужно:</strong></h2> <ul> <li> <p>Уверенное знание SQL (написание запросов средней сложности, понимание основных видов объектов любой промышленной СУБД, предпочтительно PostgreSQL);</p> </li> <li> <p>Знание о системах мониторинга (Zabbix, Prometheus) и опыт самостоятельного выявления метрик для мониторинга;</p> </li> <li> <p>Понимание устройства и необходимости современных систем централизованного логирования (ELK / Loki и т.п.);</p> </li> <li> <p>Базовые знания Python/PHP на уровне Junior;</p> </li> <li> <p>Базовые навыки работы JS или jQuery.</p> </li> </ul> <h2><strong>Будет преимуществом:</strong></h2> <ul> <li> <p>Опыт работы с Wordpress;</p> </li> <li> <p>Опыт создания автоматизаций на N8N или подобных инструментах;</p> </li> <li> <p>Опыт работы с low-code/no-code инструментами/системами.</p> </li> </ul> <h2><strong>Наш основной технический стек:</strong></h2> <ul> <li>Монолит, Laravel, PHP;</li> <li>Микросервисы, Golang, Kotlin, Python;</li> <li>Фронтенды на Nuxt.js (Vue.js);</li> <li>Мобильные приложения - Swift, Kotlin, Flutter;</li> <li>RabbitMQ, Kafka;</li> <li>PostgreSQL, MySQL, Redis;</li> <li>Gitlab, Docker, Loki, ELK;</li> <li>Zabbix, Prometheus, Grafana;</li> <li>On-premise, AWS, AliCloud и прочие облака;</li> <li>Jira, Confluence, Slack.</li> </ul>",
+  "branded_description": "\n<style>\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;    \n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    display: inline;\n    margin: 0;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    font-family: Arial;\n    color: #000;\n    font-size: 16px;\n    line-height: 24px;\n    z-index: 1;\n    box-sizing: border-box;\n    overflow: hidden;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_content {\n    padding: 40px 44px 32px;\n    position: relative;\n    z-index: 1;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p+p {\n   margin: 21px 0 21px;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n   margin: 40px 0 21px;\n}\n\n.tmpl_hh_content b, \n.tmpl_hh_content strong {\n    display: inline-block;\n    font-size: 22px;\n    font-weight: 700;\n    line-height: 22px;\n}\n\n.tmpl_hh_content i b, \n.tmpl_hh_content i strong,\n.tmpl_hh_content em b, \n.tmpl_hh_content em strong,\n.tmpl_hh_content b em, \n.tmpl_hh_content strong em,\n.tmpl_hh_content b i, \n.tmpl_hh_content strong i {\n    display: inline-block;\n    font-weight: 700;\n    font-style: normal;\n    font-size: 16px;\n    line-height: 24px;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 24px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 8px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 8px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;    \n}\n\n.tmpl_hh_content li:before {\n    position: absolute;\n    left: -14px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"•\";\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter)'.';\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n\n.tmpl_hh_flex {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n}\n\n.tmpl_hh_header {\n    background: #000 url(https://hhcdn.ru/ichameleon/341756.svg) no-repeat;\n    margin: 40px 44px 0;\n    border-radius: 8px 8px 30px 8px;\n    padding: 22px 22px 16px;\n    position: relative;\n    overflow: hidden;\n    background-position: 0 82px;\n}\n\n.tmpl_hh_header__logo {\n    width: 75px;\n    margin-bottom: 54px;\n}\n\n.tmpl_hh_header__people {\n    width: 136px;\n}\n\n.tmpl_hh_header__card {\n    position: absolute;\n    top: 17px;\n    right: 20.3%;\n    width: 160px;\n}\n\n.tmpl_hh_header__svg {\n    position: absolute;\n    top: -19px;\n    right: -19px;\n}\n\n.tmpl_hh_about {\n    border: 1px solid #000000;\n    margin: 16px 44px 0;\n    border-radius: 8px;\n    padding: 24px 24px 22px;\n}\n\np.tmpl_hh_about__title {\n    font-size: 22px;\n    line-height: 22px;\n    font-weight: 700;\n    margin-bottom: 24px;\n}\n\n.tmpl_hh_offer {\n    margin: 0 44px;\n}\n\np.tmpl_hh_offer__title {\n    font-size: 22px;\n    font-weight: 700;\n    line-height: 22px;\n    margin-bottom: 39px;\n}\n\n.tmpl_hh_offer__item {\n    width: 48.8%;\n    font-size: 16px;\n    line-height: 19px;\n    margin-bottom: 35px;\n}\n\n.tmpl_hh_offer__icon {\n    width: 75px;\n    margin-bottom: 23px;\n}\n\n.tmpl_hh_footer {\n    display: flex;\n    justify-content: space-between;\n    margin: 0 44px;\n    align-items: flex-end;\n}\n\np.tmpl_hh_footnote {\n    padding: 25px 44px 32px;\n}\n\n@media screen and (max-width: 1019px) {\n    .tmpl_hh_offer__item {\n        width: 47%;\n    }\n}\n\n@media screen and (max-width: 699px) {\n    .tmpl_hh_wrapper {\n        width: auto;\n        margin: 0 -15px;\n    }\n\n    .tmpl_hh_content {\n        padding: 48px 16px 32px;\n    }\n\n    .tmpl_hh_header {\n        background: #000;\n        margin: 16px 16px 0;\n        padding: 21px 22px 24px;\n    }\n\n    .tmpl_hh_header__logo {\n        width: 75px;\n        margin-bottom: 72px;\n    }\n\n    .tmpl_hh_header__people {\n        width: 138px;\n        position: absolute;\n        top: 21px;\n        right: 11px;\n    }\n\n    .tmpl_hh_header__card {\n        position: relative;\n        top: 0;\n        right: 0;\n        width: 160px;\n    }\n\n    .tmpl_hh_header__svg {\n        position: absolute;\n        top: auto;\n        right: -26px;\n        bottom: 36px;\n    }\n\n    .tmpl_hh_about {\n        margin: 16px 16px 0;\n        padding: 24px 24px 22px;\n    }\n\n    .tmpl_hh_offer {\n        margin: 0 16px;\n    }\n\n    p.tmpl_hh_offer__title {\n        margin-bottom: 46px;\n    }\n\n    .tmpl_hh_offer__item {\n        width: 47.5%;\n        margin-bottom: 43.5px;\n    }\n\n    .tmpl_hh_footer {\n        display: flex;\n        justify-content: space-between;\n        margin: 0 16px;\n        -ms-flex-wrap: wrap;\n        flex-wrap: wrap;\n    }\n\n    .tmpl_hh_footer__bages {\n        width: 100%;\n        margin: 19px 8px 0 0;\n    }\n\n    p.tmpl_hh_footnote {\n        padding: 18px 16px;\n        font-size: 14px;\n    }\n}\n\n</style>\n\n<div class=\"tmpl_hh_wrapper\">\n    <div class=\"tmpl_hh_header\">\n        <div class=\"tmpl_hh_header__logo\"><img src=\"https://hhcdn.ru/ichameleon/341757.svg\" alt=\"\"></div>\n        <div class=\"tmpl_hh_header__people\"><img src=\"https://hhcdn.ru/ichameleon/341759.png\" alt=\"\"></div>\n        <div class=\"tmpl_hh_header__card\"><img src=\"https://hhcdn.ru/ichameleon/341758.png\" alt=\"\"></div>\n        <div class=\"tmpl_hh_header__svg\"><img src=\"https://hhcdn.ru/ichameleon/341754.svg\" alt=\"\"></div>\n    </div>\n    <div class=\"tmpl_hh_about\">\n        <p class=\"tmpl_hh_about__title\">Немного про компанию:</p>\n        <p>RoboFinance — разработчик fintech-продуктов, решений и технологий. С 2017 года наши решения дают миллионам клиентам в Азии и Европе доступ к финансам.</p>\n    </div>\n    <div class=\"tmpl_hh_content\">\n        <h2><strong>Задачи, которые будут в твоих руках:</strong></h2> <ul> <li>администрирование ИС в зоне ответственности 2L;</li> <li>решение инцидентов и нетиповых запросов пользователей, участие в аварийно-восстановительных работах;</li> <li>взаимодействие с командами Развития (3L);</li> <li>описание и автоматизация типовых кейсов, передача скриптов и сценариев решения на нижележащие линии поддержки (0L / 1L).</li> </ul> <h2><strong>Что для этого нужно:</strong></h2> <ul> <li> <p>Уверенное знание SQL (написание запросов средней сложности, понимание основных видов объектов любой промышленной СУБД, предпочтительно PostgreSQL);</p> </li> <li> <p>Знание о системах мониторинга (Zabbix, Prometheus) и опыт самостоятельного выявления метрик для мониторинга;</p> </li> <li> <p>Понимание устройства и необходимости современных систем централизованного логирования (ELK / Loki и т.п.);</p> </li> <li> <p>Базовые знания Python/PHP на уровне Junior;</p> </li> <li> <p>Базовые навыки работы JS или jQuery.</p> </li> </ul> <h2><strong>Будет преимуществом:</strong></h2> <ul> <li> <p>Опыт работы с Wordpress;</p> </li> <li> <p>Опыт создания автоматизаций на N8N или подобных инструментах;</p> </li> <li> <p>Опыт работы с low-code/no-code инструментами/системами.</p> </li> </ul> <h2><strong>Наш основной технический стек:</strong></h2> <ul> <li>Монолит, Laravel, PHP;</li> <li>Микросервисы, Golang, Kotlin, Python;</li> <li>Фронтенды на Nuxt.js (Vue.js);</li> <li>Мобильные приложения - Swift, Kotlin, Flutter;</li> <li>RabbitMQ, Kafka;</li> <li>PostgreSQL, MySQL, Redis;</li> <li>Gitlab, Docker, Loki, ELK;</li> <li>Zabbix, Prometheus, Grafana;</li> <li>On-premise, AWS, AliCloud и прочие облака;</li> <li>Jira, Confluence, Slack.</li> </ul></div>\n    <div class=\"tmpl_hh_offer\">\n        <p class=\"tmpl_hh_offer__title\">Нас любят сотрудники и есть за что:</p>\n        <div class=\"tmpl_hh_offer__items tmpl_hh_flex\">\n            <div class=\"tmpl_hh_offer__item\">\n                <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/341750.svg\" alt=\"\"></div>\n                <p>Удаленка или офис на твой выбор, а также гибкое начало рабочего дня</p>\n            </div>\n            <div class=\"tmpl_hh_offer__item\">\n                <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/341755.svg\" alt=\"\"></div>\n                <p>Зарплата в рынке и премии по результатам твоих достижений</p>\n            </div>\n            <div class=\"tmpl_hh_offer__item\">\n                <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/341752.svg\" alt=\"\"></div>\n                <p>ДМС с первого дня, компенсация спорта и английского</p>\n            </div>\n            <div class=\"tmpl_hh_offer__item\">\n                <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/341749.svg\" alt=\"\"></div>\n                <p>Подарки коллегам по особым случаям</p>\n            </div>\n            <div class=\"tmpl_hh_offer__item\">\n                <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/341748.svg\" alt=\"\"></div>\n                <p>Оплата обучений и регулярные 1:1</p>\n            </div>\n            <div class=\"tmpl_hh_offer__item\">\n                <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/341751.svg\" alt=\"\"></div>\n                <p>Мощное железо и все необходимые тебе ресурсы</p>\n            </div>\n        </div>\n    </div>\n    <div class=\"tmpl_hh_footer\">\n       <div class=\"tmpl_hh_footer__logo\"><img src=\"https://hhcdn.ru/ichameleon/341747.svg\" alt=\"\"></div>\n       <div class=\"tmpl_hh_footer__bages\">\n            <picture>\n               <source srcset=\"https://hhcdn.ru/ichameleon/341799.svg\" media=\"(max-width: 699px)\"></source>\n               <img src=\"https://hhcdn.ru/ichameleon/341753.svg\" alt=\"\">\n           </picture>\n        </div>\n    </div>\n    <p class=\"tmpl_hh_footnote\">ООО «Робофинанс»</p>  \n</div> \n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Zabbix"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2716012",
+    "name": "РобоФинанс",
+    "url": "https://api.hh.ru/employers/2716012",
+    "alternate_url": "https://hh.ru/employer/2716012",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1051131.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5825177.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5825178.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2716012",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-30T16:36:41+0300",
+  "created_at": "2025-05-30T16:36:41+0300",
+  "initial_created_at": "2025-05-30T16:36:41+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121179154",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121179154",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

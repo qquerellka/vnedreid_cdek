@@ -1,0 +1,149 @@
+{
+  "id": "121327693",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Android-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": null,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>«Городские технологии»</strong> - разработчик решений для «умных городов», производитель сложного оборудования и программного обеспечения на основе технологий ИИ, цифрового зрения и Big Data.</p> <p>В связи с увеличением количества регионов присутствия, ждем в команду <strong>разработчика Android</strong>, который поможет нам делать наши проекты еще лучше!</p> <p><strong>Рабочие задачи:</strong></p> <ul> <li>разрабатывать приложения для android в команде опытных разработчиков.</li> <li>участвовать в принятии технических решений и планировании процесса разработки.</li> <li>проектировать архитектуры android приложений.</li> <li>поддержка и развитие наших библиотек на github.</li> </ul> <p><strong>Что пригодится для решения:</strong></p> <ul> <li>опыт работы с Git</li> <li>знание Java/Kotlin и Android SDK</li> <li>понимание архитектуры мобильных приложений (Clean Architecture, MVx)</li> <li>уверенное владение RxJava2/Coroutines</li> <li>опыт работы с DI Dagger/Hilt</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>понимание особенностей сетевых запросов, Retrofit</li> <li>понимание принципов работы с базами данных, Room, Realm</li> <li>работа с компонентами Jetpack Work, Navigation, Compose</li> </ul> <p><strong>Будущему коллеге предлагаем:</strong></p> <ul> <li><strong>Дистанционная работа </strong>с графиком <strong>5/2 с 9.00 до 18.00 по МСК</strong></li> <li>Аккредитованную IT компанию.</li> <li>Меры социальной поддержки по ЛНА ГК &quot;Росатом&quot;</li> <li>Официальное трудоустройство, полностью &quot;белый&quot; доход.</li> <li>Высокотехнологичный продукт с миллионной аудиторией.</li> <li>Возможность решать амбициозные, сложные задачи и принимать важные технические решения.</li> <li> <p>Четкий фидбек, мотивирующие и поддерживающие руководители.</p> </li> <li> <p>Выстроенная система адаптации: за вами будет закреплен сотрудник, который полностью подготовит к самостоятельной работе.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Kotlin"
+    },
+    {
+      "name": "RxJava"
+    },
+    {
+      "name": "Android SDK"
+    },
+    {
+      "name": "Clean Architecture"
+    },
+    {
+      "name": "Retrofit"
+    },
+    {
+      "name": "Realm"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1305791",
+    "name": "Росатом Инфраструктурные Решения",
+    "url": "https://api.hh.ru/employers/1305791",
+    "alternate_url": "https://hh.ru/employer/1305791",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/966852.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5485848.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5485849.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1305791",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T11:10:31+0300",
+  "created_at": "2025-06-04T11:10:31+0300",
+  "initial_created_at": "2025-06-04T11:10:31+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121327693",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121327693",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_9",
+      "name": "9 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

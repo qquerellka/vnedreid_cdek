@@ -1,0 +1,175 @@
+{
+  "id": "121356737",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "BI Analyst",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "улица Петровка",
+    "building": "7",
+    "lat": 55.762237,
+    "lng": 37.617069,
+    "description": null,
+    "raw": "Москва, улица Петровка, 7",
+    "metro": {
+      "station_name": "Кузнецкий мост",
+      "line_name": "Таганско-Краснопресненская",
+      "station_id": "7.67",
+      "line_id": "7",
+      "lat": 55.761498,
+      "lng": 37.624423
+    },
+    "metro_stations": [
+      {
+        "station_name": "Кузнецкий мост",
+        "line_name": "Таганско-Краснопресненская",
+        "station_id": "7.67",
+        "line_id": "7",
+        "lat": 55.761498,
+        "lng": 37.624423
+      },
+      {
+        "station_name": "Охотный ряд",
+        "line_name": "Сокольническая",
+        "station_id": "1.98",
+        "line_id": "1",
+        "lat": 55.757228,
+        "lng": 37.615078
+      },
+      {
+        "station_name": "Театральная",
+        "line_name": "Замоскворецкая",
+        "station_id": "2.99",
+        "line_id": "2",
+        "lat": 55.758808,
+        "lng": 37.61768
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Корпоративный офис по управлению данными занимается разработкой внутренних продуктов для сбора и хранения данных, аналитических систем, корпоративной отчётности, data governance. В нашем арсенале такие решения как: DWH, BI, доменные хранилища данных (Data Mesh), MDM, Data Lake, шина данных, каталог данных, виртуализация данных.</p> <p><em>Если вы получаете удовольствие от структурирования и визуализации данных, хотите помогать бизнесу принимать правильные решения на основании анализа показателей, то мы ждем вас на позиции <strong>Bi-аналитика </strong>на проекте Отдела корпоративной отчетности.</em></p><br /><strong>Чем предстоит заниматься:</strong> <ul> <li>Разрабатывать корпоративную отчетность (дашбордов);</li> <li>Управлять пулом отчетов/дашбордов, как продуктом;</li> <li>Разбираться в данных заказчика и специфике работы подразделений;</li> <li>Решать инциденты связанные с работой системы BI;</li> <li>Собирать и анализировать требования от заказчика к витринам данных;</li> <li>Анализировать источники данных;</li> <li>Участвовать в развитии культуры работы с данными (консультировать и обучать сотрудников подразделений в рамках self-service аналитики, вести словарь терминов и т.д.);</li> </ul> <strong>Что мы ждем от кандидата:</strong> <ul> <li>Умение преобразовывать сложные данные в понятные визуализации и отчеты;</li> <li>Знание основ БД;</li> <li>Знание SQL на уровне запросов;</li> </ul> <strong>Будет плюсом:</strong> <ul> <li>Опыт работы в проектах, связанных с хранилищами данных и/или автоматизации отчетности;</li> <li>Опыт работы бизнес-аналитиком или продуктовым-аналитиком;</li> <li>Опыт работы с Tableau или другими BI-системами (Power BI, FineBI);</li> </ul> <strong>Мы предлагаем:</strong> <ul> <li>Работать из офиса в самом центре Москвы или выбрать гибридный график;</li> <li>Летать по корпоративным тарифам S7 Airlines. Спойлер: почти бесплатно!</li> <li> <p>Заботиться о себе: ДМС после испытательного срока, бесплатные тренировки и безлимитные консультации юристов, психологов и других специалистов;</p> </li> <li> <p>Развиваться и расти: обучение по профилю — за наш счет!</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": {
+    "id": 43091,
+    "name": "ЗАО (офис)",
+    "top_picture": {
+      "height": 560,
+      "width": 1539,
+      "path": "https://img.hhcdn.ru/branding-pictures/2886373.jpeg",
+      "blurred_path": null
+    },
+    "bottom_picture": {
+      "height": 704,
+      "width": 1540,
+      "path": "https://img.hhcdn.ru/branding-pictures/2886384.jpeg",
+      "blurred_path": null
+    }
+  },
+  "key_skills": [
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Tableau"
+    },
+    {
+      "name": "Power BI"
+    },
+    {
+      "name": "Аналитическое мышление"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "156",
+      "name": "BI-аналитик, аналитик данных"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "766468",
+    "name": "S7 Group",
+    "url": "https://api.hh.ru/employers/766468",
+    "alternate_url": "https://hh.ru/employer/766468",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=766468",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T23:00:37+0300",
+  "created_at": "2025-06-04T23:00:37+0300",
+  "initial_created_at": "2025-06-04T23:00:37+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121356737",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121356737",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

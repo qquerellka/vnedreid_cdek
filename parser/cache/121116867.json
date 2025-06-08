@@ -1,0 +1,125 @@
+{
+  "id": "121116867",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер-программист",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "Посадская улица",
+    "building": "23",
+    "lat": 56.823853,
+    "lng": 60.569492,
+    "description": null,
+    "raw": "Екатеринбург, Посадская улица, 23",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Мы, компания “РегЛаб”, входим в группу компаний “Прософт-Системы”.</p> <p>Уверены, что умная автоматизация — залог экономичности, безопасности и эффективности современных предприятий. Делаем мир лучше с помощью инженерных решений!</p> <p>Мы создаём уникальный продукт — контроллеры Regul и программное обеспечение AstraRegul, позволяющие автоматизировать самые сложные технологические процессы.<br />Наш штат насчитывает 300+ человек, и мы продолжаем активно расти. Работать с нами — оказаться в компании единомышленников, которым важно, что и как они делают.<br />И сейчас мы находимся в поиске<strong> Инженера-программиста С++</strong></p> <p><strong>Вам предстоит:</strong></p> <ul> <li>Разработка программного обеспечения системы вибродиагностики.</li> <li>Обработка данных с АЦП, работа с базами данных, визуализация архивных данных в виде графиков, гистограмм, численных значений.</li> <li>Разработка прикладного программного обеспечения для АСУ ТП в том числе разработка ПО операторских станций и панелей на базе HMI и SCADA.</li> <li>Развертывание рабочих станций, настройка операционной системы (Astra Linux и Windows).</li> <li>Работа с виртуальными машинами.</li> <li>Работа с сетевым оборудованием.​​​​​​​</li> </ul> <p><strong>Мы ожидаем:</strong></p> <ul> <li>Языки программирования С# (это не является обязательным, но приветствуется) </li> <li>Знание концепции объектно-ориентированного программирования.</li> <li>Понимание сетевой модели OSI.</li> <li>Знание протоколов передачи данных ModBus RTU, ModBus TCP/IP, OPC DA, OPC UA.</li> </ul>",
+  "branded_description": "\n<style>/*06.09.2024-hh-team-007*/\n.hht-vacancydescription {\n  padding: 0;\n}\n\n.tmpl_hh_wrapper {\n  position: relative;\n  z-index: 1;\n  overflow: hidden;\n  width: 100%;\n  max-width: 690px;\n  margin: 0 auto;\n  font-weight: 400;\n  font-size: 16px;\n  font-family: Arial, sans-serif;\n  line-height: 22px;\n  letter-spacing: 0.01em;\n  word-break: normal;\n}\n\n@media (max-width: 1019px) {\n  .tmpl_hh_wrapper {\n    max-width: 610px;\n  }\n}\n\n.tmpl_hh_wrapper p, .tmpl_hh_wrapper h1, .tmpl_hh_wrapper h2, .tmpl_hh_wrapper h3, .tmpl_hh_wrapper h4, .tmpl_hh_wrapper h5, .tmpl_hh_wrapper h6, .tmpl_hh_wrapper a, .tmpl_hh_wrapper img, .tmpl_hh_wrapper ol, .tmpl_hh_wrapper ul, .tmpl_hh_wrapper li {\n  vertical-align: baseline;\n  margin: 0;\n  padding: 0;\n  border: 0;\n  font-weight: inherit;\n  font-size: inherit;\n}\n\n.tmpl_hh_wrapper ul {\n  list-style: none;\n}\n\n.tmpl_hh_wrapper a {\n  text-decoration: none;\n}\n\n.tmpl_hh_wrapper a:hover {\n  color: inherit;\n}\n\n.tmpl_hh_wrapper img {\n  display: block;\n}\n\n.tmpl_hh_wrapper button {\n  display: block;\n  padding: 0;\n  border: none;\n  background-color: transparent;\n  outline: none;\n  cursor: pointer;\n}\n\n.tmpl_hh_wrapper button svg {\n  cursor: pointer;\n}\n\n.tmpl_hh_wrapper .l-cell, .tmpl_hh_wrapper .l-paddings {\n  padding: 0 !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n  margin-top: 0 !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n  overflow: visible !important;\n  line-height: inherit;\n}\n\n.tmpl_hh_content ol li b, .tmpl_hh_content ol li strong, .tmpl_hh_content ol li p b, .tmpl_hh_content ol li p strong, .tmpl_hh_content ul li b, .tmpl_hh_content ul li strong, .tmpl_hh_content ul li p b, .tmpl_hh_content ul li p strong {\n  margin: 0 !important;\n  color: inherit !important;\n  font-size: inherit !important;\n  line-height: inherit;\n  text-transform: none;\n}\n\n.tmpl_hh_content ol li p, .tmpl_hh_content ul li p {\n  margin: 0;\n  font-weight: normal;\n}\n\n.tmpl_hh_content p {\n  margin-bottom: 16px;\n}\n\n.tmpl_hh_content p b, .tmpl_hh_content p strong {\n  display: inline;\n  margin: 0;\n}\n\n.tmpl_hh_content ol, .tmpl_hh_content ul {\n  margin-bottom: 32px;\n  margin-left: 18px;\n  list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n  counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n  position: relative;\n  margin-bottom: 8px;\n  font-size: 16px;\n}\n\n.tmpl_hh_content li:last-child {\n  margin-bottom: 0;\n}\n\n.tmpl_hh_content ul ul, .tmpl_hh_content ul ol, .tmpl_hh_content ol ol, .tmpl_hh_content ol ul {\n  margin-top: 14px;\n}\n\n.tmpl_hh_content ol > li {\n  counter-increment: list_counter;\n}\n\n.tmpl_hh_content ul > li::before {\n  content: \"\";\n  position: absolute;\n  top: 9px;\n  left: -18px;\n  width: 5px;\n  height: 5px;\n  border-radius: 100%;\n  background-color: #000;\n}\n\n.tmpl_hh_content ol > li::before {\n  content: counter(list_counter) \".\";\n  right: 100%;\n  left: auto;\n  margin-right: 2px;\n}\n\n.tmpl_hh_content :last-child {\n  margin-bottom: 0;\n}\n\n/* stylelint-disable block-no-empty */\n\n/* stylelint-enable block-no-empty */\n\n.tmpl_hh_wrapper {\n  box-sizing: border-box;\n  color: #000;\n  font-size: 16px;\n  line-height: 120%;\n}\n\n.tmpl_hh_wrapper .tmpl_hh_designation {\n  color: #b5b5b5;\n  font-size: 14px;\n  line-height: 120%;\n}\n\n.tmpl_hh_wrapper h3.tmpl_hh_title {\n  color: #fff;\n  font-weight: 700;\n  font-size: 20px;\n  line-height: 26px;\n  letter-spacing: 0.5px;\n  text-transform: uppercase;\n}\n\n.tmpl_hh_flex {\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n}\n\n.tmpl_hh_header {\n  position: relative;\n  padding-top: 47.8260869565%;\n  background: url(\"https://hhcdn.ru/ichameleon/385540.png\") no-repeat left/cover;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_header {\n    padding-top: 75.78125%;\n    background: url(\"https://hhcdn.ru/ichameleon/385539.png\") no-repeat center/cover;\n  }\n}\n\n.tmpl_hh_header-content {\n  position: absolute;\n  top: 0;\n  left: 0;\n  width: 100%;\n  height: 100%;\n}\n\n.tmpl_hh_header-container {\n  display: flex;\n  flex-direction: column;\n  gap: 30px;\n  padding: 12% 11% 19%;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_header-container {\n    gap: 16px;\n    padding: 12% 15% 23% 12%;\n  }\n}\n\n.tmpl_hh_header-container > img {\n  width: 213px;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_header-container > img {\n    width: 190px;\n  }\n}\n\n.tmpl_hh_content {\n  padding: 50px;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_content {\n    padding: 40px 20px;\n  }\n}\n\n.tmpl_hh_content p.tmpl_hh_content_title, .tmpl_hh_content b.tmpl_hh_content_title, .tmpl_hh_content strong.tmpl_hh_content_title {\n  margin-bottom: 18px;\n  font-weight: 700;\n  font-size: 16px;\n  line-height: 22px;\n}\n\n.tmpl_hh_content p.tmpl_hh_content_title--first, .tmpl_hh_content b.tmpl_hh_content_title--first, .tmpl_hh_content strong.tmpl_hh_content_title--first {\n  margin-top: 40px;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_content p.tmpl_hh_content_title--first, .tmpl_hh_content b.tmpl_hh_content_title--first, .tmpl_hh_content strong.tmpl_hh_content_title--first {\n    margin-top: 30px;\n  }\n}\n\n.tmpl_hh_content p.tmpl_hh_content_title > b, .tmpl_hh_content p.tmpl_hh_content_title > strong {\n  font-weight: 700;\n  font-size: 16px;\n  line-height: 22px;\n}\n\n.tmpl_hh_content p {\n  margin-bottom: 16px;\n  font-size: 16px;\n  line-height: 120%;\n}\n\n.tmpl_hh_content li {\n  margin-bottom: 6px;\n  font-size: 16px;\n  line-height: 120%;\n}\n\n.tmpl_hh_content ul {\n  margin: 18px 0 40px 18px;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_content ul {\n    margin: 18px 0 30px 18px;\n  }\n}\n\n.tmpl_hh_content ul > li::before {\n  top: 6px;\n}\n\n.tmpl_hh_content__text {\n  display: flex;\n  flex-direction: column;\n  gap: 16px;\n  margin-bottom: 40px;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_content__text {\n    margin-bottom: 30px;\n  }\n}\n\n.tmpl_hh_content__text p {\n  margin: 0;\n}\n\n.tmpl_hh_content__text span {\n  font-weight: 700;\n}\n\n.tmpl_hh_content__items {\n  display: flex;\n  flex-direction: column;\n  padding-top: 50px;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_content__items {\n    padding-top: 40px;\n  }\n}\n\n.tmpl_hh_content__items > h3 {\n  margin-bottom: 20px;\n  font-weight: 700;\n  font-size: 16px;\n  line-height: 22px;\n}\n\n.tmpl_hh_content__items > ul {\n  display: grid;\n  grid-template-columns: repeat(2, 1fr);\n  gap: 30px;\n  margin: 0;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_content__items > ul {\n    grid-template-columns: 1fr;\n    gap: 20px;\n  }\n}\n\n.tmpl_hh_content__items > ul > li {\n  display: flex;\n  gap: 16px;\n  margin: 0;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_content__items > ul > li {\n    gap: 12px;\n  }\n}\n\n@media (min-width: 1020px) {\n  .tmpl_hh_content__items > ul > li:nth-of-type(1), .tmpl_hh_content__items > ul > li:nth-of-type(3) {\n    width: 298px;\n  }\n}\n\n@media (min-width: 1020px) {\n  .tmpl_hh_content__items > ul > li:nth-of-type(2), .tmpl_hh_content__items > ul > li:nth-of-type(4) {\n    width: 260px;\n  }\n}\n\n.tmpl_hh_content__items > ul > li::before {\n  content: none;\n}\n\n.tmpl_hh_content__items > ul > li > img {\n  flex-shrink: 0;\n  width: 48px;\n  height: 40px;\n}\n\n.tmpl_hh_content__items > ul > li > p {\n  font-size: 14px;\n  line-height: 120%;\n  letter-spacing: normal;\n}\n\n.tmpl_hh_footer-up {\n  position: relative;\n  padding-top: 30.2898550725%;\n  background: url(\"https://hhcdn.ru/ichameleon/385541.png\") no-repeat center/cover;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_footer-up {\n    padding-top: 0;\n    background: url(\"https://hhcdn.ru/ichameleon/385547.png\") no-repeat center/cover;\n  }\n}\n\n.tmpl_hh_footer-up__container {\n  position: absolute;\n  top: 0;\n  left: 0;\n  width: 100%;\n  height: 100%;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_footer-up__container {\n    position: static;\n  }\n}\n\n.tmpl_hh_footer-up__container > h3 {\n  padding: 15% 7% 9%;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_footer-up__container > h3 {\n    padding: 73px 60px 49px 20px;\n  }\n}\n\n@media (max-width: 413px) {\n  .tmpl_hh_footer-up__container > h3 {\n    padding: 73px 20px 49px;\n  }\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_footer-up__container > h3 br {\n    display: none;\n  }\n}\n\n.tmpl_hh_footer-down {\n  padding: 16px 50px;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_footer-down {\n    padding: 16px 20px;\n  }\n}\n\n.tmpl_hh_footer-down > p {\n  font-size: 12px;\n  line-height: 14px;\n  opacity: 0.5;\n}\n</style>\n<div>\n    <div class=\"tmpl_hh_wrapper\">\n      <header class=\"tmpl_hh_header\">\n        <div class=\"tmpl_hh_header-content\">\n          <div class=\"tmpl_hh_header-container\">\n            <img src=\"https://hhcdn.ru/ichameleon/385542.svg\" alt=\"logo\">\n            <h3 class=\"tmpl_hh_title\">\n              Автоматизируем настоящее, <br>\n              проектируем будущее\n            </h3>\n          </div>\n        </div>\n      </header>\n      <main class=\"tmpl_hh_content\">\n        <p>Мы, компания “РегЛаб”, входим в группу компаний “Прософт-Системы”.</p> <p>Уверены, что умная автоматизация — залог экономичности, безопасности и эффективности современных предприятий. Делаем мир лучше с помощью инженерных решений!</p> <p>Мы создаём уникальный продукт — контроллеры Regul и программное обеспечение AstraRegul, позволяющие автоматизировать самые сложные технологические процессы.<br>Наш штат насчитывает 300+ человек, и мы продолжаем активно расти. Работать с нами — оказаться в компании единомышленников, которым важно, что и как они делают.<br>И сейчас мы находимся в поиске<strong> Инженера-программиста С++</strong></p> <p><strong>Вам предстоит:</strong></p> <ul> <li>Разработка программного обеспечения системы вибродиагностики.</li> <li>Обработка данных с АЦП, работа с базами данных, визуализация архивных данных в виде графиков, гистограмм, численных значений.</li> <li>Разработка прикладного программного обеспечения для АСУ ТП в том числе разработка ПО операторских станций и панелей на базе HMI и SCADA.</li> <li>Развертывание рабочих станций, настройка операционной системы (Astra Linux и Windows).</li> <li>Работа с виртуальными машинами.</li> <li>Работа с сетевым оборудованием.​​​​​​​</li> </ul> <p><strong>Мы ожидаем:</strong></p> <ul> <li>Языки программирования С# (это не является обязательным, но приветствуется) </li> <li>Знание концепции объектно-ориентированного программирования.</li> <li>Понимание сетевой модели OSI.</li> <li>Знание протоколов передачи данных ModBus RTU, ModBus TCP/IP, OPC DA, OPC UA.</li> </ul><div class=\"tmpl_hh_content__items\">\n          <h3>И о том, почему у нас хорошо:</h3>\n          <ul>\n            <li>\n              <img src=\"https://hhcdn.ru/ichameleon/385564.svg\" alt=\"\">\n              <p>\n                У нас стабильная работа. Мы соблюдаем закон и оформляем по ТК РФ с первого дня, выплачиваем квартальные\n                и годовые премии.\n              </p>\n            </li>\n            <li>\n              <img src=\"https://hhcdn.ru/ichameleon/385537.png\" alt=\"\">\n              <p>Корпоративное обучение: участие в тренингах за счет компании + собственные курсы.</p>\n            </li>\n            <li>\n              <img src=\"https://hhcdn.ru/ichameleon/385534.svg\" alt=\"\">\n              <p>\n                Один из приоритетов компании — забота о здоровье и благополучии сотрудников. Оформляем полис ДМС,\n                компенсируем стоимость спортивного абонемента.\n              </p>\n            </li>\n            <li>\n              <img src=\"https://hhcdn.ru/ichameleon/385535.svg\" alt=\"\">\n              <p>\n                «РегЛаб» создают люди. Работаем в команде профессионалов, решающих сложные задачи и находящих\n                нестандартные решения.\n              </p>\n            </li>\n          </ul>\n        </div>\n      </main>\n      <footer class=\"tmpl_hh_footer\">\n        <div class=\"tmpl_hh_footer-up\">\n          <div class=\"tmpl_hh_footer-up__container\">\n            <h3 class=\"tmpl_hh_title\">\n              Присоединяйтесь, чтобы вместе <br>\n              создать инженерное будущее!\n            </h3>\n          </div>\n        </div>\n        <div class=\"tmpl_hh_footer-down\">\n          <p>Подбор сотрудников осуществляется в ООО РЕГЛАБ</p>\n        </div>\n      </footer>\n    </div>\n  </div>\n<script>\n//\n\n\nconst main = \"\";\nconst customTitle = () => {\n  const allUl = document.querySelectorAll(\".tmpl_hh_content ul\");\n  allUl.forEach((ul, i) => {\n    const ulTitle = ul.previousElementSibling;\n    if (ulTitle) {\n      ulTitle.classList.add(\"tmpl_hh_content_title\");\n      if (i === 0) {\n        ul.previousElementSibling.classList.add(\"tmpl_hh_content_title--first\");\n      }\n    }\n  });\n};\ndocument.addEventListener(\"DOMContentLoaded\", () => {\n  try {\n    customTitle();\n  } catch (error) {\n    console.log(error);\n  }\n});\n\n\n//\n</script>\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11217385",
+    "name": "РегЛаб",
+    "url": "https://api.hh.ru/employers/11217385",
+    "alternate_url": "https://hh.ru/employer/11217385",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1391096.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7184171.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7184172.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11217385",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T10:08:42+0300",
+  "created_at": "2025-06-06T10:08:42+0300",
+  "initial_created_at": "2025-05-29T11:01:27+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121116867",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121116867",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

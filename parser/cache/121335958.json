@@ -1,0 +1,182 @@
+{
+  "id": "121335958",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Бизнес-аналитик/системный аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 80000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 80000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": null,
+    "lng": null,
+    "description": null,
+    "raw": null,
+    "metro": {
+      "station_name": "Сокол",
+      "line_name": "Замоскворецкая",
+      "station_id": "2.133",
+      "line_id": "2",
+      "lat": 55.805564,
+      "lng": 37.515245
+    },
+    "metro_stations": [
+      {
+        "station_name": "Сокол",
+        "line_name": "Замоскворецкая",
+        "station_id": "2.133",
+        "line_id": "2",
+        "lat": 55.805564,
+        "lng": 37.515245
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>Работа в проектах по автоматизации бизнес-процессов на базе low-code BPMS</li> <li>Анализ и моделирование бизнес-процессов Заказчика «как есть» и «будет» в нотации BPMN</li> <li>Cбор, анализ и консолидация требований Заказчика (интервью и фиксация результатов), устранение противоречивости требований</li> <li>Сбор и формализация функциональных требований</li> <li>Изучение документации и отчетности Заказчика</li> <li>Разработка технических заданий на автоматизацию бизнес-процессов на базе low-code BPMS</li> <li>Тестирование разработанного решения/функционала</li> <li>Коммуникация с внутренним заказчиком по задачам и ошибкам</li> <li>Участие в разработке необходимой технической документации</li> <li>Консультирование и обучение ключевого функционального заказчика, разработка и актуализация пользовательской документации</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Высшее образование (математическое, информационные технологии)</li> <li>Также рассматриваются кандидаты последних курсов или после окончания ВУЗов</li> <li>Знания и опыт разработки моделей процессов в BPMN 2.0</li> <li>Знания по разработке технического задания на автоматизацию бизнес-процессов</li> <li>Навыки разработки пользовательских инструкций</li> <li>Ключевое преимущество: опыт внедрения BPMS, ECM, CRM или конкурентных решений</li> <li>Позитивный настрой и отношение к работе</li> <li>Желательно знание и понимание основ ООП, БД</li> </ul> <strong>Условия:</strong> <ul> <li>Работа в российской аккредитованной ИТ-компании</li> <li>Оформление по ТК РФ, полностью белая ЗП</li> <li>Офис оснащен кондиционерами, бесплатные напитки (кофе, чай, прочее)</li> <li>График работы с 9.00 до 18.00 или 10.00 до 19.00</li> <li>Заработная плата обсуждается</li> <li>Возможность профессионального и материального развития</li> <li>Отсутствие строгого дресс-кода</li> <li>Дружный молодой коллектив</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "BPMN"
+    },
+    {
+      "name": "Моделирование бизнес процессов"
+    },
+    {
+      "name": "Проведение опросов"
+    },
+    {
+      "name": "Разработка проектной документации"
+    },
+    {
+      "name": "BPM"
+    },
+    {
+      "name": "Подготовка технических заданий"
+    },
+    {
+      "name": "low-code"
+    },
+    {
+      "name": "MS Office"
+    },
+    {
+      "name": "Работа в команде"
+    },
+    {
+      "name": "Описание бизнес-процессов"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "150",
+      "name": "Бизнес-аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3131292",
+    "name": "КАДВАРУС",
+    "url": "https://api.hh.ru/employers/3131292",
+    "alternate_url": "https://hh.ru/employer/3131292",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/475271.png",
+      "90": "https://img.hhcdn.ru/employer-logo/2342936.png",
+      "240": "https://img.hhcdn.ru/employer-logo/2342937.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3131292",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T13:09:00+0300",
+  "created_at": "2025-06-07T13:09:00+0300",
+  "initial_created_at": "2025-06-04T13:09:00+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121335958",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121335958",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

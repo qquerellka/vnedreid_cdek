@@ -1,0 +1,178 @@
+{
+  "id": "117007345",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист по информационной безопасности",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": null,
+    "to": 80000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 80000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Каширское шоссе",
+    "building": "3к2с9",
+    "lat": 55.672016,
+    "lng": 37.631631,
+    "description": null,
+    "raw": "Москва, Каширское шоссе, 3к2с9",
+    "metro": {
+      "station_name": "Нагатинская",
+      "line_name": "Серпуховско-Тимирязевская",
+      "station_id": "9.85",
+      "line_id": "9",
+      "lat": 55.682099,
+      "lng": 37.620917
+    },
+    "metro_stations": [
+      {
+        "station_name": "Нагатинская",
+        "line_name": "Серпуховско-Тимирязевская",
+        "station_id": "9.85",
+        "line_id": "9",
+        "lat": 55.682099,
+        "lng": 37.620917
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <ul> <li>Установка и настройка средств защиты информации.</li> <li>Настройка средств защиты для оказания услуг клиентам.</li> <li>Оказание сервисов информационной безопасности.</li> <li>Развитие и автоматизация сервисов.</li> <li>Мониторинг работоспособности сервисов и их компонентов.</li> <li>Устранение неполадок и их диагностика.</li> <li>Тестирование новых систем и решений.</li> <li>40% работы с документацией, <strong>60% командировок</strong> по России.</li> </ul> <p> </p> <p><strong>Требования:</strong></p> <ul> <li>Знание и настройка средств защиты информации ведущих вендоров по ИБ.</li> <li>Опыт работы в сфере информационной безопасности.</li> <li>Знание сетевых технологий, понимание работы СУБД, WEB-информационных систем, систем виртуализации Windows и Linux.</li> <li>Умение планировать мероприятия по обеспечению защиты информации.</li> <li>Понимание федеральных законов в области информационной безопасности.</li> </ul> <p> </p> <p><strong>Условия:</strong></p> <ul> <li>Обучение от ведущих вендоров за счет компании в рабочее время.</li> <li>График работы: пятидневка, с 9:00 до 18:00 в офисе.</li> <li>Оклад 80 000 тысяч рублей.</li> <li>Оформление трудового договора.</li> <li>Работа в центре города.</li> <li>Подарки детям сотрудников на Новый год.</li> <li>Программа компенсаций и льгот (компенсация проезда в отпуск, расходов на покупку аптечных препаратов или медицинских услуг и т.д.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Информационная безопасность"
+    },
+    {
+      "name": "Информационные технологии"
+    },
+    {
+      "name": "Технические средства информационной защиты"
+    },
+    {
+      "name": "Средства криптографической защиты информации"
+    },
+    {
+      "name": "Администрирование"
+    },
+    {
+      "name": "Аналитический склад ума"
+    },
+    {
+      "name": "Внимательность"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "116",
+      "name": "Специалист по информационной безопасности"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1513074",
+    "name": "Блок Технологий",
+    "url": "https://api.hh.ru/employers/1513074",
+    "alternate_url": "https://hh.ru/employer/1513074",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1099795.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6019793.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6019794.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1513074",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T17:29:41+0300",
+  "created_at": "2025-06-02T17:29:41+0300",
+  "initial_created_at": "2025-02-10T08:29:38+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=117007345",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/117007345",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

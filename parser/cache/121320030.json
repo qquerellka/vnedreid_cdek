@@ -1,0 +1,120 @@
+{
+  "id": "121320030",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Варшавское шоссе",
+    "building": "1с6",
+    "lat": 55.703875,
+    "lng": 37.623905,
+    "description": null,
+    "raw": "Москва, Варшавское шоссе, 1с6",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Задачи:</strong></p> <p>• Детализация и систематизация бизнес данных, полученных от Бизнес Аналитика и постановка задач для команды разработки;<br />• Подготовка и согласование документации, включая Проектные решения, Инструкции пользователя, Инструкции администрактора и др;<br />• Изучение и при необходимости изменение (совместно с БА) бизнес-процессов Заказчика;<br />• Работа с БД: уточнение структуры, мапинг полей БД, требований к атрибутам БД и тд;<br />• Участие в разработке сценариев и проведении функционального и регрессионного тестирования;<br />• Участие в разработке интеграционных решений</p> <p><strong>Пожелание к опыту:</strong></p> <p>• Опыт работы от 2-х лет в роли системного аналитика;<br />• Опыт разработки проектной документации (ТЗ, ЧТЗ, ФТ, ПР, ПМИ);<br />• Опыт работы с БД и хорошее знание SQL;<br />• Опыт моделирования бизнес-процессов (BPMN);<br />• Знание нотаций UML;<br />• Знания основ интеграционного взаимодействия;<br />• Понимание XML, REST, JSON;<br />• Опыт участия в проектах по внедрению решений на базе клиент-серверного ПО;<br />• Желательно понимание принципов сбора, обработки, проверки и валидации данных</p> <p> </p> <p><strong>Предлагаем:</strong></p> <p>• Гибридный формат работы;<br />• Уровень зп в зависимости от компетенций;<br />• ДМС, после испытательного срока;<br />• Оформление по ТК РФ (бессрочный) в ит-аккредитованную компанию;<br />• Возможны редкие краткосрочные командировки.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "148",
+      "name": "Системный аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1075289",
+    "name": "Клик Групп",
+    "url": "https://api.hh.ru/employers/1075289",
+    "alternate_url": "https://hh.ru/employer/1075289",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1075289",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T09:36:37+0300",
+  "created_at": "2025-06-04T09:36:37+0300",
+  "initial_created_at": "2025-06-04T09:36:37+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121320030",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121320030",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

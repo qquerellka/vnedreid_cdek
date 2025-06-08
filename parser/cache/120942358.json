@@ -1,0 +1,139 @@
+{
+  "id": "120942358",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер поддержки российского ПО",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "улица Максима Горького",
+    "building": "77",
+    "lat": 55.027893,
+    "lng": 82.926242,
+    "description": null,
+    "raw": "Новосибирск, улица Максима Горького, 77",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Учреждение имеет статус аккредитованной ИТ-компании !</strong></p> <p><strong>Цель должности:</strong> решение проблем пользователей и самостоятельная диагностика ошибок.</p> <p><strong>Обязанности:</strong></p> <ul> <li>участие в проектах по импортозамещению (РПО - российское программное обеспечение);</li> <li>подключение рабочих станций пользователей к единой системе управления;</li> <li>предварительный анализ, сбор и систематизация проблем и пожеланий пользователей при работе в операционных системах Windows/Альт Линукс;</li> <li>решение проблем пользователей при работе в операционных системах Windows/Альт Линукс;</li> <li>передача заявок о нерешенных самостоятельно проблемах пользователей, запросов на доработку единой системы управления - на 3ю линию/вендорам;</li> <li>технические отчеты и аналитика работы РПО;</li> <li>внедрение новых подходов к внедрению РПО;</li> <li>инцидентный анализ на основе данных мониторинга и систем логирования.</li> </ul> <strong>Требования:</strong> <ul> <li>высшее техническое образование;</li> <li>опыт технической поддержки пользователей или системного администрирования от 1 года;</li> <li>знания ОС Linux на уровне администратора (установка, настройка, архитектура, модель разделения прав доступа, работа сетевых служб и т.п.);</li> <li>умение разобраться в уже настроенных операционных системах;</li> <li>системный подход к решению технических проблем, нацеленность на результат, желание вникать в проблему и разбираться в ней.<br /><br /><strong>Условия:</strong></li> <li>работа в надежном учреждении со стабильной историей развития;</li> <li>возможность карьерного роста и профессионального развития;</li> <li>официальное трудоустройство, полный соц.пакет согласно ТК РФ;</li> <li>прозрачная система оплаты, заработная плата &quot;вся белая&quot;, всегда вовремя;</li> <li>пятидневная рабочая неделя с 9.00 до 18.00; выходные: суббота, воскресенье;</li> <li>приятный коллектив и комфортная атмосфера.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Настройка ПО"
+    },
+    {
+      "name": "Техническая поддержка"
+    },
+    {
+      "name": "Техническое обслуживание"
+    },
+    {
+      "name": "Информационные технологии"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2171474",
+    "name": "ГБУ НСО Центр Информационных Технологий Новосибирской Области",
+    "url": "https://api.hh.ru/employers/2171474",
+    "alternate_url": "https://hh.ru/employer/2171474",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1398257.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7212799.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7212800.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2171474",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T06:43:48+0300",
+  "created_at": "2025-06-06T06:43:48+0300",
+  "initial_created_at": "2025-05-26T05:15:18+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120942358",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120942358",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

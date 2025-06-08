@@ -1,0 +1,132 @@
+{
+  "id": "121097682",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Разработчик JavaScript",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>Проектирование и реализация пользовательских интерфейсов для разрабатываемых систем АО Петербургская Биржа.</li> <li>Разработка компонентов и шаблонов для сайта компании.</li> <li>Предварительное тестирование разрабатываемых программных решений.</li> <li>Подготовка технической и пользовательской документации по разрабатываемым решениям и пользовательских интерфейсам.</li> </ul> <strong>Требования:</strong> <ul> <li>Знание объектно-ориентированного программирования, шаблонов проектирования.</li> <li>Уверенное владение современным синтаксисом JavaScript.</li> <li>Умение оптимизировать производительность кода.</li> <li>Опыт разработки интерфейсов на Vue.js.</li> <li>Глубокое понимание жизненного цикла компонентов Vue.js.</li> <li>Понимание принципов работы RESTful API.</li> <li>Знание API-компонентов для взаимодействия с сервером (Axios, Fetch).</li> <li>Опыт адаптивной верстки.</li> <li>Опыт адаптивной верстки с использованием CSS-фреймворков.</li> <li>Опыт работы с Git.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт интеграции Vue.js в шаблоны Битрикс.</li> <li>Опыт разработки шаблонов и компонентов Битрикс.</li> </ul> <strong>Условия:</strong> <ul> <li>Место работы: м. Парк Культуры.</li> <li>Официальное оформление, белая заработная плата.</li> <li>График работы: с 9.00 до 18.00, в пятницу до 16.45.</li> <li>Расширенный социальный пакет (ДМС, оплата обучения, система материальной и нематериальной мотивации и др.).</li> </ul>",
+  "branded_description": "\n<style>\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li em,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ol li p em,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li em,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong,\n.tmpl_hh_content ul li p em {\n    font-weight: normal;\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    display: inline;\n    margin: 0;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    font-family: \"Arial\", sans-serif;\n    color: #000;\n    font-size: 16px;\n    line-height: 1.45;\n    overflow: hidden;\n    -webkit-font-smoothing: antialiased;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_wrapper * {\n    -webkit-box-sizing: border-box;\n    box-sizing: border-box;\n}\n\n.tmpl_hh_wrapper [role=button] {\n    outline: none;\n}\n\n.tmpl_hh_video {\n    position: relative;\n    width: 100%;\n}\n\n.tmpl_hh_video img,\n.tmpl_hh_video iframe {\n    position: absolute;\n    left: 0;\n    top: 0;\n    width: 100%;\n    height: 100%;\n}\n\n.tmpl_hh_head {\n    position: relative;\n}\n\n.tmpl_hh_head__logo {\n    position: absolute;\n    width: 180px;\n    top: 64px;\n    left: 40px;\n}\n\np.tmpl_hh_head__title {\n    max-width: 352px;\n    position: absolute;\n    left: 40px;\n    bottom: -8px;\n    font-weight: 400;\n    font-size: 24px;\n    line-height: 120%;\n    margin-left: 75px;\n    text-transform: uppercase;\n}\n\np.tmpl_hh_head__title span {\n    display: block;\n    position: absolute;\n    left: -75px;\n    width: 48px;\n    height: 96px;\n    margin: auto 0;\n    top: 0;\n    bottom: 0;\n}\n\np.tmpl_hh_head__title::before {\n    position: absolute;\n    content: \"\";\n    width: 100%;\n    bottom: -19px;\n    left: 0;\n    border-bottom: 2px solid #01A9F2;\n}\n\n.tmpl_hh_footer {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-align: center;\n    -ms-flex-align: center;\n    align-items: center;\n    background-repeat: no-repeat;\n    background-size: 100% auto;\n    background-position: left bottom;\n    background-image: url(\"https://hhcdn.ru/ichameleon/255264.jpg\");\n    padding: 63px 45px 88px;\n}\n\n.tmpl_hh_footer__img {\n    width: 245px;\n    margin-right: 16px;\n}\n\np.tmpl_hh_footer__title {\n    font-weight: 400;\n    font-size: 35px;\n    line-height: 120%;\n    text-transform: uppercase;\n    margin-bottom: 25px;\n}\n\n.tmpl_hh_content {\n    padding: 74px 40px 50px;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    margin: 0px 0 12px;\n}\n\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    display: inline-block;\n    font-weight: bold;\n    line-height: 145%;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 24px;\n    padding-bottom: 1px;\n    margin-bottom: 12px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n}\n\n.tmpl_hh_content li:not(:last-child) {\n    margin-bottom: 9.5px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 10px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;\n}\n\n.tmpl_hh_content li:before {\n    content: \"\";\n    position: absolute;\n    left: -24px;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"\";\n    top: 10px;\n    width: 12px;\n    height: 1px;\n    background-color: #000;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter) \".\";\n    top: 0;\n}\n\n@media (max-width: 1019px) {\n    .tmpl_hh_footer {\n        padding-right: 20px;\n    }\n\n    p.tmpl_hh_footer__title {\n        font-size: 28px;\n    }\n\n    .tmpl_hh_wrapper {\n        max-width: 610px;\n    }\n}\n\n@media (max-width: 699px) {\n    .tmpl_hh_head {\n        min-height: 309px;\n    }\n\n    .tmpl_hh_head__logo {\n        width: 102px;\n        margin-bottom: 147px;\n        top: 20px;\n        left: 20px;\n    }\n\n    p.tmpl_hh_head__title {\n        max-width: 245px;\n        width: -webkit-fit-content;\n        width: -moz-fit-content;\n        width: fit-content;\n        font-size: 20px;\n        position: relative;\n        left: 0;\n        bottom: 0;\n        margin-top: 6px;\n        margin-left: 60px;\n    }\n\n    p.tmpl_hh_head__title span {\n        width: 40px;\n        height: 80px;\n        left: -50px;\n    }\n\n    .tmpl_hh_footer {\n        -webkit-box-orient: vertical;\n        -webkit-box-direction: normal;\n        -ms-flex-direction: column;\n        flex-direction: column;\n        -webkit-box-align: start;\n        -ms-flex-align: start;\n        align-items: flex-start;\n        padding: 0 20px 49px;\n    }\n\n    .tmpl_hh_footer__img {\n        max-width: 258px;\n        width: 76%;\n        margin: 0 auto;\n        margin-bottom: 30px;\n    }\n\n    p.tmpl_hh_footer__title {\n        font-size: 24px;\n        margin-bottom: 0;\n    }\n\n    .tmpl_hh_content {\n        padding: 50px 20px;\n    }\n\n    .tmpl_hh_content li:not(:last-child) {\n        margin-bottom: 9px;\n    }\n}\n\n@media (max-width: 699px) and (max-width: 500px) {\n    .tmpl_hh_wrapper {\n        width: auto;\n        margin: 0 -15px;\n    }\n}\n\n@media (max-width: 540px) {\n    .tmpl_hh_footer {\n        background-size: 544px auto;\n    }\n}\n</style>\n\n<script>\n//\nfunction DOM_HH_Ready() {}\n\nif (document.readyState === \"loading\") {\n    document.addEventListener(\"DOMContentLoaded\", DOM_HH_Ready);\n} else {\n    DOM_HH_Ready();\n}\n//\n</script>\n\n\n    <div class=\"tmpl_hh_wrapper\">\n        <div class=\"tmpl_hh_head\">\n            <div class=\"tmpl_hh_head__bg\">\n                <picture>\n                    <source srcset=\"https://hhcdn.ru/ichameleon/255257.jpg\" media=\"(max-width:699px)\"></source>\n                    <img src=\"https://hhcdn.ru/ichameleon/255254.jpg\" alt=\"\">\n                </picture>\n            </div>\n            <div class=\"tmpl_hh_head__logo\">\n                <img src=\"https://hhcdn.ru/ichameleon/255255.svg\" alt=\"\">\n            </div>\n            <p class=\"tmpl_hh_head__title\">\n                <span>\n                    <img src=\"https://hhcdn.ru/ichameleon/255261.png\" alt=\"\">\n                </span>\n                Санкт-Петербургская Международная\n                Товарно‑сырьевая Биржа\n            </p>\n        </div>\n        <div class=\"tmpl_hh_content\">\n        <strong>Обязанности:</strong> <ul> <li>Проектирование и реализация пользовательских интерфейсов для разрабатываемых систем АО Петербургская Биржа.</li> <li>Разработка компонентов и шаблонов для сайта компании.</li> <li>Предварительное тестирование разрабатываемых программных решений.</li> <li>Подготовка технической и пользовательской документации по разрабатываемым решениям и пользовательских интерфейсам.</li> </ul> <strong>Требования:</strong> <ul> <li>Знание объектно-ориентированного программирования, шаблонов проектирования.</li> <li>Уверенное владение современным синтаксисом JavaScript.</li> <li>Умение оптимизировать производительность кода.</li> <li>Опыт разработки интерфейсов на Vue.js.</li> <li>Глубокое понимание жизненного цикла компонентов Vue.js.</li> <li>Понимание принципов работы RESTful API.</li> <li>Знание API-компонентов для взаимодействия с сервером (Axios, Fetch).</li> <li>Опыт адаптивной верстки.</li> <li>Опыт адаптивной верстки с использованием CSS-фреймворков.</li> <li>Опыт работы с Git.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт интеграции Vue.js в шаблоны Битрикс.</li> <li>Опыт разработки шаблонов и компонентов Битрикс.</li> </ul> <strong>Условия:</strong> <ul> <li>Место работы: м. Парк Культуры.</li> <li>Официальное оформление, белая заработная плата.</li> <li>График работы: с 9.00 до 18.00, в пятницу до 16.45.</li> <li>Расширенный социальный пакет (ДМС, оплата обучения, система материальной и нематериальной мотивации и др.).</li> </ul></div>\n\n        <div class=\"tmpl_hh_footer\">\n            <div class=\"tmpl_hh_footer__img\">\n                <img src=\"https://hhcdn.ru/ichameleon/255265.png\" alt=\"\">\n            </div>\n            <p class=\"tmpl_hh_footer__title\">\n                Станьте частью<br>\n                нашей команды!\n            </p>\n        </div>\n    </div>\n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "VueJS"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Битрикс24"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "738493",
+    "name": "Петербургская Биржа",
+    "url": "https://api.hh.ru/employers/738493",
+    "alternate_url": "https://hh.ru/employer/738493",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1412987.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7271608.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7271609.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=738493",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T17:35:59+0300",
+  "created_at": "2025-06-06T17:35:59+0300",
+  "initial_created_at": "2025-05-28T17:35:59+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121097682",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121097682",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

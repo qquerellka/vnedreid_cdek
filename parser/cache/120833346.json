@@ -1,0 +1,220 @@
+{
+  "id": "120833346",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Senior Python Backend Developer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "проспект Медиков",
+    "building": "3",
+    "lat": 59.969232,
+    "lng": 30.316281,
+    "description": null,
+    "raw": "Санкт-Петербург, проспект Медиков, 3",
+    "metro": {
+      "station_name": "Петроградская",
+      "line_name": "Московско-Петроградская",
+      "station_id": "15.215",
+      "line_id": "15",
+      "lat": 59.966389,
+      "lng": 30.311293
+    },
+    "metro_stations": [
+      {
+        "station_name": "Петроградская",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.215",
+        "line_id": "15",
+        "lat": 59.966389,
+        "lng": 30.311293
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Мы — Атом. Разрабатываем электромобиль-гаджет и его версии для семьи, такси, каршеринга и службы доставки, а также собственный маркетплейс приложений и другие сервисы.</p> <p>Ищем<strong> Senior Python Backend Developer</strong> для работы над бэкендом мобильного приложения.</p> <p><strong>Технологический стек в команде:</strong></p> <ul> <li>Python 3.12;</li> <li>FastAPI, SQLAlchemy;</li> <li>PostgreSQL;</li> <li>K8s;</li> <li>Gitlab CI, ELK, Grafana.</li> </ul> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Писать бэкенд-сервисы.</li> <li>Участвовать в принятии архитектурных решений и развитии системы с точки зрения инфраструктуры.</li> <li>Прорабатывать интеграции со смежными командами.</li> <li>Принимать участие в продукте на всех этапах: от идеи до эксплуатации в продакшене.</li> </ul> <p><strong>Для нас важны:</strong></p> <ul> <li>Опыт работы в аналогичной роли от 5 лет.</li> <li>Уверенные навыки в Python 3, включая асинхронное программирование и использование typing / Pydantic.</li> <li>Уважение к таким инструментам, как Ruff и Mypy, а также понимание важности компонентных тестов.</li> <li>Опыт работы с принципами HTTP(S) и REST.</li> <li>Глубокие знания SQL и опыт в оптимизации медленных запросов.</li> <li>Навыки создания Docker-образов.</li> <li>Способность профессионально оценивать и декомпозировать задачи.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Навыки работы с Grafana и Prometheus.</li> <li>Опыт работы с MQTT, Kafka и аналогичными технологиями.</li> <li>Знание GitLab CI.</li> <li>Понимание базовых концепций Kubernetes: pod, job, deployment, statefulset.</li> <li>Готовность работать в офисе в Санкт-Петербурге (ст.м. Петроградская), Москве (ст.м. Тульская) или Набережных Челнах (It-park) до 3 рабочих дней в неделю.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Высокотехнологичный продукт, которым хочется гордиться.</li> <li>Работу в международной команде.</li> <li>Трудоустройство в аккредитованной ИТ-компании.</li> <li>Годовую премию и дополнительные бонусы в кафетерии льгот, которые можно тратить на питание, транспорт, ДМС со стоматологией, страхование жизни и имущества, фитнес, образование и другое.</li> <li>Бесплатный доступ к платформе с обучающими курсами iSpring, спортивные командные игры и другие приятные мелочи.</li> </ul> <p><strong>Как будем общаться:</strong></p> <ul> <li>Интервью с HR;</li> <li>Полуторасовое техническое видео-интервью с руководителем команды.</li> <li>Job offer.</li> </ul> <p><strong>Пройди вместе с нами крутой кейс по созданию электромобиля с нуля!</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "FastAPI"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "SQLAlchemy"
+    },
+    {
+      "name": "MongoDB"
+    },
+    {
+      "name": "Grafana"
+    },
+    {
+      "name": "GitLab CI"
+    },
+    {
+      "name": "Prometheus"
+    },
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "HTTPS"
+    },
+    {
+      "name": "REST"
+    },
+    {
+      "name": "Backend"
+    },
+    {
+      "name": "VictoriaMetrics"
+    },
+    {
+      "name": "K8s"
+    },
+    {
+      "name": "Motor"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "ELK"
+    },
+    {
+      "name": "Python 3.12"
+    },
+    {
+      "name": "MQTT"
+    },
+    {
+      "name": "Apache Kafka"
+    },
+    {
+      "name": "typing"
+    },
+    {
+      "name": "Pydantic"
+    },
+    {
+      "name": "Ruff"
+    },
+    {
+      "name": "Mypy"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Docker"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5912977",
+    "name": "Атом",
+    "url": "https://api.hh.ru/employers/5912977",
+    "alternate_url": "https://hh.ru/employer/5912977",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1031212.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/5745608.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/5745609.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5912977",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-21T17:23:01+0300",
+  "created_at": "2025-05-21T17:23:01+0300",
+  "initial_created_at": "2025-05-21T17:23:01+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120833346",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120833346",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

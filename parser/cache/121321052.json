@@ -1,0 +1,152 @@
+{
+  "id": "121321052",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Middle Python Developer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 250000,
+    "to": 300000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 250000,
+    "to": 300000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Лия Чат</strong><br /><br />Мы разрабатываем интеллектуальные чат-боты для бизнеса, помогая компаниям автоматизировать взаимодействие с клиентами. Наша цель — создавать решения, которые делают общение с ботом максимально естественным и эффективным. Среди наших клиентов — Самокат, МТС, Whoosh, Aviasales и другие компании, которые ценят качественную автоматизацию и персонализированный сервис.</p> <p>Лия помогает обрабатывать частые обращения пользователей в чатах поддержки. Мы работаем с 2017 года, привлекали инвестиции от фондов, а теперь обеспечиваем поддержку десятков миллионов пользователей на разных языках ежемесячно.</p> <p><strong>Кого мы ищем:</strong></p> <p>Мы ищем <strong>Python Developer</strong>, который будет разрабатывать и улучшать нашу систему. Основная задача — участвовать в создании новых фичей, оптимизировать кодовую базу и обеспечивать стабильную работу сервисов под растущей нагрузкой.</p> <p><strong>Наш стек:</strong></p> <ul> <li><strong>Фреймворки</strong>: asyncio, aiohttp, FastAPI, Flask для core-сервисов, Django для конструктора диалогов</li> <li><strong>Базы данных и очереди</strong>: PostgreSQL, RabbitMQ, Redis, ClickHouse</li> <li><strong>DevOps</strong>: Docker, GitLab CI</li> <li><strong>Архитектура</strong>: микросервисная, более 20 сервисов</li> <li><strong>Диалоговый движок</strong>: собственная кодовая база, высоконагруженное enterprise-решение.</li> </ul> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Разрабатывать и оптимизировать микросервисы на <strong>Python (FastAPI, Flask, Django)</strong></li> <li>Работать с <strong>PostgreSQL, RabbitMQ, ClickHouse</strong></li> <li>Улучшать производительность и стабильность системы</li> <li>Оптимизировать код и повышать его качество</li> <li>Участвовать в разработке новых фичей, улучшать существующие</li> <li>Писать документацию и участвовать в код-ревью</li> <li>Тесно взаимодействовать с DevOps и QA.</li> </ul> <p><strong>Что для нас важно:</strong></p> <ul> <li>Практический опыт в разработке на Python (от 3-х лет коммерческого опыта)</li> <li>Уверенное владение фреймворками или желание с ними работать (Django, FastAPI, Flask)</li> <li> <p>Опыт работы с <strong>базами данных</strong> и <strong>очередями</strong></p> </li> <li> <p>Понимание принципов микросервисной архитектуры</p> </li> <li> <p>Умение работать в команде, желание развиваться.</p> </li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Работу в аккредитованной IT-компании</li> <li>Возможность влиять на продукт, участвовать в принятии ключевых технических решений и формировании его будущего</li> <li>Работу с крупными клиентами, автоматизируя их поддержку и повышая эффективность бизнес-процессов</li> <li>Возможность расти, развивая не только технические, но и лидерские навыки</li> <li>Участие в разработке enterprise-решения с высокой нагрузкой, сложной архитектурой и продвинутыми технологическими стеком</li> <li>Работу в заряженной команде, где ценятся идеи, инициативность и автономность</li> <li>Гибкий график и удалённый формат работы по всему миру.</li> </ul> <p><strong>Как мы нанимаем:</strong></p> <ol> <li>Звонок с HR</li> <li>Техническое интервью с Head of Engineering Lead Python Dev (Python, многопоточность, асинхронность, system design)</li> <li>Оффер.</li> </ol>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Django Framework"
+    },
+    {
+      "name": "FastAPI"
+    },
+    {
+      "name": "Flask"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Код-ревью"
+    },
+    {
+      "name": "Проектирование архитектуры"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2866992",
+    "name": "ЭНГРИ",
+    "url": "https://api.hh.ru/employers/2866992",
+    "alternate_url": "https://hh.ru/employer/2866992",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1364123.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7076394.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7076395.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2866992",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T09:49:54+0300",
+  "created_at": "2025-06-04T09:49:54+0300",
+  "initial_created_at": "2025-06-04T09:49:54+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121321052",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121321052",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

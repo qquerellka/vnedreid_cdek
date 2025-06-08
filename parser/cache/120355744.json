@@ -1,0 +1,160 @@
+{
+  "id": "120355744",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Старший разработчик (Python)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": 55.79556579094751,
+    "lng": 37.61329410597685,
+    "description": null,
+    "raw": "Москва, улица Двинцев, 12к1, м. Марьина Роща или м. Савеловская",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>ORO – агентство маркетинговых исследований. Помогаем клиентам понимать покупателей, находить уникальные инсайты и ценные данные для принятия бизнес-решений.</strong></p> <p>ORO – это не просто компания, это команда профессионалов, которая уже более 30 лет помогает крупнейшим российским и международным брендам принимать стратегически важные решения. Мы гордимся тем, что начали свой путь в 1989 году как небольшое исследовательское агентство, а сегодня стали лидерами рынка с офисами в Москве и Туле.</p> <p>Наши клиенты – это компании, которые задают тренды в своих отраслях. Мы работаем с брендами, которые вы знаете и любите, и помогаем им становиться еще лучше.</p> <p><strong>Почему ORO?</strong></p> <ul> <li>Мы предлагаем полный цикл маркетинговых исследований: от анализа брендов и коммуникаций до создания инновационных продуктов и изучения покупательского поведения.</li> <li>У нас более 200 талантливых сотрудников, которые ежедневно вдохновляют друг друга на новые достижения.</li> <li>Мы ценим инициативу, поддерживаем друг друга, мотивируем на профессиональный рост и создаем условия для реализации амбициозных идей.</li> </ul> <p><strong>Ваши задачи:</strong></p> <ul> <li>Разработка программного кода на языке Python 3.10+;</li> <li> <p>Ревью кода коллег, рефакторинг кода, написание тестов;</p> </li> <li> <p>Участие в процессе публикации сервисов;</p> </li> <li> <p>Устранение неполадок и оптимизация работы сервисов;</p> </li> <li> <p>Ведение прогресса исполнения задач в JIRA;</p> </li> <li><strong>Стек:</strong> Python 3.10+, FastAPI, pydantic, SQLAchemy(PostgreSQL), GraphQL(strawberry), Kafka, Redis.</li> </ul> <p><strong>Мы ждем от вас:</strong></p> <ul> <li>Опыт программирования на Python - от 3-х лет в коммерческой разработке;</li> <li> <p><strong>FastAPI:</strong> уверенные знания и опыт разработки асинхронных веб-сервисов с использованием FastAPI;</p> </li> <li> <p><strong>SQLAlchemy:</strong> опыт проектирования и работы с базами данных через ORM SQLAlchemy, включая асинхронный доступ к данным;</p> </li> <li> <p><strong>PostgreSQL:</strong> уверенные знания и опыт работы с PostgreSQL, понимание принципов проектирования и оптимизации баз данных;</p> </li> <li> <p><strong>Kafka:</strong> опыт работы с Apache Kafka для реализации асинхронных потоков данных и обработки сообщений в распределенных системах;</p> </li> <li> <p><strong>Alembic:</strong> знание и опыт использования Alembic для миграций баз данных;</p> </li> <li> <p><strong>Тестирование:</strong> опыт написания модульных и интеграционных тестов для обеспечения качества кода;</p> </li> <li> <p><strong>Git</strong>: уверенный опыт использования.</p> </li> </ul> <p>Как преимущество:</p> <ul> <li> <p>Опыт создания и оптимизации GraphQL API с использованием Strawberry;</p> </li> <li> <p>Опыт работы с контейнеризацией: Docker/Kubernetes;</p> </li> <li> <p>Умение писать сложные SQL запросы;</p> </li> <li> <p>Знание принципов CI/CD и опыт работы с инструментами автоматизации: GitLab CI, Jenkins;</p> </li> <li> <p>Понимание принципов микросервисной архитектуры и опыт разработки в такой среде;</p> </li> <li> <p>Опыт участия в открытых проектах или наличие собственных проектов на GitHub;</p> </li> <li> <p>Опыт работы или желание разобраться в Apache Airflow, GraphQL.</p> </li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li><strong>Карьерный рост:</strong> возможность развиваться в рамках компании, участвовать в стратегических проектах и влиять на решения бизнеса;</li> <li><strong>Интересные задачи:</strong> работа с крупными брендами, лидерами в отраслях и возможность реализовать свои идеи;</li> <li><strong>Комфортные условия:</strong> гибридный режим работы, современный офис А-класса рядом с м. Савеловская / м. Марьина Роща;</li> <li><strong>Социальные бонусы:</strong> медицинская страховка (включая стоматологию), страхование при поездках за рубеж, корпоративная мобильная связь, фрукты в офисе;</li> <li><strong>Корпоративную культуру:</strong> дружный коллектив, поддержка наставников, корпоративные мероприятия и скидки от партнеров;</li> <li><strong>Work-life balance:</strong> сокращенный рабочий день в пятницу и гибкий график.</li> </ul> <p><strong>Присоединяйтесь к ORO, если вы:</strong></p> <ul> <li>Хотите работать в компании с историей и амбициями;</li> <li>Готовы к вызовам и хотите влиять на успех крупных брендов;</li> <li>Цените профессиональное развитие и командную работу.</li> </ul> <p>Мы с нетерпением ждем ваш отклик, и будем рады познакомиться и обсудить, как вы можете стать частью нашей команды!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Kafka"
+    },
+    {
+      "name": "FastAPI"
+    },
+    {
+      "name": "SQLAlchemy"
+    },
+    {
+      "name": "Alembic"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "Gitlab"
+    },
+    {
+      "name": "Jenkins"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "7312",
+    "name": "ORO",
+    "url": "https://api.hh.ru/employers/7312",
+    "alternate_url": "https://hh.ru/employer/7312",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1247091.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6608793.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6608794.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=7312",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T14:34:14+0300",
+  "created_at": "2025-06-06T14:34:14+0300",
+  "initial_created_at": "2025-05-10T13:21:59+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120355744",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120355744",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

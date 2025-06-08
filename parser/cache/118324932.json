@@ -1,0 +1,145 @@
+{
+  "id": "118324932",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер-программист АСУ ТП",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "99",
+    "name": "Уфа",
+    "url": "https://api.hh.ru/areas/99"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Уфа",
+    "street": "Революционная улица",
+    "building": "26",
+    "lat": 54.735059,
+    "lng": 55.952897,
+    "description": null,
+    "raw": "Уфа, Революционная улица, 26",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <p>- Разработка и отладка ПО для PLC и SCADA.</p> <p>- Тестирование, устранение неисправностей</p> <p>- Участие в пуско-налоадочных работах</p> <p>- Настройка взаимодействия между оборудованием и верхним уровнем АСУТП.</p> <p>- Разработка инструкций</p> <p><strong>Требования:</strong></p> <p>Высшее техническое образование (автоматизация, АСУТП, ИТ, электроника, КИПиА)</p> <p>Знание языков программирования: IEC 61131-3 (ST, LD, FBD)+ один из C/C++/Python/Java/C#</p> <p>Умение читать и оформлять техническую документацию (ПСД, функциональные схемы, спецификации)</p> <p>Базовое понимание промышленной безопасности</p> <p>Желательно знание:</p> <p><em>Программирование и системы:</em></p> <ul> <li>Опыт работы с SCADA-системами: SimpleSCADA, MasterSCADA, Альфа-Платформа, Intouch.</li> <li>Знание промышленных протоколов: OPC UA, MQTT, Modbus (RTU/TCP), CAN, EtherCAT, PROFINET.</li> <li>Опыт разработки на CODESYS, TIA Portal, Studio 5000</li> <li>Базовое владение Linux (настройка сервисов, скрипты).</li> </ul> <p><em>Оборудование:</em></p> <ul> <li>Опыт интеграции с ПЛК (Siemens, Schneider Electric, Allen Bradley, WAGO, ОВЕН).</li> <li>Работа с панелями оператора Weintek.</li> <li>Навыки настройки сетевого оборудования Cisco.</li> </ul> <p><em>Инфраструктура:</em></p> <ul> <li>Администрирование Windows, Hyper-V/VMware, резервное копирование.</li> <li>Работа с СУБД: MySQL, PostgreSQL.</li> </ul> <p><em>Отраслевые знания:</em></p> <ul> <li>Понимание технологических процессов в нефтегазовой отрасли (УПСВ, ДНС).</li> <li>Знание стандартов ISA-88/95, МЭК 61850 (для энергетики).</li> <li>Опыт взаимодействия с КИПиА (датчики, исполнительные механизмы).</li> </ul> <p><em>Дополнительно:</em></p> <ul> <li>Умение работать с системами контроля версий (Git).</li> <li>Знание английского языка (чтение технической документации).</li> <li>Сертификаты.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Официальное трудоустройство</li> <li>Официальная заработная плата 2 раза в месяц</li> <li>Пятидневная рабочая неделя (выходной суббота, воскресенье). В пятницу рабочий день короче на 1 час</li> <li>Работа в центре города в офисе/Командировки</li> <li>Оплата труда по результатам собеседования, на уровне рынка труда</li> <li>Опытный наставник</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "3 группа по электробезопасности"
+    },
+    {
+      "name": "АСУ ТП"
+    },
+    {
+      "name": "Производство пусконаладочных работ"
+    },
+    {
+      "name": "Схемотехника электронного оборудования"
+    },
+    {
+      "name": "Английский язык"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3349000",
+    "name": "РНГ-Инжиниринг",
+    "url": "https://api.hh.ru/employers/3349000",
+    "alternate_url": "https://hh.ru/employer/3349000",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3349000",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T11:24:03+0300",
+  "created_at": "2025-06-04T11:24:03+0300",
+  "initial_created_at": "2025-03-14T08:35:36+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=118324932",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/118324932",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "a2",
+        "name": "A2 — Элементарный"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

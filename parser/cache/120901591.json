@@ -1,0 +1,168 @@
+{
+  "id": "120901591",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Backend-разработчик",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 200000,
+    "to": 300000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 200000,
+    "to": 300000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Требования:</p><ul><li>Коммерческий опыт разработки на Python от 3х лет;</li><li>Опыт работы с фреймворком FastAPI;</li><li>Опыт работы с реляционными и NoSQL базами данными;</li><li>Знание и опыт работы с системами обмена сообщениями;</li><li>Опыт разработки в рамках микросервисной архитектуры;</li><li>Понимание принципов CI/CD;</li><li>Английский на уровне чтения технической литературы;</li><li>Опыт разработки финансовых инструментов приветствуется.</li></ul><p><br /></p><p>Обязанности:</p><ul><li>Разработка и поддержка сервисов на Python с использованием FastAPI и asyncio;</li><li>Проектирование и реализация API и интеграций между различными компонентами системы;</li><li>Реализация бизнес-требований в рамках существующих сервисов;</li><li>Интеграция сторонних сервисов;</li><li>Оптимизация производительности и масштабируемости приложений.</li></ul><p><br /></p><p>Условия работы:</p><ul><li>График работы с 9:00 до 18:00;</li><li>Удалённая работа;</li><li>Возможность работать в одном из офисов:<ul><li>Москва</li><li>Казань</li></ul></li><li>Работа в динамично развивающейся компании, где результаты работы заметны в кратчайшие сроки.</li></ul><p><br /></p><p><br /></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "FastAPI"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "asyncio"
+    },
+    {
+      "name": "SQLAlchemy"
+    },
+    {
+      "name": "Redis"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10246537",
+    "name": "Кибертех",
+    "url": "https://api.hh.ru/employers/10246537",
+    "alternate_url": "https://hh.ru/employer/10246537",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1230500.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6542441.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6542442.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10246537",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-23T11:35:23+0300",
+  "created_at": "2025-05-23T11:35:23+0300",
+  "initial_created_at": "2025-05-23T11:35:23+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120901591",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120901591",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b2",
+        "name": "B2 — Средне-продвинутый"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

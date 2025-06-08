@@ -1,0 +1,173 @@
+{
+  "id": "121330709",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Разработчик ПО С++ (разработка инженерного ПО)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": null,
+    "lng": null,
+    "description": null,
+    "raw": null,
+    "metro": {
+      "station_name": "Улица 1905 года",
+      "line_name": "Таганско-Краснопресненская",
+      "station_id": "7.146",
+      "line_id": "7",
+      "lat": 55.763944,
+      "lng": 37.562271
+    },
+    "metro_stations": [
+      {
+        "station_name": "Улица 1905 года",
+        "line_name": "Таганско-Краснопресненская",
+        "station_id": "7.146",
+        "line_id": "7",
+        "lat": 55.763944,
+        "lng": 37.562271
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Наша команда занимается разработкой клиент-серверного приложения для отладки и мониторинга приборов космических аппаратов. </p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Проектированием и разработкой серверной части приложения SREDA на C++;</li> <li>Разработкой клиентской части с использованием Qt Widgets/QML;</li> <li>Участием в Code Review и совершенствовании кодовой базы;</li> <li>Полным циклом разработки: от анализа требований и проектирования до внедрения и поддержки.</li> </ul> <p><strong>Что мы ожидаем:</strong></p> <ul> <li>Опыт коммерческой разработки на C++ (14/17/20) с глубоким пониманием языка и оптимизаций;</li> <li>Навыки работы с STL, многопоточностью и сетевым программированием;</li> <li>Опыт разработки клиент-серверных приложений;</li> <li>Знание Qt (Widgets/QML) для создания кроссплатформенных интерфейсов;</li> <li>Умение проектировать отказоустойчивые и высоконагруженные системы;</li> <li>Опыт работы с Git, понимание процессов CI/CD;</li> <li>Способность работать в команде, участвовать в принятии архитектурных решений.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт работы с gRPC;</li> <li>Знание Python для вспомогательных задач;</li> <li>Понимание принципов тестирования (unit, integration tests);</li> <li>Опыт в embedded-разработке или работе с аппаратным обеспечением.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Работу в аккредитованной ИТ-компании;</li> <li>Шаг в космос - для тех, кто вдохновлен идеей покорения космоса и мечтает быть к этому причастным;</li> <li>Возможность выбора формата работы (офис/гибрид/удаленка);</li> <li>Комфортный современный офис в 5 минутах от метро &quot;Улица 1905 года&quot;;</li> <li>Оформление в соответствии с ТК РФ;</li> <li>Конкурентный уровень заработной платы - на уровне лидеров ИТ/телеком-индустрии.</li> </ul>",
+  "branded_description": "\n<style>\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;    \n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-weight: normal;\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    display: inline;\n    margin: 0;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    overflow: hidden;\n    font-family: 'Verdana';\n    font-size: 12px;\n    line-height: 15px;\n    color: #000;\n    z-index: 1;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_content {\n    padding: 39px 55px 54px;\n    position: relative;\n    z-index: 1;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n   margin: 24px 0 3px;\n}\n\n.tmpl_hh_content b, \n.tmpl_hh_content strong {\n    display: inline-block;\n    font-weight: 700;\n    font-size: 18px;\n    line-height: 210%;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 20px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 3px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 3px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;    \n}\n\n.tmpl_hh_content li:before {\n    position: absolute;\n    left: -20px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"\";\n    width: 5px;\n    height: 5px;\n    border-radius: 50%;\n    top: 5px;\n    background: #000000;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter)'.';\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n\n.tmpl_hh_flex {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n}\n\n.tmpl_hh_header {\n    position: relative;\n}\n\n.tmpl_hh_header__logo {\n    position: absolute;\n    left: 55px;\n    top: 17%;\n}\n\n.tmpl_hh_header__icon {\n    position: absolute;\n    right: 55px;\n    top: 12%;\n}\n\np.tmpl_hh_header__slogan {\n    position: absolute;\n    font-weight: 700;\n    font-size: 22px;\n    line-height: 30px;\n    color: #FFFFFF;\n    left: 55px;\n    top: 54%;\n    width: 50%;\n    transform: translate(0,-50%);\n    z-index: 1;\n}\n\n.tmpl_hh_header__man {\n    position: absolute;\n    bottom: 0;\n    right: 36.6%;\n    z-index: 1;\n}\n\n.tmpl_hh_header__satellite {\n    position: absolute;\n    right: 20%;\n    top: 29%;\n    z-index: 1;\n}\n\n.tmpl_hh_header__orbit {\n    position: absolute;\n    top: 28.5%;\n}\n\n.tmpl_hh_about {\n    padding: 18px 0;\n    width: 299px;\n    background: url(https://hhcdn.ru/ichameleon/266582.png);\n    margin: 0 55px;\n    position: relative;\n    background-size: 353px;\n    background-position: -17px 0;\n}\n\n.tmpl_hh_offer {\n    background: #F2F2F2;\n    padding: 30px 55px 0;\n}\n\np.tmpl_hh_offer__title {\n    font-weight: 700;\n    font-size: 18px;\n    line-height: 22px;\n    margin-bottom: 36px;\n}\n\n.tmpl_hh_offer__item {\n    width: 43%;\n    margin-bottom: 45px;\n}\n\n.tmpl_hh_offer__icon {\n    height: 82px;\n    margin-bottom: 12px;\n    display: flex;\n    align-items: flex-end;\n}\n\n.tmpl_hh_offer__icon img {\n    width: auto;\n}\n\n.tmpl_hh_offer__item b {\n    display: block;\n    margin-bottom: 10px;\n}\n\n@media screen and (max-width: 1019px) {\n\n}\n\n@media screen and (max-width: 699px) {\n\n    .tmpl_hh_content {\n        padding: 24px 10px 34px;\n    }\n\n    .tmpl_hh_content p,\n    .tmpl_hh_content b,\n    .tmpl_hh_content strong {\n       margin: 22px 0 3px;\n    }\n\n    .tmpl_hh_content b, \n    .tmpl_hh_content strong {\n        font-size: 16px;\n        line-height: 210%;\n    }\n\n    .tmpl_hh_header {\n        overflow: hidden;\n    }\n\n    .tmpl_hh_header__man {\n        bottom: 0;\n        right: 49.6%;\n        z-index: 1;\n        width: 1.5%;\n    }\n\n    .tmpl_hh_header__satellite {\n        right: 21%;\n        top: 41%;\n        z-index: 1;\n        width: 25%;\n    }\n\n    .tmpl_hh_header__orbit {\n        position: absolute;\n        top: 37.5%;\n        width: 174%;\n        left: -50%;\n    }\n\n    .tmpl_hh_about {\n        padding: 27px 0 0;\n        width: auto;\n        background: none;\n        margin: 0 10px;\n        position: relative;\n    }\n\n    .tmpl_hh_offer {\n        padding: 15px 18px 0;\n    }\n\n    p.tmpl_hh_offer__title {\n        font-size: 16px;\n        line-height: 22px;\n        margin-bottom: 36px;\n    }\n\n    .tmpl_hh_offer__item {\n        width: 100%;\n        margin-bottom: 43px;\n    }\n\n\n    .tmpl_hh_header__photo {\n        width: 176%;\n        margin: 0 -38%;\n    }\n\n    .tmpl_hh_header__logo {\n        left: 12px;\n        top: 12%;\n        width: 13.5%;\n    }\n\n    .tmpl_hh_header__icon {\n        right: 12px;\n        top: 8.5%;\n        width: 7%;\n    }\n\n    p.tmpl_hh_header__slogan {\n        font-size: 15px;\n        line-height: 20px;\n        left: 11px;\n        top: 48.5%;\n        width: 77%;\n    }\n}\n</style>\n\n<div class=\"tmpl_hh_wrapper\">\n    <div class=\"tmpl_hh_header\">\n        <div class=\"tmpl_hh_header__logo\"><img src=\"https://hhcdn.ru/ichameleon/266556.svg\" alt=\"\"></div>\n        <div class=\"tmpl_hh_header__icon\"><img src=\"https://hhcdn.ru/ichameleon/266555.svg\" alt=\"\"></div>\n        <p class=\"tmpl_hh_header__slogan\">Для тех, кто вдохновлён космосом</p>\n        <div class=\"tmpl_hh_header__man\"><img src=\"https://hhcdn.ru/ichameleon/266561.svg\" alt=\"\"></div>\n        <div class=\"tmpl_hh_header__satellite\"><img src=\"https://hhcdn.ru/ichameleon/266562.svg\" alt=\"\"></div>\n        <div class=\"tmpl_hh_header__orbit\"><img src=\"https://hhcdn.ru/ichameleon/266563.png\" alt=\"\"></div>\n        <div class=\"tmpl_hh_header__photo\"><img src=\"https://hhcdn.ru/ichameleon/266564.jpg\" alt=\"\"></div>\n    </div>\n    <div class=\"tmpl_hh_about\"><b>БЮРО 1440</b> — российская аэрокосмическая компания, разработчик и оператор отечественной спутниковой группировки для высокоскоростной передачи данных с глобальным покрытием.</div>\n    <div class=\"tmpl_hh_content\">\n        <p>Наша команда занимается разработкой клиент-серверного приложения для отладки и мониторинга приборов космических аппаратов. </p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Проектированием и разработкой серверной части приложения SREDA на C++;</li> <li>Разработкой клиентской части с использованием Qt Widgets/QML;</li> <li>Участием в Code Review и совершенствовании кодовой базы;</li> <li>Полным циклом разработки: от анализа требований и проектирования до внедрения и поддержки.</li> </ul> <p><strong>Что мы ожидаем:</strong></p> <ul> <li>Опыт коммерческой разработки на C++ (14/17/20) с глубоким пониманием языка и оптимизаций;</li> <li>Навыки работы с STL, многопоточностью и сетевым программированием;</li> <li>Опыт разработки клиент-серверных приложений;</li> <li>Знание Qt (Widgets/QML) для создания кроссплатформенных интерфейсов;</li> <li>Умение проектировать отказоустойчивые и высоконагруженные системы;</li> <li>Опыт работы с Git, понимание процессов CI/CD;</li> <li>Способность работать в команде, участвовать в принятии архитектурных решений.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт работы с gRPC;</li> <li>Знание Python для вспомогательных задач;</li> <li>Понимание принципов тестирования (unit, integration tests);</li> <li>Опыт в embedded-разработке или работе с аппаратным обеспечением.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Работу в аккредитованной ИТ-компании;</li> <li>Шаг в космос - для тех, кто вдохновлен идеей покорения космоса и мечтает быть к этому причастным;</li> <li>Возможность выбора формата работы (офис/гибрид/удаленка);</li> <li>Комфортный современный офис в 5 минутах от метро \"Улица 1905 года\";</li> <li>Оформление в соответствии с ТК РФ;</li> <li>Конкурентный уровень заработной платы - на уровне лидеров ИТ/телеком-индустрии.</li> </ul></div>\n    <div class=\"tmpl_hh_offer\">\n        <p class=\"tmpl_hh_offer__title\">А ещё</p>\n        <div class=\"tmpl_hh_offer__items tmpl_hh_flex\">\n        <div class=\"tmpl_hh_offer__item\">\n            <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/266559.svg\" alt=\"\"></div>\n            <p><b>Забота о здоровье</b> ДМС со стоматологией с первых дней работы, страхование от несчастных случаев, льготные условия страхования близких, оплата больничного до 100% (в соответствии с политикой компании).</p>\n        </div>\n        <div class=\"tmpl_hh_offer__item\">\n            <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/266557.svg\" alt=\"\"></div>\n            <p><b>Обучение и развитие</b> Возможность обучения и участия в профессиональных конференциях за счёт компании.</p>\n        </div>\n        <div class=\"tmpl_hh_offer__item\">\n            <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/266558.svg\" alt=\"\"></div>\n            <p><b>Корпоративные льготы</b> Корпоративная программа скидок и привилегий для сотрудников и другие предложения.</p>\n        </div>\n        <div class=\"tmpl_hh_offer__item\">\n            <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/266560.svg\" alt=\"\"></div>\n            <p><b>Командные активности</b> Беговой клуб, футбольная и хоккейная команды, шахматный клуб и клуб знатоков, успешно выступающий в корпоративной лиге.</p>\n        </div>\n    </div>\n    </div>\n</div> \n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "C++"
+    },
+    {
+      "name": "Qt"
+    },
+    {
+      "name": "STL"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "CI/CD"
+    },
+    {
+      "name": "gRPC"
+    },
+    {
+      "name": "Python"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5266429",
+    "name": "БЮРО 1440",
+    "url": "https://api.hh.ru/employers/5266429",
+    "alternate_url": "https://hh.ru/employer/5266429",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1388638.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7174339.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7174340.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5266429",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T11:51:05+0300",
+  "created_at": "2025-06-04T11:51:05+0300",
+  "initial_created_at": "2025-06-04T11:51:05+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121330709",
+  "has_test": true,
+  "test": {
+    "required": false
+  },
+  "alternate_url": "https://hh.ru/vacancy/121330709",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

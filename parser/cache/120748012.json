@@ -1,0 +1,181 @@
+{
+  "id": "120748012",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 80000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 80000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "улица Ткачей",
+    "building": "23",
+    "lat": 56.817025,
+    "lng": 60.631664,
+    "description": null,
+    "raw": "Екатеринбург, улица Ткачей, 23",
+    "metro": {
+      "station_name": "Геологическая",
+      "line_name": "Север-Юг",
+      "station_id": "48.267",
+      "line_id": "48",
+      "lat": 56.826715,
+      "lng": 60.603754
+    },
+    "metro_stations": [
+      {
+        "station_name": "Геологическая",
+        "line_name": "Север-Юг",
+        "station_id": "48.267",
+        "line_id": "48",
+        "lat": 56.826715,
+        "lng": 60.603754
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Привет! Мы it-команда, внедряем крутые системы автоматизации деятельности в различные производственные предприятия, а также органы власти нашей страны. Если твои ценности-это делать свою работу хорошо, брать на себя ответственность за решения, улучшать жизнь людей, постоянно развиваться и стремиться к большему, то нам по пути!)</p> <p> </p> <strong>Обязанности:</strong> <ul> <li>участие в проекте по разработке/доработке, внедрению и сопровождению различных подсистем в качестве аналитика,</li> <li>участие в обследовании, определение проблем автоматизации на предприятии,</li> <li>анализ задач, поставленных заказчиком, подбор и формирование вариантов решения,</li> <li>участие в разработке плана работ, оценке, формировании технического задания, руководств пользователя, ПМИ, </li> <li>постановка задач разработчикам, участие в разработке в качестве аналитика.</li> </ul> <p> </p> <p><strong>Требования:</strong></p> <ul> <li>отличные аналитические способности в разных сферах хозяйственной деятельности производственных предприятий,</li> <li>способность определять требования к результату и контролировать соответствие достигнутого результата требованиям,</li> <li>грамотная речь, умение структурировать информацию, желание развиваться, коммуникабельность.</li> </ul> <p>Будет плюсом если у вас был опыт разработки проектной документации в соответствии с ГОСТ 34: техническое задание, план работ, технический проект, эксплуатационная документация.</p> <p> </p> <p><strong>Условия:</strong></p> <ul> <li>полный рабочий день, график работы 5/2, постоянная занятость;</li> <li>гибкое начало рабочего дня;</li> <li>оформление согласно ТК РФ;</li> <li>дружный, сплоченный коллектив, адекватное руководство;</li> <li>современный офис в классном БЦ с красивой набережной и парком;</li> <li>интересные задачи и проекты;</li> <li>высокий уровень зарплаты (индивидуально в соответствии с уровнем квалификации);</li> <li>возможны редкие краткосрочные командировки в Москву.<br /><br /><strong>Скорей присылай свой отклик и вливайся в нашу команду!</strong></li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Грамотная речь"
+    },
+    {
+      "name": "Разработка технических заданий"
+    },
+    {
+      "name": "Аналитическое мышление"
+    },
+    {
+      "name": "Постановка задач разработчикам"
+    },
+    {
+      "name": "MS Visio"
+    },
+    {
+      "name": "Описание бизнес-процессов"
+    },
+    {
+      "name": "Оптимизация бизнес-процессов"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "10",
+      "name": "Аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1005955",
+    "name": "Компьютерные Бизнес-Системы",
+    "url": "https://api.hh.ru/employers/1005955",
+    "alternate_url": "https://hh.ru/employer/1005955",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/235930.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/1386397.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/1386398.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1005955",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T10:18:26+0300",
+  "created_at": "2025-06-07T10:18:26+0300",
+  "initial_created_at": "2025-05-20T10:18:26+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120748012",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120748012",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

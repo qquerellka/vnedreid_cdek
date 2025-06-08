@@ -1,0 +1,110 @@
+{
+  "id": "121427915",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Senior Python Developer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>WMT Group </strong>- аккредитованная IT-компания, которая занимаемся разработкой собственных продуктов на стыке ML и AI и реализацией аутсорс проектов разработки в финтех сфере. Но для нас важен не только код — мы первая и единственная в стране IT-компания, представившая &quot;службу заботы&quot; для персонала.</p> <p><strong>Факты о нас:</strong></p> <ul> <li>7+ лет на рынке. Мы успешно перенесли все мировые потрясения и уверенно смотрим в будущее;</li> <li>60+ успешно реализованных IT - продуктов;</li> <li>250 + разработчиков. И мы растем;</li> <li>120 собственных нейроинструментов и мы активно работаем в этом направлении.</li> </ul> <p>Наши цели на ближайшую перспективу: релиз ряда собственных продуктов, выход на международный рынок, развитие нашей философии IT-разработки.</p> <p>Присоединяйтесь к команде, работающей над развитием высоконагруженной системы автозаказа и пополнения, цель которой — обеспечить оптимальный баланс товарных запасов и их доступности в сети.</p> <p>В рамках проекта вас ждут задачи по целевому развитию существующих сервисов, включая миграцию с PostgreSQL на Spark.</p> <p><strong>Задачи:</strong></p> <ul> <li> <p>Развитие и оптимизация сервиса параметров автозаказа;</p> </li> <li> <p>Перевод текущей архитектуры с PostgreSQL на Spark (PySpark, SparkSQL);</p> </li> <li> <p>Проведение интеграций;</p> </li> <li> <p>Работа в тесной связке с командой аналитиков и продуктов</p> </li> </ul> <p><strong>Требования:</strong></p> <ul> <li> <p>Опыт работы с PySpark, SparkSQL, PostgreSQL</p> </li> <li> <p>Знание Airflow, Debezium, ClickHouse</p> </li> <li> <p>Опыт участия в проектах по миграции данных и оптимизации хранилищ</p> </li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Работа в аккредитованной компании.</li> <li>Высокий уровень дохода с ежегодной индексацией заработной платы.</li> <li>Удаленный формат работы.</li> <li>Минимум бюрократии и максимум мобильности и автоматизации.</li> <li>Оформление по ТК РФ/ГПХ/СЗ/ИП (на ваш выбор).</li> <li>Есть реально работающая служба заботы :)</li> </ul> <ul> <li> <p>Навыки оптимизации производительности хранилищ данных</p> </li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4334427",
+    "name": "WMT",
+    "url": "https://api.hh.ru/employers/4334427",
+    "alternate_url": "https://hh.ru/employer/4334427",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1264965.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6680186.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6680187.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4334427",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T15:58:19+0300",
+  "created_at": "2025-06-06T15:58:19+0300",
+  "initial_created_at": "2025-06-06T15:58:19+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121427915",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121427915",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,110 @@
+{
+  "id": "121381166",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Аналитик данных",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы – РТК ИТ, компания, оказывающая полный комплекс услуг по разработке и внедрению программных решений.</p> <p><strong>Проект - </strong>аналитическое сопровождение Корпоративного Хранилища Данных.</p> <p><strong>Мы предлагаем:</strong></p> <p>- Удаленную работу с гибким началом рабочего дня (на территории РФ);<br />- Оформление по ТК РФ в аккредитованной ИТ-компании;<br />- Оклад и квартальные премии;<br />- Кафетерий льгот с возможностью выбора категорий (ДМС или компенсация затрат на медицинские услуги, спорт и т.д.)</p> <p><strong>Вам предстоит:</strong></p> <p><strong>-</strong>Обработка инцидентов 2/3ЛТП системы отчетности (DWH), выявление причин их возникновения, предоставление решений:<br />- анализ существующего кода БД (Greenplum, Рostgres);<br />- анализ кода BI-отчетности (Power BI, SuperSet, Oracle BI, Qlik Sense);<br />- диагностика проблем ETL-процессов;<br />- оказание консультаций по бизнес-процессам, реализованным в хранилище данных;<br />- кросс-функциональное взаимодействие с сотрудниками смежных подразделений.</p> <p>А также:</p> <p>- Формирование выгрузок из витрин хранилища данных;<br />- Тестирование разработок, сделанных на хранилище данных;<br />- Поддержание в актуальном состоянии действующей документации, ведение &quot;базы знаний&quot; по проектам в Jira, Confluence;<br />- Работа с внешними контрагентами по корректировке данных;<br />- Выявление дефектов, «узких» мест системы, формирование рекомендаций, решений для исправления<br />- Ведение «базы знаний» по проекту в Jira, Confluence.</p> <p><strong>Нам важно:</strong></p> <p>- Отличное знание SQL (сложные запросы, оконные функции, CTE);<br />- Хорошие аналитические способности, умение находить суть проблем и предлагать варианты решений;<br />- Умение систематизировать и структурировать информацию;<br />- Ответственность, внимательность к деталям;<br />- Грамотная письменная и устная речь, умение консультировать клиентов по проблемам и вопросам.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "156",
+      "name": "BI-аналитик, аналитик данных"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3144945",
+    "name": "Ростелеком Информационные Технологии",
+    "url": "https://api.hh.ru/employers/3144945",
+    "alternate_url": "https://hh.ru/employer/3144945",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/607382.png",
+      "90": "https://img.hhcdn.ru/employer-logo/2870680.png",
+      "240": "https://img.hhcdn.ru/employer-logo/2870681.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3144945",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T13:03:57+0300",
+  "created_at": "2025-06-05T13:03:57+0300",
+  "initial_created_at": "2025-06-05T13:03:57+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121381166",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121381166",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

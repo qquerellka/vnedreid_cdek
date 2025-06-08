@@ -1,0 +1,140 @@
+{
+  "id": "121344751",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Data Engineer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы- аккредитованная IT-компания, объединяющая опытных сотрудников, специализирующаяся на разработке, сопровождении и эксплуатации информационных систем, поддержки принятия решений в областях экономической и хозяйственной деятельности, в том числе обеспечения исполнения государственных услуг и функций.</p> <p>В связи с расширением штата, мы открываем вакансию <strong>Data Engineer</strong>.</p> <p> </p> <p><strong>Обязанности:</strong></p> <p>• Настройка и контроль автоматической выгрузки отчётов в Superset через Airflow и NiFi;<br />• Мониторинг выполнения процессов, выявление и первичный анализ ошибок;<br />• Фиксация и документирование сбоев, взаимодействие с разработчиками для их устранения;<br />• Замеры скорости выполнения SQL-запросов и формирования отчётов, сбор статистики;<br />• Проверка корректности данных в отчётах (сверка с исходными источниками);<br />• Взаимодействие с другими членами команды для эскалации сложных инцидентов;<br />• Участие в улучшении процессов мониторинга и автоматизации;<br />• Вывод изменений при помощи настроенных инструментов CI/CD.<br /><br /><strong>Требования:</strong></p> <p>• Опыт работы с Airflow (мониторинг DAG, анализ логов, перезапуск задач);<br />• Базовое понимание NiFi (просмотр потоков, проверка статусов);<br />• Знание сетевых технологий (DNS, TCP/IP, SSH, HTTP);<br />• Умение писать простые SQL-запросы (SELECT, JOIN, агрегация) для проверки данных;<br />• Знание основ Superset или аналогичных BI-инструментов (просмотр дашбордов, проверка метрик);<br />• Знание основ работы с инструментами CI/CD (GitLab CI, Argo CD и др.);<br />• Навыки работы с логами и поиска причин ошибок;<br />• Умение работать в команде и готовность к обучению новым технологиям;<br />• Ответственность и стрессоустойчивость;<br />• Готовность обучаться и развивать свои навыки;<br />• Внимание к деталям и умение работать с документацией.<br /><br /><strong>Приветствуются:</strong></p> <p>• Опыт работы с DWH (PostgreSQL, ClickHouse и др.);<br />• Базовые знания Python для чтения скриптов;<br />• Понимание принципов ETL.</p> <p><strong>Мы предлагаем: </strong></p> <p>• Удаленную работу;<br />• Ежегодно индексируемую ЗП;<br />• Официальное трудоустройство по ТК РФ (белая зп без задержек);<br />• Возможности для профессионального роста и развития;<br />• Премия по результатам выполняемых работ в проекте;<br />• Дружелюбный и поддерживающий коллектив;<br />• Участие в интересных и масштабных проектах;<br />• Аккредитованную компанию в Минцифры.</p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "CI/CD"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Apache NiFi"
+    },
+    {
+      "name": "Apache Airflow"
+    },
+    {
+      "name": "Настройка DNS"
+    },
+    {
+      "name": "TCP/IP"
+    },
+    {
+      "name": "SSH"
+    },
+    {
+      "name": "HTTP"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "165",
+      "name": "Дата-сайентист"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10770753",
+    "name": "Алиасофт",
+    "url": "https://api.hh.ru/employers/10770753",
+    "alternate_url": "https://hh.ru/employer/10770753",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1419493.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7297621.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7297622.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10770753",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T15:12:35+0300",
+  "created_at": "2025-06-04T15:12:35+0300",
+  "initial_created_at": "2025-06-04T15:12:35+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121344751",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121344751",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

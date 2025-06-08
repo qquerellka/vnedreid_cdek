@@ -1,0 +1,151 @@
+{
+  "id": "121259259",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 90000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 90000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "микрорайон Эльмаш, улица Фронтовых Бригад",
+    "building": "18",
+    "lat": 56.88046,
+    "lng": 60.631287,
+    "description": null,
+    "raw": "Екатеринбург, микрорайон Эльмаш, улица Фронтовых Бригад, 18",
+    "metro": {
+      "station_name": "Машиностроителей",
+      "line_name": "Север-Юг",
+      "station_id": "48.263",
+      "line_id": "48",
+      "lat": 56.878517,
+      "lng": 60.61218
+    },
+    "metro_stations": [
+      {
+        "station_name": "Машиностроителей",
+        "line_name": "Север-Юг",
+        "station_id": "48.263",
+        "line_id": "48",
+        "lat": 56.878517,
+        "lng": 60.61218
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Требуется Системный администратор / Ведущий системный администратор - уровень ЗП определяется на собеседовании</p> <p><strong>Обязанности:</strong></p> <ul> <li>Администрирование серверной инфраструктуры Windows/*nix (HP, Dell, Huawei, Supermicro, IBM);</li> <li>Виртуализация (ESXi /Hyper-V);</li> <li>Системы хранения (Huawei, Dell);</li> <li>Администрирование сетевой инфраструктуры (Cisco, Mikrotik, Huawei). Маршрутизация и коммутация. VLAN;</li> <li>Администрирование сетей передачи данных SAN;</li> <li>Мониторинг информационных ресурсов средствами Zabbix и Grafana;</li> <li>Понимание основ информационной безопасности (2FA, SSL);</li> <li>AD, DNS, DCHP, DFS, GPO;</li> <li>FreePBX;</li> <li>PowerShell, sh;</li> <li>Поддержка в актуальном состоянии документации и статей в базе знаний;</li> <li>СУБД MSSQL, PostgreSQL, MySQL;</li> <li>Системы резервного копирования.</li> </ul> <strong>Требования:</strong> <ul> <li>Высшее или среднее профессиональное образование</li> <li>Опыт работы по специальности не менее 3 лет</li> <li>Умение настраивать сервера</li> <li>Навыки настройки автоматического резервного копирования данных</li> <li>Навыки диагностики и ремонта компьютерной техники</li> <li>Опыт работы с сетевым оборудованием</li> <li>Установка и настройка серверного оборудования</li> <li>Удаленное администрирование серверных установок</li> <li>Удаленная поддержка пользователей</li> <li>Навык работы с сетевыми протоколами</li> <li>Знания принципов построения компьютерных сетей</li> <li>Имеется опыт в проектировании кабельной структуры связи компьютерной сети</li> <li>Опыт в проведении профилактических работ на серверах</li> <li>Настройка и оптимизация сетевой конфигурации</li> <li>Навык в выявлении и исправлении неисправностей в нештатных ситуациях</li> <li>Обеспечение защиты информации в сети</li> <li>Опыт работы с облачными системами</li> <li>Навыки работы в ОС Linux</li> <li>Опыт взаимодействия со специалистами смежного профиля</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Бесплатное питание (250 руб./день, услуги питания предоставляются в трех собственных столовых, расположенных на территории завода)</li> <li>Спорт за счет предприятия (бассейн, йога, танцы, футбол, волейбол, хоккей и др.)</li> <li>Доставка сотрудников (автобус Среднеуральск-Верхняя Пышма-УТЗ по 111 маршруту, а также с Академического района от ост. Ак.Парина с остановками по пути следования до/от УТЗ)</li> <li>ДМС (предоставляется после испытательного срока)</li> <li>Медпункт на территории завода</li> <li>Возможность получить новые знания</li> <li>Официальное трудоустройство с первого рабочего дня согласно ТК РФ;</li> <li>Зарплата выплачивается на карту два раза в месяц (уровень - рассматриваются ожидания кандидатов)</li> <li>Финансовое развитие (13-ая зарплата; ежегодная индексация)</li> <li>График работы: с 8.00 до 16.40 (пятидневка), обед с 12.00 до 12.40.</li> </ul> <p><strong>Место работы:</strong> ул. Фронтовых бригад, д. 18</p> <p><strong>Как добраться:</strong> ост. &quot;Турбинный завод&quot; (трамвай № 2, 7, 14, 24; троллейбус №33), ост. &quot;Фронтовых бригад&quot; (автобус № 41, 80), станция метро &quot;Машиностроителей&quot;</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "42405",
+    "name": "Уральский турбинный завод",
+    "url": "https://api.hh.ru/employers/42405",
+    "alternate_url": "https://hh.ru/employer/42405",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1385117.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7160255.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7160256.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=42405",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T07:38:27+0300",
+  "created_at": "2025-06-03T07:38:27+0300",
+  "initial_created_at": "2025-06-03T07:38:27+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121259259",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121259259",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

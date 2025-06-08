@@ -1,0 +1,185 @@
+{
+  "id": "118105559",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "C# (.net) developer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 120000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 120000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "улица Мамина-Сибиряка",
+    "building": "132",
+    "lat": 56.829813,
+    "lng": 60.620067,
+    "description": null,
+    "raw": "Екатеринбург, улица Мамина-Сибиряка, 132",
+    "metro": {
+      "station_name": "Геологическая",
+      "line_name": "Север-Юг",
+      "station_id": "48.267",
+      "line_id": "48",
+      "lat": 56.826715,
+      "lng": 60.603754
+    },
+    "metro_stations": [
+      {
+        "station_name": "Геологическая",
+        "line_name": "Север-Юг",
+        "station_id": "48.267",
+        "line_id": "48",
+        "lat": 56.826715,
+        "lng": 60.603754
+      },
+      {
+        "station_name": "Динамо",
+        "line_name": "Север-Юг",
+        "station_id": "48.265",
+        "line_id": "48",
+        "lat": 56.847818,
+        "lng": 60.599406
+      },
+      {
+        "station_name": "Площадь 1905 года",
+        "line_name": "Север-Юг",
+        "station_id": "48.266",
+        "line_id": "48",
+        "lat": 56.837982,
+        "lng": 60.59734
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Привет! В небольшую и позитивно — заряженную команду ищем C# (.net) developer с опытом разработки от 1 года ), коллегу ищем в офис. Удаленки - нет (</p> <p>Мы — СКБ Техно, IT-компания из Екатеринбурга, которая создает онлайн продукт — Регистратор сделок с недвижимостью в Росреестре.</p> <p>Наш сервис — сокращает сроки регистрации и предоставляет дополнительные возможности застройщикам, риэлторам и нотариусам.</p> <p><strong>В нашу небольшую команду — разыскивается C# (.net) developer.</strong></p> <p><strong>Небольшой список задач:</strong></p> <ul> <li>Главная задача - разработка API на базе .net MVC;</li> <li> <p>Писать код, исправлять баги, реализовывать новые фичи;</p> </li> <li> <p>Обеспечивать техническое качество продукта;</p> </li> <li> <p>Помогать в формировании глобальных целей по развитию продукта.</p> </li> </ul> <p><strong>Наши ожидания:</strong></p> <ul> <li> <p>Опыт разработки на C# от 1 года;</p> </li> <li> <p>Большой плюс — знание/опыт работы на базе .net MVC (framework или core не имеет особого значения);</p> </li> <li> <p>Опыт декомпозиции крупных задач;</p> </li> <li> <p>Широкий технический кругозор;</p> </li> <li>Желательны навыки CI/CD.</li> </ul> <p><strong>Условия:</strong></p> <p>Пятидневный рабочий график ( суббота — воскресенье отдыхаем), никаких переработок;</p> <p><strong>Территориально — Екатеринбург (Мамина-Сибиряка, 132)/удаленки нет!</strong></p> <p>Официальное оформление (вся зп —официальная) + 100 % покрытие больничных и отпусков;</p> <p>ДМС (включая стоматологию) после испытательного срока;</p> <p>Техника необходимая для работы;</p> <p>Фитнес (ходим в модный зал World Class).</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": ".NET Framework"
+    },
+    {
+      "name": "MVC"
+    },
+    {
+      "name": "C#"
+    },
+    {
+      "name": ".NET Core"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5602885",
+    "name": "СКБ Техно",
+    "url": "https://api.hh.ru/employers/5602885",
+    "alternate_url": "https://hh.ru/employer/5602885",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1390906.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7183411.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7183412.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5602885",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T18:47:32+0300",
+  "created_at": "2025-06-04T18:47:32+0300",
+  "initial_created_at": "2025-03-10T08:12:52+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=118105559",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/118105559",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

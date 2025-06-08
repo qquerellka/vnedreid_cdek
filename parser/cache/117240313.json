@@ -1,0 +1,135 @@
+{
+  "id": "117240313",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер технической поддержки",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "Толмачевская улица",
+    "building": "43/4",
+    "lat": 54.968933,
+    "lng": 82.801061,
+    "description": null,
+    "raw": "Новосибирск, Толмачевская улица, 43/4",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>Техническая поддержка пользователей, устранение неисправностей в работе компьютеров, оргтехники и локальной вычислительной сети;</li> <li>Решение программных и аппаратных проблем;</li> <li>Установка и настройка ОС, сетевого оборудования;</li> <li>Учет движения орг. техники и вычислительного оборудования;</li> <li>Ведение договоров.</li> </ul> <strong>Требования:</strong> <ul> <li>Знание устройства ПК, установки ОС, подключения и настройки принтеров, работы сетей передачи данных, области построения LAN/WAN сетей;</li> <li>Навыки сборки компьютеров из комплектующих, монтажа ЛВС, установки картриджей, поиска неисправностей в работе сети передачи данных;</li> <li>Знание всего семейства MS windows, MS office.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Современный склад по адресу: Толмачевская, 43/4 (остановка &quot;Машкомплект&quot;);</li> <li>Официальное трудоустройство в стабильной компании;</li> <li>Своевременная выплата заработной платы (белая);</li> <li>График работы: 5/2 (с 08.00 до 16.30);</li> <li>Корпоративное обучение;</li> <li>Организована доставка служебным транспортом с пл. К. Маркса, г. Обь, ЖК Матрёшкин двор;</li> <li>Акция &quot;Приведи друга&quot; и получи 10 000 руб.;</li> <li>Автопарковка для сотрудников;</li> <li>Корпоративная спец.одежда.</li> <li> <p>Дополнительные бонусы: материальная помощь, подарки на праздники для сотрудников и их детей.</p> <p><strong>Присоединяйтесь к нам!</strong></p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Ответственность"
+    },
+    {
+      "name": "Исполнительность"
+    },
+    {
+      "name": "Настройка ПК"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5441743",
+    "name": "Машкомплект",
+    "url": "https://api.hh.ru/employers/5441743",
+    "alternate_url": "https://hh.ru/employer/5441743",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/856812.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3868123.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3868124.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5441743",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T07:07:05+0300",
+  "created_at": "2025-06-02T07:07:05+0300",
+  "initial_created_at": "2025-02-14T06:55:55+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=117240313",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/117240313",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

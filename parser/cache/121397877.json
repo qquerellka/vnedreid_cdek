@@ -1,0 +1,200 @@
+{
+  "id": "121397877",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "AI-Developer / Архитектор искусственного продажника + ИИ-маркетинга",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 350000,
+    "to": 500000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 350000,
+    "to": 500000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "1-й Красногвардейский проезд",
+    "building": "22с2",
+    "lat": 55.751584,
+    "lng": 37.535305,
+    "description": null,
+    "raw": "Москва, 1-й Красногвардейский проезд, 22с2",
+    "metro": {
+      "station_name": "Деловой центр",
+      "line_name": "Большая кольцевая линия",
+      "station_id": "97.603",
+      "line_id": "97",
+      "lat": 55.7491,
+      "lng": 37.5395
+    },
+    "metro_stations": [
+      {
+        "station_name": "Деловой центр",
+        "line_name": "Большая кольцевая линия",
+        "station_id": "97.603",
+        "line_id": "97",
+        "lat": 55.7491,
+        "lng": 37.5395
+      },
+      {
+        "station_name": "Деловой центр",
+        "line_name": "Солнцевская",
+        "station_id": "133.468",
+        "line_id": "133",
+        "lat": 55.7491,
+        "lng": 37.5395
+      },
+      {
+        "station_name": "Тестовская",
+        "line_name": "МЦД-4",
+        "station_id": "136.897",
+        "line_id": "136",
+        "lat": 55.750833,
+        "lng": 37.530278
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Million Miles — международный холдинг, предоставляющий премиальные услуги по поиску, покупке и доставке любых транспортных средств и спецтехники по всему миру.</strong></p> <p><strong>С 2009 года мы успешно сопровождаем клиентов в выборе автомобилей, водного, воздушного и специального транспорта, ориентируясь на индивидуальные запросы и высокий уровень сервиса.</strong></p> <p><strong>Наши ключевые принципы — прозрачность, надежность, безопасность, экспертный подход и оперативность на каждом этапе работы.</strong></p> <p><strong>Более 10 000 человек уже доверили нам решение своих задач и стали постоянными клиентами компании.</strong></p> <p><strong>Million Miles — это не только бизнес, но и профессиональное сообщество. Мы придерживаемся открытой структуры управления: каждый сотрудник может инициировать диалог с топ-менеджментом и внести свой вклад в развитие компании.</strong></p> <p><br />Мы создаём уникальную экосистему, в которой искусственный интеллект не просто помогает — <strong>продаёт, обучается и сам генерирует digital-контент</strong> без участия человека. Ваша задача — <strong>разработать полноценного AI-продажника</strong>, который учится на данных CRM, звонках и переписках, самостоятельно генерирует скрипты и ведёт диалог с клиентом так, как это сделал бы живой менеджер.<br /></p> <p><strong>Ваши задачи:</strong></p> <ul> <li> <p>Разработка и внедрение самобучающейся системы ИИ-продажника (на основе CRM, звонков, переписок);</p> </li> <li> <p>Создание и интеграция чат-ботов и голосовых ботов с ML и NLP;</p> </li> <li> <p>Интеграция ИИ-решений с Bitrix, AmoCRM, WhatsApp, Telegram и другими каналами;</p> </li> <li> <p>Автоматизация генерации digital-контента: рилсы, тексты, обложки, видео;</p> </li> <li> <p>Настройка систем оценки качества звонков: классификация, подсветка сильных и слабых, генерация скриптов;</p> </li> <li> <p>Построение комплексной AI-системы, закрывающей цикл: <strong>контент → продажи → анализ.</strong></p> </li> </ul> <p><strong>Что важно:</strong></p> <ul> <li> <p>Опыт в разработке систем машинного обучения (включая обработку речи, NLP, классификацию);</p> </li> <li> <p>Знание и опыт работы с OpenAI API, Whisper, LangChain;</p> </li> <li> <p>Владение Python и/или JavaScript;</p> </li> <li> <p>Опыт интеграции ИИ-решений с CRM и мессенджерами;</p> </li> <li> <p>Понимание принципов digital-маркетинга и AI-контент-генерации;</p> </li> <li> <p>Умение мыслить системно, работать автономно и на результат.<br /></p> </li> <li> <p><strong>Условия:</strong></p> </li> <li> <p>График работы: 5/2;</p> </li> <li> <p>KPI + бонусная система мотивации;</p> </li> <li> <p>Гибкий формат: офис в Москве, удалённо или гибрид — по согласованию;</p> </li> <li> <p>Участие в масштабных проектах в сфере <strong>люксовых авто, медиа и маркетинга</strong>;</p> </li> <li> <p>Возможность карьерного роста — вплоть до <strong>руководителя AI-направления.</strong></p> </li> </ul> <p><strong>Как откликнуться</strong></p> <p>Жмите «Откликнуться», прикрепляйте своё резюме и, по возможности, укажите примеры реализованных AI-проектов. Нам интересны как действующие продукты, так и прототипы.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Machine Learning"
+    },
+    {
+      "name": "NLP"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "LangChain"
+    },
+    {
+      "name": "Whisper"
+    },
+    {
+      "name": "OpenAI"
+    },
+    {
+      "name": "Интеграция с CRM"
+    },
+    {
+      "name": "Digital-маркетинг"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5388495",
+    "name": "Million Miles",
+    "url": "https://api.hh.ru/employers/5388495",
+    "alternate_url": "https://hh.ru/employer/5388495",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1349907.JPG",
+      "90": "https://img.hhcdn.ru/employer-logo/7019570.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/7019571.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5388495",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T18:49:51+0300",
+  "created_at": "2025-06-05T18:49:51+0300",
+  "initial_created_at": "2025-06-05T18:49:51+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121397877",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121397877",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_9",
+      "name": "9 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

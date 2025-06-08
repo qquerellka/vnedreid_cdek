@@ -1,0 +1,140 @@
+{
+  "id": "120421866",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Senior Backend Developer (AWS, Python, WebSocket, Long-polling)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 230000,
+    "to": 300000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 230000,
+    "to": 300000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Nasledie.Digital</strong> – компания, специализирующаяся на сохранении личных и семейных историй. <em>Наша миссия</em> — помочь каждому сохранить воспоминания для будущих поколений. Мы предлагаем услуги по созданию <em>персональных цифровых &quot;капсул времени&quot;</em>, которые включают: сбор и систематизацию материалов, создание интерактивных семейных архивов и предоставление консультаций по сохранению историй. Наша команда состоит из более 50 профессионалов, работающих над уникальными проектами, которые меняют рынок сохранения и передачи наследия следующим поколениям.</p> <div>С момента основания мы помогли сотням людей собрать, систематизировать и сохранить их воспоминания и семейные архивы, чтобы передать потомкам цифровой образ их предков. Мы стремимся развивать наши решения, внедряя новейшие технологии, и ищем в свою команду<em><strong> Senior Backend Developer (AWS, Python, WebSocket, Long-polling)</strong></em>.</div> <div> <p> </p> <p><strong>Чем предстоит заниматься:</strong></p> <p> </p> </div> <div><em>Приложение NADI </em>: вечный цифровой архив, который помогает хранить и обрабатывать воспоминания Пользователя, а также спрашивать актуальные советы (дизайн и функции - см. GPT). Подключен к LLM и RAG.</div> <div> </div> <div><em>Проект</em> – бэкенд на основе “облака” для интеллектуального чат-приложения &quot;GPT-like&quot; (MVP), которое хранит воспоминания и даёт рекомендации на их основе.</div> <div> </div> <p><em>Цель проекта</em> – разработать и развернуть на облачной платформе AWS минимально жизнеспособный продукт (MVP) бэкенда для чат-приложения с потоковой передачей данных и исправить текущую логику фронтэнда и ui решения под это.</p> <div> </div> <ul> <li>По задачам от Head of product (бэклог) и в рамках ТЗ обеспечить разработку бэкенда с развёртыванием на AWS.</li> <li>Работать с командой фронтэнда по api-интеграции функций.</li> <li>В далнейшем - развитие сайта, акцент на взаимодействие с RAG, LLM, развитие открытого исходного кода.</li> </ul> <p><br /><strong>Необходимый опыт (стек технологий, которые знаете и имеете опыт настройки):</strong></p> <ul> <li>Потоковая передача данных: WebSocket и Long-polling.</li> <li>AWS: API Gateway, EC2, S3, RDS.</li> <li>Кастомная Аутентификация (&quot;email одноразовые коды + Auth 2.0 Gmail + Yandex ID&quot;).</li> </ul> <p><br /><strong>Понимание принципов работы и знание:</strong></p> <ul> <li>GeoIP Сервис/База данных.</li> <li>AWS Secrets Manager.</li> <li>AWS CloudWatch.</li> </ul> <p><br /><strong>Предпочтителен опыт работы с:</strong></p> <ul> <li>Диалоговая LLM.</li> <li>Мультимодальная LLM.</li> <li>RAG.</li> <li>WebRTC.</li> <li>Знание Flutter (Durt) или участие в проектах API с web/native приложениями такого рода.</li> </ul> <div> </div> <div><strong>(!) Обязательные условия: </strong>наличие открытых репозиториев на Github с релевантным опытом согласно описанному выше или готовность показать приватные репозитории (просьба сразу прикреплять к откликам).</div> <p> </p> <div> </div> <div> <p><strong>Что предлагаем:</strong></p> </div> <ul> <li>Удаленную работу из любой точки мира.</li> <li>Полную занятость.</li> <li>Оформление (Самозанятость, ИП).</li> <li>Команду, с которой можно обсуждать идеи, тестировать гипотезы и не бояться ошибок.</li> <li>Возможность влиять на продукт на раннем этапе.</li> </ul> <div> </div> <div><em>Если ты хочешь работать в команде, где твои идеи и усилия будут важны, присоединяйся к нам!</em></div> <div><em><strong>Команда Nasledie.Digital​​​​​</strong></em></div> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "TypeScript"
+    },
+    {
+      "name": "API Gateway"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5595594",
+    "name": "Наследие Диджитл",
+    "url": "https://api.hh.ru/employers/5595594",
+    "alternate_url": "https://hh.ru/employer/5595594",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/872799.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3932071.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3932072.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5595594",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-12T15:44:25+0300",
+  "created_at": "2025-05-12T15:44:25+0300",
+  "initial_created_at": "2025-05-12T15:44:25+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120421866",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120421866",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,149 @@
+{
+  "id": "121349553",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист техподдержки (верификация пользователей)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 53000,
+    "to": 60000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 53000,
+    "to": 60000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": {
+    "id": "866666-866666-clubs",
+    "name": "BetBoom.Клубы"
+  },
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Вносить персональные данные клиентов в базу.</li> <li>Общаться с клиентами с целью подтверждения их личности.</li> <li>Выявлять негативные предпосылки проблем с клиентами с последующей передачей руководству для её устранения.</li> <li>Стремиться помочь клиенту в сложной ситуации, демонстрируя уверенность и спокойствие в голосе.</li> </ul> <p><strong>Что мы хотим видеть:</strong></p> <ul> <li>Опыт работы в сфере обслуживания клиентов или колл-центре.</li> <li>Уверенное владение ПК.</li> <li><strong>Готовность к полной удаленке (компьютер и + - тишина в помещении в рабочее время - график - ночь с 21 до 09). </strong></li> <li>Грамотная письменная и устная речь.</li> <li>Умение работать с большим объемом информации, а также с базами знаний и crm системами.</li> </ul>",
+  "branded_description": "\n<style>\n\n.hht-vacancydescription {\n  padding: 0 !important;\n}\n\n.vacancy-branded-user-content ul,\n.vacancy-branded-user-content ol {\n  margin-left: 0;\n}\n\n.vacancy-branded-user-content p {\n  margin-top: 0 !important;\n}\n\n.vacancy-branded-user-content p:first-child b,\n.vacancy-branded-user-content p:first-child strong {\n  margin-top: 0 !important;\n}\n\n.tmpl-hh-wrapper {\n  width: 100%;\n  margin: 0 auto;\n  max-width: 690px;\n  position: relative;\n  overflow: hidden;\n  font-family: \"Arial\", sans-serif;\n  font-style: normal;\n  font-weight: 400;\n  font-size: 16px;\n  color: #000;\n  line-height: 1.6 !important;\n  background: #F6F6F6;\n  box-sizing: border-box;\n  border-radius: 4px;\n}\n\n.tmpl-hh-wrapper * {\n  box-sizing: border-box;\n  padding: 0;\n  margin: 0;\n}\n\n.tmpl-hh-wrapper sup {\n  vertical-align: top;\n}\n\n.tmpl-hh-content ol li p,\n.tmpl-hh-content ul li p {\n  margin: 0 !important;\n}\n\n.tmpl-hh-content ol li p b,\n.tmpl-hh-content ol li p strong,\n.tmpl-hh-content ul li p b,\n.tmpl-hh-content ul li p strong {\n  font-weight: 700;\n  font-size: inherit !important;\n  margin: 0 !important;\n  text-transform: none;\n  color: inherit !important;\n  display: initial;\n}\n\n.tmpl-hh-content ol li em,\n.tmpl-hh-content ul li em {\n  font-style: normal !important;\n}\n\n.tmpl-hh-content ol li em b,\n.tmpl-hh-content ol li em strong,\n.tmpl-hh-content ul li em b,\n.tmpl-hh-content ul li em strong {\n  text-transform: none;\n  display: inherit;\n  font-weight: 700;\n  font-size: inherit;\n  color: inherit;\n  font-style: normal !important;\n}\n\n.tmpl-hh-content ol li b,\n.tmpl-hh-content ol li strong,\n.tmpl-hh-content ul li b,\n.tmpl-hh-content ul li strong {\n  font-weight: 700;\n  font-size: inherit !important;\n  margin: 0 !important;\n  text-transform: none;\n  color: inherit !important;\n}\n\n.tmpl-hh-content p {\n  margin-bottom: 16px;\nline-height: 1.6;\n}\n\n.tmpl-hh-content p b,\n.tmpl-hh-content p strong {\n  display: inline-block;\n  font-weight: 700;\n  font-size: 20px;\n  line-height: 1.2;\n  color: #000;\n  margin-top: 32px !important;\n}\n\n.tmpl-hh-content p em {\n  font-style: normal !important;\n}\n\n.tmpl-hh-content p em b,\n.tmpl-hh-content p em strong {\n  text-transform: none;\n  display: inherit;\n  font-weight: 700;\n  font-size: inherit;\n  color: inherit !important;\n  font-style: normal !important;\n  background: transparent;\n  padding: 0;\n}\n\n.tmpl-hh-content p:first-child b,\n.tmpl-hh-content p:first-child strong {\n  margin-top: 0 !important;\n}\n\n.tmpl-hh-content p:last-child {\n  margin-bottom: 0 !important;\n}\n\n.tmpl-hh-content .l-paddings {\n  padding: 0;\n}\n\n@media (max-width: 1019px) {\n  .tmpl-hh-wrapper {\n    max-width: 610px;\n  }\n}\n\n@media (max-width: 699px) {\n  .tmpl-hh-wrapper .tmpl-hh-content p strong {\n    font-size: 16px;\n    margin-top: 20px;\n  }\n}\n\n.tmpl-hh-header {\n  margin-top: -5px;\n  margin-bottom: 20px;\n  padding: 35px 30px 0;\n  background: #F6F6F6;\n  border-radius: 4px 4px 0 0;\n}\n\n.tmpl-hh-header__inner {\n  padding: 35px 30px 48px;\n  background: #FF0025;\n  border-radius: 32px;\n  position: relative;\n  isolation: isolate;\n}\n\n.tmpl-hh-header__title {\n  margin: 0 auto;\n  display: block;\n  width: 512px;\n  height: 228px;\n  object-fit: cover;\n}\n\n.tmpl-hh-header__wrapper {\n  margin-bottom: 32px;\n  padding: 20px 24px;\n  position: relative;\n  background: #fff;\n  border-radius: 24px;\n  display: flex;\n  flex-direction: column;\n  gap: 11px;\n}\n\n.tmpl-hh-header__text {\n  font-size: 16px;\n  font-weight: 400;\n  line-height: 140%;\n  color: #1E1E1E;\n  text-align: center;\n}\n\n.tmpl-hh-header__cup {\n  position: absolute;\n  top: 114px;\n  right: 0;\n  width: 141px;\n  height: 188px;\n  object-fit: cover;\n  z-index: -1;\n}\n\n.tmpl-hh-header__items {\n  display: flex;\n  justify-content: space-between;\n}\n\n.tmpl-hh-header__item {\n  width: 170px;\n}\n\n.tmpl-hh-header__item-num {\n  margin: 0 auto 4px;\n  display: block;\n}\n\n.tmpl-hh-header__item-text {\n  color: #fff;\n  font-size: 16px;\n  font-weight: 400;\n  line-height: 140%;\n  text-align: center;\n}\n\n@media (max-width: 1019px) {\n  .tmpl-hh-header__title {\n    width: 494px;\n    height: 223px;\n  }\n  .tmpl-hh-header__cup {\n    top: 149px;\n    right: 3px;\n    width: 106px;\n    height: 150px;\n  }\n}\n\n@media (max-width: 699px) {\n  .tmpl-hh-header {\n    margin-top: 0;\n    margin-bottom: 30px;\n    padding: 10px 10px 0;\n  }\n  .tmpl-hh-header__inner {\n    padding: 14px 10px 30px;\n    border-radius: 20px;\n  }\n  .tmpl-hh-header__title {\n    margin-bottom: 13px;\n    width: 242px;\n    height: 112px;\n    object-fit: cover;\n  }\n  .tmpl-hh-header__wrapper {\n    margin-bottom: 30px;\n    border-radius: 20px;\n  }\n  .tmpl-hh-header__text {\n    font-size: 12px;\n  }\n  .tmpl-hh-header__cup {\n    top: 90px;\n    right: 0;\n    width: 54px;\n    height: 72px;\n  }\n  .tmpl-hh-header__items {\n    display: flex;\n    flex-direction: column;\n    gap: 20px;\n  }\n  .tmpl-hh-header__item {\n    width: 100%;\n  }\n  .tmpl-hh-header__item-text {\n    font-size: 12px;\n  }\n}\n\n.tmpl-hh-content {\n  margin: 0 30px 19px;\n  padding: 60px 40px;\n  background: #F8E800;\n  border-radius: 32px;\n}\n\n.tmpl-hh-content ul,\n.tmpl-hh-content ol {\n  margin-left: 0;\n}\n\n.tmpl-hh-content ul li,\n.tmpl-hh-content ol li {\n  list-style: none;\n  position: relative;\n  padding-left: 13px;\n  color: #000;\n  line-height: 1.4;\n  font-size: 16px;\n}\n\n.tmpl-hh-content ul li:not(:last-child),\n.tmpl-hh-content ol li:not(:last-child) {\n  margin-bottom: 8px;\n}\n\n.tmpl-hh-content ul li::before,\n.tmpl-hh-content ol li::before {\n  position: absolute;\n  top: 7px;\n  left: 2px;\n  content: \"\";\n  width: 4px;\n  height: 4px;\n  border-radius: 50%;\n  background: #000;\n}\n\n@media (max-width: 1019px) {\n  .tmpl-hh-content {\n    padding: 40px 20px;\n  }\n}\n\n@media (max-width: 699px) {\n  .tmpl-hh-content {\n    margin: 0 10px 30px;\n    padding: 20px 10px;\n    border-radius: 20px;\n  }\n  .tmpl-hh-content .tmpl-hh-content ul li {\n    font-size: 14px;\n  }\n}\n\n.tmpl-hh-footer {\n  padding: 0 30px;\n}\n\n.tmpl-hh-footer__wrapper {\n  padding: 46px 30px 42px;\n  background: #F8E800;\n  border-radius: 32px;\n  position: relative;\n  isolation: isolate;\n}\n\n.tmpl-hh-footer__title {\n  margin: 0 auto 33px;\n  display: block;\n  width: 334px;\n  height: 31px;\n}\n\n.tmpl-hh-footer__items {\n  margin-bottom: 40px;\n  display: flex;\n  flex-wrap: wrap;\n  gap: 7px;\n}\n\n.tmpl-hh-footer__item {\n  padding: 20px 19px;\n  border-radius: 24px;\n  background: #fff;\n  width: 185px;\n  height: 164px;\n  color: #0D0D0D;\n  position: relative;\n}\n\n.tmpl-hh-footer__item_wide {\n  width: 281px;\n}\n\n.tmpl-hh-footer__item-title {\n  margin-bottom: 8px;\n  font-size: 16px;\n  font-weight: 700;\n  line-height: 120%;\n}\n\n.tmpl-hh-footer__item-list {\n  list-style-type: disc;\n}\n\n.tmpl-hh-footer__item-list-item {\n  list-style-type: disc;\n  margin-left: 20px;\n  font-size: 12px;\n  font-weight: 400;\n  line-height: 120%;\n  max-width: 160px;\n}\n\n.tmpl-hh-footer__item-img {\n  position: absolute;\n  right: 15px;\n  bottom: 15px;\n}\n\n.tmpl-hh-footer__item-img_1 {\n  width: 36px;\n  height: 60px;\n}\n\n.tmpl-hh-footer__item-img_2 {\n  width: 52px;\n  height: 52px;\n}\n\n.tmpl-hh-footer__item-img_3 {\n  width: 49px;\n  height: 49px;\n}\n\n.tmpl-hh-footer__item-img_4 {\n  width: 59px;\n  height: 70px;\n}\n\n.tmpl-hh-footer__item-img_5 {\n  width: 56px;\n  height: 73px;\n}\n\n.tmpl-hh-footer__join {\n  padding: 20px 24px;\n  background: #fff;\n  border-radius: 24px;\n}\n\n.tmpl-hh-footer__join-img {\n  margin: 0 auto;\n  display: block;\n}\n\n.tmpl-hh-footer__balls {\n  position: absolute;\n  bottom: 0;\n  left: 0px;\n  width: 100%;\n  height: auto;\n  object-fit: cover;\n  z-index: -1;\n}\n\n.tmpl-hh-footer__bot {\n  padding: 20px 0;\n  margin: 0 auto;\n  width: fit-content;\n  display: flex;\n  flex-direction: column;\n}\n\n.tmpl-hh-footer__copy {\n  font-size: 12px;\n  font-weight: 400;\n  line-height: 140%;\n  text-align: center;\n}\n\n@media (max-width: 1019px) {\n  .tmpl-hh-footer__items {\n    margin-bottom: 20px;\n    flex-direction: column;\n    gap: 10px;\n  }\n  .tmpl-hh-footer__item {\n    padding: 20px 19px;\n    border-radius: 20px;\n    width: 100%;\n    height: 151px;\n  }\n  .tmpl-hh-footer__item_wide {\n    padding-right: 30%;\n    width: 100%;\n  }\n  .tmpl-hh-footer__item-list-item {\n    max-width: 100%;\n  }\n}\n\n@media (max-width: 699px) {\n  .tmpl-hh-footer {\n    padding: 0 10px;\n  }\n  .tmpl-hh-footer__wrapper {\n    padding: 26px 10px 30px;\n    border-radius: 20px;\n  }\n  .tmpl-hh-footer__title {\n    margin: 0 auto 20px;\n    width: 228px;\n    height: 21px;\n    object-fit: cover;\n  }\n  .tmpl-hh-footer__join {\n    border-radius: 22px;\n  }\n  .tmpl-hh-footer__join-img {\n    width: 210px;\n    height: 38px;\n    object-fit: cover;\n  }\n  .tmpl-hh-footer__bot {\n    padding: 20px 0 0;\n    margin: 0 auto;\n    width: 229px;\n  }\n  .tmpl-hh-footer__copy {\n    font-size: 10px;\n  }\n}\n</style>\n\n<div class=\"tmpl-hh-wrapper\">\n    <div class=\"tmpl-hh-header\">\n    <div class=\"tmpl-hh-header__inner\">\n        <picture>   \n            <source media=\"(max-width: 699px)\" srcset=\"https://hhcdn.ru/ichameleon/360709.png\"></source>\n             <img src=\"https://hhcdn.ru/ichameleon/360708.png\" alt=\"\" class=\"tmpl-hh-header__title\">\n            </picture>\n            <img src=\"https://hhcdn.ru/ichameleon/360713.png\" alt=\"\" class=\"tmpl-hh-header__cup\">\n            <div class=\"tmpl-hh-header__wrapper\">\n                <div class=\"tmpl-hh-header__text\">\n                    BetBoom — компания, создающая удобные и технологичные букмекерские продукты. С 2011 года мы выросли от новичка до одного из лидеров* рынка.\n                </div>\n                <div class=\"tmpl-hh-header__text\">\n                    \n        Мы занимаем высокие позиции по трафику в онлайне среди букмекерских компаний и 6-е место в категории средних компаний в рейтинге работодателей России HeadHunter в 2023 году. Мы меняем отношение людей к ставкам на спорт.\n                </div>\n                \n            </div>\n        \n            <div class=\"tmpl-hh-header__items\">\n                <div class=\"tmpl-hh-header__item\">\n                    <img src=\"https://hhcdn.ru/ichameleon/360710.svg\" alt=\"\" class=\"tmpl-hh-header__item-num\">\n                    <div class=\"tmpl-hh-header__item-text\">\n                        клубов по всей России\n                    </div>\n                </div>\n                <div class=\"tmpl-hh-header__item\">\n                    <img src=\"https://hhcdn.ru/ichameleon/360711.svg\" alt=\"\" class=\"tmpl-hh-header__item-num\">\n                    <div class=\"tmpl-hh-header__item-text\">\n                        офиса в Москве\n                    </div>\n                </div>\n                <div class=\"tmpl-hh-header__item\">\n                    <img src=\"https://hhcdn.ru/ichameleon/360712.svg\" alt=\"\" class=\"tmpl-hh-header__item-num\">\n                    <div class=\"tmpl-hh-header__item-text\">\n                        офис в Ереване\n                    </div>\n                </div>\n            </div>\n    </div>\n    </div>    <div class=\"tmpl-hh-content\">\n    \n      <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Вносить персональные данные клиентов в базу.</li> <li>Общаться с клиентами с целью подтверждения их личности.</li> <li>Выявлять негативные предпосылки проблем с клиентами с последующей передачей руководству для её устранения.</li> <li>Стремиться помочь клиенту в сложной ситуации, демонстрируя уверенность и спокойствие в голосе.</li> </ul> <p><strong>Что мы хотим видеть:</strong></p> <ul> <li>Опыт работы в сфере обслуживания клиентов или колл-центре.</li> <li>Уверенное владение ПК.</li> <li><strong>Готовность к полной удаленке (компьютер и + - тишина в помещении в рабочее время - график - ночь с 21 до 09). </strong></li> <li>Грамотная письменная и устная речь.</li> <li>Умение работать с большим объемом информации, а также с базами знаний и crm системами.</li> </ul></div>\n    <div class=\"tmpl-hh-footer\">\n      <div class=\"tmpl-hh-footer__wrapper\">\n        <img src=\"https://hhcdn.ru/ichameleon/360716.svg\" alt=\"\" class=\"tmpl-hh-footer__title\">\n    \n        <div class=\"tmpl-hh-footer__items\">\n          <div class=\"tmpl-hh-footer__item\">\n            <div class=\"tmpl-hh-footer__item-title\">\n              Здоровье \n            </div>\n            <ul class=\"tmpl-hh-footer__item-list\">\n              <li class=\"tmpl-hh-footer__item-list-item\">\n                Расширенный ДМС со стоматологией\n              </li>\n            </ul>\n            <img src=\"https://hhcdn.ru/ichameleon/360718.png\" alt=\"\" class=\"tmpl-hh-footer__item-img tmpl-hh-footer__item-img_1\">\n          </div>\n    \n          <div class=\"tmpl-hh-footer__item\">\n            <div class=\"tmpl-hh-footer__item-title\">\n              Спорт \n            </div>\n            <ul class=\"tmpl-hh-footer__item-list\">\n              <li class=\"tmpl-hh-footer__item-list-item\">Компенсация фитнеса</li>\n              <li class=\"tmpl-hh-footer__item-list-item\">Корпоративные спортивные мероприятия</li>\n            </ul>\n            <img src=\"https://hhcdn.ru/ichameleon/360719.png\" alt=\"\" class=\"tmpl-hh-footer__item-img tmpl-hh-footer__item-img_2\">\n          </div>\n    \n          <div class=\"tmpl-hh-footer__item\">\n            <div class=\"tmpl-hh-footer__item-title\">\n              Комьюнити\n            </div>\n            <ul class=\"tmpl-hh-footer__item-list\">\n              <li class=\"tmpl-hh-footer__item-list-item\">Сообщества по интересам </li>\n              <li class=\"tmpl-hh-footer__item-list-item\">Открытая корпоративная культура</li>\n            </ul>\n            <img src=\"https://hhcdn.ru/ichameleon/360720.png\" alt=\"\" class=\"tmpl-hh-footer__item-img tmpl-hh-footer__item-img_3\">\n          </div>\n    \n          <div class=\"tmpl-hh-footer__item tmpl-hh-footer__item_wide\">\n            <div class=\"tmpl-hh-footer__item-title\">\n              Офис\n            </div>\n            <ul class=\"tmpl-hh-footer__item-list\">\n              <li class=\"tmpl-hh-footer__item-list-item\">Гибкое начало рабочего дня</li>\n              <li class=\"tmpl-hh-footer__item-list-item\">Все необходимое оборудование для работы</li>\n              <li class=\"tmpl-hh-footer__item-list-item\">Оплачиваемое питание</li>\n            </ul>\n            <img src=\"https://hhcdn.ru/ichameleon/360721.png\" alt=\"\" class=\"tmpl-hh-footer__item-img tmpl-hh-footer__item-img_4\">\n          </div>\n    \n          <div class=\"tmpl-hh-footer__item tmpl-hh-footer__item_wide\">\n            <div class=\"tmpl-hh-footer__item-title\">\n              Развитие \n            </div>\n            <ul class=\"tmpl-hh-footer__item-list\">\n              <li class=\"tmpl-hh-footer__item-list-item\">Внешнее обучение и внутренние тренинги по soft skills</li>\n              <li class=\"tmpl-hh-footer__item-list-item\">Поощрение участия в профессиональных мероприятиях</li>\n            </ul>\n            <img src=\"https://hhcdn.ru/ichameleon/360722.png\" alt=\"\" class=\"tmpl-hh-footer__item-img tmpl-hh-footer__item-img_5\">\n          </div>\n        </div>\n    \n        <div class=\"tmpl-hh-footer__join\">\n          <picture>\n            <source media=\"(max-width: 699px)\" srcset=\"https://hhcdn.ru/ichameleon/360715.svg\"></source>\n            <img src=\"https://hhcdn.ru/ichameleon/360714.svg\" alt=\"\" class=\"tmpl-hh-footer__join-img\">\n          </picture>\n        </div>\n    \n      <picture> \n        <source media=\"(max-width: 699px)\" srcset=\"https://hhcdn.ru/ichameleon/360717.png\"></source>\n         <img src=\"https://hhcdn.ru/ichameleon/360729.png\" alt=\"\" class=\"tmpl-hh-footer__balls\">\n        </picture>\n      </div>\n    \n    \n      <div class=\"tmpl-hh-footer__bot\">\n        <div class=\"tmpl-hh-footer__copy\">*Рейтинг трафика пользователей по исследованию Similarweb за 2023 год</div>\n        <div class=\"tmpl-hh-footer__copy\">  ООО ФИРМА «СТОМ» представляет бренд BetBoom</div>\n      </div>\n    </div>    \n</div>\n\n\n<script type=\"text/javascript\">  \n//\n\n(function polyfill() {\n  const relList = document.createElement(\"link\").relList;\n  if (relList && relList.supports && relList.supports(\"modulepreload\")) {\n    return;\n  }\n  for (const link of document.querySelectorAll('link[rel=\"modulepreload\"]')) {\n    processPreload(link);\n  }\n  new MutationObserver((mutations) => {\n    for (const mutation of mutations) {\n      if (mutation.type !== \"childList\") {\n        continue;\n      }\n      for (const node of mutation.addedNodes) {\n        if (node.tagName === \"LINK\" && node.rel === \"modulepreload\")\n          processPreload(node);\n      }\n    }\n  }).observe(document, { childList: true, subtree: true });\n  function getFetchOpts(link) {\n    const fetchOpts = {};\n    if (link.integrity)\n      fetchOpts.integrity = link.integrity;\n    if (link.referrerPolicy)\n      fetchOpts.referrerPolicy = link.referrerPolicy;\n    if (link.crossOrigin === \"use-credentials\")\n      fetchOpts.credentials = \"include\";\n    else if (link.crossOrigin === \"anonymous\")\n      fetchOpts.credentials = \"omit\";\n    else\n      fetchOpts.credentials = \"same-origin\";\n    return fetchOpts;\n  }\n  function processPreload(link) {\n    if (link.ep)\n      return;\n    link.ep = true;\n    const fetchOpts = getFetchOpts(link);\n    fetch(link.href, fetchOpts);\n  }\n})();\nconst index = \"\";\nwindow.addEventListener(\"DOMContentLoaded\", () => {\n});\n\n\n//\n</script>\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Техническая поддержка"
+    },
+    {
+      "name": "Техническая поддержка пользователей"
+    },
+    {
+      "name": "Грамотность"
+    },
+    {
+      "name": "CRM"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "866666",
+    "name": "BetBoom",
+    "url": "https://api.hh.ru/employers/866666",
+    "alternate_url": "https://hh.ru/employer/866666",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/759888.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3480509.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3480510.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=866666",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T16:26:01+0300",
+  "created_at": "2025-06-04T16:26:01+0300",
+  "initial_created_at": "2025-06-04T16:26:01+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121349553",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121349553",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": true,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "THREE_ON_THREE_OFF",
+      "name": "3/3"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_12",
+      "name": "12 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

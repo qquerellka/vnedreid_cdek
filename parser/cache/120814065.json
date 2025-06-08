@@ -1,0 +1,142 @@
+{
+  "id": "120814065",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Quantitative Researcher",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 2000,
+    "to": 4000,
+    "currency": "USD",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 2000,
+    "to": 4000,
+    "currency": "USD",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<div><strong>✔️О проекте: </strong>Мы создаем *внутренний финтех-продукт* — высоконагруженную платформу для аналитики и прогнозирования на криптовалютных и традиционных финансовых рынках.</div> <div> </div> <div>Компания работает с 2018 года как частный фонд, инвестируя собственный капитал. В команде фаундер с успешным опытом в трейдинге с 2015 года и аналитик с более чем 15-летним стажем.</div> <div> </div> <div><strong>✔️ Обязанности:</strong></div> <div> </div> <div>Ваша основная <strong>задача</strong> — находить и проверять идеи, которые лягут в основу торговых и инвестиционных стратегий команды.</div> <div> </div> <div><strong>1. Исследование криптовалютного рынка</strong></div> <div>- Анализировать структуру и динамику криптовалютного рынка</div> <div>- Отслеживать новые академические и индустриальные исследования трейдинговых инструментов, выявлять перспективные подходы в трейдинге и best practices.</div> <div><strong>2. Разработка и подбор признаков (feature engineering)</strong></div> <div>-<strong> </strong>Генерировать и структурировать наборы рыночных, фундаментальных и альтернативных данных.</div> <div>- Создавать и тестировать новые фичи, формализуя экономически обоснованные гипотезы.</div> <div><strong>3. Оценка идей с помощью ML-метрик</strong></div> <div>- Тестировать найденные гипотезы и фичи с помощью уже существующего бейзлайна для оценки стратегий.</div> <div>- Находить и предлагать SOTA ML инструменты для генерации, построения моделей, анализа метрик.</div> <div> </div> <div><strong>✔️ Требования:</strong></div> <div> </div> <div><strong>- </strong>Опыт работы <strong>от 3-х лет.</strong></div> <div>- Хорошее знание python, базовых ML-инструментов и его финансовой экосистемы - numpy, pandas, и др.</div> <div>- Умение работать с графическими либами - matplotlib, seaborn, plotly (optional).</div> <div>- Понимание рынка криптовалют и его особенностей.</div> <div>- Английский B2+.</div> <div>- Опыт в трейдинге, навыки работы с трейдинговыми индикаторами.</div> <div>- Хорошая математическая и статистическая база.</div> <div>- Умение самостоятельно строить флоу анализа и обработки данных, обосновывать свои решения.</div> <div>- Понимание базовой архитектуры ML моделей.</div> <div> </div> <div><strong>✔️ Будет плюсом:</strong></div> <div> </div> <div>- Опыт работы в стартапе</div> <div>- Понимание устройства нейросетей для tabular ML (LSTM, TabR и др.).</div> <div> </div> <div><strong>✔️ Условия:</strong></div> <div> </div> <div><strong>- </strong>Полная занятость, удаленная работа.</div> <div>- Гибкий график.</div> <div>- Работа в часовом поясе UTC+0 ±3 часа (для удобства коммуникации в команде).​​</div>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "165",
+      "name": "Дата-сайентист"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3292753",
+    "name": "Бонанза Криип",
+    "url": "https://api.hh.ru/employers/3292753",
+    "alternate_url": "https://hh.ru/employer/3292753",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/780444.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/3562667.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3562668.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3292753",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-21T12:35:54+0300",
+  "created_at": "2025-05-21T12:35:54+0300",
+  "initial_created_at": "2025-05-21T12:35:54+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120814065",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120814065",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b2",
+        "name": "B2 — Средне-продвинутый"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,157 @@
+{
+  "id": "121145294",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер по тестированию (ручной)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Нижний Сусальный переулок",
+    "building": "5с5А",
+    "lat": 55.759613,
+    "lng": 37.664177,
+    "description": null,
+    "raw": "Москва, Нижний Сусальный переулок, 5с5А",
+    "metro": {
+      "station_name": "Курская",
+      "line_name": "Арбатско-Покровская",
+      "station_id": "3.70",
+      "line_id": "3",
+      "lat": 55.758564,
+      "lng": 37.659039
+    },
+    "metro_stations": [
+      {
+        "station_name": "Курская",
+        "line_name": "Арбатско-Покровская",
+        "station_id": "3.70",
+        "line_id": "3",
+        "lat": 55.758564,
+        "lng": 37.659039
+      },
+      {
+        "station_name": "Курская",
+        "line_name": "Кольцевая",
+        "station_id": "5.71",
+        "line_id": "5",
+        "lat": 55.758631,
+        "lng": 37.661059
+      },
+      {
+        "station_name": "Чкаловская",
+        "line_name": "Люблинско-Дмитровская",
+        "station_id": "10.72",
+        "line_id": "10",
+        "lat": 55.755951,
+        "lng": 37.659293
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Департамент информационных технологий Москвы создает и развивает цифровые проекты, которые делают столицу комфортнее, а жизнь горожан — удобнее и мобильнее. Для системы управления столицей технологии — это незаменимый инструмент, который применяется во всех отраслях экономики, городского хозяйства и социальной сферы. А для миллионов горожан — повседневный помощник, который позволяет получать сотни услуг и сервисов в удобном цифровом формате в режиме 24/7.<br /></p> <p><strong>Что нужно делать:</strong></p> <ul> <li>Тестировать новую и уже разработанную функциональность систем</li> <li>Проводить функциональное, регрессионное и модульное тестирование разрабатываемых систем и микросервисов, web-приложений</li> <li>Написание тест-кейсов, тест-планов и отчет по окончанию тестирования</li> <li>Составлять баг-репорты в jira</li> <li>Взаимодействовать с проектной командой</li> <li>Поддерживать тестовую документацию в актуальном состоянии</li> </ul> <strong>Какие знания и навыки нам важны:</strong> <ul> <li>опыт в тестировании от 2х лет</li> <li>Понимание принципов работы web приложений</li> <li>Опыт тестирования WEB приложений (frontend и backend)</li> <li>Знание REST, опыт тестирования API (Postman, Soap UI)</li> <li>Понимание работы протокола HTTP/HTTPS</li> <li>Знание основ SQL (Postgresql)</li> <li>Умение читать логи и находить причины ошибок</li> <li>Навыки работы с баг-трекинговыми системами</li> <li>Умение работать с консолью разработчика</li> <li>Умения различать и локализовывать баги front / back</li> </ul> <p><br /><strong>Что предлагаем:</strong></p> <ul> <li> <p>официальное трудоустройство в аккредитованную ИТ-компанию</p> </li> <li> <p>график работы 5/2, гибрид, офис в 3 минутах от станции метро Курская</p> </li> <li> <p>ежегодное премирование по результатам работы</p> </li> <li> <p>материальную помощь в случае важных событий в жизни</p> </li> <li> <p>корпоративное обучение и доступ к онлайн-библиотеке</p> </li> <li> <p>скидки от партнеров на ДМС, связь, развлечения, подарки, спорт и т.д.</p> </li> <li> <p>корпоративные тренировки и спортивные активности - бег, футбол, волейбол, баскетбол, теннис и другие<br /><br /><strong>Стань частью команды ДИТ Москвы и воплощай в жизнь цифровые проекты столицы!</strong></p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "125727",
+    "name": "Электронная Москва",
+    "url": "https://api.hh.ru/employers/125727",
+    "alternate_url": "https://hh.ru/employer/125727",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/204847.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/1045406.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/1045407.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=125727",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-29T19:11:24+0300",
+  "created_at": "2025-05-29T19:11:24+0300",
+  "initial_created_at": "2025-05-29T19:11:24+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121145294",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121145294",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

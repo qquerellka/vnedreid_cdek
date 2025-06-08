@@ -1,0 +1,144 @@
+{
+  "id": "120546192",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Backend Developer Node.js",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>01.tech</strong> — это компания, создающая высокотехнологичные веб-платформы с микросервисной архитектурой. Это высоконагруженные системы, работающие с терабайтами данных и обслуживающие более 100 миллионов пользователей по всему миру. Здесь нет бюрократии — только гибкие процессы и реальные задачи.<br /><br />В связи с активным расширением 01.tech мы находимся в поисках <strong>Backend Developer Node.js.</strong></p> <p><strong>Задачи:</strong><br />— Разработка микросервисов и проектирование архитектуры с нуля;<br />— Поддержка и оптимизация сервисов с высоким трафиком;<br />— Работа с AWS, k8s.</p> <p><strong>Ждем от тебя:</strong></p> <ul> <li>Умение работать с Node.js, Nest.js, TypeScript;</li> <li>Опыт с SQL и брокерами сообщений (RabbitMQ, Kafka);</li> <li>Готовность брать ответственность за архитектурные решения;</li> <li>Опыт с prometheus + grafana.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт с jvm (kotlin);</li> <li>Опыт/понимание разработки под Android.</li> </ul> <p><strong>Что предлагаем:</strong><br />— Работа в масштабных проектах без бюрократии;<br />— Гибкие процессы;<br />— ДМС, компенсация спорта и поддержка с релокацией.</p> <p><strong>Стань частью команды 01.tech и меняй индустрию!</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "MongoDB"
+    },
+    {
+      "name": "gRPC"
+    },
+    {
+      "name": "Nest JS"
+    },
+    {
+      "name": "Rabbit"
+    },
+    {
+      "name": "Apache Kafka"
+    },
+    {
+      "name": "BFF"
+    },
+    {
+      "name": "API Gateway"
+    },
+    {
+      "name": "TypeScript"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9757724",
+    "name": "HuntIT",
+    "url": "https://api.hh.ru/employers/9757724",
+    "alternate_url": "https://hh.ru/employer/9757724",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1084973.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5960521.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5960522.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9757724",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-14T16:15:52+0300",
+  "created_at": "2025-05-14T16:15:52+0300",
+  "initial_created_at": "2025-05-14T16:15:52+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120546192",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120546192",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

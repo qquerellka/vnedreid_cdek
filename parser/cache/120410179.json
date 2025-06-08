@@ -1,0 +1,167 @@
+{
+  "id": "120410179",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Senior Backend Engineer / Старший бэкэнд разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 6000,
+    "to": 12000,
+    "currency": "USD",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 6000,
+    "to": 12000,
+    "currency": "USD",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "MONTHLY",
+      "name": "Раз в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Join Our Lean, Fast-Growing, Engineering-Driven Company.</strong></p> <p>We at Podscribe measure advertisers’ campaign performance everywhere from podcasts and videos to social media platforms. We’re involved in delivering all popular podcasts in the US, working closely with all major advertisers. As a bootstrapped and profitable company, we’ve grown threefold in the past year, and we’re just getting started!</p> <p>We’re looking for a self-motivated engineer eager to take significant ownership of parts of our systems and help us reach new heights. Our focus is all about data and we have a lot of it. Imagine developing scalable solutions that process terabytes of data in real-time.</p> <p><strong>What We Offer:</strong></p> <p>• Competitive salary and benefits<br />• Challenging projects involving large-scale data processing and real-time analytics<br />• Opportunities to work on cutting-edge technologies and implement innovative solutions<br />• Significant ownership and impact on new product development</p> <p><strong>What we look for:</strong><br />• 7+ years of backend or data engineering experience<br />• Proficiency with Python, Node.js, TypeScript, and PostgreSQL<br />• Extensive experience with AWS: Lambda, RDS, ECS, etc.<br />• Expertise in building and maintaining high-availability systems<br />• Experience with ClickHouse, Kafka, Golang</p> <p>If you thrive on challenges and innovation, and you’re ready to make a significant impact, we want to hear from you. Join us and be a part of a company that’s shaping the future of the industry.<br /><br /></p> <h2><strong>Присоединяйтесь к нашей динамичной, настроенной на результат команде</strong><br /></h2> <p>В <strong>Podscribe</strong> мы измеряем эффективность рекламных кампаний на всех платформах — от подкастов и видео до социальных сетей. Мы участвуем в доставке всех популярных подкастов в США и тесно сотрудничаем с крупнейшими рекламодателями. Мы — прибыльная компания, развивающаяся без внешних инвестиций, и за последний год утроили масштабы бизнеса. И это только начало!</p> <p>Мы ищем инициативного инженера, готового взять на себя ответственность за ключевые участки системы и помочь нам достичь новых высот. В центре нашего внимания — <strong>данные</strong>, и их у нас очень много. Представьте себе разработку масштабируемых решений, обрабатывающих терабайты информации в режиме реального времени.</p> <p>Что мы предлагаем:</p> <ul> <li> <p>Конкурентная зарплата</p> </li> <li> <p>Сложные и интересные проекты с обработкой больших данных и real-time аналитикой</p> </li> <li> <p>Возможность работать с передовыми технологиями и внедрять инновационные решения</p> </li> <li> <p>Существенное влияние на разработку новых продуктов и реальная ответственность</p> </li> </ul> <p>Кого мы ищем:</p> <ul> <li> <p>7+ лет опыта в backend- или data-инженерии</p> </li> <li> <p>Отличное знание <strong>Python, Node.js, TypeScript</strong> и <strong>PostgreSQL</strong></p> </li> <li> <p>Большой опыт работы с <strong>AWS</strong> (Lambda, RDS, ECS и др.)</p> </li> <li> <p>Глубокое понимание построения отказоустойчивых систем</p> </li> <li> <p>Опыт с <strong>ClickHouse</strong>, <strong>Kafka</strong>, <strong>Golang</strong> будет большим плюсом</p> </li> </ul> <p>Если вы любите решать сложные задачи, стремитесь к инновациям и хотите реально влиять на продукт — мы ждем вас. Присоединяйтесь к <strong>Podscribe</strong> и станьте частью команды, которая меняет индустрию!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Английский язык"
+    },
+    {
+      "name": "TypeScript"
+    },
+    {
+      "name": "AWS"
+    },
+    {
+      "name": "Big Data"
+    },
+    {
+      "name": "Node.js"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Clickhouse"
+    },
+    {
+      "name": "Apache Kafka"
+    },
+    {
+      "name": "Golang"
+    },
+    {
+      "name": "ECS"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9091068",
+    "name": "Podscribe",
+    "url": "https://api.hh.ru/employers/9091068",
+    "alternate_url": "https://hh.ru/employer/9091068",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/993741.jpeg",
+      "90": "https://img.hhcdn.ru/employer-logo/5595764.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/5595765.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9091068",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-12T13:46:15+0300",
+  "created_at": "2025-05-12T13:46:15+0300",
+  "initial_created_at": "2025-05-12T13:46:15+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120410179",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120410179",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

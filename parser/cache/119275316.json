@@ -1,0 +1,156 @@
+{
+  "id": "119275316",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Спикер на съемки онлайн курса по Python (Санкт-Петербург)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 10000,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 10000,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "SERVICE",
+      "name": "За услугу"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Спасский переулок",
+    "building": "14/35",
+    "lat": 59.928131,
+    "lng": 30.319327,
+    "description": null,
+    "raw": "Санкт-Петербург, Спасский переулок, 14/35",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "flexible",
+    "name": "Гибкий график"
+  },
+  "employment": {
+    "id": "project",
+    "name": "Проектная работа"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Бруноям</strong> — это образовательный проект. Делаем курсы по <strong>дизайну, программированию, маркетингу,</strong> <strong>аналитике и менеджменту</strong>. Снимаем онлайн-курсы в Петербурге с действующими практиками, которые делятся своим опытом.</p> <p>Сейчас у нас в процессе создания онлайн-курс по Python. Он рассчитан на людей, которые хотят освоить направление с нуля.</p> <p>Мы ищем специалистов по работе с Python, кому интересно принять участие в создании образовательного контента.</p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li><strong>Участвовать в согласовании плана.</strong> План готов, его необходимо обсудить с командой создания курсов.</li> <li><strong>Участвовать в создании материалов.</strong> Курс состоит из <strong>видео, конспектов и домашних заданий</strong> — все это предстоит создавать. Съемки проходят в нашей студии (г. Петербург), написание конспектов и домашних заданий возможно в удаленном формате с заранее оговоренными дедлайнами.</li> </ul> <p><strong>Необходимые навыки:</strong></p> <ul> <li>Практический <strong>опыт работы с Python от 2х лет</strong><strong>.</strong> Раскрывать темы курса необходимо на реальных кейсах из собственной практики;</li> <li>Опыт работы с базами данных (SQL-запросы, SQLAlchemy);</li> <li>Опыт разработки веб приложений с использованием Flask;</li> <li>Опыт юнит-тестирования и работы с микросервисами;</li> <li>Много времени на создание курса — работать будем интенсивно.</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li><strong>Индивидуальный график съёмок;</strong></li> <li>Студия находится у метро Сенная;</li> <li>Оплата зависит от формата сотрудничества — обсудим индивидуально;</li> <li><strong>Занятость примерно 10-20 часов в неделю</strong> (подготовка к съемкам до 4 часов, съемки в студии до 12 часов, написание конспектов и домашек до 6 часов).</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1152465",
+    "name": "Бруноям",
+    "url": "https://api.hh.ru/employers/1152465",
+    "alternate_url": "https://hh.ru/employer/1152465",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/783974.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3576787.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3576788.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1152465",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-28T12:20:00+0300",
+  "created_at": "2025-05-28T12:20:00+0300",
+  "initial_created_at": "2025-04-08T11:18:48+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119275316",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119275316",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "PROJECT",
+    "name": "Проект или разовое задание"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "WEEKEND",
+      "name": "По выходным"
+    },
+    {
+      "id": "FLEXIBLE",
+      "name": "Свободный"
+    },
+    {
+      "id": "OTHER",
+      "name": "Другое"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_2",
+      "name": "2 часа"
+    },
+    {
+      "id": "FLEXIBLE",
+      "name": "По договорённости"
+    },
+    {
+      "id": "OTHER",
+      "name": "Другое"
+    }
+  ],
+  "show_logo_in_search": null
+}

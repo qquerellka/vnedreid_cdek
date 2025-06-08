@@ -1,0 +1,135 @@
+{
+  "id": "121328203",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Программист Delphi",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 130000,
+    "to": 170000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 130000,
+    "to": 170000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Бутырская улица",
+    "building": "76с2",
+    "lat": 55.804516,
+    "lng": 37.584074,
+    "description": null,
+    "raw": "Москва, Бутырская улица, 76с2",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <p> </p> <p>Разработка в среде Delphi 12.2 (новая разработка, в стадии опытной эксплуатации) и Delphi 7 (поддержка существующей системы). Участие в разработке ядра платформы, используемой для создания систем автоматизации финансовых учреждений.</p> <p> </p> <strong>Требования:</strong> <ol> <li>Очень хорошее знание Delphi:</li> </ol> <ul> <li>Система типов – Базовые типы, Записи, Классы, Интерфейсы, Generics;</li> <li>Понимание работы RTL, VCL «изнутри»;</li> </ul> <ol> <li>Знание SQL на хорошем уровне, понимание транзакций (изоляция, блокировки). Знание хотя бы одного из процедурных расширений: T-SQL, PL\\SQL, PgPLSQL.</li> <li>Очень желательно иметь опыт хотя бы в одной из следующих областей:</li> </ol> <ul> <li>Сетевое программирование – сокеты;</li> <li>Параллельная разработка – потоки, примитивы синхронизации, Delphi PPL (асинхронные примитивы);</li> <li>Web backend и/или frontend – в первую очередь понимание обмена по HTTP;</li> <li>Интеграция – всевозможные MQ, Kafka.</li> <li>Fast Report – в первую очередь его встраивание в систему, разработка отчетов на нем – плюс;</li> <li>FireDAC – очень большой плюс;</li> <li>WinAPI;</li> <li>XML – структура, схемы, парсеры DOM и SAX;</li> <li>JSON – особенно его поддержка в Delphi;</li> <li>Разработка под Linux (на любом языке);</li> <li>Криптография – общее понимание принципов, использование какого-либо из API.</li> <li>COM;</li> <li>Прочие желательные, но не обязательные, знания: Знание других языков и средств разработки, Системы контроля версий (у нас SVN), трекеры, умение писать документацию.</li> </ul> <strong>Условия:</strong> <p>Возможен гибридный график работы . Квартальная премия по результатам выполненных заданий. - ИП/частная практика/фриланс - не рассматриваются</p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11250",
+    "name": "ПрограмБанк",
+    "url": "https://api.hh.ru/employers/11250",
+    "alternate_url": "https://hh.ru/employer/11250",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1235781.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6563565.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6563566.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11250",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T11:17:53+0300",
+  "created_at": "2025-06-04T11:17:53+0300",
+  "initial_created_at": "2025-06-04T11:17:53+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121328203",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121328203",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

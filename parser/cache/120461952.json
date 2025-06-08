@@ -1,0 +1,156 @@
+{
+  "id": "120461952",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Бизнес/системный - аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": null,
+    "to": 180000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 180000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "улица Шевченко",
+    "building": "15/1",
+    "lat": 55.016404,
+    "lng": 82.933509,
+    "description": null,
+    "raw": "Новосибирск, улица Шевченко, 15/1",
+    "metro": {
+      "station_name": "Октябрьская",
+      "line_name": "Ленинская",
+      "station_id": "52.298",
+      "line_id": "52",
+      "lat": 55.018789,
+      "lng": 82.939007
+    },
+    "metro_stations": [
+      {
+        "station_name": "Октябрьская",
+        "line_name": "Ленинская",
+        "station_id": "52.298",
+        "line_id": "52",
+        "lat": 55.018789,
+        "lng": 82.939007
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><em>Мы – Микрофинансовая Компания &quot;Отличные наличные&quot;. На рынке с 2011 года. Работаем в сегменте онлайн кредитования.</em></p> <p><em>В связи с развитием, примем в команду бизнес-аналитика (желательно с опытом работы и системным аналитиком)</em></p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Выявление узких мест в продуктах и бизнес-процессах компании</li> <li>Анализ и описание бизнес-процессов As-Is</li> <li>Моделирование бизнес-процессов To-Be и разработка предложений по оптимизации</li> <li>Разработка ТЗ и спецификаций, создание мокапов, моделирование схем бизнес-процессов</li> <li>Ведение базы знаний в Confluence</li> <li>Коммуникация со смежными подразделениями компании</li> <li>Приёмка и сопровождение реализованных задач</li> </ul> <p><strong>Ожидаем от вас:</strong></p> <ul> <li>Желателен опыт работы в финтех компании</li> <li>Работа в должности бизнес-аналитика/ системного-аналитика</li> </ul> <p><strong>Будет большим плюсом:</strong></p> <ul> <li>Опыт работы с БКИ</li> </ul> <p><em><strong>Методы сбора и формализации требований:</strong></em></p> <ul> <li>Интервью</li> <li>User story</li> <li>Use case</li> <li>Сценарии БП</li> <li>Прототипирование</li> <li>Моделирование</li> </ul> <p><em>Нотации:</em></p> <ul> <li>BPMN</li> <li>Прототипирование:</li> <li>Мокапы/скетчи</li> </ul> <p><em>Софт:</em></p> <ul> <li>Моделирование: Bizagi Modeler, Business Studio, Visio, draw.io</li> <li>Прототипирование: Mockplus, Balsamiq, Figma,</li> <li>Таск-трекеры: Jira</li> <li>Документация: Confluence</li> <li>Дополнительно: Miro, Яндекс-метрика</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Своевременная белая заработная плата (уровень зарплаты обсуждается индивидуально)</li> <li>Удаленный формат работы (центральный офис в г. Новосибирск)</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "150",
+      "name": "Бизнес-аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1076236",
+    "name": "Отличные наличные",
+    "url": "https://api.hh.ru/employers/1076236",
+    "alternate_url": "https://hh.ru/employer/1076236",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/620107.png",
+      "90": "https://img.hhcdn.ru/employer-logo/2921580.png",
+      "240": "https://img.hhcdn.ru/employer-logo/2921581.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1076236",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T07:12:54+0300",
+  "created_at": "2025-06-06T07:12:54+0300",
+  "initial_created_at": "2025-05-13T11:22:53+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120461952",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120461952",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

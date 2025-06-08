@@ -1,0 +1,131 @@
+{
+  "id": "120863569",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Математик-программист фин рынки",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Центральный административный округ, Пресненский район, Московский международный деловой центр Москва-Сити, многофункциональный комплекс Башня Меркурий",
+    "building": null,
+    "lat": 55.75051,
+    "lng": 37.539455,
+    "description": null,
+    "raw": "Москва, Центральный административный округ, Пресненский район, Московский международный деловой центр Москва-Сити, многофункциональный комплекс Башня Меркурий",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Вам предстоит заниматься:</strong> <ul> <li>работа с ПО по оценке финансовых инструментов и их рисков (риск-менеджмент);</li> <li>тестирование новых гипотез, анализ, разработка алгоритмов оценки, моделирование;</li> <li>написание собственных программ по оценке фин инструментов, их метрик (волатильность, дисперсия, вероятностей исполнения, tail risk, VAR, дюрация, option greeks и пр.);</li> <li>работа с базами данных;</li> <li>коммуникация со смежниками (Бизнес, IT команды), постановка тех заданий.</li> </ul> <strong>Мы ждем от Вас:</strong> <ul> <li><em>высшее (незаконченное высшее) математическое, техническое, в области </em><em>IT;</em></li> <li>практический опыт работы с языками программирования Python;</li> <li>знание SQL на уровне написания сложных запросов, практический опыт работы с базами данных PostgreSQL;</li> <li>свежие знания математики (на интервью будет 2 теста по математике и IT);</li> <li>начальные знания о фондовом рынке, опыт инвестирования – как преимущество;</li> <li>English, аттестат FRM – преимущество.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>дополнительные дни к основному оплачиваемому отпуску;</li> <li>доплата по больничному листу;</li> <li>ДМС, включая стоматологию (после испытательного срока);</li> <li>социальная поддержка от компании;</li> <li>частичная компенсация обедов;</li> <li>чай, кофе, снеки, фрукты в течение рабочего дня;</li> <li>корпоративные скидки на изучение английского языка и занятия фитнесом.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>график работы: 5/2, с 9:30 до 18:00, обед 30 мин.;</li> <li>место работы: комфортабельный офис в Башне Меркурий, Москва-Сити.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": "2049",
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3948010",
+    "name": "СПБ Биржа",
+    "url": "https://api.hh.ru/employers/3948010",
+    "alternate_url": "https://hh.ru/employer/3948010",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/876698.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/3947667.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3947668.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3948010",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-22T12:48:45+0300",
+  "created_at": "2025-05-22T12:48:45+0300",
+  "initial_created_at": "2025-05-22T12:48:45+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120863569",
+  "has_test": true,
+  "test": {
+    "required": false
+  },
+  "alternate_url": "https://hh.ru/vacancy/120863569",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

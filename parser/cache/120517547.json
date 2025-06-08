@@ -1,0 +1,175 @@
+{
+  "id": "120517547",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 80000,
+    "to": 110000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 80000,
+    "to": 110000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "улица Николаева",
+    "building": "12",
+    "lat": 54.857844,
+    "lng": 83.111807,
+    "description": null,
+    "raw": "Новосибирск, улица Николаева, 12",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Всем привет!</strong></p> <p>На связи рекрутинговое агентство &quot;The One&quot;! Мы ищем и находим тех самых людей в высокотехнологичных сферах: IT и приборостроение, а также био- и нанотехнологии.</p> <p>Наши заказчики обращаются к нам, чтобы мы нашли специалистов, которых трудно найти — а мы очень стараемся, и поэтому находим. Возможно, прямо сейчас мы ищем именно вас. Поможете нам?</p> <p><strong>Кого и для кого мы ищем</strong></p> <p>Мы находимся в поиске Middle Системного администратора, а наш заказчик — аккредитованная IT-компания, ведущий эксперт с многолетним опытом разработки передовых решений в сфере больших данных, машинного и глубокого обучения, компьютерного зрения, обработки естественного языка, распознавания речи и текста, а также других технологий в области ИИ.</p> <p>Компания также занимается созданием персонализированных решений на основе готовых продуктов, таких как цифровые диалоговые ассистенты, которые настраиваются специально под запросы заказчиков.</p> <p>В команде ценятся люди с гибким и пытливым умом, способные принимать взвешенные, аргументированные решения, если вы разделяете такие взгляды — будем рады знакомству!<br /><br /><strong>Чем предстоит заниматься:</strong></p> <ul> <li> <p>Администрирование серверов Linux (установка, настройка, поддержание работоспособности);</p> </li> <li> <p>Техническое обслуживание оргтехники (компьютеры, принтеры, сканеры и др.);</p> </li> <li> <p>Ведение учета и инвентаризация компьютерной и оргтехники;</p> </li> <li> <p>Установка и настройка оборудования рабочих мест сотрудников и серверов компании;</p> </li> <li> <p>Поддержка работоспособности компьютерного оборудования и устранение неполадок;</p> </li> <li> <p>Подбор и закупка компьютерной техники и комплектующих.</p> </li> </ul> <p><strong>Что мы ожидаем от кандидатов:</strong></p> <ul> <li> <p>Знание Linux (работа в командной строке, подключение по SSH);</p> </li> <li> <p>Опыт работы с серверами под управлением Windows Server;</p> </li> <li> <p>Знакомство с базами данных (MySQL или MS SQL);</p> </li> <li> <p>Опыт работы с веб-серверами (Nginx);</p> </li> <li> <p>Опыт работы с системами виртуализации;</p> </li> <li> <p>Опыт работы с Docker;</p> </li> <li> <p>Опыт работы с системами мониторинга;</p> </li> <li> <p>Знание стека протокола TCP/IP.</p> </li> </ul> <p><strong>Не обязательно, но будет плюсом:</strong></p> <ul> <li> <p>Базовые навыки программирования на Bash или Python для отслеживания логирования;</p> </li> </ul> <p><strong>Что предлагается взамен:</strong></p> <ul> <li> <p>Оформление по ТК РФ в аккредитованной IT-компании;</p> </li> <li> <p>ДМС после испытательного срока;</p> </li> <li> <p>Комфортный и уютный офис в Академпарке Новосибирска;</p> </li> <li> <p>Своевременная выплата белой зарплаты дважды в месяц;</p> </li> <li> <p>Профессиональное развитие в динамичной и инновационной среде.</p> </li> </ul> <strong>Откликайтесь на вакансию — мы будем рады поделиться подробной информацией, пообщаться и ответить на ваши вопросы. Мы очень ждем!</strong>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Настройка ПК"
+    },
+    {
+      "name": "SSH"
+    },
+    {
+      "name": "Windows Server"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Nginx"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5418368",
+    "name": "Рекрутинговое агентство The One",
+    "url": "https://api.hh.ru/employers/5418368",
+    "alternate_url": "https://hh.ru/employer/5418368",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1137284.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6169721.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6169722.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5418368",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-14T10:28:02+0300",
+  "created_at": "2025-05-14T10:28:02+0300",
+  "initial_created_at": "2025-05-14T10:28:02+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120517547",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120517547",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b1",
+        "name": "B1 — Средний"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

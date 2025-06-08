@@ -1,0 +1,179 @@
+{
+  "id": "120993621",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Аналитик продуктовой информации для чат-бота",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Варшавское шоссе",
+    "building": "1с1-2",
+    "lat": 55.703992,
+    "lng": 37.625909,
+    "description": null,
+    "raw": "Москва, Варшавское шоссе, 1с1-2",
+    "metro": {
+      "station_name": "Верхние Котлы",
+      "line_name": "МЦК",
+      "station_id": "95.532",
+      "line_id": "95",
+      "lat": 55.69,
+      "lng": 37.618889
+    },
+    "metro_stations": [
+      {
+        "station_name": "Верхние Котлы",
+        "line_name": "МЦК",
+        "station_id": "95.532",
+        "line_id": "95",
+        "lat": 55.69,
+        "lng": 37.618889
+      },
+      {
+        "station_name": "ЗИЛ",
+        "line_name": "МЦК",
+        "station_id": "95.531",
+        "line_id": "95",
+        "lat": 55.698333,
+        "lng": 37.648333
+      },
+      {
+        "station_name": "Тульская",
+        "line_name": "Серпуховско-Тимирязевская",
+        "station_id": "9.142",
+        "line_id": "9",
+        "lat": 55.70961,
+        "lng": 37.622569
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Мы предлагаем:</strong></p> <p>⎯ Оформление по ТК РФ с первого дня работы;</p> <p>⎯ График работы 5/2 гибридный формат (3 дня в офисе);</p> <p>⎯ Возможность для профессионального роста;</p> <p>⎯ Разнообразные корпоративные мероприятия;</p> <p>⎯ Работу в растущей и активно развивающейся компании;</p> <p>⎯ Культуру открытости и взаимопомощи: у нас работают люди, вовлеченные в процесс и не безразличные к тому, что они делают.</p> <p><strong>Чем предстоит заниматься:<br /><br /><em>Задача: превратить разрозненную, сложную информацию о продуктах в четкую, логичную и легкодоступную структуру для автоматизированных ответов чат-бота</em></strong></p> <ul> <li>Анализировать и структурировать информацию о продуктах (состав, свойства, применение, показания, противопоказания), выделяя ключевые сущности и связи для формирования базы знаний.</li> <li>Разрабатывать логические цепочки и алгоритмы ответов, сопоставляя запросы пользователей (проблемы, цели) с соответствующими продуктами и правилами их применения</li> <li>Обеспечивать четкость, однозначность и логичность каждого ответа.</li> <li>Систематизировать информацию об акциях, скидках и партнерских программах, описывая условия, сроки и исключения в формализованном, логичном виде, пригодном для автоматической обработки и выдачи чат-ботом.</li> <li>Регулярное обновление и поддержание актуальности базы знаний чат-ботов.</li> <li>Регулярная проверка корректности рекомендаций чат-ботов в соответствии с заложенной базой знаний.</li> </ul> <p><strong>Что ожидаем от кандидата:</strong></p> <ul> <li>Высокоразвитые навыки структурирования и организации информации</li> <li>Сильное логическое и аналитическое мышление, умение выстраивать четкие причинно-следственные связи и правила</li> <li>Желателен опыт составления четких инструкций, регламентов, FAQ, технических описаний</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Копирайтинг"
+    },
+    {
+      "name": "Редактирование текстов"
+    },
+    {
+      "name": "Контент-маркетинг"
+    },
+    {
+      "name": "Написание текстов"
+    },
+    {
+      "name": "Аналитические тексты"
+    },
+    {
+      "name": "Редактура текстов"
+    },
+    {
+      "name": "Написание продающих текстов"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "10",
+      "name": "Аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10032448",
+    "name": "Альфадженис",
+    "url": "https://api.hh.ru/employers/10032448",
+    "alternate_url": "https://hh.ru/employer/10032448",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1350596.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/7022322.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/7022323.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10032448",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-26T17:04:32+0300",
+  "created_at": "2025-05-26T17:04:32+0300",
+  "initial_created_at": "2025-05-26T17:04:32+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120993621",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120993621",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

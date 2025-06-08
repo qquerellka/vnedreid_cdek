@@ -1,0 +1,167 @@
+{
+  "id": "121373691",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Golang Back-end разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 190000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 190000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": null,
+    "lng": null,
+    "description": null,
+    "raw": null,
+    "metro": {
+      "station_name": "Крылатское",
+      "line_name": "Арбатско-Покровская",
+      "station_id": "3.65",
+      "line_id": "3",
+      "lat": 55.756842,
+      "lng": 37.408139
+    },
+    "metro_stations": [
+      {
+        "station_name": "Крылатское",
+        "line_name": "Арбатско-Покровская",
+        "station_id": "3.65",
+        "line_id": "3",
+        "lat": 55.756842,
+        "lng": 37.408139
+      },
+      {
+        "station_name": "Молодежная",
+        "line_name": "Арбатско-Покровская",
+        "station_id": "3.84",
+        "line_id": "3",
+        "lat": 55.741375,
+        "lng": 37.415627
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>ООО «ЮСИВИ» — аккредитованная в Минцифры IT-компания, специализирующаяся на разработке инновационных решений для рынка труда. Флагманский продукт компании, платформа YOUCV, представляет собой универсальное средство коммуникаций между соискателями и работодателями с визуальным интерфейсом, доступным как на базе Android, iOS так и через web-интерфейс.</p> <p><strong>Обязанности:</strong></p> <p> </p> <p>• Разрабатывать и поддерживать микросервисы на Go</p> <p>• Создавать и поддерживать unit-тесты, обеспечивать высокое покрытие кода</p> <p>• Оптимизировать базы данных (PostgreSQL, ClickHouse и др.)</p> <p>• Выполнять нагрузочное тестирование и устранение узких мест</p> <p>• Работать с балансировщиками нагрузки (например, Nginx, HAProxy)</p> <p>• Проектировать и оптимизировать работу с таблицами данных</p> <p>• Оптимизировать форматы хранения данных для повышения скорости и эффективности</p> <p>• Участвовать в разработке и интеграции решений с использованием искусственного интеллекта (взаимодействие с ML-сервисами, API ИИ-моделей, подготовка и передача данных в модели)</p> <p> </p> <p><strong>Требования:</strong></p> <p> </p> <p>• Уверенное знание Go и опыт промышленной разработки от 4 лет</p> <p>• Знание принципов построения масштабируемых и отказоустойчивых систем</p> <p>• Опыт оптимизации SQL-запросов и архитектуры баз данных</p> <p>• Навыки написания unit- и интеграционных тестов</p> <p>• Знание и понимание принципов работы балансировщиков нагрузки</p> <p>• Опыт взаимодействия с ML/AI-сервисами через API или микросервисы — будет преимуществом</p> <p>• Умение писать чистый, поддерживаемый код и разбираться в чужом</p> <p> </p> <p><strong>Будет плюсом:</strong></p> <p>• Опыт с Kubernetes, Docker</p> <p>• Работа с очередями сообщений (Kafka, RabbitMQ)</p> <p>• Знание CI/CD процессов</p> <p>• Опыт в проектах с ИИ — особенно с практической реализацией обработки данных, интеграцией LLM, генерацией или классификацией контента</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11037265",
+    "name": "Юсиви",
+    "url": "https://api.hh.ru/employers/11037265",
+    "alternate_url": "https://hh.ru/employer/11037265",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1415913.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7283312.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7283313.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11037265",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T11:10:45+0300",
+  "created_at": "2025-06-05T11:10:45+0300",
+  "initial_created_at": "2025-06-05T11:10:45+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121373691",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121373691",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

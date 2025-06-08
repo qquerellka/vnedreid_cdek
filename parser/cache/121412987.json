@@ -1,0 +1,136 @@
+{
+  "id": "121412987",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Менеджер проектов SAP",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Ленинградское шоссе",
+    "building": "39с2",
+    "lat": 55.832672,
+    "lng": 37.483427,
+    "description": null,
+    "raw": "Москва, Ленинградское шоссе, 39с2",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы находимся в поисках Менеджера проектов SAP. </p> <p><strong>Обязанности:</strong></p> <ul> <li> <p>Сбор и формирование бизнес-требований: взаимодействие с держателями процессов, определение их потребностей и ожиданий</p> </li> <li> <p>Моделирование процессов: оценка моделей бизнес-процессов на предмет оптимизации и выработки предложений по повышению эффективности </p> <p>(as is/to be анализ)</p> </li> <li> <p>Создание и поддержка документации по требованиям, спецификациям процесса</p> </li> <li> <p>Сотрудничество с IT-командой для разработки и внедрения решений </p> </li> <li> <p>Тестирование и валидация доработок/ новых продуктов и решений </p> </li> <li> <p>Поддержка пользователей </p> </li> </ul> <strong>Требования:</strong> <ul> <li> <p>Знание SAP HCM (транзакции/инфотипы/атрибуты) обязательно </p> </li> <li> <p>Опыт запуска и сопровождения проектов цифровизации в HR со старта до опытно-промышленной эксплуатации </p> </li> <li> <p>Английский не ниже intermediate </p> </li> <li> <p>Структурное мышление </p> </li> <li> <p>Самостоятельность </p> </li> <li> <p>Коммуникабельность </p> </li> <li> <p>Умение работать в режиме многозадачности </p> </li> </ul> <strong>Условия:</strong> <ul> <li>Современный уютный офис у метро Водный стадион;</li> <li>Гибридный график работы;</li> <li>Профессиональная дружная команда;</li> <li>Расширенный социальный пакет (ДМС, на выбор одна из программ &quot;Hello Benefits&quot;);</li> <li>Возможность расти и развиваться (академия тренингов, курсы англ. и французского языков)</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "SAP HR"
+    },
+    {
+      "name": "Моделирование бизнес процессов"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "150",
+      "name": "Бизнес-аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1140385",
+    "name": "Nordgold",
+    "url": "https://api.hh.ru/employers/1140385",
+    "alternate_url": "https://hh.ru/employer/1140385",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/268984.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/1518466.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/1518467.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1140385",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T11:12:11+0300",
+  "created_at": "2025-06-06T11:12:11+0300",
+  "initial_created_at": "2025-06-06T11:12:11+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121412987",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121412987",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b2",
+        "name": "B2 — Средне-продвинутый"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

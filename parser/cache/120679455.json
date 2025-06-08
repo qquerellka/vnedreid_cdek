@@ -1,0 +1,167 @@
+{
+  "id": "120679455",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Ведущий разработчик встроенного ПО",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 196000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 196000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Аптекарский проспект",
+    "building": "2",
+    "lat": 59.96866,
+    "lng": 30.317764,
+    "description": null,
+    "raw": "Санкт-Петербург, Аптекарский проспект, 2",
+    "metro": {
+      "station_name": "Петроградская",
+      "line_name": "Московско-Петроградская",
+      "station_id": "15.215",
+      "line_id": "15",
+      "lat": 59.966389,
+      "lng": 30.311293
+    },
+    "metro_stations": [
+      {
+        "station_name": "Петроградская",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.215",
+        "line_id": "15",
+        "lat": 59.966389,
+        "lng": 30.311293
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Компания </strong><strong>Healbe</strong><strong> занимается разработкой инновационных носимых устройств-браслетов, контролирующих жизнедеятельность человека.</strong></p> <p><strong>Мы расширяем нашу команду талантливыми и активными профессионалами, опыт и знания которых будут полезны при создании наших продуктов.</strong></p> <p><strong>Что мы предлагаем:</strong><br />- участвовать в разработке уникального продукта;<br />- работу в международной компании;<br />- конкурентоспособная заработная плата;<br />- оформление по ТК;<br />- график разумной гибкости;<br />- неформальная и профессиональная атмосфера.</p> <div><strong>Что нужно делать:</strong><br />- разрабатывать и реализовывать встроенное ПО для микроконтроллеров на базе Cortex-M4;</div> <div>- разрабатывать и реализовывать драйверы для периферийных и внешних устройств;</div> <div>- проектировать, реализовывать и внедрять сложные компоненты в существующую систему;</div> <div>- проектировать и внедрять сложные архитектурные решения;</div> <div>- оптимизировать существующее встроенное ПО для эффективного использования ресурсов;</div> <div>- реализовывать или интегрировать готовые математические модели;</div> <div>- модифицировать существующие и разрабатывать новые утилиты и скрипты на языках C/C++ и Python;</div> <div>- реализовывать измерительные циклограммы для одновременной работы нескольких датчиков;<br />- реализовывать протоколы обмена данными по различным интерфейсам;<br />- поддерживать и развивать существующий код;<br />- поддерживать разработку аппаратной части оборудования;<br />- поддерживать тестирование электронных устройств.</div> <p> </p> <div><strong>Что нам нужно:</strong><br />- опыт работы: от 5 лет;<br />- высшее техническое образование;<br />- глубокое знание языка С;<br />- умение писать оптимизированный и структурированный код;<br />- знание теории и принципов работы микроконтроллеров и их периферии (системы прерываний, PLL,DMA, PWM, GPIO, таймеров и пр.);</div> <div>- реализация специализированных (или модификации библиотечных) драйверов;</div> <div>- опыт работы с различными RTOS: глубокое понимание многозадачности, обработки прерываний и взаимодействия с внешними событиями;<br />- умение работать с системами контроля версий (Git);</div> <div>- опыт переноса кода между аппаратными платформами;</div> <div>- глубокое понимание аппаратных архитектур и операционных систем;</div> <div>- умение читать принципиальные схемы, общее понимание работы цифровой электроники;<br />- английский язык на уровне свободного понимания технической документации.</div> <div> </div> <div><strong>Преимущество вам придаст:</strong><br />- опыт работы с микроконтроллерами Atmel и Microchip;<br />- опыт разработки или использования CI/CD;<br />- опыт работы интерфейсами: UART, I2C, SPI, USB, SDIO;<br />- опыт работы с периферией ADC, DAC, PWM, GPIO;<br />- опыт работы с внешней флеш-памятью;<br />- опыт работы с BLE, BT, Wi-Fi;<br />- опыт работы с файловыми системами (FATFS, LittleFS и др.);<br />- опыт реализации загрузчиков и систем обновления прошивок;<br />- знание С++, Python, CMake;<br />- опыт реализации Windows приложений (консольных и / или GUI);<br />- понимание аналоговой схемотехники;<br />- опыт кроссплатформенной разработки;<br />- опыт цифровой обработки сигналов;<br />- опыт программирования на ассемблере для ARM.</div> <div> </div> <p><strong>Ключевые</strong><strong> </strong><strong>навыки</strong><br />Qt, MSVS, Git, C/C++, Atlassian Confluence, JIRA, Atmel, Microchip, Cortex-M</p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Qt"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "C++"
+    },
+    {
+      "name": "C/C++"
+    },
+    {
+      "name": "Atlassian Confluence"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1582278",
+    "name": "Хилби",
+    "url": "https://api.hh.ru/employers/1582278",
+    "alternate_url": "https://hh.ru/employer/1582278",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/259190.png",
+      "90": "https://img.hhcdn.ru/employer-logo/1479290.png",
+      "240": "https://img.hhcdn.ru/employer-logo/1479291.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1582278",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T08:58:04+0300",
+  "created_at": "2025-06-06T08:58:04+0300",
+  "initial_created_at": "2025-05-19T08:58:04+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120679455",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120679455",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,198 @@
+{
+  "id": "120917172",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Backend-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "улица Куйбышева",
+    "building": "41",
+    "lat": 56.826789,
+    "lng": 60.596459,
+    "description": null,
+    "raw": "Екатеринбург, улица Куйбышева, 41",
+    "metro": {
+      "station_name": "Геологическая",
+      "line_name": "Север-Юг",
+      "station_id": "48.267",
+      "line_id": "48",
+      "lat": 56.826715,
+      "lng": 60.603754
+    },
+    "metro_stations": [
+      {
+        "station_name": "Геологическая",
+        "line_name": "Север-Юг",
+        "station_id": "48.267",
+        "line_id": "48",
+        "lat": 56.826715,
+        "lng": 60.603754
+      },
+      {
+        "station_name": "Динамо",
+        "line_name": "Север-Юг",
+        "station_id": "48.265",
+        "line_id": "48",
+        "lat": 56.847818,
+        "lng": 60.599406
+      },
+      {
+        "station_name": "Площадь 1905 года",
+        "line_name": "Север-Юг",
+        "station_id": "48.266",
+        "line_id": "48",
+        "lat": 56.837982,
+        "lng": 60.59734
+      },
+      {
+        "station_name": "Чкаловская",
+        "line_name": "Север-Юг",
+        "station_id": "48.269",
+        "line_id": "48",
+        "lat": 56.808502,
+        "lng": 60.610698
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Мы внутренняя IT-инфраструктура, разрабатывающая решения для экосистемы наших внутренних сервисов:</strong></p> <p><strong>Жизньмарт </strong>- Федеральная розничная сеть и доставка из 300 магазинов в РФ и КЗ</p> <p><strong>Сушкоф и пицца </strong>- Уральская сеть ресторанов и доставка японской кухни и не американской пиццы</p> <p><strong>Lifemart </strong>- ресторан и доставка здоровой еды в Дубай</p> <p><strong>ЁЮ</strong> - Бистро и доставка корейской кухни в Екатеринбурге с собственной автоматизированной системой и кассами</p> <p><strong>Goulash.tech</strong> - заказная разработка систем автоматизации и мобильных приложений для ресторанов</p> <p><br />Мы развиваем собственное модульное ПО для управления бизнес-процессами. Наша система учета — это ядро операционной деятельности: от заказов и товарооборота до автоматизации закупок и сейчас мы ищем<strong> backend-разработчика</strong>, который поможет развивать и совершенствовать эту систему.</p> <p><strong>Чем предстоит заниматься</strong>:</p> <ul> <li> <p>Участвовать в доработке и развитии нашего внутреннего ПО — модульной системы учета</p> </li> <li> <p>Реализовывать новый функционал для управления заказами, автозакупками, товарооборотом и другими ключевыми модулями</p> </li> <li> <p>Рефакторинг, вынос legacy участков монолита на микросервисы (преимущественно на Go), разработка архитектуры</p> </li> </ul> <p><br /><strong>Для нас важно:</strong></p> <ul> <li>Опыт PHP-разработки от 2-х лет</li> <li>Базовые знания Go</li> </ul> <p><br /><strong>Наш стек:</strong></p> <p>PHP 8 (в процессе переезда на 8.3)</p> <p>Yii 1</p> <p>MySQL 8</p> <p>RabbitMQ</p> <p>Docker+Kubernetes</p> <p>Отдельные микросервисы на Go</p> <p><strong>От нас:</strong></p> <ul> <li> <p>Реально сложный и интересный с точки зрения прокачки скиллов продукт</p> </li> <li> <p>Удобный формат работы на выбор с с гибким началом дня (Удаленно/Офис/гибрид)</p> </li> <li> <p>Трудоустройство в аккредитованной IT-компании</p> </li> <li> <p>Не бонус, но факт: у нас белая заработная плата</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "Golang"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "Yii"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "RabbitMQ"
+    },
+    {
+      "name": "MongoDB"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9210973",
+    "name": "Жизньмарт Мини (ООО Не Поешь Толком - Будешь Волком)",
+    "url": "https://api.hh.ru/employers/9210973",
+    "alternate_url": "https://hh.ru/employer/9210973",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1419810.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7298889.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7298890.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9210973",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T15:55:47+0300",
+  "created_at": "2025-06-07T15:55:47+0300",
+  "initial_created_at": "2025-05-23T15:55:47+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120917172",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120917172",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

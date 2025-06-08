@@ -1,0 +1,131 @@
+{
+  "id": "118586623",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Middle/Senior C++ разработчик в Core",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мобильное приложение 2ГИС ежедневно помогает миллионам пользователей выбрать лучший ресторан для ужина, объехать пробки по навигатору с любимым диктором, изучить в подробностях детальную 3D-карту города, забронировать самокат или каршеринг, узнать цены на недвижимость и решить ещё десятки повседневных задач.</p> <p>Наша команда разрабатывает кроссплатформенное ядро приложения на C++. В ядре мы реализуем общие для Android и iOS части бизнес-логики.</p> <p>Задачи команды — доставлять новую функциональность быстро и качественно, проектировать расширяемую архитектуру, обеспечивать стабильность и масштабируемость инфраструктуры для разработчиков.</p> <p><strong>Тебе предстоит</strong></p> <ul> <li> <p>Прорабатывать продуктовые требования и декомпозировать задачи.</p> </li> <li> <p>Продумывать архитектуру и пайплайн доставки данных.</p> </li> <li> <p>Изучать, сравнивать и выбирать инструмент для выполнения задачи.</p> </li> <li> <p>Реализовывать качественные решения в коде и покрывать их тестами.</p> </li> <li> <p>Сопровождать доставку фич на бой.</p> </li> <li> <p>Профилировать и оптимизировать код по скорости выполнения и памяти, писать бенчмарки.</p> </li> <li> <p>Проводить код-ревью.</p> </li> <li> <p>Предлагать и воплощать улучшения кодовой базы проекта.</p> </li> </ul> <p>У нас классная дружелюбная команда, современные технологии (C++20, modern CMake, OS/IDE на любой вкус и т.д.) и благодарная многомиллионная аудитория.</p> <p><strong>Мы ждём от тебя</strong></p> <ul> <li> <p>Отличное знание C++14/17/20 и опыт коммерческой разработки на нём от 3 лет.</p> </li> <li> <p>Сильная алгоритмическая подготовка (знание основных алгоритмов и структур данных, умение оценивать сложность алгоритмов).</p> </li> <li> <p>Умение самостоятельно разработать сложное программное решение — от проработки и обсуждения требований до проектирования архитектуры и написания качественного кода.</p> </li> <li> <p>Умение работать в команде, работать с чужим кодом.</p> </li> <li> <p>Умение писать эффективный и понятный код.</p> </li> </ul> <p>Будет плюсом</p> <ul> <li> <p>Опыт мобильной/кроссплатформенной разработки на С++.</p> </li> <li> <p>Опыт разработки многопоточных приложений.</p> </li> <li> <p>Навыки измерения производительности и профилирования графических программ.</p> </li> <li> <p>Опыт работы с Jenkins, знание Python, CMake.</p> </li> </ul> <p><strong>Кроме того</strong></p> <ul> <li> <p>2ГИС — аккредитованная IT-компания.</p> </li> <li> <p>Можно работать удалённо. Для нас важен специалист, а не его локация. Если хочешь работать в гибридном формате, у нас есть офисы в Москве, Санкт-Петербурге, два классных офиса в Новосибирске. А также коворкинги в Нижнем Новгороде, Томске, Астане, Алма-Ате и Дубае.</p> </li> <li> <p>График не главное. Кто-то начинает работу в 9, кто-то в 11, а кто-то — когда удобно ему и команде. Главное — выполнять задачи в срок и быть на связи с коллегами.</p> </li> <li> <p>Само собой, полностью белая зарплата, размер обсуждается на собеседовании, потолка нет.</p> </li> <li> <p>Есть ДМС, штатный терапевт, невролог, мед.консультант и другие IT-плюшки.</p> </li> <li> <p>Если хочешь делиться своим опытом, мы только за — поможем с выступлениями на конференциях и статьями для Хабра.</p> </li> </ul>",
+  "branded_description": "\n<style>\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;    \n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-weight: normal;\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    display: inline-block;\n    margin: 28px 0 0;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    color: #000;\n    overflow: hidden;\n    font-family: 'Arial';\n    font-size: 16px;\n    line-height: 24px;\n    z-index: 1;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_content {\n    padding: 28px 91px 20px 37px;\n    position: relative;\n    z-index: 1;\n}\n\n.tmpl_hh_content p:first-child strong,\n.tmpl_hh_content>strong:first-child strong,\n.tmpl_hh_content div>strong:first-child strong,\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n   margin: 10px 0 10px;\n}\n\n.tmpl_hh_content b, \n.tmpl_hh_content strong {\n    display: inline-block;\n    font-weight: normal;\n    font-size: 26px;\n    line-height: 36px;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    list-style: none !important;\n    margin-left: 15px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 4px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 4px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;    \n}\n\n.tmpl_hh_content li:before {\n    position: absolute;\n    left:-15px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"\\2022\";\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter)'.';\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n\n.tmpl_hh_flex {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n}\n\n.tmpl_hh_header {\n    position: relative;\n    background: url(\"https://hhcdn.ru/ichameleon/270910.png\");\n    background-size: cover;    \n    height: 0;\n    padding-bottom: 42%;\n}\n\n.tmpl_hh_banner {\n    background: url(https://hhcdn.ru/ichameleon/266746.jpg) 0 0 / 100% auto no-repeat;\n    height: 0;\n    padding-bottom: 40.5%;\n    position: relative;\n}\n\np.tmpl_hh_banner__text {\n    font-size: 24px;\n    line-height: 1.32;\n    color: #FFFFFF;\n    position: absolute;\n    left: 10%;\n    top: 43%;\n    transform: translate(0,-50%);\n    right: 30%;\n}\n\n.tmpl_hh_principles {\n    margin: -11px 36px 45px;\n    position: relative;\n}\n\np.tmpl_hh_principles__title {\n    font-size: 26px;\n    line-height: 35px;\n    margin-bottom: 15px;\n}\n\n.tmpl_hh_principles__column {\n    width: 48.7%;\n}\n\n.tmpl_hh_principles__item {\n    width: 90%;\n    margin-bottom: 18px;\n}\n\n.tmpl_hh_principles__item b {\n    display: block;\n}\n\np.tmpl_hh_footnote {\n    font-size: 12px;\n    line-height: 14px;\n    color: #666666;\n    margin: 36px 0 0;\n}\n\n@media screen and (max-width: 699px) {\n    .tmpl_hh_wrapper {\n        font-size: 14px;\n        line-height: 24px;\n    }\n\n    .tmpl_hh_content {\n        padding: 30px 5.5% 14px;\n    }\n\n    .tmpl_hh_content b, \n    .tmpl_hh_content strong {\n        font-size: 22px;\n        line-height: 35px;\n    }\n\n    p.tmpl_hh_banner__text {\n        font-size: 3.5vw;\n    }\n\n    .tmpl_hh_principles {\n        margin: 15px 14px 45px;\n        font-size: 14px;\n        line-height: 21px;\n    }\n\n    p.tmpl_hh_principles__title {\n        font-size: 22px;\n        line-height: 35px;\n        margin-bottom: 13px;\n    }\n\n    .tmpl_hh_principles__column {\n        width: 100%;\n        margin-bottom: -5px;\n    }\n\n    .tmpl_hh_principles__item {\n        width: 100%;\n        margin-bottom: 18px;\n    }\n\n    .tmpl_hh_content p b, .tmpl_hh_content p strong {\n        margin: 22px 0 0;\n    }\n}\n</style>\n\n<div class=\"tmpl_hh_wrapper\">\n    <div class=\"tmpl_hh_header\"></div>\n    <div class=\"tmpl_hh_content\">\n       <p>Мобильное приложение 2ГИС ежедневно помогает миллионам пользователей выбрать лучший ресторан для ужина, объехать пробки по навигатору с любимым диктором, изучить в подробностях детальную 3D-карту города, забронировать самокат или каршеринг, узнать цены на недвижимость и решить ещё десятки повседневных задач.</p> <p>Наша команда разрабатывает кроссплатформенное ядро приложения на C++. В ядре мы реализуем общие для Android и iOS части бизнес-логики.</p> <p>Задачи команды — доставлять новую функциональность быстро и качественно, проектировать расширяемую архитектуру, обеспечивать стабильность и масштабируемость инфраструктуры для разработчиков.</p> <p><strong>Тебе предстоит</strong></p> <ul> <li> <p>Прорабатывать продуктовые требования и декомпозировать задачи.</p> </li> <li> <p>Продумывать архитектуру и пайплайн доставки данных.</p> </li> <li> <p>Изучать, сравнивать и выбирать инструмент для выполнения задачи.</p> </li> <li> <p>Реализовывать качественные решения в коде и покрывать их тестами.</p> </li> <li> <p>Сопровождать доставку фич на бой.</p> </li> <li> <p>Профилировать и оптимизировать код по скорости выполнения и памяти, писать бенчмарки.</p> </li> <li> <p>Проводить код-ревью.</p> </li> <li> <p>Предлагать и воплощать улучшения кодовой базы проекта.</p> </li> </ul> <p>У нас классная дружелюбная команда, современные технологии (C++20, modern CMake, OS/IDE на любой вкус и т.д.) и благодарная многомиллионная аудитория.</p> <p><strong>Мы ждём от тебя</strong></p> <ul> <li> <p>Отличное знание C++14/17/20 и опыт коммерческой разработки на нём от 3 лет.</p> </li> <li> <p>Сильная алгоритмическая подготовка (знание основных алгоритмов и структур данных, умение оценивать сложность алгоритмов).</p> </li> <li> <p>Умение самостоятельно разработать сложное программное решение — от проработки и обсуждения требований до проектирования архитектуры и написания качественного кода.</p> </li> <li> <p>Умение работать в команде, работать с чужим кодом.</p> </li> <li> <p>Умение писать эффективный и понятный код.</p> </li> </ul> <p>Будет плюсом</p> <ul> <li> <p>Опыт мобильной/кроссплатформенной разработки на С++.</p> </li> <li> <p>Опыт разработки многопоточных приложений.</p> </li> <li> <p>Навыки измерения производительности и профилирования графических программ.</p> </li> <li> <p>Опыт работы с Jenkins, знание Python, CMake.</p> </li> </ul> <p><strong>Кроме того</strong></p> <ul> <li> <p>2ГИС — аккредитованная IT-компания.</p> </li> <li> <p>Можно работать удалённо. Для нас важен специалист, а не его локация. Если хочешь работать в гибридном формате, у нас есть офисы в Москве, Санкт-Петербурге, два классных офиса в Новосибирске. А также коворкинги в Нижнем Новгороде, Томске, Астане, Алма-Ате и Дубае.</p> </li> <li> <p>График не главное. Кто-то начинает работу в 9, кто-то в 11, а кто-то — когда удобно ему и команде. Главное — выполнять задачи в срок и быть на связи с коллегами.</p> </li> <li> <p>Само собой, полностью белая зарплата, размер обсуждается на собеседовании, потолка нет.</p> </li> <li> <p>Есть ДМС, штатный терапевт, невролог, мед.консультант и другие IT-плюшки.</p> </li> <li> <p>Если хочешь делиться своим опытом, мы только за — поможем с выступлениями на конференциях и статьями для Хабра.</p> </li> </ul><p class=\"tmpl_hh_footnote\">ООО «ДубльГИС» представляет бренд 2ГИС</p>\n    </div>\n    <div class=\"tmpl_hh_banner\">\n        <p class=\"tmpl_hh_banner__text\">Делаем карту, справочник и навигатор. А ещё — API и SDK, сервис бронирования Отелло, 2ГИС Про для бизнеса, оплату на АЗС и даже роботов.</p>\n    </div>\n    <!-- <div class=\"tmpl_hh_principles\">\n        <p class=\"tmpl_hh_principles__title\">Наши принципы</p>\n        <div class=\"tmpl_hh_principles__columns tmpl_hh_flex\">\n            <div class=\"tmpl_hh_principles__column\">\n                <div class=\"tmpl_hh_principles__item\"><b>&#171;Зачем&#187; важнее, чем &#171;что&#187;</b> Понимание смысла задач&#160;&#8212;<br/> самая сильная мотивация</div>\n                <div class=\"tmpl_hh_principles__item\"><b>Ошибки уточняют путь</b> Не боимся экспериментировать<br/> с&#160;новыми технологиями</div>\n                <div class=\"tmpl_hh_principles__item\"><b>Открытость&#160;&#8212; основа культуры</b> Публично рассказываем о&#160;планах,<br/> их&#160;мотивах, результатах и&#160;ошибках</div>\n            </div>\n            <div class=\"tmpl_hh_principles__column\">\n                <div class=\"tmpl_hh_principles__item\"><b>Доверие важнее иерархии</b> Строим общение на&#160;взаимном уважении и&#160;доверии</div>\n                <div class=\"tmpl_hh_principles__item\"><b>Ограничения это вызов</b> Ищем лучшие решения внутри них &#8212; это сложнее, но&#160;интереснее</div>\n                <div class=\"tmpl_hh_principles__item\"><b>Отдых&#160;&#8212; способ работать лучше</b> Работа это важно, но&#160;жизнь состоит не&#160;только из&#160;неё</div>\n            </div>\n        </div>\n    </div> -->\n</div> \n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "C++"
+    },
+    {
+      "name": "STL"
+    },
+    {
+      "name": "CMake"
+    },
+    {
+      "name": "Boost"
+    },
+    {
+      "name": "Алгоритмы и структуры данных"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "64174",
+    "name": "2ГИС",
+    "url": "https://api.hh.ru/employers/64174",
+    "alternate_url": "https://hh.ru/employer/64174",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1016925.jpeg",
+      "90": "https://img.hhcdn.ru/employer-logo/5688468.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/5688469.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=64174",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-26T00:54:00+0300",
+  "created_at": "2025-05-26T00:54:00+0300",
+  "initial_created_at": "2025-03-20T09:49:08+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=118586623",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/118586623",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

@@ -1,0 +1,169 @@
+{
+  "id": "121147428",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Node.js developer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "город Новосибирск",
+    "street": "Окружная улица",
+    "building": "29в",
+    "lat": 55.083601,
+    "lng": 82.938396,
+    "description": null,
+    "raw": "город Новосибирск, Окружная улица, 29в",
+    "metro": {
+      "station_name": "Заельцовская",
+      "line_name": "Ленинская",
+      "station_id": "52.294",
+      "line_id": "52",
+      "lat": 55.059291,
+      "lng": 82.912569
+    },
+    "metro_stations": [
+      {
+        "station_name": "Заельцовская",
+        "line_name": "Ленинская",
+        "station_id": "52.294",
+        "line_id": "52",
+        "lat": 55.059291,
+        "lng": 82.912569
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Кто мы:</strong></p> <p><strong>Eltex</strong> - ведущий российский разработчик и производитель телекоммуникационного оборудования. Наша компания - это дружный коллектив, со штатом уже более 1000 сотрудников. Наш офис располагается на границе с сосновым бором и состоит из двух корпусов. Прямо здесь находится производственная линия, на которой выпускается телеком оборудование различных классов от ip-телефонов и “умных” розеток до телефонных станций, от домашних модемов до магистральных маршрутизаторов, которые позволяют обеспечить бесперебойную связь для целых регионов. Мы — <em>аккредитованная IT</em>-<em>компания</em>.</p> <p>Сейчас находимся в активной стадии развития, осваиваем новые направления и улучшаем существующие продукты, поэтому ищем талантливых разработчиков, которые станут частью команды. </p> <p><br /><strong>У нас много проектов, но чаще всего мы пишем на:</strong></p> <ul> <li>В качестве основного фреймворка используем NestJS</li> <li>Заворачиваем наши приложения в Docker</li> <li>Для настройки и запуска применяем Ansible Playbook</li> <li>Храним данные в MongoDB, PostrgeSQL в зависимости от проекта</li> <li>Активно используем Git и Gitlab</li> <li>Общаемся по REST, GraphQL, WebSockets</li> <li>Frontend разрабатываем на Angular и Material Design</li> </ul> <p><strong>Кто нам нужен:</strong></p> <ul> <li>Backend-разработчик, который пишет качественный код на<strong> Node.js</strong></li> <li>Использует все возможности <strong>TypeScript</strong></li> <li>Имеет серверной web-разработки не менее 3 лет</li> <li>Есть опыт разработки распределенной</li> </ul> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Разрабатывать архитектуру и логику высоконагруженных сервисов</li> <li>Участвовать в выборе технологий, языков, библиотек и фреймворков </li> <li>Производить ревизию кода и его оптимизацию</li> <li>Создавать и развивать системы автоматизированного тестирования в проектах</li> <li>Проводить Code Review</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Официальное трудоустройство с первого рабочего дня</li> <li>Комфортная программа ввода в должность с наставником</li> <li>Собственный комплекс зданий в парковой зоне города</li> <li>Бесплатный служебный транспорт от пл.Калинина и 4, 5, 6 мкр.</li> <li>Расширенный ДМС пакет после испытательного срока</li> <li>Уличная зона с турниками и настольным теннисом</li> <li>Тренажерный зал</li> <li>Столовая в каждом корпусе</li> <li>Большая парковка</li> <li>Яркие корпоративные мероприятия</li> <li>Митапы по обмену опытом между командами</li> <li>Компенсация части затрат на участие в IT конференциях</li> <li>Корпоративные скидки у компаний-партнеров (фитнес, развлечения)</li> <li>Курсы английского в офисе (основную часть затрат компенсирует компания)</li> <li>Релокационный пакет для иногородних кандидатов</li> </ul> <p><strong>Ключевые технологии</strong></p> <ul> <li>RabbitMQ</li> <li>Docker</li> <li>Ansible</li> <li>Redis</li> <li>NodeJS</li> <li>MongoDB</li> <li>Postgres</li> <li>Ansible</li> <li>Nginx</li> </ul> <p><strong>Ключевые навыки</strong></p> <ul> <li>JavaScript / TypeScript</li> <li>SQL/MQL</li> <li>HTTP/WS</li> <li>GraphQL</li> <li>AMQP</li> <li>dockerfile</li> </ul> <p><strong>Плюсом будет знания и опыт работы</strong></p> <ul> <li>Erlang / Elixir</li> <li>OAuth2</li> <li>Bash</li> <li>Makefile</li> <li>Meteor.js</li> <li>RxJS</li> <li>Elasticsearch</li> <li>Fluentd / Logstash</li> </ul> <p><strong>О нас:</strong></p> <ul> <li>Существуем ещё с прошлого века. Сейчас в компании работает более 1800 человек;</li> <li>Мы официально устраиваем своих сотрудников в первый рабочий день. Никаких зарплат в конверте;</li> <li><strong>Иногородним кандидатам предлагаем релокационный пакет;</strong></li> <li>Приходящим прикрепляем наставника, обучаем, вводим в курс дела;</li> <li>Официоза - минимум. Мы спокойно ходим к тестерам (или они к нам) и общаемся по актуальным задачам;</li> <li>Ещё у нас есть маленькие чайные, где можно посидеть, подумать, чай попить. Есть пара кухонек (официально: «место приёма пищи»). Две большие общие столовые;</li> <li>Располагаемся на границе Соснового бора, летом очень приятно прогуливаться, слушать птичек, кормить белочек. После работы можно побегать. Есть турник, теннисные столы;</li> <li>Проводим митапы. Можно послушать. Или выступить. А если ходить на IT конференции, то компания компенсирует затраты;</li> <li>Количество проектов с каждым годом увеличивается, появляются новые группы разработки, от джуна до руководителя группы или направления вырасти реально);</li> <li>Есть свой служебный транспорт от/до пл.Калинина и 4, 5, 6 микрорайонов;</li> <li>В свободное время ты можешь играть в настолки и кикер;</li> <li>Любишь спорт? У нас есть собственный тренажерный зал и корпоративные скидки на фитнес.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "TypeScript"
+    },
+    {
+      "name": "Node.js"
+    },
+    {
+      "name": "MongoDB"
+    },
+    {
+      "name": "GraphQL"
+    },
+    {
+      "name": "RabbitMQ"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "828199",
+    "name": "«Предприятие «ЭЛТЕКС»",
+    "url": "https://api.hh.ru/employers/828199",
+    "alternate_url": "https://hh.ru/employer/828199",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1139178.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6177301.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6177302.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=828199",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-30T05:13:35+0300",
+  "created_at": "2025-05-30T05:13:35+0300",
+  "initial_created_at": "2025-05-30T05:13:35+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121147428",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121147428",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "a1",
+        "name": "A1 — Начальный"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

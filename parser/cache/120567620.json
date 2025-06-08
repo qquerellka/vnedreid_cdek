@@ -1,0 +1,132 @@
+{
+  "id": "120567620",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Senior React Frontend Developer",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 200000,
+    "to": 250000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 200000,
+    "to": 250000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>О проекте</strong>: SaaS сервис на базе ИИ, который превращает встречи в мощный инструмент для команды: автоматически записывает видеоконференции и создает четкие саммари. Технический стек проекта: JavaScript, TypeScript, React (Redux, Redux Thunk, Redux Persist), React Router, CSS, SCSS (Sass), React Bootstrap, React Hook Form, i18next, Axios, Socket.IO, Vite.</p> <p><strong>Обязанности:</strong></p> <ul> <li>Разработка и поддержка веб-приложения с использованием React</li> <li>Реализация новых функций и улучшений в существующем коде</li> <li>Взаимодействие с REST API и WebSocket.</li> <li>Участие в процессе код-ревью для поддержания качества кода.</li> <li>Будет плюсом: знание Angular.</li> </ul> <strong>Требования:</strong> <ul> <li>Отличное знание JavaScript и TypeScript</li> <li>Опыт работы с React <strong>от 3х лет</strong> и связанными библиотеками и фреймворками: Redux Thunk, Redux Persist, а также React Router.</li> <li>Навыки стилизации с использованием CSS и SCSS (Sass).</li> <li>Знание и практический опыт работы с UI-библиотекой React Bootstrap и нативными компонентами.</li> <li>Умение взаимодействовать с REST API с использованием Axios и работать с WebSocket через Socket.IO</li> <li>Опыт работы с современными инструментами сборки, такими как Vite</li> <li>Знание инструментов контейнеризации Docker.</li> <li>Способность работать как в команде, так и самостоятельно.</li> <li>Умение решать проблемы и предлагать эффективные решения.</li> <li>Готовность учиться и развиваться в рамках проекта.</li> </ul> <strong>Условия:</strong> <ul> <li>Официальное трудоустройство.</li> <li>Работа в аккредитованной IT-компании.</li> <li>Компенсация курсов - 50%</li> <li>Гибкое начало рабочего дня.</li> <li>Возможность выбора между работой удаленно и в офисе (г. Ростов-на-Дону, Суворова, 52)</li> <li>Рыночная оплата труда + пересмотр заработной платы по рынку и профессиональным достижениям</li> <li>Поддержка от опытного наставника.</li> <li>Возможность профессионального и карьерного роста, участие в развитии продукта.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11618788",
+    "name": "Вижнсервис",
+    "url": "https://api.hh.ru/employers/11618788",
+    "alternate_url": "https://hh.ru/employer/11618788",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11618788",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-15T09:18:21+0300",
+  "created_at": "2025-05-15T09:18:21+0300",
+  "initial_created_at": "2025-05-15T09:18:21+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120567620",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120567620",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

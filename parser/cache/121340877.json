@@ -1,0 +1,159 @@
+{
+  "id": "121340877",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Тестировщик 1С",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 50000,
+    "to": 90000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 50000,
+    "to": 90000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "улица Луначарского",
+    "building": "81",
+    "lat": 56.84780502319336,
+    "lng": 60.61789321899414,
+    "description": null,
+    "raw": "Екатеринбург, улица Луначарского, 81",
+    "metro": {
+      "station_name": "Динамо",
+      "line_name": "Север-Юг",
+      "station_id": "48.265",
+      "line_id": "48",
+      "lat": 56.847818,
+      "lng": 60.599406
+    },
+    "metro_stations": [
+      {
+        "station_name": "Динамо",
+        "line_name": "Север-Юг",
+        "station_id": "48.265",
+        "line_id": "48",
+        "lat": 56.847818,
+        "lng": 60.599406
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Центр строительных программ &quot;Эрикос&quot; <em>(ООО &quot;Эрикос-ЦСП&quot;, ООО &quot;Эрикос-Проект&quot;)</em></p> <p>более 30 лет является разработчиком программного обеспечения для строительной отрасли.</p> <p> </p> <p>Как центр разработки 1С, участвуем в выпуске и внедрении решений с использованием самых последних возможностей ERP систем и стандартных подсистем 1С, применением ЭДО, BIM технологий, машинного обучения. Интегрируем строительный функционал в имеющиеся корпоративные системы.</p> <p> </p> <p>Мы являемся аккредитованной ИТ-компанией.</p> <p> </p> <p>Ищем кандидатов на должность «Тестировщик» для работы в команде над крупными проектами.</p> <p> </p> <p><strong>Требования к кандидату:</strong></p> <ul> <li>Законченное профильное образование в сфере ИТ-технологий (возможно рассмотрение студентов последних курсов университетов, с опытом работы в период обучения;</li> <li>начальное знание механизмов платформы 1С: Предприятие 8.3;</li> <li>аналитическое мышление, системный подход к работе;</li> <li>приветствуются знания строительной специфики или сметного дела</li> </ul> <p><strong>Обязанности:</strong></p> <ul> <li>Тестирование, разработанного функционала согласно требованиям, проведение сквозных тестирований блока разработки;</li> <li>изучение возможностей стандартной функциональности для решения задач по автоматизации бизнес-процессов;</li> <li>администрирование доступа пользователей к базам 1С;</li> <li>создание отчетов, обработок, доработка систем по запросам пользователей;</li> <li>взаимодействие на проекте с рабочей группой заказчика и аналитиками, разработчиками.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Трудоустройство по ТК РФ;</li> <li>стабильную и конкурентную заработную плату 2 раза в месяц:</li> <li>оклад + ежемесячная премиальная часть;</li> <li>график работы 5/2, с 09:30 до 18:00 (возможно рассмотрение графика с 08:30 до 17:00;</li> <li>обучение и повышение квалификации за счет организации;</li> <li>помощь в становлении крутым IT-специалистом: система обучения и прикреплённый наставник, который поможет влиться в процессы;</li> <li>возможен карьерный рост до Ведущего специалиста.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1162478",
+    "name": "Эрикос-ЦСП",
+    "url": "https://api.hh.ru/employers/1162478",
+    "alternate_url": "https://hh.ru/employer/1162478",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/64793.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/821102.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/821103.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1162478",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T14:18:52+0300",
+  "created_at": "2025-06-07T14:18:52+0300",
+  "initial_created_at": "2025-06-04T14:18:52+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121340877",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121340877",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

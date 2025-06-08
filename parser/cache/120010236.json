@@ -1,0 +1,141 @@
+{
+  "id": "120010236",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Программист С++",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 150000,
+    "to": 250000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 150000,
+    "to": 250000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Мы - Компания Тензор. С 1996 года создаем и внедряем IT-решения для автоматизации различных участков бизнеса. В 2023 году Тензор занял 11 строчку в рейтинге самых дорогих компаний Рунета по версии Forbes.</p> <p>Наш основной продукт Saby — экосистема сервисов для бизнеса, которая позволяет вести учет, управлять процессами и общаться в одном месте. Нас выбирают: Сбербанк, Яндекс, Магнит, Вкусно и точка, КХЛ, Камаз, Роснефть, Россельхозбанк, Х5, Ростелеком.</p> <p>Компания постоянно выпускает новые решения и обновляет сервисы, выводит их на мировой уровень. Это стало возможным благодаря большой команде талантливых и инициативных людей. В Тензоре работают 7000 сотрудников, почти треть из этого числа – программисты.</p> <p>Мы ищем С++ разработчиков в проекты:</p> <ul> <li>Разработка решений по разбору и обработке файлов электронной отчетности. Интеграции Desktop-приложений и облачных сервисов в сфере ЭО и ЭДО;</li> <li>Поддержка и развитие высоконагруженных приложений документооборота;</li> <li>Разработка ядра бэкенд-платформы компании и сервисов на ее основе;</li> <li>Расширение возможностей кроссплатформенного desktop-приложения СБИС Плагин. Вам предстоит научить приложение не просто показывать уведомления, а звонить поверх WebRTC и SIP протоколов, участвовать в обсуждениях, обрабатывать задачи и документы, оказывать удаленную помощь.</li> </ul> <p><strong>Требования </strong></p> <ul> <li>высшее/неполное высшее образование;</li> <li>опыт разработки на С++;</li> <li>уверенное знание STL;</li> <li>понимание эффективных алгоритмов и структур данных;</li> <li>опыт разработки под win/nix приветствуется.</li> </ul> <p><strong>Мы предлагаем </strong></p> <ul> <li>интересную работу в крупной и стабильной IT-компании;</li> <li>заработную плату в зависимости от квалификации и уровня ответственности;</li> <li>оформление по ТК РФ;</li> <li>премии от 5 до 20% по итогам работы за месяц;</li> <li>социальные гарантии, ДМС;</li> <li>возможности профессионального и карьерного роста, курсы иностранных языков;</li> <li>корпоративные праздники и различные совместные мероприятия.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "C++"
+    },
+    {
+      "name": "STL"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Boost"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "67611",
+    "name": "Тензор",
+    "url": "https://api.hh.ru/employers/67611",
+    "alternate_url": "https://hh.ru/employer/67611",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/529305.png",
+      "90": "https://img.hhcdn.ru/employer-logo/2558697.png",
+      "240": "https://img.hhcdn.ru/employer-logo/2558698.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=67611",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-28T09:16:27+0300",
+  "created_at": "2025-05-28T09:16:27+0300",
+  "initial_created_at": "2025-04-28T09:16:09+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120010236",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120010236",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

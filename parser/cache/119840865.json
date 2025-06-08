@@ -1,0 +1,140 @@
+{
+  "id": "119840865",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Java-разработчик Middle",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Пресненская набережная",
+    "building": "10",
+    "lat": 55.746593,
+    "lng": 37.53738,
+    "description": null,
+    "raw": "Москва, Пресненская набережная, 10",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>Планирование работ, оценка задач, контроль исполнения, Code Review;</li> <li>Разработка и отладка кода в соответствии с поставленными задачами;</li> <li>Разработка модульных и интеграционных тестов;</li> <li>Проработка технических решений в рамках своей компетенции;</li> <li>Оценка и декомпозиция задач.</li> </ul> <strong>Требования:</strong> <ul> <li>Опыт коммерческой разработчик от 3 лет;</li> <li>Хорошее знание Java 11+;</li> <li>Опыт разработки с использованием Spring Framework, JPA/Hibernate;</li> <li>Опыт разработки rest/grpc/soap сервисов;</li> <li>Понимание принципов построения микросервисной архитектуры;</li> <li>Опыты работы с тасктрекерами;</li> <li>Spring (Core, Boot, Security, Cloud);</li> <li>Знание паттернов ООП опыт их применение;</li> <li>SQL (PostgreSQL), ORM (MyBatis), Liquibase;</li> <li>JUnit;</li> <li>Rabbit MQ, Kafka;</li> <li>Git/GitLab.</li> </ul> <strong>Условия:</strong> <ul> <li>Оформление в строгом соответствии с ТК РФ;</li> <li>Формат работы - офис, гибрид по договоренности с руководителем;</li> <li>Достойная заработная плата (готовы удовлетворить финансовые ожидания понравившегося кандидата), годовая премия;</li> <li>Полис ДМС;</li> <li>В перспективе пакет дополнительных льгот;</li> <li>Офис: Москва-сити;</li> <li>Работа с одном из самых амбициозных и перспективных ИТ-проектов ближайших лет. Ваша работа будет напрямую влиять на цифровой ландшафт страны;</li> <li>Возможность учиться и приобретать новые знания и навыки в отличной команде с прекрасным руководителем.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Java 11"
+    },
+    {
+      "name": "Spring Framework"
+    },
+    {
+      "name": "JPA/Hibernate"
+    },
+    {
+      "name": "Spring Boot"
+    },
+    {
+      "name": "Cloud"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11685629",
+    "name": "Единая Цифровая Платформа",
+    "url": "https://api.hh.ru/employers/11685629",
+    "alternate_url": "https://hh.ru/employer/11685629",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11685629",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-22T12:58:18+0300",
+  "created_at": "2025-05-22T12:58:18+0300",
+  "initial_created_at": "2025-04-22T23:50:06+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119840865",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119840865",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

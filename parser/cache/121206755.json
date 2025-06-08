@@ -1,0 +1,130 @@
+{
+  "id": "121206755",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "QA Automation (Java) Engineer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 180000,
+    "to": 250000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 180000,
+    "to": 250000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Dcloud</strong> - это сплоченное сообщество независимых разработчиков, основанное более 10 лет назад профессионалами из ведущих IT-компаний, таких как Epam, Luxoft и Accenture. Мы специализируемся на разработке проектов с нуля, сотрудничая с крупными корпорациями и известными стартапами.</p> <p><strong>Soft-skills</strong></p> <ul> <li>ответственность и самодисциплина</li> <li>умение эффективно использовать своё время и время команды</li> <li>понимание рабочей этики (в общении с командой и заказчиком)</li> </ul> <p><strong>Обязанности:</strong></p> <ul> <li>тестирование систем на основе микросервисной архитектуры</li> <li>авто и мануальное тестирование (70 на 30): front, back, api, запрос к БД</li> <li>самостоятельное написание ручных тестов с последующей автоматизацией</li> <li>запуск автотестов, проведение анализа результатов выполнения</li> </ul> <p><strong>Общие требования</strong></p> <ul> <li>понимание методологий разработки ПО</li> <li>понимание клиент-серверной архитектуры</li> <li>понимание принципов работы компьютерных сетей и основных протоколов: HTTP(S), TCP/IP, UDP</li> <li>опыт использования Git, BitBucket, Confluence</li> <li>базовое понимание работы СУБД PostgreSQL</li> <li>знание SQL</li> </ul> <p><strong>Будет плюсом</strong></p> <ul> <li>опыт автоматизации тестирования на Java от 1 года</li> <li>умение проектировать тест-кейсы и готовить тестовые данные для тестирования</li> <li>опыт работы с SOAP, REST, SQL</li> <li>знание ООП и паттернов разработки автотестов</li> <li>опыт интеграции автотестов в CI/CD-пайплайны</li> <li>опыт проведения нагрузочного тестирования и анализа результатов</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <p><strong>Оформление: </strong>ИП, ТК.</p> <p><strong>Гибкость</strong>: мы понимаем, что у каждого свои предпочтения, поэтому готовы обсудить наиболее удобные условия работы для вас.</p> <p><strong>Формат работы:</strong> полностью удаленная работа.</p> <p>Прозрачные и честные отношения в коллективе профессионалов, минимальная бюрократия.</p> <p><strong>Присоединяйтесь к нам!</strong> Если вы готовы к новым вызовам и хотите работать на масштабных проектах, соответствующих вашему опыту и интересам, Dcloud — это то, что вам нужно. Мы ждем вас в нашей команде, где ваши идеи и опыт станут частью передовых решений!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4770322",
+    "name": "DCloud",
+    "url": "https://api.hh.ru/employers/4770322",
+    "alternate_url": "https://hh.ru/employer/4770322",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/853705.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/3855695.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3855696.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4770322",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T09:54:43+0300",
+  "created_at": "2025-06-02T09:54:43+0300",
+  "initial_created_at": "2025-06-02T09:54:43+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121206755",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121206755",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

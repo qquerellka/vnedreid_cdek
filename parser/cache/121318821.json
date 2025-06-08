@@ -1,0 +1,125 @@
+{
+  "id": "121318821",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист по сетевой инфраструктуре",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "Гурзуфская улица",
+    "building": "16",
+    "lat": 56.825469,
+    "lng": 60.583964,
+    "description": null,
+    "raw": "Екатеринбург, Гурзуфская улица, 16",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Крупный финансово-промышленный холдинг АО Группа Синара приглашает на работу специалиста по сетевой инфраструктуре.</p> <p><strong>Обязанности:</strong></p> <ul> <li> <p>Внедрение, администрирование и поддержка работоспособности каналообразующего</p> <p> и сетевого оборудования в центральном офисе и в дочерних предприятиях холдинга;</p> </li> <li> <p>Взаимодействие с операторами связи по подключению услуг и решению</p> <p>возникающих проблем;</p> </li> <li> <p>Разработка ТЗ и ТР на организацию ЛВС в дочерних предприятиях холдинга;</p> </li> <li> <p>Разработка и ведение технической документации по внедряемым и администрируемым информационным сервисам, решениям;</p> </li> <li> <p>Мониторинг работоспособности администрируемых сервисов и оборудования;</p> </li> <li> <p>Взаимодействие с пользователями для решения возникающих проблем (2-ая линия).</p> </li> </ul> <strong>Требования:</strong> <ul> <li>Высшее техническое образование;</li> <li> <p>Опыт работы по специальности от 2-х лет;</p> </li> <li> <p>Знания в объеме курса Cisco CCNA и выше, администрирование коммутаторов и роутеров Cisco;</p> </li> <li> <p>Знания основных принципов построения локальных сетей, межсетевого взаимодействия и принципов работы базовых сетевых служб и протоколов;</p> </li> <li> <p>Опыт администрирования Linux;\\Опыт работы с коммутационным оборудованием различных вендоров (Eltex, Qtech и других);</p> </li> <li> <p>Желательно опыт администрирования межсетевых экранов(Checkpoint, Cisco, Usergate, Континент и других), Wifi оборудования (Cisco, Eltex, Ubiquiti), систем мониторинга (Zabbix, PRTG, LibreNMS), телефония (CUCM, Asterisk).</p> </li> </ul> <strong>Условия:</strong> <ul> <li> </li> <li>Трудоустройство в аккредитованную ИТ-компанию;</li> <li>Работа в крупной стабильной холдинговой структуре;</li> <li>Возможность профессионального и карьерного роста в структуре холдинга;</li> <li>Официальная заработная плата, расширенный социальный пакет (дотация на питание, ДМС, оплата занятий спортом).</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "112",
+      "name": "Сетевой инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "21326",
+    "name": "Группа Синара",
+    "url": "https://api.hh.ru/employers/21326",
+    "alternate_url": "https://hh.ru/employer/21326",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1119189.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6097349.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6097350.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=21326",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T09:17:44+0300",
+  "created_at": "2025-06-04T09:17:44+0300",
+  "initial_created_at": "2025-06-04T09:17:44+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121318821",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121318821",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

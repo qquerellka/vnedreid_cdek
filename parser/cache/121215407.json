@@ -1,0 +1,170 @@
+{
+  "id": "121215407",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "PHP-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 150000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 150000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "улица Братьев Быковых",
+    "building": "28",
+    "lat": 56.851348,
+    "lng": 60.601032,
+    "description": null,
+    "raw": "Екатеринбург, улица Братьев Быковых, 28",
+    "metro": {
+      "station_name": "Динамо",
+      "line_name": "Север-Юг",
+      "station_id": "48.265",
+      "line_id": "48",
+      "lat": 56.847818,
+      "lng": 60.599406
+    },
+    "metro_stations": [
+      {
+        "station_name": "Динамо",
+        "line_name": "Север-Юг",
+        "station_id": "48.265",
+        "line_id": "48",
+        "lat": 56.847818,
+        "lng": 60.599406
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Альянс АйТи Технолоджи</strong> — российский разработчик SaaS-сервисов для сферы услуг, частных медицинских центров, стоматологий и beauty-индустрии. Уже 14 лет мы помогаем компаниям автоматизировать бизнес-процессы, находить новые точки роста и освобождать сотрудников от рутины.</p> <p>Мы гордимся званием <strong>«Лучшее предприятие отрасли 2021»</strong>.</p> <p><strong>Наши клиенты</strong> — более 4000 компаний из России, СНГ и Европы.</p> <p><strong>Основные продукты компании:</strong> CRM-системы «Арника», «Дента» и «Клиника онлайн». Они помогают управлять бизнесом в индустрии красоты, стоматологии и клиниках различного профиля.</p> <p>Компания занимает лидирующие позиции на рынке и продолжает развиваться. Мы будем рады видеть тебя в нашей команде, если ты готов расти, увеличивать доход и достигать своих целей.</p> <p><strong>Обязанности:</strong></p> <ul> <li>Создание новых продуктов.</li> <li>Разработка нового функционала существующих продуктов.</li> <li>Починка багов в существующих продуктах.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Знание PHP 7, JavaScript, MySQL;</li> <li>Понимание ООП;</li> <li>Навыки вёрстки;</li> <li>Опыт проектирования БД;</li> <li>Базовые навыки командной строки linux.</li> </ul> <p><strong>Будет плюсом опыт работы с:</strong></p> <ul> <li>Yii, AngularJS;</li> <li>Docker;</li> <li>Git;</li> <li>Паттернами проектирования;</li> <li>Адаптивной вёрсткой;</li> <li>Шаблонами проектирования;</li> <li>Go.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Работа в аккредитованной IT компании;</li> <li>Оформление в соответствии с нормами Трудового законодательства;</li> <li>З/п индексируется при росте уровня квалификации;</li> <li>Молодой дружный коллектив, готовый всегда прийти на помощь по любым вопросам;</li> <li>Активная корпоративная жизнь;</li> <li>График работы 5/2 с 10-00 до 19-00 или с 09-00 до 18-00, сб и вс выходные;</li> <li>Комфортный офис рядом с метро Динамо. Чай, кофе, свободный дресс-код.</li> </ul> <p><strong>Если тебе интересно стать частью нашей команды профессионалов отправляй отклик на вакансию. Мы ждем тебя в нашем дружном коллективе.</strong></p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "AngularJS"
+    },
+    {
+      "name": "ООП"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "PHP"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "5153615",
+    "name": "Альянс АйТи Технолоджи",
+    "url": "https://api.hh.ru/employers/5153615",
+    "alternate_url": "https://hh.ru/employer/5153615",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1198587.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6414797.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6414798.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5153615",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T16:58:13+0300",
+  "created_at": "2025-06-05T16:58:13+0300",
+  "initial_created_at": "2025-06-02T11:48:09+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121215407",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121215407",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

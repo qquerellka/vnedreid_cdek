@@ -1,0 +1,143 @@
+{
+  "id": "121337231",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист по информационной безопасности",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": null,
+    "to": 280000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": null,
+    "to": 280000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Московская область",
+    "street": "Новорижское шоссе, 26-й километр",
+    "building": null,
+    "lat": 55.780395,
+    "lng": 37.237154,
+    "description": null,
+    "raw": "Московская область, Новорижское шоссе, 26-й километр",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Уважаемые соискатели!</strong></p> <p>Обращаем ваше внимание, расположение нашего офиса: Московская область, Красногорский район, 26-й км автодороги &quot;Балтия&quot;, Бизнес-центр &quot;Riga Land&quot;, проезд на корпоративном комфортабельном транспорте от метро Строгино, Щукинская, ж/д.ст. Павшино (15-20 мин).</p> <p>Пожалуйста, перед отправлением резюме посмотрите, будет ли вам удобно добираться.</p> <p> </p> <strong>Обязанности:</strong> <ul> <li>обеспечение информационной безопасности (ИБ) Общества на объекте КИИ;</li> <li>консультирование и методическое сопровождение работников по вопросам ИБ;</li> <li>разработка и поддержание в актуальном состоянии моделей угроз безопасности информации, включая создание и поддержание в актуальном состоянии модели нарушителя ИБ, определение возможных уязвимостей ИТ-инфраструктуры, выявление актуальных способов реализации угроз нарушения целостности, доступности и конфиденциальности информационных ресурсов;</li> <li>разработка и обеспечение утверждения в установленном порядке проектов локальных нормативных документов в сфере обеспечения ИБ и защиты информации;</li> <li>обеспечение проведения в установленном порядке аудита обеспечения ИБ ИТ-инфраструктуры на объекте КИИ;</li> <li>установка, монтаж, наладка и эксплуатация программных, программно-аппаратных и технических средств защиты информации;</li> <li>обеспечение криптографической защиты информации;</li> <li>определение потребностей и обеспечение закупок СЗИ и СКЗИ;</li> <li>обнаружение и идентификация компьютерных инцидентов;</li> <li>организация и проведение в установленном порядке служебных расследований по фактам нарушения требований по ИБ и ЗИ.</li> </ul> <strong>Требования:</strong> <ul> <li>обязательно образование в области информационной безопасности, опыт работы в сфере ИБ от 1 года;</li> <li>знание основных программ защиты информации (СКЗИ, СЗИ);</li> <li>знание законодательства РФ и правовых актов в области ИБ;</li> <li>умение анализировать и предотвращать угрозы ИБ, выявление слабых мест и уязвимостей. Обнаружение и идентификация компьютерных инцидентов, опыт работы в АСУТП приветствуется;</li> <li>знание в разработке и экспертизе документов применительно к работам по защите информации;</li> <li>знание в проведении категорирования объектов КИИ;</li> <li>умение проведения консультационных и методических мероприятий для работников структурных подразделений;</li> <li>контроль за соблюдением правил безопасности при обработке, передаче и хранении конфиденциальной информации.</li> </ul> <strong>Условия:</strong> <ul> <li>оформление по ТК РФ;</li> <li>конкурентоспособная заработная плата, полностью официальная;</li> <li>ежегодные индексации заработной платы;</li> <li>ДМС после испытательного срока (3 мес.);</li> <li>график работы: с 10-00 до 19.00 часов, пятница с 10.00 до 18.00</li> </ul>",
+  "branded_description": "\n<style>\n\n.tmpl_hh_vacancy_block {\n    display: none;\n}\n.UNSAFE-employer-branded-is-desktop .tmpl_hh_vacancy_block {\n    display: block;\n}\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    font-family: \"Arial\", sans-serif;\n    color: #000;\n    font-size: 14px;\n    line-height: 20px;\n    overflow: hidden;\n}\n.tmpl_hh_wrapper *{\n    box-sizing: border-box;\n}\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;    \n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-weight: normal;\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n    display: inline;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    margin: 0 0 14px;\n}\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    display: block;\n    font-size: 22px;\n    line-height: 26px;\n}\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong{\n    margin: 0;   \n    display: inline;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 22px;\n    list-style: none !important;\n    margin-bottom: 40px;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 8px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 8px;\n    margin-bottom: 8px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;    \n}\n\n.tmpl_hh_content li:before {\n    content: '';\n    position: absolute;\n    left: -18px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    width: 4px;\n    height: 4px;\n    border-radius: 100%;\n    background-color: #000;\n    left: -13px;\n    top: 8px;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter)'.';\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n.tmpl_hh_video {\n    position: relative;\n    width: 100%;\n}\n.tmpl_hh_video img,\n.tmpl_hh_video iframe {\n    position: absolute;\n    left: 0;\n    top: 0;\n    width: 100%;\n    height: 100%;\n}\n\n.tmpl_hh_wrapper img{\n    width: 100%;\n    display: block;\n}\n.tmpl_hh_content {\n    padding: 50px 40px 9px;\n}\n\n.tmpl_hh_header{\n    position: relative;\n}\n.tmpl_hh_header b{\n    position: absolute;\n    bottom: 20px;\n    left: 0;\n    font-weight: 700;\n    font-size: 28px;\n    line-height: 32px;\n    letter-spacing: 0.02em;\n    color: #FFFFFF;\n    padding: 28px 34px 25px 40px;\n    background: linear-gradient(180deg, rgba(14, 209, 195, 0.96) 0%, rgba(55, 209, 147, 0.96) 100%);\n    border-radius: 10px;\n}\n\n.tmpl_hh_footer{\n    position: relative;\n    color: #fff;\n    background: linear-gradient(180deg, rgba(15, 121, 196, 0.86) 0%, rgba(49, 185, 229, 0.86) 100%);\n    padding: 50px 40px 40px;\n    padding-right: 15%;\n}\n.tmpl_hh_footer strong{\n    display: block;\n    font-size: 28px;\n    line-height: 32px;\n    margin-bottom: 20px;\n    text-transform: uppercase;\n}\n.tmpl_hh_footer ul{\n    font-size: 20px;\n    line-height: 24px;\n    list-style: none;\n    padding-left: 30px;\n    margin-bottom: 40px;\n}\n.tmpl_hh_footer ul li{\n    position: relative;\n}\n.tmpl_hh_footer ul li:before{\n    content: '';\n    position: absolute;\n    top: 9px;\n    left: -18px;\n    width: 5px;\n    height: 5px;\n    background-color: #fff;\n    border-radius: 100%;\n}\n.tmpl_hh_footer b{\n    display: block;\n    text-transform: uppercase;\n    font-size: 22px;\n    line-height: 26px;\n}\n.tmpl_hh_footer *{\n    position: relative;\n    z-index: 4;\n}\n.tmpl_hh_footer img{\n    position: absolute;\n    bottom: 0;\n    right: 0;\n    width: 62%;\n    z-index: 2;\n}\n\n@media (max-width: 1019px) {\n\n    .tmpl_hh_header b{\n        padding: 20px 27px 21px 25px;\n        font-size: 26px;\n        line-height: 30px;\n    }\n\n}\n\n@media (max-width: 699px) {\n \n    .tmpl_hh_header b {\n        padding: 10px;\n        font-size: 18px;\n        line-height: 24px;\n        bottom: 0;\n        position: relative;\n        display: block;\n        border-radius: 0;\n    }\n    .tmpl_hh_header b br{\n        display: none;\n    }\n    .tmpl_hh_content {\n        padding: 26px 10px 9px;\n    }\n    .tmpl_hh_content b, .tmpl_hh_content strong{\n        font-size: 18px;\n        line-height: 22px;\n    }\n    .tmpl_hh_content ol, .tmpl_hh_content ul{\n        margin-bottom: 30px;\n    }\n    .tmpl_hh_footer{\n        padding: 20px 10px 50px;\n    }\n    .tmpl_hh_footer strong{\n        font-size: 18px;\n        line-height: 26px;\n    }\n    .tmpl_hh_footer ul {\n        font-size: 14px;\n        line-height: 20px;\n    }\n    .tmpl_hh_footer ul li{\n        margin-bottom: 8px;\n    }\n    .tmpl_hh_footer b{\n        font-size: 15px;\n        line-height: 22px;\n    }\n    .tmpl_hh_footer img{\n        width: 87%;\n        max-width: 300px;\n    }\n    \n}\n\n</style>\n\n    <div class=\"tmpl_hh_wrapper\">\n        <div class=\"tmpl_hh_header\">\n            <img src=\"https://hhcdn.ru/ichameleon/226304.jpg\" srcset=\"https://hhcdn.ru/ichameleon/226306.jpg 2x\" alt=\"\" class=\"tmpl_hh_bg\">\n            <b>Создаём новую отрасль \n                <br>промышленности!</b>\n        </div>\n        \n        <div class=\"tmpl_hh_content\">\n            <p><strong>Уважаемые соискатели!</strong></p> <p>Обращаем ваше внимание, расположение нашего офиса: Московская область, Красногорский район, 26-й км автодороги \"Балтия\", Бизнес-центр \"Riga Land\", проезд на корпоративном комфортабельном транспорте от метро Строгино, Щукинская, ж/д.ст. Павшино (15-20 мин).</p> <p>Пожалуйста, перед отправлением резюме посмотрите, будет ли вам удобно добираться.</p> <p> </p> <strong>Обязанности:</strong> <ul> <li>обеспечение информационной безопасности (ИБ) Общества на объекте КИИ;</li> <li>консультирование и методическое сопровождение работников по вопросам ИБ;</li> <li>разработка и поддержание в актуальном состоянии моделей угроз безопасности информации, включая создание и поддержание в актуальном состоянии модели нарушителя ИБ, определение возможных уязвимостей ИТ-инфраструктуры, выявление актуальных способов реализации угроз нарушения целостности, доступности и конфиденциальности информационных ресурсов;</li> <li>разработка и обеспечение утверждения в установленном порядке проектов локальных нормативных документов в сфере обеспечения ИБ и защиты информации;</li> <li>обеспечение проведения в установленном порядке аудита обеспечения ИБ ИТ-инфраструктуры на объекте КИИ;</li> <li>установка, монтаж, наладка и эксплуатация программных, программно-аппаратных и технических средств защиты информации;</li> <li>обеспечение криптографической защиты информации;</li> <li>определение потребностей и обеспечение закупок СЗИ и СКЗИ;</li> <li>обнаружение и идентификация компьютерных инцидентов;</li> <li>организация и проведение в установленном порядке служебных расследований по фактам нарушения требований по ИБ и ЗИ.</li> </ul> <strong>Требования:</strong> <ul> <li>обязательно образование в области информационной безопасности, опыт работы в сфере ИБ от 1 года;</li> <li>знание основных программ защиты информации (СКЗИ, СЗИ);</li> <li>знание законодательства РФ и правовых актов в области ИБ;</li> <li>умение анализировать и предотвращать угрозы ИБ, выявление слабых мест и уязвимостей. Обнаружение и идентификация компьютерных инцидентов, опыт работы в АСУТП приветствуется;</li> <li>знание в разработке и экспертизе документов применительно к работам по защите информации;</li> <li>знание в проведении категорирования объектов КИИ;</li> <li>умение проведения консультационных и методических мероприятий для работников структурных подразделений;</li> <li>контроль за соблюдением правил безопасности при обработке, передаче и хранении конфиденциальной информации.</li> </ul> <strong>Условия:</strong> <ul> <li>оформление по ТК РФ;</li> <li>конкурентоспособная заработная плата, полностью официальная;</li> <li>ежегодные индексации заработной платы;</li> <li>ДМС после испытательного срока (3 мес.);</li> <li>график работы: с 10-00 до 19.00 часов, пятница с 10.00 до 18.00</li> </ul></div>\n\n        <div class=\"tmpl_hh_footer\">\n            <strong>Что значит быть частью команды АГК-1?</strong>\n            <ul>\n                <li>Это участвовать в уникальном проекте национального масштаба</li>\n                <li>Это вносить свой вклад в улучшение и сохранение экологии России</li>\n                <li>Это создавать новую перспективную отрасль</li>\n            </ul>\n            <b>И, конечно, работать в команде профессионалов!</b>\n            <img src=\"https://hhcdn.ru/ichameleon/226303.png\" srcset=\"https://hhcdn.ru/ichameleon/226305.png 2x\" alt=\"\">\n        </div>\n    </div>\n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "116",
+      "name": "Специалист по информационной безопасности"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2779875",
+    "name": "Альтернативная Генерирующая Компания -1",
+    "url": "https://api.hh.ru/employers/2779875",
+    "alternate_url": "https://hh.ru/employer/2779875",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/460083.png",
+      "90": "https://img.hhcdn.ru/employer-logo/2282196.png",
+      "240": "https://img.hhcdn.ru/employer-logo/2282197.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2779875",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T13:27:13+0300",
+  "created_at": "2025-06-04T13:27:13+0300",
+  "initial_created_at": "2025-06-04T13:27:13+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121337231",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121337231",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

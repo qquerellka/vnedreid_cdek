@@ -1,0 +1,174 @@
+{
+  "id": "120962224",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист технической поддержки (1С)/ начинающий специалист",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 40000,
+    "to": 45000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 40000,
+    "to": 45000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Полюстровский проспект",
+    "building": "54",
+    "lat": 59.976098,
+    "lng": 30.369165,
+    "description": null,
+    "raw": "Санкт-Петербург, Полюстровский проспект, 54",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "shift",
+    "name": "Сменный график"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Привет! </strong>Мы ищем к себе в штат <strong>Специалиста технической поддержки (1С).</strong><br /><br />Наша компания уже более 25 лет занимается оптовой и розничной продажей автозапчастей и всех комплектующих к ним, на данный момент наш штат уже более 700 сотрудников.</p> <p><strong>Готовы взять новичка и всему обучить, отличный страт в сфере IT.</strong></p> <p><strong>Мы предлагаем:</strong></p> <ul> <li> <p>График 2/2 с 8:00 до 20.00;</p> </li> <li>Заработную плату на старте 40 000 руб на руки, после испытательного срока 45 000 руб;</li> <li>Парковочное место на территории работодателя;</li> <li>Корпоративный спорт и возможность приобрести абонемент на фитнес;</li> </ul> <p><strong>Вам предстоит заниматься:</strong></p> <ul> <li>Регистрация, классификация, маршрутизация всех входящих обращений</li> <li>Консультация и поддержка пользователей в рамках зоны ответственности 1-й линии</li> <li>Сопровождение нетиповой конфигурации УТ11</li> </ul> <strong>Наши ожидания от кандидата:</strong> <ul> <li>Образование высшее/неоконченное высшее;</li> <li>Опыт работы от 1 года с программными продуктами 1С приветствуется;</li> <li>Опыт работы в качестве консультанта на линии техподдержки по 1С приветствуется;</li> <li>Техническая грамотность, коммуникабельность, стрессоустойчивость, внимательность.</li> <li>Навыки делового общения.</li> <li>Грамотная устная и письменная речь.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Грамотная речь"
+    },
+    {
+      "name": "Работа в команде"
+    },
+    {
+      "name": "Деловое общение"
+    },
+    {
+      "name": "Деловая переписка"
+    },
+    {
+      "name": "Грамотность"
+    },
+    {
+      "name": "программные продукты 1С"
+    },
+    {
+      "name": "Стрессоустойчивость"
+    },
+    {
+      "name": "Техническая грамотность"
+    },
+    {
+      "name": "Аналитическое мышление"
+    },
+    {
+      "name": "Тестирование"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "16423",
+    "name": "БалтКам",
+    "url": "https://api.hh.ru/employers/16423",
+    "alternate_url": "https://hh.ru/employer/16423",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/228630.JPG",
+      "90": "https://img.hhcdn.ru/employer-logo/1067321.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/1067322.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=16423",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-26T10:28:17+0300",
+  "created_at": "2025-05-26T10:28:17+0300",
+  "initial_created_at": "2025-05-26T10:28:17+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120962224",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120962224",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "TWO_ON_TWO_OFF",
+      "name": "2/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_12",
+      "name": "12 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

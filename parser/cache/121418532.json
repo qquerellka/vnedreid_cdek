@@ -1,0 +1,177 @@
+{
+  "id": "121418532",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Middle C# Разработчик (WPF)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Очаковское шоссе",
+    "building": "34",
+    "lat": 55.686736,
+    "lng": 37.440496,
+    "description": null,
+    "raw": "Москва, Очаковское шоссе, 34",
+    "metro": {
+      "station_name": "Аминьевская",
+      "line_name": "Большая кольцевая линия",
+      "station_id": "97.812",
+      "line_id": "97",
+      "lat": 55.697222,
+      "lng": 37.464167
+    },
+    "metro_stations": [
+      {
+        "station_name": "Аминьевская",
+        "line_name": "Большая кольцевая линия",
+        "station_id": "97.812",
+        "line_id": "97",
+        "lat": 55.697222,
+        "lng": 37.464167
+      },
+      {
+        "station_name": "Озёрная",
+        "line_name": "Солнцевская",
+        "station_id": "133.608",
+        "line_id": "133",
+        "lat": 55.6698,
+        "lng": 37.4495
+      },
+      {
+        "station_name": "Сколково",
+        "line_name": "МЦД-1",
+        "station_id": "131.708",
+        "line_id": "131",
+        "lat": 55.666801,
+        "lng": 37.424618
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Команда AnSoft</strong> специализируется на оптимизации бизнес-процессов в сегментах HoReCa, retail и сфере услуг с целью повышения их экономической эффективности. Отраслевая экспертиза, опыт и применение информационных технологий позволяют создавать решения, учитывающие специфику бизнеса заказчиков.</p> <p>Наши клиенты – ресторанные сети федерального значения в России и за рубежом.</p> <p><strong>Обязанности:</strong></p> <ul> <li>Поддержка существующего функционала десктопного приложения;</li> <li>Разработка интерфейсов на WPF и внутренней логики работы приложения;</li> <li>Анализ, разработка и проектирование новых решений по предоставленным бизнес требованиям;</li> <li>Активное участие в разработке новых модулей;</li> <li>Развитие и повышение качества существующих решений;</li> <li>Оптимизация производительности приложения;</li> <li>Code Review.</li> </ul> <p><br /><strong>Обязательные требования:</strong></p> <ul> <li>Разработка интерфейсов на WPF или Avalonia;</li> <li>Опыт коммерческой разработки на C# с использованием WPF или Avalonia от 2 лет;</li> <li>Опыт интеграции со сторонними системами;</li> <li>Умение отлаживать и разбираться в чужом коде;</li> <li>Умение писать UNIT и интеграционные тесты, нагрузочные тесты.</li> </ul> <p><strong>Условия работы:</strong></p> <ul> <li>Официальное трудоустройство в соответствии с ТК РФ;</li> <li>Доход (заработная плата + квартальные премии) уровень обсуждается с успешным кандидатом по результатам собеседования;</li> <li>Масштабные проекты;</li> <li>Корпоративное обучение;</li> <li>Гибкое начало трудового дня.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "C#"
+    },
+    {
+      "name": "ASP.NET"
+    },
+    {
+      "name": "ООП"
+    },
+    {
+      "name": "LINQ"
+    },
+    {
+      "name": "MVC"
+    },
+    {
+      "name": "REST"
+    },
+    {
+      "name": "Unit Testing"
+    },
+    {
+      "name": "WPF"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5144105",
+    "name": "Энсофтгрупп",
+    "url": "https://api.hh.ru/employers/5144105",
+    "alternate_url": "https://hh.ru/employer/5144105",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1386317.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7165055.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7165056.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5144105",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T12:54:48+0300",
+  "created_at": "2025-06-06T12:54:48+0300",
+  "initial_created_at": "2025-06-06T12:54:48+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121418532",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121418532",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

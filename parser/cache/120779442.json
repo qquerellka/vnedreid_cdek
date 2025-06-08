@@ -1,0 +1,149 @@
+{
+  "id": "120779442",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "IOS-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 100000,
+    "to": 400000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": 400000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Присоединяйтесь к нашей команде iOS-разработчиков!</strong></p> <p>Мы ищем талантливого iOS-разработчика, который готов внести свой вклад в создание инновационных мобильных приложений. Если вы увлечены разработкой и хотите работать в динамичной команде, то эта вакансия для вас!</p> <p><strong>Обязанности:</strong></p> <ul> <li>Разработка и поддержка iOS-приложений на языке Swift.</li> <li>Использование Combine для управления асинхронными операциями.</li> <li>Работа с CoreData для управления локальными данными.</li> <li>Настройка UI с использованием UI Constraints.</li> <li>Реализация сетевых взаимодействий с помощью URLSessionWebSocketTask.</li> <li>Участие в планировании и оценке задач.</li> <li>Взаимодействие с командой для достижения общих целей.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Опыт работы от 3 до 6 лет в разработке iOS-приложений.</li> <li>Знание Swift, Combine, CoreData, UI Constraints, URLSessionWebSocketTask.</li> <li>Высшее образование в области Computer Science будет преимуществом.</li> <li>Готовность работать в команде и проявлять инициативу.</li> <li>Ответственность и умение планировать своё время.</li> <li>Понимание текущих задач компании и умение доводить начатое до конца.</li> </ul> <p><strong>Условия и преимущества:</strong></p> <ul> <li>Полная занятость с графиком 5/2.</li> <li>Возможность работать как удалённо, так и на месте работодателя.</li> <li>Рабочий день 8 часов.</li> <li>Дружелюбная и поддерживающая атмосфера в команде.</li> </ul> <p><strong>О компании:</strong> Мы — команда профессионалов, стремящихся к созданию качественных и востребованных продуктов. Мы ценим инициативность и стремление к развитию, и всегда рады новым талантам, готовым расти вместе с нами.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "12017029",
+    "name": "Deploy work",
+    "url": "https://api.hh.ru/employers/12017029",
+    "alternate_url": "https://hh.ru/employer/12017029",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=12017029",
+    "accredited_it_employer": false,
+    "trusted": false
+  },
+  "published_at": "2025-05-20T17:10:01+0300",
+  "created_at": "2025-05-20T17:10:01+0300",
+  "initial_created_at": "2025-05-20T17:10:01+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120779442",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120779442",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "a2",
+        "name": "A2 — Элементарный"
+      }
+    },
+    {
+      "id": "rus",
+      "name": "Русский",
+      "level": {
+        "id": "c2",
+        "name": "C2 — В совершенстве"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "id": "107287717",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Менеджер продукта",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 60000,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 60000,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "Октябрьский район, микрорайон Синие Камни, Хрустальная улица",
+    "building": "49А",
+    "lat": 56.824341,
+    "lng": 60.674119,
+    "description": null,
+    "raw": "Екатеринбург, Октябрьский район, микрорайон Синие Камни, Хрустальная улица, 49А",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <ul> <li>Координация технической составляющей маркетинговых процессов на предприятии</li> <li>Управление созданием медиапроектов таких как: сайты, видеофильмы, анимация, учебные фильмы, товарные фотосессии и прочее</li> <li>Управление контекстной рекламой</li> <li>Написание руководств по эксплуатации на изделия</li> <li> <div>Участие в проектировании UX/UI и архитектуры приложений</div> </li> <li> <div>Взаимодействие с метрологическими органами по вопросам сертификации</div> </li> <li>Редкие командировки</li> <li>Непрерывное повышение квалификации: чтение литературы, посещение учебных курсов</li> <li>Прочие поручения...</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Высокие аналитические способности, знание основ математики и физики, технический склад ума</li> <li>Желательно наличие инженерно-технического образования или образования в области естественных наук, таких как математика, физика, информатика.</li> <li>Высокие учебные показатели в школе и университете</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Уровень зарплаты выше средней, зависит от квалификации, учитываются пожелания соискателей</li> <li>Официальное трудоустройство</li> <li>Своевременная выплата заработной платы (аванс, расчет)</li> <li>Небольшой дружный коллектив</li> <li>Интересные и сложные проекты, широкие возможности для развития</li> <li>Удобный график, &quot;плюшки&quot;</li> </ul> <p><strong>Дополнительная информация:</strong></p> <ul> <li>Отбор на конкурсной основе</li> <li>Знания и опыт в профессии не обязателен, знания в области маркетинга не обязательны. Обеспечим обучение</li> <li>При наличие красного диплома или золотой медали, лучше указать об этом в отклике, это является дополнительным преимуществом</li> <li>Рассмотрим в том числе талантливых выпускников или студентов старших курсов</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "73",
+      "name": "Менеджер продукта"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1782122",
+    "name": "ТОКВЕС",
+    "url": "https://api.hh.ru/employers/1782122",
+    "alternate_url": "https://hh.ru/employer/1782122",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1782122",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T20:40:45+0300",
+  "created_at": "2025-06-06T20:40:45+0300",
+  "initial_created_at": "2024-09-15T20:40:37+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=107287717",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/107287717",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

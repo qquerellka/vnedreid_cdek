@@ -1,0 +1,157 @@
+{
+  "id": "120584477",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Ведущий программист",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "улица Тюшина",
+    "building": "11",
+    "lat": 59.917488,
+    "lng": 30.346905,
+    "description": null,
+    "raw": "Санкт-Петербург, улица Тюшина, 11",
+    "metro": {
+      "station_name": "Лиговский проспект",
+      "line_name": "Лахтинско-Правобережная",
+      "station_id": "17.239",
+      "line_id": "17",
+      "lat": 59.920811,
+      "lng": 30.355055
+    },
+    "metro_stations": [
+      {
+        "station_name": "Лиговский проспект",
+        "line_name": "Лахтинско-Правобережная",
+        "station_id": "17.239",
+        "line_id": "17",
+        "lat": 59.920811,
+        "lng": 30.355055
+      },
+      {
+        "station_name": "Обводный Канал",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.252",
+        "line_id": "18",
+        "lat": 59.914686,
+        "lng": 30.34815
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Основные задачи:</strong></p> <p>- Разработка и адаптация web-приложений для платформы корпоративных коммуникаций;</p> <p>- Интеграция с корпоративными сервисами компании;</p> <p>- Проектирование программой архитектуры web-приложений;</p> <p>- Документирование разрабатываемых решений;</p> <p>- Подготовка сборок и релизов;</p> <p>- Анализ и оптимизация существующего программного кода;</p> <p>- Тестирование собственных разработок;</p> <p>- Код-ревью разработок подрядчика.</p> <p><strong>Вам потребуется:</strong></p> <p><strong><em>Frontend - обязательно</em></strong></p> <p>- Навыки работы со стеком: JavaScript, TypeScript, React+hooks, Redux+saga, Reselect, Websocket;</p> <p>- Опыт работы с библиотеками для тестирования (enzyme/jest);</p> <p>- Понимание асинхронной модели выполнения кода (eventloop, callback, promise);</p> <p>- Понимание работы сокета и REST;</p> <p>- Понимание работы протокола HTTP(S) и опыт диагностики ошибок, связанных с недоступностью сервисов, CORS;</p> <p>- Понимание принципов ООП и концепций MVC;</p> <p>- Уверенное знание GIT;</p> <p>- Знание библиотеки OpenUI5/SAPUI5 будет существенным плюсом.</p> <p><strong><em>Backend - желательно</em></strong></p> <p>- Node.js (TypeScript, Express/NestJS);</p> <p>- Знание лучших практик для создания RESTful API;</p> <p>- Понимание основ работы с базами данных (индексы, джойны, подзапросы);</p> <p>- Умение работать с пакетными менеджерами: npm, yarn.</p> <p><strong><em>Будет существенным преимуществом</em></strong></p> <p>- Понимание принципов работы docker и docker-compose, умение писать простые файлы конфигурации для этих сервисов (Dockerfile/docker-compose.yml);</p> <p>- Навыки работы с командной строкой (включая работу через SSH);</p> <p>- Понимание принципов CI/CD;</p> <p>- Python.</p> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Официальное оформление в соответствии с ТК РФ;</li> <li>Конкурентоспособную заработную плату;</li> <li>Полностью &quot;белый&quot; доход;</li> <li>Дополнительное медицинское страхование (ДМС) со стоматологией;</li> <li>Бесплатные завтраки в офисе;</li> <li>Возможность повышать уровень профессиональных компетенций в рамках Корпоративного университета;</li> <li>Корпоративное такси;</li> <li>Работу в сильной команде профессионалов в Компании - Лидере отрасли.</li> </ul> <p><strong>Мы ждём, что у Вас в наличии:</strong></p> <ul> <li> <p>Высшее образование в области ИТ;</p> </li> <li> <p>Опыт работы от 2-х лет в сфере разработки ИТ-решений в роли web/fullstack программиста;</p> </li> <li> <p>Умение разбираться в технической документации и чужом коде;</p> </li> <li> <p>Английский язык уровня А2 и выше;</p> </li> <li> <p>Ответственный подход к качеству кода и документированию;</p> </li> <li>Умение доносить свою мысль в текстовой и устной формах.</li> </ul>",
+  "branded_description": "\n<style type=\"text/css\">\n.tmplt_hh {\n    width: 100%;\n    margin: 0 auto;\n    overflow: hidden;\n    font-family: Arial, sans-serif;\n}\n\n.tmplt_hh-clearfix:before,\n.tmplt_hh-clearfix:after {\n    content: \"\";\n    display: table;\n}\n\n.tmplt_hh-clearfix:after {\n    clear: both;\n}\n\n.tmplt_hh h1,\n.tmplt_hh h2,\n.tmplt_hh h3,\n.tmplt_hh h4,\n.tmplt_hh h5,\n.tmplt_hh h6,\n.tmplt_hh p,\n.tmplt_hh blockquote,\n.tmplt_hh pre,\n.tmplt_hh a,\n.tmplt_hh abbr,\n.tmplt_hh acronym,\n.tmplt_hh address,\n.tmplt_hh big,\n.tmplt_hh cite,\n.tmplt_hh code,\n.tmplt_hh img,\n.tmplt_hh ol,\n.tmplt_hh ul,\n.tmplt_hh li,\n.tmplt_hh footer,\n.tmplt_hh header {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmplt_hh .l-cell,\n.tmplt_hh .l-paddings {\n    padding: 0px;\n}\n\n.tmplt_hh .b-vacancy-desc-wrapper {\n    margin-top: 0px;\n}\n\n.tmplt_hh-content ol li b,\n.tmplt_hh-content ol li strong,\n.tmplt_hh-content ol li p b,\n.tmplt_hh-content ol li p strong,\n.tmplt_hh-content ul li b,\n.tmplt_hh-content ul li strong,\n.tmplt_hh-content ul li p b,\n.tmplt_hh-content ul li p strong {\n    font-weight: normal;\n    font-size: inherit!important;\n    line-height: inherit!important;\n    color: inherit!important;\n    margin: 0!important;\n    padding: 0!important;\n    background: none!important;\n    display: inline!important;\n    text-transform: none;\n}\n\n.tmplt_hh-content ol li p,\n.tmplt_hh-content ul li p {\n    font-weight: normal!important;\n    margin: 0!important;\n}\n\n.tmplt_hh-content p b,\n.tmplt_hh-content p strong {\n    display: inline!important;\n    margin: 0!important;\n}\n\n\n/*.b-vacancy-desc {\n    overflow: visible;\n}*/\n\n.tmplt_hh .b-vacancy-desc {\n    line-height: inherit;\n}\n\n.tmplt_hh .g-user-content ul ul {\n    list-style: none;\n}\n\n.tmplt_hh-header {\n    background: url(https://hhcdn.ru/ichameleon/87908.png) no-repeat 100% 0;\n    height: 135px;\n    position: relative;\n}\n\n.tmplt_hh-header svg {\n    position: absolute;\n    width: 190px;\n    height: 50px;\n    right: 24px;\n    top: 40px;\n}\n\n\n/* Styles content */\n\n.tmplt_hh-content {\n    padding: 6.5% 0 6.2% 0;\n    width: 88.88%;\n    max-width: 1024px;\n    -webkit-box-sizing: border-box;\n    -moz-box-sizing: border-box;\n    box-sizing: border-box;\n    margin: 0 auto;\n    color: #000;\n    font-size: 14px;\n    line-height: 17px;\n}\n\n.tmplt_hh-content strong,\n.tmplt_hh-content b {\n    display: inline-block;\n    font-size: 20px;\n    line-height: 22px;\n    color: #2c8948;\n}\n\n.tmplt_hh-content p,\n.tmplt_hh-content strong,\n.tmplt_hh-content b {\n    margin: 29px 0 0;\n}\n\n.tmplt_hh-content ul {\n    list-style: none;\n}\n\n.tmplt_hh-content ol {\n    list-style: decimal inside;\n}\n\n.tmplt_hh-content ul,\n.tmplt_hh-content ol ol {\n    margin-left: 13px;\n}\n\n.tmplt_hh-content ol ul {\n    margin-left: 26px;\n}\n\n.tmplt_hh-content ul,\n.tmplt_hh-content ol {\n    margin-top: 16px;\n}\n\n.tmplt_hh-content ul li,\n.tmplt_hh-content ol li {\n    position: relative;\n    margin-bottom: 8px;\n}\n\n.tmplt_hh-content ul>li:before {\n    content: '\\2022';\n    position: absolute;\n    top: -1px;\n    left: -12px;\n    color: #2c8948;\n    font-family: Verdana, Arial, sans-serif;\n}\n\n.tmplt_hh-footer {\n    height: 133px;\n    background: url(https://hhcdn.ru/ichameleon/87907.png) no-repeat 100% 0;\n}\n\n\n/* responsive */\n\n.tmplt_hh-content {\n    padding: 3.5% 0 5.2% 0;\n}\n\n .tmplt_hh-header {\n    -webkit-background-size: 797px auto;\n    background-size: 797px auto;\n    height: 87px;\n}\n\n .tmplt_hh-header svg {\n    position: absolute;\n    width: 190px;\n    height: 50px;\n    right: 24px;\n    top: 40px;\n}\n\n .tmplt_hh-footer {\n    height: 0;\n    padding-bottom: 11.4%;\n    -webkit-background-size: cover;\n    background-size: cover;\n}    \n\n@media screen and (max-width: 699px) {\n\n    .tmplt_hh-content {\n\tpadding: 3.5% 5.33% 9.2%;\n    }\n\n    .tmplt_hh-header {\n        background-size: 73% 100%;\n        background-position: top left;\n        height: 59px;\n    }\n\n    .tmplt_hh-header svg {  \n        position: absolute;\n        width: 45%;\n        height: 50px;\n        right: 0;\n        top: 0;\n    }\n}\n</style>\n\n     <!-- begin tmplt_hh-->\n<div class=\"tmplt_hh\">\n    <div class=\"tmplt_hh-header\">\n        <svg viewBox=\"0 0 209.8 57.2\"><path fill=\"#00703c\" d=\"M98.6 20h8.6l-6.1 28.3h-8.5L95.9 33 84 48.3h-8.5l6-28.3h8.6l-3.3 15.2L98.6 20M106 41c.6.1 1.3.2 1.9.2 1.6 0 2.5-.6 3.1-1.1.8-.8 1.4-2.2 2.1-5.6l3.3-14.4h23.2l-6 28.3h-8.9l4.4-20.5h-6l-2.2 9.6c-.8 3.4-1.7 7.8-5 9.8-1.9 1.2-4.8 1.5-7.1 1.5-1.5 0-3-.2-4.3-.4L106 41M162.1 20h8.6l-6.1 28.3h-8.5l3.2-15.3-11.8 15.3H139l6-28.3h8.6l-3.3 15.2L162.1 20M182 29.5l-.2.1-.2 2.1-3.6 16.6h-8l6.1-28.3H188l1.2 16-.2 2h.2l.7-2 8-16h11.9l-6 28.3h-8l3.5-16.6.7-2.1-.2-.1-9.7 18.8h-6.4L182 29.5\"></path><path d=\"M69.1 0c-.2 0-.7.2-.8.2-9.6 2.7-28.6 0-28.6 0-7 0-14.6 2.6-21.1 7.9-6.5 5.4-10.7 12.3-12.3 19.3L.1 57.1l49.7-23s-1.5 4.4.3 9.3c1.7 4.4 4.4 4.7 5.2 4.6 4.1-.7 5.9-9.4 5.9-9.4L69.1.3c0-.1.1-.3 0-.3\" fill=\"#8dc63f\"></path><path d=\"M50.2 43.4c-1.8-4.8-.3-9.3-.3-9.3L.2 57.1l-.2.1L55.6 48h-.2c-.9 0-3.6-.2-5.2-4.6\" fill=\"#00703c\"></path></svg>\n    </div>\n    <div class=\"tmplt_hh-content\">\n        <p><strong>Основные задачи:</strong></p> <p>- Разработка и адаптация web-приложений для платформы корпоративных коммуникаций;</p> <p>- Интеграция с корпоративными сервисами компании;</p> <p>- Проектирование программой архитектуры web-приложений;</p> <p>- Документирование разрабатываемых решений;</p> <p>- Подготовка сборок и релизов;</p> <p>- Анализ и оптимизация существующего программного кода;</p> <p>- Тестирование собственных разработок;</p> <p>- Код-ревью разработок подрядчика.</p> <p><strong>Вам потребуется:</strong></p> <p><strong><em>Frontend - обязательно</em></strong></p> <p>- Навыки работы со стеком: JavaScript, TypeScript, React+hooks, Redux+saga, Reselect, Websocket;</p> <p>- Опыт работы с библиотеками для тестирования (enzyme/jest);</p> <p>- Понимание асинхронной модели выполнения кода (eventloop, callback, promise);</p> <p>- Понимание работы сокета и REST;</p> <p>- Понимание работы протокола HTTP(S) и опыт диагностики ошибок, связанных с недоступностью сервисов, CORS;</p> <p>- Понимание принципов ООП и концепций MVC;</p> <p>- Уверенное знание GIT;</p> <p>- Знание библиотеки OpenUI5/SAPUI5 будет существенным плюсом.</p> <p><strong><em>Backend - желательно</em></strong></p> <p>- Node.js (TypeScript, Express/NestJS);</p> <p>- Знание лучших практик для создания RESTful API;</p> <p>- Понимание основ работы с базами данных (индексы, джойны, подзапросы);</p> <p>- Умение работать с пакетными менеджерами: npm, yarn.</p> <p><strong><em>Будет существенным преимуществом</em></strong></p> <p>- Понимание принципов работы docker и docker-compose, умение писать простые файлы конфигурации для этих сервисов (Dockerfile/docker-compose.yml);</p> <p>- Навыки работы с командной строкой (включая работу через SSH);</p> <p>- Понимание принципов CI/CD;</p> <p>- Python.</p> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Официальное оформление в соответствии с ТК РФ;</li> <li>Конкурентоспособную заработную плату;</li> <li>Полностью \"белый\" доход;</li> <li>Дополнительное медицинское страхование (ДМС) со стоматологией;</li> <li>Бесплатные завтраки в офисе;</li> <li>Возможность повышать уровень профессиональных компетенций в рамках Корпоративного университета;</li> <li>Корпоративное такси;</li> <li>Работу в сильной команде профессионалов в Компании - Лидере отрасли.</li> </ul> <p><strong>Мы ждём, что у Вас в наличии:</strong></p> <ul> <li> <p>Высшее образование в области ИТ;</p> </li> <li> <p>Опыт работы от 2-х лет в сфере разработки ИТ-решений в роли web/fullstack программиста;</p> </li> <li> <p>Умение разбираться в технической документации и чужом коде;</p> </li> <li> <p>Английский язык уровня А2 и выше;</p> </li> <li> <p>Ответственный подход к качеству кода и документированию;</p> </li> <li>Умение доносить свою мысль в текстовой и устной формах.</li> </ul></div>\n    <div class=\"tmplt_hh-footer\">\n        <!---->\n    </div>\n</div>\n    <!-- end tmplt_hh-->\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "TypeScript"
+    },
+    {
+      "name": "Node.js"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "6867",
+    "name": "Группа Илим",
+    "url": "https://api.hh.ru/employers/6867",
+    "alternate_url": "https://hh.ru/employer/6867",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/230730.gif",
+      "90": "https://img.hhcdn.ru/employer-logo/310910.png",
+      "240": "https://img.hhcdn.ru/employer-logo/383767.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6867",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-15T12:55:57+0300",
+  "created_at": "2025-05-15T12:55:57+0300",
+  "initial_created_at": "2025-05-15T12:55:57+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120584477",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120584477",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

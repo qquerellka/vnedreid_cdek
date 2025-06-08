@@ -1,0 +1,126 @@
+{
+  "id": "121423787",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Младший Data Scientist (команда Marketing)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": {
+    "id": "1272486-1272486-razrab",
+    "name": "Купер Разработка"
+  },
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Привет! На связи Купер.тех!</strong></p> <p><strong>Купер</strong> — это сервис доставки из магазинов и ресторанов. За 10 лет сервис вырос из food-tech стартапа в высокотехнологичную компанию. Купер — это профессиональная команда и надёжная IT-инфраструктура, которая увеличилась в 77 раз с 2019 года. Купер объединяет свыше 600+ IT-специалистов. Мы создаем вдохновляющий продукт для миллионов клиентов.</p> <p> </p> <p>Нам нужен <strong>Junior Data Scientist</strong> в команду маркетинга, который поможет пользователю получать самые выгодные и персонализированные предложения и коммуникации, а компании - эффективно использовать маркетинговые бюджеты.</p> <p> </p> <p><strong>Наш стэк:</strong></p> <p>Пишем на Python и SQL;</p> <p>Данные храним в ClickHouse, S3;</p> <p>Прототипируем в Jupyter, успешные эксперименты переносим на Airflow + Kubernetes;</p> <p>Микросервисы разрабатываем на Python + GRPC, разворачиваем на собственной</p> <p>PaaS (Kubernetes, Gitlab CI, Helm, Prometheus);</p> <p>Аналитику, дашборды, мониторинги строим в Tableau, Metabase, Grafana.</p> <p> </p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>обеспечивать полный цикл создания ML-based решений для персонализации CRM и маркетинга от идеи до продуктового пайплайна;</li> <li>разрабатывать и улучшать look-alike модели для поиска новых аудиторий и повышения эффективности маркетинговых кампаний;</li> <li>автоматизировать формирование персональных предложений, выгодных клиенту применяя методы uplift моделирования;</li> <li>работать вместе с опытными ML-инженерами, аналитиками и продакт-менеджерами.</li> </ul> <p><strong>Что мы ждем от будущего коллеги:</strong></p> <ul> <li>совокупный опыт работы в ML от 1 года;</li> <li>понимание влияния ML на бизнес - чтобы челленджить продукт и фокусироваться на важном;</li> <li>умение искать данные внутри компании, делать EDA и презентовать выводы;</li> <li>способность оперативно прототипировать решение и катить его в тест;</li> <li>знание Python и умение писать SQL запросы;</li> <li>готовность быстро учиться, принимать обратную связь и работать в команде;</li> </ul> <p> </p> <p><strong>Будет плюсом, если ты:</strong></p> <ul> <li>работал с задачами в маркетинге, CRM или персонализации;</li> <li>знаешь, как правильно готовить алгоритмы бустинга и разрабатывать для них жгущие признаки;</li> <li>умеешь дизайнить и проводить АБ-тесты, включая расчёт параметров теста.</li> </ul> <p> </p> <p><strong>Что интересного у нас есть:</strong></p> <ul> <li>ДМС;</li> <li>предоставляем множество корпоративных бонусных программ;</li> <li>работаем <em>удаленн</em>о. В Москве есть большой и красивый офис — welcome;</li> <li>выдаем технику для работы на твой выбор;</li> <li>помогаем интеллектуально и физически развиваться (электронная библиотека, книжный клуб, футбол);</li> <li>уделяем большое внимание обучению сотрудников, поэтому в нашей knowledge base ты найдёшь много интересных курсов, книг и записей конференций, а также у нас есть выделенный бюджет на образование.</li> </ul> <p> </p> <p>А ещё:</p> <ul> <li>мы сами участвуем в конференциях, как спикеры;</li> <li>проводим внутренние митапы;</li> <li>не боимся экспериментировать с новыми решениями и технологиями :)</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Apache Airflow"
+    },
+    {
+      "name": "Clickhouse"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "156",
+      "name": "BI-аналитик, аналитик данных"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1272486",
+    "name": "Купер",
+    "url": "https://api.hh.ru/employers/1272486",
+    "alternate_url": "https://hh.ru/employer/1272486",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1313689.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6875014.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6875015.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1272486",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T14:40:47+0300",
+  "created_at": "2025-06-06T14:40:47+0300",
+  "initial_created_at": "2025-06-06T14:40:47+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121423787",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121423787",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

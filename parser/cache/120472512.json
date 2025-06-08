@@ -1,0 +1,160 @@
+{
+  "id": "120472512",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Аналитик управления ассортиментом",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 80000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 80000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>MARÉM — бренд одежды с фокусом<br />на вневременность и дизайнерскую<br />интерпретацию классики. В рамках<br />разработки коллекций творческая команда<br />экспериментирует со временем<br />и пространством, рассказывая личную<br />историю о человеке, изучая тонкие<br />настройки его восприятия мира. Так же тонко мы относимся к формированию команды. </p> <p>Ищем для себя Аналитика управления ассортиментом</p> <p><strong>Обязанности:</strong></p> <ul> <li>Анализ рынка и конкурентов;</li> <li>Работа с данными и проведение ABC-XYZ-анализа;</li> <li>Анализ продаж за предыдущие периоды, прогнозирование продаж на основе полученных данных;</li> <li>Управление оборачиваемостью запаса;</li> <li>Работа с индикаторами товаров (ключевые метрики, рекомендации по корректировке ассортимента);</li> <li>Взаимодействие с дизайнером, креативным отделом и отделом закупа.</li> </ul> <strong>Требования:</strong> <ul> <li>Опыт работы в позиции Product-менеджера/ категорийного менеджера/ бренд-менеджера от 2-х лет;</li> <li>Успешный опыт работы с данными и разными категориями;</li> <li>Глубокое понимание клиентского опыта в сегменте fashion;</li> <li>Ориентация на достижение коммерческих целей и максимизацию финансового результата;</li> <li>Умение работать самостоятельно и брать на себя ответственность за результат.</li> </ul> <strong>Условия:</strong> <ul> <li>Работа в молодой, амбициозной команде, которая хочет влюбить в бренд покупателей по всему Миру;</li> <li>Быстрый карьерный рост, в течение 2-х лет есть возможность занять должность ТОП-менеджера в компании;</li> <li>Гибридная/удаленная форма работы;</li> <li>Своевременная выплата заработной платы;</li> <li>Готовы обсуждать финансовые ожидания.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Аналитическое мышление"
+    },
+    {
+      "name": "Работа с большим объемом информации"
+    },
+    {
+      "name": "Анализ данных"
+    },
+    {
+      "name": "Управление ассортиментом"
+    },
+    {
+      "name": "ABC-анализ"
+    },
+    {
+      "name": "Ассортиментная матрица"
+    },
+    {
+      "name": "XYZ-анализ"
+    },
+    {
+      "name": "Формирование ассортимента"
+    },
+    {
+      "name": "MS Excel"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "10",
+      "name": "Аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11746109",
+    "name": "MAREM",
+    "url": "https://api.hh.ru/employers/11746109",
+    "alternate_url": "https://hh.ru/employer/11746109",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11746109",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-13T13:20:11+0300",
+  "created_at": "2025-05-13T13:20:11+0300",
+  "initial_created_at": "2025-05-13T13:20:11+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120472512",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120472512",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

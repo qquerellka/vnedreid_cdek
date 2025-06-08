@@ -1,0 +1,119 @@
+{
+  "id": "120833281",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Middle Android kotlin developer разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Приветствую тебя, уважаемый кандидат! Мы продуктовая IT компания Broad Apps. Занимаемся разработкой мобильных и веб приложений. Ищем талантливого и опытного Frontend разработчика)<br /><br />Представляю наш очередной крутейшие и амбициознейшие проекты:<strong> нейросеть</strong>, с возможностью анимирования изображений, которая позволит создавать любые чудеса/красоты, которые только вам приходят на ум или достраивать фотографии, преображая их в идеал=)</p> <p>Если ты, как и мы, горишь желанием следовать новым трендам (и создавать их!), работать в мегозаряженной команде, делать МООщные приложения, работать вместе с блоггерами и дизайнерами - скорее жми лайк и откликайся! =)<br /><br /><strong>Стек:</strong></p> <ul> <li>Kotlin </li> <li>Coroutines + Flow / Rx - многопоточность</li> <li>MVVM - архитектура</li> <li>Room / Realm / SQLite - локальные базы данных</li> <li>Retrofit / okhttp3 - работа с сетью</li> <li>LiveData, Flow</li> <li>Git</li> <li>Hilt / Dagger2 / Koin (не обязательно, будет преимуществом)</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li> <p>Удаленная работа.</p> </li> <li> <p>Рабочий график с 10.00 до 19.00 Пн-Пт.</p> </li> <li> <p>Оклад</p> </li> <li> <p>Стабильная ежемесячная заработная плата. Оплата два раза в месяц.</p> </li> <li> <p>Минимум бюрократии;</p> </li> <li> <p>Оплачиваемый отпуск.</p> </li> <li> <p>Профессиональный и карьерный рост.</p> </li> <li> <p>Профильное обучение за наш счет</p> </li> <li> <p>Возможность влиять на проекты, предлагать гипотезы и осуществлять собственные эксперименты.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Kotlin"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9509631",
+    "name": "Broad Apps",
+    "url": "https://api.hh.ru/employers/9509631",
+    "alternate_url": "https://hh.ru/employer/9509631",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1100221.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6021497.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6021498.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9509631",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-21T17:21:49+0300",
+  "created_at": "2025-05-21T17:21:49+0300",
+  "initial_created_at": "2025-05-21T17:21:49+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120833281",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120833281",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

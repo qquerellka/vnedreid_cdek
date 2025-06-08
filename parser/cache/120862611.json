@@ -1,0 +1,157 @@
+{
+  "id": "120862611",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Сетевой администратор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 180000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 180000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>На данную вакансию мы ищем человека с опытом сетевого администрирования желающего глубже погрузиться в область системного администрирования Linux.</p> <p>Необходимо иметь опыт и желание быстрого освоения новых технологий и расширения собственной технической экспертизы.</p> <p>В ваши обязанности будет входить сопровождение сети доставки контента и хостинга, реагирование на инциденты безопасности, развитие и модернизация сервисов связанных с передачей данных и виртуализацией.</p> <p><strong>Требования:</strong></p> <ul> <li>Опыт работы с сетевым оборудованием Juniper, Arista, Mikrotik;</li> <li>Опыт работы с софт-роутерами Bird, FRR, Quagga;</li> <li>Понимание работы сетевого стека Linux;</li> <li>Понимание технологий и принципов работы сетей на уровне CCNP/ JNCIS;</li> <li>Знание стека протокола TCP/IP и протоколов динамической маршрутизации: OSPF, BGP;</li> <li>Понимание принципов и протоколов резервирования CARP/VRRP/VARP и прочих;</li> <li>Понимание схем построения локальных и территориально распределенных сетей;</li> <li>Умение рассуждать и разбираться в проблемной ситуации/аварии, ответственность, внимательность и самостоятельность в работе;</li> </ul> <p><strong>Плюсом будет </strong><strong> </strong><strong>являться:</strong></p> <ul> <li>Опыт построения и настройки мониторинга Zabbix, Prometheus, ELK;</li> <li>Понимание принципов работы кеширующих серверов Nginx, Envoy и желание глубоко разбираться в их настройках и коде;</li> <li>Опыт управления конфигурациями на базе Chef, Ansible, Puppet, Salt;</li> <li>Опыт работы с системами SDS (Ceph, Gluster, Vitastor), SAN;</li> <li>Опыт построения кластеров виртуализации (PVE, KVM, XEN);</li> <li>Опыт написания скриптов на bash, python, ruby или иных скриптовых языках;</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Возможность профессионального и карьерного роста;</li> <li>Оформление и социальные гарантии согласно ТК РФ;</li> <li>Премирование успехов в работе;</li> <li>Свободный график;</li> <li>Работа в офисе у метро &quot;Петроградская&quot; или удалённо;</li> <li>Cтарый недружелюбный коллектив ™</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "TCP/IP"
+    },
+    {
+      "name": "Juniper"
+    },
+    {
+      "name": "Cisco"
+    },
+    {
+      "name": "BGP"
+    },
+    {
+      "name": "Администрирование"
+    },
+    {
+      "name": "Linux"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1179627",
+    "name": "cdnnow!",
+    "url": "https://api.hh.ru/employers/1179627",
+    "alternate_url": "https://hh.ru/employer/1179627",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1030662.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5743408.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5743409.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1179627",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T12:31:52+0300",
+  "created_at": "2025-06-06T12:31:52+0300",
+  "initial_created_at": "2025-05-22T12:31:52+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120862611",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120862611",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FLEXIBLE",
+      "name": "Свободный"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

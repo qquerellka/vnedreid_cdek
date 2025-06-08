@@ -1,0 +1,145 @@
+{
+  "id": "121359914",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Программист 1С",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": null,
+    "to": 185000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": null,
+    "to": 185000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "рабочий посёлок Кольцово",
+    "street": "проспект Академика Сандахчиева",
+    "building": "11",
+    "lat": 54.934696,
+    "lng": 83.184112,
+    "description": null,
+    "raw": "рабочий посёлок Кольцово, проспект Академика Сандахчиева, 11",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "Одна из крупнейших, федеральных аптечных сетей &quot;Мелодия здоровья&quot;, приглашает в команду <strong>Программиста 1С.<br /><br />Мы предлагаем:</strong> <ul> <li> <p>Работу в федеральной, стабильной компании, на рынке 18 лет;</p> </li> <li>Масштабные и интересные творческие проекты с использованием передовых технологий;</li> <li>Работа в большой, дружной, профессиональной ИТ команде;</li> <li>Возможен как <strong>гибридный график</strong>, так и <strong>полностью удаленная работа</strong> (обсуждается индивидуально)​​​​;</li> <li> <p>Трудоустройство в соответствии с ТК РФ;</p> </li> <li> <p>ДМС с прямым доступом в клиники;</p> </li> <li> <p>Оборудованный, современный офис с тренажерным залом и бассейном;</p> </li> <li> <p>Офис находится в р.п. Кольцово;</p> </li> <li> <p><strong>Служебный транспорт от ст. м Речной вокзал, Академгородок, г. Бердск, Шлюз.</strong></p> </li> </ul> <strong>Чем предстоит заниматься:</strong> <div> <ul> <li>Доработка конфигураций 1С Розница, Управление торговлей;</li> <li>Работа в команде по методологии SCRUM;</li> <li>Работа с аналитиком или самостоятельно;</li> <li>Интересные задачи и проекты.</li> </ul> </div> <p><strong>Каким мы видим своего будущего коллегу:</strong></p> <ul> <li> <p>Высшее образование;</p> </li> <li> <p>Знание 1С 8.3 на хорошем уровне;</p> </li> <li> <p>Уверенные навыки программирования и написания запросов;</p> </li> <li> <p>Понимание типовых конфигураций 1С Розница или УТ или ERP;</p> </li> <li> <p>Знание механизмов обмена данными (веб-севисы, xml, json);</p> </li> <li> <p>Коммуникабельность, аналитическое мышление.</p> </li> </ul> <strong>Хочешь стать частью нашей команды? Оставляй отклик на вакансию и мы с тобой свяжемся. Удачи!</strong> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "1С программирование"
+    },
+    {
+      "name": "1С: Розница"
+    },
+    {
+      "name": "1С: Управление Торговлей"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1317294",
+    "name": "Мелодия здоровья",
+    "url": "https://api.hh.ru/employers/1317294",
+    "alternate_url": "https://hh.ru/employer/1317294",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1386135.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7164327.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7164328.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1317294",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T07:00:19+0300",
+  "created_at": "2025-06-05T07:00:19+0300",
+  "initial_created_at": "2025-06-05T07:00:19+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121359914",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121359914",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

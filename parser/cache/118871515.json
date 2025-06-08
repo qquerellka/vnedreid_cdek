@@ -1,0 +1,214 @@
+{
+  "id": "118871515",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Frontend-разработчик (программист, верстальщик) — в офис",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 80000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 80000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "улица Радищева",
+    "building": "6А",
+    "lat": 56.831211,
+    "lng": 60.598858,
+    "description": null,
+    "raw": "Екатеринбург, улица Радищева, 6А",
+    "metro": {
+      "station_name": "Геологическая",
+      "line_name": "Север-Юг",
+      "station_id": "48.267",
+      "line_id": "48",
+      "lat": 56.826715,
+      "lng": 60.603754
+    },
+    "metro_stations": [
+      {
+        "station_name": "Геологическая",
+        "line_name": "Север-Юг",
+        "station_id": "48.267",
+        "line_id": "48",
+        "lat": 56.826715,
+        "lng": 60.603754
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Мы — экспертное digital-агентство DN7:</strong></p> <ul> <li>настраиваем интернет-рекламу;</li> <li>продвигаем бизнес в соцсетях;</li> <li>разрабатываем сайты;</li> <li>занимаемся графическим дизайном.</li> </ul> <p>Ищем web-программиста в отдел разработки.</p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>верстка и программирование сайтов;</li> <li>техническая поддержка существующих сайтов;</li> <li>настройка интеграций различных web-сервисов по API.</li> </ul> <p><strong>Что для нас важно:</strong></p> <ul> <li><strong>работа в офисе full-time;</strong></li> <li>профильное высшее образование;</li> <li>отличное знание HTML5, CSS3, Vanilla JS;</li> <li>опыт работы с CMS WordPress и Bitrix;</li> <li>опыт интеграции CMS &amp; CRM по API;</li> <li>уверенное знание PHP;</li> <li>базовые знания React.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>офис в центре напротив ТРЦ «Гринвич», с видом на Екатеринбург с 14 этажа;</li> <li>позитивный коллектив, средний возраст 23-27 лет, все с высшим образованием;</li> <li>комфортное рабочее место и хорошее техническое оснащение (3 монитора MSI 24&quot;);</li> <li>комната отдыха с чаем, кофе и вкусняшками;</li> <li>в нашей команде нет курящих / парящих и т.п.;</li> <li>на испытательный срок фиксированная ЗП по результатам собеседования;</li> <li>после испытательного срока ЗП + % от проектов;</li> <li>заработная плата и премия полностью «белые» и выплачиваются 2 раза в месяц;</li> <li>официальное трудоустройство по ТК РФ с первого дня работы.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": {
+    "id": 47504,
+    "name": "Брендирование. Реклама",
+    "top_picture": {
+      "height": 560,
+      "width": 1540,
+      "path": "https://img.hhcdn.ru/branding-pictures/3299839.png",
+      "blurred_path": null
+    },
+    "bottom_picture": {
+      "height": 704,
+      "width": 1540,
+      "path": "https://img.hhcdn.ru/branding-pictures/3299849.png",
+      "blurred_path": null
+    }
+  },
+  "key_skills": [
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "HTML5"
+    },
+    {
+      "name": "CSS3"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "React JS"
+    },
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "Адаптивная верстка"
+    },
+    {
+      "name": "Frontend"
+    },
+    {
+      "name": "ReactJS"
+    },
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "CMS Bitrix"
+    },
+    {
+      "name": "CMS Wordpress"
+    },
+    {
+      "name": "React"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2622289",
+    "name": "DN7",
+    "url": "https://api.hh.ru/employers/2622289",
+    "alternate_url": "https://hh.ru/employer/2622289",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1398142.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7212339.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7212340.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2622289",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T16:29:20+0300",
+  "created_at": "2025-06-07T16:29:20+0300",
+  "initial_created_at": "2025-03-27T16:29:18+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=118871515",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/118871515",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

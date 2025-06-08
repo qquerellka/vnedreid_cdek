@@ -1,0 +1,135 @@
+{
+  "id": "120990190",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Ведущий программист/архитектор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Datagile </strong>- продуктовая компания. Основное наше направление - это разработка продуктов в сфере информационной безопасности, автоматизации и баз данных.<br /><br />В команду разработки требуется ведущий программист/ архитектор для создания комплекса продуктов кибербезопасности, который обеспечит единый структурированный подход к организации и ведению деятельности по управлению информационной безопасностью.</p> <p><strong>Вам предстоит:</strong></p> <ul> <li> <p>Совместно с командой разработки и системным архитектором нужно будет разработать экосистему СЗИ.</p> </li> <li> <p>необходимо будет продумывать/реализовывать механизмы взаимодействия программных решений средств защиты информации.</p> </li> <li> <p>прорабатывать технологию единого входа (SSO), взаимодействие микросервисов, унифицировать формат событий.</p> </li> <li> <p>разрабатывать архитектуру и MVP новых компонентов экосистемы СЗИ: от концепции до MVP.</p> </li> <li> <p>формировать задачи на разработку, оценивать и контролировать выполнение задач, делать code review.</p> </li> <li>участие в технических показах и презентациях продукта.</li> </ul> <p><strong>Для нас важно</strong>:</p> <ul> <li> <p>высшее техническое образование (желательно в сфере ИТ);</p> </li> <li> <p>опыт работы в ИТ-компании от 4-x лет;</p> </li> <li> <p>опыт работы с микросервисной архитектурой от 2х лет;</p> </li> <li> <p>опыт разработки на одном из стеков программирования от 4х лет (.Net6, Java, node.js, golang).</p> </li> <li> <p>знание сетевых и прикладных протоколов обмена информацией;</p> </li> <li> <p>опыт работы с брокерами сообщений: Apache Kafka, RabbitMQ</p> </li> <li> <p>опыт работы с СУБД : MongoDB, PostgreSQL, ELK</p> </li> <li> <p>опыт работы с Docker;</p> </li> <li> <p>знание английского языка на уровне чтения технической документации.</p> </li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li> <p>Опыт работы с СУБД : Clickhouse, Tarantool</p> </li> <li> <p>опыт работы с СрЗИ, понимание что такое Avro, Syslog и т.д.</p> </li> <li> <p>знание UML, BPMN или любой другой нотации для разработки диаграмм;</p> </li> <li> <p>опыт работы в GIT\\ \\AzureDevOps\\JIRA.</p> </li> <li> <p>обладать глубокими знаниями, чтобы обеспечить взаимодействие программных решений и микросервисов, которые написаны на разных технологических стеках: .net 6, java, node.js,python, golang</p> </li> </ul> <p><br /><strong>Рабата в Datagile это:<br /><br />Развитие:</strong> Наставничество, работа в команде экспертов, внешнее обучение и профессиональные конференции за счет компании, компенсация занятий иностранным языком;<br /><br /><strong>Работа с комфортом:</strong> формат на выбор - удаленно из любой точки РФ, офис, гибрид. Гибкое начало рабочего дня (обязательные часы присутствия с 11-16 по МСК), техника для работы;<br /><br /><strong>Забота о здоровье: </strong>ДМС с психологом, офисный врач, компенсация занятий спортом, хобби или любых других увлечений, зона отдыха в офисе (чай/кофе/печеньки);<br /><br /><strong>Забота о близких:</strong> Подарки детям на праздники, дотации на приобретение детских путевок в лагерь, материальная поддержка в важные периоды жизни;<br /><br /><strong>Для общения:</strong> Корпоративные мероприятия, сквош, футбол, настольные игры в офисе;<br /><br /><strong>Стабильность:</strong> Аккредитованная ИТ компания, официальное трудоустройство по ТК РФ, ежеквартальные премии, работа над масштабными проектами.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "СУБД"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "MS SQL"
+    },
+    {
+      "name": "Avro"
+    },
+    {
+      "name": "Syslog"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "PostgreSQL"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5756945",
+    "name": "Датаджайл",
+    "url": "https://api.hh.ru/employers/5756945",
+    "alternate_url": "https://hh.ru/employer/5756945",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/917111.png",
+      "90": "https://img.hhcdn.ru/employer-logo/4109123.png",
+      "240": "https://img.hhcdn.ru/employer-logo/4109124.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5756945",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-26T16:11:29+0300",
+  "created_at": "2025-05-26T16:11:29+0300",
+  "initial_created_at": "2025-05-26T16:11:29+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120990190",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120990190",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

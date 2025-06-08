@@ -1,0 +1,133 @@
+{
+  "id": "120727589",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Frontend-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Пресненская набережная",
+    "building": "10с2",
+    "lat": 55.74751,
+    "lng": 37.534954,
+    "description": null,
+    "raw": "Москва, Пресненская набережная, 10с2",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>РСХБ-Интех — аккредитованная IT-компания. Мы разрабатываем новые банковские продукты Россельхозбанка и улучшаем текущие. Наши сервисы помогают миллионам клиентов удалённо пользоваться банковскими услугами, оформлять карты, брать кредиты и инвестировать. Мы даём возможность агропредпринимателям продавать и покупать сельскохозяйственные товары онлайн, а малому и крупному бизнесу — вести финансовые дела в надёжном и удобномонлайн-пространстве.</p> <p><strong>БЫТЬ В РСХБ-ИНТЕХ — ЗНАЧИТ</strong>:</p> <ul> <li>участвовать в масштабных проектах одного из крупнейших банков страны;</li> <li>работать в команде настоящих профессионалов, увлечённых своим делом и нацеленных на результат;</li> <li>развивать банковскую сферу и трансформировать сельское хозяйство России, предлагая клиентам самые инновационные инструменты и площадки;</li> <li>чувствовать заботу компании о здоровье и благополучии сотрудников, присоединившись к нашей расширенной программе ДМС;</li> <li>совершенствовать свои навыки и попробовать себя в новых направлениях и стартапах. Сейчас в связи с активным расширением нам нужен Frontend разработчик.</li> </ul> <p><strong>ЧЕМ ПРЕДСТОИТ ЗАНИМАТЬСЯ</strong><strong>:</strong></p> <ul> <li>Разработка пользовательского интерфейса (UI), в том числе для ввода и редактирования табличных данных</li> <li>Интеграция с Python бэкендом (API)</li> <li>Разработка workflow-интерфейсов для управления автоматизациями</li> <li>Поддержка и развитие существующего frontend-кода.</li> </ul> <p><strong>НАШИ ОЖИДАНИЯ ОТ КАНДИДАТА:</strong></p> <ul> <li>Опыт коммерческой разработки на React от 3 лет.</li> <li>Опыт реализации проектов с активным пользовательским вводом (формы, таблицы, редактирование данных в реальном времени).</li> <li>Опыт создания work-flow интерфейсов (например, для управления задачами, процессами, документами).</li> </ul> <p><strong>Языки:</strong></p> <ul> <li> JavaScript: Хорошее знание синтаксиса, возможностей, best practices.</li> <li> TypeScript: Знание и опыт использования.</li> <li> HTML5: Глубокое понимание структуры, семантики и accessibility.</li> <li> CSS3: Знание принципов каскадирования, специфичности, flexbox, grid layout.</li> </ul> <p><strong>Фреймворки:</strong></p> <ul> <li> React: Отличное знание основных концепций (компоненты, state management, жизненный цикл, hooks).</li> <li> Глубокое понимание React ecosystem.</li> </ul> <p><strong>State Management:</strong></p> <ul> <li> Redux, Context API, MobX (любой).</li> </ul> <p><strong>Инструменты сборки:</strong></p> <ul> <li> Webpack, Parcel, Rollup (знание хотя бы одного).</li> </ul> <p><strong>Тестирование:</strong></p> <ul> <li> Понимание принципов тестирования frontend-кода.</li> <li> Опыт работы с инструментами тестирования (Jest, Mocha, Chai, React Testing Library).</li> </ul> <p><strong>Работа с формами и таблицами в React:</strong></p> <ul> <li> Опыт работы с библиотеками для управления формами (например, Formik, React Hook Form).</li> <li> Опыт работы с табличными данными (например, React Table, Material-UI Data Grid).</li> </ul> <p><strong>Работа с API:</strong></p> <ul> <li> Умение взаимодействовать с REST API</li> </ul> <p><strong>БУДЕТ ПЛЮСОМ:</strong></p> <ul> <li> UI Frameworks/Component Libraries:</li> <li> Material-UI, Ant Design, Chakra UI</li> <li> Docker - понимание основ контейнеризации и опыт работы с Docker.</li> <li> Опыт оптимизации React приложений</li> <li> Понимание принципов авторизации и аутентификации (например, JWT, OAuth2).</li> </ul> <p><strong>ЧТО МЫ ПРЕДЛАГАЕМ:</strong></p> <ul> <li>Обучение за счет компании (посещение конференций, курсов, помощь в написании статей на Хабр и т.д.);</li> <li>Вертикальное и горизонтальное развитие: регулярные тренинги, вебинары, митапы;</li> <li>Забота о вашем здоровье: ДМС после испытательного срока, куда входит стоматология;</li> <li>Прозрачный доход: оклад (по итогам интервью) + ежеквартальные премии по результатам KPI;</li> <li>Гибкий график или полная удаленка (по итогам общения с командой);</li> <li>Комфортные и современные офисы в городах присутствия (Москва, Санкт-Петербург, Уфа, Новосибирск, Белгород и т.д.);</li> <li>Дополнительные бонусы от Россельхозбанка для сотрудников группы компаний (Скидки на спортзалы, рестораны, маркетплейсы и т.д.)</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "TypeScript"
+    },
+    {
+      "name": "React"
+    },
+    {
+      "name": "REST API"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3131901",
+    "name": "РСХБ-Интех",
+    "url": "https://api.hh.ru/employers/3131901",
+    "alternate_url": "https://hh.ru/employer/3131901",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1413640.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7274220.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7274221.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3131901",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-19T18:06:15+0300",
+  "created_at": "2025-05-19T18:06:15+0300",
+  "initial_created_at": "2025-05-19T18:06:15+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120727589",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120727589",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

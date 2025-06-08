@@ -1,0 +1,143 @@
+{
+  "id": "120604831",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Middle Frontend разработчик (React)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Вам предстоит:</strong></p><p><br /></p><p>• Разработка и поддержка пользовательского интерфейса ERP-системы</p><p>• Создание и поддержка компонентов на React с использованием TypeScript</p><p>• Интеграция с REST API</p><p>• Реализация сложных форм и валидации данных</p><p>• Работа с табличными данными и их визуализацией</p><p>• Разработка и поддержка UI-kit с использованием Storybook</p><p>• Оптимизация производительности frontend-приложения</p><p>• Работа с системой контроля версий (Git)</p><p>• Участие в code review и поддержка качества кодовой базы</p><p>• Взаимодействие с командой backend-разработчиков</p><p>• Участие в планировании спринтов и оценке задач</p><p><br /></p><p><strong>Мы ожидаем:</strong></p><p><br /></p><p>• Опыт разработки на React (от 2 лет)</p><p>• Глубокое знание TypeScript</p><p>• Опыт работы с системами управления состоянием MobX или Redux</p><p>• Знание HTML5, CSS3, SASS</p><p>• Опыт работы с REST API</p><p>• Понимание принципов работы с Git</p><p>• Знание принципов работы с формами (Formik, Yup)</p><p>• Опыт разработки табличных интерфейсов</p><p>• Понимание процессов разработки и опыт работы с трекерами задач (Яндекс.Трекер, Jira или аналоги)</p><p>Будет плюсом</p><p><br /></p><p>• Опыт работы с графическими библиотеками (Recharts)</p><p>• Опыт работы с Storybook</p><p>• Понимание принципов работы с Excel/CSV файлами</p><p>• Знание принципов тестирования (Jest, React Testing Library)</p><p><br /></p><p><strong>Мы предлагаем: </strong></p><p>- Комфортный офис (если есть желание работать из офиса)</p><p>- Работа в стабильной развивающейся компании.</p><p>- Оформление согласно ТК РФ, полностью белая зарплата.</p><p>- Реальная возможность профессионального и карьерного роста.</p><p>- Официальная аккредитация IT компании, позволяющая пользоваться всеми льготами.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "mobx"
+    },
+    {
+      "name": "React.js"
+    },
+    {
+      "name": "Formik"
+    },
+    {
+      "name": "TypeScript"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "HTML5"
+    },
+    {
+      "name": "Postman"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2092403",
+    "name": "ИТСС",
+    "url": "https://api.hh.ru/employers/2092403",
+    "alternate_url": "https://hh.ru/employer/2092403",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1245711.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6603273.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6603274.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2092403",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-15T18:48:25+0300",
+  "created_at": "2025-05-15T18:48:25+0300",
+  "initial_created_at": "2025-05-15T18:48:25+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120604831",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120604831",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

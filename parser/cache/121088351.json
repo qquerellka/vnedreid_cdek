@@ -1,0 +1,169 @@
+{
+  "id": "121088351",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Программист-алгоритмист (разработка алгоритмов)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 130000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 130000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "улица Бажова",
+    "building": "33",
+    "lat": 56.848306,
+    "lng": 60.623597,
+    "description": null,
+    "raw": "Екатеринбург, улица Бажова, 33",
+    "metro": {
+      "station_name": "Динамо",
+      "line_name": "Север-Юг",
+      "station_id": "48.265",
+      "line_id": "48",
+      "lat": 56.847818,
+      "lng": 60.599406
+    },
+    "metro_stations": [
+      {
+        "station_name": "Динамо",
+        "line_name": "Север-Юг",
+        "station_id": "48.265",
+        "line_id": "48",
+        "lat": 56.847818,
+        "lng": 60.599406
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><em><strong>В компанию Тритон-ЭлектроникС в связи с расширением проектов разработки требуется Инженер программист - алгоритмист.</strong></em></p> <p>Тритон ЭлектроникС является одним из ведущих предприятий медицинского приборостроения. Мы разрабатываем наукоемкое медицинское оборудование; организуем высокотехнологичное радиоэлектронное производство; поставляем и обслуживаем наше оборудование по всей России и ближнему зарубежью</p> <p><strong>Обязанности:</strong></p> <p><em>* Моделирование и разработка алгоритмов ПО функциональных модулей на языках программирования высокого уровня;</em></p> <p><em>* Исследовательская работа работа по алгоритмам обработки биомедицинских сигналов.</em></p> <p><br /><strong>Требования:</strong></p> <p>*<em>опыт работы в средах математического моделирования MATLAB и Python;</em></p> <p>* <em>преимуществом будет опыт применения машинного обучения, искусственных нейронных сетей для обработки сигналов (Python keras,tensorflow или др.);</em></p> <p><em>*знание алгоритмов цифровой обработки сигналов;</em></p> <p><em>*базовые знания языка программирования С/С++.</em></p> <p> </p> <p><br /><strong>Условия:</strong></p> <p>* официальное трудоустройство, официальные условия по оплате, соблюдение гарантий ТК РФ;</p> <p>* дотация на питание, обучение за счет Компании, гибкое начало рабочего дня.</p> <p>*медицинское обслуживание</p> <p>*гибкое начало рабочего дня</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "MATLAB"
+    },
+    {
+      "name": "Simulink"
+    },
+    {
+      "name": "Алгоритмы"
+    },
+    {
+      "name": "C/C++"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "37881",
+    "name": "Тритон-ЭлектроникС",
+    "url": "https://api.hh.ru/employers/37881",
+    "alternate_url": "https://hh.ru/employer/37881",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1084147.jpeg",
+      "90": "https://img.hhcdn.ru/employer-logo/5957217.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/5957218.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=37881",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-28T14:58:23+0300",
+  "created_at": "2025-05-28T14:58:23+0300",
+  "initial_created_at": "2025-05-28T14:58:23+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121088351",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121088351",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

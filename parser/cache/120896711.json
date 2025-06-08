@@ -1,0 +1,195 @@
+{
+  "id": "120896711",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Ведущий программист",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 300000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 300000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Очаковское шоссе",
+    "building": "10к2с1",
+    "lat": 55.695149,
+    "lng": 37.454798,
+    "description": null,
+    "raw": "Москва, Очаковское шоссе, 10к2с1",
+    "metro": {
+      "station_name": "Аминьевская",
+      "line_name": "Большая кольцевая линия",
+      "station_id": "97.812",
+      "line_id": "97",
+      "lat": 55.697222,
+      "lng": 37.464167
+    },
+    "metro_stations": [
+      {
+        "station_name": "Аминьевская",
+        "line_name": "Большая кольцевая линия",
+        "station_id": "97.812",
+        "line_id": "97",
+        "lat": 55.697222,
+        "lng": 37.464167
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>ISS – Интеллектуальные Системы Безопасности</strong> — один из крупнейших отечественных ИТ-вендоров в области разработки аппаратно-программных решений на базе видео для создания комплексных систем безопасности и автоматизации бизнес-процессов.</p> <p>Мы помогаем сделать окружающий мир более безопасным и продуктивным с помощью современных технологий. Быть членом нашей команды — значит использовать силу собственного интеллекта для решения ярких нестандартных задач, открывающих новые возможности в профессиональном и личностном развитии.</p> <p><strong>Обязанности:</strong></p> <ul> <li>Работа над программной платформой системы видеонаблюдения</li> <li>Разработка нового функционала модулей и поддержка текущего решения</li> <li>Участие в разработке архитектуры</li> <li>Проведение ревью кода</li> <li>Написание интеграционных и модульных тестов</li> <li>Взаимодействие с командами тестирования, аналитики и техподдержки</li> <li>Диагностирование проблем в модулях и библиотеках, находящихся в ответственности команды</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Опыт коммерческой разработки на C++ от 3 лет</li> <li>Хорошее знание C++17 (и выше) и STL (используете как основной стек хотя бы последний год)</li> <li>Уверенное владение многопоточным программированием</li> <li>Знание классических алгоритмов и структур данных</li> <li>Опыт кросс-платформенной разработки</li> <li>Опыт работы с дампами</li> </ul> <p><strong>Плюсами будут:</strong></p> <ul> <li>Опыт использования Boost и Qt</li> <li>Опыт сетевого программирования (TCP/UDP)</li> <li>Опыт работы с базами данных (Postgres)</li> <li>Понимание устройства современных распределённых систем</li> <li>Опыт работы в области видеонаблюдения и видеоанализа</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Работу над продуктом мирового уровня</li> <li>Интересные задачи и сильную команду, с которой можно расти</li> <li>Реальная возможность влиять на процессы разработки</li> <li>Возможность 100% удаленной работы или гибрид</li> <li>ДМС</li> <li>Гибкое начало рабочего дня</li> <li>Компенсация обедов и обучения</li> <li>12 отгулов в год</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "C++"
+    },
+    {
+      "name": "STL"
+    },
+    {
+      "name": "Jenkins"
+    },
+    {
+      "name": "Boost"
+    },
+    {
+      "name": "Qt"
+    },
+    {
+      "name": "PostgreSQL"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "920361",
+    "name": "ISS",
+    "url": "https://api.hh.ru/employers/920361",
+    "alternate_url": "https://hh.ru/employer/920361",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/559377.png",
+      "90": "https://img.hhcdn.ru/employer-logo/2678981.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/2678982.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=920361",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-23T10:20:42+0300",
+  "created_at": "2025-05-23T10:20:42+0300",
+  "initial_created_at": "2025-05-23T10:20:42+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120896711",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120896711",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b1",
+        "name": "B1 — Средний"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

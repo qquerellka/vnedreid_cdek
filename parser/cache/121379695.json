@@ -1,0 +1,141 @@
+{
+  "id": "121379695",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Business Analyst (Back Office)",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 300000,
+    "to": 400000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 300000,
+    "to": 400000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "MONTHLY",
+      "name": "Раз в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>О компании</strong></p> <p>Мы создаём продукты, которыми пользуются миллионы пользователей по всему миру. В основе — технологичность, высокий темп и ориентация на результат. Сейчас мы ищем Business Analyst в стрим <strong>Back Office</strong> — это один из самых сложных и технологичных направлений, где решения напрямую влияют на стабильность всей системы.</p> <p><strong>Чем предстоит заниматься</strong></p> <ul> <li> <p>Собирать, структурировать и описывать системные требования для внутренних сервисов.</p> </li> <li> <p>Описывать бизнес-логику сложных инфраструктурных процессов: инциденты, алерты, мониторинг, очереди, интеграции.</p> </li> <li> <p>Переводить технические задачи на бизнес-язык для коммуникации со стейкхолдерами.</p> </li> <li> <p>Участвовать в формализации процессов (дашборды, SLA, fallback-логики).</p> </li> <li> <p>Плотно взаимодействовать с разработкой, продуктами и поддержкой.</p> </li> <li> <p>Работать с инцидентами, строить логику оповещений и автоматических проверок.</p> </li> <li> <p>Обеспечивать связку между задачами и метриками надёжности и стабильности (uptime, latency, SLA).</p> </li> </ul> <p><strong>Что важно</strong></p> <p>Hard skills:</p> <ul> <li> <p>Опыт работы в системном бизнес-анализе (желательно в стримах Back Office / ERP / CRM / FinTech / Highload).</p> </li> <li> <p>Понимание архитектуры, микросервисов, API, интеграций.</p> </li> <li> <p>Умение описывать нефункциональные требования.</p> </li> <li> <p>Владение инструментами: Confluence, Jira. SQL — как плюс.</p> </li> <li> <p>Понимание инцидент-менеджмента, SLA, мониторинга.</p> </li> <li> <p>Способность мыслить логически и описывать процессы без визуального UI.</p> </li> </ul> <p>Soft skills:</p> <ul> <li> <p>Самостоятельность и инициативность.</p> </li> <li> <p>Структурность и внимание к деталям.</p> </li> <li> <p>Умение договариваться и доносить сложные вещи простым языком.</p> </li> <li> <p>Гибкость: готовность адаптироваться под быстро меняющиеся приоритеты.</p> </li> </ul> <p><strong>Что предлагаем</strong></p> <ul> <li> <p>Работа в сильной продуктовой команде с фокусом на системность и масштаб.</p> </li> <li> <p>Конкурентная зарплата + премии (до 3 окладов в год).</p> </li> <li> <p>Возможность пересмотра компенсации под сильных кандидатов.</p> </li> <li> <p>Быстрый темп, минимум бюрократии, высокая степень самостоятельности.</p> </li> <li> <p>Технологичная среда и сложные вызовы.</p> </li> <li> <p>Возможность влиять на ключевые процессы в компании.</p> </li> </ul> <p><strong>Как понять, что вы нам подходите</strong></p> <p>Если вы:</p> <ul> <li> <p>Любите порядок и системную архитектуру больше, чем красивые кнопки.</p> </li> <li> <p>Получаете удовольствие от сложных и &quot;невидимых&quot; задач, которые критичны для бизнеса.</p> </li> <li> <p>Умеете договариваться с технарями и бизнесом на одном языке.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "150",
+      "name": "Бизнес-аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11836364",
+    "name": "Made of Storm",
+    "url": "https://api.hh.ru/employers/11836364",
+    "alternate_url": "https://hh.ru/employer/11836364",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11836364",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T12:38:04+0300",
+  "created_at": "2025-06-05T12:38:04+0300",
+  "initial_created_at": "2025-06-05T12:38:04+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121379695",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121379695",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b2",
+        "name": "B2 — Средне-продвинутый"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

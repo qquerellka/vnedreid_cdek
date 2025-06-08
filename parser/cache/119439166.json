@@ -1,0 +1,180 @@
+{
+  "id": "119439166",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Бизнес-аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 130000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 130000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Миллионная улица",
+    "building": "8",
+    "lat": 59.943106,
+    "lng": 30.324663,
+    "description": null,
+    "raw": "Санкт-Петербург, Миллионная улица, 8",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>В Дирекцию ИТ нашей Компании приглашаем кандидата на позицию Бизнес-аналитика.</strong></p> <p><strong>Перед Вами будут стоять следующие задачи:</strong></p> <ul> <li>Сбор, анализ, формирование ТЗ и документирование требований от сотрудников подразделений на создание и доработку корпоративных ИС;</li> <li>Приемка результатов работы от подрядчиков, тестирование, сдача результатов внутреннему заказчику;</li> <li>Ведение реестра процессов Компании и поддержание его в актуальном состоянии;</li> <li>Подготовка обучающих материалов для сотрудников Компании.</li> </ul> <p><strong>Для нас важно:</strong></p> <ul> <li>Умение работать с большими объемами информации;</li> <li> <p>Умение структурировать полученную информацию и четко излагать свои мысли;</p> </li> <li>Комплексное умение владеть задачей: от постановки до конечного результата;</li> <li>Желательно: начальное представление об одной или нескольких нотациях описания бизнес-процессов IDEF0, BPMN, EPC, опыт настройки low-code решений, знание гибких методологий (Agile, Scrum, Kanban).</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Стабильную и интересную работу с достойным уровнем оплаты и официальным оформлением</li> <li>Работу в аккредитованной ИТ компании в составе Группы Компаний</li> <li>Мы можем похвастаться возможностью профессионального развития, обучения и отличным коллективом</li> <li>ДМС после испытательного срока</li> <li>Классный и профессиональный коллектив, внутренние тимбилдинги команды ИТ</li> <li>Уровень заработной платы обсуждается с кандидатами по результатам собеседования (оклад+ событийная премия по результатам работы)</li> </ul>",
+  "branded_description": "\n<style type=\"text/css\">\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc,\n.tmpl_hh_wrapper .l-paddings {\n    line-height: inherit !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-weight: normal;\n    font-size: inherit!important;\n    font-family: inherit!important;\n    line-height: inherit!important;\n    color: inherit!important;\n    margin: 0!important;\n    padding: 0!important;\n    background: none!important;\n    display: inline!important;\n    text-transform: none;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    display: inline-block;\n    margin: 0;\n}\n\n.tmpl_hh_flex {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n    -ms-flex-pack: justify;\n    -webkit-box-pack: justify;\n    justify-content: space-between;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    max-width: 690px;\n    margin: 0 auto;\n    position: relative;\n    word-break: normal;\n    font-family: 'Verdana', sans-serif;\n    color: #000;\n    font-size: 14px;\n    line-height: 1.2;\n    overflow: hidden;\n    -webkit-font-smoothing: antialiased;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_wrapper * {\n    -webkit-box-sizing: border-box;\n    box-sizing: border-box;\n}\n\n.tmpl_hh_video {\n    position: relative;\n    width: 100%;\n}\n\n.tmpl_hh_video img,\n.tmpl_hh_video iframe {\n    position: absolute;\n    left: 0;\n    top: 0;\n    width: 100%;\n    height: 100%;\n}\n\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul {\n    list-style: none;\n}\n\n.tmpl_hh_header {\n    position: relative;\n    padding: 2.5% 14.5% 2%;\n    z-index: 2;\n}\n\n.tmpl_hh_header img {\n    width: 239px;\n}\n\n.tmpl_hh_header:before {\n    content: '';\n    position: absolute;\n    top: 0;\n    right: 9.5%;\n    width: 4px;\n    height: 205px;\n    display: block;\n    background: #FBAB18;\n}\n\n.tmpl_hh_banner {\n    position: relative;\n}\n\n.tmpl_hh_banner:before {\n    content: '';\n    position: absolute;\n    bottom: -76px;\n    left: 10%;\n    width: 4px;\n    height: 205px;\n    display: block;\n    background: #FBAB18;\n}\n\n.tmpl_hh_content_wrapper {\n    padding: 5px 12% 9px 14.5%;\n}\n\n.tmpl_hh_content_top {\n    font-size: 13px;\n    line-height: 1.3;\n    color: #57555A;\n}\n\n.tmpl_hh_content_top b {\n    display: block;\n    font-size: 26px;\n    line-height: 1.23;\n    margin-bottom: 14px;\n}\n\n.tmpl_hh_offer {\n    padding: 0 4px 0 2px;\n}\n\n.tmpl_hh_offer b {\n    display: block;\n    font-size: 20px;\n    line-height: 1.2;\n    color: #FBAB18;\n    position: relative;\n    margin-bottom: 30px;\n}\n\n.tmpl_hh_offer b:before {\n    content: '';\n    position: absolute;\n    top: 16px;\n    right: -14px;\n    width: 238px;\n    height: 4px;\n    display: block;\n    background: #FBAB18;\n}\n\n.tmpl_hh_offer_item {\n    width: 48%;\n    margin-bottom: 32px;\n    display: flex;\n    color: #57555A;\n    font-size: 10px;\n    line-height: 1.3;\n    align-items: center;\n    padding-right: 3%;\n}\n\n.tmpl_hh_offer_img {\n    width: 73px;\n    margin-right: 21px;\n}\n\n.tmpl_hh_offer_item p {\n    width: calc(100% - 70px);\n}\n\n.tmpl_hh_invite {\n    padding: 48px 10% 59px 15%;\n    font-weight: 700;\n    font-size: 26px;\n    line-height: 1.23;\n    color: #FBAB18;\n    position: relative;\n}\n\n.tmpl_hh_invite:before {\n    content: '';\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 238px;\n    height: 4px;\n    display: block;\n    background: #FBAB18;\n}\n\n.tmpl_hh_offer_item2 {\n    padding-right: 0;\n}\n\n.tmpl_hh_content {\n    padding: 37px 0 26px;\n    -webkit-box-sizing: border-box;\n    box-sizing: border-box;\n    margin: 0 auto;\n    color: #57555A;\n    font-size: 13px;\n    line-height: 1.2;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    margin: 36px 0 0;\n}\n\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    display: inline-block;\n    font-size: 20px;\n    line-height: 1.2;   \n}\n\n.tmpl_hh_content ul,\n.tmpl_hh_content ul ul {\n    list-style: none;\n}\n\n.tmpl_hh_content ol {\n    list-style: none;\n    counter-reset: list;\n    margin-left: 15px;\n}\n\n.tmpl_hh_content ul,\n.tmpl_hh_content ol {\n    margin-top: 15px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 8px;\n    margin-bottom: 8px;\n}\n\n.tmpl_hh_content ul li,\n.tmpl_hh_content ol li {\n    position: relative;\n    margin-bottom: 8px;\n}\n\n.tmpl_hh_content ol > li {\n    counter-increment: list;\n}\n\n.tmpl_hh_content ul>li:before,\n.tmpl_hh_content ol>li:before {\n    position: absolute;\n    left: -15px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: '';\n    background: #FBAB18;\n    display: block;\n    width: 22px;\n    height: 3px;\n    left: -32px;\n    top: 6px;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list) \".\";\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n\n@media screen and (max-width: 699px) {\n    .tmpl_hh_header {\n        padding: 2.5% 0 7%;\n    }\n    .tmpl_hh_header img {\n        width: 100%;\n    }\n    .tmpl_hh_header:before {\n        display: none;\n    }\n    .tmpl_hh_banner:before {\n        display: none;\n    }\n    .tmpl_hh_content_wrapper {\n        padding: 32px 0% 14px 1%;\n    }\n    .tmpl_hh_content_top {\n        font-size: 13px;\n        line-height: 1.3;\n        color: #57555A;\n        padding-right: 5%;\n    }\n    .tmpl_hh_content_top b {\n        display: block;\n        font-size: 20px;\n        line-height: 1.23;\n        margin-bottom: 14px;\n    }\n    .tmpl_hh_offer_items {\n        padding-left: 11%;\n    }\n    .tmpl_hh_offer {\n        padding: 0 4px 0 2px;\n    }\n    .tmpl_hh_offer b {\n        display: block;\n        font-size: 20px;\n        line-height: 1.2;\n        color: #FBAB18;\n        position: relative;\n        margin-bottom: 34px;\n    }\n    .tmpl_hh_offer b:before {\n        top: 16px;\n        right: 0;\n        width: 238px;\n        height: 4px;\n        left: 214px;\n    }\n    .tmpl_hh_offer_item {\n        width: 100%;\n        margin-bottom: 21px;\n        font-size: 10px;\n        line-height: 1.3;\n        align-items: center;\n        padding-right: 13%;\n    }\n    .tmpl_hh_offer_img {\n        width: 73px;\n        margin-right: 21px;\n    }\n    .tmpl_hh_offer_item p {\n        width: calc(100% - 70px);\n    }\n    .tmpl_hh_invite {\n        padding: 48px 8% 59px 2%;\n        font-weight: 700;\n        font-size: 20px;\n        line-height: 1.23;\n        color: #FBAB18;\n        position: relative;\n    }\n    .tmpl_hh_invite:before {\n        content: '';\n        position: absolute;\n        top: 0;\n        left: -11px;\n        width: 92px;\n        height: 4px;\n        display: block;\n        background: #FBAB18;\n    }\n    .tmpl_hh_offer_item2 {\n        padding-right: 2;\n    }\n    .tmpl_hh_content {\n        padding: 34px 0 26px;\n        margin: 0 auto;\n    }\n    .tmpl_hh_content p,\n    .tmpl_hh_content b,\n    .tmpl_hh_content strong {\n        margin: 36px 0 0;\n    }\n    .tmpl_hh_content b,\n    .tmpl_hh_content strong {\n        max-width: 100%;\n    }\n    .tmpl_hh_content ul,\n    .tmpl_hh_content ul ul {\n        list-style: none;\n    }\n    .tmpl_hh_content ol {\n        list-style: none;\n        counter-reset: list;\n        margin-left: 15px;\n    }\n    .tmpl_hh_content ul,\n    .tmpl_hh_content ol {\n        margin-top: 15px;\n        margin-left: 34px;\n    }\n    .tmpl_hh_content ul ul,\n    .tmpl_hh_content ul ol,\n    .tmpl_hh_content ol ol,\n    .tmpl_hh_content ol ul {\n        margin-top: 8px;\n        margin-bottom: 8px;\n    }\n    .tmpl_hh_content ul li,\n    .tmpl_hh_content ol li {\n        position: relative;\n        margin-bottom: 8px;\n    }\n    .tmpl_hh_content ol > li {\n        counter-increment: list;\n    }\n    .tmpl_hh_content ul>li:before,\n    .tmpl_hh_content ol>li:before {\n        position: absolute;\n        left: -15px;\n        top: 0;\n    }\n    .tmpl_hh_content ul>li:before {\n        content: '';\n        background: #FBAB18;\n        display: block;\n        width: 22px;\n        height: 3px;\n        left: -32px;\n        top: 6px;\n    }\n    .tmpl_hh_content ol>li:before {\n        content: counter(list) \".\";\n        left: auto;\n        right: 100%;\n        margin-right: 2px;\n    }\n}\n        </style>\n        <div class=\"tmpl_hh_wrapper\">\n            <div class=\"tmpl_hh_header\"> <img src=\"https://hhcdn.ru/ichameleon/239610.svg\" alt=\"\"> </div>\n            <div class=\"tmpl_hh_banner\"> <img src=\"https://hhcdn.ru/ichameleon/239609.jpg\" alt=\"\"> </div>\n            <div class=\"tmpl_hh_content_wrapper\">\n                <div class=\"tmpl_hh_content_top\">\n                <b>Ленстройтрест – компания, которая гордится своими проектами</b>\n                    <p>Мы строим дома, в которых с удовольствием живём сами,\nнаполняем кварталы интересными и полезными опциями, создаём для наших жителей современную и комфортную среду. Ленстройтрест – это команда неравнодушных к своему делу и к жизни Компании людей, и нам важно, чтобы будущий коллега разделял наши ценности.</p>\n                </div>\n                <div class=\"tmpl_hh_content\">\n                    <p><strong>В Дирекцию ИТ нашей Компании приглашаем кандидата на позицию Бизнес-аналитика.</strong></p> <p><strong>Перед Вами будут стоять следующие задачи:</strong></p> <ul> <li>Сбор, анализ, формирование ТЗ и документирование требований от сотрудников подразделений на создание и доработку корпоративных ИС;</li> <li>Приемка результатов работы от подрядчиков, тестирование, сдача результатов внутреннему заказчику;</li> <li>Ведение реестра процессов Компании и поддержание его в актуальном состоянии;</li> <li>Подготовка обучающих материалов для сотрудников Компании.</li> </ul> <p><strong>Для нас важно:</strong></p> <ul> <li>Умение работать с большими объемами информации;</li> <li> <p>Умение структурировать полученную информацию и четко излагать свои мысли;</p> </li> <li>Комплексное умение владеть задачей: от постановки до конечного результата;</li> <li>Желательно: начальное представление об одной или нескольких нотациях описания бизнес-процессов IDEF0, BPMN, EPC, опыт настройки low-code решений, знание гибких методологий (Agile, Scrum, Kanban).</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Стабильную и интересную работу с достойным уровнем оплаты и официальным оформлением</li> <li>Работу в аккредитованной ИТ компании в составе Группы Компаний</li> <li>Мы можем похвастаться возможностью профессионального развития, обучения и отличным коллективом</li> <li>ДМС после испытательного срока</li> <li>Классный и профессиональный коллектив, внутренние тимбилдинги команды ИТ</li> <li>Уровень заработной платы обсуждается с кандидатами по результатам собеседования (оклад+ событийная премия по результатам работы)</li> </ul></div>\n                <div class=\"tmpl_hh_offer\"> <b>Мы предлагаем:</b>\n                    <div class=\"tmpl_hh_offer_items tmpl_hh_flex\">\n                        <div class=\"tmpl_hh_offer_item\">\n                            <div class=\"tmpl_hh_offer_img\"> <img src=\"https://hhcdn.ru/ichameleon/239611.svg\" alt=\"\"> </div>\n                            <p> Интересные задачи, профессиональное развитие и карьеру </p>\n                        </div>\n                        <div class=\"tmpl_hh_offer_item tmpl_hh_offer_item2\">\n                            <div class=\"tmpl_hh_offer_img\"> <img src=\"https://hhcdn.ru/ichameleon/239612.svg\" alt=\"\"> </div>\n                            <p> Достойный уровень дохода, прозрачную систему оплаты труда и мотивации </p>\n                        </div>\n                        <div class=\"tmpl_hh_offer_item\">\n                            <div class=\"tmpl_hh_offer_img\"> <img src=\"https://hhcdn.ru/ichameleon/239613.svg\" alt=\"\"> </div>\n                            <p> Удобный график начала и окончания рабочего дня и частично-удаленный режим работы </p>\n                        </div>\n                        <div class=\"tmpl_hh_offer_item\">\n                            <div class=\"tmpl_hh_offer_img\"> <img src=\"https://hhcdn.ru/ichameleon/239614.svg\" alt=\"\"> </div>\n                            <p> Обучение за счёт компании с целью повышения личной эффективности </p>\n                        </div>\n                        <div class=\"tmpl_hh_offer_item\">\n                            <div class=\"tmpl_hh_offer_img\"> <img src=\"https://hhcdn.ru/ichameleon/239615.svg\" alt=\"\"> </div>\n                            <p> Внутренние семинары от коллег для обмена ценным опытом </p>\n                        </div>\n                        <div class=\"tmpl_hh_offer_item\">\n                            <div class=\"tmpl_hh_offer_img\"> <img src=\"https://hhcdn.ru/ichameleon/239616.svg\" alt=\"\"> </div>\n                            <p> Корпоративные праздники и другие душевные мероприятия </p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"tmpl_hh_invite\">\n                <p> Если вакансия Вам интересна, а функционал знаком, ждём Ваш отклик с резюме!</p>\n            </div>\n        </div>\n    ",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Scrum"
+    },
+    {
+      "name": "Управление проектами"
+    },
+    {
+      "name": "Agile Project Management"
+    },
+    {
+      "name": "Умение работать с большим объемом информации"
+    },
+    {
+      "name": "Kanban"
+    },
+    {
+      "name": "Visio"
+    },
+    {
+      "name": "Системное мышление"
+    },
+    {
+      "name": "Бизнес-аналитика"
+    },
+    {
+      "name": "MS Project"
+    },
+    {
+      "name": "BPMN"
+    },
+    {
+      "name": "IDEF0"
+    },
+    {
+      "name": "Проведение тестирований"
+    },
+    {
+      "name": "Работа с большим объемом информации"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "150",
+      "name": "Бизнес-аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "145019",
+    "name": "Группа Компаний Ленстройтрест",
+    "url": "https://api.hh.ru/employers/145019",
+    "alternate_url": "https://hh.ru/employer/145019",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/598077.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/2833563.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/2833564.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=145019",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-19T12:48:21+0300",
+  "created_at": "2025-05-19T12:48:21+0300",
+  "initial_created_at": "2025-04-11T15:41:20+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119439166",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119439166",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

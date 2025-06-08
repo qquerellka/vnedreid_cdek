@@ -1,0 +1,164 @@
+{
+  "id": "121308372",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Python-разработчик (Middle)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "улица Викторенко",
+    "building": "7",
+    "lat": 55.797974,
+    "lng": 37.529519,
+    "description": null,
+    "raw": "Москва, улица Викторенко, 7",
+    "metro": {
+      "station_name": "Аэропорт",
+      "line_name": "Замоскворецкая",
+      "station_id": "2.12",
+      "line_id": "2",
+      "lat": 55.800441,
+      "lng": 37.530477
+    },
+    "metro_stations": [
+      {
+        "station_name": "Аэропорт",
+        "line_name": "Замоскворецкая",
+        "station_id": "2.12",
+        "line_id": "2",
+        "lat": 55.800441,
+        "lng": 37.530477
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Подразделение искусственного интеллекта и анализа данных ищет новых сотрудников для участия в текущих и новых проектах.</p> <p>В команду бекенд, в лабораторию, разрабатывающую оркестирующие системы, а также вспомогательные сервисы для обучения и тестирования искусственных нейронных сетей, требуется Python-разработчик.</p> <p><strong>В обязанности входит:</strong></p> <ul> <li>Поддержка и разработка сервисов и модулей на Python</li> <li>При необходимости, написание сопутствующих shell-скриптов</li> <li>Подготовка сопутствующих Docker-образов под сервисы</li> <li>При необходимости, проведение технических исследований (по возможным реализациям сложных доработок систем)</li> <li>Покрытие кода unit-тестами</li> <li>При необходимости, участие в демонстрациях решений в роли технического специалиста</li> <li>Проведение code review</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Опыт работы с Python 3.7 и выше, желателен опыт с асинхронным и многопоточным кодом;</li> <li>Опыт работы с Django (предпочтительно) или иным веб-фреймворком;</li> <li>Опыт работы с Linux и shell-скриптами;</li> <li>Опыт работы с PostgreSQL, MongoDB;</li> <li>Опыт работы с Docker, Docker Compose;</li> <li>Опыт работы с Kafka/RabbitMQ;</li> <li>Опыт работы с S3 или иными объектными хранилищами данных;</li> <li>Желание и умение разбираться в чужом и legacy-коде;</li> <li>Желание и умение делиться своими знаниями с командой;</li> <li>Стремление писать поддерживаемый и тестируемый код.</li> </ul> <p><strong>Плюсом является:</strong></p> <ul> <li>Опыт работы Redis, Memcached;</li> <li>Понимание основ ML;</li> <li>Опыт работы с k8s;</li> <li>Знание основ ИБ;</li> <li>Понимание основ работы ОС;</li> <li>Опыт работы с gRPC, GraphQL и Web sockets;</li> <li>Опыт написания unit- или иных тестов и документации.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Офисный формат работы, плавающее начало рабочего дня;</li> <li>Оформление по ТК РФ;</li> <li>ДМС со стоматологией после окончания испытательного срока;</li> <li>Бронирование от мобилизации;</li> <li>Возможности для профессионального развития;</li> <li>Командная работа, общение и обмен опытом;</li> <li>Дружный и творческий коллектив;</li> <li>Спортзал, спортивные секции, тренажерный зал на территории;</li> <li>Дотационная столовая;</li> <li>Детский сад.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "FastAPI"
+    },
+    {
+      "name": "Django Framework"
+    },
+    {
+      "name": "gRPC"
+    },
+    {
+      "name": "RabbitMQ"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "MongoDB"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Git"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1626408",
+    "name": "Федеральное автономное учреждение Государственный Научно-Исследовательский Институт Авиационных Систем",
+    "url": "https://api.hh.ru/employers/1626408",
+    "alternate_url": "https://hh.ru/employer/1626408",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/238329.png",
+      "90": "https://img.hhcdn.ru/employer-logo/1395993.png",
+      "240": "https://img.hhcdn.ru/employer-logo/1395994.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1626408",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T19:03:21+0300",
+  "created_at": "2025-06-06T19:03:21+0300",
+  "initial_created_at": "2025-06-03T19:03:21+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121308372",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121308372",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

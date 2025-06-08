@@ -1,0 +1,156 @@
+{
+  "id": "120717623",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Middle QA Manual / Тестировщик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 130000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 130000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Калужско-Рижская линия",
+    "building": "метро Шаболовская",
+    "lat": 55.718821,
+    "lng": 37.607933,
+    "description": null,
+    "raw": "Москва, Калужско-Рижская линия, метро Шаболовская",
+    "metro": {
+      "station_name": "Шаболовская",
+      "line_name": "Калужско-Рижская",
+      "station_id": "6.157",
+      "line_id": "6",
+      "lat": 55.718828,
+      "lng": 37.607892
+    },
+    "metro_stations": [
+      {
+        "station_name": "Шаболовская",
+        "line_name": "Калужско-Рижская",
+        "station_id": "6.157",
+        "line_id": "6",
+        "lat": 55.718828,
+        "lng": 37.607892
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Привет! Мы команда Your Personal Agent и ищем тестировщика для проекта в сфере iGaming. Проект уже давно на рынке и готовится к запуску в новых регионах. Если хочешь расти на интересных задачах — добро пожаловать в команду!</p> <p> </p> <p><strong>*РАБОТА В ОФИСЕ*</strong></p> <p> </p> <p><strong>Обязанности:</strong></p> <p>• Тестирование API с использованием Postman и Swagger<br /><br />• Проведение ручного функционального тестирования веб-приложений, включая серверную часть.</p> <p>• Работа с базами данных, знание SQL</p> <p>• Ознакомление и работа с макетами на всех этапах их разработки.</p> <p>• Использование DevTools для тестирования</p> <p>• Работа с Jira для управления задачами</p> <p>• Тестирование веб-приложений на десктопе и мобильных устройствах</p> <p>• Тестирование микросервисной архитектуры</p> <p>• Написание тестовой документации (тест-кейсы, чек-листы, баг-репорты) и поддержание её актуальности.<br /><br />• Тестирование задач, передаваемых отделом Frontend (изменения в UI/UX и логике сайта).<br /><br />• Тестирование задач, передаваемых отделом Backend (интеграции с внешними сервисами, платёжные методы, бизнес-логика сайта).<br /><br />• Активное взаимодействие с командой разработки.<br /><br />• Обязательное участие во всех созвонах команды разработки.<br /><br />• Участие в процессах обеспечения качества ПО.<br /><br />• Взаимодействие со смежными отделами компании для обеспечения высокого уровня качества разрабатываемого продукта.</p> <p><strong>Дополнительные плюсы:</strong></p> <p>• Опыт написания автотестов на JavaScript (backend и frontend)</p> <p>• Опыт работы с Git и его инструментами</p> <p>• Опыт работы с Docker</p> <p> </p> <p>Если ты хочешь стать частью нашей команды и развиваться в сфере iGaming, отправляй своё резюме и мы свяжемся с тобой!</p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9376693",
+    "name": "Your Personal Agent",
+    "url": "https://api.hh.ru/employers/9376693",
+    "alternate_url": "https://hh.ru/employer/9376693",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1036660.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/5767400.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/5767401.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9376693",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T15:31:32+0300",
+  "created_at": "2025-06-06T15:31:32+0300",
+  "initial_created_at": "2025-05-19T15:31:32+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120717623",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120717623",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

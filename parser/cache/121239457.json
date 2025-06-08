@@ -1,0 +1,145 @@
+{
+  "id": "121239457",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Разработчик C++ (Qt) системы взаимодействия с электронным оборудованием",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Верейская улица",
+    "building": "11",
+    "lat": 55.710043,
+    "lng": 37.447521,
+    "description": null,
+    "raw": "Москва, Верейская улица, 11",
+    "metro": {
+      "station_name": "Славянский бульвар",
+      "line_name": "Арбатско-Покровская",
+      "station_id": "3.176",
+      "line_id": "3",
+      "lat": 55.729542,
+      "lng": 37.470973
+    },
+    "metro_stations": [
+      {
+        "station_name": "Славянский бульвар",
+        "line_name": "Арбатско-Покровская",
+        "station_id": "3.176",
+        "line_id": "3",
+        "lat": 55.729542,
+        "lng": 37.470973
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <ul> <li> <p>Участие в разработке системы (в том числе пользовательского интерфейса) </p> </li> <li> <p>Участие в разработке системы (в том числе пользовательского интерфейса) взаимодействующей с устройствами обнаружения беспилотных летательных аппаратов и противодействия им (Linux/Windows)</p> </li> <li> <p>Применение математических алгоритмов в разрабатываемой системе</p> </li> <li> <p>Доработка отображения информации на карте: все параметры отметки/цели/режим &quot;картинка в картинке&quot; для отображения требующей внимание области</p> </li> <li> <p>Идентификация и аутентификация пользователей, система ролей</p> </li> <li> <p>Оповещение о событиях через SMS и телефонные звонки</p> </li> </ul> <strong>Требования:</strong> <ul> <li> <p>Знание и понимание принципов объектно-ориентированного программирования</p> </li> <li> <p>Опыт работы с Qt</p> </li> <li> <p>Опыт разработки ПО, взаимодействующего с микроконтроллерами, аппаратными средствами</p> </li> <li> <p>Опыт разработки под Linux и Windows</p> </li> <li> <p>Образование: техническое</p> </li> <li> <p>Иностранные языки: английский — средний, профессиональная терминология, чтение документации</p> </li> </ul> <strong>Условия:</strong> <ul> <li>Договор гражданско-правового характера — для разовых услуг</li> <li>Все нюансы обсуждаются на собеседовании</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4251612",
+    "name": "НИЦ ТСО",
+    "url": "https://api.hh.ru/employers/4251612",
+    "alternate_url": "https://hh.ru/employer/4251612",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/675588.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3143484.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3143485.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4251612",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T16:46:55+0300",
+  "created_at": "2025-06-02T16:46:55+0300",
+  "initial_created_at": "2025-06-02T16:46:55+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121239457",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121239457",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

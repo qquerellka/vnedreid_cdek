@@ -1,0 +1,141 @@
+{
+  "id": "117671291",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Сетевой администратор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "Советская улица",
+    "building": "14",
+    "lat": 55.026695,
+    "lng": 82.91795,
+    "description": null,
+    "raw": "Новосибирск, Советская улица, 14",
+    "metro": {
+      "station_name": "Площадь Ленина",
+      "line_name": "Ленинская",
+      "station_id": "52.297",
+      "line_id": "52",
+      "lat": 55.029941,
+      "lng": 82.92069
+    },
+    "metro_stations": [
+      {
+        "station_name": "Площадь Ленина",
+        "line_name": "Ленинская",
+        "station_id": "52.297",
+        "line_id": "52",
+        "lat": 55.029941,
+        "lng": 82.92069
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><em><strong>АО «Банк Акцепт»</strong> - региональный коммерческий банк, стабильно работающий на рынке банковских услуг с 1990 г, входит в ТОР-150 крупнейших банков РФ.</em></p> <p><em>Наши офисы и филиалы находятся в г. Новосибирске и Новосибирской области, г. Барнауле, г. Омске, г. Красноярске и г. Москве.<br /><br />В связи с расширением штата мы приглашаем на работу<strong> Сетевого администратора!</strong></em></p> <p><strong>Чем нужно будет заниматься:</strong></p> <div> <ul> <li>проведение аудита и модернизация сети Банка;</li> <li>создание и поддержание в актуальном состояние сетевых схем инфраструктуры Банка;</li> <li>участие в проектировании и построении новой инфраструктуры Банка: разделение на три ЦОД;</li> <li>проведение работ по созданию и поддержанию в рабочем состоянии защищенных каналов связи (С-Терра и VipNet);</li> <li>участие в работах по импортозамещению сетевого оборудования (Eltex и Континент);</li> <li>организация и обеспечение бесперебойной работы сети Банка.</li> </ul> </div> <p><strong>Вы - наш кандидат, если вы:</strong></p> <ul> <li>имеете отличные знания в области сетевой коммутации и маршрутизации: технологии VLAN, STP, VRRP/HSRP, GVRP/VTP, BGP, EIGRP;</li> <li>имеете опыт конфигурирования сетевого оборудования Eltex, Cisco, Mikrotik.</li> <li>имеете опыт настройки и работы с оборудованием &quot;Код безопасности&quot;: Континент-3, Континент-4, «Инфотекс» VipNet; С-ТЕРРА;</li> <li>имеете опыт работы с системой мониторинга Zabbix;</li> <li>имеете понимание принципов работы межсетевых экранов, опыт работы с NGFW (UserGate);</li> <li>имеете опыт работы с технической поддержкой вендоров телеком-оборудования и провайдеров;</li> <li>опыт руководителя/ тимлида команды сетевых администраторов будет вашим преимуществом.</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Трудоустройство согласно ТК РФ с первого дня работы;</li> <li>Своевременная и полностью &quot;белая&quot; заработная плата;</li> <li>Квартальное премирование;</li> <li>График работы 5/2 с 08:30 до 17:30;</li> <li>Удобный офис в самом центре города;</li> <li>ДМС со стоматологией после испытательного срока;</li> <li>Льготные условия кредитования;</li> <li>Возможность карьерного и профессионального роста.</li> </ul> <p><strong>Узнали себя? Смело откликайтесь, мы ждем именно вас!</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "112",
+      "name": "Сетевой инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "99456",
+    "name": "Банк Акцепт",
+    "url": "https://api.hh.ru/employers/99456",
+    "alternate_url": "https://hh.ru/employer/99456",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/872030.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/3928995.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3928996.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=99456",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-12T05:58:29+0300",
+  "created_at": "2025-05-12T05:58:29+0300",
+  "initial_created_at": "2025-02-25T10:38:14+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=117671291",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/117671291",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,168 @@
+{
+  "id": "121079020",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер по тестированию",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 80000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 80000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": {
+    "id": "733-733-lanit",
+    "name": "ЛАНИТ"
+  },
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Привет!</strong></p> <p><strong>Мы — Goodt, крупный российский IT-вендор с командой более 300 человек. Разрабатываем решения для управления персоналом и бизнес-аналитики. Начинали как интеграторы решений от SAP, а сейчас у нас три успешных собственных продукта, используемых в России.</strong></p> <p><strong>Разработка ведется на собственной платформе, используя Agile и low-code подходы. Мы поддерживаем открытую архитектуру данных и ценим дружелюбную атмосферу, помогая нашим новичкам расти до уровня экспертов.</strong></p> <p><strong>Наши ключевые продукты:</strong></p> <p><strong>1. VK People Talent Hub</strong> — цифровая платформа для управления талантами, созданная совместно с VK.<br /><br /><strong>2. Insight </strong>— BI-платформа с мощным конструктором дашбордов, признанная лучшей в своей категории в 2022 году.</p> <p><strong>3. Goodt WFM </strong>— решение для управления рабочей силой, которое помогает оптимизировать затраты и улучшить управление сотрудниками.</p> <p><strong>Goodt</strong> является частью группы компаний ЛАНИТ с 2018 года и сотрудничает с VK с 2022 года, что открывает новые возможности для роста и инноваций.</p> <p><strong>Кого мы ищем?</strong></p> <p>Сейчас мы в поиске Инженера по тестированию в команду WFM.</p> <p><strong>Обязанности:</strong></p> <ul> <li>Фиксация багов, контроль их исправления.</li> <li>Прохождение функциональных и регрессионных тестов.</li> <li>Написание тест-кейсов и их поддержка.</li> <li>Проведение интеграционного тестирования.</li> <li>Анализ требований к продукту.</li> <li>Решение исследовательских задач, связанных с обнаружением дефектов.</li> <li>Участие в развитии и улучшении процессов разработки.</li> <li>Контроль и маршрутизация задач в рамках одного направления (при наличии опыта).</li> <li>Написание документации по итогам прохождения тестирования.</li> <li>Обучение коллег.</li> </ul> <strong>Требования:</strong> <ul> <li>Понимание видов тестирования и их применимости, свободное владение техниками тест-дизайна.</li> <li>Опыт проведения функционального и регрессионного тестирования web от 1 года.</li> <li>Опыт работы с технической документацией.</li> <li>Опыт тестирования REST API (Postman и т.д.).</li> <li>Умение работать с БД (PostgreSQL).</li> </ul> <p><strong>Мы также приветствуем</strong></p> <ul> <li>Опыт автоматизации тестирования web-приложений и REST API.</li> <li>Базовые знания Git.</li> <li>Опыт работы с CI (Jenkins)</li> </ul> <strong>Условия:</strong> <ul> <li> <p>Мы оформляем официально и предлагаем стабильный и прозрачный доход.</p> </li> <li> <p>Все льготы и преимущества работы в аккредитованной IT-компании.</p> </li> <li> <p>Обучение: корпоративный университет, электронная библиотека, вебинары с внешними и внутренними экспертами, центр карьерного консультирования.</p> </li> <li> <p>Профильное обучение и сертификация.</p> </li> <li> <p>Сообщества: школа спикеров, дебат клуб, писатели Хабр, киберспорт.</p> </li> <li> <p>Здоровье: ДМС, включая стоматологию и страхование родственников, врач в офисе, сервис «Понимаю» (психологические и юридические консультации).</p> </li> <li> <p>Партнерские программы и скидки для сотрудников: в магазинах-партнерах, фитнес-клубах, на образовательных платформах, на досуговые мероприятия.</p> </li> <li> <p>Мы работаем в офисе или в гибридном формате, начало рабочего дня – гибкое.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Регрессионное тестирование"
+    },
+    {
+      "name": "Функциональное тестирование"
+    },
+    {
+      "name": "Техническая документация"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "Postman"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Jenkins"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "733",
+    "name": "ЛАНИТ",
+    "url": "https://api.hh.ru/employers/733",
+    "alternate_url": "https://hh.ru/employer/733",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/546470.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/2627353.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/2627354.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=733",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-28T17:41:11+0300",
+  "created_at": "2025-05-28T17:41:11+0300",
+  "initial_created_at": "2025-05-28T12:37:27+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121079020",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121079020",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

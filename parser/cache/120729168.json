@@ -1,0 +1,147 @@
+{
+  "id": "120729168",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Разработчик чат ботов для telegram",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 50000,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 50000,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "улица Василисы Кожиной",
+    "building": "13",
+    "lat": 55.736184,
+    "lng": 37.499875,
+    "description": null,
+    "raw": "Москва, улица Василисы Кожиной, 13",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <ul> <li>Разработка идей, креативов и концепций чат-ботов и мини-апов в telegram,</li> <li>Опыт разработки telegram-ботов и мини-апов(aiogram/python-telegram-bot/Telethon),</li> <li>Определение алгоритмов работы и сценариев диалогов,</li> <li>Опыт разворачивания решения на сервере (Docker, VPS, Nginx, Gunicorn/uWSGI), </li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Знание облачных сервисов и развертывание сети чат ботов,</li> <li>Знания HTML, CSS и JavaScript (ES6+).</li> <li>Понимание UI / UX принципов,</li> <li>Уверенные знания Unity и C# для разработки интерактивных интерфейсов и игровых элементов,</li> <li>Глубокое знание Telegram API для интеграции с функциями мессенджера,</li> <li>Наличие портфолио обязательно</li> </ul> <p><strong>Условия:</strong></p> <p>Крутой продукт, который мы продолжаем развивать и совершенствовать;</p> <p>Работу в условиях свободы и возможность значимо влиять на общий результат;</p> <p>Полная возможность реализовавать свои идеи и защищая их, получать на них финансирование,</p> <p>График работы 5/2 с 10/11-19/20, локация не важна, можно из офиса, можно из дома,</p> <p>Достойную фиксированную оплату, которая зависит от hard и soft skills,</p> <p>Молодой коллектив на одной волне; средний возраст команды — 28 лет</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10218806",
+    "name": "Платформа",
+    "url": "https://api.hh.ru/employers/10218806",
+    "alternate_url": "https://hh.ru/employer/10218806",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1329256.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6937042.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6937043.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10218806",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-19T19:07:36+0300",
+  "created_at": "2025-05-19T19:07:36+0300",
+  "initial_created_at": "2025-05-19T19:07:36+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120729168",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120729168",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,140 @@
+{
+  "id": "120985717",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Младший тестировщик/Junior+ QA",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": null,
+    "to": 60000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 60000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Если вы ищете возможность работать над интересными проектами, использовать современные технологии и активно развивать свои навыки, то мы ждем именно вас! В нашей компании вы сможете не только реализовать свой профессиональный потенциал, но и стать частью дружной команды единомышленников, готовых делиться опытом и поддерживать друг друга.</p> <p><strong>Чем предстоит заниматься: </strong></p> <ul> <li>Работа с операционными системами Windows и Linux.</li> <li>Обеспечение бесперебойной работы своего рабочего места.</li> <li>Проведение работ по тестированию программного обеспечения: выбор подходящих техник тестирования, анализ результатов тестирования, составление подробных отчётов.</li> <li>Сбор и анализ требований к тестируемым системам.</li> <li>Взаимодействие с коллегами отдела и сотрудниками других подразделений компании для решения задач.</li> <li>Анализ и подготовка тестовой документации, включая инструкции, памятки и другие артефакты.</li> <li>Конкретизация, описание и фиксация дефектов программного обеспечения.</li> <li>Работа с инструментами подготовки тестовых данных.</li> <li>Обработка больших объёмов информации, поиск, анализ и сопоставление данных.</li> <li>Использование специализированного ПО для тестирования.</li> <li>Проверка всех компонентов тестируемого ПО на корректное начальное состояние перед началом тестирования.</li> <li>Согласование приоритетов и порядка тестирования с руководителем.</li> <li>Анализ задач на полноту описания, тестируемость и наличие требований.</li> <li>Оповещение руководителя о возможных срывах сроков тестирования или необходимости изменений в графике.</li> <li>Регистрация дефектов в системе контроля и их дальнейший контроль.</li> <li>Оценивание и планирование временных затрат на выполнение задач.</li> </ul> <p><strong>Наши ожидания от кандидата: </strong></p> <ul> <li>Знание SQL на базовом уровне (подзапросы, условия, группировки, объединения, JOIN).</li> <li>Знание Python на базовом уровне (типы данных, функции, массивы, циклы). Умение читать и понимать чужой код.</li> <li>Понимание принципов работы REST API.</li> <li>Умение работать с инструментами для API-тестирования (Postman, Insomnia, Swagger).</li> <li>Навыки работы с DevTools браузера.</li> <li>Умение читать и понимать структуры JSON и XML.</li> <li>Понимание жизненного цикла разработки веб-приложений.</li> <li>Внимательность к деталям и мелочам.</li> <li>Стремление доводить процесс до логичного завершения и высокого качества.</li> </ul> <p><strong>Будет преимуществом: </strong></p> <ul> <li>Понимание и опыт работы с SQLAlchemy.</li> <li>Опыт написания автотестов на Python с использованием Selenium (pytest или любой другой тестовый фреймворк).</li> <li>Навыки разработки API-тестов на Python или JavaScript.</li> <li>Умение грамотно оформлять результаты проверок в различных форматах: табличный вид, текстовые отчёты, блок-схемы, видеозаписи работы с экраном, сравнительные скриншоты.</li> <li>Опыт работы с Kibana для анализа и обработки больших объёмов логов.</li> <li>Опыт использования инструментов для анализа сетевого трафика, таких как Fiddler или Charles.</li> </ul> <p><strong>Мы предлагаем: </strong></p> <ul> <li>Работу в стабильной IT-компании, аккредитованной Минцифры;</li> <li>Оформление по ТК РФ с полным социальным пакетом;</li> <li>График работы: 5/2, с 9:00 до 18:00 (по МСК);</li> <li>Удаленная работа;</li> <li>Участие в масштабных и интересных проектах;</li> <li>Возможности профессионального и личностного роста;</li> <li>Комфортные условия работы и дружный коллектив.</li> </ul>",
+  "branded_description": "\n<style>\n@charset \"UTF-8\";\n\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li em,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ol li p em,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li em,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong,\n.tmpl_hh_content ul li p em {\n    font-weight: normal;\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    display: inline;\n    margin: 0;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    font-family: \"Arial\", sans-serif;\n    color: #fff;\n    font-size: 14px;\n    line-height: 1.4;\n    overflow: hidden;\n    -webkit-font-smoothing: antialiased;\n    background-color: #191a1f;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_wrapper * {\n    -webkit-box-sizing: border-box;\n    box-sizing: border-box;\n}\n\n.tmpl_hh_wrapper [role=button] {\n    outline: none;\n}\n\n.tmpl_hh_head {\n    padding: 45px 52px;\n    background-repeat: no-repeat;\n    background-size: 690px auto;\n    background-position: right 0 top 0;\n    background-image: url(\"https://hhcdn.ru/ichameleon/403883.jpg\");\n}\n\n.tmpl_hh_head__logo {\n    width: 293px;\n    margin-bottom: 155px;\n}\n\n.tmpl_hh_head__logo img {\n    display: block;\n    width: 100%;\n    height: auto;\n}\n\n.tmpl_hh_head__title {\n    width: 377px;\n    margin-left: -1px;\n    margin-bottom: 40px;\n}\n\n.tmpl_hh_head__title img {\n    display: block;\n    width: 100%;\n    height: auto;\n}\n\n.tmpl_hh_head__text {\n    margin-left: -1px;\n    font-size: 16px;\n}\n\n.tmpl_hh_footer {\n    position: relative;\n    padding: 10px 24px 64px 22px;\n    background-repeat: no-repeat;\n    background-size: 100% auto;\n    background-position: right 0 bottom 0;\n    background-image: url(\"https://hhcdn.ru/ichameleon/403876.jpg\");\n}\n\n.tmpl_hh_footer::before {\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n    opacity: 0.2;\n    background-image: -webkit-gradient(linear, left top, left bottom, from(transparent), to(#0000bb));\n    background-image: -webkit-linear-gradient(top, transparent 0%, #0000bb 100%);\n    background-image: -o-linear-gradient(top, transparent 0%, #0000bb 100%);\n    background-image: linear-gradient(180deg, transparent 0%, #0000bb 100%);\n}\n\n.tmpl_hh_footer__title {\n    position: relative;\n    z-index: 1;\n    width: 510px;\n    margin-left: 28px;\n    margin-bottom: 41px;\n}\n\n.tmpl_hh_footer__title img {\n    display: block;\n    width: 100%;\n    height: auto;\n}\n\n.tmpl_hh_footer__grid {\n    position: relative;\n    z-index: 1;\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n    -webkit-box-align: stretch;\n    -ms-flex-align: stretch;\n    align-items: stretch;\n    -webkit-box-pack: start;\n    -ms-flex-pack: start;\n    justify-content: flex-start;\n    gap: 11px;\n    -webkit-box-sizing: border-box;\n    box-sizing: border-box;\n}\n\n.tmpl_hh_footer__item {\n    width: calc(33.33% - 8px);\n    padding: 15px;\n    border-radius: 15px;\n    background-color: rgba(0, 0, 187, 0.9);\n    text-align: center;\n}\n\n.tmpl_hh_footer__item::before {\n    content: \"\";\n    display: block;\n    width: 45px;\n    height: 45px;\n    margin: 0 auto 21px;\n    background-repeat: no-repeat;\n    background-size: 100% auto;\n}\n\n.tmpl_hh_footer__item--a::before {\n    background-image: url(\"https://hhcdn.ru/ichameleon/403877.png\");\n}\n\n.tmpl_hh_footer__item--b::before {\n    background-image: url(\"https://hhcdn.ru/ichameleon/403878.png\");\n}\n\n.tmpl_hh_footer__item--c::before {\n    background-image: url(\"https://hhcdn.ru/ichameleon/403879.png\");\n}\n\n.tmpl_hh_footer__item--d::before {\n    background-image: url(\"https://hhcdn.ru/ichameleon/403880.png\");\n}\n\n.tmpl_hh_footer__item--e::before {\n    background-image: url(\"https://hhcdn.ru/ichameleon/403881.png\");\n}\n\n.tmpl_hh_footer__item--f::before {\n    background-image: url(\"https://hhcdn.ru/ichameleon/403882.png\");\n}\n\n.tmpl_hh_footer__item-text {\n    font-size: 16px;\n    line-height: 1;\n    text-align: center;\n}\n\n.tmpl_hh_content {\n    padding: 30px 50px;\n    letter-spacing: 0.03em;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    margin: 30px 0 8px;\n}\n\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    display: inline-block;\n    font-weight: bold;\n}\n\n.tmpl_hh_content p>b,\n.tmpl_hh_content p>strong {\n    font-weight: 700;\n    font-size: 20px;\n    line-height: 23px;\n    letter-spacing: 0;\n}\n\n.tmpl_hh_content p>b>i,\n.tmpl_hh_content p>b>em,\n.tmpl_hh_content p>i>b,\n.tmpl_hh_content p>em>b,\n.tmpl_hh_content p>strong>i,\n.tmpl_hh_content p>strong>em,\n.tmpl_hh_content p>i>strong,\n.tmpl_hh_content p>em>strong {\n    font-size: 14px;\n    font-weight: 400;\n    font-style: normal;\n}\n\n.tmpl_hh_content p+ul,\n.tmpl_hh_content p+ol {\n    margin-top: 17px;\n}\n\n.tmpl_hh_content ol+p,\n.tmpl_hh_content ul+p {\n    margin-top: 39px;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 14px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    display: block;\n}\n\n.tmpl_hh_content li+li {\n    margin-top: 10.5px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 10px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;\n}\n\n.tmpl_hh_content li:before {\n    content: \"\";\n    position: absolute;\n    left: -14px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"•\";\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter) \".\";\n}\n\n@media (max-width: 699px) {\n    .tmpl_hh_wrapper {\n        width: calc(100% + 30px);\n        margin-left: -15px;\n        padding: 0 15px;\n        -webkit-box-sizing: border-box;\n        box-sizing: border-box;\n    }\n\n    .tmpl_hh_head {\n        width: calc(100% + 30px);\n        margin-left: -15px;\n        padding: 48px 15px;\n        background-size: 100% auto;\n        background-position: right 0 bottom 0;\n    }\n\n    .tmpl_hh_head__logo {\n        width: 231px;\n        margin-bottom: 117px;\n    }\n\n    .tmpl_hh_head__title {\n        width: 259px;\n        margin-left: 0;\n        margin-bottom: 26px;\n    }\n\n    .tmpl_hh_head__text {\n        max-width: 80%;\n        font-size: 14px;\n    }\n\n    .tmpl_hh_footer {\n        width: calc(100% + 30px);\n        margin-left: -15px;\n        padding: 10px 15px 19px;\n    }\n\n    .tmpl_hh_footer__title {\n        width: 268px;\n        margin-left: 0;\n        margin-bottom: 24px;\n    }\n\n    .tmpl_hh_footer__grid {\n        -webkit-column-gap: 8px;\n        -moz-column-gap: 8px;\n        column-gap: 8px;\n        row-gap: 12px;\n    }\n\n    .tmpl_hh_footer__item {\n        width: calc(50% - 4px);\n        padding-left: 32px;\n        padding-right: 32px;\n    }\n\n    .tmpl_hh_footer__item::before {\n        margin-bottom: 8px;\n    }\n\n    .tmpl_hh_footer__item-text {\n        font-size: 12px;\n        line-height: 1.2;\n    }\n\n    .tmpl_hh_content {\n        padding: 28px 0;\n    }\n\n    .tmpl_hh_content p>b,\n    .tmpl_hh_content p>strong {\n        font-size: 18px;\n        line-height: 21px;\n        /* Inside auto layout */\n        -webkit-box-flex: 0;\n        -ms-flex: none;\n        flex: none;\n        -webkit-box-ordinal-group: 1;\n        -ms-flex-order: 0;\n        order: 0;\n        -ms-flex-positive: 0;\n        flex-grow: 0;\n    }\n\n    .tmpl_hh_content ol+p,\n    .tmpl_hh_content ul+p {\n        margin-top: 32px;\n    }\n}\n\n@media screen and (max-width: 575px) {\n    .tmpl_hh_head {\n        background-position: right 0 top 0;\n    }\n}\n\n@media screen and (max-width: 414px) {\n    .tmpl_hh_head {\n        padding-top: 32px;\n        padding-bottom: 20px;\n        background-image: url(\"https://hhcdn.ru/ichameleon/403884.jpg\");\n    }\n}\n\n@media screen and (max-width: 360px) {\n    .tmpl_hh_head__text {\n        max-width: 90%;\n    }\n}\n</style>\n\n<script>\n//\nfunction DOM_HH_Ready() {}\n\nif (document.readyState === \"loading\") {\n    document.addEventListener(\"DOMContentLoaded\", DOM_HH_Ready);\n} else {\n    DOM_HH_Ready();\n}\n//\n</script>\n\n\n    <div class=\"tmpl_hh_wrapper\">\n        <div class=\"tmpl_hh_head\">\n            <div class=\"tmpl_hh_head__logo\">\n                <img src=\"https://hhcdn.ru/ichameleon/403872.png\" width=\"293\" height=\"45\" alt=\"\">\n            </div>\n            <div class=\"tmpl_hh_head__title\">\n                <img src=\"https://hhcdn.ru/ichameleon/403873.svg\" width=\"377\" height=\"73\" alt=\"\">\n            </div>\n            <div class=\"tmpl_hh_head__text\">\n                Компания АО РУТ КОД – аккредитованная IT компания.<br>\n            </div>\n        </div>\n        <div class=\"tmpl_hh_content\">\n        <p>Если вы ищете возможность работать над интересными проектами, использовать современные технологии и активно развивать свои навыки, то мы ждем именно вас! В нашей компании вы сможете не только реализовать свой профессиональный потенциал, но и стать частью дружной команды единомышленников, готовых делиться опытом и поддерживать друг друга.</p> <p><strong>Чем предстоит заниматься: </strong></p> <ul> <li>Работа с операционными системами Windows и Linux.</li> <li>Обеспечение бесперебойной работы своего рабочего места.</li> <li>Проведение работ по тестированию программного обеспечения: выбор подходящих техник тестирования, анализ результатов тестирования, составление подробных отчётов.</li> <li>Сбор и анализ требований к тестируемым системам.</li> <li>Взаимодействие с коллегами отдела и сотрудниками других подразделений компании для решения задач.</li> <li>Анализ и подготовка тестовой документации, включая инструкции, памятки и другие артефакты.</li> <li>Конкретизация, описание и фиксация дефектов программного обеспечения.</li> <li>Работа с инструментами подготовки тестовых данных.</li> <li>Обработка больших объёмов информации, поиск, анализ и сопоставление данных.</li> <li>Использование специализированного ПО для тестирования.</li> <li>Проверка всех компонентов тестируемого ПО на корректное начальное состояние перед началом тестирования.</li> <li>Согласование приоритетов и порядка тестирования с руководителем.</li> <li>Анализ задач на полноту описания, тестируемость и наличие требований.</li> <li>Оповещение руководителя о возможных срывах сроков тестирования или необходимости изменений в графике.</li> <li>Регистрация дефектов в системе контроля и их дальнейший контроль.</li> <li>Оценивание и планирование временных затрат на выполнение задач.</li> </ul> <p><strong>Наши ожидания от кандидата: </strong></p> <ul> <li>Знание SQL на базовом уровне (подзапросы, условия, группировки, объединения, JOIN).</li> <li>Знание Python на базовом уровне (типы данных, функции, массивы, циклы). Умение читать и понимать чужой код.</li> <li>Понимание принципов работы REST API.</li> <li>Умение работать с инструментами для API-тестирования (Postman, Insomnia, Swagger).</li> <li>Навыки работы с DevTools браузера.</li> <li>Умение читать и понимать структуры JSON и XML.</li> <li>Понимание жизненного цикла разработки веб-приложений.</li> <li>Внимательность к деталям и мелочам.</li> <li>Стремление доводить процесс до логичного завершения и высокого качества.</li> </ul> <p><strong>Будет преимуществом: </strong></p> <ul> <li>Понимание и опыт работы с SQLAlchemy.</li> <li>Опыт написания автотестов на Python с использованием Selenium (pytest или любой другой тестовый фреймворк).</li> <li>Навыки разработки API-тестов на Python или JavaScript.</li> <li>Умение грамотно оформлять результаты проверок в различных форматах: табличный вид, текстовые отчёты, блок-схемы, видеозаписи работы с экраном, сравнительные скриншоты.</li> <li>Опыт работы с Kibana для анализа и обработки больших объёмов логов.</li> <li>Опыт использования инструментов для анализа сетевого трафика, таких как Fiddler или Charles.</li> </ul> <p><strong>Мы предлагаем: </strong></p> <ul> <li>Работу в стабильной IT-компании, аккредитованной Минцифры;</li> <li>Оформление по ТК РФ с полным социальным пакетом;</li> <li>График работы: 5/2, с 9:00 до 18:00 (по МСК);</li> <li>Удаленная работа;</li> <li>Участие в масштабных и интересных проектах;</li> <li>Возможности профессионального и личностного роста;</li> <li>Комфортные условия работы и дружный коллектив.</li> </ul><p>\n                Уважаемый, коллега!<br>\n                В сопроводительном письме просьба указывать зарплатные ожидания.<br>\n                Заранее благодарим!\n            </p>\n    </div>\n        <div class=\"tmpl_hh_footer\">\n            <div class=\"tmpl_hh_footer__title\">\n                <picture>\n                    <source media=\"(max-width: 699px)\" srcset=\"https://hhcdn.ru/ichameleon/403874.svg\"></source>\n                    <img src=\"https://hhcdn.ru/ichameleon/403875.svg\" alt=\"\">\n                </picture>\n            </div>\n            <div class=\"tmpl_hh_footer__grid\">\n                <div class=\"tmpl_hh_footer__item tmpl_hh_footer__item--a\">\n                    <div class=\"tmpl_hh_footer__item-text\">Карьерный рост</div>\n                </div>\n                <div class=\"tmpl_hh_footer__item tmpl_hh_footer__item--b\">\n                    <div class=\"tmpl_hh_footer__item-text\">Гибкий график</div>\n                </div>\n                <div class=\"tmpl_hh_footer__item tmpl_hh_footer__item--c\">\n                    <div class=\"tmpl_hh_footer__item-text\">Достойная зарплата</div>\n                </div>\n                <div class=\"tmpl_hh_footer__item tmpl_hh_footer__item--d\">\n                    <div class=\"tmpl_hh_footer__item-text\">Дружный коллектив</div>\n                </div>\n                <div class=\"tmpl_hh_footer__item tmpl_hh_footer__item--e\">\n                    <div class=\"tmpl_hh_footer__item-text\">Крупные проекты</div>\n                </div>\n                <div class=\"tmpl_hh_footer__item tmpl_hh_footer__item--f\">\n                    <div class=\"tmpl_hh_footer__item-text\">Обмен опытом</div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "REST API"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "8642172",
+    "name": "РУТ КОД",
+    "url": "https://api.hh.ru/employers/8642172",
+    "alternate_url": "https://hh.ru/employer/8642172",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1401406.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7225395.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7225396.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=8642172",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-26T15:11:08+0300",
+  "created_at": "2025-05-26T15:11:08+0300",
+  "initial_created_at": "2025-05-26T15:11:08+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120985717",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120985717",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

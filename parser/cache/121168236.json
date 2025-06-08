@@ -1,0 +1,162 @@
+{
+  "id": "121168236",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Backend-разработчик (Python)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Новослободская улица",
+    "building": null,
+    "lat": 55.785787,
+    "lng": 37.594917,
+    "description": null,
+    "raw": "Москва, Новослободская улица",
+    "metro": {
+      "station_name": "Менделеевская",
+      "line_name": "Серпуховско-Тимирязевская",
+      "station_id": "9.83",
+      "line_id": "9",
+      "lat": 55.781999,
+      "lng": 37.599141
+    },
+    "metro_stations": [
+      {
+        "station_name": "Менделеевская",
+        "line_name": "Серпуховско-Тимирязевская",
+        "station_id": "9.83",
+        "line_id": "9",
+        "lat": 55.781999,
+        "lng": 37.599141
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Мы — современное предприятие, специализирующееся на разработке и выпуске <strong>электронной техники и компонентов</strong>. Наша продукция включает: печатные платы, электронные модули, промышленную электронику и т.д..</p> <p>В настоящее время мы расширяем команду инженеров-разработчиков и программистов и приглашаем <em><strong>Backend-разработчик (Python)</strong></em></p> <p><em><strong>Чем предстоит заниматься:</strong></em></p> <ul> <li>Разработка и поддержка серверной части системы (обработка видеопотока);</li> <li>Построение REST API и WebSocket потоков для веб-интерфейса;</li> <li>Выбор, обучение и сравнение OCR-моделей, интеграция лучшего решения;</li> <li>Оптимизация производительности сервера и OCR-модуля;</li> <li>Поддержка контейнерной инфраструктуры, участие в CI/CD</li> </ul> <p><strong><em>Наши ожидания от кандидата:</em></strong></p> <ul> <li>Опыт коммерческой разработки на Python от 2 лет;</li> <li>Уверенное владение FastAPI и/или aiohttp, знание асинхронного программирования;</li> <li>Понимание клиент-серверной архитектуры: REST, WebSocket, работа с очередями (Redis, Kafka);</li> <li>Умение проектировать API;</li> <li>Опыт работы с OCR-инструментами: Tesseract, EasyOCR, PaddleOCR и др.;</li> <li>Умение обучать или дообучать OCR-модели, собирать и размечать датасеты;</li> <li>Знание библиотек: PyTorch / TensorFlow / OpenCV / geopy / httpx / pydantic;</li> <li>Опыт работы с видеопотоками (RTSP, кадрирование, FFmpeg или GStreamer);</li> <li>Понимание устройства GPU-инференса, работы с CUDA;</li> <li>Навыки оптимизации кода и инференса под реальное время;</li> <li>Умение работать с Docker, Git, CI/CD;</li> <li>Опыт логирования, отладки, мониторинга</li> </ul> <ul> </ul> <p><em><strong>Условия работы:</strong></em></p> <ul> <li>Конкурентная ЗП (утверждается по результатам собеседования с успешным кандидатом);</li> <li>Бесплатные обеды для сотрудников</li> <li>Офис в центре Москвы (недалеко от м. Менделеевская);</li> <li>Высокая степень самостоятельности и отсутствие бюрократии;</li> <li>Технически продвинутое руководство</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "FastAPI"
+    },
+    {
+      "name": "Асинхронное программирование"
+    },
+    {
+      "name": "REST"
+    },
+    {
+      "name": "WebSocket"
+    },
+    {
+      "name": "OCR-модели"
+    },
+    {
+      "name": "Работа с видеопотоками"
+    },
+    {
+      "name": "Оптимизация кода"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Git"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1469164",
+    "name": "Крафттех",
+    "url": "https://api.hh.ru/employers/1469164",
+    "alternate_url": "https://hh.ru/employer/1469164",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1469164",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T13:25:54+0300",
+  "created_at": "2025-06-05T13:25:54+0300",
+  "initial_created_at": "2025-05-30T13:25:54+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121168236",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121168236",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

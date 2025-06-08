@@ -1,0 +1,123 @@
+{
+  "id": "120422907",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист технической поддержки / программист junior",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>Техническая поддержка продукта</li> <li>Настройка Битрикс24 , с пониманием ИИ технологий</li> <li>Решение проблем клиента</li> <li>Помощь клиентам с настройкой интеграции</li> <li>Настройка ПО, оборудования, техническая поддержка</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>SQL – написание запросов простых и средней сложности;</li> <li>Коммуникабельность, логическое мышление, точность.</li> <li> <p>Способность быстро разобраться в нештатных ситуациях, связанных с работой ПО и оборудования.</p> </li> <li> <p>Стрессоустойчивость.</p> </li> <li> <p>Коммуникабельность.</p> </li> <li> <p>Английский.</p> </li> <li> <p>Ответственность.</p> </li> <li> <p>Желательно техническое образование и опыт работы в технической поддержке.</p> </li> <li> <p>Желательны начальные знания программирования.</p> </li> </ul> <strong>Условия:</strong> <ul> <li> <p>Начальное обучение.</p> </li> <li> <p>Оформление по ТК</p> </li> <li>График обсуждаем</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Английский язык"
+    },
+    {
+      "name": "интеграции"
+    },
+    {
+      "name": "Грамотная речь"
+    },
+    {
+      "name": "Битрикс24"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2526975",
+    "name": "СДЭК",
+    "url": "https://api.hh.ru/employers/2526975",
+    "alternate_url": "https://hh.ru/employer/2526975",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1245218.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6601301.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6601302.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2526975",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-12T15:56:16+0300",
+  "created_at": "2025-05-12T15:56:16+0300",
+  "initial_created_at": "2025-05-12T15:56:16+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120422907",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120422907",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,180 @@
+{
+  "id": "121124985",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Веб-мастер/Веб-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 80000,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 80000,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "шоссе Энтузиастов",
+    "building": "9",
+    "lat": 55.751072,
+    "lng": 37.711824,
+    "description": null,
+    "raw": "Москва, шоссе Энтузиастов, 9",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Компания ООО Джаз Телеком ищет сотрудника для работы с веб-ресурсами компании</p> <p><strong>Обязанности:</strong></p> <p>• Работа по развитию функционала существующих сайтов компании<br />• Участие в доработке редизайне существующих сайтов компании<br />• Доработка сайтов компании под современные стандарты верстки<br />• Кинороль безопасности и защиты ресурсов<br />• Развертывание новых сайтов компании (OpenCart, WordPress)<br />• Проработка и исправление ошибок влияющих на качество поиска. Поисковая оптимизация.</p> <p><strong>Требования:</strong><br />• Базовые знания HTML/HTML5, CSS/CSS3, SCSS, JavaScript/jQuery, PHP, MySQL<br />• Понимание принципов адаптивной и кроссбраузерной верстки<br />• Основы UX/UI дизайна<br />• Владением современными фреймворками и инструментами разработки<br />• Опыт разработки сайтов на CMS OpenCart и WordPress (Elementor, WooCommerce)<br />• Понимание принципов поисковой оптимизации<br />• Базовые навыки по работе с графикой (Photoshop, Figma)</p> <p><strong>Условия:</strong><br />Официальное трудоустройство<br />Оклад от 80000 руб. Окончательный оклад зависит от опыта сотрудника<br />График работы 5/2 с 09:00 до 17:30. Возможна удаленная работа<br />Работа в небольшом дружном коллективе</p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "jQuery"
+    },
+    {
+      "name": "Wordpress"
+    },
+    {
+      "name": "CSS3"
+    },
+    {
+      "name": "HTML5"
+    },
+    {
+      "name": "Кроссбраузерная верстка"
+    },
+    {
+      "name": "Верстка сайтов"
+    },
+    {
+      "name": "Веб-дизайн"
+    },
+    {
+      "name": "Bootstrap"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "968434",
+    "name": "Джаз Телеком",
+    "url": "https://api.hh.ru/employers/968434",
+    "alternate_url": "https://hh.ru/employer/968434",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1410471.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7261544.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7261545.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=968434",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T12:58:37+0300",
+  "created_at": "2025-06-07T12:58:37+0300",
+  "initial_created_at": "2025-05-29T12:58:37+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121124985",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121124985",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

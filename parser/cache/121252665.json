@@ -1,0 +1,129 @@
+{
+  "id": "121252665",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Junior Unity-разработчик (Android, iOS, Web)",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 40000,
+    "to": 60000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 40000,
+    "to": 60000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Вас приветствует наша команда!</strong></p> <p>В рамках расширения студии мы ищем Unity-разработчика уровня <strong>Junior</strong> для создания проектов на платформы <strong>Android, iOS и Web</strong></p> <p><strong>Наши ожидания: </strong><br />- Уверенное владение Unity и C#<br />- Опыт в написании алгоритмов<br />- Умение создавать адаптивный UI к разным разрешениям<br />- Наличие проектов на Unity в портфолио<br />- Опыт работы с системой контроля версий Git<br />- Умение разбираться в чужом коде<br /><br /><strong>Будет плюсом: </strong><br />- Опыт работы с WebGL в Unity<br />- Опыт работы со Spine-анимацией в Unity<br />- Опыт работы с DOTween в Unity<br />- Опыт работы с нейросетями при написании кода<br /><br /><strong>Условия:</strong><br />- Удаленная работа<br />- 8-ми часовой рабочий день<br />- Полная занятость с графиком 5/2<br />- Размер заработной платы по итогам собеседования<br />- Карьерный рост с повышением зарплаты</p> <p><br /><strong>Ждем ваших откликов!</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Unity"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11847913",
+    "name": "Власов Сергей Сергеевич",
+    "url": "https://api.hh.ru/employers/11847913",
+    "alternate_url": "https://hh.ru/employer/11847913",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11847913",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T18:29:21+0300",
+  "created_at": "2025-06-02T18:29:21+0300",
+  "initial_created_at": "2025-06-02T18:29:21+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121252665",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121252665",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "id": "69296994",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Программист (разработчик коннекторов SIEM)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Datagile - </strong>продуктовая компания. Основное наше направление - это разработка продуктов в сфере информационной безопасности, автоматизации и баз данных.<br /><br />Мы разрабатываем систему Ankey SIEM с 2018 года для централизованного управления безопасностью, событиями и информацией, которая эффективно и оперативно решает задачу выявления атак и инцидентов, анализирует и управляет событиями информационной безопасности всей IT-инфраструктуры. Команда за это время довольно сильно разрослась с 6 до 30+ человек.<br /><br />Направление SIEM позволяет поработать с различными решениями, что позволяет <strong>развиваться профессионально в направлении ИБ.</strong> Сейчас в продукте поддерживается порядка 200 различных источников событий.</p> <p><strong>Задачи:</strong></p> <ul> <li>Разрабатывать механизмы обработки событий (нормализация, локализация, обогащение) на фреймворке SIEM под различные конечные устройства</li> <li>Тестировать и отлаживать подготовленные механизмы обработки событий на фреймворке SIEM</li> <li>Поддерживать в актуальном состоянии библиотеки механизмов обработки событий (актуализация под требования Заказчика)</li> </ul> <p><strong>Для нас важно:</strong></p> <ul> <li>Опыт разработки на любых скриптовых языках программирования (Bash, PowerShell, Python, Curl и пр.), <strong>Python в приоритете</strong></li> <li>Навыки работы с языком SQL</li> <li>Опыт работы с Git</li> <li>Понимание ИТ-технологий</li> <li>Навыки администрирования ОС (Windows, Unix), <strong>Unix в проритете</strong></li> </ul> <p><em>Будет плюсом:</em></p> <ul> <li>Понимание SIEM</li> <li>Знания регулярных выражений (REGEX)</li> <li>Навыки парсинга событий/данных</li> <li>Навыки работы с логами (журналами событий)</li> </ul> <p><strong>Работа в Datagile это:<br /><br />Развитие:</strong> Наставничество, работа в команде экспертов, внешнее обучение и профессиональные конференции за счет компании, компенсация занятий иностранным языком;<br /><br /><strong>Работа с комфортом:</strong> формат на выбор - удаленно из любой точки, офис, гибрид. Гибкое начало рабочего дня (обязательные часы присутствия с 11-16 по МСК), техника для работы;<br /><br /><strong>Забота о здоровье: </strong>ДМС с психологом, офисный врач, компенсация занятий спортом, хобби или любых других увлечений, зона отдыха в офисе (чай/кофе/печеньки);<br /><br /><strong>Забота о близких:</strong> Подарки детям на праздники, дотации на приобретение детских путевок в лагерь, материальная поддержка в важные периоды жизни;<br /><br /><strong>Для общения:</strong> Корпоративные мероприятия, сквош, футбол, настольные игры в офисе;<br /><br /><strong>Стабильность:</strong> Аккредитованная ИТ компания, официальное трудоустройство по ТК РФ, ежеквартальные премии, работа над масштабными проектами.</p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Unix"
+    },
+    {
+      "name": "Python"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5756945",
+    "name": "Датаджайл",
+    "url": "https://api.hh.ru/employers/5756945",
+    "alternate_url": "https://hh.ru/employer/5756945",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/917111.png",
+      "90": "https://img.hhcdn.ru/employer-logo/4109123.png",
+      "240": "https://img.hhcdn.ru/employer-logo/4109124.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5756945",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T14:17:19+0300",
+  "created_at": "2025-06-02T14:17:19+0300",
+  "initial_created_at": "2022-08-30T11:54:29+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=69296994",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/69296994",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

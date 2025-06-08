@@ -1,0 +1,146 @@
+{
+  "id": "120536282",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 40000,
+    "to": 70000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 40000,
+    "to": 70000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "улица Титова",
+    "building": "18",
+    "lat": 54.983308,
+    "lng": 82.878424,
+    "description": null,
+    "raw": "Новосибирск, улица Титова, 18",
+    "metro": {
+      "station_name": "Площадь Маркса",
+      "line_name": "Ленинская",
+      "station_id": "52.301",
+      "line_id": "52",
+      "lat": 54.982931,
+      "lng": 82.89313
+    },
+    "metro_stations": [
+      {
+        "station_name": "Площадь Маркса",
+        "line_name": "Ленинская",
+        "station_id": "52.301",
+        "line_id": "52",
+        "lat": 54.982931,
+        "lng": 82.89313
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <p>Устанавливает на серверы и рабочие станции системное и прикладное программное обеспечение, производит их настройку в соответствии с задачами, выполняемыми в медицинской организации.</p> <p>Поддерживает рабочее состояние программного обеспечения серверов и рабочих станций, производит своевременную установку обновлений системного программного обеспечения для устранения угроз информационной безопасности.</p> <p>Выполняет профилактическое обслуживание серверов и рабочих станций.</p> <p>Обеспечивает бесперебойную работу специализированных устройств, подключенных к локальной сети и обслуживаемых отделом.</p> <p>Принимает из сервисного центра и отправляет в ремонт устройств передачи и устройств вывода данных (МФУ, принтеров и сканеров).</p> <p>Выполняет функции администратора интернет - серверов, файловых, почтовых, веб –серверов.</p> <p>Организует подключение серверов, рабочих станций и устройств обработки, устройств передачи и устройств вывода данных к локальной сети. Выполняет настройку системного программного обеспечения для корректной работы подключенных устройств в локальной сети и сети интернет.</p> <strong>Требования:</strong> <p>высшее техническое образование (возможно также студенты последних курсов технического направления);</p> <p>опыт системного администрирования;</p> <p>знания (ОС АЛЬТ 8 СП) на уровне администратора (установка, настройка, архитектура, модель разделения прав доступа, работа сетевых служб и т.п.);</p> <p>знания и опыт работы в отечественных операционных системах.</p> <strong>Условия:</strong> <p>работа в надежном учреждении со стабильной историей развития;</p> <p>возможность карьерного роста и профессионального развития;</p> <p>официальное трудоустройство, полный соц.пакет согласно ТК РФ;</p> <p>прозрачная система оплаты, заработная плата &quot;вся белая&quot;, всегда вовремя;</p> <p>пятидневная рабочая неделя с 9.00 до 18.00; выходные: суббота, воскресенье;</p> <p>приятный коллектив и комфортная атмосфера.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1965837",
+    "name": "ГБУЗ Новосибирской области Городская клиническая больница № 34",
+    "url": "https://api.hh.ru/employers/1965837",
+    "alternate_url": "https://hh.ru/employer/1965837",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1965837",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-14T14:04:31+0300",
+  "created_at": "2025-05-14T14:04:31+0300",
+  "initial_created_at": "2025-05-14T14:04:31+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120536282",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120536282",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

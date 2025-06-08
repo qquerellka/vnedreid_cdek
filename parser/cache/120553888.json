@@ -1,0 +1,163 @@
+{
+  "id": "120553888",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Аналитик по жилой недвижимости",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 90000,
+    "to": 140000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 90000,
+    "to": 140000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Мамоновский переулок",
+    "building": "4 стр.1",
+    "lat": 55.765858,
+    "lng": 37.598214,
+    "description": null,
+    "raw": "Москва, Мамоновский переулок, 4 стр.1",
+    "metro": {
+      "station_name": "Тверская",
+      "line_name": "Замоскворецкая",
+      "station_id": "2.122",
+      "line_id": "2",
+      "lat": 55.765343,
+      "lng": 37.603918
+    },
+    "metro_stations": [
+      {
+        "station_name": "Тверская",
+        "line_name": "Замоскворецкая",
+        "station_id": "2.122",
+        "line_id": "2",
+        "lat": 55.765343,
+        "lng": 37.603918
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p> </p> <p>Приглашаем аналитика по недвижимости. Регулярные обзоры рынка и анализ тенденций . Сбор и обработка данных.Перед вами открывается возможность возглавить направление деятельности одной из старейших риэлторских компаний по элитной недвижимости. ЗП 90000-140000 . Карьерный рост и служебный / оплачиваемый транспорт. Если ваши профессиональные достижения подходят под наши требования, добро пожаловать в команду или ,скорее, в дружную семью Delight realty.</p> <p>Задачи и Обязанности:</p> <p><br />Регулярные обзоры рынка продажи и аренды</p> <p>Выявление и анализ тенденций рынка исходя из рабочего процесса компании</p> <p>Обработка информации из от крытых источников для коммерческих рассылок</p> <p>Публикации материалов на сайте ,в телеграмм-канале, в СМИ</p> <p>Написание статей, различных видов аналитических текстов !<br /></p> <p>Требования:</p> <p>Знание рынка новостроек Москвы и МО</p> <p>Знания инструментов и источников получения информации</p> <p>Знание рынка недвижимости ,потребностей его участников.</p> <p>Умение получать и обрабатывать информацию из открытых источников</p> <p><br /><br />Условия:</p> <p>Дружный, профессиональный коллектив<br /><br />Рабочее место в офисе (Патриаршие пруды)</p> <p>Если вы дочитали обязанности до конца, начните пожалуйста сопроводительное письмо со слов : &quot;Всякий, да печет по праздникам пироги..&quot;</p> <p>Да, и не забываем про сопроводительное письмо. Без него резюме не рассматриваются.</p> <p>С уважением</p> <p>Delight realty</p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "social blade, Google allerts,Rorsters,Журналистика, Телеграмм каналы, Контент-маркетинг,Недвижимость"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "10",
+      "name": "Аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2237",
+    "name": "Delight Realty",
+    "url": "https://api.hh.ru/employers/2237",
+    "alternate_url": "https://hh.ru/employer/2237",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/232485.gif",
+      "90": "https://img.hhcdn.ru/employer-logo/309359.png",
+      "240": "https://img.hhcdn.ru/employer-logo/382216.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2237",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-14T17:47:50+0300",
+  "created_at": "2025-05-14T17:47:50+0300",
+  "initial_created_at": "2025-05-14T17:47:50+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120553888",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120553888",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

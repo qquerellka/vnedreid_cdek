@@ -1,0 +1,167 @@
+{
+  "id": "114838902",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 180000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 180000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "шоссе Революции",
+    "building": "3к1",
+    "lat": 59.95866,
+    "lng": 30.408637,
+    "description": null,
+    "raw": "Санкт-Петербург, шоссе Революции, 3к1",
+    "metro": {
+      "station_name": "Новочеркасская",
+      "line_name": "Лахтинско-Правобережная",
+      "station_id": "17.241",
+      "line_id": "17",
+      "lat": 59.929092,
+      "lng": 30.411915
+    },
+    "metro_stations": [
+      {
+        "station_name": "Новочеркасская",
+        "line_name": "Лахтинско-Правобережная",
+        "station_id": "17.241",
+        "line_id": "17",
+        "lat": 59.929092,
+        "lng": 30.411915
+      },
+      {
+        "station_name": "Площадь Ленина",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.197",
+        "line_id": "14",
+        "lat": 59.955611,
+        "lng": 30.35605
+      },
+      {
+        "station_name": "Чернышевская",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.198",
+        "line_id": "14",
+        "lat": 59.94453,
+        "lng": 30.359919
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <ul> <li>Приём и первичная обработка обращений от пользователей;</li> <li>Методические и технические консультации пользователей и написание пользовательских инструкций по работе программ на базе платформы 1С;</li> <li>Решение типовых проблем, не требующих внесения изменений в конфигурации 1С;</li> <li>Делегирование обращений на вторую линию и контроль сроков исполнения;</li> <li>Наполнение базы знаний и решений;</li> <li>Приемка и тестирование выполненных разработчиками задач</li> </ul> <p><strong>Требования:</strong></p> <ul> <li> <p>Хорошее знание конфигураций 1С:Бухгалтерия и 1С:ЗУП на пользовательском уровне c опытом работы не менее 2х лет;</p> </li> <li>Знание основ бухгалтерского и управленческого учета;</li> <li>Уверенные знания методов работы с обычными и управляемыми формами, возможностей настроек отчетов на основе СКД;</li> <li>Опыт работы с нетиповыми конфигурациями 1С;</li> <li>Коммуникабельность, аналитический склад ума, умение работать с людьми, стрессоустойчивость;</li> <li>Опыт работы с 1С:ERP будет преимуществом.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>​Работа в крупной, стабильной компании;</li> <li>Оформление полностью в соответствии с ТК РФ с первого дня работы;</li> <li>Рабочий день Пн-Чт 09.30-18.00, Пт. 09.30-17.00;</li> <li>Комфортабельный БЦ Леон;</li> <li>Чай, кофе за счет компании;</li> <li>Территориально м. Пл.Ленина / м. Новочеркасская, легкая транспортная доступность</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4790566",
+    "name": "Группа Компаний Монолит",
+    "url": "https://api.hh.ru/employers/4790566",
+    "alternate_url": "https://hh.ru/employer/4790566",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1386638.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7166339.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7166340.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4790566",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-24T17:09:47+0300",
+  "created_at": "2025-05-24T17:09:47+0300",
+  "initial_created_at": "2024-12-25T17:09:42+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=114838902",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/114838902",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_9",
+      "name": "9 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

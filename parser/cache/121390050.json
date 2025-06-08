@@ -1,0 +1,153 @@
+{
+  "id": "121390050",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Рython разработчик биржевых алгоритмов",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 60000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 60000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Уфа",
+    "street": "проспект Октября",
+    "building": "56",
+    "lat": 54.756194,
+    "lng": 56.00641,
+    "description": null,
+    "raw": "Уфа, проспект Октября, 56",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>О нас</strong></p> <p>Мы стартап, разрабатывающий торговые алгоритмы. На данный момент разрабатываем платформу для их автоматизации.</p> <p><strong>Кого ищем</strong></p> <p>Python разработчика, который возьмет на себя обязанности по разработке. Требуется понимание принципов ООП, знания алгоритмов и желание прокачаться до лида отдела. Знание биржевых алгоритмов/опыт работы на биржах (форекс или криптобиржи) будет плюсом.</p> <p><strong>Условия</strong></p> <ul> <li> <p>Полностью удаленно;</p> </li> <li> <p>8ч 5 дней в неделю;</p> </li> <li> <p>График не фиксирован - можно выбрать удобное время;</p> </li> <li> <p>Есть возможность официального оформления в аккредитованную IT-компанию;</p> </li> <li> <p>Заработная плата 60-120 т.р.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "ООП"
+    },
+    {
+      "name": "Алгоритмы"
+    },
+    {
+      "name": "Биржевые торги"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3661866",
+    "name": "ДенЛеДа",
+    "url": "https://api.hh.ru/employers/3661866",
+    "alternate_url": "https://hh.ru/employer/3661866",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/766802.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3508165.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3508166.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3661866",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T15:32:01+0300",
+  "created_at": "2025-06-05T15:32:01+0300",
+  "initial_created_at": "2025-06-05T15:32:01+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121390050",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121390050",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

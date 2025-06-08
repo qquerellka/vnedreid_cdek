@@ -1,0 +1,161 @@
+{
+  "id": "121204252",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "PHP-разработчик middle (PHP, Wordpress)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "76",
+    "name": "Ростов-на-Дону",
+    "url": "https://api.hh.ru/areas/76"
+  },
+  "salary": {
+    "from": 120000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 120000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "MONTHLY",
+      "name": "Раз в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <ul> <li> <p>Разработка и поддержка сайтов на WordPress</p> </li> <li> <p>Работа с PHP 7.4–8.1, MySQL, JavaScript, VueJS</p> </li> <li> <p>Оптимизация медленных SQL-запросов, построение индексов</p> </li> <li> <p>Повышение показателей Core Web Vitals (LCP, CLS, FID и др.)</p> </li> <li> <p>Настройка и базовое администрирование NGinx </p> </li> </ul> <p><strong>Требования:</strong></p> <ul> <li> <p>Умение работать в команде, предлагать решения, а не просто выполнять ТЗ</p> </li> <li> <p>Уверенное знание PHP, MySQL, JavaScript</p> </li> <li> <p>Опыт разработки под WordPress (темы, плагины, кастомизация)</p> </li> <li> <p>Понимание работы Core Web Vitals и факторов, на них влияющих</p> </li> <li> <p>Навыки оптимизации БД (индексы, EXPLAIN, slow queries)</p> </li> <li> <p>Понимание алгоритмов и структур данных</p> </li> <li> <p>Опыт работы с Git</p> </li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li> <p>Навыки работы в Linux</p> </li> <li> <p>Базовое знанеие Python / Bash для автоматизации рутинных задач</p> </li> </ul> <p><strong>Условия:</strong></p> <ul> <li> <p>Удалённая работа, график 5/2, 8 часов в день</p> </li> <li> <p>ЗП 120 000 ₽ на руки, с перспективой роста</p> </li> <li> <p>Работа в целеустремленной технической команде без бюрократии</p> </li> <li> <p>Возможность влиять на архитектуру и процессы</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Wordpress"
+    },
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "jQuery"
+    },
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "Nginx"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Git"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "10892681",
+    "name": "Wellbets",
+    "url": "https://api.hh.ru/employers/10892681",
+    "alternate_url": "https://hh.ru/employer/10892681",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1422126.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7308153.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7308154.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10892681",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T09:19:33+0300",
+  "created_at": "2025-06-02T09:19:33+0300",
+  "initial_created_at": "2025-06-02T09:19:33+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121204252",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121204252",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,164 @@
+{
+  "id": "121275102",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный инженер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 34400,
+    "to": 34400,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 34400,
+    "to": 34400,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "Сибирский тракт (дублёр)",
+    "building": "2",
+    "lat": 56.829374,
+    "lng": 60.672708,
+    "description": null,
+    "raw": "Екатеринбург, Сибирский тракт (дублёр), 2",
+    "metro": {
+      "station_name": "Геологическая",
+      "line_name": "Север-Юг",
+      "station_id": "48.267",
+      "line_id": "48",
+      "lat": 56.826715,
+      "lng": 60.603754
+    },
+    "metro_stations": [
+      {
+        "station_name": "Геологическая",
+        "line_name": "Север-Юг",
+        "station_id": "48.267",
+        "line_id": "48",
+        "lat": 56.826715,
+        "lng": 60.603754
+      }
+    ]
+  },
+  "allow_messages": false,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "part",
+    "name": "Частичная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Строительная компания ООО &quot;АльмакорГруп&quot;, филиал в г. Екатеринбург, являющая генподрядчиком строительства транспортной развязки у Концерна &quot;Калина&quot;, приглашает на работу СИСТЕМНОГО ИНЖЕНЕРА!</p> <p><strong>Обязанности:</strong></p> <ul> <li>Обеспечение бесперебойной работы и поддержка сетевой инфраструктуры Филиала компании (сканеры, принтеры, точки доступа и т.д.);</li> <li>Техническая поддержка (удаленная и непосредственная) сотрудников филиала – в офисе и на строительном участке;</li> <li>Проведение инвентаризации оборудования и ПО;</li> <li>Взаимодействие с подразделениями компании, с головным офисом в г. Москва.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>высшее или среднее профессиональное образование в сфере информационных технологий (приветствуется, либо курсы переподготовки и повышения квалификации). Опыт работы и практические навыки.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>официальное трудоустройство, &quot;белая&quot; заработная плата;</li> <li>оборудованное рабочее место в ТЦ &quot;КомсоМолл&quot;, 4 этаж.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "114",
+      "name": "Системный инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1024558",
+    "name": "АльмакорГруп",
+    "url": "https://api.hh.ru/employers/1024558",
+    "alternate_url": "https://hh.ru/employer/1024558",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/831712.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/3767731.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3767732.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1024558",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T11:27:47+0300",
+  "created_at": "2025-06-03T11:27:47+0300",
+  "initial_created_at": "2025-06-03T11:27:47+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121275102",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121275102",
+  "working_days": [],
+  "working_time_intervals": [
+    {
+      "id": "from_four_to_six_hours_in_a_day",
+      "name": "Можно сменами по 4-6 часов в день"
+    }
+  ],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "PART",
+    "name": "Частичная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_4",
+      "name": "4 часа"
+    }
+  ],
+  "show_logo_in_search": null
+}

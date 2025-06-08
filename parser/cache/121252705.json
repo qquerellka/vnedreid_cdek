@@ -1,0 +1,169 @@
+{
+  "id": "121252705",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Golang-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "деревня Румянцево",
+    "street": null,
+    "building": "офисный парк Комсити",
+    "lat": 55.634552,
+    "lng": 37.430983,
+    "description": null,
+    "raw": "деревня Румянцево, офисный парк Комсити",
+    "metro": {
+      "station_name": "Румянцево",
+      "line_name": "Сокольническая",
+      "station_id": "1.513",
+      "line_id": "1",
+      "lat": 55.633,
+      "lng": 37.4419
+    },
+    "metro_stations": [
+      {
+        "station_name": "Румянцево",
+        "line_name": "Сокольническая",
+        "station_id": "1.513",
+        "line_id": "1",
+        "lat": 55.633,
+        "lng": 37.4419
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Привет!</p> <p>Давай знакомиться, я Катя — менеджер по подбору в Crosstech Solutions Group и сейчас мы расширяем команду разработки и ищем Golang-разработчика на один из наших продуктов.</p> <p> </p> <p><strong>Чем предстоит заниматься:</strong></p> <p> </p> <ul> <li> <p>Разработка собственного продукта</p> </li> <li> <p>Разработка основной продуктовой логики продукта</p> </li> <li> <p>Участие в проектировании архитектуры продукта и его модулей;</p> </li> <li> <p>Написание unit-тестов;</p> </li> <li> <p>Проведение Code review;</p> </li> <li> <p>Взаимодействие с командой: разработчики, тестировщики, DevOps, аналитики, архитектор;</p> </li> <li> <p>Участие в командных ритуалах SCRUM</p> </li> </ul> <p> </p> <p><strong>Что для нас важно:</strong></p> <ul> <li>Минимум 2 года опыта разработки на Golang </li> <li>Уверенное владение Docker, Linux;</li> <li>Опыт работы с PostgreSQL;</li> <li>Опыт работы с очередями RabbitMQ.</li> <li><strong>Будет плюсом: </strong>опыт работы с CI/CD и опыт написания кода на Python</li> </ul> <p> </p> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Работа в <strong>аккредитованной IT-компании</strong></li> <li>Хочешь удаленку, хочешь офис - никто не контролирует, во сколько ты начинаешь работать и где находишься, главное — результат</li> <li>Атмосфера, где слышат и понимают. Предлагай любую идею или конструктивно критикуй — твое мнение не останется без внимания</li> <li>Полностью &quot;белая&quot; заработная плата, оформление по ТК РФ, корпоративный ДМС, компенсация обеда, скидка на фитнес и английский в Skyeng, курсы от Skillbox и другие корпоративные скидки</li> </ul>",
+  "branded_description": "\n<style>\n\npicture {\n  display: block;\n  line-height: 0;\n}\n\n.hht-vacancydescription {\n  padding: 0 !important;\n}\n\n.vacancy-branded-user-content ul,\n.vacancy-branded-user-content ol {\n  margin-left: 0;\n}\n\n.vacancy-branded-user-content p {\n  margin-top: 0 !important;\n}\n\n.vacancy-branded-user-content p:first-child b,\n.vacancy-branded-user-content p:first-child strong {\n  margin-top: 0 !important;\n}\n\n.tmpl-hh-wrapper {\n  width: 100%;\n  margin: 0 auto;\n  max-width: 690px;\n  position: relative;\n  overflow: hidden;\n  font-family: \"Arial\", sans-serif;\n  font-style: normal;\n  font-weight: 400;\n  font-size: 14px;\n  color: #231f20;\n  line-height: 1.4;\n}\n\n.tmpl-hh-wrapper * {\n  box-sizing: border-box;\n  padding: 0;\n  margin: 0;\n}\n\n.tmpl-hh-wrapper sup {\n  vertical-align: top;\n}\n\n.tmpl-hh-content ol li p,\n.tmpl-hh-content ul li p {\n  margin: 0 !important;\n}\n\n.tmpl-hh-content ol li p b,\n.tmpl-hh-content ol li p strong,\n.tmpl-hh-content ul li p b,\n.tmpl-hh-content ul li p strong {\n  font-weight: 700;\n  font-size: inherit !important;\n  margin: 0 !important;\n  text-transform: none;\n  color: inherit !important;\n  display: initial;\n}\n\n.tmpl-hh-content ol li em,\n.tmpl-hh-content ul li em {\n  font-style: normal !important;\n}\n\n.tmpl-hh-content ol li em b,\n.tmpl-hh-content ol li em strong,\n.tmpl-hh-content ul li em b,\n.tmpl-hh-content ul li em strong {\n  text-transform: none;\n  display: inherit;\n  font-weight: 700;\n  font-size: inherit;\n  color: inherit;\n  font-style: normal !important;\n}\n\n.tmpl-hh-content ol li b,\n.tmpl-hh-content ol li strong,\n.tmpl-hh-content ul li b,\n.tmpl-hh-content ul li strong {\n  font-weight: 700;\n  font-size: inherit !important;\n  margin: 0 !important;\n  text-transform: none;\n  color: inherit !important;\n}\n\n.tmpl-hh-content p {\n  margin-bottom: 10px;\n}\n\n.tmpl-hh-content p b,\n.tmpl-hh-content p strong {\n  display: inline-block;\n  font-weight: 700;\n  font-size: 20px;\n  line-height: 1.2;\n  color: #231f20;\n  margin-top: 30px !important;\n}\n\n.tmpl-hh-content p em {\n  font-style: normal !important;\n}\n\n.tmpl-hh-content p em b,\n.tmpl-hh-content p em strong {\n  text-transform: none;\n  display: inherit;\n  font-weight: 700;\n  font-size: inherit;\n  color: inherit !important;\n  font-style: normal !important;\n  background: transparent;\n  padding: 0;\n}\n\n.tmpl-hh-content p:first-child b,\n.tmpl-hh-content p:first-child strong {\n  margin-top: 0 !important;\n}\n\n.tmpl-hh-content p:last-child {\n  margin-bottom: 0 !important;\n}\n\n.tmpl-hh-content .l-paddings {\n  padding: 0;\n}\n\n@media (max-width: 1019px) {\n  .tmpl-hh-wrapper {\n    max-width: 610px;\n  }\n}\n\n.tmpl-hh-header__wrapper {\n  display: flex;\n  padding: 30px 30px 26px;\n  background-color: #f9f9f9;\n  border-radius: 0 0 12px 12px;\n  gap: 8px;\n}\n\n.tmpl-hh-header__info {\n  display: flex;\n  flex-direction: column;\n  gap: 8px;\n}\n\n.tmpl-hh-header__info-main {\n  position: relative;\n  background-color: #000479;\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  border-radius: 10px;\n  padding: 60px 16px 59px;\n  overflow: hidden;\n}\n\n.tmpl-hh-header__info-title {\n  position: relative;\n  z-index: 3;\n}\n\n.tmpl-hh-header__info-pattern {\n  position: absolute;\n  z-index: 1;\n  top: 0;\n  right: 0;\n}\n\n.tmpl-hh-header__info-about {\n  border-radius: 10px;\n  padding: 12px 16px 57px;\n  background-color: #fff;\n  position: relative;\n}\n\n.tmpl-hh-header__info-subtitle {\n  margin-bottom: 12px;\n}\n\n.tmpl-hh-header__info-text {\n  font-weight: 400;\n  font-size: 12px;\n  line-height: 130%;\n  color: #0d0d0d;\n}\n\n.tmpl-hh-header__info-el {\n  position: absolute;\n  bottom: 0;\n  left: 50%;\n  transform: translateX(-50%);\n}\n\n.tmpl-hh-header__img {\n  width: 256px;\n  height: auto;\n  flex-shrink: 0;\n}\n\n.tmpl-hh-header__img img {\n  width: 100%;\n  height: 100%;\n  object-fit: cover;\n  border-radius: 10px;\n}\n\n@media (max-width: 1019px) {\n  .tmpl-hh-header__img {\n    width: 193px;\n    height: auto;\n  }\n}\n\n@media (max-width: 699px) {\n  .tmpl-hh-header__wrapper {\n    flex-direction: column;\n    padding: 30px 0;\n    border-radius: 0;\n    gap: 16px;\n  }\n  .tmpl-hh-header__info {\n    gap: 16px;\n  }\n  .tmpl-hh-header__info-main {\n    width: 100%;\n    justify-content: center;\n    border-radius: 16px;\n    padding: 48px 16px;\n  }\n  .tmpl-hh-header__info-about {\n    width: 100%;\n    border-radius: 16px;\n    padding: 16px 16px 49px;\n  }\n  .tmpl-hh-header__info-text {\n    font-size: 14px;\n    line-height: 140%;\n  }\n  .tmpl-hh-header__img {\n    width: 100%;\n    height: auto;\n    flex-shrink: 0;\n  }\n  .tmpl-hh-header__img img {\n    width: 100%;\n    height: 100%;\n    object-fit: cover;\n    border-radius: 16px;\n  }\n}\n\n.tmpl-hh-content {\n  padding: 30px;\n}\n\n.tmpl-hh-content ul,\n.tmpl-hh-content ol {\n  margin-left: 0;\n}\n\n.tmpl-hh-content ul li,\n.tmpl-hh-content ol li {\n  list-style: none;\n  position: relative;\n  padding-left: 14px;\n  color: #231f20;\n  line-height: 1.4;\n  font-size: 14px;\n}\n\n.tmpl-hh-content ul li:not(:last-child),\n.tmpl-hh-content ol li:not(:last-child) {\n  margin-bottom: 4px;\n}\n\n.tmpl-hh-content ul li::before,\n.tmpl-hh-content ol li::before {\n  position: absolute;\n  top: 7px;\n  left: 3px;\n  content: \"\";\n  width: 4px;\n  height: 4px;\n  border-radius: 50%;\n  background: #231f20;\n}\n\n@media (max-width: 1019px) {\n  .tmpl-hh-content {\n    padding: 30px;\n  }\n}\n\n@media (max-width: 699px) {\n  .tmpl-hh-content {\n    padding: 30px 10px;\n  }\n}\n\n.tmpl-hh-footer__wrapper {\n  background-color: #f9f9f9;\n  border-radius: 12px 12px 0 0;\n  padding: 30px;\n}\n\n.tmpl-hh-footer__title {\n  margin-bottom: 30px;\n}\n\n.tmpl-hh-footer__items {\n  display: flex;\n  flex-wrap: wrap;\n  gap: 8px;\n  margin-bottom: 30px;\n}\n\n.tmpl-hh-footer__item {\n  position: relative;\n  border-radius: 10px;\n  padding: 12px;\n  width: 204px;\n  height: 223px;\n  background-color: #000479;\n  overflow: hidden;\n}\n\n.tmpl-hh-footer__item:nth-child(4), .tmpl-hh-footer__item:nth-child(5) {\n  width: 311px;\n  height: 121px;\n}\n\n.tmpl-hh-footer__item:nth-child(4) {\n  padding-right: 86px;\n}\n\n.tmpl-hh-footer__item:nth-child(4) .tmpl-hh-footer__item-icon {\n  top: 10px;\n  right: 12px;\n  bottom: auto;\n}\n\n.tmpl-hh-footer__item:nth-child(5) {\n  padding-right: 70px;\n}\n\n.tmpl-hh-footer__item:nth-child(5) .tmpl-hh-footer__item-icon {\n  top: 10px;\n  right: 8px;\n  bottom: auto;\n}\n\n.tmpl-hh-footer__item-title {\n  font-weight: 400;\n  font-size: 20px;\n  line-height: 130%;\n  color: #fff;\n  margin-bottom: 10px;\n}\n\n.tmpl-hh-footer__item-text {\n  font-weight: 400;\n  font-size: 14px;\n  line-height: 130%;\n  color: #fff;\n}\n\n.tmpl-hh-footer__item-icon {\n  position: absolute;\n  right: 10px;\n  bottom: 10px;\n}\n\n.tmpl-hh-footer__imgs {\n  display: flex;\n  gap: 4px;\n  margin-bottom: 4px;\n}\n\n.tmpl-hh-footer__img {\n  width: 100%;\n  height: auto;\n  flex: 1 0 0;\n  flex-shrink: 0;\n}\n\n.tmpl-hh-footer__img img {\n  width: 100%;\n  height: auto;\n  border-radius: 10px;\n}\n\n.tmpl-hh-footer__info {\n  display: flex;\n  gap: 4px;\n}\n\n.tmpl-hh-footer__info-subtitle {\n  padding: 16px;\n  background-color: #000479;\n  border-radius: 10px;\n  width: 472px;\n}\n\n.tmpl-hh-footer__info-logo {\n  border-radius: 10px;\n  overflow: hidden;\n  width: 154px;\n  height: 136px;\n}\n\n.tmpl-hh-footer__info-logo img {\n  width: 100%;\n  height: 100%;\n  object-fit: cover;\n}\n\n@media (max-width: 1019px) {\n  .tmpl-hh-footer__item {\n    position: relative;\n    border-radius: 10px;\n    padding: 12px;\n    width: 178px;\n    height: 223px;\n    background-color: #000479;\n    overflow: hidden;\n  }\n  .tmpl-hh-footer__item:nth-child(4), .tmpl-hh-footer__item:nth-child(5) {\n    width: 271px;\n    height: 134px;\n  }\n  .tmpl-hh-footer__info-subtitle {\n    width: 392px;\n    display: flex;\n    align-items: center;\n  }\n  .tmpl-hh-footer__info-subtitle img {\n    width: 100%;\n  }\n}\n\n@media (max-width: 699px) {\n  .tmpl-hh-footer__wrapper {\n    border-radius: 0;\n    padding: 30px 0;\n  }\n  .tmpl-hh-footer__title {\n    margin-bottom: 24px;\n  }\n  .tmpl-hh-footer__items {\n    gap: 15px;\n    margin-bottom: 30px;\n  }\n  .tmpl-hh-footer__item {\n    border-radius: 16px;\n    padding: 20px;\n    width: 100%;\n    min-height: 220px;\n    height: auto;\n  }\n  .tmpl-hh-footer__item:nth-child(4), .tmpl-hh-footer__item:nth-child(5) {\n    width: 100%;\n    height: auto;\n  }\n  .tmpl-hh-footer__item:nth-child(1) .tmpl-hh-footer__item-icon {\n    right: 10px;\n    bottom: 7px;\n    width: 75px;\n    height: 75px;\n  }\n  .tmpl-hh-footer__item:nth-child(2) .tmpl-hh-footer__item-icon {\n    right: 11px;\n    bottom: 10px;\n    width: 73px;\n    height: 104px;\n  }\n  .tmpl-hh-footer__item:nth-child(3) .tmpl-hh-footer__item-icon {\n    right: 10px;\n    bottom: 8px;\n    width: 89px;\n    height: 89px;\n  }\n  .tmpl-hh-footer__item:nth-child(4) {\n    padding-right: 20px;\n  }\n  .tmpl-hh-footer__item:nth-child(4) .tmpl-hh-footer__item-icon {\n    top: auto;\n    right: 10px;\n    bottom: -26px;\n    width: 99px;\n    height: 133px;\n  }\n  .tmpl-hh-footer__item:nth-child(5) {\n    padding-right: 20px;\n  }\n  .tmpl-hh-footer__item:nth-child(5) .tmpl-hh-footer__item-icon {\n    top: auto;\n    right: 10px;\n    bottom: 6px;\n    width: 64px;\n    height: 95px;\n  }\n  .tmpl-hh-footer__item-text {\n    z-index: 3;\n    position: relative;\n  }\n  .tmpl-hh-footer__item-icon img {\n    width: 100%;\n    height: 100%;\n  }\n  .tmpl-hh-footer__imgs {\n    padding-top: 34px;\n    background-color: #fff;\n    display: flex;\n    flex-direction: column;\n    gap: 4px;\n    margin-bottom: 4px;\n  }\n  .tmpl-hh-footer__img {\n    width: 100%;\n    height: auto;\n    flex: 1 0 0;\n    flex-shrink: 0;\n  }\n  .tmpl-hh-footer__img img {\n    width: 100%;\n    height: auto;\n    border-radius: 16px;\n  }\n  .tmpl-hh-footer__info {\n    background-color: #fff;\n    display: flex;\n    gap: 4px;\n  }\n  .tmpl-hh-footer__info-subtitle {\n    display: block;\n    padding: 17px;\n    border-radius: 16px;\n    width: 100%;\n  }\n  .tmpl-hh-footer__info-subtitle img {\n    width: 100%;\n    height: auto;\n  }\n  .tmpl-hh-footer__info-logo {\n    display: none;\n  }\n}\n</style>\n\n<div class=\"tmpl-hh-wrapper\">\n    <div class=\"tmpl-hh-header\">\n      <div class=\"tmpl-hh-header__wrapper\">\n        <div class=\"tmpl-hh-header__info\">\n          <div class=\"tmpl-hh-header__info-main\">\n            <div class=\"tmpl-hh-header__info-title\">\n              <picture>\n                <source srcset=\"https://hhcdn.ru/ichameleon/392413.svg\" media=\"(max-width: 699px)\"></source>\n                <img src=\"https://hhcdn.ru/ichameleon/392412.svg\" alt=\"\">\n              </picture>\n            </div>\n            <div class=\"tmpl-hh-header__info-pattern\">\n              <picture>\n                <source srcset=\"https://hhcdn.ru/ichameleon/392415.svg\" media=\"(max-width: 699px)\"></source>\n                <img src=\"https://hhcdn.ru/ichameleon/392414.svg\" alt=\"\">\n              </picture>\n            </div>\n          </div>\n          <div class=\"tmpl-hh-header__info-about\">\n            <div class=\"tmpl-hh-header__info-subtitle\">\n              <picture>\n                <source srcset=\"https://hhcdn.ru/ichameleon/392417.svg\" media=\"(max-width: 699px)\"></source>\n                <img src=\"https://hhcdn.ru/ichameleon/392416.svg\" alt=\"\">\n              </picture>\n            </div>\n            <div class=\"tmpl-hh-header__info-text\">\n              CTSG — молодой современный вендор в области\n              информационной безопасности. Мы разрабатываем продукты для защиты\n              данных и продаём их крупным российским компаниям, включая\n              банки, промышленные предприятия, ритейл и государственные\n              организации.\n            </div>\n            <div class=\"tmpl-hh-header__info-el\">\n              <picture>\n                <source srcset=\"https://hhcdn.ru/ichameleon/392419.svg\" media=\"(max-width: 699px)\"></source>\n                <img src=\"https://hhcdn.ru/ichameleon/392418.svg\" alt=\"\">\n              </picture>\n            </div>\n          </div>\n        </div>\n        <div class=\"tmpl-hh-header__img\">\n          <picture>\n            <source srcset=\"https://hhcdn.ru/ichameleon/392421.jpg\" media=\"(max-width: 699px)\"></source>\n            <img src=\"https://hhcdn.ru/ichameleon/392420.jpg\" alt=\"\">\n          </picture>\n        </div>\n      </div>\n    </div>\n    <div class=\"tmpl-hh-content\">\n      <p>Привет!</p> <p>Давай знакомиться, я Катя — менеджер по подбору в Crosstech Solutions Group и сейчас мы расширяем команду разработки и ищем Golang-разработчика на один из наших продуктов.</p> <p> </p> <p><strong>Чем предстоит заниматься:</strong></p> <p> </p> <ul> <li> <p>Разработка собственного продукта</p> </li> <li> <p>Разработка основной продуктовой логики продукта</p> </li> <li> <p>Участие в проектировании архитектуры продукта и его модулей;</p> </li> <li> <p>Написание unit-тестов;</p> </li> <li> <p>Проведение Code review;</p> </li> <li> <p>Взаимодействие с командой: разработчики, тестировщики, DevOps, аналитики, архитектор;</p> </li> <li> <p>Участие в командных ритуалах SCRUM</p> </li> </ul> <p> </p> <p><strong>Что для нас важно:</strong></p> <ul> <li>Минимум 2 года опыта разработки на Golang </li> <li>Уверенное владение Docker, Linux;</li> <li>Опыт работы с PostgreSQL;</li> <li>Опыт работы с очередями RabbitMQ.</li> <li><strong>Будет плюсом: </strong>опыт работы с CI/CD и опыт написания кода на Python</li> </ul> <p> </p> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Работа в <strong>аккредитованной IT-компании</strong></li> <li>Хочешь удаленку, хочешь офис - никто не контролирует, во сколько ты начинаешь работать и где находишься, главное — результат</li> <li>Атмосфера, где слышат и понимают. Предлагай любую идею или конструктивно критикуй — твое мнение не останется без внимания</li> <li>Полностью \"белая\" заработная плата, оформление по ТК РФ, корпоративный ДМС, компенсация обеда, скидка на фитнес и английский в Skyeng, курсы от Skillbox и другие корпоративные скидки</li> </ul></div>\n    <div class=\"tmpl-hh-footer\">\n      <div class=\"tmpl-hh-footer__wrapper\">\n        <div class=\"tmpl-hh-footer__title\">\n          <picture>\n            <source srcset=\"https://hhcdn.ru/ichameleon/392434.svg\" media=\"(max-width: 699px)\"></source>\n            <img src=\"https://hhcdn.ru/ichameleon/392433.svg\" alt=\"\">\n          </picture>\n        </div>\n    \n        <div class=\"tmpl-hh-footer__items\">\n          <div class=\"tmpl-hh-footer__item\">\n            <div class=\"tmpl-hh-footer__item-title\">Cплоченность</div>\n            <div class=\"tmpl-hh-footer__item-text\">\n              Мы верим в силу командной работы и сотрудничества\n              на основе доверительных отношений.\n            </div>\n            <div class=\"tmpl-hh-footer__item-icon\">\n              <img src=\"https://hhcdn.ru/ichameleon/392432.svg\" alt=\"\">\n            </div>\n          </div>\n    \n          <div class=\"tmpl-hh-footer__item\">\n            <div class=\"tmpl-hh-footer__item-title\">Развитие</div>\n            <div class=\"tmpl-hh-footer__item-text\">\n              Создание благоприятной среды для реализации потенциала команды.\n            </div>\n            <div class=\"tmpl-hh-footer__item-icon\">\n              <img src=\"https://hhcdn.ru/ichameleon/392431.svg\" alt=\"\">\n            </div>\n          </div>\n    \n          <div class=\"tmpl-hh-footer__item\">\n            <div class=\"tmpl-hh-footer__item-title\">Результат</div>\n            <div class=\"tmpl-hh-footer__item-text\">\n              Выполняем задачи, которые способствуют повышению ценности бизнеса\n              и ведут к достижению целей компании.\n            </div>\n            <div class=\"tmpl-hh-footer__item-icon\">\n              <img src=\"https://hhcdn.ru/ichameleon/392430.svg\" alt=\"\">\n            </div>\n          </div>\n    \n          <div class=\"tmpl-hh-footer__item\">\n            <div class=\"tmpl-hh-footer__item-title\">Win-win</div>\n            <div class=\"tmpl-hh-footer__item-text\">\n              Находим решение, в котором каждая сторона выигрывает.\n            </div>\n            <div class=\"tmpl-hh-footer__item-icon\">\n              <img src=\"https://hhcdn.ru/ichameleon/392428.svg\" alt=\"\">\n            </div>\n          </div>\n    \n          <div class=\"tmpl-hh-footer__item\">\n            <div class=\"tmpl-hh-footer__item-title\">Драйв</div>\n            <div class=\"tmpl-hh-footer__item-text\">\n              Мотивируя друг друга на нестандартные решения, мы остаёмся\n              в авангарде отрасли.\n            </div>\n            <div class=\"tmpl-hh-footer__item-icon\">\n              <img src=\"https://hhcdn.ru/ichameleon/392427.svg\" alt=\"\">\n            </div>\n          </div>\n        </div>\n    \n        <div class=\"tmpl-hh-footer__imgs\">\n          <div class=\"tmpl-hh-footer__img\">\n            <img src=\"https://hhcdn.ru/ichameleon/392425.jpg\" alt=\"\">\n          </div>\n          <div class=\"tmpl-hh-footer__img\">\n            <img src=\"https://hhcdn.ru/ichameleon/392426.jpg\" alt=\"\">\n          </div>\n        </div>\n    \n        <div class=\"tmpl-hh-footer__info\">\n          <div class=\"tmpl-hh-footer__info-subtitle\">\n            <picture>\n              <source srcset=\"https://hhcdn.ru/ichameleon/392424.svg\" media=\"(max-width: 699px)\"></source>\n              <img src=\"https://hhcdn.ru/ichameleon/392423.svg\" alt=\"\">\n            </picture>\n          </div>\n          <div class=\"tmpl-hh-footer__info-logo\">\n            <img src=\"https://hhcdn.ru/ichameleon/392422.jpg\" alt=\"\">\n          </div>\n        </div>\n      </div>\n    </div>\n    \n</div>\n\n\n<script type=\"text/javascript\">  \n//\n\n(function polyfill() {\n  const relList = document.createElement(\"link\").relList;\n  if (relList && relList.supports && relList.supports(\"modulepreload\")) {\n    return;\n  }\n  for (const link of document.querySelectorAll('link[rel=\"modulepreload\"]')) {\n    processPreload(link);\n  }\n  new MutationObserver((mutations) => {\n    for (const mutation of mutations) {\n      if (mutation.type !== \"childList\") {\n        continue;\n      }\n      for (const node of mutation.addedNodes) {\n        if (node.tagName === \"LINK\" && node.rel === \"modulepreload\")\n          processPreload(node);\n      }\n    }\n  }).observe(document, { childList: true, subtree: true });\n  function getFetchOpts(link) {\n    const fetchOpts = {};\n    if (link.integrity)\n      fetchOpts.integrity = link.integrity;\n    if (link.referrerPolicy)\n      fetchOpts.referrerPolicy = link.referrerPolicy;\n    if (link.crossOrigin === \"use-credentials\")\n      fetchOpts.credentials = \"include\";\n    else if (link.crossOrigin === \"anonymous\")\n      fetchOpts.credentials = \"omit\";\n    else\n      fetchOpts.credentials = \"same-origin\";\n    return fetchOpts;\n  }\n  function processPreload(link) {\n    if (link.ep)\n      return;\n    link.ep = true;\n    const fetchOpts = getFetchOpts(link);\n    fetch(link.href, fetchOpts);\n  }\n})();\nconst index = \"\";\nwindow.addEventListener(\"DOMContentLoaded\", () => {\n});\n\n\n//\n</script>\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Golang"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Apache Kafka"
+    },
+    {
+      "name": "RabbitMQ"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Docker-compose"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Unit Testing"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "6124816",
+    "name": "Кросстех Солюшнс Групп",
+    "url": "https://api.hh.ru/employers/6124816",
+    "alternate_url": "https://hh.ru/employer/6124816",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1238926.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6576137.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6576138.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6124816",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T18:31:03+0300",
+  "created_at": "2025-06-02T18:31:03+0300",
+  "initial_created_at": "2025-06-02T18:31:03+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121252705",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121252705",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

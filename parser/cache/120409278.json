@@ -1,0 +1,180 @@
+{
+  "id": "120409278",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Разработчик стажер .Net/Java",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 75000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 75000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "улица Малышева",
+    "building": "71",
+    "lat": 56.836973,
+    "lng": 60.623157,
+    "description": null,
+    "raw": "Екатеринбург, улица Малышева, 71",
+    "metro": {
+      "station_name": "Геологическая",
+      "line_name": "Север-Юг",
+      "station_id": "48.267",
+      "line_id": "48",
+      "lat": 56.826715,
+      "lng": 60.603754
+    },
+    "metro_stations": [
+      {
+        "station_name": "Геологическая",
+        "line_name": "Север-Юг",
+        "station_id": "48.267",
+        "line_id": "48",
+        "lat": 56.826715,
+        "lng": 60.603754
+      },
+      {
+        "station_name": "Динамо",
+        "line_name": "Север-Юг",
+        "station_id": "48.265",
+        "line_id": "48",
+        "lat": 56.847818,
+        "lng": 60.599406
+      },
+      {
+        "station_name": "Площадь 1905 года",
+        "line_name": "Север-Юг",
+        "station_id": "48.266",
+        "line_id": "48",
+        "lat": 56.837982,
+        "lng": 60.59734
+      },
+      {
+        "station_name": "Уральская",
+        "line_name": "Север-Юг",
+        "station_id": "48.264",
+        "line_id": "48",
+        "lat": 56.858056,
+        "lng": 60.600816
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Компания Экстрим </strong>- 31 год профессионально и качественно занимаемся заказной разработкой ПО для государственных заказчиков и в сфере B2B. Мы являемся одним из лидирующих разработчиков ПО для государственного сектора, а наши проекты носят социально-значимый характер и приносят реальную пользу людям.</p> <p> </p> <p>Мы приглашаем <strong>cтудентов на летнюю стажировку в качестве Разработчиков-стажеров на .Net/Java </strong>в интересные и социально-важные проекты уровня города, региона, страны.</p> <p> </p> <p><strong>Мы предлагаем тебе:</strong></p> <ul> <li>2 месяца активной практики под чутким руководством наставников; участие в реальных боевых проектах; лучшим стажерам по итогам стажировки- трудоустройство в компании;</li> <li>работа в комфортном офисе в центре города. На кухне кофе и вкусняшки;</li> <li>достойную стипендию;</li> <li>удобный график, совместимый с учебой;</li> <li>ты сможешь учиться у реально крутых профессионалов, у нас организован обмен опытом внутри компании, проходят митапы и встречи. Есть собственная корпоративная библиотека;</li> <li>участвовать в нашей корпоративной жизни, в компании организованы “клубы по интересам”: можно сменить рабочую обстановку и поиграть в настолки, шахматы или покер, написать картину маслом, сходить в поход с коллегами или стать частью нашей корпоративной спортивной команды;</li> <li>лучшим стажёрам — работа в компании!</li> </ul> <p> </p> <p><strong>Что используем и чему научим:</strong></p> <ul> <li>.NET: C#, .NET 7/8, EF, WebAPI, Swagger, PostgreSQL, ElasticSearch, RabbitMQ, Redis, СКЗИ &quot;КриптоПро CSP&quot;;</li> <li>Java: Java 17+, Spring Boot, PostgreSQL, Hibernate, Kafka, Feign, Jackson/Gson;</li> <li>Front: Angular, TypeScript, Bootstrap, primeNG.</li> </ul> <p><br /><strong>Инструментарий</strong><strong>:</strong> Visual Studio, IntelliJ IDEA, Visual Studio Code, JIRA, Fisheye+Crucible, Confluence, Gitlab + Gitlab CI, Docker, kubernetes.</p> <p> </p> <p><strong>Требования:</strong></p> <ul> <li><strong>3 курс и старше, выпускник технического ВУЗа (ИТ направление-это важно);</strong></li> <li>опыт программирования на любом высокоуровневом языке;</li> <li>знание английского языка на уровне, достаточном для чтения и понимания технической литературы;</li> <li>приветствуются базовые знания Java-core, баз данных и web-технологий.</li> </ul>",
+  "branded_description": "\n<style>\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;    \n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-weight: bold;\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n    line-height: inherit !important;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    margin: 0;\n    display: inline;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    z-index: 1;\n    font-family: Arial;\n    font-size: 16px;\n    line-height: 22px;\n    color: #000;\n    overflow: hidden;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n}\n\n.tmpl_hh_content {\n    position: relative;\n    padding: 59px 52px 38px;\n    z-index: 3;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    margin: 39px 0 12px;\n}\n\n.tmpl_hh_content b, \n.tmpl_hh_content strong {\n    display: inline-block;\n    font-size: 24px;\n    font-weight: 700;\n    line-height: 18px;\n}\n\n.tmpl_hh_content i b, \n.tmpl_hh_content i strong,\n.tmpl_hh_content em b, \n.tmpl_hh_content em strong,\n.tmpl_hh_content b em, \n.tmpl_hh_content strong em,\n.tmpl_hh_content b i, \n.tmpl_hh_content strong i {\n    font-weight: 700;\n    font-style: normal;\n    font-size: 16px;\n    line-height: 22px;\n}\n\n.tmpl_hh_content ol, .tmpl_hh_content ul {\n    margin-left: 20px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 16px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 16px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;    \n}\n\n.tmpl_hh_content li:before {\n    position: absolute;\n    left: -20px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"\";\n    background: #000;\n    width: 5px;\n    height: 5px;\n    top: 8px;\n    border-radius: 50%;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter)'.';\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n\n.tmpl_hh_flex {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n}\n\n.tmpl_hh_header__slogan {\n    background: linear-gradient(90deg, #E5194A 32.47%, #56BFC9 62.82%);\n    color: #fff;\n    text-align: center;\n    text-transform: uppercase;\n    font-size: 23.79px;\n    font-weight: 700;\n    line-height: 23.79px;\n    text-align: center;\n    border-radius: 65px;\n    display: block;\n    margin: -71px auto 0;\n    position: relative;\n    width: 393px;\n    padding: 14px 0 14px;\n    box-sizing: border-box;\n    left: -3px;\n}\n\n.tmpl_hh_offer {\n    background: #57BFC9;\n    padding: 50px 27px;\n}\n\n.tmpl_hh_offer__items {\n    display: flex;\n    gap: 16px 15px;\n    justify-content: center;\n    flex-wrap: wrap;\n}\n\n.tmpl_hh_offer__item {\n    background: #FFFFFF;\n    border-radius: 11px;\n    font-size: 12px;\n    line-height: 17px;\n    box-sizing: border-box;\n    padding: 39px 30px 19px;\n    min-height: 264px;\n    width: calc(50% - 8px);\n}\n\n.tmpl_hh_offer__pink {\n    display: flex;\n    gap: 6px;\n    margin-bottom: 29px;\n}\n\n.tmpl_hh_offer__icon {\n    width: 51px;\n    flex-shrink: 0;\n}\n\n.tmpl_hh_offer__title {\n    background: #DE2756;\n    border-radius: 45px;\n    color: #fff;\n    font-size: 14px;\n    line-height: 17px;\n    text-align: center;\n    display: flex;\n    align-items: center;\n    padding: 2px 9px 0;\n    box-sizing: border-box;\n    width: 100%;\n    justify-content: center;\n}\n\n.tmpl_hh_offer__item ul {\n    list-style: none;\n}\n\n.tmpl_hh_offer__item li {\n    position: relative;\n    padding: 0 0 0 17px;\n    margin-bottom: 9px;\n}\n\n.tmpl_hh_offer__item li:before {\n    content: \"\";\n    width: 6px;\n    height: 6px;\n    top: 6px;\n    border-radius: 50%;\n    position: absolute;\n    left: 0;\n    background: #DE2756;\n}\n\n.tmpl_hh_photos {\n    display: grid;\n    grid-template-columns: repeat(2,1fr);\n    gap: 14px;\n    padding: 0px 27px 27px;\n    background: #57bfc9;\n}\n.tmpl_hh_photo {\n    border-radius: 12px;\n    overflow: hidden;\n}\n\n\n@media screen and (max-width: 1019px) {\n    .tmpl_hh_offer__item {\n        padding: 20px 20px 20px;\n        min-height: 246px;\n    }\n}    \n\n@media screen and (max-width: 699px) {\n    .tmpl_hh_wrapper {\n        font-size: 14px;\n        line-height: 22px;\n    }\n\n    .tmpl_hh_content {\n        padding: 38px 15px 35px;\n    }\n\n    .tmpl_hh_content p,\n    .tmpl_hh_content b,\n    .tmpl_hh_content strong {\n        margin: 45px 0 12px;\n    }\n\n    .tmpl_hh_content b, \n    .tmpl_hh_content strong {\n        font-size: 20px;\n        line-height: 18px;\n    }\n\n    .tmpl_hh_content i b, \n    .tmpl_hh_content i strong,\n    .tmpl_hh_content em b, \n    .tmpl_hh_content em strong,\n    .tmpl_hh_content b em, \n    .tmpl_hh_content strong em,\n    .tmpl_hh_content b i, \n    .tmpl_hh_content strong i {\n        font-size: 14px;\n        line-height: 22px;\n    }\n\n    .tmpl_hh_content li {\n        margin-bottom: 16px;\n    }\n\n    .tmpl_hh_content ul ul,\n    .tmpl_hh_content ul ol,\n    .tmpl_hh_content ol ol,\n    .tmpl_hh_content ol ul {\n        margin-top: 16px;\n    }\n\n    .tmpl_hh_content ul>li:before {\n        top: 8px;\n    }\n\n    .tmpl_hh_header__slogan {\n        font-size: 15px;\n        line-height: 15px;\n        border-radius: 43px;\n        margin: -32px auto 0;\n        width: 259px;\n        padding: 9px 0;\n        left: -0;\n    }\n\n    .tmpl_hh_offer {\n        padding: 23px 16px;\n    }\n\n    .tmpl_hh_offer__items {\n        gap: 14px;\n    }\n\n    .tmpl_hh_offer__item {\n        border-radius: 9px;\n        padding: 25px 25px 12px;\n        min-height: 200px;\n        width: 100%;\n        line-height: 16px;\n    }\n\n    .tmpl_hh_offer__pink {\n        display: flex;\n        gap: 5px;\n        margin-bottom: 25px;\n    }\n\n    .tmpl_hh_offer__icon {\n        width: 42px;\n        flex-shrink: 0;\n    }\n\n    .tmpl_hh_offer__title {\n        border-radius: 45px;\n        font-size: 12px;\n        line-height: 14px;\n        padding: 2px 9px 0;\n        width: 100%;\n    }\n\n    .tmpl_hh_offer__item li {\n        padding: 0 0 0 14px;\n        margin-bottom: 6px;\n        margin-right: -5px;\n    }\n\n    .tmpl_hh_offer__item li:before {\n        width: 5px;\n        height: 5px;\n        top: 6px;\n    }\n\n    .tmpl_hh_photos {\n        padding: 0px 16px 6px;\n        grid-template-columns: repeat(1, 1fr);\n        gap: 10px;\n        margin: 0;\n    }\n\n    .tmpl_hh_offer__title br {\n        display: none;\n    }\n}\n\n@media screen and (max-width: 330px) {\n    .tmpl_hh_offer__title br {\n        display: block;\n    }\n}\n</style>\n\n\n<div class=\"tmpl_hh_wrapper\">\n    <div class=\"tmpl_hh_header\">\n        <div class=\"tmpl_hh_header__photo\"><img src=\"https://hhcdn.ru/ichameleon/406560.jpg\" alt=\"\"></div>\n        <div class=\"tmpl_hh_header__slogan\"><p>IT-компания твоего роста</p></div>\n    </div>\n    <div class=\"tmpl_hh_content\">\n        <p><strong>Компания Экстрим </strong>- 31 год профессионально и качественно занимаемся заказной разработкой ПО для государственных заказчиков и в сфере B2B. Мы являемся одним из лидирующих разработчиков ПО для государственного сектора, а наши проекты носят социально-значимый характер и приносят реальную пользу людям.</p> <p> </p> <p>Мы приглашаем <strong>cтудентов на летнюю стажировку в качестве Разработчиков-стажеров на .Net/Java </strong>в интересные и социально-важные проекты уровня города, региона, страны.</p> <p> </p> <p><strong>Мы предлагаем тебе:</strong></p> <ul> <li>2 месяца активной практики под чутким руководством наставников; участие в реальных боевых проектах; лучшим стажерам по итогам стажировки- трудоустройство в компании;</li> <li>работа в комфортном офисе в центре города. На кухне кофе и вкусняшки;</li> <li>достойную стипендию;</li> <li>удобный график, совместимый с учебой;</li> <li>ты сможешь учиться у реально крутых профессионалов, у нас организован обмен опытом внутри компании, проходят митапы и встречи. Есть собственная корпоративная библиотека;</li> <li>участвовать в нашей корпоративной жизни, в компании организованы “клубы по интересам”: можно сменить рабочую обстановку и поиграть в настолки, шахматы или покер, написать картину маслом, сходить в поход с коллегами или стать частью нашей корпоративной спортивной команды;</li> <li>лучшим стажёрам — работа в компании!</li> </ul> <p> </p> <p><strong>Что используем и чему научим:</strong></p> <ul> <li>.NET: C#, .NET 7/8, EF, WebAPI, Swagger, PostgreSQL, ElasticSearch, RabbitMQ, Redis, СКЗИ \"КриптоПро CSP\";</li> <li>Java: Java 17+, Spring Boot, PostgreSQL, Hibernate, Kafka, Feign, Jackson/Gson;</li> <li>Front: Angular, TypeScript, Bootstrap, primeNG.</li> </ul> <p><br><strong>Инструментарий</strong><strong>:</strong> Visual Studio, IntelliJ IDEA, Visual Studio Code, JIRA, Fisheye+Crucible, Confluence, Gitlab + Gitlab CI, Docker, kubernetes.</p> <p> </p> <p><strong>Требования:</strong></p> <ul> <li><strong>3 курс и старше, выпускник технического ВУЗа (ИТ направление-это важно);</strong></li> <li>опыт программирования на любом высокоуровневом языке;</li> <li>знание английского языка на уровне, достаточном для чтения и понимания технической литературы;</li> <li>приветствуются базовые знания Java-core, баз данных и web-технологий.</li> </ul></div>\n    <div class=\"tmpl_hh_offer\">\n        <div class=\"tmpl_hh_offer__items\">\n            <div class=\"tmpl_hh_offer__item\">\n                <div class=\"tmpl_hh_offer__pink\">\n                    <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/406093.svg\" alt=\"\"></div>\n                    <div class=\"tmpl_hh_offer__title\">Профессиональный и карьерный рост</div>\n                </div>\n                <ul>\n                    <li>Профессионализм коллег и атмосфера дружелюбия, взаимопомощи — одна из сильных сторон компании, по отзывам наших коллег</li>\n                </ul>\n            </div>\n            <div class=\"tmpl_hh_offer__item\">\n                <div class=\"tmpl_hh_offer__pink\">\n                    <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/406091.svg\" alt=\"\"></div>\n                    <div class=\"tmpl_hh_offer__title\">Комфортные условия для работы</div>\n                </div>\n                <ul>\n                    <li>Аккредитованная IT-компания</li>\n                    <li>График на выбор: офис, микс офис/удаленка или полная удаленка</li>\n                    <li>ДМС со стоматологией и онлайн — поддержкой психолога; компенсация занятий спортом</li>\n                </ul>\n            </div>\n            <div class=\"tmpl_hh_offer__item\">\n                <div class=\"tmpl_hh_offer__pink\">\n                    <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/406088.svg\" alt=\"\"></div>\n                    <div class=\"tmpl_hh_offer__title\">Непрерывное <br>развитие</div>\n                </div>\n                <ul>\n                    <li>Выстроенный onboarding для новичков</li>\n                    <li>Обучение, возможность участия в конференциях</li>\n                    <li>Собственные базы знаний</li>\n                </ul>\n            </div>\n            <div class=\"tmpl_hh_offer__item\">\n                <div class=\"tmpl_hh_offer__pink\">\n                    <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/406089.svg\" alt=\"\"></div>\n                    <div class=\"tmpl_hh_offer__title\">Обратная связь</div>\n                </div>\n                <ul>\n                    <li>Регулярный обмен фидбэком:<br> perfomance review, встречи one-to-one, оценка 360°, ревью кода</li>\n                </ul>\n            </div>\n            <div class=\"tmpl_hh_offer__item\">\n                <div class=\"tmpl_hh_offer__pink\">\n                    <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/406086.svg\" alt=\"\"></div>\n                    <div class=\"tmpl_hh_offer__title\">Внутренние <br>комьюнити</div>\n                </div>\n                <ul>\n                    <li>Стримы и фесты по обмену опытом</li>\n                    <li>Клубы по интересам</li>\n                    <li>Корпоративные ивенты и запоминающиеся корпоративы</li>\n                </ul>\n            </div>\n            <div class=\"tmpl_hh_offer__item\">\n                <div class=\"tmpl_hh_offer__pink\">\n                    <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/406090.svg\" alt=\"\"></div>\n                    <div class=\"tmpl_hh_offer__title\">Старт в IT</div>\n                </div>\n                <ul>\n                    <li>Летние стажировки или практики</li>\n                    <li>Начало карьеры в IT с технической поддержки</li>\n                    <li>Профориентационные встречи со школьниками</li>\n                </ul>\n            </div>\n            <div class=\"tmpl_hh_offer__item\">\n                <div class=\"tmpl_hh_offer__pink\">\n                    <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/406087.svg\" alt=\"\"></div>\n                    <div class=\"tmpl_hh_offer__title\">Реферальный бонус</div>\n                </div>\n                <ul>\n                    <li>Наши сотрудники рекомендуют Экстрим своим друзьям и коллегам, получая привлекательный бонус</li>\n                </ul>\n            </div>\n        </div>\n    </div>\n    <div class=\"tmpl_hh_photos\">\n        <div class=\"tmpl_hh_photo\"><img src=\"https://hhcdn.ru/ichameleon/426052.jpg\" alt=\"\"></div>\n        <div class=\"tmpl_hh_photo\"><img src=\"https://hhcdn.ru/ichameleon/426051.jpg\" alt=\"\"></div>\n        <div class=\"tmpl_hh_photo\"><img src=\"https://hhcdn.ru/ichameleon/426053.jpg\" alt=\"\"></div>\n        <div class=\"tmpl_hh_photo\"><img src=\"https://hhcdn.ru/ichameleon/426049.jpg\" alt=\"\"></div>\n        <div class=\"tmpl_hh_photo\"><img src=\"https://hhcdn.ru/ichameleon/426048.jpg\" alt=\"\"></div>\n        <div class=\"tmpl_hh_photo\"><img src=\"https://hhcdn.ru/ichameleon/426050.jpg\" alt=\"\"></div>\n    </div>\n</div>\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "71812",
+    "name": "Экстрим про",
+    "url": "https://api.hh.ru/employers/71812",
+    "alternate_url": "https://hh.ru/employer/71812",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/852596.jpeg",
+      "90": "https://img.hhcdn.ru/employer-logo/3851259.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3851260.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=71812",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-23T09:43:25+0300",
+  "created_at": "2025-05-23T09:43:25+0300",
+  "initial_created_at": "2025-05-12T13:35:39+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120409278",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120409278",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": true,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

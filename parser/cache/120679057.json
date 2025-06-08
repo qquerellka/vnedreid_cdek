@@ -1,0 +1,137 @@
+{
+  "id": "120679057",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист технической поддержки L1",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>&quot;Атом Безопасность&quot; — входит в группу компаний &quot;СКБ Контур&quot;.</strong></p> <p><strong>С 2012 года занимаемся разработкой программных решений в области информационной безопасности.</strong></p> <p><strong>&quot;Атом Безопасность&quot; аккредитованная IT компания, </strong><strong>мы входим в реестр российского ПО, являемся резидентами Сколково и Академпарка.</strong></p> <p>Наш флагманский продукт —– аналитическая система <strong>Staffcop Enterprise</strong>, которая направлена на комплексное обеспечение информационной безопасности предприятия, снижения рисков, связанных с внутренними угрозами информационной безопасности. Среди наших клиентов — представители крупного, среднего и малого бизнеса, коммерческие предприятия и государственные службы.</p> <p><strong>О продукте:</strong></p> <p>Продукт состоит из агента и сервера. Агент — является desktop приложением с консольным интерфейсом. Он устанавливается на ОС Windows, Linux, Mac, собирает информацию о деятельности пользователей и отправляет ее на сервер.</p> <p>Сервер — отвечает за конфигурирование агентов, обработку полученных данных от агентов и предоставление информации в виде отчетов, а так же самостоятельно построенных фильтров. Для взаимодействия с пользователем имеет GUI(web) и CLI интерфейсы.</p> <p>В команде техподдержки инженеры 1, 2 и 3 линии.</p> <p>Сейчас мы приглашаем в команду инженера 1 линии, который уверенно работает в командной строке Linux/Windows и знает сетевой стек.</p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Установка и помощь в интеграции продукта на платформе заказчика;</li> <li>Настройка инфраструктурных сервисов заказчиков на платформе Linux и Windows, администрирование серверов для корректного функционирования продукта у заказчика;</li> <li>Оперативное обнаружение и устранение инцидентов в продукте;</li> <li>Постановка задач на исправление инцидентов для отдела разработки, также, самостоятельное исправление инцидентов;</li> <li>Прямая коммуникация с клиентами, консультации по телефону и в чатах технической поддержки.</li> </ul> <strong>Мы ищем коллегу, который имеет:</strong> <ul> <li>Базовые знания Linux, сетевого стека – уровень знаний как у начинающего системного администратора, умение работать с командной строкой;</li> <li>Опыт работы от 0,5 года;</li> <li>Клиентоориентированность, готовность работать с пользователями;</li> <li>Техническое образование;</li> <li>Опыт запуска утилит диагностики CPU\\RAM\\Диска и прочих подсистем и расшифровки результатов диагностики;</li> <li>Опыт сбора отладочной информации с систем и сервисов;</li> <li>Опыт написания небольших bash и cmd скриптов;</li> <li>Желание учиться в сфере ИТ, интерес к сфере информационной безопасности</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Официальное трудоустройство и преимущества аккредитованной IT компании;</li> <li>Официальная заработная плата: оклад + ежемесячная премия;</li> <li>График 5/2 с 10:00 до 19:00 по Москве, выходные – суббота и воскресенье, а также все праздничные дни;</li> <li>Удаленный формат работы;</li> <li>Возможность постоянно прокачивать и совершенствовать свои навыки;</li> <li>Предоставляем технику для работы;</li> <li>ДМС;</li> <li>Частичная компенсация затрат на питание и спорт;</li> <li>Яркие и незабываемые корпоративы!</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Техническая поддержка"
+    },
+    {
+      "name": "TCP/IP"
+    },
+    {
+      "name": "Active Directory"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "1241772",
+    "name": "Атом Безопасность",
+    "url": "https://api.hh.ru/employers/1241772",
+    "alternate_url": "https://hh.ru/employer/1241772",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1415882.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7283188.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7283189.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1241772",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-19T08:53:45+0300",
+  "created_at": "2025-05-19T08:53:45+0300",
+  "initial_created_at": "2025-05-19T08:53:45+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120679057",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120679057",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b1",
+        "name": "B1 — Средний"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

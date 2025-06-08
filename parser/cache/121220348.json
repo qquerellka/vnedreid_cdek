@@ -1,0 +1,143 @@
+{
+  "id": "121220348",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Senior Frontend Developer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 200000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 200000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы хотим изменить мир и поэтому делаем комплексное решение для <em><strong>Digital Pathology.</strong></em></p> <p>Мы хотим, чтоб каждый человек мог быстро и без лишних трат получить диагноз по онкологии, а также второе мнение. Чтобы обеспечить это мы делаем: hard, облачную платформу для второго мнения и AI-инструменты для поддержки принятия врачебных решений.</p> <p><strong>Платформа</strong> - это основной инструмент для совместной работы патологов, клиницистов и радиологов. Основная задача продукта:</p> <ul> <li>обеспечить работу в мультидисциплинарных командах</li> <li>обеспечить быстрый обмен диагностическими данными о пациенте, как внутри медучреждения, так и между медучреждениями</li> <li>критически уменьшить время на постановку диагноза и получение второго мнения</li> </ul> <p>PS: Со стороны пользовательского интерфейса наша платформа схожа с Miro и Figma: мы решаем те же задачи, но для другого сегмента пользователей. Со стороны технологий - high load, так как мы работаем с сотнями тысячами изображений, каждое из которых весит от 1 до 10 Gb.</p> <p><strong>Кого мы ищем:</strong><br />Мы ищем крепкого frontend разработчика, который возьмет на себя развитие Платформы OneCell.ai: от реализации сложного UI до развития архитектуры проекта.</p> <p>Платформа OneCell.ai уже развёрнута и работает в нескольких крупных клиниках Москвы.</p> <div><strong>Ожидания:</strong></div> <ul> <li>Опыт применения аналогичного технологического стека</li> <li>Кейсы построения/развития frontend архитектуры</li> <li>Опыт работы в продуктовой команде и самостоятельного принятия решений</li> </ul> <div><strong>Стек на проекте:</strong></div> <ul> <li>React </li> <li>Настроена максимально простая и удобная разработка проекта с помощью Rsbuild (+ Rspack)</li> <li>Другие интересные штуки: работа с геометрией на canvas, drag&amp;drop, виртуальные списки.</li> <li>Sentry для мониторинга ошибок.</li> <li>Typescript</li> <li>Redux-toolkit</li> <li>Styled-components</li> <li>Ant.design</li> <li>React query</li> <li>Open layers</li> <li>Websockets</li> <li>методология feature-sliced.</li> <li>Настроена максимально простая и удобная разработка проекта с помощью последней версии webpack + есть hot reload</li> <li>Есть eslint + prettier, для автоформатирования кода.</li> <li>На будущее добавили Sentry для мониторинга ошибок.</li> </ul> <p>Другие интересные штуки: Drag&amp;Drop, виртуальные списки, рисование на canvas.</p> <p>В будущем, при необходимости, можно будет внедрить использование tailwind для стилей.</p> <div><strong>О проекте:</strong></div> <p>Платформа представляет собой web-приложение(spa), основной функцией которой является возможность загрузки и просмотра и менеджмента больших изображений.</p> <p> </p> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Прямое влияние на продукт и его развитие</li> <li>Работа в распределенной команде</li> <li>Достойная ЗП (оговаривается с каждым кандидатом отдельно)</li> </ul> <p> </p> <p> </p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "TypeScript"
+    },
+    {
+      "name": "React"
+    },
+    {
+      "name": "Redux"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "472",
+    "name": "Дартс рекрутинг сервисез",
+    "url": "https://api.hh.ru/employers/472",
+    "alternate_url": "https://hh.ru/employer/472",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1090785.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5983765.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5983766.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=472",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T12:54:55+0300",
+  "created_at": "2025-06-02T12:54:55+0300",
+  "initial_created_at": "2025-06-02T12:54:55+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121220348",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121220348",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,123 @@
+{
+  "id": "121308383",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Frontend-разработчик (Vue 3)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Мы создаем единое цифровое рабочее пространство</strong>, объединяющее в себе различные функции, для эффективной совместной работы больших и маленьких команд.</p> <p><strong>Ищем в слаженную команду Frontend-разработчика, который умеет писать чистый код и знает, как сделать интерфейсы удобными и быстрыми.<br /><br />Если ты знаешь Vue 3, TypeScript и любишь UI/UX так же, как мы— присоединяйся к нам!</strong></p> <p><br /><strong>Задачи Frontend разработчика:</strong></p> <ul> <li>разрабатывать новые фичи и улучшать интерфейсы наших продуктов;</li> <li>работать с <strong>Vue 3</strong>, <strong>TypeScript</strong>, <strong>WebSockets</strong>, nx и пр.;</li> <li>оптимизировать производительность и писать поддерживаемый код;</li> <li>взаимодействовать с backend разработчиками, дизайнерами и project менеджерами (занудных митингов не будет :));</li> <li>работать с монорепозиториями (если умеешь — круто, если нет — научим);</li> <li>влиять на архитектуру и технические решения.</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>работу в команде, где нет бюрократии и душных процессов;</li> <li>интересные задачи, крутые технологии и отсутствие legacy-ада;</li> <li>гибкий график и возможность работать удаленно;</li> <li>доход, который радует (а не заставляет искать подработку);</li> <li>дружную атмосферу, где можно не только работать, но и весело проводить время.</li> </ul> <p><strong>Нам важно:</strong></p> <ul> <li>опыт во <strong>Frontend от 3 лет</strong>;</li> <li>знания<strong> JavaScript</strong>, <strong>TypeScript </strong>и <strong>Vue 3</strong>;</li> <li>опыт работы с <strong>WebSockets</strong>, API и реального времени;</li> <li>умение писать чистый и понятный код (без боли для коллег);</li> <li>любовь к хорошему UI/UX (не нужно быть дизайнером, но понимать, что удобно пользователю);</li> <li>открытость к общению и чувство юмора (нам важены не только скиллы, но и вайб в команде).</li> </ul> <p><strong>Большим плюсом будет: </strong></p> <ul> <li>опыт работы с монорепами и NX;</li> <li>опыт настройки CI/CD (чтобы код быстрее попадал в прод).</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "VueJS"
+    },
+    {
+      "name": "GitHub"
+    },
+    {
+      "name": "TypeScript"
+    },
+    {
+      "name": "JavaScript"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11835160",
+    "name": "ТКХ",
+    "url": "https://api.hh.ru/employers/11835160",
+    "alternate_url": "https://hh.ru/employer/11835160",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11835160",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T19:04:04+0300",
+  "created_at": "2025-06-03T19:04:04+0300",
+  "initial_created_at": "2025-06-03T19:04:04+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121308383",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121308383",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

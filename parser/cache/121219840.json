@@ -1,0 +1,125 @@
+{
+  "id": "121219840",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Аналитик 1С: документооборот",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 200000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 200000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>Участие в проекте внедрения 1С:Документооборот, ред. 3.0;</li> <li>Подготовка и анализ требований к системе;</li> <li>Выполнение настроек по полученным требованиям;</li> <li>Подготовка технических заданий на доработку системы;</li> <li>Тестирование доработок и сдача заказчику;</li> <li>Проведение демонстраций и обучение пользователей;</li> <li>Участие в проработе интеграционных решений со смежными системами.</li> </ul> <ul> </ul> <p><strong>Требования:</strong></p> <ul> <li>Отличное знание конфигурации 1С:ДО;</li> <li>Умение подготовить детальное техническое задание на доработку системы;</li> <li>Умение читать код на встроенном языке;</li> <li>Опыт участия в крупных проектах внедрения систем на базе 1С;</li> <li>Опыт проведения обучения и подготовки технической документации;</li> <li>1С:Документооборот;</li> <li>Любое ПО для моделирования бизнес-процессов.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Работа в крупном развивающемся холдинге, одном из лидеров рынка;</li> <li>Официальное трудоустройство по ТК РФ (оплата больничных, отпусков и пр.)</li> <li>Конкурентная, полностью белая и своевременная заработная плата: оклад+ премиальная часть (квартально);</li> <li>Предоставление ноутбука и корпоративной мобильной связи;</li> <li>Возможность пользоваться программами нашего Корпоративного университета;</li> <li>Возможности для профессионального и карьерного роста, мы нацелены на развитие сотрудников.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "10",
+      "name": "Аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3417016",
+    "name": "Холдинг Аква",
+    "url": "https://api.hh.ru/employers/3417016",
+    "alternate_url": "https://hh.ru/employer/3417016",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/834161.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3777527.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3777528.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3417016",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T12:47:34+0300",
+  "created_at": "2025-06-02T12:47:34+0300",
+  "initial_created_at": "2025-06-02T12:47:34+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121219840",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121219840",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

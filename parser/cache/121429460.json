@@ -1,0 +1,197 @@
+{
+  "id": "121429460",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Senior Python developer/ Ведущий разработчик (FastAPI)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 300000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 300000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Новоданиловская набережная",
+    "building": "12",
+    "lat": 55.695281,
+    "lng": 37.625325,
+    "description": null,
+    "raw": "Москва, Новоданиловская набережная, 12",
+    "metro": {
+      "station_name": "Верхние Котлы",
+      "line_name": "МЦК",
+      "station_id": "95.532",
+      "line_id": "95",
+      "lat": 55.69,
+      "lng": 37.618889
+    },
+    "metro_stations": [
+      {
+        "station_name": "Верхние Котлы",
+        "line_name": "МЦК",
+        "station_id": "95.532",
+        "line_id": "95",
+        "lat": 55.69,
+        "lng": 37.618889
+      },
+      {
+        "station_name": "ЗИЛ",
+        "line_name": "МЦК",
+        "station_id": "95.531",
+        "line_id": "95",
+        "lat": 55.698333,
+        "lng": 37.648333
+      },
+      {
+        "station_name": "Крымская",
+        "line_name": "МЦК",
+        "station_id": "95.533",
+        "line_id": "95",
+        "lat": 55.690038,
+        "lng": 37.605
+      },
+      {
+        "station_name": "Нагатинская",
+        "line_name": "Серпуховско-Тимирязевская",
+        "station_id": "9.85",
+        "line_id": "9",
+        "lat": 55.682099,
+        "lng": 37.620917
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>О нас:</strong></p> <p>«Эквариум» — это амбициозный финтех-стартап, специализирующийся на разработке передовых платёжных решений.</p> <p>Наша миссия — создать удобную и безопасную онлайн-платформу для финансовых операций по типу Stripe и Paypal, которая станет основой для будущего онлайн-банка.</p> <p><strong>Стек:</strong> Python 3.10, FastAPI, PostgreSQL, SQLAlchemy, Docker, Kubernetes (k8s).</p> <p> </p> <p><strong>Мы ожидаем:</strong></p> <ul> <li>Опыт коммерческой разработки на Python <strong>от 5-ти лет.</strong></li> <li>Глубокие знания FastAPI и работы с асинхронностью (asyncio, multiprocessing).</li> <li>Опыт работы с PostgreSQL (оптимизация сложных SQL-запросов, проектирование БД, индексация).</li> <li>Опыт создания <strong>высоконагруженных приложений.</strong></li> <li>Опыт работы с unit и интеграционными тестами (Pytest, Mock).</li> <li>Опыт работы с Docker, k8s; понимание CI/CD.</li> <li>Опыт построения микросервисной архитектуры.</li> <li>Опыт оптимизации производительности API, кэширования, балансировки нагрузки.</li> <li>Ответственность и внимание к деталям, самоорганизованность.</li> <li>Возможность <strong>посещать офис 4 дня в неделю.</strong></li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Умение разрабатывать масштабируемые и отказоустойчивые сервисы.</li> <li>Опыт работы с платежными шлюзами и API других финансовых систем.</li> <li>Умение работать по Scrum.</li> <li>Опыт менторства.</li> </ul> <p> </p> <p><strong>Предстоящие задачи:</strong></p> <ul> <li>Разработка и поддержка новых функциональных модулей системы.</li> <li>Интеграция с внешними API сторонних систем.</li> <li>Оптимизация работы микросервисов и баз данных.</li> <li>Написание и поддержка unit и интеграционных тестов.</li> <li>Участие в ревью кода и улучшение процессов разработки.</li> <li>Оптимизации производительности API.</li> <li>Менторинг мидлов и джунов.</li> </ul> <p> </p> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Гибридный формат и гибкое начало дня с 10:00 до 12:00.</li> <li>Интересные и сложные задачи для создания лучших it-решений.</li> <li>Конкурентоспособная заработная плата в зависимости от твоего опыта и результатов. Мы всегда открыты к диалогу и готовы рассмотреть различные варианты.</li> <li>Возможности для роста: мы ценим стремление к развитию и готовы поддерживать наших сотрудников на пути к карьерным достижениям.</li> <li>Отсутствие громоздкой бюрократии, что позволяет быстро принимать решения и реализовывать идеи. Ты сможешь сосредоточиться на своей работе и вносить реальный вклад в развитие компании, не теряя при этом времени на ненужные процессы, а твои инициативы будут услышаны и поддержаны.</li> <li>Молодая сплоченная команда и регулярные тимбилдинги: мы вместе выезжаем на природу, ходим на перекусы и играем в настолки :)</li> <li>А еще у нас есть свой корпоративный психолог, потому что мы понимаем, насколько важно поддерживать эмоциональное здоровье наших сотрудников. </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "SQLAlchemy"
+    },
+    {
+      "name": "FastAPI"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Kubernetes"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11631298",
+    "name": "Эквариум",
+    "url": "https://api.hh.ru/employers/11631298",
+    "alternate_url": "https://hh.ru/employer/11631298",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11631298",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T16:29:17+0300",
+  "created_at": "2025-06-06T16:29:17+0300",
+  "initial_created_at": "2025-06-06T16:29:17+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121429460",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121429460",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

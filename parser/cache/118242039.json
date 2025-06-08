@@ -1,0 +1,143 @@
+{
+  "id": "118242039",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "улица 8 Марта",
+    "building": "32А",
+    "lat": 56.829965,
+    "lng": 60.600789,
+    "description": null,
+    "raw": "Екатеринбург, улица 8 Марта, 32А",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Embedika —</strong> российская научно-технологическая ИТ-компания, разработчик продуктов и корпоративных ИТ-систем на основе технологий обработки естественного языка и машинного обучения.</p> <p><strong>Мы</strong> — команда инженеров, аналитиков и экспертов в области цифровой трансформации, которые исследуют данные и способы работы с ними.</p> <p><strong>Реализовываем комплексные ИТ-проекты</strong>, стремимся создавать <strong>доступные сервисы с ИИ для всех</strong>. Объединяем опыт разработки систем для бизнеса и научные исследования, чтобы создавать решения, которые помогают профессионалам.</p> <p>В связи с увеличением количества проектов, <strong>мы ищем системного аналитика, </strong>который поможет усилить нашу команду и станет важной частью нашего коллектива.</p> <p><br /><strong>Чем предстоит заниматься:</strong></p> <ul> <li> <p>Анализом требований к сервисам с точки зрения функциональной части</p> </li> <li> <p>Участием в проектировании сервисов и различных подсистем</p> </li> <li> <p>Проектированием API: поля, ошибки, валидация, стандартизация</p> </li> <li> <p>Постановкой и написанием задач</p> </li> <li> <p>Составлением технической документации сервисов, включая диаграммы</p> </li> <li> <p>Написанием технической части тз/чтз</p> </li> <li> <p>Передачей технических требований и ограничений на бизнес-часть</p> </li> <li> <p>Проведением презентаций результатов разработки</p> </li> </ul> <p><strong>Ожидания от кандидата:</strong></p> <ul> <li> <p>Опыт работы от 1-3 лет</p> </li> <li> <p>Опыт составления и согласования технический требований и проектной документации</p> </li> <li> <p>Опыт работы по проектированию API и процессов</p> </li> <li> <p>Знание принципов REST/SOAP взаимодействий, очередей сообщений</p> </li> <li> <p>Опыт написания и постановки задач</p> </li> <li> <p>Понимание структур XML, XSD, JSON и других</p> </li> <li> <p>Знание UML, BPMN (проектирование концептуальных верхнеуровневых схем взаимодействия)</p> </li> <li> <p>Знание прочих видов диаграмм C4, последовательностей и т.п.</p> </li> <li> <p>SQL и БД</p> </li> <li> <p>Знание основных сетевых протоколов обмена данными</p> </li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li> <p>Kafka</p> </li> <li> <p>Docker, Kubernetes</p> </li> <li> <p>Опыт работы в интеграционных проектах</p> </li> <li> <p>Знание языка программирования (java, c#, python, scala)</p> </li> </ul> <p><strong>Предлагаем:</strong></p> <ul> <li> <p>Конкурентоспособное предложение по зарплате в зависимости от уровня твоих навыков</p> </li> <li> <p>Комфортный график: гибрид/офис/удаленка на выбор</p> </li> <li> <p>Работа в аккредитованной IT компании</p> </li> <li> <p>Современное производительное оборудование</p> </li> <li> <p>ДМС со стоматологией после прохождения испытательного срока</p> </li> <li> <p>Возможность карьерного и профессионального роста</p> </li> <li> <p>Комфортный офис в центре города, уютная кухня, теннисный стол, кикер, турники, терраса с видом на город</p> </li> </ul> <p><strong>Что ценят наши сотрудники:</strong></p> <ul> <li> <p>Отсутствие бюрократии, гибкость в решении рабочих вопросов</p> </li> <li> <p>Дружеская атмосфера и открытость руководства — у нас все на «ты», независимо от должности</p> </li> <li> <p>Мы ценим проактивность и инициативность, команда всегда открыта к идеям и предложениям</p> </li> <li> <p>Поддержка опытного наставника на период адаптации</p> </li> <li> <p>Каждые полгода проводим Performance Review</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "API"
+    },
+    {
+      "name": "REST/SOAP"
+    },
+    {
+      "name": "SQL"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "148",
+      "name": "Системный аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4598746",
+    "name": "Эмбедика",
+    "url": "https://api.hh.ru/employers/4598746",
+    "alternate_url": "https://hh.ru/employer/4598746",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1417806.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7290873.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7290874.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4598746",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-11T12:36:31+0300",
+  "created_at": "2025-05-11T12:36:31+0300",
+  "initial_created_at": "2025-03-12T12:36:29+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=118242039",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/118242039",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

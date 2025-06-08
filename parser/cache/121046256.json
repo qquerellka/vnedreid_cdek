@@ -1,0 +1,115 @@
+{
+  "id": "121046256",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Operations Payments Specialist",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <p> </p> <ul> <li>Проведение анализа конверсии подключенных платежных решений на продукте;</li> <li>Реагирование на изменение конверсии платежных решений, оповещение об этом payments-команды и смежных департаментов;</li> <li>Настройка роутинга платежных провайдеров для стабилизации прохождения платежей;</li> <li>Поиск багов и недоработок по подключенным платежным решениям, постановка задач на разработку для их исправления;</li> <li>Ввод методов в опытную эксплуатацию и контроль режима ОЭ</li> <li> <p>Ведение документации по платёжным системам: карточки, чаты, учётки, коды ошибок, блоклисты;</p> </li> </ul> <p> </p> <p> </p> <p> </p> <p><strong>Требования:</strong></p> <ul> <li> <p>Практический опыт работы в Fintech (PSP ), понимание принципов работы платёжных систем;</p> </li> <li> <p>Отличные аналитические способности и внимание к деталям;</p> </li> <li> <p>Проактивность и самоорганизованность, высокий уровень ответственности и ориентация на результат.</p> </li> </ul> <strong>Условия:</strong> <ul> <li>Работа в удаленном формате или офис на Кипре</li> <li>График 5/2, Фуллтайм, гибкое начало рабочего дня;</li> <li>Достойный уровень заработной платы обсуждается на интервью;</li> <li>После успешного прохождения испытательного срока привлекательный пакет бенефитов: медицинская страховка, индивидуальное обучение английскому на платформе SkyEng, компенсацию обучения.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "73",
+      "name": "Менеджер продукта"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5898393",
+    "name": "Финтех",
+    "url": "https://api.hh.ru/employers/5898393",
+    "alternate_url": "https://hh.ru/employer/5898393",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/922811.png",
+      "90": "https://img.hhcdn.ru/employer-logo/4131804.png",
+      "240": "https://img.hhcdn.ru/employer-logo/4131805.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5898393",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T14:54:36+0300",
+  "created_at": "2025-06-02T14:54:36+0300",
+  "initial_created_at": "2025-05-27T17:40:57+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121046256",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121046256",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

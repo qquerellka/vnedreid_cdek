@@ -1,0 +1,189 @@
+{
+  "id": "120473428",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "IOS developer (Swift) middle/middle+/IOS разработчик мидл",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 200000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 200000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "улица Достоевского",
+    "building": "40-44",
+    "lat": 59.922233,
+    "lng": 30.345279,
+    "description": null,
+    "raw": "Санкт-Петербург, улица Достоевского, 40-44",
+    "metro": {
+      "station_name": "Владимирская",
+      "line_name": "Кировско-Выборгская",
+      "station_id": "14.200",
+      "line_id": "14",
+      "lat": 59.927628,
+      "lng": 30.347898
+    },
+    "metro_stations": [
+      {
+        "station_name": "Владимирская",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.200",
+        "line_id": "14",
+        "lat": 59.927628,
+        "lng": 30.347898
+      },
+      {
+        "station_name": "Достоевская",
+        "line_name": "Лахтинско-Правобережная",
+        "station_id": "17.238",
+        "line_id": "17",
+        "lat": 59.928234,
+        "lng": 30.346029
+      },
+      {
+        "station_name": "Лиговский проспект",
+        "line_name": "Лахтинско-Правобережная",
+        "station_id": "17.239",
+        "line_id": "17",
+        "lat": 59.920811,
+        "lng": 30.355055
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Здравствуйте! Ищем пополнение в группу разработки мобильных приложений Колос Студио.</p> <p>Хотели бы найти человека с репрезентативным опытом (middle, middle+). Если пока вы категоризируете себя, как начинающего инженера — просим не откликаться :)</p> <p><strong>Про нас:</strong><br /><strong>Kolos Studio</strong> — интернет-агентство полного цикла, основанное в 2005 году, разрабатывающее и обслуживающее мобильные приложения, сайты и смежные сервисы ведущих федеральных и региональных игроков, локальные проекты и стартапы. Мы — небольшая команда, работающая большую часть времени удаленно (физический офис — есть, в Петербурге).</p> <p><strong>Кого ищем:</strong><br />Ищем позитивного человека для долгосрочного сотрудничества, для которого:</p> <ul> <li>не желательна бюрократия и формальности (встречи ради встреч, а не потому что это действительно нужно для решения задачи; не особенно искренние разговоры про сплоченность и корпоративные ценности);</li> <li>ценно уважительное отношение и уважительно относящийся к окружающим;</li> <li>важна возможность профессионального развития;</li> <li>Другими словами: человека, увлеченного разработкой, который хочет заниматься ею, не отвлекаясь на побочное.</li> </ul> <p><strong>Кратко о работе:</strong></p> <ul> <li>Гибко подходим к бизнес-процессам: хотя мы работаем далеко не первый год, понимаем, что некоторые наши внутренние процессы не идеальны и поэтому открыты к здравым предложениям;</li> <li>Предполагается работа под руководством ведущего разработчика (senior, проводит код-ревью, формирует рекомендации по архитектуре и пр.) и проджект-менеджера (технического, он формирует ТЗ, обеспечивает наличие методов API, макетов);</li> <li>Поддерживаем не один проект, поэтому можно работать не все время над одним и тем же. Конечно, подразумевается не переключение между задачами / проектами несколько раз в день (такие переключения — зло, мы это понимаем).</li> </ul> <p><strong>Обязанности:</strong></p> <ul> <li>Разработка нового функционала, расширение существующего в приложениях, написанных на Swift;</li> <li>В перспективе — включение в разработку новых проектов;</li> <li>Участие в живых проектах с большой аудиторией реальных пользователей;</li> <li>Позитивность :)</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Уверенное знание Swift;</li> <li>«Классика»: UIKit, Foundation, MVC-Cocoa;</li> <li>Rx (Swift/Cocoa) и/или Combine;</li> <li>MVVM (model-view-viewmodel), SOA;</li> <li>Базовые вещи: Git, таск-трекеры (мы применяем Jira);</li> <li>Обучаемость.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Удаленная работа;</li> <li>Гибкий график (по умолчанию 8-ми часовой день, 5 дней в неделю; можно рассматривать другие варианты (подработка 4-6 часов, совмещение с учебой и пр.); гибкий подход к началу / окончанию рабочего времени);</li> <li>Оплачиваемые больничные, отпуска;</li> <li>Оформление по ТК РФ (если для Вас предпочтительно иное оформление — готовы обсуждать);</li> <li>Уважительное отношение;</li> <li>Профессиональное развитие;</li> <li>Мы — аккредитованная IT компания :) (аккредитация нужна для получения заявляемых государством льгот для IT-специалистов).</li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Swift"
+    },
+    {
+      "name": "iOS"
+    },
+    {
+      "name": "Rx"
+    },
+    {
+      "name": "MVVM"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "1043168",
+    "name": "Колос Студио",
+    "url": "https://api.hh.ru/employers/1043168",
+    "alternate_url": "https://hh.ru/employer/1043168",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1043168",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-13T13:32:17+0300",
+  "created_at": "2025-05-13T13:32:17+0300",
+  "initial_created_at": "2025-05-13T13:32:17+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120473428",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120473428",
+  "working_days": [],
+  "working_time_intervals": [
+    {
+      "id": "from_four_to_six_hours_in_a_day",
+      "name": "Можно сменами по 4-6 часов в день"
+    }
+  ],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_4",
+      "name": "4 часа"
+    },
+    {
+      "id": "HOURS_6",
+      "name": "6 часов"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "id": "121022778",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Frontend-разработчик (Junior frontend developer)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": null,
+    "to": 58000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": null,
+    "to": 58000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Люсиновская улица",
+    "building": "38",
+    "lat": 55.722269,
+    "lng": 37.620492,
+    "description": null,
+    "raw": "Москва, Люсиновская улица, 38",
+    "metro": {
+      "station_name": "Добрынинская",
+      "line_name": "Кольцевая",
+      "station_id": "5.36",
+      "line_id": "5",
+      "lat": 55.728994,
+      "lng": 37.622533
+    },
+    "metro_stations": [
+      {
+        "station_name": "Добрынинская",
+        "line_name": "Кольцевая",
+        "station_id": "5.36",
+        "line_id": "5",
+        "lat": 55.728994,
+        "lng": 37.622533
+      },
+      {
+        "station_name": "Серпуховская",
+        "line_name": "Серпуховско-Тимирязевская",
+        "station_id": "9.37",
+        "line_id": "9",
+        "lat": 55.726548,
+        "lng": 37.624792
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>amoCRM</strong> — IT-компания с государственной аккредитацией, более 7 лет на международном рынке и один из лидеров в области разработки систем учета клиентов. Наша CRM-система помогает компаниям по всему миру улучшать продажи и выстраивать эффективные взаимоотношения с клиентами в России, СНГ, США, Индонезии, Европе и Латинской Америке.</p> <p>Мы ищем в московский офис <strong>начинающих frontend-разработчиков</strong>, которые хотят раскрыть свой потенциал.</p> <p>В начале пути тебя ждет <strong>трехнедельная стажировка </strong>под присмотром наставника, где ты познакомишься с amoCRM и инструментами, которые мы используем при разработке.</p> <p>А после попадешь в одну из продуктовых команд, где начнешь выполнять свои первые боевые задачи.</p> <p>Мы открыты к сотрудничеству с разработчиками разного уровня. Вы можете ещё учиться в ВУЗ-е - мы готовы рассмотреть кандидатов с гибким графиком (<strong>от 30-ти рабочих часов в неделю)</strong>. Даже если у вас нет коммерческого опыта, но есть свои проекты, вы хотите развиваться и получать новые компетенции - мы обязательно рассмотрим ваше резюме!</p> <p><strong>Что вас ждёт?</strong></p> <ul> <li><strong>Трехнедельная оплачиваемая стажировка </strong>под присмотром наставника;</li> <li>Работа над нашим основным продуктом, CRM-системой с большим количеством интерфейсов: списки, воронки, карточки с динамическим таймлайном событий, почта, аналитика (работа с графикой) и прочие;</li> <li>Комплексное решение задач на фронте от верстки отдельных UI-компонентов, до проработки взаимодействия с API микро-сервисов;</li> <li>Участие как в разработке новых частей системы, так и поддержке уже существующих;</li> <li>Работа в команде профессионалов;</li> <li>Адекватное финансовое вознаграждение;</li> <li>Быстрый рост в компании, ​у нас реально из Junior-разработчика стать Middle-разработчиком за 6-10 месяцев, а за 8-12 месяцев стать Team Lead!</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Базовые знания <strong>JavaScript </strong>и <strong>React;</strong></li> <li><strong>Pixel-perfect </strong>и адаптивная верстка;</li> <li>Умение работать в команде;</li> <li>Желание учиться и расти вместе с командой.</li> </ul> <p><strong>Будет плюсом, если ты знаешь:</strong></p> <ul> <li>Webpack;</li> <li>Twig или другие шаблонизаторы;</li> <li>Знание Typescript</li> <li>Docker.</li> </ul> <p><strong>Условия работы:</strong></p> <ul> <li><strong>Оплачиваемая стажировка </strong>в течение 3-х недель под присмотром наставника;</li> <li><strong>Работа в офисе</strong> в центре Москвы в шаговой доступности от м. Добрынинская/м. Серпуховская;</li> <li>График 5/2, с гибким начало дня (10:00 - 11:00);</li> <li><strong>Возможность гибкого графика</strong>, чтобы совмещать работу с учебой (но <strong>не менее 30-ти часов в неделю</strong>);</li> <li>Работа над интересным международным проектом в технически сильной команде;</li> <li>Возможность карьерного и профессионального роста;</li> <li>Без бюрократии, без дресс-кода;</li> <li>Бесплатные печенье, чай, кофе;</li> <li>50% компенсация питания в офисе в формате вендинговых автоматов.</li> </ul> <p><strong>Ждём ваше резюме!</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Webpack"
+    },
+    {
+      "name": "GitHub"
+    },
+    {
+      "name": "TypeScript"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "999442",
+    "name": "amoCRM",
+    "url": "https://api.hh.ru/employers/999442",
+    "alternate_url": "https://hh.ru/employer/999442",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1400028.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7219883.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7219884.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=999442",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T11:34:20+0300",
+  "created_at": "2025-06-05T11:34:20+0300",
+  "initial_created_at": "2025-05-27T11:34:20+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121022778",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121022778",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

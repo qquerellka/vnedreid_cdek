@@ -1,0 +1,159 @@
+{
+  "id": "110374155",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Помощник системного администратора",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 25000,
+    "to": 30000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 25000,
+    "to": 30000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "улица Пальмиро Тольятти",
+    "building": "32",
+    "lat": 56.821321,
+    "lng": 60.57613,
+    "description": null,
+    "raw": "Екатеринбург, улица Пальмиро Тольятти, 32",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Крупнейшая на Урале сеть ортопедических салонов <strong>&quot;Ортикс&quot; (более 15 лет на рынке) </strong>приглашает на работу на новую ставку <em><strong>помощника системного администратора</strong></em></p> <p><strong>Обязанности:</strong></p> <ul> <li>Помощь в прокладке СКС;</li> <li>Поддержка пользователей;</li> <li>Техническое обслуживание работы компьютеров и орг.техники;</li> <li>Исполнение поручений системного администратора.</li> </ul> <strong>Требования:</strong> <ul> <li>Желание обучаться новому;</li> <li>Умение работать одновременно руками и головой :)</li> <li>Сообразительный, технический склад ума</li> <li><strong>Опыт работы не важен</strong>.</li> </ul> <strong>Условия:</strong> <ul> <li> <p><strong>Официальное </strong>трудоустройство по ТК РФ;</p> </li> <li> <p><strong>ДМС</strong> ч/з пол года после трудоустройства;</p> </li> <li> <p><strong>Премия </strong>за выслугу лет в компании;</p> </li> <li> <p>Возможность <strong>карьерного роста</strong>;</p> </li> <li> <p>Молодой дружный коллектив;</p> </li> <li> <p>Пятидневная рабочая неделя с 9:00 до 18:00;</p> </li> <li> <p>Оплата: оклад + %</p> </li> <li>Место работы: г.Екатеринбург, ул. Пальмиро Тольятти, д.32</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Настройка ПК"
+    },
+    {
+      "name": "Техническое обслуживание"
+    },
+    {
+      "name": "Офисная техника"
+    },
+    {
+      "name": "Техническая поддержка"
+    },
+    {
+      "name": "Монтаж оборудования"
+    },
+    {
+      "name": "исполнение поручений руководителя"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4716193",
+    "name": "Ортикс",
+    "url": "https://api.hh.ru/employers/4716193",
+    "alternate_url": "https://hh.ru/employer/4716193",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1118766.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6095657.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6095658.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4716193",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-20T14:24:30+0300",
+  "created_at": "2025-05-20T14:24:30+0300",
+  "initial_created_at": "2024-11-08T09:19:04+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=110374155",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/110374155",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

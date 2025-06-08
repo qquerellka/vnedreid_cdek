@@ -1,0 +1,163 @@
+{
+  "id": "120817664",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Аналитик 1C ERP",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Ленинградский проспект",
+    "building": null,
+    "lat": 55.794285,
+    "lng": 37.545671,
+    "description": null,
+    "raw": "Москва, Ленинградский проспект",
+    "metro": {
+      "station_name": "Динамо",
+      "line_name": "Замоскворецкая",
+      "station_id": "2.34",
+      "line_id": "2",
+      "lat": 55.789704,
+      "lng": 37.558212
+    },
+    "metro_stations": [
+      {
+        "station_name": "Динамо",
+        "line_name": "Замоскворецкая",
+        "station_id": "2.34",
+        "line_id": "2",
+        "lat": 55.789704,
+        "lng": 37.558212
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>Поддержка запуска системы в эксплуатацию;</li> <li>Контроль целостности и непротиворечивости системы при дальнейших доработках после запуска системы;</li> <li>Разработка технических заданий/спецификаций на доработку имеющихся конфигураций;</li> <li>Контроль процесса выполнения задач на доработку и соблюдение сроков. Приемка и тестирование доработок.</li> <li>Сопровождение внедрения новых процессов, описание бизнес- и функциональных требований, написание новых отчётов и обработок;</li> <li>Интеграция со сторонними сервисами, базами;</li> <li>Проведение обучения, поддержка (консультирование) пользователей;</li> <li>Ведение базы проектной документации, поддержка актуальности документации.</li> </ul> <strong>Требования:</strong> <ul> <li>Высшее образование;</li> <li>Опыт работы аналитиком 1С от 3-х лет;</li> <li>Углубленные знания функционала конфигураций 1С ERP;</li> <li>Наличие сертификата консультанта/специалиста 1С ERP и/или 1C Управление холдингом по областям бухгалтерского учета, казначейства и бюджетирования (как преимущество);</li> <li>Практический опыт обновления типовых и нетиповых конфигураций;</li> <li>Написание простейших SQL-запросов и запросов 1С;</li> <li>Опыт разработки технических заданий, проектной документации;</li> <li>Умение коммуницировать в команде и с подрядчиками;</li> <li>Опыт работы в составе проектных команд и прохождение полного цикла проекта: от сбора требований до запуска и решения;</li> <li>Опыт проведения пользовательского обучения;</li> </ul> <strong>Условия:</strong> <ul> <li>Трудоустройство в соответствии с ТК РФ;</li> <li>Конкурентоспособная заработная плата;</li> <li>Бесплатное медицинское страхование и страхование от несчастных случаев;</li> <li>Офис м. Динамо.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "1C: ERP"
+    },
+    {
+      "name": "Документирование бизнес-требований"
+    },
+    {
+      "name": "Разработка технических заданий"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Постановка задач разработчикам"
+    },
+    {
+      "name": "Аналитическое мышление"
+    },
+    {
+      "name": "Автоматизация процессов"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "10",
+      "name": "Аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "21867",
+    "name": "CLAAS",
+    "url": "https://api.hh.ru/employers/21867",
+    "alternate_url": "https://hh.ru/employer/21867",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/227491.gif",
+      "90": "https://img.hhcdn.ru/employer-logo/314137.png",
+      "240": "https://img.hhcdn.ru/employer-logo/386994.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=21867",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-21T13:24:39+0300",
+  "created_at": "2025-05-21T13:24:39+0300",
+  "initial_created_at": "2025-05-21T13:24:39+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120817664",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120817664",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

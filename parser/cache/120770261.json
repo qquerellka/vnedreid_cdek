@@ -1,0 +1,179 @@
+{
+  "id": "120770261",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Администратор CRM систем",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 90000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 90000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": null,
+    "lng": null,
+    "description": null,
+    "raw": null,
+    "metro": {
+      "station_name": "Крестовский остров",
+      "line_name": "Фрунзенско-Приморская",
+      "station_id": "18.247",
+      "line_id": "18",
+      "lat": 59.971821,
+      "lng": 30.259436
+    },
+    "metro_stations": [
+      {
+        "station_name": "Крестовский остров",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.247",
+        "line_id": "18",
+        "lat": 59.971821,
+        "lng": 30.259436
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>TS Solution — федеральный системный интегратор, включенный в список аккредитованных ИТ-компаний. Мы занимаемся решением задач по созданию и оптимизации IT-инфраструктур, защите информации, аналитике машинных данных, а так же осуществляем профессиональное образование в сфере информационной безопасности.</p> <p><strong>В связи с развитием компании мы в поисках Администратора СРМ систем.</strong></p> <p><strong>Основные задачи:</strong></p> <ul> <li>Администрирование СРМ системы БИТРИКС 24;</li> <li>Взаимодействие с отделами компании по вопросам переноса ряда бизнес-процессов в БИТРИКС24;</li> <li>Закрытие внутренних потребностей по доработке БИТРИКС 24 (работа над бизнес-процессами, базой знаний, воронками, интеграциями с сервисами) совместно с внешним интегратором;</li> <li>Администрирование обучающей платформы StartExam;</li> <li>Администрирование обучающей платформы Start X.</li> </ul> <p><strong>Мы ждем от Вас:</strong></p> <ul> <li>Знание Excel на уровне продвинутого пользователя;</li> <li>Опыт работы с Битрикс24 (наличие сертификатов будет преимуществом);</li> <li>Исполнительность, пунктуальность, технический склад ума.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li><strong>Интересную работу</strong> в стабильной, динамично развивающейся компании;</li> <li>Работу в комфортабельном <strong>офисе рядом с метро </strong>Крестовский остров;</li> <li>Молодой и дружный коллектив;</li> <li><strong>Удобный график работы</strong>: пн.-чт. с 10:00 до 18:00, пятница с 10:00 до 17:00, обед - 1 час;</li> <li><strong>Официальное трудоустройство</strong> по ТК РФ: «белая» ЗП, оплачиваемый отпуск и больничные;</li> <li><strong>ДМС</strong> после 6 месяцев работы в компании;</li> <li>Льготы для <strong>аккредитованных ИТ компаний</strong>.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": {
+    "id": 45137,
+    "name": "TS Solution",
+    "top_picture": {
+      "height": 560,
+      "width": 1540,
+      "path": "https://img.hhcdn.ru/branding-pictures/3073858.png",
+      "blurred_path": null
+    },
+    "bottom_picture": {
+      "height": 704,
+      "width": 1540,
+      "path": "https://img.hhcdn.ru/branding-pictures/3073865.png",
+      "blurred_path": null
+    }
+  },
+  "key_skills": [
+    {
+      "name": "Битрикс24"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4522726",
+    "name": "ТС Солюшен",
+    "url": "https://api.hh.ru/employers/4522726",
+    "alternate_url": "https://hh.ru/employer/4522726",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1417968.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7291521.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7291522.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4522726",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-20T14:59:51+0300",
+  "created_at": "2025-05-20T14:59:51+0300",
+  "initial_created_at": "2025-05-20T14:59:51+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120770261",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120770261",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

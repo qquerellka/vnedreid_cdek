@@ -1,0 +1,191 @@
+{
+  "id": "120403359",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный аналитик (senior/middle+/middle)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": null,
+    "to": 400000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 400000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Щёлково",
+    "street": "Талсинская улица",
+    "building": "59с3",
+    "lat": 55.926434,
+    "lng": 37.985621,
+    "description": null,
+    "raw": "Щёлково, Талсинская улица, 59с3",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы ищем Middle/Middle+/Senior системного аналитика для работы над флагманским корпоративным финтех-проектом.</p> <p>Если ты только начинаешь свой путь в системной аналитике и хочешь попробовать свои силы на реальных проектах, не стесняйся направлять резюме, мы рассмотрим твою кандидатуру!</p> <p>С нас — современный стек и архитектура, дружная команда профессионалов и достойный оклад. От вас — опыт работы системным аналитиком от 3-х лет, интерес к финтеху и готовность к вызовам.</p> <p>Обратите внимание, что мы предлагаем <strong>полную удаленку в пределах РФ</strong></p> <p> </p> <p><strong>Что предстоит делать:</strong></p> <ul> <li>Заниматься <strong>только</strong> системной аналитикой!</li> <li>Работать в продуктовой scrum-команде</li> <li>Моделировать бизнес-процессы и сценарии</li> <li>Проектировать систему и интеграции</li> <li>Управлять требованиями, ставить и сопровождать задачи на разработку</li> <li>Участвовать в дейликах, планированиях, демо, общаться с людьми (вы не ослышались)</li> </ul> <p><strong>Наши ожидания:</strong></p> <ul> <li>Опыт работы в системном анализе от 3х лет на корпоративных проектах</li> <li>Опыт работы в scrum (или около-scrum) командах</li> <li>Понимание принципов микросервисной архитектуры.</li> <li>Желание погружаться в сложные процессы и современные решения</li> </ul> <p> </p> <p>Надо знать: BPMN, REST API, Kafka, ERD, SQL, Sequence Diagram, оркестровка и хореография.</p> <p>Будет плюсом: Camunda, ArchiMate, GraphQL, CJM, S&amp;T diagram. Знаете о DDD? Просто отлично</p> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Полная удалёнка</li> <li>Аккредитованная ИТ-компания</li> <li>Интересный продукт, современный стек, микросервисная архитектура</li> <li>Известные клиенты из ТОП-10 в своих сегментах</li> <li>Прокачка скиллов под руководством лидов с 8+ лет опыта</li> <li>Достойный оклад по итогам собеседования + ежеквартальный сбор ОС с премированием лучших сотрудников</li> <li>Возможность взять на себя дополнительные задачи за соответствующее вознаграждение</li> <li>Премии за менторство младших сотрудников</li> <li>Ежеквартальные бонусы и подарки лучшим сотрудникам</li> <li>Пригласите друга и получите щедрое вознаграждение за рекомендацию</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Agile"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "System Analysis"
+    },
+    {
+      "name": "BPMN 2.0"
+    },
+    {
+      "name": "Camunda"
+    },
+    {
+      "name": "Apache Kafka"
+    },
+    {
+      "name": "Use case"
+    },
+    {
+      "name": "БД"
+    },
+    {
+      "name": "User Story"
+    },
+    {
+      "name": "sequence diagram"
+    },
+    {
+      "name": "Attlasian Jira"
+    },
+    {
+      "name": "Atlassian Confluence"
+    },
+    {
+      "name": "Микросервисная архитектура"
+    },
+    {
+      "name": "Моделирование бизнес-процессов"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Системный анализ"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "148",
+      "name": "Системный аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1929231",
+    "name": "НЕТБЕЛЛ",
+    "url": "https://api.hh.ru/employers/1929231",
+    "alternate_url": "https://hh.ru/employer/1929231",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1393866.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7195247.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7195248.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1929231",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-12T12:37:56+0300",
+  "created_at": "2025-05-12T12:37:56+0300",
+  "initial_created_at": "2025-05-12T12:37:56+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120403359",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120403359",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    },
+    {
+      "id": "FLEXIBLE",
+      "name": "Свободный"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

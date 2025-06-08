@@ -1,0 +1,146 @@
+{
+  "id": "120983385",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Разработчик .Net Core",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 270000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 270000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Привет, меня зовут Лариса, я менеджер сервиса Workzilla</p> <p>Мы ищем разработчика в команду проекта.</p> <p><strong>Workzilla </strong>— фриланс биржа для быстрых и несложных заданий. Мы лидеры российского рынка. Прибыльны с первых лет работы (2009г).</p> <p><em>Мы зарегистрированы как ООО “Интеллектуальный поиск” и являемся аккредитованной IT компанией. <strong>Оформление по ТК или ИП. </strong></em></p> <p>Развиваем свой продукт. <strong>В</strong> <strong>продуктовой команде 25 ребят</strong>, включая проджектов, продактов, тестировщиков, аналитиков и дизайнеров. Веб-версией занимаются 6 высококвалифицированных сеньор разработчиков, это отличная возможность работать в команде профессионалов. Мобильными приложениями занимается еще 4 разработчика. Все коллеги имеют возможность влиять на итоговый результат.</p> <p>Кроме Workzilla мы развиваем новые сервисы в области фриланса как в рунете так и на международном рынке, <strong>используя современный стек</strong>. У нас <strong>микросервисная архитектура</strong> и высоконагруженный проект. Сейчас зарегистрировано <strong>более 7 миллионов пользователей</strong>. Продукту уже более 10 лет, а количество legacy кода у нас небольшое, мы уделяем большое внимание качеству кода и постоянно находим время на рефакторинг.</p> <p>Команда супер дружная и профессиональная, несмотря на то, что мы все работаем удаленно из разных городов.</p> <p>Есть разные плюшки: компенсация спорта, ценные подарки на день рождения, ДМС. А еще общаемся помимо работы, проводим совместные развлечения, например, играем в мозгобойню или организуем книжный клуб, раз в год встречаемся на корпоративе в Москве.</p> <p><strong>Основной стек:</strong> С#, .NET Core 6/7, PostgreSQL 14, React</p> <p><em>Ищем специалиста <strong>с коммерческим опытом работы от 3‑х лет</strong>.</em></p> <p><strong>Предлагаем:</strong></p> <ul> <li> <p>Удаленную работу с полной занятостью (40ч в неделю), те ищем человека в штат на полный день;</p> </li> <li> <p>Гибкое время работы, график ПН — ПТ (СБ, ВС и праздники отдыхаем);</p> </li> <li> <p>Режим работы: гибкий, главное чтобы было пересечение (5-6 часов) с основными коллегами;</p> </li> <li> <p>Компенсируем расходы на спорт, дарим ценные подарки на день рождения, ДМС;</p> </li> <li> <p>Регулярно индексируем заработную плату и начисляем индивидуальные бонусы;</p> </li> <li> <p>Поддерживаем корпоративную культуру: раз в год встречаемся на корпоративе в Москве, проводим покерные турниры, интеллектуальные игры, книжный клуб.</p> </li> </ul> <p><strong>Будем рады видеть в команде!</strong></p> <p>Лариса, Менеджер по персоналу Workzilla</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "C#"
+    },
+    {
+      "name": ".NET Core"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "React"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1756231",
+    "name": "Интеллектуальный Поиск",
+    "url": "https://api.hh.ru/employers/1756231",
+    "alternate_url": "https://hh.ru/employer/1756231",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/766486.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3506901.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3506902.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1756231",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T14:34:51+0300",
+  "created_at": "2025-06-07T14:34:51+0300",
+  "initial_created_at": "2025-05-26T14:34:51+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120983385",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120983385",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

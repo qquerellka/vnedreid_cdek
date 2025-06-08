@@ -1,0 +1,155 @@
+{
+  "id": "120867906",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Python Developer / System Administrator with Python Experience",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "part",
+    "name": "Частичная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><em>About Us</em></p> <p>We are a German publishing and software company with a strong focus on Amazon Advertising and product sales via Amazon. Our operations are lean, fast-moving, and tech-driven. To support our internal systems and daily technical needs, we are looking for a hands-on system administrator who is proactive and solution-oriented.</p> <p><em>Overview</em></p> <p>This is a remote, part-time role (15 hrs/week) ideal for a technically skilled all-rounder. You will work on maintaining our internal .NET-based systems, implementing small API updates, solving daily technical issues, and supporting connected devices and tools.</p> <p><strong>Key Responsibilities</strong></p> <ul> <li>Remotely administer and test Android devices and virtual machines.</li> <li>Maintain and optimize internal systems (including .NET, Laravel, Python).</li> <li>Build and operate data aggregation processes via APIs (e.g., TikTok) and web scraping.</li> <li>Implement small technical changes, such as to existing API integrations (e.g., Amazon Advertising, Stripe).</li> <li>Perform scraping and data analysis tasks for reporting and internal research.</li> <li>Identify and implement technical solutions for day-to-day operational needs.</li> </ul> <p><strong>Requirements</strong></p> <ul> <li>Solid experience with Python / Laravel</li> <li>Experience in simple IT Administration</li> <li>Familiarity with basic scripting and data scraping (e.g., Python, PowerShell).</li> <li>Ability to manage and troubleshoot devices and tech tools remotely.</li> <li>Hands-on, practical mindset with a focus on reliability and independence.</li> <li>Experience with .NET (C# or VB.NET) and system administration is a nice extra</li> </ul> <p><strong>Nice to Have</strong></p> <ul> <li>Experience with REST APIs (e.g., Amazon Ads API, Stripe).</li> <li>Background in e-commerce or Amazon marketplace operations.</li> <li>Basic networking and remote access skills.</li> <li>Experience with workflow automation and technical integration projects.</li> </ul> <p><strong>Why join?</strong></p> <ul> <li>A talented, growing team</li> </ul> <ul> <li>Competitive compensation package</li> </ul> <ul> <li>High level of responsibility and space to develop</li> </ul> <ul> <li>Flexible working hours</li> </ul> <ul> <li>An international team of highly experienced people from top tier companies</li> </ul> <p>IMPORTANT: Please provide us a CV with a short letter of intent.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Google Sheets"
+    },
+    {
+      "name": "Databases"
+    },
+    {
+      "name": "API"
+    },
+    {
+      "name": "Amazon API"
+    },
+    {
+      "name": "English"
+    },
+    {
+      "name": "C#"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Remote"
+    },
+    {
+      "name": "Настройка VPS/VDS серверов"
+    },
+    {
+      "name": "Engineering"
+    },
+    {
+      "name": ".NET Core"
+    },
+    {
+      "name": "Laravel"
+    },
+    {
+      "name": "PowerShell"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5373462",
+    "name": "Макаренко Александр Сергеевич",
+    "url": "https://api.hh.ru/employers/5373462",
+    "alternate_url": "https://hh.ru/employer/5373462",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5373462",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-22T13:51:13+0300",
+  "created_at": "2025-05-22T13:51:13+0300",
+  "initial_created_at": "2025-05-22T13:51:13+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120867906",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120867906",
+  "working_days": [],
+  "working_time_intervals": [
+    {
+      "id": "from_four_to_six_hours_in_a_day",
+      "name": "Можно сменами по 4-6 часов в день"
+    }
+  ],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "PART",
+    "name": "Частичная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_4",
+      "name": "4 часа"
+    }
+  ]
+}

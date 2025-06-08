@@ -1,0 +1,193 @@
+{
+  "id": "120415611",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Python-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "2-й Кожевнический переулок",
+    "building": "12с10",
+    "lat": 55.725635,
+    "lng": 37.648537,
+    "description": null,
+    "raw": "Москва, 2-й Кожевнический переулок, 12с10",
+    "metro": {
+      "station_name": "Павелецкая",
+      "line_name": "Замоскворецкая",
+      "station_id": "2.101",
+      "line_id": "2",
+      "lat": 55.729741,
+      "lng": 37.638693
+    },
+    "metro_stations": [
+      {
+        "station_name": "Павелецкая",
+        "line_name": "Замоскворецкая",
+        "station_id": "2.101",
+        "line_id": "2",
+        "lat": 55.729741,
+        "lng": 37.638693
+      },
+      {
+        "station_name": "Павелецкая",
+        "line_name": "Кольцевая",
+        "station_id": "5.102",
+        "line_id": "5",
+        "lat": 55.731414,
+        "lng": 37.636294
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Мы — Soft Media Group</strong>, дружная и амбициозная команда. Вот уже более 13 лет мы создаём важные продукты, которыми ежедневно пользуются миллионы людей.</p> <p>Мы используем современные технологии и микросервисную архитектуру, чтобы наши разработки были эффективными и надёжными. Мы ценим баланс между работой и личной жизнью, поэтому у нас нет бюрократии, а есть свобода действий и возможность проявить себя.</p> <p>Наша компания активно растёт и развивается, готовы к новым вызовам. Если вы талантливы, и хотите стать частью нашей команды, то мы будем рады видеть вас в наших рядах. Вместе мы сможем создавать классные продукты, которые получат признание крупных компаний. Среди наших партнёров — Банк ВТБ, Роснано, KFC, Toshiba, Ростелеком и Subaru.</p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Разработка и поддержка многопоточных приложений;</li> <li>Разработкой веб приложений на Python (Django, FastAPI);</li> <li>Участие в разработке архитектуры системы;</li> <li> <p>Декомпозиция и оценка задач, разработка новых фич и фикс багов;</p> </li> <li>Поддержка существующих решений.</li> </ul> <p><strong>Для нас важно:</strong></p> <ul> <li>Опыт коммерческой разработки на Python от 1 года;</li> <li>Понимание принципов ООП и паттернов проектирования;</li> <li> <p>Опыт работы с одним из современных фреймворков Django/FastAPI;</p> </li> <li> <p>Базовое знание HTML/CSS;</p> </li> <li> <p>Опыт работы с MySQL/PostgreSQL или другой реляционной БД;</p> </li> <li>Знание git, docker, pip/poetry. </li> </ul> <p><strong>Условия:</strong></p> <ul> <li>IT-компания с <strong>государственной аккредитацией</strong>;</li> <li>Работа в современном офисе или гибридный график работы;</li> <li>Оформление по <strong>ТК РФ, </strong>полностью <strong>белая</strong> з/п выплаты 2 раза в месяц;</li> <li>ДМС, Ланч Карта для сотрудников в офисе, корпоративный английский;</li> <li>Работа в команде, менторство тимлида на старте;</li> <li>Onboarding, регулярные one-to-one, performance review;</li> <li>Корпоративный футбол, волейбол;</li> <li>Подарки на День Рождения от компании, тимбилдинги и корпоративы;</li> <li> <p>Pizza/Sushi-Day каждую пятницу.<br /><br /><strong>Как все пройдёт:</strong></p> </li> <li> <p>Созвонимся по google-meet, зададим первичные вопросы друг другу и договоримся о следующем этапе (~30 минут)</p> </li> <li>Собеседование онлайн с руководителем (~60 минут)</li> <li>Делаем оффер и обсуждаем дату выхода :)</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "GitHub"
+    },
+    {
+      "name": "Рефакторинг кода"
+    },
+    {
+      "name": "Django Rest Framework"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "907268",
+    "name": "Soft Media Group",
+    "url": "https://api.hh.ru/employers/907268",
+    "alternate_url": "https://hh.ru/employer/907268",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1006074.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5645076.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5645077.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=907268",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-12T14:37:28+0300",
+  "created_at": "2025-05-12T14:37:28+0300",
+  "initial_created_at": "2025-05-12T14:37:28+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120415611",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120415611",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b1",
+        "name": "B1 — Средний"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

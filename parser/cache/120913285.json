@@ -1,0 +1,152 @@
+{
+  "id": "120913285",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Бизнес-аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 120000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 120000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>О нас:</strong><br /><strong>Мы — аккредитованная IT-компания</strong>, которая меняет правила игры в сфере арбитража трафика. Наши проекты (включая кешбэк-сервис и партнерскую сеть fit-lead.com) уже завоевали доверие клиентов. Сейчас мы создаем экологичный бренд и масштабируемся, чтобы стать лидерами рынка.</p> <p>Присоединяйтесь, если хотите влиять на реальные бизнес-решения и расти вместе с нами!</p> <p><strong>Ты наш человек, если:</strong></p> <p><strong>Технические навыки:</strong><br />— Знаешь Bitrix24 (автоматизация, воронки, права доступа);<br />— Владеешь нотациями BPMN, IDEF0, UML;<br />— Имеешь опыт описания бизнес-процессов и постановки задач разработчикам;<br />— Работал с Яндекс.Трекером или аналогичными системами.</p> <p><strong>Личные качества:</strong><br />— Умеешь задавать правильные вопросы и находить суть;<br />— Любишь структуру, но готов к динамике стартапа;<br />— Коммуникабелен и умеешь работать в команде.</p> <p><strong>Чем предстоит заниматься:</strong><br />— Формировать реестры бизнес-процессов и автоматизировать их в 1С ДО (no-code);<br />— Проводить интервью с участниками процессов и документировать требования;<br />— Создавать технологические карты, схемы в нотации BPMN и функциональные требования;<br />— Тесно взаимодействовать с IT-командой: от постановки задач до приемки результатов;<br />— Поддерживать актуальность регламентной документации.</p> <p><strong>Что мы предлагаем:</strong></p> <ul> <li> <p><strong>Стабильность:</strong> Официальное трудоустройство, своевременные выплаты, отпуска, работа <strong>В ОФИСЕ с шикарным видом на город в самом центре.</strong></p> </li> <li> <p><strong>Команда:</strong> Заряженные на результат коллеги, работа в аккредитованной IT-компании.</p> </li> <li> <p><strong>Влияние:</strong> Возможность участвовать в ключевых проектах и видеть результат своей работы.</p> </li> </ul> <p><strong>Как откликнуться:</strong><br />Готовы стать частью нашей команды? Ждем ваших заявок!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "BPMN"
+    },
+    {
+      "name": "IDEF0"
+    },
+    {
+      "name": "UML"
+    },
+    {
+      "name": "1С"
+    },
+    {
+      "name": "Анализ бизнес-процессов"
+    },
+    {
+      "name": "Бизнес-анализ"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "150",
+      "name": "Бизнес-аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5063973",
+    "name": "СтаффПроЕКТ",
+    "url": "https://api.hh.ru/employers/5063973",
+    "alternate_url": "https://hh.ru/employer/5063973",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/797159.jpeg",
+      "90": "https://img.hhcdn.ru/employer-logo/3629523.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3629524.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5063973",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T15:01:33+0300",
+  "created_at": "2025-06-07T15:01:33+0300",
+  "initial_created_at": "2025-05-23T15:01:33+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120913285",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120913285",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,169 @@
+{
+  "id": "121233350",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "PHP-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Садовая-Самотёчная улица",
+    "building": "24/27",
+    "lat": 55.773236,
+    "lng": 37.620474,
+    "description": null,
+    "raw": "Москва, Садовая-Самотёчная улица, 24/27",
+    "metro": {
+      "station_name": "Трубная",
+      "line_name": "Люблинско-Дмитровская",
+      "station_id": "10.177",
+      "line_id": "10",
+      "lat": 55.76771,
+      "lng": 37.621926
+    },
+    "metro_stations": [
+      {
+        "station_name": "Трубная",
+        "line_name": "Люблинско-Дмитровская",
+        "station_id": "10.177",
+        "line_id": "10",
+        "lat": 55.76771,
+        "lng": 37.621926
+      },
+      {
+        "station_name": "Цветной бульвар",
+        "line_name": "Серпуховско-Тимирязевская",
+        "station_id": "9.154",
+        "line_id": "9",
+        "lat": 55.771653,
+        "lng": 37.620466
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Компания <strong>EcoFinance</strong> развивает и внедряет продукты онлайн-кредитования для более чем 4,6 млн зарегистрированных клиентов. <strong>EcoFinance</strong> входит в десятку крупнейших МФК в России по объему выданных займов. Наша компания помогает получить заём в режиме онлайн за считанные минуты — надёжно, без похода в филиал и с качественным дальнейшим обслуживанием.</p> <p>Мы молодая и активная команда с опытом работы в банковской и финансовой сфере. Мы верим в то, что финансовые услуги должны быть простыми и доступными. Мы объединяем современные технологии, процессы и финансы в самый удобный для клиента формат. Это дает миллионам клиентов доступ к финансовым сервисам в один клик или звонок.</p> <p><strong>Кратко о нашем проекте:</strong></p> <p>Цифровое пространство, объединяющее все необходимые инструменты и сервисы для предоставления финансовых услуг в России и Европейских странах - бэк офисы, CRM системы, маркетинговый инструментарий, приложение по no-codeвизуальному программированию рисковой логики принятия решений и управление телефонией.</p> <p>Наши проекты состоят из множества сервисов интегрированных между собой, что позволяет создавать многофункциональные бизнес решения и иметь контроль над каждой частью процесса.</p> <p><strong>Ожидания от кандидата:</strong></p> <ul> <li> <p>Осуществление разработки для проекта;</p> </li> <li> <p>Участие в проектировании и архитектуре новых решений и продуктов;</p> </li> <li> <p>Сотрудничество с менеджмент командой и представителями клиентов для определения требований к продукту и проектировании функционала;</p> </li> <li> <p>Тестирование разработанных решений используя юнит-тесты;</p> </li> <li> <p>Дополнение настоящих процессов и технических решений новыми идеями и<br />улучшениями;</p> </li> <li> <p>Поддержка и повышение производительности и стабильности систем. Улучшение<br />существующего CI/CD процесса;</p> </li> <li> <p>Ведение и менторинг разработчиков.</p> </li> </ul> <p><strong>Мы ожидаем:</strong></p> <ul> <li> <p>Опыт работы с PHP (Symfony, Vanilla);</p> </li> <li> <p>Понимание и применение принципов OOP, паттернов и методологий разработки приложений;</p> </li> <li> <p>Знание и опыт работы с базами данных (SQL);</p> </li> </ul> <ul> <li> <p>Опыт в ведении команды(менторинг,повышение квалификации и навыков,принятие участия в построении процессов).</p> </li> </ul> <p><strong>Плюсом будет:</strong></p> <ul> <li> <p>Опыт работы с PostgreSQL;</p> </li> <li> <p>Опыт работы с Vue.js;</p> </li> </ul> <p><strong>Условия работы:</strong></p> <ul> <li> <p>Возможность работать в международной компании в команде профессионалов;</p> </li> <li> <p>Приобретение международного опыта и возможность учиться у экспертов в своей сфере;</p> </li> <li> <p>Прохождение и проведение код ревью у опытных разработчиков Senior уровня;</p> </li> <li> <p>Команда открытая к новому - возможность внесения новых технических решений;</p> </li> <li> <p>Работа над долгосрочными проектами;</p> </li> <li> <p>Разнообразие проектов и возможность развиваться в IT;</p> </li> <li> <p>Расширенная программа обучения (профессиональные тренинги, онлайн-обучение);</p> </li> <li> <p>Возможности роста и развития внутри компании, достойное применение своим профессиональным навыкам и опыту.</p> </li> </ul> <p> </p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "Symfony"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Vue.js"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2106174",
+    "name": "EcoFinance",
+    "url": "https://api.hh.ru/employers/2106174",
+    "alternate_url": "https://hh.ru/employer/2106174",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/946571.png",
+      "90": "https://img.hhcdn.ru/employer-logo/4226820.png",
+      "240": "https://img.hhcdn.ru/employer-logo/4226821.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2106174",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T16:05:09+0300",
+  "created_at": "2025-06-05T16:05:09+0300",
+  "initial_created_at": "2025-06-02T16:05:09+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121233350",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121233350",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

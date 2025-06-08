@@ -1,0 +1,193 @@
+{
+  "id": "119681040",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер технической поддержки",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 50000,
+    "to": 70000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 50000,
+    "to": 70000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "улица Королёва",
+    "building": "40к40",
+    "lat": 55.055945,
+    "lng": 82.963926,
+    "description": null,
+    "raw": "Новосибирск, улица Королёва, 40к40",
+    "metro": {
+      "station_name": "Березовая роща",
+      "line_name": "Дзержинская",
+      "station_id": "53.305",
+      "line_id": "53",
+      "lat": 55.043242,
+      "lng": 82.952913
+    },
+    "metro_stations": [
+      {
+        "station_name": "Березовая роща",
+        "line_name": "Дзержинская",
+        "station_id": "53.305",
+        "line_id": "53",
+        "lat": 55.043242,
+        "lng": 82.952913
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong><br />- Консультации клиентов, техническая поддержка, решение вопросов по работе автоматики, приборов и оборудования охранно-пожарной сигнализации производства компании.<br />- Участие в выставках, семинарах и презентациях производимого оборудования (возможны командировки 1-2 раза в год)<br />- Участие в тестировании, анализе, проведение испытаний существующих и разрабатываемых приборов.</p> <p>- Разработка технических описаний для выпускаемой продукции.</p> <p>- При наличии навыков программирования для разработки сопутствующего ПО, дополнительный доход.<br /><br /><strong>Требования:</strong><br />- Грамотная письменная и устная речь.<br />- Знание основ, понимание принципов и логики работы систем автоматики и управления. Опыт работы с оборудованием ОПС будет преимуществом.<br />- Знание базовых электротехнических терминов и законов.<br />- Преимуществом будет умение понимать и читать принципиальные электрические схемы.<br />- Опытный пользователь ПК. Знание MS Office, программ Adobe Photoshop, Corel Draw, AutoCad (или научиться в них работать)<br />- Преимуществом будет опыт продвижения и продаж различного оборудования, электроники, технических средств автоматики, оборудования ОПС.<br /><br /><strong>Условия:</strong><br />- График режима работы с 9:00 до 17:00, 5/2, суббота, воскресенье - выходные дни.<br />- Официальное трудоустройство, полный соц. пакет;<br />- Оплата больничных, отпусков;<br />- Профессиональный и карьерный рост;<br />- Отдельное рабочее место.<br />- Зарплата 2 раза в месяц.<br />- Испытательный срок 1 месяц</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Настройка ПО"
+    },
+    {
+      "name": "Техническая поддержка"
+    },
+    {
+      "name": "Информационные технологии"
+    },
+    {
+      "name": "Обучение и развитие"
+    },
+    {
+      "name": "Настройка ПК"
+    },
+    {
+      "name": "Ремонт ПК"
+    },
+    {
+      "name": "Техническое обслуживание"
+    },
+    {
+      "name": "Аналитическое мышление"
+    },
+    {
+      "name": "Оценка потребностей клиентов"
+    },
+    {
+      "name": "Разработка инструкций"
+    },
+    {
+      "name": "Проведение семинаров"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "77548",
+    "name": "Магистраль",
+    "url": "https://api.hh.ru/employers/77548",
+    "alternate_url": "https://hh.ru/employer/77548",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1287768.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6771370.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6771371.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=77548",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-18T10:12:00+0300",
+  "created_at": "2025-05-18T10:12:00+0300",
+  "initial_created_at": "2025-04-18T10:11:59+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119681040",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119681040",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

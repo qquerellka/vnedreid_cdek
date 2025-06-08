@@ -1,0 +1,195 @@
+{
+  "id": "121438094",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Java разработчик / Java Developer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 155000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 155000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Орликов переулок",
+    "building": "2",
+    "lat": 55.770244,
+    "lng": 37.647343,
+    "description": null,
+    "raw": "Москва, Орликов переулок, 2",
+    "metro": {
+      "station_name": "Комсомольская",
+      "line_name": "Сокольническая",
+      "station_id": "1.54",
+      "line_id": "1",
+      "lat": 55.774072,
+      "lng": 37.654565
+    },
+    "metro_stations": [
+      {
+        "station_name": "Комсомольская",
+        "line_name": "Сокольническая",
+        "station_id": "1.54",
+        "line_id": "1",
+        "lat": 55.774072,
+        "lng": 37.654565
+      },
+      {
+        "station_name": "Красные ворота",
+        "line_name": "Сокольническая",
+        "station_id": "1.61",
+        "line_id": "1",
+        "lat": 55.768307,
+        "lng": 37.6478
+      },
+      {
+        "station_name": "Площадь трёх вокзалов",
+        "line_name": "МЦД-2",
+        "station_id": "132.725",
+        "line_id": "132",
+        "lat": 55.776087,
+        "lng": 37.651861
+      },
+      {
+        "station_name": "Площадь трёх вокзалов",
+        "line_name": "МЦД-4",
+        "station_id": "136.890",
+        "line_id": "136",
+        "lat": 55.776667,
+        "lng": 37.651111
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Hireway — рекрутинговое агентство с фокусом в подборе IT-специалистов.</strong></p> <p><strong>На данный момент мы ищем Java разработчика для работы в компании, занимающейся разработкой цифровых решений.</strong></p><br /><strong>Обязанности:</strong> <p>- Участие в проектировании, разработке и оптимизации кода.</p> <p>- Интеграция с backend-сервисами.</p> <p>- Участие в код-ревью и совместной разработке с более опытными разработчиками.</p> <p>- Тестирование и устранение ошибок в коде.</p> <p>- Обновление и поддержка существующего функционала приложения.</p> <p><strong>Какие могут быть задачи:</strong></p> <p><strong>- </strong>Создание новых модулей приложения.</p> <p>- Оптимизация производительности и кода.</p> <p>- Взаимодействие с командами аналитиков и тестировщиков.</p> <p>- Интеграция с API и внешними сервисами.</p> <p>- Решение возникающих технических проблем.</p> <strong>Требования:</strong> <p>- Базовое понимание архитектуры клиент-серверных приложений.</p> <p>- Знание основных принципов ООП и паттернов проектирования.</p> <p>- Опыт работы с REST API.</p> <p>- Знание баз данных (SQL).</p> <p>- Опыт работы с системой контроля версий (Git).</p> <p>- Понимание процессов CI/CD будет плюсом.</p> <p>- Опыт работы с Docker приветствуется.</p> <p>- Желание учиться и развиваться.</p> <strong>Условия:</strong> <p>- Участие в масштабных проектах с заказчиками на федеральном и международном уровнях.</p> <p>- Работа с современными и передовыми технологиями.</p> <p>- Горизонтальные и вертикальные возможности для профессионального и карьерного роста.</p> <p>- Полностью удаленная работа на полный рабочий день.</p> <p>- Гибкая форма трудоустройства: ТК, ИП или в статусе самозанятого.</p> <p>- Регулярная и конкурентоспособная оплата труда.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Java"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "11774774",
+    "name": "Кадровое агентство HireWay",
+    "url": "https://api.hh.ru/employers/11774774",
+    "alternate_url": "https://hh.ru/employer/11774774",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1387298.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7168979.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7168980.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11774774",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T16:16:39+0300",
+  "created_at": "2025-06-07T16:16:39+0300",
+  "initial_created_at": "2025-06-07T16:16:39+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121438094",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121438094",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

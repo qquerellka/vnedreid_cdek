@@ -1,0 +1,170 @@
+{
+  "id": "120362891",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Разработчик С++",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 180000,
+    "to": 300000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 180000,
+    "to": 300000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "WEEKLY",
+      "name": "Раз в неделю"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>О компании и команде</p> <p>Российская продуктовая ИТ-компания, мы разрабатываем собственные продукты и помогаем автоматизировать бизнес-процессы различных отраслей.</p> <p>Сейчас мы разрабатываем внутренний проект, и ищем уверенный C++ разработчиков</p> <p>Ожидания от кандидата</p> <p>Опыт работы с С++ от 1,5-2 лет</p> <p>Опыт разработки БД</p> <p>Опыт разработки микросервисов</p> <p>Знание принципов обеспечения отказоустойчивости систем</p> <p>Знание принципов Solid</p> <p>Понимание принципов работы операционных систем, баз данных и компьютерных сетей</p> <p>Уверенное использование Linux и инструментов командной строки</p> <p><strong>Будет плюсом:</strong></p> <p>Знание C</p> <p>Опыт работы с Wireshark/tcpdump.</p> <p>Docker, Ansible, Kubernetes, gRPC, Redis, Memcached</p> <p>Опыт разработки распределенных высоконагруженных систем.</p> <p>Знакомство с сетевыми и сигнальными протоколами (HTTP2, DIAMETER, MAP, CAP и проч.).</p> <p>Условия работы</p> <p> </p> <p>Оформление на срочный трудовой договор на 6 месяцев (с дальнейшим продлением);</p> <p>Возможность принять участие в создании перспективных и масштабных продуктов, нацеленных на улучшение и автоматизацию бизнес-процессов;</p> <p>Современный стек технологий;</p> <p>Удаленный формат;</p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "11736287",
+    "name": "Tech Horizon",
+    "url": "https://api.hh.ru/employers/11736287",
+    "alternate_url": "https://hh.ru/employer/11736287",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1374729.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7118818.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7118819.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11736287",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-11T21:03:53+0300",
+  "created_at": "2025-05-11T21:03:53+0300",
+  "initial_created_at": "2025-05-11T21:03:53+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120362891",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120362891",
+  "working_days": [],
+  "working_time_intervals": [
+    {
+      "id": "from_four_to_six_hours_in_a_day",
+      "name": "Можно сменами по 4-6 часов в день"
+    }
+  ],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    },
+    {
+      "id": "FOUR_ON_FOUR_OFF",
+      "name": "4/4"
+    },
+    {
+      "id": "FOUR_ON_THREE_OFF",
+      "name": "4/3"
+    },
+    {
+      "id": "FOUR_ON_TWO_OFF",
+      "name": "4/2"
+    },
+    {
+      "id": "THREE_ON_THREE_OFF",
+      "name": "3/3"
+    },
+    {
+      "id": "TWO_ON_TWO_OFF",
+      "name": "2/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_5",
+      "name": "5 часов"
+    },
+    {
+      "id": "HOURS_6",
+      "name": "6 часов"
+    },
+    {
+      "id": "HOURS_7",
+      "name": "7 часов"
+    },
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

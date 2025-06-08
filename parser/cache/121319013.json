@@ -1,0 +1,157 @@
+{
+  "id": "121319013",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Java разработчик (middle+/senior)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Береговой проезд",
+    "building": "5Ак1",
+    "lat": 55.755023,
+    "lng": 37.509245,
+    "description": null,
+    "raw": "Москва, Береговой проезд, 5Ак1",
+    "metro": {
+      "station_name": "Фили",
+      "line_name": "Филевская",
+      "station_id": "4.151",
+      "line_id": "4",
+      "lat": 55.746763,
+      "lng": 37.514035
+    },
+    "metro_stations": [
+      {
+        "station_name": "Фили",
+        "line_name": "Филевская",
+        "station_id": "4.151",
+        "line_id": "4",
+        "lat": 55.746763,
+        "lng": 37.514035
+      },
+      {
+        "station_name": "Шелепиха",
+        "line_name": "Большая кольцевая линия",
+        "station_id": "97.602",
+        "line_id": "97",
+        "lat": 55.75723,
+        "lng": 37.52571
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong><em>ВНИМАНИЕ! РАБОТА СТРОГО ИЗ РФ!</em></strong><br /><br />Наша команда разрабатывает уникальный инструмент предотвращения атак на цепочку поставок ПО через open-source компоненты – AppSec.Track. Мы создаём простой в использовании для конечного пользователя продукт, но при этом технологически сложный и обрабатывающий большое количество информации из различных источников. Это позволяет нам обнаруживать реальные уязвимости и делать продукты наших клиентов безопаснее.</p> <p><strong>Обязанности:</strong></p> <ul> <li>Back-end разработка;</li> <li>Командное ревью кода;</li> <li>Сопровождение и доработка существующего функционала;</li> <li>Работа в тесном сотрудничестве со специалистами фронтенд разработки, тестирования и аналитиками, devops-инженерами.</li> </ul> <strong>Наш стек:</strong> <ul> <li>Java 11 / 17 + Spring Boot + Micronaut</li> <li>Nginx + Lua</li> <li>TypeScript + Angular 15</li> <li>Python 3</li> <li>Redis, PostgreSQL, Mongo DB, ClickHouse, Nats, RabbitMQ.</li> </ul> <strong>Требования:</strong> <ul> <li>3+ лет плотной разработки на Java;</li> <li>Знание основных библиотек и шаблонов проектирования;</li> <li>Умение применять принципы SOLID, Clean сode;</li> <li>Уверенное чтение/написание документации на английском (требования для разговорного ниже: на уровне поддержать небольшой диалог).</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт разработки/проектирования микросервисов;</li> <li>Опыт работы с Docker и Kubernetes;</li> <li>Опыт разработки на Python;</li> <li>Опыт разработки на Angular;</li> <li>Опыт работы с PlantUML;</li> <li>Опыт работы в области информационной безопасности.</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Конкурентоспособный уровень вознаграждения (обсуждается с успешным кандидатом).</li> <li>Работа в сильной динамичной команде.</li> <li>Удаленка, гибрид или офис - на ваш вкус<strong>.</strong></li> <li>ДМС со стоматологией после успешного прохождения испытательного срока.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1239730",
+    "name": "Swordfish Security",
+    "url": "https://api.hh.ru/employers/1239730",
+    "alternate_url": "https://hh.ru/employer/1239730",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/882705.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3971527.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3971528.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1239730",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T09:20:49+0300",
+  "created_at": "2025-06-07T09:20:49+0300",
+  "initial_created_at": "2025-06-04T09:20:49+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121319013",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121319013",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

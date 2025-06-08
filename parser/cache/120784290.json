@@ -1,0 +1,142 @@
+{
+  "id": "120784290",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Python разработчик (junior)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "66",
+    "name": "Нижний Новгород",
+    "url": "https://api.hh.ru/areas/66"
+  },
+  "salary": {
+    "from": null,
+    "to": 156000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 156000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><em><strong>Мы молодая, но амбициозная компания которая начала свой путь в оптовой торговле различной продукцией, но останавливаться на этом не планируем. В планах рост по многим направлениям, а для этого нужна команда.<br />Для роста нужна автоматизация процессов, именно поэтому ищем в команду начинающего Python разработчика, который готов расти вместе с нами!</strong></em></p> <p><br /><strong>Чем будете заниматься:</strong><br />Внедрение автоматических воронок и телеграм ботов;<br />Разработка API;<br />Создание новых решений &quot;с нуля&quot;;<br />Осуществлять разработку и обеспечивать поддержку компонентов на языке Python;.<br />Проектирование структуры хранилищ и баз данных;<br />Постоянная работа в CRM<br /><br /><strong>Требования:</strong><br />Английский язык: чтение технической литературы;<br />Русский язык: свободный;<br />Умение эффективно выстраивать собственный рабочий процесс.<br /><br /><strong>Будет плюсом:</strong><br />Опыт работы в Python;<br />Базовые знания JavaScript;<br />Базовые знания TypeScript;<br />Опыт работы с БД: PostgreSQL / MySQL<br /><br /><strong>Мы предлагаем:</strong><br />Удалённая работа из любой точки мира;<br />Участие в интересных и перспективных проектах;<br />Работа в профессиональной команде;<br />Возможности для профессионального роста;<br />График работы 5/2 с гибким началом рабочего времени<br />На исп. срок фиксированный оклад, далее оклад + % от успешно реализованных проектов;<br />Возможна частичная занятость.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "8923296",
+    "name": "Тендерлайв",
+    "url": "https://api.hh.ru/employers/8923296",
+    "alternate_url": "https://hh.ru/employer/8923296",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1211203.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6465261.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6465262.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=8923296",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-20T21:40:01+0300",
+  "created_at": "2025-05-20T21:40:01+0300",
+  "initial_created_at": "2025-05-20T21:40:01+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120784290",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120784290",
+  "working_days": [],
+  "working_time_intervals": [
+    {
+      "id": "from_four_to_six_hours_in_a_day",
+      "name": "Можно сменами по 4-6 часов в день"
+    }
+  ],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_6",
+      "name": "6 часов"
+    },
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

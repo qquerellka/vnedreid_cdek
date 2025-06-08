@@ -1,0 +1,138 @@
+{
+  "id": "120779210",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "FullStack QA инженер / тестировщик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 90000,
+    "to": 130000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 90000,
+    "to": 130000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы — аккредитованная IT-компания, которая ищет талантливого и ответственного QA-инженера для расширения нашей команды. Если вы стремитесь к развитию и хотите принимать участие в создании интересных продуктов, мы будем рады видеть вас среди нас!</p> <p><strong>Обязанности:</strong></p> <ul> <li> <p>Разработка и выполнение тест-кейсов для API, баз данных и серверной логики</p> </li> <li> <p>Проведение функционального, регрессионного, интеграционного и нагрузочного тестирования</p> </li> <li> <p>Анализ технической документации, требований и архитектуры</p> </li> <li> <p>Составление отчётов о тестировании</p> </li> <li> <p>Написание автотестов</p> <p><br /><strong>Требования:</strong></p> </li> <li> <p>Опыт тестирования REST API, GraphQL (Postman, Insomnia), gRPC</p> </li> <li> <p>Знание форматов данных: JSON, YAML, TOML</p> </li> <li> <p>Умение читать и анализировать логирование и ответы от сервера</p> </li> <li> <p>Навыки работы с базами данных (SQL-запросы, выборки, валидация данных)</p> </li> <li> <p>Понимание принципов клиент-серверной архитектуры</p> </li> <li> <p>Навыки работы с Git, GitLab</p> </li> <li> <p>Умение разбивать тестирование на этапы</p> <p><br /><strong>Личностные качества:</strong></p> </li> <li> <p>Внимательность к деталям</p> </li> <li> <p>Умение анализировать и структурировать информацию</p> </li> <li> <p>Критическое мышление</p> </li> <li> <p>Ответственность, проактивность и желание разобраться в системе</p> </li> <li> <p>Коммуникабельность</p> </li> </ul> <ul> <li><strong>Мы предлагаем:</strong></li> <li>Конкурентную заработную плату.</li> <li>Дружественную атмосферу и поддержку в развитии профессиональных навыков.</li> <li>Возможности для обучения и повышения квалификации.</li> <li>Участие в интересных проектах и шанс повлиять на конечный продукт.</li> <li>Уютный современный офис в центре города (для соискателей из Тулы)<br /><br />Если вы готовы стать частью нашей команды и внести свой вклад в создание классного продукта, отправьте свое резюме. Ждем вас!</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "JSON API"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9610151",
+    "name": "Подаркус",
+    "url": "https://api.hh.ru/employers/9610151",
+    "alternate_url": "https://hh.ru/employer/9610151",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1063013.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5872685.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5872686.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9610151",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T17:07:13+0300",
+  "created_at": "2025-06-07T17:07:13+0300",
+  "initial_created_at": "2025-05-20T17:07:13+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120779210",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120779210",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

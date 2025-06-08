@@ -1,0 +1,143 @@
+{
+  "id": "121397642",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "CRM Specialist",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Ленинградское шоссе",
+    "building": "16ас1",
+    "lat": 55.821386,
+    "lng": 37.497737,
+    "description": null,
+    "raw": "Москва, Ленинградское шоссе, 16ас1",
+    "metro": {
+      "station_name": "Войковская",
+      "line_name": "Замоскворецкая",
+      "station_id": "2.30",
+      "line_id": "2",
+      "lat": 55.818923,
+      "lng": 37.497791
+    },
+    "metro_stations": [
+      {
+        "station_name": "Войковская",
+        "line_name": "Замоскворецкая",
+        "station_id": "2.30",
+        "line_id": "2",
+        "lat": 55.818923,
+        "lng": 37.497791
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Компания Abbott является мировым лидером в области медицины и помогает людям жить полной жизнью на всех ее этапах. Наши технологии, меняющие жизнь людей, охватывают широкий спектр инновационных продуктов и решений, включая диагностику, медицинские устройства, питание и лекарственные препараты. Наши 115 000 сотрудников работают на благо людей в 160 странах мира.</p> <p>Разрабатывая наши продукты, мы используем научный подход. Наша цель — помочь сохранить здоровье людей, чтобы они чувствовали себя отлично в любом возрасте. Мы уверены, что правильное питание позволяет улучшать качество жизни и продлевать ее.</p> <p>Для замещения вакантной должности мы объявляем конкурс на позицию <strong>CRM специалиста.</strong></p> <p>Для замещения вакантной должности мы объявляем конкурс на позицию CRM специалиста</p> <h2>Обязанности:</h2> <ul> <li>Поддержка пользователей CRM-системы на платформе ELMA365.</li> <li>Осуществление настройки, внесение изменений в алгоритмы работы, администрирование CRM-системы.</li> <li>Построение и поддержание процессов обучения и адаптации новых сотрудников работе в CRM-системе.</li> <li>Создание и адаптация пользовательских инструкций.</li> <li>Аналитика деятельности CRM-системы, контроль качества заполнения данных, формирование отчетности об эффективности использования CRM-системы и соблюдения стандартов сотрудниками компании.</li> <li>Сбор предложений от бизнес-подразделений, оформление технических требований к осуществлению доработок CRM-системы.</li> <li>Реализация проектов по повышению эффективности работы CRM-системы, внедрение нового функционала и корректировка существующего.</li> <li>Поддержка проектов интеграции с внешними системами.</li> </ul> <p> </p> <h2>Требования:</h2> <ul> <li>Высшее образование</li> <li>Опыт работы с системами CRM от 1 года</li> <li>Знание платформы ELMA365 будет преимуществом</li> <li>Высокий уровень коммуникативных навыков и аналитический склад ума</li> <li>Знание MS Excel на продвинутом уровне</li> <li>Умение работать с большими объемами данных</li> <li>Владение инструментами BI и SQL будет преимуществом</li> </ul> <p> </p> <h2>Условия:</h2> <p>• гибридный график работы (4/1)</p> <p>• конкурентоспособная заработная плата</p> <p>• программы страхования и премирования</p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "MS Excel"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "13789",
+    "name": "Abbott Laboratories",
+    "url": "https://api.hh.ru/employers/13789",
+    "alternate_url": "https://hh.ru/employer/13789",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/357897.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/1873850.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/1873851.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=13789",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T18:30:58+0300",
+  "created_at": "2025-06-05T18:30:58+0300",
+  "initial_created_at": "2025-06-05T18:30:58+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121397642",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121397642",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

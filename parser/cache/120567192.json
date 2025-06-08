@@ -1,0 +1,145 @@
+{
+  "id": "120567192",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Backend-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 200000,
+    "to": 250000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 200000,
+    "to": 250000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li> <p>Напишите о вашем опыте работы с SQL и балансировщиками.</p> </li> <li> <p><strong><strong><strong>Кодинг</strong></strong><strong> </strong><strong><strong>занимает</strong></strong><strong> </strong><strong><strong>основную часть времени.</strong></strong></strong></p> </li> <li> <p>Разработка серверного функционала на Python.</p> </li> <li> <p>Оптимизация работы сервисов и стабилизация сложных пайплайнов обработки данных.</p> </li> <li> <p>Повышение производительности и эффективности реализованного функционала.</p> </li> <li> <p>Участие в обсуждениях технических этапов и развития системы в сторону масштабирования.</p> </li> <li> <p>Проведение code-review, тесное взаимодействие с разработчиками смежных систем и тестировщиками.</p> </li> </ul> <p><strong>Требования:</strong></p> <ul> <li> <p>Опыт работы <strong>от 5 лет.</strong></p> </li> <li> <p>Будет плюсом:</p> <p>Опыт написание чистых SQL-запросов</p> <p>Опыт работы с другими серверными языками (Node.js, Java и др.).</p> <p>Опыт работы с облачной инфраструктурой.</p> </li> <li> <p><strong><strong><strong> Кодинг</strong></strong><strong> </strong><strong><strong>занимает</strong></strong><strong> </strong><strong><strong>основную часть времени.</strong></strong></strong></p> </li> <li> <p>Коммерческий опыт разработки на Python (&gt;3.7) и знание экосистемы, популярных библиотек и фреймворков (Flask, FastAPI, Django)<strong> от 5 лет</strong>.</p> </li> <li>Умение работать с REST API.</li> <li>Опыт работы с PostgreSQL, работа с ORM-запросами.</li> <li>Знания базовых алгоритмов и структур данных.</li> <li>Опыт использования распределенных очередей сообщений (Celery).</li> <li>Опыт работы с Docker-контейнерами.</li> <li>Понимание общих паттернов проектирования кода.</li> <li>Умение разбираться в чужом коде, проводить рефакторинг, оптимизацию и code-review.</li> </ul> <p><strong>Условия:</strong></p> <p>Конкурентная заработная плата, оформление в соответствии с ТК РФ.</p> <ul> <li> <p>Возможность развития в высокотехнологичной команде.</p> </li> <li> <p>Удаленный формат работы</p> </li> <li> <p>Наш стек технологий:</p> <p>Python, Flask, SQLAlchemy (PostgreSQL), Celery (RabbitMQ), Astra Linux, uWSGI, ElasticSearch, Docker, ML-стек. Разрабатываем систему для on-premise/on-cloud развертываний.</p> </li> <li> <p>Официальное трудоустройство.</p> </li> <li> <p>Компенсация курсов - 50%</p> </li> <li> <p>Гибкое начало рабочего дня.</p> </li> <li> <p>Рыночная оплата труда + пересмотр заработной платы по рынку и профессиональным достижениям.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "Phyton"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11618788",
+    "name": "Вижнсервис",
+    "url": "https://api.hh.ru/employers/11618788",
+    "alternate_url": "https://hh.ru/employer/11618788",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11618788",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-15T09:11:12+0300",
+  "created_at": "2025-05-15T09:11:12+0300",
+  "initial_created_at": "2025-05-15T09:11:12+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120567192",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120567192",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

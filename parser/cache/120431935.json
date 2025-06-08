@@ -1,0 +1,164 @@
+{
+  "id": "120431935",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист в проект «Умный ФОК\"",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 70000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 70000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Красногорск",
+    "street": "бульвар Строителей",
+    "building": "7",
+    "lat": 55.817062,
+    "lng": 37.383687,
+    "description": null,
+    "raw": "Красногорск, бульвар Строителей, 7",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>реализация проекта по внедрению искусственного интеллекта на спортивные объекты в Московской области;</li> <li>ведение отчетности по реализации проекта по внедрению искусственного интеллекта на спортивных объектах Московской области;</li> <li>выезд на спортивные объекты Московской области;</li> <li>работа с органами местного самоуправления Московской области по решению вопросов проекта с искусственным интеллектом;</li> <li>мониторинг работы электронных систем проекта;</li> <li>устранение ошибок в электронных системах проекта;</li> <li>помощь коллегам в вопросах, касающихся работы отдела.</li> </ul> <strong>Требования:</strong> <ul> <li>высшее образование;</li> <li>навыки делового письма, владения электронным документооборотом, справочно-правовыми системами, программами Microsoft Word, Microsoft Excel, Power Point;</li> <li>грамотность, ответственность, внимательность, быстрая обучаемость, коммуникабельность, стрессоустойчивость, готовность к работе в режиме многозадачности.</li> </ul> <strong>Условия:</strong> <ul> <li>дистанционная (удаленная) работа, частично офис в городском округе Красногорск Московской области;</li> <li>оклад от 70000 руб. на руки, обсуждается на собеседовании</li> <li>возможность самореализации;</li> <li>трудоустройство в подведомственное учреждение Министерства &quot;Дирекция по организации и проведению спортивных мероприятий&quot;</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Спортивные мероприятия"
+    },
+    {
+      "name": "Организаторские навыки"
+    },
+    {
+      "name": "Исполнительность"
+    },
+    {
+      "name": "Ответственность"
+    },
+    {
+      "name": "Ведение отчётности"
+    },
+    {
+      "name": "Работа в условиях многозадачности"
+    },
+    {
+      "name": "Организация и проведение мероприятий"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "10",
+      "name": "Аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "2724690",
+    "name": "Министерство физической культуры и спорта Московской области",
+    "url": "https://api.hh.ru/employers/2724690",
+    "alternate_url": "https://hh.ru/employer/2724690",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2724690",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-12T17:48:19+0300",
+  "created_at": "2025-05-12T17:48:19+0300",
+  "initial_created_at": "2025-05-12T17:48:19+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120431935",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120431935",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

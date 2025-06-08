@@ -1,0 +1,125 @@
+{
+  "id": "116448979",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Бизнес-аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Новоданиловская набережная",
+    "building": "4а",
+    "lat": 55.700892,
+    "lng": 37.625433,
+    "description": null,
+    "raw": "Москва, Новоданиловская набережная, 4а",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>Сбор и обработка поступающих требований заказчика;</li> <li>Участие в оценке трудоемкости реализации функциональных задач;</li> <li>Постановка задач команде разработки;</li> <li>Подготовка проектной документации;</li> <li>Защита внедряемых решений перед заказчиком.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Опыт работы бизнес-аналитиком в крупных проектах;</li> <li>Навыки моделирования БП в одной из нотаций;</li> <li>Опыт разработки ТЗ, ЧТЗ, ПМИ;</li> <li>Высшее образование;</li> <li>Умение работать в проектной команде;</li> <li>Грамотная устная и письменная речь.</li> </ul> <p><strong><em>Будет плюсом:</em></strong> опыт работы с ЕАМ-системами различных вендоров - IBM, SAP, Oracle, 1C, Галактика. Преимуществом являются платформы IBM Maximo, IBM TRIRIGA.</p> <strong>Условия:</strong> <ul> <li>Оформление строго по ТК РФ;</li> <li>Мы предлагаем конкурентный уровень заработной платы (оклад+бонусы, обсуждается на собеседовании)</li> <li>Добровольное медицинское страхование включая стоматологию после прохождения испытательного срока;</li> <li>Страхование жизни после прохождения испытательного срока</li> <li>График работы 5/2;</li> <li> <p>Возможность командировок</p> </li> <li> <p>Оплата мобильной связи</p> </li> <li>Профессиональный коллектив и руководители;</li> <li>Корпоративные праздники</li> <li>Наш офис удобно расположен в 10 минутах пешком от м. Тульская</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "10",
+      "name": "Аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "222045",
+    "name": "Борлас, Консалтинговая группа",
+    "url": "https://api.hh.ru/employers/222045",
+    "alternate_url": "https://hh.ru/employer/222045",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/652683.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3051880.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3051881.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=222045",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T11:23:59+0300",
+  "created_at": "2025-06-02T11:23:59+0300",
+  "initial_created_at": "2025-01-28T12:32:49+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=116448979",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/116448979",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

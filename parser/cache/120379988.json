@@ -1,0 +1,170 @@
+{
+  "id": "120379988",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Frontend-разработчик (Vue.js)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "72",
+    "name": "Пермь",
+    "url": "https://api.hh.ru/areas/72"
+  },
+  "salary": {
+    "from": 600,
+    "to": 1000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 600,
+    "to": 1000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "HOUR",
+      "name": "За час"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "part",
+    "name": "Частичная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li> <p>Разработка и улучшение интерфейсов для формирования и отображения отчётности.</p> </li> </ul> <strong>Требования:</strong> <ul> <li> <p><strong>Vue.js / Nuxt.js</strong><em>:</em></p> </li> <li> <p>Разработка чистых, переиспользуемых компонентов;</p> </li> <li>Работа со слотами, пропсами (валидация через defineProps), provide/inject;</li> <li>State Management (<strong>Vuex</strong>), понимание потоков данных, оптимизация реактивности.</li> <li> <p><strong>Работа с API</strong>:</p> </li> <li>Интеграция с <strong>REST API</strong> (Axios), JWT-авторизация;</li> <li>Решение проблем с токенами (конфликты сессий, обработка ошибок 401/403, механизм refresh-токенов).</li> <li> <p><strong>Вёрстка и UI</strong>:</p> </li> <li>Адаптивная, кроссбраузерная вёрстка (HTML5, CSS3);</li> <li>Опыт с <strong>Element UI.</strong></li> <li> <p><strong>Работа с данными</strong><em>:</em></p> </li> <li>Визуализация списочных и древовидных структур.</li> <li> <p><strong>Инструменты</strong><em>:</em></p> </li> <li>Опыт работы с Docker и базовым уровнем docker-compose;</li> <li>Git (GitLab) базовый уровень.</li> <li> <p><strong>Дополнительно</strong><em>:</em></p> </li> <li>Базовые знания <strong>PHP/Python</strong> (для взаимодействия с backend).</li> </ul> <strong>Условия:</strong> <ul> <li>Объем выполняемой работы и компенсация согласовывается по результатам собеседования после определения уровня квалификации и опыта;</li> <li>Удаленное рабочее место, без необходимости посещать офис;</li> <li>Полная или частичная занятость (возможность гибкого графика);</li> <li>Приветствует наличие статуса самозанятого или ИП;</li> <li>ИТ-компания, занимающаяся разработкой ПО.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "VueJS"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "HTML5"
+    },
+    {
+      "name": "CSS3"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5416328",
+    "name": "ЦОМИА ИНФО ПРО",
+    "url": "https://api.hh.ru/employers/5416328",
+    "alternate_url": "https://hh.ru/employer/5416328",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/852649.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3851471.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3851472.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5416328",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-12T09:30:03+0300",
+  "created_at": "2025-05-12T09:30:03+0300",
+  "initial_created_at": "2025-05-12T09:30:03+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120379988",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120379988",
+  "working_days": [],
+  "working_time_intervals": [
+    {
+      "id": "from_four_to_six_hours_in_a_day",
+      "name": "Можно сменами по 4-6 часов в день"
+    }
+  ],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "PART",
+    "name": "Частичная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FLEXIBLE",
+      "name": "Свободный"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_4",
+      "name": "4 часа"
+    },
+    {
+      "id": "HOURS_5",
+      "name": "5 часов"
+    },
+    {
+      "id": "HOURS_6",
+      "name": "6 часов"
+    },
+    {
+      "id": "HOURS_7",
+      "name": "7 часов"
+    },
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

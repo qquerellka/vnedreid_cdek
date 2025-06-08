@@ -1,0 +1,139 @@
+{
+  "id": "121184034",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Руководитель направления налогового планирования",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 400000,
+    "to": 500000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 400000,
+    "to": 500000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><em><strong>Внимание! Данная вакансия предполагает релокацию в ДФО.</strong></em></p> <p><em><strong>Наш заказчик - группа компаний, работающая в агропромышленной сфере.</strong></em></p> <p><strong>Обязанности:</strong></p> <ul> <li>Методология налогообложения, выработка единой налоговой стратегии </li> <li>Ведение различных проектов и предоставление налоговой экспертизы, заключений</li> <li>Взаимодействие с налоговыми органами, урегулирование неоднозначных вопросов</li> <li>Контроль за налоговыми показателями и налоговой эффективностью компаний группы</li> <li>Налоговое планирование, согласование бюджета по налогам</li> <li>Работа с налоговыми рисками</li> <li>Курирование работы ответственных сотрудников по направлению налогового контроля и планирования</li> </ul> <strong>Требования:</strong> <ul> <li>Опыт работы в BIG4</li> <li>Опыт работы в крупных российских холдинговых структурах</li> <li>Знание международного налогообложения</li> <li>Опыт управления командой</li> <li>Владение английским языком не ниже Upper-intermediate</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "155",
+      "name": "Методолог"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "710",
+    "name": "Staffwell",
+    "url": "https://api.hh.ru/employers/710",
+    "alternate_url": "https://hh.ru/employer/710",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/233380.gif",
+      "90": "https://img.hhcdn.ru/employer-logo/308511.png",
+      "240": "https://img.hhcdn.ru/employer-logo/381368.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=710",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-30T21:29:57+0300",
+  "created_at": "2025-05-30T21:29:57+0300",
+  "initial_created_at": "2025-05-30T21:29:57+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121184034",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121184034",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b2",
+        "name": "B2 — Средне-продвинутый"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

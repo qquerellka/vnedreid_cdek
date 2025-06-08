@@ -1,0 +1,169 @@
+{
+  "id": "119890743",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Специалист поддержки 1С в офис",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "Электрозаводская улица",
+    "building": "2к1",
+    "lat": 55.058203,
+    "lng": 82.965875,
+    "description": null,
+    "raw": "Новосибирск, Электрозаводская улица, 2к1",
+    "metro": {
+      "station_name": "Березовая роща",
+      "line_name": "Дзержинская",
+      "station_id": "53.305",
+      "line_id": "53",
+      "lat": 55.043242,
+      "lng": 82.952913
+    },
+    "metro_stations": [
+      {
+        "station_name": "Березовая роща",
+        "line_name": "Дзержинская",
+        "station_id": "53.305",
+        "line_id": "53",
+        "lat": 55.043242,
+        "lng": 82.952913
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Hualian Machinery Russia</strong> - представлена в России с 2007 года. Компания специализируется на реализации упаковочного и пищевого оборудования одноименного бренда, а также продаже упаковочных материалов. В номенклатуре более 20 серий и более 100 моделей упаковочного оборудования, которое на сегодняшний день, благодаря более чем 35-летнему опыту, известно во всем мире. Мы успешно пережили все экономические сложности последних лет, постоянно развиваясь и увеличивая свое присутствие не только на российском рынке оборудования, открыв 5 филиалов, но и стремимся быть представлены в других странах. Так, в 2024 году компания открыла свои представительства в Республике Казахстан и Беларуси</p> <p><strong>Итак, что будет входить в основные обязанности:</strong></p> <ul> <li>Сопровождение 1С 8.3 Комплексная автоматизация</li> <li>Поддержка интеграции 1С с сайтами на CMS «Битрикс управление сайтом» и Битрикс 24. Взаимодействие с администратором Битрикс24 по обменам данных</li> <li>Управление доступами: заведение пользователей, управление правами</li> <li>Консультирование пользователей, устранение ошибок</li> <li>Настройка кассового оборудования</li> <li>Подготовка технических заданий на разработку</li> <li>Помощь пользователям по вопросам проверки, тестирования приемки задач</li> <li>Взаимодействие с удаленными программистами в части выполнения задач</li> <li>Взаимодействие с внутренними сотрудниками компании</li> <li>Подготовка инструкций для пользователей</li> </ul> <strong>Наши ожидания от кандидатов:</strong> <ul> <li>Знание конфигурации «Комплексная автоматизация 2.5» будет огромным плюсом. Либо знание конфигураций Управление торговлей 11, Бухгалтерия предприятия 3.0, Зарплаты и управление персоналом 3.1.</li> <li>Опытный пользователь 1С, опыт настройки 1С.</li> </ul> <strong>Что мы предлагаем со своей стороны:</strong> <ul> <li>Стабильный ежемесячный доход</li> <li>Работу в действительно надежной и успешно развивающейся компании на востребованном<br />рынке, с высокой репутацией и рейтингом (посмотрите отзывы о нас)</li> <li>Мы предоставляем возможности для реализации инициатив сотрудников, мы сторонники постоянных улучшений</li> <li>Обучение и адаптацию с опытным наставником</li> <li>Обязательные социальные гарантии, ДМС после 1 года работы</li> <li>Оплачиваемая мобильная связь, мобильный телефон</li> <li>Возможности для профессионального и карьерного роста. Обучения от внутренних и внешних экспертов. Корпоративная библиотека с актуальными книгами</li> <li>Индивидуальный подход и корпоративная помощь в рабочих и жизненных ситуациях сотрудника</li> <li>У нас дружелюбная атмосфера, лояльное и внимательное руководство, душевные и интересные корпоративы, простой и демократичный стиль общения, приятные люди и офис</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "1С: Предприятие 8"
+    },
+    {
+      "name": "Работа с большим объемом информации"
+    },
+    {
+      "name": "Аналитическое мышление"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "10",
+      "name": "Аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "3145984",
+    "name": "Хуалянь Рус",
+    "url": "https://api.hh.ru/employers/3145984",
+    "alternate_url": "https://hh.ru/employer/3145984",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1406356.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7245092.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7245093.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3145984",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T12:18:54+0300",
+  "created_at": "2025-06-07T12:18:54+0300",
+  "initial_created_at": "2025-04-24T08:38:32+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119890743",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119890743",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

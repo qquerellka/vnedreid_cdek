@@ -1,0 +1,151 @@
+{
+  "id": "120912313",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Аналитик по информационной безопасности",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 70000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 70000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <p>- Работа с ПО по защите информации (DLP, DCAP)</p> <p>- Общение только с действующей текущей базой клиентов (без продаж и холодных звонков)</p> <p>- Консультации заказчика</p> <p>- Ведение документации</p> <p>- Формирование отчетов о результатах работы</p> <p><strong>Требования:</strong></p> <p>- аналитический склад ума</p> <p>- высшее образование</p> <p>- коммуникабельность и грамотная речь</p> <p>- свободное владение ПК</p> <p>- готовность к обучению и большим объемам информации</p> <p>- готовность к самостоятельному принятию решений в нестандартных ситуациях, связанных с рабочими процессами</p> <p>- нацеленность на результат</p> <p>- стремление к профессиональному росту в сфере информационной безопасности</p> <p><strong>Условия:</strong></p> <p>- удаленная работа</p> <p>- первоначальное обучение в должности (5-10 дней)</p> <p>- интересные и нетривиальные задачи с использованием современных технологий</p> <p>- достойная оплата труда и возможность карьерного роста до руководителя отдела аналитики</p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Информационная безопасность"
+    },
+    {
+      "name": "Информационные технологии"
+    },
+    {
+      "name": "DLP (Devicelock, Search Inform, Spector360)"
+    },
+    {
+      "name": "Разработка политики информационной безопасности"
+    },
+    {
+      "name": "Аудит информационной безопасности"
+    },
+    {
+      "name": "Управление информационной безопасностью"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "116",
+      "name": "Специалист по информационной безопасности"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11995451",
+    "name": "Федорчуков Александр Сергеевич",
+    "url": "https://api.hh.ru/employers/11995451",
+    "alternate_url": "https://hh.ru/employer/11995451",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11995451",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T14:47:00+0300",
+  "created_at": "2025-06-07T14:47:00+0300",
+  "initial_created_at": "2025-05-23T14:47:00+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120912313",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120912313",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

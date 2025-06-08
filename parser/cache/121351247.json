@@ -1,0 +1,223 @@
+{
+  "id": "121351247",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист технической поддержки",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": null,
+    "to": 160000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 160000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Замоскворецкая линия",
+    "building": "метро Белорусская",
+    "lat": 55.777393,
+    "lng": 37.582215,
+    "description": null,
+    "raw": "Москва, Замоскворецкая линия, метро Белорусская",
+    "metro": {
+      "station_name": "Белорусская",
+      "line_name": "Замоскворецкая",
+      "station_id": "2.19",
+      "line_id": "2",
+      "lat": 55.777439,
+      "lng": 37.582107
+    },
+    "metro_stations": [
+      {
+        "station_name": "Белорусская",
+        "line_name": "Замоскворецкая",
+        "station_id": "2.19",
+        "line_id": "2",
+        "lat": 55.777439,
+        "lng": 37.582107
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Обязанности</strong>:</p> <p>Обеспечивать работу стандартного системного программного обеспечения, а именно:</p> <ul> <li>Операционных систем: Windows 7-11, macOS, IOS, Android</li> <li>Офисных программных продуктов: Word, Excel, Power Point, Outlook, Lotus Notes, Visio, Autocad и др., а также программ, входящих в список стандартного ПО Компании и других продуктов, разработанных вне предприятия и используемых в качестве стандартного программного обеспечения (1С, системы банк-клиент и др.).</li> <li>Настройка рабочих мест, поддержка пользователей (1-я линия).</li> <li>Решение приоритетных задач от вип-пользователей.</li> <li>Обслуживание оргтехники по части консультирования пользователей и замены расходных материалов.</li> <li>Консультировать пользователей по работе в ИС.</li> <li>Осуществлять ремонт и модернизацию офисной и компьютерной техники.</li> <li>Оценка целесообразности и технической возможности осуществления изменений в конфигурации офисной, компьютерной техники и СКС.</li> <li>Закупки оборудования.</li> <li>Выполнение поручений топ менеджмента и непосредственного руководства.</li> <li>Ведение базы заявок пользователей HelpDesk.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Обработка изображений, продвинутые навыки работы с графическими редакторыми (Adobe Photoshop). Будет большим плюсом.</li> <li>Знание основных операционных систем (установка, настройка, конфигурирование);</li> <li>Знание методики анализа и устранение неисправностей сетевого оборудования и компьютерной техники</li> <li>Навыки по настройке компьютеров;</li> <li>Опыт взаимодействия с внешними техническими специалистами.</li> <li>Грамотная речь, опрятный внешний вид - взаимодействие с топ менеджментом компании (высокая стрессоустойчивость!).</li> <li>Знание логики работы и основных настроек пользовательских Apple iOS устройств.</li> <li>Готовность выполнять нестандартные и креативные задачи с нацеленностью на результат.</li> <li>Навыки в работе с офисным мультимедийным оборудованием (проекторы, ЖК панели, системы видеоконференций)</li> <li>Знание основ работы мобильных устройств на разных платформах.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Оформление по ТК РФ, официальная заработная плата</li> <li>офис в 2 минутах от метро</li> <li>График работы 2/2/3 с 08.00 до 20.00</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Adobe Photoshop"
+    },
+    {
+      "name": "Helpdesk"
+    },
+    {
+      "name": "Офисная техника"
+    },
+    {
+      "name": "Техническая поддержка"
+    },
+    {
+      "name": "Работа с базами данных"
+    },
+    {
+      "name": "Настройка ПО"
+    },
+    {
+      "name": "Закупка оргтехники и оборудования"
+    },
+    {
+      "name": "Работа с оргтехникой"
+    },
+    {
+      "name": "Настройка ПК"
+    },
+    {
+      "name": "iOS"
+    },
+    {
+      "name": "Android"
+    },
+    {
+      "name": "IBM Lotus Notes"
+    },
+    {
+      "name": "Windows 10"
+    },
+    {
+      "name": "Умение работать в коллективе"
+    },
+    {
+      "name": "Adobe Premier"
+    },
+    {
+      "name": "Оперативный поиск информации в сети Интернет"
+    },
+    {
+      "name": "Обработка видео"
+    },
+    {
+      "name": "Обработка изображений"
+    },
+    {
+      "name": "Организация конференций"
+    },
+    {
+      "name": "работа с VIP клиентами"
+    },
+    {
+      "name": "MS Outlook"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "1256",
+    "name": "COALCO",
+    "url": "https://api.hh.ru/employers/1256",
+    "alternate_url": "https://hh.ru/employer/1256",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/240014.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/1402733.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/1402734.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1256",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T16:58:55+0300",
+  "created_at": "2025-06-04T16:58:55+0300",
+  "initial_created_at": "2025-06-04T16:58:55+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121351247",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121351247",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "OTHER",
+      "name": "Другое"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_12",
+      "name": "12 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

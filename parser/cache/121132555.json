@@ -1,0 +1,110 @@
+{
+  "id": "121132555",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Аналитик данных",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>Формирование разовой, регуляторной, управленческой отчетности;</li> <li> <p>Автоматизация аналитических процессов;</p> </li> <li> <p>Анализ качества данных; </p> </li> <li> <p>Выявление проблемных зон БД.</p> </li> </ul> <strong>Требования:</strong> <ul> <li> <p>Уверенное знание SQL;</p> </li> <li> <p>Высшее образование;</p> </li> <li> <p>Будет плюсом: умение работать с Olap-кубами, знание SSRS и SSAS, владение MDX и python.</p> </li> </ul> <strong>Условия:</strong> <ul> <li>Офис в шаговой доступности от метро Проспект мира/ Цветной бульвар/ Достоевская;</li> <li> <p>График работы 5/2; с возможностью удаленного формата;</p> </li> <li> <p>Оформление в соответствие с ТК РФ, соц. пакет, медицинская страховка;</p> </li> <li> <p><em><strong>Обучение в процессе работы;</strong></em></p> </li> <li> <p>Свободный офисный стиль в одежде, работа в молодом коллективе;</p> </li> <li> <p>Заработная плата обсуждается по итогам собеседования.</p> </li> </ul>",
+  "branded_description": "\n    <style>/*03.07.2024-hh-team-007*/\n.hht-vacancydescription {\n  padding: 0;\n}\n\n.tmpl_hh_wrapper {\n  position: relative;\n  z-index: 1;\n  overflow: hidden;\n  width: 100%;\n  max-width: 690px;\n  margin: 0 auto;\n  font-weight: 400;\n  font-size: 16px;\n  font-family: Arial, sans-serif;\n  line-height: 22px;\n  letter-spacing: 0.01em;\n  word-break: normal;\n}\n\n@media (max-width: 1019px) {\n  .tmpl_hh_wrapper {\n    max-width: 610px;\n  }\n}\n\n.tmpl_hh_wrapper p, .tmpl_hh_wrapper h1, .tmpl_hh_wrapper h2, .tmpl_hh_wrapper h3, .tmpl_hh_wrapper h4, .tmpl_hh_wrapper h5, .tmpl_hh_wrapper h6, .tmpl_hh_wrapper a, .tmpl_hh_wrapper img, .tmpl_hh_wrapper ol, .tmpl_hh_wrapper ul, .tmpl_hh_wrapper li {\n  vertical-align: baseline;\n  margin: 0;\n  padding: 0;\n  border: 0;\n  font-weight: inherit;\n  font-size: inherit;\n}\n\n.tmpl_hh_wrapper ul {\n  list-style: none;\n}\n\n.tmpl_hh_wrapper a {\n  text-decoration: none;\n}\n\n.tmpl_hh_wrapper a:hover {\n  color: inherit;\n}\n\n.tmpl_hh_wrapper img {\n  display: block;\n}\n\n.tmpl_hh_wrapper button {\n  display: block;\n  padding: 0;\n  border: none;\n  background-color: transparent;\n  outline: none;\n  cursor: pointer;\n}\n\n.tmpl_hh_wrapper button svg {\n  cursor: pointer;\n}\n\n.tmpl_hh_wrapper .l-cell, .tmpl_hh_wrapper .l-paddings {\n  padding: 0 !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n  margin-top: 0 !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n  overflow: visible !important;\n  line-height: inherit;\n}\n\n.tmpl_hh_content ol li b, .tmpl_hh_content ol li strong, .tmpl_hh_content ol li p b, .tmpl_hh_content ol li p strong, .tmpl_hh_content ul li b, .tmpl_hh_content ul li strong, .tmpl_hh_content ul li p b, .tmpl_hh_content ul li p strong {\n  margin: 0 !important;\n  color: inherit !important;\n  font-size: inherit !important;\n  line-height: inherit;\n  text-transform: none;\n}\n\n.tmpl_hh_content ol li p, .tmpl_hh_content ul li p {\n  margin: 0;\n  font-weight: normal;\n}\n\n.tmpl_hh_content p {\n  margin-bottom: 16px;\n}\n\n.tmpl_hh_content p b, .tmpl_hh_content p strong {\n  display: inline;\n  margin: 0;\n}\n\n.tmpl_hh_content ol, .tmpl_hh_content ul {\n  margin-bottom: 32px;\n  margin-left: 18px;\n  list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n  counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n  position: relative;\n  margin-bottom: 8px;\n  font-size: 16px;\n}\n\n.tmpl_hh_content li:last-child {\n  margin-bottom: 0;\n}\n\n.tmpl_hh_content ul ul, .tmpl_hh_content ul ol, .tmpl_hh_content ol ol, .tmpl_hh_content ol ul {\n  margin-top: 14px;\n}\n\n.tmpl_hh_content ol > li {\n  counter-increment: list_counter;\n}\n\n.tmpl_hh_content ul > li::before {\n  content: \"\";\n  position: absolute;\n  top: 9px;\n  left: -18px;\n  width: 5px;\n  height: 5px;\n  border-radius: 100%;\n  background-color: #000;\n}\n\n.tmpl_hh_content ol > li::before {\n  content: counter(list_counter) \".\";\n  right: 100%;\n  left: auto;\n  margin-right: 2px;\n}\n\n.tmpl_hh_content :last-child {\n  margin-bottom: 0;\n}\n\n.tmpl_hh_wrapper {\n  box-sizing: border-box;\n  color: #000;\n  font-size: 16px;\n  line-height: 140%;\n}\n\n.tmpl_hh_wrapper h3.tmpl_hh_title {\n  margin-bottom: 20px;\n  color: #006ecf;\n  font-size: 30px;\n  line-height: normal;\n}\n\n@media (max-width: 413px) {\n  .tmpl_hh_wrapper h3.tmpl_hh_title {\n    margin-bottom: 15px;\n    font-size: 22px;\n  }\n}\n\n.tmpl_hh_wrapper p.tmpl_hh_designation {\n  font-size: 14px;\n  line-height: 140%;\n}\n\n@media (max-width: 413px) {\n  .tmpl_hh_wrapper p.tmpl_hh_designation {\n    font-size: 13px;\n  }\n}\n\n.tmpl_hh_flex {\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n}\n\n.tmpl_hh_header {\n  position: relative;\n  box-sizing: border-box;\n  height: 394px;\n  padding: 40px;\n  background: url(\"https://hhcdn.ru/ichameleon/371063.jpg\") no-repeat center/cover;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_header {\n    height: 445px;\n    padding: 40px 20px;\n  }\n}\n\n@media (max-width: 413px) {\n  .tmpl_hh_header {\n    height: 340px;\n    padding: 30px 16px;\n  }\n}\n\n.tmpl_hh_header__title > img {\n  position: relative;\n  z-index: 1;\n  max-width: 100%;\n}\n\n.tmpl_hh_header__title > img.tmpl_hh_logo {\n  margin-bottom: 30px;\n}\n\n@media (max-width: 413px) {\n  .tmpl_hh_header__title > img.tmpl_hh_logo {\n    margin-bottom: 20px;\n  }\n}\n\n.tmpl_hh_header > img {\n  max-width: 100%;\n}\n\n.tmpl_hh_header > img.tmpl_hh_header__img {\n  position: absolute;\n  right: 0;\n  bottom: 0;\n  z-index: 1;\n  width: 436px;\n}\n\n@media (max-width: 413px) {\n  .tmpl_hh_header > img.tmpl_hh_header__img {\n    width: 290px;\n  }\n}\n\n.tmpl_hh_header > img.tmpl_hh_header__shape {\n  position: absolute;\n  top: -55px;\n  right: -41px;\n  width: 325px;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_header > img.tmpl_hh_header__shape {\n    top: 63px;\n    right: -33px;\n    width: 279px;\n  }\n}\n\n@media (max-width: 413px) {\n  .tmpl_hh_header > img.tmpl_hh_header__shape {\n    width: 220px;\n  }\n}\n\n.tmpl_hh_content {\n  padding: 40px;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_content {\n    padding: 40px 20px;\n  }\n}\n\n@media (max-width: 413px) {\n  .tmpl_hh_content {\n    padding: 30px 12px;\n  }\n}\n\n.tmpl_hh_content em strong, .tmpl_hh_content strong em {\n  margin-bottom: 20px;\n  color: #006ecf;\n  font-weight: 400;\n  font-style: normal;\n  font-size: 30px;\n  line-height: normal;\n  letter-spacing: normal;\n}\n\n@media (max-width: 413px) {\n  .tmpl_hh_content em strong, .tmpl_hh_content strong em {\n    font-size: 22px;\n  }\n}\n\n.tmpl_hh_content p.tmpl_hh_content_title, .tmpl_hh_content b.tmpl_hh_content_title, .tmpl_hh_content strong.tmpl_hh_content_title {\n  margin-bottom: 15px;\n  color: #006ecf;\n  font-weight: 400;\n  font-style: normal;\n  font-size: 30px;\n  line-height: normal;\n  letter-spacing: normal;\n}\n\n@media (max-width: 413px) {\n  .tmpl_hh_content p.tmpl_hh_content_title, .tmpl_hh_content b.tmpl_hh_content_title, .tmpl_hh_content strong.tmpl_hh_content_title {\n    margin-bottom: 10px;\n    font-size: 22px;\n  }\n}\n\n.tmpl_hh_content p.tmpl_hh_content_title > b, .tmpl_hh_content p.tmpl_hh_content_title > strong {\n  color: #006ecf;\n  font-weight: 400;\n  font-style: normal;\n  font-size: 30px;\n  line-height: normal;\n  letter-spacing: normal;\n}\n\n@media (max-width: 413px) {\n  .tmpl_hh_content p.tmpl_hh_content_title > b, .tmpl_hh_content p.tmpl_hh_content_title > strong {\n    font-size: 22px;\n  }\n}\n\n.tmpl_hh_content p {\n  font-weight: 400;\n  font-style: normal;\n  font-size: 16px;\n  line-height: 140%;\n}\n\n.tmpl_hh_content ul:not(:last-of-type) {\n  margin-bottom: 20px;\n}\n\n.tmpl_hh_content ul li {\n  font-weight: 400;\n  font-style: normal;\n  font-size: 16px;\n  line-height: 140%;\n}\n\n.tmpl_hh_content ul li:not(:last-of-type) {\n  margin-bottom: 10px;\n}\n\n.tmpl_hh_content ul li::before {\n  width: 8px;\n  height: 8px;\n  background-color: #006ecf;\n  top: 6px;\n}\n\n@media (max-width: 413px) {\n  .tmpl_hh_content p {\n    font-weight: 400;\n    font-style: normal;\n    font-size: 14px;\n  }\n  .tmpl_hh_content ul {\n    margin-left: 14px;\n  }\n  .tmpl_hh_content ul:not(:last-of-type) {\n    margin-bottom: 15px;\n  }\n  .tmpl_hh_content ul li {\n    font-weight: 400;\n    font-style: normal;\n    font-size: 14px;\n  }\n  .tmpl_hh_content ul li:not(:last-of-type) {\n    margin-bottom: 6px;\n  }\n  .tmpl_hh_content ul li::before {\n    width: 6px;\n    height: 6px;\n    left: -14px;\n  }\n}\n\n.tmpl_hh_advantages {\n  padding: 0 40px 40px;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_advantages {\n    padding: 0 20px 40px;\n  }\n}\n\n@media (max-width: 413px) {\n  .tmpl_hh_advantages {\n    padding: 0 12px 30px;\n  }\n}\n\n.tmpl_hh_advantages > ul {\n  flex-wrap: wrap;\n  gap: 20px;\n  align-items: stretch;\n}\n\n@media (max-width: 413px) {\n  .tmpl_hh_advantages > ul {\n    gap: 12px;\n  }\n}\n\n.tmpl_hh_advantages > ul > li {\n  box-sizing: border-box;\n  width: 31.1%;\n  padding: 25px 30px;\n  border-radius: 25px;\n  background: linear-gradient(45deg, #d6eeff 20.44%, #dee0ff 128.37%);\n}\n\n@media (max-width: 1019px) {\n  .tmpl_hh_advantages > ul > li {\n    width: 30.8%;\n  }\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_advantages > ul > li {\n    width: 100%;\n    padding: 25px 20px;\n  }\n}\n\n@media (max-width: 413px) {\n  .tmpl_hh_advantages > ul > li {\n    padding: 18px 12px;\n  }\n}\n\n.tmpl_hh_advantages > ul > li:nth-of-type(4) {\n  padding: 25px 18px;\n}\n\n@media (max-width: 1019px) {\n  .tmpl_hh_advantages > ul > li:nth-of-type(4) {\n    padding: 25px 10px;\n  }\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_advantages > ul > li:nth-of-type(4) {\n    padding: 25px 20px;\n  }\n}\n\n@media (max-width: 413px) {\n  .tmpl_hh_advantages > ul > li:nth-of-type(4) {\n    padding: 18px 12px;\n  }\n}\n\n.tmpl_hh_advantages > ul > li > img {\n  height: 96px;\n  margin: 0 auto 15px;\n}\n\n@media (max-width: 413px) {\n  .tmpl_hh_advantages > ul > li > img {\n    height: 80px;\n    margin-bottom: 10px;\n  }\n}\n\n.tmpl_hh_advantages > ul > li > p {\n  font-size: 15px;\n  line-height: normal;\n  letter-spacing: normal;\n  text-align: center;\n}\n\n@media (max-width: 413px) {\n  .tmpl_hh_advantages > ul > li > p {\n    font-size: 14px;\n  }\n}\n\n.tmpl_hh_footer {\n  padding: 0 40px 20px;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_footer {\n    padding: 0 20px 20px;\n  }\n}\n\n@media (max-width: 413px) {\n  .tmpl_hh_footer {\n    padding: 0 12px 20px;\n  }\n}\n</style>\n<div>\n    <div class=\"tmpl_hh_wrapper\">\n      <header class=\"tmpl_hh_header\">\n        <div class=\"tmpl_hh_header__title\">\n          <img class=\"tmpl_hh_logo\" src=\"https://hhcdn.ru/ichameleon/371064.svg\" alt=\"КРЕДИТ ЕВРОПА БАНК(Россия)\">\n          <img class=\"tmpl_hh_title\" src=\"https://hhcdn.ru/ichameleon/371065.svg\" alt=\"Выбор за вами!\">\n        </div>\n        <img class=\"tmpl_hh_header__img\" src=\"https://hhcdn.ru/ichameleon/371066.png\" alt=\"\">\n        <img class=\"tmpl_hh_header__shape\" src=\"https://hhcdn.ru/ichameleon/371062.png\" alt=\"\">\n      </header>\n      <main class=\"tmpl_hh_content\">\n        <strong>Обязанности:</strong> <ul> <li>Формирование разовой, регуляторной, управленческой отчетности;</li> <li> <p>Автоматизация аналитических процессов;</p> </li> <li> <p>Анализ качества данных; </p> </li> <li> <p>Выявление проблемных зон БД.</p> </li> </ul> <strong>Требования:</strong> <ul> <li> <p>Уверенное знание SQL;</p> </li> <li> <p>Высшее образование;</p> </li> <li> <p>Будет плюсом: умение работать с Olap-кубами, знание SSRS и SSAS, владение MDX и python.</p> </li> </ul> <strong>Условия:</strong> <ul> <li>Офис в шаговой доступности от метро Проспект мира/ Цветной бульвар/ Достоевская;</li> <li> <p>График работы 5/2; с возможностью удаленного формата;</p> </li> <li> <p>Оформление в соответствие с ТК РФ, соц. пакет, медицинская страховка;</p> </li> <li> <p><em><strong>Обучение в процессе работы;</strong></em></p> </li> <li> <p>Свободный офисный стиль в одежде, работа в молодом коллективе;</p> </li> <li> <p>Заработная плата обсуждается по итогам собеседования.</p> </li> </ul></main>\n      <section class=\"tmpl_hh_advantages\">\n        <h3 class=\"tmpl_hh_title\">О нас</h3>\n        <ul class=\"tmpl_hh_flex\">\n          <li>\n            <img src=\"https://hhcdn.ru/ichameleon/371068.png\" alt=\"\">\n            <p>Минимум бюрократии</p>\n          </li>\n          <li>\n            <img src=\"https://hhcdn.ru/ichameleon/371067.png\" alt=\"\">\n            <p>Корпоративные мероприятия</p>\n          </li>\n          <li>\n            <img src=\"https://hhcdn.ru/ichameleon/371069.png\" alt=\"\">\n            <p>Обучение в стиле наставничества</p>\n          </li>\n          <li>\n            <img src=\"https://hhcdn.ru/ichameleon/371070.png\" alt=\"\">\n            <p>Помощь в сложных жизненных ситуациях</p>\n          </li>\n          <li>\n            <img src=\"https://hhcdn.ru/ichameleon/371072.png\" alt=\"\">\n            <p>Корпоративный врач в офисе</p>\n          </li>\n          <li>\n            <img src=\"https://hhcdn.ru/ichameleon/371071.png\" alt=\"\">\n            <p>ДМС со стоматологией</p>\n          </li>\n        </ul>\n      </section>\n      <footer class=\"tmpl_hh_footer\">\n        <p class=\"tmpl_hh_designation\">«АО «КРЕДИТ ЕВРОПА БАНК (РОССИЯ)»</p>\n      </footer>\n    </div>\n  </div>\n<script>\n//\n\n\nconst main = \"\";\nconst customTitle = () => {\n  const allUl = document.querySelectorAll(\".tmpl_hh_content ul\");\n  allUl.forEach((ul, i) => {\n    const ulTitle = ul.previousElementSibling;\n    if (ulTitle) {\n      ulTitle.classList.add(\"tmpl_hh_content_title\");\n      if (i === 0) {\n        ul.previousElementSibling.classList.add(\"tmpl_hh_content_title--first\");\n      }\n    }\n  });\n};\ndocument.addEventListener(\"DOMContentLoaded\", () => {\n  try {\n    customTitle();\n  } catch (error) {\n    console.log(error);\n  }\n});\n\n\n//\n</script>\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "10",
+      "name": "Аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1947",
+    "name": "КРЕДИТ ЕВРОПА БАНК",
+    "url": "https://api.hh.ru/employers/1947",
+    "alternate_url": "https://hh.ru/employer/1947",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/232625.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/309231.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/382088.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1947",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-29T15:08:32+0300",
+  "created_at": "2025-05-29T15:08:32+0300",
+  "initial_created_at": "2025-05-29T15:08:32+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121132555",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121132555",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

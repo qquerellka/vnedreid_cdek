@@ -1,0 +1,164 @@
+{
+  "id": "120752561",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Data Scientist / CV Researcher",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 200000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 200000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "улица Академика Павлова",
+    "building": "14Д",
+    "lat": 59.975135,
+    "lng": 30.310263,
+    "description": null,
+    "raw": "Санкт-Петербург, улица Академика Павлова, 14Д",
+    "metro": {
+      "station_name": "Петроградская",
+      "line_name": "Московско-Петроградская",
+      "station_id": "15.215",
+      "line_id": "15",
+      "lat": 59.966389,
+      "lng": 30.311293
+    },
+    "metro_stations": [
+      {
+        "station_name": "Петроградская",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.215",
+        "line_id": "15",
+        "lat": 59.966389,
+        "lng": 30.311293
+      },
+      {
+        "station_name": "Чёрная речка",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.214",
+        "line_id": "15",
+        "lat": 59.985455,
+        "lng": 30.300833
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Чем предстоит заниматься:</strong></p> <ul> <li> <p>Участие в разработке геоинформационных систем с элементами ML/CV;</p> </li> <li> <p>Разработка и поддержка библиотек/сервисов для подготовки данных, обучения моделей и инференса);</p> </li> <li> <p>Проверка гипотез по улучшению качества и скорости подготовки данных/обучения/инференса моделей;</p> </li> <li> <p>Первичный анализ данных в рамках предпроектного обследования;</p> </li> <li> <p>Консультирование по ML-специфике других команд компании (разметчики, системные аналитики, devops, backend, frontend и т.д.)</p> </li> </ul> <p><strong>Что для нас важно:</strong></p> <ul> <li> <p>Высшее образование;</p> </li> <li> <p>Опыт участия в проектах DA/ML/CV/DL/LLM/AI;</p> </li> <li> <p>Хорошее знание классических моделей и метрик ML/CV;</p> </li> <li> <p>Знакомство с основными архитектурами нейросетей в задачах детекции и сегментации изображений;</p> </li> <li> <p>Знакомство с техниками подготовки данных для обучения моделей;</p> </li> <li> <p>Опыт превращения моделей в сервисы и библиотеки на Python;</p> </li> <li> <p>Опыт работы с библиотеками Pytorch, Pandas, Numpy, Scikit-learn, ONNX, Albumentation, FastAPI, TensorRT, Plotly;</p> </li> <li> <p>Опыт организации распределенных вычислений (подготовка данных, обучение, инференс);</p> </li> <li> <p>Уверенные навыки работы с CLI Linux, bash, Docker, Git, IDE, Jupyter;</p> </li> <li> <p>Английский на уровне свободного чтения документации и форумов для сбора технической информации;</p> </li> <li> <p>Высшее образование в области технических наук, физики или математики;</p> </li> <li> <p>Готовность к редким командировкам</p> </li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li> <p>Понимание особенностей представления данных в ГИС;</p> </li> <li> <p>Знакомство с С++ на уровне понимания кода;</p> </li> <li> <p>Опыт с фреймворками MLOps;</p> </li> <li> <p>Опыт низкоуровневой оптимизации моделей (cuda, конвееризация и т.д.);</p> </li> <li> <p>Опыт реализации ML/CV во встроенных устройствах (одноплатники);</p> </li> <li> <p>Опыт анализа и реализации алгоритмов из англоязычных научных статей</p> </li> </ul> <p><strong>У нас:</strong></p> <ul> <li> <p>Минимум бумажной работы;</p> </li> <li> <p>Современное оборудование (i7, 64Gb, RTX 40 серии);</p> </li> <li> <p>Кластер для обучения моделей;</p> </li> <li> <p>Свобода в принятии решений;</p> </li> <li> <p>Профессиональный рост</p> </li> </ul> <p><strong>Условия:</strong></p> <ul> <li> <p>Официальное оформление с первого дня работы по ТК РФ;</p> </li> <li> <p>Обсуждаемая заработная плата по итогам собеседования и её регулярный пересмотр;</p> </li> <li> <p>ДМС после испытательного срока;</p> </li> <li> <p>Комната отдыха, корпоративная библиотека, кофемашина и чай;</p> </li> <li> <p>Корпоративный спорт (баскетбол) в современном фитнес клубе в Петроградском р-не;</p> </li> <li> <p>Возможность выбора удобного времени начала рабочего дня;</p> </li> <li> <p>Охраняемая велопарковка;</p> </li> <li> <p>Офис в шаговой доступности от м. Петроградская</p> </li> </ul> <p>Если вы готовы присоединиться к нашей команде, отправьте свое резюме. Мы будем рады рассмотреть вашу кандидатуру и пригласить вас на собеседование.</p> <ul> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1092665",
+    "name": "Филиал в г. Санкт-Петербург АО Концерн Радиостроения Вега",
+    "url": "https://api.hh.ru/employers/1092665",
+    "alternate_url": "https://hh.ru/employer/1092665",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1281580.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6746618.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6746619.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1092665",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-20T11:12:46+0300",
+  "created_at": "2025-05-20T11:12:46+0300",
+  "initial_created_at": "2025-05-20T11:12:46+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120752561",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120752561",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

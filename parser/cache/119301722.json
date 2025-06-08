@@ -1,0 +1,158 @@
+{
+  "id": "119301722",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный разработчик С++",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": null,
+    "lng": null,
+    "description": null,
+    "raw": null,
+    "metro": {
+      "station_name": "Выборгская",
+      "line_name": "Кировско-Выборгская",
+      "station_id": "14.196",
+      "line_id": "14",
+      "lat": 59.970925,
+      "lng": 30.347408
+    },
+    "metro_stations": [
+      {
+        "station_name": "Выборгская",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.196",
+        "line_id": "14",
+        "lat": 59.970925,
+        "lng": 30.347408
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>GS Labs</strong> – центр исследований и разработок программных продуктов и потребительской электроники. Общее число сотрудников - более 300, включая головной офис в Санкт-Петербурге и распределенную команду по всей России.</p> <p>Ключевое направление деятельности – разработка и интеграция программно-аппаратных комплексов для цифрового телевидения и других интерактивных сервисов. Наши решения используются у крупнейшего российского оператора цифровой среды - &quot;Триколор&quot;, а также у других эфирных и кабельных операторов телевещания России.</p> <p> </p> <p><strong>Проект</strong></p> <ul> <li>Разработка современной программной платформы для TV приставок (StingrayTV) с поддержкой интерактивных сервисов;</li> <li>Стек: С++14, U-Boot, Linux kernel, Yocto/Bitbake, Buildroot, Autotools, Bash, Python.</li> </ul> <p><strong>Чем предстоит заниматься</strong></p> <ul> <li>Развитие слоя HAL в MiddleWare StingrayTV, портирование на новые платформы;</li> <li>Доработка загрузчиков;</li> <li>Поддержка ядра Linux, драйверов и SDK для разных Embedded платформ, доработка и исправление ошибок;</li> <li>Развитие экосистемы кросс-платформенной разработки MW StingrayTV.</li> </ul> <p><strong>Для нас важно</strong></p> <ul> <li>Отличное знание C, C++ 14, git, make, CMake;</li> <li>Владение скриптовыми языками bash, python;</li> <li>Знание основ криптографии;</li> <li>Знание основ TCP/IP;</li> <li>Готовность работать в гибридном формате офис/дом.</li> </ul> <p><strong>Приветствуются знания</strong></p> <ul> <li>Технологий Flash-памяти: eMMC, NAND, UBI;</li> <li>Внутрисхемных интерфейсов: USB, SDIO, I2C, SPI, UART, JTAG;</li> <li>Беспроводных технологий: Wi-Fi, Bluetooth, IR;</li> <li>Стандартов цифрового ТВ: DVB, MPEG-2 TS.</li> </ul>",
+  "branded_description": "\n<style type=\"text/css\">\n .tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc,\n.tmpl_hh_wrapper .l-paddings {\n    line-height: inherit !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-weight: normal;\n    font-size: inherit!important;\n    font-family: inherit!important;\n    line-height: inherit!important;\n    color: inherit!important;\n    margin: 0!important;\n    padding: 0!important;\n    background: none!important;\n    display: inline!important;\n    text-transform: none;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    display: inline;\n    margin: 0;\n}\n\n.tmpl_hh_flex {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n    -ms-flex-pack: justify;\n    -webkit-box-pack: justify;\n    justify-content: space-between;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    max-width: 690px;\n    margin: 0 auto;\n    position: relative;\n    word-break: normal;\n    font-family: 'Arial', sans-serif;\n    font-size: 14px;\n    line-height: 1.2;\n    overflow: hidden;\n    -webkit-font-smoothing: antialiased;\n    background: #3BB83E;\n    padding: 12px;\n    -webkit-box-sizing: border-box;\n    box-sizing: border-box;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_wrapper * {\n    -webkit-box-sizing: border-box;\n    box-sizing: border-box;\n}\n\n.tmpl_hh_video_wrapper {\n    position: relative;\n}\n\n.tmpl_hh_video {\n    position: relative;\n    width: 100%;\n    padding-bottom: 49.5%;\n    border-radius: 20px;\n    overflow: hidden;\n    background: url(https://hhcdn.ru/ichameleon/229142.jpg) no-repeat 50% 50%;\n    background-size: cover;\n    cursor: pointer;\n}\n\n.tmpl_hh_video_text {\n    background: rgba(255, 255, 255, 0.98);\n    -webkit-box-shadow: 0px 12px 32px rgba(0, 0, 0, 0.24);\n    box-shadow: 0px 12px 32px rgba(0, 0, 0, 0.24);\n    border-radius: 12px;\n    -webkit-transform: rotate(-4deg) translateX(-50%);\n    transform: rotate(-4deg) translateX(-50%);\n    display: block;\n    position: absolute;\n    left: 50%;\n    bottom: -12px;\n    font-weight: 700;\n    font-size: 24px;\n    line-height: 32px;\n    text-align: center;\n    z-index: 2;\n    padding: 9px 23px 9px;\n}\n\n.tmpl_hh_video_text span {\n    background: -webkit-gradient(linear, left top, left bottom, from(#6AE26C), color-stop(75.31%, #3BB83E));\n    background: linear-gradient(180deg, #6AE26C 0%, #3BB83E 75.31%);\n    -webkit-background-clip: text;\n    -webkit-text-fill-color: transparent;\n    background-clip: text;\n    text-fill-color: transparent;\n    display: block;\n    white-space: nowrap;\n}\n\n.tmpl_hh_video img,\n.tmpl_hh_video iframe {\n    position: absolute;\n    left: 0;\n    top: 0;\n    width: 100%;\n    height: 100%;\n}\n\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul {\n    list-style: none;\n}\n\n.tmpl_hh_inner {\n    background: #2C2C2C;\n    border-radius: 20px;\n}\n\n.tmpl_hh_header {\n    position: relative;\n}\n\nimg.tmpl_hh_logo {\n    width: 156px;\n    top: 10%;\n    left: 7%;\n    position: absolute;\n}\n\n.tmpl_hh_benefits {\n    margin-top: 30px;\n    margin-bottom: 12px;\n}\n\n.tmpl_hh_benefits_item {\n    width: 28%;\n    margin-bottom: 27px;\n}\n\n.tmpl_hh_benefits_item img {\n    width: 48px;\n    margin-bottom: 15px;\n}\n\n.tmpl_hh_benefits_item span {\n    display: block;\n    padding-right: 4%;\n}\n\n.tmpl_hh_note {\n    font-size: 13px;\n    line-height: 15px;\n    margin-top: 64px;\n    opacity: 0.25;\n}\n\n.tmpl_hh_content {\n    padding: 6px 6.34% 40px;\n    -webkit-box-sizing: border-box;\n    box-sizing: border-box;\n    margin: 0 auto;\n    color: #fff;\n    font-size: 14px;\n    line-height: 20px;\n    background: url(https://hhcdn.ru/ichameleon/229143.png) no-repeat 0 0;\n    background-size: 100% auto;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    margin: 37px 0 0;\n}\n\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    display: inline-block;\n    font-size: 24px;\n    line-height: 32px;\n    color: #3BB83E;\n}\n\n.tmpl_hh_content ul,\n.tmpl_hh_content ul ul {\n    list-style: none;\n}\n\n.tmpl_hh_content ol {\n    list-style: none;\n    counter-reset: list;\n}\n\n.tmpl_hh_content ul,\n.tmpl_hh_content ol {\n    margin-left: 20px;\n    margin-top: 15px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 8px;\n    margin-bottom: 8px;\n}\n\n.tmpl_hh_content ul li,\n.tmpl_hh_content ol li {\n    position: relative;\n    margin-bottom: 12px;\n}\n\n.tmpl_hh_content ol > li {\n    counter-increment: list;\n}\n\n.tmpl_hh_content ul>li:before,\n.tmpl_hh_content ol>li:before {\n    position: absolute;\n    left: -16px;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: '\\2022';\n    color: #3BB83E;\n    font-weight: bold;\n    font-size: 17px;\n    top: 1px;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list) \".\";\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n\n@media screen and (max-width: 699px) {\n    .tmpl_hh_wrapper {\n        padding: 9px;\n    }\n    .tmpl_hh_video_wrapper {\n        position: relative;\n        width: 115%;\n        margin-left: -7.5%;\n    }\n    .tmpl_hh_video {\n        padding-bottom: 49.6%;\n        border-radius: 0px;\n    }\n    .tmpl_hh_video_text {\n        -webkit-box-shadow: 0px 12px 32px rgba(0, 0, 0, 0.24);\n        box-shadow: 0px 12px 32px rgba(0, 0, 0, 0.24);\n        border-radius: 11px;\n        -webkit-transform: rotate(-4deg) translateX(-50%);\n        transform: rotate(-4deg) translateX(-50%);\n        left: 50%;\n        bottom: -12px;\n        font-size: 16px;\n        line-height: 21px;\n        padding: 7px 15px 6px;\n        white-space: nowrap;\n    }\n    .tmpl_hh_inner {\n        border-radius: 13px;\n    }\n    .tmpl_hh_header {\n        position: relative;\n    }\n    img.tmpl_hh_logo {\n        width: 29%;\n        top: 10%;\n        left: 7%;\n    }\n    .tmpl_hh_benefits {\n        margin-top: 19px;\n        margin-bottom: 22px;\n    }\n    .tmpl_hh_benefits_item {\n        width: 47%;\n        margin-bottom: 22px;\n    }\n    .tmpl_hh_benefits_item img {\n        width: 48px;\n        margin-bottom: 10px;\n    }\n    .tmpl_hh_benefits_item span {\n        display: block;\n        padding-right: 4%;\n    }\n    .tmpl_hh_note {\n        font-size: 13px;\n        line-height: 15px;\n        margin-top: 48px;\n        opacity: 0.25;\n    }\n    .tmpl_hh_content {\n        padding: 9px 6.34% 30px;\n        font-size: 14px;\n        line-height: 20px;\n        overflow: hidden;\n    }\n    .tmpl_hh_content p,\n    .tmpl_hh_content b,\n    .tmpl_hh_content strong {\n        margin: 24px 0 0;\n    }\n    .tmpl_hh_content b,\n    .tmpl_hh_content strong {\n        font-size: 22px;\n        line-height: 27px;\n    }\n    .tmpl_hh_content ul,\n    .tmpl_hh_content ol {\n        margin-left: 20px;\n        margin-top: 13px;\n    }\n    .tmpl_hh_content ul ul,\n    .tmpl_hh_content ul ol,\n    .tmpl_hh_content ol ol,\n    .tmpl_hh_content ol ul {\n        margin-top: 8px;\n        margin-bottom: 8px;\n    }\n    .tmpl_hh_content ul li,\n    .tmpl_hh_content ol li {\n        margin-bottom: 12px;\n    }\n    .tmpl_hh_content ul>li:before,\n    .tmpl_hh_content ol>li:before {\n        position: absolute;\n        left: -16px;\n    }\n    .tmpl_hh_content ul>li:before {\n        font-size: 17px;\n        top: 1px;\n    }\n    .tmpl_hh_content ol>li:before {\n        content: counter(list) \".\";\n        left: auto;\n        right: 100%;\n        margin-right: 2px;\n    }\n}   \n</style>\n<script type=\"text/javascript\">\n// \n\nfunction DOM_HH_Ready() {\n    var video = document.querySelector('.tmpl_hh_video');\n    video.addEventListener('click', function () {\n        var id = video.dataset.id;\n        video.innerHTML = '<iframe src=\"https://vk.com/video_ext.php?oid=-145478245&amp;id=' + id + '&amp;hd=2&amp;autoplay=1\"  allow=\"autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;\" frameborder=\"0\" allowfullscreen></iframe>';\n        var iframe = video.querySelector('iframe');\n    });   \n};\nif (document.readyState === \"loading\") {\n    document.addEventListener(\"DOMContentLoaded\", DOM_HH_Ready);\n} else {\n    DOM_HH_Ready();\n}\n//\n</script>\n \n<div class=\"tmpl_hh_wrapper\">\n    <div class=\"tmpl_hh_inner\">\n        <div class=\"tmpl_hh_header\">\n            <img src=\"https://hhcdn.ru/ichameleon/229144.png\" alt=\"\">\n            <img src=\"https://hhcdn.ru/ichameleon/229146.svg\" alt=\"\" class=\"tmpl_hh_logo\">\n        </div>\n        <div class=\"tmpl_hh_content\">\n            <p><strong>GS Labs</strong> – центр исследований и разработок программных продуктов и потребительской электроники. Общее число сотрудников - более 300, включая головной офис в Санкт-Петербурге и распределенную команду по всей России.</p> <p>Ключевое направление деятельности – разработка и интеграция программно-аппаратных комплексов для цифрового телевидения и других интерактивных сервисов. Наши решения используются у крупнейшего российского оператора цифровой среды - \"Триколор\", а также у других эфирных и кабельных операторов телевещания России.</p> <p> </p> <p><strong>Проект</strong></p> <ul> <li>Разработка современной программной платформы для TV приставок (StingrayTV) с поддержкой интерактивных сервисов;</li> <li>Стек: С++14, U-Boot, Linux kernel, Yocto/Bitbake, Buildroot, Autotools, Bash, Python.</li> </ul> <p><strong>Чем предстоит заниматься</strong></p> <ul> <li>Развитие слоя HAL в MiddleWare StingrayTV, портирование на новые платформы;</li> <li>Доработка загрузчиков;</li> <li>Поддержка ядра Linux, драйверов и SDK для разных Embedded платформ, доработка и исправление ошибок;</li> <li>Развитие экосистемы кросс-платформенной разработки MW StingrayTV.</li> </ul> <p><strong>Для нас важно</strong></p> <ul> <li>Отличное знание C, C++ 14, git, make, CMake;</li> <li>Владение скриптовыми языками bash, python;</li> <li>Знание основ криптографии;</li> <li>Знание основ TCP/IP;</li> <li>Готовность работать в гибридном формате офис/дом.</li> </ul> <p><strong>Приветствуются знания</strong></p> <ul> <li>Технологий Flash-памяти: eMMC, NAND, UBI;</li> <li>Внутрисхемных интерфейсов: USB, SDIO, I2C, SPI, UART, JTAG;</li> <li>Беспроводных технологий: Wi-Fi, Bluetooth, IR;</li> <li>Стандартов цифрового ТВ: DVB, MPEG-2 TS.</li> </ul><p><strong>Что предлагаем</strong></p>\n            <div class=\"tmpl_hh_benefits tmpl_hh_flex\">\n                <div class=\"tmpl_hh_benefits_item tmpl_hh_benefits_item1\">\n                    <img src=\"https://hhcdn.ru/ichameleon/229147.svg\" alt=\"\">\n                    <span>Гибкий график</span>\n                </div>\n                <div class=\"tmpl_hh_benefits_item tmpl_hh_benefits_item2\">\n                    <img src=\"https://hhcdn.ru/ichameleon/229148.svg\" alt=\"\">\n                    <span>ДМС + врач в офисе</span>\n                </div>\n                <div class=\"tmpl_hh_benefits_item tmpl_hh_benefits_item3\">\n                    <img src=\"https://hhcdn.ru/ichameleon/229149.svg\" alt=\"\">\n                    <span>Курсы английского языка</span>\n                </div>\n                <div class=\"tmpl_hh_benefits_item tmpl_hh_benefits_item4\">\n                    <img src=\"https://hhcdn.ru/ichameleon/229150.svg\" alt=\"\">\n                    <span>Компенсация 50% спорта/хобби</span>\n                </div>\n                <div class=\"tmpl_hh_benefits_item tmpl_hh_benefits_item5\">\n                    <img src=\"https://hhcdn.ru/ichameleon/229151.svg\" alt=\"\">\n                    <span>Внутренние митапы</span>\n                </div>\n                <div class=\"tmpl_hh_benefits_item tmpl_hh_benefits_item6\">\n                    <img src=\"https://hhcdn.ru/ichameleon/229152.svg\" alt=\"\">\n                    <span>\n                        Корпоративы \n                        и тимбилдинги\n                    </span>\n                </div>\n            </div>\n            <div class=\"tmpl_hh_video_wrapper\">\n                <div class=\"tmpl_hh_video\" data-id=\"456239027\">\n                    <!---->\n                </div>\n                <div class=\"tmpl_hh_video_text\">\n                    <span>\n                        Развивайся с нами!\n                    </span>\n                </div>\n                \n            </div>\n            \n            <div class=\"tmpl_hh_note\">\n                ООО \"Цифра\" работает под брендом GS LABS\n            </div>\n        </div>\n    </div>\n   \n     \n</div>\n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "C++"
+    },
+    {
+      "name": "Bash"
+    },
+    {
+      "name": "U-Boot"
+    },
+    {
+      "name": "Linux kernel"
+    },
+    {
+      "name": "Yocto"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "6017792",
+    "name": "GS Labs",
+    "url": "https://api.hh.ru/employers/6017792",
+    "alternate_url": "https://hh.ru/employer/6017792",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6017792",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T18:37:30+0300",
+  "created_at": "2025-06-04T18:37:30+0300",
+  "initial_created_at": "2025-04-08T18:35:47+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119301722",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119301722",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

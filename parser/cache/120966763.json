@@ -1,0 +1,160 @@
+{
+  "id": "120966763",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Frontend-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 60000,
+    "to": 110000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 60000,
+    "to": 110000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Мясницкая улица",
+    "building": "24/7с1",
+    "lat": 55.762429,
+    "lng": 37.635566,
+    "description": null,
+    "raw": "Москва, Мясницкая улица, 24/7с1",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>О нас:</strong></p> <p>Мы в компании &quot;ВЕЛЕС РИСЕРЧ&quot; уже с 2012 года помогаем бизнесу с автоматизацией их бизнес-процессов. Благодаря нашему большому опыту и применению проверенных стандартов, работаем быстро и качественно.</p> <p><strong>Обязанности:</strong></p> <ul> <li> <p>Разработка сайтов;</p> </li> <li> <p>Верстка сайтов;</p> </li> <li> <p>Оценка трудоемкости задач;</p> </li> <li> <p>Frontend разработка.</p> </li> </ul> <strong>Требования:</strong> <ul> <li>Владение такими программами, как: Редакторы кода, github, react, css, html, bitrix;</li> <li>Знание современных фреймворков: React (hooks), Redux, Context, NodeJS, Webpack;</li> <li>Способность быстро понимать требования и определять их приоритеты;</li> <li><strong>Опыт реализации коммерческих проектов;</strong></li> <li>Обучаемость и желание изучать новые технологии</li> </ul> <p> </p> <strong>Условия:</strong> <ul> <li>Офис находится по адресу, ул. Мясницкая 24 (Удобная транспортная развязка, в 5-ти минутах от метро);</li> <li>График работы 5/2 с 9:00 до 18:00 (Можно согласовать удобное для вас время);</li> <li>Есть возможность карьерного роста;</li> <li>Оформление по ТК РФ</li> <li>Обучение внутри компании;</li> <li>Возможна удаленная работа.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "React"
+    },
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "CSS3"
+    },
+    {
+      "name": "Адаптивная верстка"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1736014",
+    "name": "ВЕЛЕС РИСЕРЧ",
+    "url": "https://api.hh.ru/employers/1736014",
+    "alternate_url": "https://hh.ru/employer/1736014",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1224979.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6520357.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6520358.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1736014",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T11:18:52+0300",
+  "created_at": "2025-06-07T11:18:52+0300",
+  "initial_created_at": "2025-05-26T11:18:52+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120966763",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120966763",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

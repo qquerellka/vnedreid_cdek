@@ -1,0 +1,160 @@
+{
+  "id": "121378260",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "PHP-разработчик (Laravel) Middle",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "part",
+    "name": "Частичная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>PHP-разработчик (Laravel) Middle</strong></p> <p>Мы ищем PHP-разработчика уровня Middle, участие в разработке SaaS платформы для аренды техники.</p> <p><strong>Обязанности:</strong></p> <ul> <li>Разработка и поддержка веб-приложений на PHP с использованием фреймворка Laravel.</li> <li>Интеграция с внешними сервисами через REST API.</li> <li>Работа с базами данных MySQL</li> <li>Реализация веб-сокетов</li> <li>Участие в процессе CI/CD для автоматизации развертывания и тестирования</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Опыт работы с PHP и Laravel от 3 лет.</li> <li>Уверенные знания MySQL и опыт работы с REST API.</li> <li>Опыт работы с веб-сокетами и Docker.</li> <li>Хорошее знание Git. Работаем с Gitlab.</li> <li>Опыт работы с CI/CD</li> <li>Опыт работы с VUE будет плюсом</li> </ul> <p><strong>Условия и преимущества:</strong></p> <ul> <li>Частичная занятость с гибким графиком 5/2.</li> <li>Удалённая работа с возможностью самостоятельно планировать своё время (от 4 часов в день).</li> <li>Работа в аккредитованной ИТ-компании</li> <li>Возможность профессионального роста</li> <li>Возможен переход на Full-time режим.</li> </ul> <p><strong>О компании:</strong> TRANSBAZA — это цифровая платформа для строительной техники, инструмента и оборудования. Мы предлагаем систему учёта аренды, продаж и сервисного обслуживания, а также маркетплейс аренды и онлайн-страхование. Мы аккредитованы как ИТ-компания и являемся членом Национальной ассоциации арендодателей строительной техники (НААСТ). Наши достижения включают победы в конкурсе &quot;Всероссийская арендная премия&quot; и призовые места в рейтинге проектов внедрения CRM. Присоединяйтесь к нам и станьте частью команды, которая меняет будущее аренды строительной техники!</p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Git"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "Laravel"
+    },
+    {
+      "name": "Vue.js"
+    },
+    {
+      "name": "Рефакторинг кода"
+    },
+    {
+      "name": "Микросервисная архитектура"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3646691",
+    "name": "Технологичные перевозки",
+    "url": "https://api.hh.ru/employers/3646691",
+    "alternate_url": "https://hh.ru/employer/3646691",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/576266.png",
+      "90": "https://img.hhcdn.ru/employer-logo/2746335.png",
+      "240": "https://img.hhcdn.ru/employer-logo/2746336.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3646691",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T12:14:19+0300",
+  "created_at": "2025-06-05T12:14:19+0300",
+  "initial_created_at": "2025-06-05T12:14:19+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121378260",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121378260",
+  "working_days": [],
+  "working_time_intervals": [
+    {
+      "id": "from_four_to_six_hours_in_a_day",
+      "name": "Можно сменами по 4-6 часов в день"
+    }
+  ],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "PART",
+    "name": "Частичная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_4",
+      "name": "4 часа"
+    }
+  ],
+  "show_logo_in_search": null
+}

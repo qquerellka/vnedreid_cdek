@@ -1,0 +1,219 @@
+{
+  "id": "120440718",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Менеджер продукта",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 100000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "Выборная улица",
+    "building": "141",
+    "lat": 55.008609,
+    "lng": 83.026422,
+    "description": null,
+    "raw": "Новосибирск, Выборная улица, 141",
+    "metro": {
+      "station_name": "Золотая нива",
+      "line_name": "Дзержинская",
+      "station_id": "53.306",
+      "line_id": "53",
+      "lat": 55.037928,
+      "lng": 82.976044
+    },
+    "metro_stations": [
+      {
+        "station_name": "Золотая нива",
+        "line_name": "Дзержинская",
+        "station_id": "53.306",
+        "line_id": "53",
+        "lat": 55.037928,
+        "lng": 82.976044
+      },
+      {
+        "station_name": "Октябрьская",
+        "line_name": "Ленинская",
+        "station_id": "52.298",
+        "line_id": "52",
+        "lat": 55.018789,
+        "lng": 82.939007
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>НЕВАТОМ</strong> – эксперт на рынке вентиляции. Более 20 лет мы производим вентиляционное оборудование и осуществляем комплексные поставки по всей России и в странах СНГ.</p> <p>Мы ищем стратегически мыслящего <strong>Менеджера продукта</strong>, способного разработать и реализовать комплексную стратегию для укрепления лидерских позиций нашего оборудования на B2B-рынке.</p> <p><strong>Что ты будешь делать:</strong></p> <ul> <li> <p>Определять и развивать стратегию продукта, задавая вектор его развития;</p> </li> <li> <p>Анализировать рынок и потребности пользователей, чтобы находить лучшие продуктовые решения;</p> </li> <li> <p>Управлять себестоимостью продукта и работать с отделом закупа;</p> </li> <li> <p>Активно взаимодействовать с командами разработки, производства, коммерческой службы;</p> </li> <li> <p>Контролировать финансовые показатели и эффективность товарной категории;</p> </li> <li> <p>Обучать и просвещать покупателей, представлять продукт на имиджевых мероприятиях (выставках, конференциях).</p> </li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li> <p>Опыт работы в В2В продажах сложнотехнического оборудования;</p> </li> <li> <p>Опыт успешного вывода нового продукта на рынок;</p> </li> <li> <p>Системность, проактивность, ориентация на результат.</p> </li> </ul> <p><strong>Что тебя ждет:</strong></p> <ul> <li> <p>Работа в команде профессионалов, где твои идеи реально влияют на продукт;</p> </li> <li> <p>Ввод в должность под руководством опытного наставника;</p> </li> <li> <p>Официальное трудоустройство, все условия по ТК РФ;</p> </li> <li> <p>Конкурентоспособная <strong>белая</strong> зарплата и бонусы за результат;</p> </li> <li> <p>Стандартная 5-дневная рабочая неделя (8:30 - 17:30);</p> </li> <li> <p>Корпоративное обучение, доступ к профильным курсам и возможность расти вместе с компанией.</p> </li> </ul> <p><strong>Если ты узнал себя в этом описании — откликайся! Будем рады видеть тебя в команде.</strong></p> <p>Сегодня <strong>НЕВАТОМ</strong> насчитывает 29 торговых и складских представительств по всей России и ближнему зарубежью, с производственными центрами в Новосибирске, Екатеринбурге и Самаре.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "1С-Битрикс"
+    },
+    {
+      "name": "Разработка технических заданий"
+    },
+    {
+      "name": "Системное мышление"
+    },
+    {
+      "name": "Ориентация на результат"
+    },
+    {
+      "name": "Project management"
+    },
+    {
+      "name": "Управление процессами"
+    },
+    {
+      "name": "Управление временем"
+    },
+    {
+      "name": "Стратегическое мышление"
+    },
+    {
+      "name": "Тайм-менеджмент"
+    },
+    {
+      "name": "ERP-системы на базе 1С"
+    },
+    {
+      "name": "Проведение тестирований"
+    },
+    {
+      "name": "Организаторские навыки"
+    },
+    {
+      "name": "Контроль исполнения решений"
+    },
+    {
+      "name": "Развитие продукта"
+    },
+    {
+      "name": "Анализ конкурентной среды"
+    },
+    {
+      "name": "Управление продуктом"
+    },
+    {
+      "name": "Системный анализ"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "73",
+      "name": "Менеджер продукта"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1533366",
+    "name": "НЕВАТОМ",
+    "url": "https://api.hh.ru/employers/1533366",
+    "alternate_url": "https://hh.ru/employer/1533366",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/392298.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/2011446.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/2011447.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1533366",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T06:36:34+0300",
+  "created_at": "2025-06-03T06:36:34+0300",
+  "initial_created_at": "2025-05-13T06:42:00+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120440718",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120440718",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

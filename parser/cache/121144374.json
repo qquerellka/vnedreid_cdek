@@ -1,0 +1,180 @@
+{
+  "id": "121144374",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Младший системный администратор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 45000,
+    "to": 60000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 45000,
+    "to": 60000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Большая Почтовая улица",
+    "building": "26вс2",
+    "lat": 55.778335,
+    "lng": 37.699633,
+    "description": null,
+    "raw": "Москва, Большая Почтовая улица, 26вс2",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Мы занимаемся комплексной поддержкой ИТ малого и среднего бизнеса. Ищем в команду системного администратора для поддержки пользователей по телефону и на выездах.</p> <p><strong>Что мы предлагаем?</strong></p> <ul> <li>Работа в стабильной компании с адекватным руководством.</li> <li>Мы ценим развитие, поэтому софтскилы развиваем на внутреннем обучении и оплачиваем внешнее (hardskill).</li> <li>Поддерживаем самостоятельное развитие и помогаем в достижении целей</li> <li>Любим экспериментировать и осваивать что-то новое :)</li> <li>График 5/2 (с 9/10)</li> <li>Оф. трудоустройство</li> <li>Премии от выполнения проектов</li> </ul> <p><strong>Чем предстоит заниматься?</strong></p> <p>- Установка и настройка ПО (ОС Windows, MS Office, архиваторы, почта, антивирусы, установка ЭЦП)</p> <p>- Добавление/удаление пользователей в AD, смена паролей, компонентная замена неисправных комплектующих компьютера</p> <p>- Работа в системе учёта заявок, общение с пользователями, выезды к клиентам (выезды примерно 50% рабочего времени)</p> <p>- Администрирование 1С (создание баз, восстановление из резервных копий, типовые обновления платформы и конфигураций)</p> <p>- Монтаж сети (обжим, в случае необходимости прокладка проводов)</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "ОС Windows 7,10"
+    },
+    {
+      "name": "Администрирование"
+    },
+    {
+      "name": "Обновление конфигурации 1С"
+    },
+    {
+      "name": "TeamViewer"
+    },
+    {
+      "name": "ЭЦП"
+    },
+    {
+      "name": "Установка ПО"
+    },
+    {
+      "name": "Администрирование Windows"
+    },
+    {
+      "name": "Настройка ПО"
+    },
+    {
+      "name": "Ремонт ПК"
+    },
+    {
+      "name": "Настройка сетевых подключений"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "672847",
+    "name": "СОЛ-АйТи.Ру",
+    "url": "https://api.hh.ru/employers/672847",
+    "alternate_url": "https://hh.ru/employer/672847",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/643751.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3016156.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3016157.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=672847",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T18:12:48+0300",
+  "created_at": "2025-06-07T18:12:48+0300",
+  "initial_created_at": "2025-05-29T18:12:48+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121144374",
+  "has_test": true,
+  "test": {
+    "required": true
+  },
+  "alternate_url": "https://hh.ru/vacancy/121144374",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "FIELD_WORK",
+      "name": "Разъездной"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,159 @@
+{
+  "id": "121202730",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Frontend-разработчик (React)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Frontend-разработчик (React)</strong></p> <p>Вас привлекает мир передовых технологий и инноваций? Хотите стать частью команды, которая разрабатывает платформу для взаимодействия с ИИ и интернет-торговлей? Тогда мы ищем именно вас!</p> <p><strong>Обязанности:</strong></p> <ul> <li>Разработка и поддержка пользовательских интерфейсов с использованием React.</li> <li>Интеграция с REST-бекендом для обеспечения бесперебойной работы платформы.</li> <li>Оптимизация производительности и улучшение пользовательского опыта.</li> <li>Участие в проектировании архитектуры фронтенд-части приложения.</li> <li>Взаимодействие с командой дизайнеров и бэкенд-разработчиков для достижения наилучших результатов.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Опыт работы с React от 3 до 6 лет.</li> <li>Уверенные знания JavaScript, HTML, CSS.</li> <li>Опыт интеграции с RESTful API.</li> <li>Понимание принципов работы современных веб-приложений.</li> <li>Умение работать в команде и находить решения сложных задач.</li> </ul> <p><strong>Условия и преимущества:</strong></p> <ul> <li>Полная занятость с графиком 5/2.</li> <li>Удалённая работа с гибким началом рабочего дня.</li> <li>Возможность профессионального роста и участия в инновационных проектах.</li> <li>Дружная команда и поддержка на всех этапах работы.</li> </ul> <p><strong>О компании:</strong> Мы — небольшой стартап, который стремится изменить подход к взаимодействию с ИИ и интернет-торговлей. Наша цель — создать уникальную платформу, которая станет незаменимым инструментом для пользователей по всему миру. Присоединяйтесь к нам и станьте частью этой захватывающей истории!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Микросервисная архитектура"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Оптимизация кода"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "CI/CD"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "SQLAlchemy"
+    },
+    {
+      "name": "FastAPI"
+    },
+    {
+      "name": "Docker-compose"
+    },
+    {
+      "name": "Интеграционное тестирование"
+    },
+    {
+      "name": "Pytest"
+    },
+    {
+      "name": "Стратегия тестирования"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4862134",
+    "name": "Сычков Даниил Олегович",
+    "url": "https://api.hh.ru/employers/4862134",
+    "alternate_url": "https://hh.ru/employer/4862134",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4862134",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T08:54:52+0300",
+  "created_at": "2025-06-05T08:54:52+0300",
+  "initial_created_at": "2025-06-02T08:54:52+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121202730",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121202730",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b1",
+        "name": "B1 — Средний"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

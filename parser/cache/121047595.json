@@ -1,0 +1,162 @@
+{
+  "id": "121047595",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Программист 1С",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": null,
+    "to": 300000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 300000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "улица Бутырский Вал",
+    "building": "10",
+    "lat": 55.778461,
+    "lng": 37.586068,
+    "description": null,
+    "raw": "Москва, улица Бутырский Вал, 10",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <p><strong>Основные задачи на момент прихода сотрудника</strong></p> <p>Участие в проекте импортозамещения продуктов SAP на отечественную платформу 1С, работа по техническому заданию.</p> <p><strong>Текущие задачи, которые предстоит решать сотруднику</strong></p> <ul> <li>работа на проектах в составе команды,</li> <li>написание исходного кода на языке 1С в соответствие со стандартами 1С</li> <li>доработка типовых конфигураций 1С под требования заказчика,</li> <li>анализ предполагаемых доработок функционала</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>опыт работы в разработке на 1С от 2 лет, знание методик и стандартов, знание языка запросов, понимание основных объектов, умение работать с транзакциями и блокировками </li> <li><strong><em>опыт разработки и внедрения 1С:УХ или 1С:ЕРП от 1 года - строго</em></strong></li> <li>опыт применения механизмов БСП и RLS</li> <li>знание интеграционных механизмов 1С, опыт работы с веб-сервисами</li> <li>плюсом будет знание git и опыт работы с 1C:EDT</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Удаленный формат работы;</li> <li>Обучение внутри компании и сертификация;</li> <li>График работы с 9 до 18 ч. по МСК.;</li> <li>ДМС после испытательного срока в компании Ингосстрах;</li> <li>Оформление по Трудовому договору;</li> <li>Работа в аккредитованной ИТ-компании;</li> <li>Корпоративный Welcome pack;</li> <li>Перспективы профессионального и карьерного роста (ревью каждые 6 месяцев);</li> <li>Премии по итогам проектов.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "1с ЕРП"
+    },
+    {
+      "name": "Обновление конфигурации 1С"
+    },
+    {
+      "name": "разработчик 1с"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "10210916",
+    "name": "Техноинтеллект",
+    "url": "https://api.hh.ru/employers/10210916",
+    "alternate_url": "https://hh.ru/employer/10210916",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1194799.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6399649.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6399650.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10210916",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-27T18:30:08+0300",
+  "created_at": "2025-05-27T18:30:08+0300",
+  "initial_created_at": "2025-05-27T18:30:08+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121047595",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121047595",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "a1",
+        "name": "A1 — Начальный"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

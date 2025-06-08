@@ -1,0 +1,140 @@
+{
+  "id": "121374318",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Golang Developer | Golang-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><em><strong>Всем привет!<br />Мы - команда нагрузочного тестирования, которая занимается поддержкой и развитием инфраструктуры в AliExpress. Мы строим систему, которая влияет на пользовательский трафик в маркетплейсе. </strong></em></p> <p><em><strong>В данный момент ищем опытного Golang разработчика, которому интересно развитие и автоматизация внутренних сервисов. </strong></em></p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Разрабатывать и поддерживать систему нагрузочного тестирования на Golang (основная задача, до 70% времени);</li> <li>Разрабатывать и оптимизировать систему для генерации нагрузки, а также функционал сбора метрик и анализа результатов;</li> <li>Анализировать производительность сервисов, осуществлять поиск узких мест и предлагать улучшения;</li> <li>Автоматизировать тестовые сценарии с использованием K6;</li> <li>Настривать мониторинг (Grafana, Prometheus) и логирование для нагрузочных тестов.</li> </ul> <p><strong>Нам было бы интересно пообщаться, если у тебя есть:</strong></p> <ul> <li>Опыт разработки на Golang от 3-х лет;</li> <li>Понимание принципов микросервисной архитектуры;</li> <li>Понимание принципа работы Kubernetes;</li> <li>Опыт автоматизации CI/CD (GitLab CI, GitHub Actions);</li> <li>Навыки работы с Grafana, Prometheus, ELK для анализа производительности;</li> <li>Опыт с нагрузочным тестированием: K6 (приоритет), Gatling, Locust, Yandex.Tank или аналогами.</li> </ul> <p><strong>Будет плюсом: </strong></p> <ul> <li>Знание React (TypeScript) для доработки интерфейсов инструментов.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Работу в одной из крупнейших в России компаний в сфере e-commerce (есть IT-аккердитация);</li> <li>Официальное оформление по ТК РФ или ТК Узбекистана;</li> <li>Возможность удаленной работы из других стран или очной в комфортабельном офисе в Москва-сити;</li> <li>Конкурентоспособную заработную плату с бонусами по результатам работы;</li> <li>Ноутбук MacBook Pro;</li> <li>ДМС и страхование от несчастных случаев (со 100% страхованием детей).</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Golang"
+    },
+    {
+      "name": "Микросервисная архитектура"
+    },
+    {
+      "name": "K6"
+    },
+    {
+      "name": "Grafana"
+    },
+    {
+      "name": "CI/CD"
+    },
+    {
+      "name": "React"
+    },
+    {
+      "name": "ELK"
+    },
+    {
+      "name": "Нагрузочное тестирование"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2592107",
+    "name": "AliExpress",
+    "url": "https://api.hh.ru/employers/2592107",
+    "alternate_url": "https://hh.ru/employer/2592107",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1395382.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7201311.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7201312.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2592107",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T11:19:22+0300",
+  "created_at": "2025-06-05T11:19:22+0300",
+  "initial_created_at": "2025-06-05T11:19:22+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121374318",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121374318",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

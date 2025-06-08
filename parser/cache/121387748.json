@@ -1,0 +1,138 @@
+{
+  "id": "121387748",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Младший технический специалист / HTML-верстальщик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 40000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 40000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Ищем <strong>ответственного и исполнительного специалиста</strong> с базовыми техническими навыками, готового к <strong>рутинным задачам</strong> и желающего развиваться в IT. Опыт работы не требуется — важна внимательность и желание учиться.</p> <p> </p> <p><strong>Основные задачи</strong></p> <ul> <li> <p>Редактирование и адаптация готовых шаблонов лендингов (HTML/CSS/JS)</p> </li> <li> <p>Написание простых скриптов</p> </li> </ul> <p> </p> <p><strong>Что потребуется</strong></p> <ul> <li> <p>Знание основ <strong>HTML/CSS/JavaScript</strong></p> </li> <li> <p>Умение быстро и качественно выполнять задачи</p> </li> <li> <p>Ответственность и внимательность к деталям</p> </li> </ul> <p> </p> <p><strong>Мы предлагаем</strong></p> <ul> <li> <p>Стабильную зарплату с регулярными выплатами</p> </li> <li> <p>Бесплатные обеды, печеньки и конфеты :)</p> </li> <li> <p>Комфортный офис в центре города</p> </li> <li> <p>Возможности профессионального и карьерного роста</p> </li> <li> <p>Наставничество и обучение в процессе работы</p> </li> </ul> <p> </p> <p><strong>Локация:</strong> Санкт-Петербург, офис в центре Петроградки (<strong>удалённая работа не предусмотрена</strong>)<br /><strong>Формат:</strong> Полная занятость<br /><strong>График:</strong></p> <ul> <li> <p>Пн–Пт: 9:00–18:00</p> </li> <li> <p>Сб: 10:00–16:00 (допускается работа из дома)</p> </li> </ul> <p><strong>Заработная плата:</strong></p> <ul> <li> <p>Стажировка (2-3 недели) — 40 000 ₽</p> </li> <li> <p>Выплаты 2 раза в месяц</p> </li> <li> <p>Оформление по ТК РФ</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "Мотивация"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5087058",
+    "name": "ADWAY.TEAM",
+    "url": "https://api.hh.ru/employers/5087058",
+    "alternate_url": "https://hh.ru/employer/5087058",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1055831.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/5843965.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/5843966.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5087058",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T14:54:50+0300",
+  "created_at": "2025-06-05T14:54:50+0300",
+  "initial_created_at": "2025-06-05T14:54:50+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121387748",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121387748",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "SIX_ON_ONE_OFF",
+      "name": "6/1"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

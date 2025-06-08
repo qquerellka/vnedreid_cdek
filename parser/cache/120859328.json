@@ -1,0 +1,169 @@
+{
+  "id": "120859328",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Java-разработчик Middle +",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 180000,
+    "to": 240000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 180000,
+    "to": 240000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "проспект Мира",
+    "building": "3с3",
+    "lat": 55.773444,
+    "lng": 37.63164,
+    "description": null,
+    "raw": "Москва, проспект Мира, 3с3",
+    "metro": {
+      "station_name": "Сухаревская",
+      "line_name": "Калужско-Рижская",
+      "station_id": "6.137",
+      "line_id": "6",
+      "lat": 55.772315,
+      "lng": 37.63285
+    },
+    "metro_stations": [
+      {
+        "station_name": "Сухаревская",
+        "line_name": "Калужско-Рижская",
+        "station_id": "6.137",
+        "line_id": "6",
+        "lat": 55.772315,
+        "lng": 37.63285
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Требования</strong></p> <ul> <li>Разработка на <strong>Java Spring</strong> (без использования Spring Boot).</li> <li>Отсутствие зависимости от ORM-фреймворков (например, Hibernate).</li> <li>Написание манифестов для Kubernetes (например, <em>Deployment</em>, <em>ConfigMap</em>). Использование ресурсов вроде Google или нейросети допустимо.</li> <li>Реализация реактивного программирования без применения специализированных фреймворков.</li> <li>Опыт работы с RabbitMQ, Docker, Reddis</li> <li>Работа с версиями <strong>Java 11</strong> и <strong>Java 17</strong></li> <li>Знание <strong>Java 21</strong>, Spring, Gradle, SQL</li> <li>Знание принципов и архитектуры web и мобильных приложений</li> <li>Знание принципов организации эффективной программной разработки</li> </ul> <p><strong>Обязанности:</strong></p> <ul> <li>Выполнение задач по разработке программных решений в web и мобильных приложениях на основании технических заданий, полученных от функциональных консультантов и в соответствии с регламентами ведения разработок.</li> <li>Разработка unit тестов.</li> <li>Сопровождение, документирование и эксплуатирование разработанных приложений.</li> <li>Консультации по техническим вопросам в web и мобильных приложениях.</li> <li>Выявление дефектов и нахождение причины их возникновения.</li> <li>Разработка вариантов решения проблем и устранения инцидентов и дефектов</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li> <p>Интеграция с <strong>RabbitMQ</strong>, использование <strong>Testcontainers</strong>, <strong>Liquibase</strong> и <strong>PostgresSQL</strong>.</p> </li> </ul> <p><strong>Бонусы:</strong></p> <ul> <li>Полностью удалённая работа</li> <li>Профессиональный рост и участие в построении архитектур сложных систем</li> </ul> <p><strong>При отклике на вакансию, пожалуйста, указывайте ссылку на Ваш телеграм, не номер телефона:</strong></p> <p>✅ &quot;t.me/@username&quot; или &quot;@username&quot;</p> <p>❌ &quot;t.me/+7xxx xxx xx xx&quot; или &quot;+7xxx xxx xx xx&quot;</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Java"
+    },
+    {
+      "name": "Spring"
+    },
+    {
+      "name": "Hibernate"
+    },
+    {
+      "name": "Kubernetes"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4596113",
+    "name": "Фабрика Решений",
+    "url": "https://api.hh.ru/employers/4596113",
+    "alternate_url": "https://hh.ru/employer/4596113",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/732984.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3373012.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3373013.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4596113",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T11:45:52+0300",
+  "created_at": "2025-06-06T11:45:52+0300",
+  "initial_created_at": "2025-05-22T11:45:52+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120859328",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120859328",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

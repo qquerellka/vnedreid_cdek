@@ -1,0 +1,110 @@
+{
+  "id": "121164849",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Chief Information Officer (CIO) (FinTech)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы , Inwizo, — технологическая финтех-компания и один из лидеров на рынке платёжных решений в регионе. Ежедневно наши платформы обрабатывают миллионы транзакций по всему миру, обеспечивая надёжность, скорость и безопасность для клиентов с высоким уровнем требований.</p> <p>У нас собственная техническая инфраструктура, включая приватные дата-центры, а в команде — сильные специалисты по DevOps, безопасности, архитектуре и разработке. Мы строим не просто сервис, а устойчивую технологическую экосистему, способную выдерживать высокие нагрузки и быстро адаптироваться под бизнес-задачи.</p> <p><em>Сейчас мы в поиске CIO, который поможет масштабировать технологическое ядро компании и станет частью стратегического управления.</em></p> <p><strong>Обязанности:</strong></p> <ul> <li>Определять и реализовывать техническую стратегию компании: от ИТ-инфраструктуры до продуктовой архитектуры,</li> <li>Быть архитектурным и организационным лидером, принимающим ключевые технологические решения,</li> <li>Руководить распределённой командой инженеров, девопсов, системных архитекторов и инфраструктурных специалистов,</li> <li>Обеспечивать отказоустойчивость, безопасность и масштабируемость всей технологической платформы,</li> <li>Развивать внутренние продукты компании в тесной связке с бизнесом,</li> <li>Поддерживать культуру DevOps и CI/CD,</li> <li>Управлять инфраструктурой: собственные дата-центры, K8s (через Rancher), Terraform, Docker, Go,</li> <li>Работать с сетевым стеком: Mikrotik, маршрутизация, firewall, резервирование каналов,</li> <li>Отвечать за базы данных: PostgreSQL, ClickHouse, Redis,</li> <li>Разрабатывать и поддерживать HL/HA-стратегии, Disaster Recovery Plan,</li> <li>Обеспечивать соответствие стандартам безопасности, включая PCI DSS,</li> <li>Строить открытые и продуктивные коммуникации с топ-менеджментом, бизнес-заказчиками и техническими командами;</li> </ul> <strong>Требования:</strong> <ul> <li>Опыт работы с highload-системами и построением распределённой архитектуры,</li> <li>Глубокое понимание инфраструктурных решений, сетей, протоколов, системного администрирования (Linux),</li> <li>Опыт работы с приватными дата-центрами и обеспечения отказоустойчивости на уровне площадок,</li> <li>Практика прохождения аудитов и сертификаций по стандартам безопасности</li> <li>Знание SRE-подходов, мониторинга (Prometheus, Grafana),</li> <li>Опыт проектирования API и event-driven архитектуры (Kafka, gRPC),</li> <li>Умение строить архитектуру “с нуля” или проводить миграции на новую платформу,</li> <li>Высокий уровень управленческих и коммуникативных навыков,</li> <li>Умение принимать решения в условиях высокой неопределённости и давления,</li> <li>Понимание принципов расчётных систем: биллинги, процессинги и пр. (или готовность в них быстро погрузиться),</li> <li>Опыт работы с гибкими методологиями (Scrum, Kanban, SAFe),</li> <li>Участие в формировании продуктовой стратегии;</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт в построении или внедрении решений с применением искусственного интеллекта и ML,</li> <li>Знание финансового сектора и специфики платёжных провайдеров;</li> </ul> <strong>Условия:</strong> <ul> <li>Работа в технологически амбициозной компании с высокими стандартами безопасности и отказоустойчивости,</li> <li>Влияние на ключевые архитектурные и продуктовые решения,</li> <li>Команда профессионалов и здоровая культура технологического лидерства,</li> <li>Гибкий график, возможность удалённой работы или релокации,</li> <li>Достойная оплата труда, участие в стратегических программах развития бизнеса;</li> </ul> <p><em>Если у тебя есть стратегическое видение, глубокая техническая экспертиза и опыт управления сложными системами — мы будем рады обсудить, как ты можешь усилить нашу команду.</em></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "36",
+      "name": "Директор по информационным технологиям (CIO)"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10883838",
+    "name": "Inwizo",
+    "url": "https://api.hh.ru/employers/10883838",
+    "alternate_url": "https://hh.ru/employer/10883838",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1249220.jpeg",
+      "90": "https://img.hhcdn.ru/employer-logo/6617309.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6617310.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10883838",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-30T12:26:21+0300",
+  "created_at": "2025-05-30T12:26:21+0300",
+  "initial_created_at": "2025-05-30T12:26:21+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121164849",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121164849",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

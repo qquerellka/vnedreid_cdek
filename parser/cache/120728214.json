@@ -1,0 +1,169 @@
+{
+  "id": "120728214",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Frontend-разработчик (Middle/Senior)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "набережная Макарова",
+    "building": "32",
+    "lat": 59.949132,
+    "lng": 30.277546,
+    "description": null,
+    "raw": "Санкт-Петербург, набережная Макарова, 32",
+    "metro": {
+      "station_name": "Василеостровская",
+      "line_name": "Невско-Василеостровская",
+      "station_id": "16.228",
+      "line_id": "16",
+      "lat": 59.942577,
+      "lng": 30.278254
+    },
+    "metro_stations": [
+      {
+        "station_name": "Василеостровская",
+        "line_name": "Невско-Василеостровская",
+        "station_id": "16.228",
+        "line_id": "16",
+        "lat": 59.942577,
+        "lng": 30.278254
+      },
+      {
+        "station_name": "Петроградская",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.215",
+        "line_id": "15",
+        "lat": 59.966389,
+        "lng": 30.311293
+      },
+      {
+        "station_name": "Спортивная",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.249",
+        "line_id": "18",
+        "lat": 59.952026,
+        "lng": 30.291338
+      },
+      {
+        "station_name": "Чкаловская",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.248",
+        "line_id": "18",
+        "lat": 59.961033,
+        "lng": 30.292006
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>ЦСР - инжиниринговая компания, которая обеспечивает цифровой контроль строительства.</strong></p> <p><strong>В основу нашей деятельности легли высокотехнологичные подходы, которые внедряются нашей командой инженеров и IT специалистов.</strong></p> <p><strong>Сейчас мы находимся в поиске Frontend-разработчика.</strong></p> <p> </p> <p><strong>Задачи:</strong></p> <ul> <li>Разработка инструментов Pilot-BIM web для осуществления инженерных проверок;</li> <li>Разработка пользовательской и технической документации для инструментов;</li> <li>Проведение тестирования и отладки.</li> </ul> <p><strong>Наши ожидания:</strong></p> <ul> <li>Уверенное знание JavaScript / TypeScript;</li> <li>Уверенный пользователь Node.js;</li> <li>Опыт работы с React, Vue или Angular на профессиональном уровне;</li> <li>Опыт Tree.js, опыт работы и разработки в инженерных программах как преимущество;</li> <li>Опыт в работе с инженерным софтом/разработка плагинов(инструментария) будет вашим преимуществом.</li> </ul> <p><strong>Наши преимущества :</strong></p> <ul> <li>График работы 5/2 с гибким началом рабочего дня;</li> <li>Конкурентный оклад и ежеквартальные премии;</li> <li>Лояльное руководство и дружный коллектив;</li> <li>Амбициозные проекты, интересные задачи;</li> <li>Уютный офис м. Спортивная.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10875715",
+    "name": "Цифровые Строительные Решения",
+    "url": "https://api.hh.ru/employers/10875715",
+    "alternate_url": "https://hh.ru/employer/10875715",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1266198.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6685114.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6685115.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10875715",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-19T18:28:05+0300",
+  "created_at": "2025-05-19T18:28:05+0300",
+  "initial_created_at": "2025-05-19T18:28:05+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120728214",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120728214",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

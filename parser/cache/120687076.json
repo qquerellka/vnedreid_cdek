@@ -1,0 +1,125 @@
+{
+  "id": "120687076",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер-программист (нейронные сети)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Парашютная улица",
+    "building": "39",
+    "lat": 60.02262,
+    "lng": 30.264377,
+    "description": null,
+    "raw": "Санкт-Петербург, Парашютная улица, 39",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>Разработка и внедрение нейросетевых моделей для БПЛА;</li> <li>Обучение нейросетевых моделей для поиска и классификации объектов;</li> <li>Обработка и анализ больших объемов данных, получаемых от сенсоров (камеры, лидары, радары, инс, гнсс и пр.);</li> <li>Оптимизация существующих алгоритмов машинного обучения для повышения точности и скорости работы);</li> <li>Участие в отработке спроектированного программного обучения на готовых изделиях;</li> <li>Тестирование и валидация разработанных моделей в симуляторах и реальных условиях;</li> <li>Контроль производительности моделей и при необходимости их переобучение;</li> <li>Составление документации и отчетов по выполненным задачам.</li> </ul> <strong>Требования:</strong> <ul> <li>Опыт работы с нейросетевыми моделями YOLO, CNN;</li> <li>Опыт работы с языками программирования Python, C или С++;</li> <li>Знание библиотек и фреймворков для машинного обучения (TensorFlow, PyTorch, scikit-learn и пр.);</li> <li>Опыт работы с библиотекой openCV;</li> <li>Опыт работы в написании алгоритмов и программного обеспечения для управляющих и периферийных вычислительных устройств;</li> <li>Опыт работы с базами данных и инструментами для обработки данных (SQL, NoSQL,Hadoop и пр.);</li> <li>Опыт работы с системами контроля версий (GIT);</li> <li>Опыт работы в разработке алгоритмов обработки фото- и видеоизображений.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <p><strong>Работу в одном из ведущих в России промышленном предприятии по созданию радиоэлектронных комплексов и разработке программного обеспечения:</strong></p> <ul> <li>Достойный уровень з/п (обсуждается индивидуально на собеседовании);</li> <li>Официальное трудоустройство;</li> <li>График работы - 5/2, с 8:30 до 17:00 (&quot;плавающее&quot; начало рабочего дня);</li> <li>Все гарантии и льготы по трудовому законодательству;</li> <li>Возможность профессионального и карьерного роста;</li> <li>Место работы: ул. Парашютная, д.39 (служебная развозка от ст.м.Старая деревня);</li> <li>Уровень заработной платы обсуждается индивидуально с успешными кандидатами;</li> <li>ДМС после прохождения испытательного срока;</li> <li>Корпоративные мероприятия, экскурсии, спортивные секции.</li> </ul> <p>​​​​</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "167893",
+    "name": "Радар ММС",
+    "url": "https://api.hh.ru/employers/167893",
+    "alternate_url": "https://hh.ru/employer/167893",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/197652.gif",
+      "90": "https://img.hhcdn.ru/employer-logo/344078.png",
+      "240": "https://img.hhcdn.ru/employer-logo/416935.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=167893",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-19T10:14:26+0300",
+  "created_at": "2025-05-19T10:14:26+0300",
+  "initial_created_at": "2025-05-19T10:14:26+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120687076",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120687076",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

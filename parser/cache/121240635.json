@@ -1,0 +1,166 @@
+{
+  "id": "121240635",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Специалист по сопровождению ПО",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 60000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 60000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Коломяжский пр.",
+    "building": "33к2",
+    "lat": 60.013928,
+    "lng": 30.295926,
+    "description": null,
+    "raw": "Санкт-Петербург, Коломяжский пр., 33к2",
+    "metro": {
+      "station_name": "Пионерская",
+      "line_name": "Московско-Петроградская",
+      "station_id": "15.213",
+      "line_id": "15",
+      "lat": 60.002487,
+      "lng": 30.296759
+    },
+    "metro_stations": [
+      {
+        "station_name": "Пионерская",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.213",
+        "line_id": "15",
+        "lat": 60.002487,
+        "lng": 30.296759
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Компания «Алтек» - это флагман в сфере комплексной автоматизации производственных и управленческих бизнесс-процессов, уникальный системный интегратор в области разработки программного обеспечения и интернет -решений. На протяжении 27 лет мы инициируем развитие новых направлений и создаем мощные инструменты для развития на базе собственных разработок и современных IT-технологий.</p> <p>Основные задачи:</p> <ul> <li> <p>Осуществление технической поддержки программного обеспечения по телефону/мессенджеру/email и непосредственно на предприятии клиента;</p> </li> <li> <p>Внедрение и запуск наших программ на предприятии клиента;</p> </li> <li> <p>Обучение клиента работе с программой;</p> </li> <li> <p>Настройка ПО, разработка и модификация отчетов;</p> </li> <li> <p>Интеграция со сторонними сервисами;</p> </li> <li> <p>Автоматизация технологических процессов и производств клиента;</p> </li> </ul> <p>Необходимо:</p> <ul> <li> <p>Знание ОС семейства Windows ;</p> </li> <li> <p>Уверенный пользователь MS Office (Exсel, Word, Outlook, Access), работа с Интернетом (Opera, Internet Explorer, Mozilla Firefox);</p> </li> <li> <p>Знание написания и оптимизации запросов на SQL (T-SQL, FireBirdSQL, MS SQL и др);</p> </li> <li> <p>Базовые знания Delphi/Object Pascal</p> </li> <li> <p>Знание этикета телефонного общения, грамотная речь и хорошие коммуникативные навыки (вежливость, тактичность, умение наладить контакт с клиентом) ;</p> </li> <li> <p>Умение выстраивать эффективные коммуникации, логично излагать материал, структурировать информацию и аргументированно предлагать пути решения.</p> </li> </ul> <p>Будет плюсом:</p> <ul> <li> <p>Опыт работы в сфере сервисных услуг или технической поддержки</p> </li> <li> <p>Опыт работы с CRM и helpdesk системами, базами знаний</p> </li> <li> <p>Опыт работы с прикладным ПО.</p> </li> <li> <p>Опыт создания контента (презентаций, видеороликов, стрим)</p> </li> <li> <p>Высокие аналитические способности, стремление к поиску оптимальных решений, постановке задач для развития программных продуктов.</p> </li> </ul> <p>Условия:</p> <ul> <li> <p>Работа в команде молодых профессионалов;</p> </li> <li> <p>Программа развития, профессионального роста и самореализации;</p> </li> <li> <p>Официальное оформление, полностью белая ЗП без задержек.</p> </li> <li> <p>Гарантированный рост ЗП при освоении новых компетенций</p> </li> <li> <p>График: пятидневная рабочая неделя, 9:00-18:00;</p> </li> <li> <p>Командировки по России и странам СНГ;</p> </li> <li> <p>Удобное расположение: 10-15 минут пешком от метро Пионерская или Удельная.</p> </li> </ul> <p> </p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "ООП"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "250755",
+    "name": "Алтек",
+    "url": "https://api.hh.ru/employers/250755",
+    "alternate_url": "https://hh.ru/employer/250755",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/182505.png",
+      "90": "https://img.hhcdn.ru/employer-logo/650594.png",
+      "240": "https://img.hhcdn.ru/employer-logo/650595.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=250755",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T16:53:04+0300",
+  "created_at": "2025-06-05T16:53:04+0300",
+  "initial_created_at": "2025-06-02T16:53:04+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121240635",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121240635",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

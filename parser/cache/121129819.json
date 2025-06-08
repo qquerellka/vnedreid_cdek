@@ -1,0 +1,149 @@
+{
+  "id": "121129819",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор (junior)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 63000,
+    "to": 63000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 63000,
+    "to": 63000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <ul> <li>Вся dev-ops инфраструктура настроена, работают старшие системные администраторы. Ищем джуна на рутину.</li> <li>Выполнение типовых задач в интересах веб-разработчиков (доступы, развертывание копий сайтов, создание дистрибутивов, техническая поддержка разработки на серверах, реагирование на сообщения мониторинга, реагирование на ошибки в логах).</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Базовые знания в области сетей, технологий, связанных с веб и Linux (у нас, в основном, Debian).</li> <li>Например, на любые вопросы из списка &quot;Простые вопросы Linux&quot; кандидат на нашу вакансию должен отвечать толково, связано, без явных ошибок.</li> <li>Английский язык на уровне B1 (возможность понимать письменный технический текст).</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Удаленная работа, пн-пт, 9-18 мск.</li> <li>Фиксированный оклад.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Debian"
+    },
+    {
+      "name": "Администрирование серверов"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "550175",
+    "name": "Cetera",
+    "url": "https://api.hh.ru/employers/550175",
+    "alternate_url": "https://hh.ru/employer/550175",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1409241.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7256624.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7256625.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=550175",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-29T14:20:41+0300",
+  "created_at": "2025-05-29T14:20:41+0300",
+  "initial_created_at": "2025-05-29T14:20:41+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121129819",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121129819",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b1",
+        "name": "B1 — Средний"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

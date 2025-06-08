@@ -1,0 +1,200 @@
+{
+  "id": "121142735",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Middle+ Python Developer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 220000,
+    "to": 300000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 220000,
+    "to": 300000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Зоологическая улица",
+    "building": "26с1",
+    "lat": 55.766015,
+    "lng": 37.583571,
+    "description": null,
+    "raw": "Москва, Зоологическая улица, 26с1",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Привет!</strong></p> <p><strong>Мы — Пикварио, </strong>ведущая российская компания, специализирующаяся на разработке и внедрении решений для управления цифровыми активами (Digital Asset Management, DAM). Наша миссия — помогать компаниям и медиа раскрывать полный потенциал своего цифрового контента.</p> <p>Среди наших клиентов десятки крупнейших компаний страны, СМИ и медиа, спортивных команд и федераций, а также гос. структур.</p> <p><strong>Основные направления в нашем портфеле:</strong></p> <ul> <li> <p><strong>DAM-система Picvario </strong>—<strong> </strong>основной продукт, более 60 крупных корпоративных клиентов таких как Сбер, Почта России, Норникель, Уралкалий, Северсталь, крупнейшие ВУЗы, музеи и спортивные клубы и федерации, государственный организации и СМИ.</p> </li> <li> <p><strong>Заказная разработка</strong> — сложные корпоративные решения, цифровые продукты и мобильные приложения. Самостоятельное направление, которое прибыльно и генерирует более половины выручки группы.</p> </li> <li> <p><strong>Собственная ИИ-лаборатория </strong>— занимается разработкой технологий для наших продуктов, а также заказными проектами и консалтингом.</p> </li> <li> <p><strong>Медиа агентство</strong> — <strong>Picvario.Media:</strong></p> <ul> <li>Предоставляет СМИ, рекламным агентствам, издательствам, выставочным компаниям и дизайнерам редакционный и креативный аудиовизуальный контент</li> <li>Сотрудничает с агентствами, студиями и авторами по всему миру</li> <li>Проводит фото и видеосъемки</li> <li>Выполняет комплекс работ по организации и ведению корпоративных медиабанков</li> <li>Формирует и дистрибутирует датасеты для машинного обучения</li> </ul> </li> </ul> <p><strong>ЧТО НАДО БУДЕТ ДЕЛАТЬ</strong></p> <p>Нашим флагманским продуктом является <strong>Digital Asset Management (DAM)</strong> - система для хранения, поиска и управления медиа файлами. Продукту уже 6 лет, и он активно развивается: постоянно растет штат сотрудников + база клиентов (спортивный портал Чемпионат.com, РБК, Сбер, Полиметалл, ХК &quot;Авангард&quot; и др.). Продукт экономически успешен на рынке РФ.</p> <p>Сейчас мы ищем в команду <strong>python-разработчика</strong>, который заинтересован в роли тимлида и готов взять на себя соответствующие задачи после погружения в продукт.</p> <p>Основные задачи будут заключаться в направлении масштабирования: обработка возрастающих объемов медиа-данных, оптимизация существующих алгоритмов обработки и поиска данных.</p> <p><strong>С нами ты будешь решать следующие задачи:</strong></p> <ul> <li>Улучшать и адаптировать продукт под задачи развития в части требований бизнеса, отказоустойчивости, масштабируемости и т.д.</li> <li>Принимать решения по архитектуре продукта и выбору технологий</li> <li>Участвовать в планировании и оценке задач</li> <li>Выполнять код-ревью коллег</li> <li>Оптимизировать и рефакторить существующий код</li> </ul> <p><strong>Стек используемых технологий:</strong></p> <ul> <li> <p>Бэкэнд: Python 3.8+, Django 4.x, Django REST Framework, Celery, Aiohttp</p> </li> <li> <p>Фронтэнд: Vue.js, Nuxt.js</p> </li> <li> <p>Хранилища: PostgreSQL, Elasticsearch, Redis</p> </li> <li> <p>Очереди: RabbitMQ</p> </li> <li> <p>Инфраструктура: Kubernetes, Docker</p> </li> </ul> <p><strong>ЧТО МЫ ИЩЕМ В КАНДИДАТАХ</strong></p> <ul> <li> <p>Опыт разработки на Python от 3 лет</p> </li> <li> <p>Опыт бэкенд-разработки от 5 лет</p> </li> <li> <p>Опыт разработки высоконагруженных и отказоустойчивых систем</p> </li> <li> <p>Опыт планирования публичных API </p> </li> <li> <p>Глубокое понимание работы реляционных СУБД, опыт анализа и отладки проблем производительности БД</p> </li> <li> <p>Хорошее знание паттернов проектирования, структур данных и классических алгоритмов</p> </li> <li> <p>Умение выстроить свою работу, разбить ее на шаги и добиваться результата в срок</p> </li> </ul> <p><strong>ЧТО ПРЕДЛАГАЕМ ВЗАМЕН</strong></p> <ul> <li><strong>Комфорт в работе</strong>. Ориентируемся на результат, предпочитаем правильные коммуникации и обходимся без лишних совещаний</li> <li><strong>Удаленку из любой точки мира</strong>. Можно работать полностью удаленно, а при желании есть возможность посещать наш офис в Москве</li> <li><strong>Программу компенсаций и льгот</strong>, которая действует после прохождения испытательного срока. Ты можешь выбрать компенсацию по спорту, профессиональному обучению, английскому языку и медицине</li> <li><strong>Адекватных коллег</strong>. У нас работают по-хорошему «простые» люди</li> <li><strong>Профессиональное развитие</strong>. Мы ценим рост, поэтому всегда предоставляем обратную связь и не пренебрегаем практиками, помогающими становиться лучше: one-to-one, performance review, personal development plan</li> <li> <p><strong>Официальное трудоустройство по ТК РФ</strong></p> </li> </ul> <p><strong>ЧТО ПРЕДСТАВЛЯЕТ ИЗ СЕБЯ ПРОЦЕСС НАЙМА</strong></p> <p>Мы не любители затягивания процессов, к найму подходим так же.</p> <p><strong>Тебя ждут:</strong></p> <ol> <li> <p>Техническое собеседование (на нем будет лайв-кодинг) с Tech Lead;</p> </li> <li> <p>Интервью с СTО, где мы окончательно убедимся, что подходим друг другу.</p> </li> </ol> <p><strong>Большая просьба</strong>, в сопроводительном письме напиши ответ на следующий вопрос: в чем заключался самый интересный/сложный кейс, который ты успешно разрешил за последнее время?</p> <p><strong>Ответ на этот вопрос существенно повысит твои шансы в рамках данной позиции!</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Django Framework"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Рефакторинг кода"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "RabbitMQ"
+    },
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Redis"
+    },
+    {
+      "name": "Elasticsearch"
+    },
+    {
+      "name": "Celery"
+    },
+    {
+      "name": "Aiohttp"
+    },
+    {
+      "name": "Django 4.x"
+    },
+    {
+      "name": "Python 3.8+"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2416909",
+    "name": "Пикварио Технологии",
+    "url": "https://api.hh.ru/employers/2416909",
+    "alternate_url": "https://hh.ru/employer/2416909",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1393303.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7192995.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7192996.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2416909",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-29T17:25:26+0300",
+  "created_at": "2025-05-29T17:25:26+0300",
+  "initial_created_at": "2025-05-29T17:25:26+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121142735",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121142735",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "a2",
+        "name": "A2 — Элементарный"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

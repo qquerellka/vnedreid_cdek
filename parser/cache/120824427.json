@@ -1,0 +1,130 @@
+{
+  "id": "120824427",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Prompt-engineer / Промт-инженер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 100000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Приветствую!</strong><br />Меня зовут Никита, HR-специалист компании АО «НЕЙРОСЕТИ».<br />Мы ищем мотивированного промт-инженера, который присоединится к нашей команде и поможет нам реализовать наши амбициозные цели.<br /><br />Мы — аккредитованная IT-компания и резиденты «Сколково».<br />Наша компания является лидером в разработке и внедрении решений на основе искусственного интеллекта (AI).<br />Присоединяйтесь к нам и будьте частью команды, которая меняет мир!<br /><br /><strong>Компания:</strong> АО НЕЙРОСЕТИ<br /><strong>Вакансия:</strong> Prompt-engineer<br /><strong>Вилка: </strong>100 000 - 150 000 (В зависимости от опыта)<br /><strong>Формат: </strong>Удалённо<br /><strong>Требуемый опыт:</strong> 1+ год<br /><strong>Занятость:</strong> Full-time<br /><strong>Наш офис: </strong>Москва (ст. метро Белорусская)</p> <p><strong>Обязанности:</strong></p> <p>Разработка и настройка чат-ботов на основе LLM в визуальном редакторе.</p> <p>Построение логики работы чат-ботов в соответствии с требованиями и ТЗ от заказчиков.</p> <p>Обработка и анализ запросов от пользователей для улучшения функционала ботов.</p> <p>Работа с командой разработчиков для улучшения и оптимизации работы ботов.</p> <p>Проведение тестирования и отладки чат-ботов перед их запуском.</p> <p>Поддержка и обслуживание существующих чат-ботов, включая обновление и исправление ошибок.</p> <p>Соблюдение стандартов безопасности и конфиденциальности при работе с данными пользователей.</p> <p>Постоянное обучение и развитие навыков в области создания и настройки чат-ботов.</p> <p><strong>Требования:</strong></p> <p>Опыт написания системных промтов для LLM (Large Language Models).</p> <p>Знание и понимание принципов работы LLM и их применения в различных контекстах.</p> <p>Умение создавать и оптимизировать промты для улучшения производительности и точности LLM.</p> <p>Умение работать в команде и эффективно коммуницировать с коллегами.</p> <p>Опыт написания промптов к открытым моделям (Llama/Gemma/Mistral etc.)</p> <p>Опыт в разработке.</p> <p><strong>Будет плюсом:</strong></p> <p>Знание Python/JavaScript.</p> <p>Опыт работы с моделями различной размерности 7b, 70b.</p> <p>Опыт работы с квантизированными моделями (AWQ).</p> <p>Опыт интеграции сервисов по API.</p> <p><strong>Мы предлагаем:</strong></p> <ul> <li> <p>Возможность работать над интересными и вызывающими проектами в области ИИ.</p> </li> <li> <p>Предлагаем сотрудникам использование корпоративных нейросетей (GPT / Midjourney / CorpGPT)</p> </li> <li> <p>Гибкий формат работы с возможностью выбора между офисом, гибридом и удалённой работой.</p> </li> <li> <p>Конкурентоспособную заработную плату с гарантированными выплатами.</p> </li> <li> <p>Оформление по договору (Самозанятый, ИП, ТК).</p> </li> <li> <p>Комфортабельный офис и возможность работы в дружном коллективе высококвалифицированных специалистов.</p> </li> <li> <p>Широкие возможности для карьерного и профессионального роста.</p> </li> </ul> <p>Пишите, всё обсудим и предоставим более подробную информацию.<br />Всегда рады новым талантам и новым успехам наших сотрудников!<br />HR - Никита<br /></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "126",
+      "name": "Технический писатель"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "8980208",
+    "name": "Нейросети",
+    "url": "https://api.hh.ru/employers/8980208",
+    "alternate_url": "https://hh.ru/employer/8980208",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1080896.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5944213.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5944214.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=8980208",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T15:05:41+0300",
+  "created_at": "2025-06-05T15:05:41+0300",
+  "initial_created_at": "2025-05-21T15:05:41+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120824427",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120824427",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

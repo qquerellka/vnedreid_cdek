@@ -1,0 +1,151 @@
+{
+  "id": "117452258",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "C/C++ developer (PON)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "город Новосибирск",
+    "street": "Окружная улица",
+    "building": "29в",
+    "lat": 55.083601,
+    "lng": 82.938396,
+    "description": null,
+    "raw": "город Новосибирск, Окружная улица, 29в",
+    "metro": {
+      "station_name": "Заельцовская",
+      "line_name": "Ленинская",
+      "station_id": "52.294",
+      "line_id": "52",
+      "lat": 55.059291,
+      "lng": 82.912569
+    },
+    "metro_stations": [
+      {
+        "station_name": "Заельцовская",
+        "line_name": "Ленинская",
+        "station_id": "52.294",
+        "line_id": "52",
+        "lat": 55.059291,
+        "lng": 82.912569
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>PON</strong> - наиболее продвинутая технология доступа в Интернет. Активно используется средними и крупными операторами связи. Существующая линейка оборудования пользуется спросом в России и за рубежом. Сегодня мы активно развиваем направление 10G PON и пассивные оптические сети нового поколения, создавая как клиентское оборудование (ONU/ONT), так и станционные оптические терминалы (OLT).</p> <p><strong>Разработка ведется на языке C и С++20 под Linux.</strong> В команде используются элементы Agile, Redmine, Git, ревью кода, статический анализ, CI, Docker и др. Для тестов - Cath2. Наша команда разработки состоит из двух групп по 10-12 человек.</p> <p><strong>Будем заниматься:</strong></p> <ul> <li>Проектированием и разработкой сервисов, интерфейсов и сетевых протоколов</li> <li>Запуском новых устройств в линейке PON</li> <li>Сопровождением текущего функционала, рефакторингом и ревью кода</li> <li>Поддержкой проектной инфраструктуры</li> <li>Работой с техническими требованиями заказчиков</li> </ul> <p><strong>От вас потребуется:</strong></p> <ul> <li>Знание и понимание базовых алгоритмов и структур данных</li> <li>Уверенное владение С и С++</li> <li>Знание и понимание протоколов семейства TCP/IP</li> <li>Опыт коммерческой разработки под Linux</li> <li>Умение работать с системами контроля версий (git)</li> <li>Технический английский</li> <li>Умение работать в команде</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Владение скриптовыми языками: python, bash или др.</li> <li>Понимание принципов работы аппаратных средств вычислительных систем</li> <li>Опыт разработки модулей и подсистем ядра Linux</li> <li>Опыт работы с активным сетевым оборудованием</li> <li>Опыт проектирования высоконагруженных систем</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Официальное трудоустройство с первого рабочего дня</li> <li>Комфортная программа ввода в должность с наставником</li> <li>Собственный комплекс зданий в парковой зоне города</li> <li>Бесплатный служебный транспорт от пл.Калинина и 4, 5, 6 мкр.</li> <li>ДМС после испытательного срока</li> <li>Уличная зона с турниками и настольным теннисом</li> <li>Тренажерный зал</li> <li>Столовая в каждом корпусе</li> <li>Большая парковка</li> <li>Яркие корпоративные мероприятия</li> <li>Митапы по обмену опытом между командами</li> <li>Компенсация части затрат на участие в IT-конференциях</li> <li>Корпоративные скидки у компаний-партнеров (фитнес, развлечения)</li> <li>Курсы английского в офисе (основную часть затрат компенсирует компания)</li> <li>Релокационный пакет для иногородних кандидатов</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "C/C++"
+    },
+    {
+      "name": "TCP/IP"
+    },
+    {
+      "name": "Linux"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "828199",
+    "name": "«Предприятие «ЭЛТЕКС»",
+    "url": "https://api.hh.ru/employers/828199",
+    "alternate_url": "https://hh.ru/employer/828199",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1139178.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6177301.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6177302.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=828199",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-30T05:13:57+0300",
+  "created_at": "2025-05-30T05:13:57+0300",
+  "initial_created_at": "2025-02-19T05:54:25+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=117452258",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/117452258",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,180 @@
+{
+  "id": "120361040",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Мастер по ремонту компьютеров / Начинающий специалист / Компьютерный мастер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 90000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 90000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>В успешный сервисный центр требуется <strong>&quot;Выездной мастер по ремонту компьютеров&quot;</strong></p> <p><strong>Опыт работы по данной профессии не обязателен</strong>. Достаточно уметь ремонтировать и настраивать компьютеры и ноутбуки.</p> <p><strong>Обязанности:</strong></p> <ul> <li>Выезды к клиентам для устранения различных компьютерных неисправностей</li> <li>Диагностика неисправности (аппаратная‚ программная)</li> <li>Ремонт‚ настройка‚сборка‚ модернизация ПК и ноутбуков</li> <li>Установка и настройка программного обеспечения</li> <li>Устранение вирусов и смс-баннеров</li> <li>Согласование стоимости работ с клиентом‚ за наличный расчет</li> <li>Оформление документов после заказа</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Хорошие знания компьютерного железа и современного ПО</li> <li>Активность и общительность</li> <li>Желание работать не только с железом, но и людьми</li> <li>Желание зарабатывать</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Официальное оформление по ТК РФ</li> <li>Совокупная заработная плата<strong> от 90 000 рублей</strong> в мес (лучшие мастера получают значительно больше)</li> <li>Стабильный поток заявок <strong>(2-3 заказа в день)</strong></li> <li>Наставничество опытных мастеров в процессе работы</li> <li>График работы согласовывается (есть возможность работать по совместительству)</li> <li><strong>Полная оплата проезда</strong> и сотовой связи</li> <li>Адекватное руководство и коллектив в котором приятно работать</li> <li>Возможность <strong>карьерного роста</strong> внутри компании</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Сборка ПК"
+    },
+    {
+      "name": "Ремонт ПК"
+    },
+    {
+      "name": "Настройка ПК"
+    },
+    {
+      "name": "Настройка ПО"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "5990011",
+    "name": "Profi recovery",
+    "url": "https://api.hh.ru/employers/5990011",
+    "alternate_url": "https://hh.ru/employer/5990011",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1036290.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/5765920.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/5765921.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5990011",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-11T15:06:55+0300",
+  "created_at": "2025-05-11T15:06:55+0300",
+  "initial_created_at": "2025-05-11T15:06:55+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120361040",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120361040",
+  "working_days": [],
+  "working_time_intervals": [
+    {
+      "id": "from_four_to_six_hours_in_a_day",
+      "name": "Можно сменами по 4-6 часов в день"
+    }
+  ],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": true,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "FIELD_WORK",
+      "name": "Разъездной"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    },
+    {
+      "id": "FLEXIBLE",
+      "name": "Свободный"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_4",
+      "name": "4 часа"
+    },
+    {
+      "id": "HOURS_5",
+      "name": "5 часов"
+    },
+    {
+      "id": "HOURS_6",
+      "name": "6 часов"
+    },
+    {
+      "id": "HOURS_7",
+      "name": "7 часов"
+    },
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    },
+    {
+      "id": "HOURS_9",
+      "name": "9 часов"
+    },
+    {
+      "id": "HOURS_10",
+      "name": "10 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

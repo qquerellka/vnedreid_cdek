@@ -1,0 +1,133 @@
+{
+  "id": "120751040",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Junior Python Developer / Младший backend разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": 55.74863753025201,
+    "lng": 37.54094604402781,
+    "description": null,
+    "raw": "Москва, Пресненская набережная, 6 стр.2, Башня Империя",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": {
+    "id": "6528-6528-okkam",
+    "name": "Okkam"
+  },
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Задачи:</strong></p> <ul> <li>Работа с различными по сложности структурами данных и их источниками</li> <li>Поддержка существующей кодовой базы – отладка, ускорение работы</li> <li>Разработка новых программных решений для бизнеса</li> </ul> <p><strong>Нам по пути, если у тебя:</strong></p> <ul> <li>Коммерческий опыт разработки ~ 1 год</li> <li>Хорошее знание Python, его инфраструктуры и встроенных библиотек</li> <li>Знание как минимум одного популярного веб-фреймворка</li> <li>Знание как минимум одного популярного фреймворка для обработки данных (numpy\\pandas\\polars)</li> <li>Знакомство с одним или несколькими методами оптимизации кода – Векторизация, распараллеливание, async</li> <li>Хорошее знание реляционных СУБД</li> <li>Опыт написания автотестов</li> <li>Docker</li> <li>Linux, GIT</li> </ul> <strong>От нас:</strong> <ul> <li>Обучение, тренинги и прозрачный карьерный рост, корпоративный коуч</li> <li>Классный офис класса А в башне Империя Москвы-сити</li> <li>Возможность гибридного/удаленного формата работы</li> <li>Комфортная неформальная атмосфера, клубы по интересам, мероприятия</li> <li>Оформление по ТК, ДМС после испытательного срока, страхование от несчастных случаев, онкочекапы и мат.помощь</li> <li>Бесплатные консультации от психологов, налоговых консультантов и др.</li> <li>Корпоративная программа скидок платформы Best Benefits</li> <li>Волонтерские программы, платформа для идей и их реализации, благотворительность</li> </ul>",
+  "branded_description": "\n    <style>\n\n        .tmpl_hh_wrapper {\n            position: relative;\n            box-sizing: border-box;\n            padding: 0;\n            margin: 0;\n            font-family: Arial, sans-serif;\n        }\n\n        .tmpl_hh_base_content {\n            padding: 0 !important;\n        }\n\n        .l-paddings {\n            padding: 0px 30px 50px;\n        }\n\n        .tmpl_hh_base_content p {\n            margin: 0 0 16px !important;\n\n        }\n\n        .tmpl_hh_base_content strong em {\n            display: inline-block;\n            font-size: 28px;\n            font-size: 20px;\n            font-weight: 700;\n            line-height: 24px;\n            font-style: normal;\n            margin: 30px 0 0px !important;\n        }\n\n        .tmpl_hh_base_content b {\n            margin: 16px 0 0 !important;\n        }\n\n        .tmpl_hh_base_content p:has(+ ul) {\n            margin: 20px 0 0 !important;\n            font-size: 22px;\n            font-weight: 700;\n            line-height: 26px;\n        }\n\n        .tmpl_hh_base_content strong:has(+ ul) {\n            margin: 20px 0 0 !important;\n            font-size: 22px;\n            font-weight: 700;\n        display:block;\n            line-height: 26px;\n        }\n\n        .tmpl_hh_base_content p:has(+ ul) strong,\n        .tmpl_hh_base_content p:has(+ ul) em {\n            margin: 20px 0 0 !important;\n            font-size: 22px;\n            font-weight: 700;\n            line-height: 26px;\n        }\n\n        .tmpl_hh_base_content li ::marker {\n            margin: 16px 0 0 !important;\n            color: #FFF\n            witdth: 6px;\n            height: 6px;\n        }\n\n        .vacancy-branded-user-content ul  {\n            margin-left: 15px;\n            margin-bottom: 20px;\n        }\n\n        .vacancy-branded-user-content li{\n            margin-top: 10px;\n             font-size: 18px;\n            line-height: normal;\n        }\n\n\n        .tmpl_hh_wrapper h2 {\n            font-size: 26px;\nline-height: normal;\n\n            font-weight: 700;\n        }\n\n        .tmpl_hh_wrapper h4 {\n            font-size: 26px;\nline-height: normal;\n            font-weight: 700;\n        }\n\n        .tmpl_hh_wrapper h5 {\n            font-size: 18px;\n            line-height: 21.6px;\n            font-weight: 400;\n        }\n\n        .tmpl_hh_wrapper h3 {\n            font-size: 36px;\nline-height: normal;\n\n            font-weight: 700;\n        }\n\n        .tmpl_hh_wrapper p {\n            font-size: 18px;\n            line-height: normal\n        }\n\n        .hht-vacancydescription {\n            padding: 0 !important;\n        }\n\n        .hht-vacancydescription-wrapper p {\n            margin-top: 0 !important;\n        }\n\n            .mobileOnly {\n                display: none\n            }\n\n        .tmpl_hh_header {\n         background: url(\"https://hhcdn.ru/ichameleon/302881.png\");\n        background-size: 100% auto;\n        background-repeat: no-repeat;\n        color: #FFF;\n        background-color: #000000;\n        position: relative;\n        padding: 267px 30px 0px;\n        display: flex;\n        flex-direction: column;\n        gap: 25px;\n        }\n\n\n        .tmpl_hh_header p {\n        padding: 0 0 20px;\n     \n\n    }\n\n.tmpl_hh_header_border {\n   border-bottom: solid 1px #565656;\n}\n\n.tmpl_hh_header__title {\n  max-width: 600px;\n}\n\n\n\n.block_info {\n    padding: 40px 30px 30px;\n}\n\n\n.block_info h6 {\n  font-size: 22px;\n    line-height: normal;\nleading-trim: both;\ntext-edge: cap;\n}\n\n        .header_img {\n            position: absolute;\n            top: 30px;\n            left: 30px;\n        }\n\n\n        .tmpl_hh_base_content {\n        background-color: #000000;\n            padding: 30px 0 50px;\n            color: #FFF\n        }\n\n        .tmpl_hh_footer {\n            display: flex;\n        color: #FFF;\n            flex-direction: column;\n        background-color: #000000;\n\n        }\n\n        .footer_top {\n            padding: 15px 30px 30px;\n        }\n\n        .tmpl_hh_footer__images {\n            display: flex;\n            flex-wrap: wrap;\n            justify-content: space-between;\n            gap: 10px 0;\n        }\n\n        .tmpl_hh_footer__image--1 {\n            width: 286px;\n            height: 232px;\n            background: url(https://hhcdn.ru/ichameleon/309769.jpg) center/cover no-repeat;\n        }\n\n        .tmpl_hh_footer__image--2 {\n            width: 394px;\n            height: 232px;\n            background: url(https://hhcdn.ru/ichameleon/309770.jpg) center/cover no-repeat;\n        }\n\n        .tmpl_hh_footer__image--3 {\n            width: 100%;\n            height: 355px;\n            background: url(https://hhcdn.ru/ichameleon/309771.jpg) center/cover no-repeat;\n        }\n\n        .footer_bottom {\n            padding: 30px;\n            text-align: center;\n        }\n\n        .footer_bottom p {\n            font-size: 14px;\n            line-height: 16px;\n                color:#818181;\n}\n\n        @media (max-width: 768px) {\n\n        .mobileOnly {\n            display: block;\n        }\n\n        .footer_top {\n            padding: 15px 20px 30px;\n    }\n\n        .tmpl_hh_wrapper h4 {\n            font-size: 26px;\nline-height: normal;\n\n            font-weight: 700;\n        }\n\n        .tmpl_hh_wrapper h3 {\n            font-size: 30px;\nline-height: normal;\n\n            font-weight: 700;\n        }\n\n        .tmpl_hh_header {\n         background: url(\"https://hhcdn.ru/ichameleon/302884.png\");\n        background-repeat: no-repeat;\n        color: #FFF;\n        background-color: #000000;\n        position: relative;\n                background-size: 100% auto;\n        padding: 168px 20px 0px;\n        display: flex;\n        flex-direction: column;\n        gap: 20px;\n        }\n\n.img_block {\n    height: 191px;\n}\n\n.tmpl_hh_footer__image {\n    width: 100% !important;\n    height: 250px !important;\n}\n        }\n\n        }\n\n    </style>\n    <div class=\"tmpl_hh_wrapper\">\n\n        <div class=\"tmpl_hh_header\">\n         \n           <img class=\"header_img\" src=\"https://hhcdn.ru/ichameleon/302628.svg\">\n\n          <h3 class=\"tmpl_hh_header__title\">Помогаем создавать<br class=\"mobileOnly\"> ценность<br class=\"mobileOnly\"> для потребителей</h3>\n\n            <p class=\"tmpl_hh_header_border\"><b>Okkam объединяет лидирующие на рынке коммуникационные агентства и выделенные бизнес-вертикали — медиа и коммуникации, консалтинг, креатив, электронная коммерция, трейд-маркетинг и мартех.</b><br><br> \n</p>\n\n      \n\n<p><strong>Задачи:</strong></p> <ul> <li>Работа с различными по сложности структурами данных и их источниками</li> <li>Поддержка существующей кодовой базы – отладка, ускорение работы</li> <li>Разработка новых программных решений для бизнеса</li> </ul> <p><strong>Нам по пути, если у тебя:</strong></p> <ul> <li>Коммерческий опыт разработки ~ 1 год</li> <li>Хорошее знание Python, его инфраструктуры и встроенных библиотек</li> <li>Знание как минимум одного популярного веб-фреймворка</li> <li>Знание как минимум одного популярного фреймворка для обработки данных (numpy\\pandas\\polars)</li> <li>Знакомство с одним или несколькими методами оптимизации кода – Векторизация, распараллеливание, async</li> <li>Хорошее знание реляционных СУБД</li> <li>Опыт написания автотестов</li> <li>Docker</li> <li>Linux, GIT</li> </ul> <strong>От нас:</strong> <ul> <li>Обучение, тренинги и прозрачный карьерный рост, корпоративный коуч</li> <li>Классный офис класса А в башне Империя Москвы-сити</li> <li>Возможность гибридного/удаленного формата работы</li> <li>Комфортная неформальная атмосфера, клубы по интересам, мероприятия</li> <li>Оформление по ТК, ДМС после испытательного срока, страхование от несчастных случаев, онкочекапы и мат.помощь</li> <li>Бесплатные консультации от психологов, налоговых консультантов и др.</li> <li>Корпоративная программа скидок платформы Best Benefits</li> <li>Волонтерские программы, платформа для идей и их реализации, благотворительность</li> </ul></div>\n\n        <div class=\"tmpl_hh_footer\">\n            <div class=\"footer_top\">\n               <h4>Присоединяйся к нашей команде, <br>\nстань частью группы компаний Okkam! </h4>\n            </div>\n        <div class=\"tmpl_hh_footer__images tmpl_hh_flex\">\n            <div class=\"tmpl_hh_footer__image tmpl_hh_footer__image--1\"></div>\n            <div class=\"tmpl_hh_footer__image tmpl_hh_footer__image--2\"></div>\n            <div class=\"tmpl_hh_footer__image tmpl_hh_footer__image--3\"></div>\n        </div>\n        <div class=\"footer_bottom\">\n            <p>ООО ОККАМ СИ ЭС работает под брендом OKKAM</p>\n        </div>\n        </div>\n\n    </div>\n\n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "pandas"
+    },
+    {
+      "name": "Docker"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "6528",
+    "name": "Okkam",
+    "url": "https://api.hh.ru/employers/6528",
+    "alternate_url": "https://hh.ru/employer/6528",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1013127.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5673276.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5673277.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6528",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-20T10:53:19+0300",
+  "created_at": "2025-05-20T10:53:19+0300",
+  "initial_created_at": "2025-05-20T10:53:19+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120751040",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120751040",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

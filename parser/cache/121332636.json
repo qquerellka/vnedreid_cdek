@@ -1,0 +1,164 @@
+{
+  "id": "121332636",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Менеджер клиентской поддержки (удаленно)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 45000,
+    "to": 45000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 45000,
+    "to": 45000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": null,
+    "lng": null,
+    "description": null,
+    "raw": null,
+    "metro": {
+      "station_name": "Таганская",
+      "line_name": "Таганско-Краснопресненская",
+      "station_id": "7.77",
+      "line_id": "7",
+      "lat": 55.739502,
+      "lng": 37.653605
+    },
+    "metro_stations": [
+      {
+        "station_name": "Таганская",
+        "line_name": "Таганско-Краснопресненская",
+        "station_id": "7.77",
+        "line_id": "7",
+        "lat": 55.739502,
+        "lng": 37.653605
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "part",
+    "name": "Частичная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Компания Briskly, имеющая собственный завод по производству холодильного оборудования, микромаркетов, кофемашин, сфокусирована <strong>на автономной торговле</strong>. Мы создаем программные решения и устройства, которые позволяют торговать без персонала.<br /><br />Задача Briskly — помочь людям приблизить будущее, в котором люди занимаются более <strong>ценными вещами</strong>, чем ожидание в очередях.</p> <p><strong>Вакансия: Специалист службы поддержки на неполный день - (удаленно, 18:00–22:00)</strong></p> <p><strong>Briskly — это технологичный сервис, который освобождает людей от рутины. Мы создаем будущее, где никто не тратит время на очереди, а занимается тем, что действительно важно.</strong></p> <p><strong>Чем предстоит заниматься?</strong></p> <p>✔ Быстро и качественно решать вопросы клиентов в чате (без холодных звонков и продаж — только помощь действующим пользователям).<br />✔ Помогать в настройке оборудования (микромаркеты, кофемашины и др.).<br />✔ Работать с данными во внутренних системах компании.<br />✔ Передавать обратную связь от клиентов в другие подразделения (продажи, разработка и др.).</p> <p><strong>Мы ищем того, кто:</strong></p> <p>✅ Имеет опыт в поддержке клиентов от <strong>1 года</strong>.<br />✅ Обладает <strong>грамотной речью</strong> (устной и письменной).<br />✅ Быстро учится и умеет организовывать себя.<br />✅ Легко находит общий язык с людьми и не боится сложных вопросов.<br />✅ <strong>Стрессоустойчив</strong> и уверен в себе.</p> <p><strong>Что мы предлагаем?</strong></p> <p><strong>Удаленку</strong> с гибким графиком <strong>5/2 (18:00–22:00 по МСК)</strong>.<br /><strong>Официальное трудоустройство</strong> по ТК.<br /><strong>Зарплата 45 000 ₽ на руки</strong>.<br />‍ <strong>Поддержку и наставничество</strong> во время адаптации и после.</p> <p><strong>Будет плюсом</strong>, если в сопроводительном письме расскажете о своем опыте в поддержке клиентов.</p> <p><strong>Готовы помочь людям и работать в динамичном проекте? Откликайтесь!</strong></p> <ul> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "3864536",
+    "name": "Брискли",
+    "url": "https://api.hh.ru/employers/3864536",
+    "alternate_url": "https://hh.ru/employer/3864536",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1355006.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7039954.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7039955.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3864536",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T12:18:26+0300",
+  "created_at": "2025-06-04T12:18:26+0300",
+  "initial_created_at": "2025-06-04T12:18:26+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121332636",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121332636",
+  "working_days": [],
+  "working_time_intervals": [
+    {
+      "id": "from_four_to_six_hours_in_a_day",
+      "name": "Можно сменами по 4-6 часов в день"
+    }
+  ],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "PART",
+    "name": "Частичная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_4",
+      "name": "4 часа"
+    }
+  ],
+  "show_logo_in_search": null
+}

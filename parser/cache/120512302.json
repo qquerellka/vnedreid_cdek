@@ -1,0 +1,138 @@
+{
+  "id": "120512302",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Frontend-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": null,
+    "to": 400000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": null,
+    "to": 400000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "MONTHLY",
+      "name": "Раз в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Привет!<strong> Мы ищем Frontend-разработчика </strong>для известной продуктовой IT-компании :)</p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Разработка пользовательского интерфейса;</li> <li>Улучшение существующего интерфейса;</li> <li>Кроссбраузерная и адаптивная верстка;</li> <li>Оптимизация производительности;</li> <li>Взаимодействие с backend-разработчиками;</li> <li>Поддержка и рефакторинг кода;</li> <li>Ревью кода.</li> </ul> <p><strong>Ожидания от кандидата:</strong></p> <ul> <li>У вас есть коммерческий опыт работы Frontend-разработчиком <strong>не менее 5 лет</strong>;</li> <li>Уверенно знаете и владеете React, JavaScript и TypeScript;</li> <li>Стремитесь разобраться в каждой задаче и предложить для неё альтернативные решения;</li> <li>Глубоко погружаетесь в цели и ценности продукта;</li> <li>Писали на NodeJS (необязательно, но будет плюсом).</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Гибридный или офисный формат работы в Москве/Санкт-Петербурге;</li> <li>Хороший социальный пакет (ДМС, компенсация обедов, фитнеса);</li> <li>Профессиональное развитие: митапы, тренинги, мастер-классы, участие в конференциях; курсы английского;</li> <li>Гибкий график (у нас нет фиксированного времени начала и конца рабочего дня — работайте так, как удобно вам и вашей команде).<br /><br />Если вы стремитесь развивать продукты вместе с сильной командой — <strong>давайте создавать будущее вместе! </strong></li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "React"
+    },
+    {
+      "name": "TypeScript"
+    },
+    {
+      "name": "JavaScript"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "864086",
+    "name": "getmatch",
+    "url": "https://api.hh.ru/employers/864086",
+    "alternate_url": "https://hh.ru/employer/864086",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/971207.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5505680.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5505681.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=864086",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-14T09:53:04+0300",
+  "created_at": "2025-05-14T09:53:04+0300",
+  "initial_created_at": "2025-05-14T09:53:04+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120512302",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120512302",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "OTHER",
+      "name": "Другое"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

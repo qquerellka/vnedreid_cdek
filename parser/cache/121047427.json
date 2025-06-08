@@ -1,0 +1,140 @@
+{
+  "id": "121047427",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "System Engineer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы в активном поиске <strong>System Engineer</strong>, который не просто закроет задачу, а действительно усилит нашу команду своим опытом, инициативностью и свежим взглядом.</p> <p><strong>Обязанности:</strong></p> <p> </p> <p>* Обработка инцидентов: взаимодействие с командой мониторинга (L1) и разработкой при выявлении и устранении инцидентов.</p> <ul> <li> <p>Поддержка и развитие CI процессов: GitLab CI</p> </li> <li> <p>Работа с базами данных: настройка и сопровождение PostgreSQL, Redis, ClickHouse.</p> </li> <li> <p>Актуализация Helm-чартов: сопровождение, обновление и оптимизация Helm-чартов и манифестов.</p> </li> <li> <p>Взаимодействие с командами разработки: помощь в деплойменте и сопровождении сервисов.</p> </li> </ul> <p><strong>Требования:</strong></p> <p> </p> <ul> <li> <p>Уверенное владение Ansible для автоматизации задач инфраструктуры.</p> </li> <li> <p>Опыт работы с Terraform для описания и управления инфраструктурой.</p> </li> <li> <p>Глубокие знания и опыт администрирования Linux-серверов (Ubuntu, CentOS).</p> </li> <li> <p>Понимание принципов работы сетевых протоколов (TCP/IP) и основ работы сетей.</p> </li> <li> <p>Базовые знания и понимание виртуализации (KVM, OpenNebula).</p> </li> <li> <p>Знание ключевых компонентов Kubernetes: Pods, Services, Deployments, StatefulSets и т.д.​​​​​​​<em>​​​​​​​</em></p> </li> </ul> <p>​​​​​​​<strong>Критические требования: Nginx / Ansible / Администрирование Linux / Виртуализация / Базы данных / Terraform / K8S базовые знания</strong></p> <p>​​​​​​​​​​​​​​<strong>Будет плюсом:</strong></p> <ul> <li>Опыт работы с ArgoCD: настройка пайплайнов, управление деплойментами.</li> <li>Опыт настройки и оптимизации приложений для работы в Kubernetes.</li> <li>Владение инструментами: Helm, Helmfile, Kustomize.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Гибридный формат работы или полная удаленка;</li> <li>Стабильная и конкурентоспособная заработная плата, которая определяется по результатам собеседования;</li> <li>Оформление по ТК РФ с первого рабочего дня;</li> <li>Оплачиваемые больничные и отпуск;</li> <li>График работы 5/2 с гибким началом рабочего дня;</li> <li>Предусмотрен пакет бенефитов (спорта, медицина, обучение);</li> <li>Возможность не только посещать конференций и курсы, но и выступать в качестве спикера. Мы проводим и свои открытые митапы;</li> <li>Много корпоративных праздников и мероприятий;</li> <li>Всё необходимое для работы и поддержка твоих здравых начинаний.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Ansible"
+    },
+    {
+      "name": "Nginx"
+    },
+    {
+      "name": "Terraform"
+    },
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "CI/CD"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Redis"
+    },
+    {
+      "name": "Clickhouse"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "160",
+      "name": "DevOps-инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2058497",
+    "name": "Амбреллио",
+    "url": "https://api.hh.ru/employers/2058497",
+    "alternate_url": "https://hh.ru/employer/2058497",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/494633.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/2420285.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/2420286.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2058497",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T18:25:32+0300",
+  "created_at": "2025-06-05T18:25:32+0300",
+  "initial_created_at": "2025-05-27T18:25:32+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121047427",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121047427",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

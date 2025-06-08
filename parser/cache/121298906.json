@@ -1,0 +1,151 @@
+{
+  "id": "121298906",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Python developer (Senior)",
+  "insider_interview": {
+    "id": "33611",
+    "url": "https://hh.ru/interview/33611?employerId=3367886"
+  },
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": null,
+    "to": 350000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 350000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Мы - команда опытных специалистов, которые занимаются продвижением и созданием продуктов в IT сфере.</strong></p> <p><strong>Наша компания проделала длинный путь, от группы единомышленников до международной компании, которая помогла развиться большому числу проектов-стартапов вырасти в самостоятельный и успешный бизнес, который присутствует на рынках России, СНГ, Латинской Америки, Азии.</strong></p> <p><strong>Наши проекты развиваются и становятся крупнее, а это значит, нам нужны новые люди.</strong></p> <p><strong>Сейчас, в связи с расширением команды, мы в поисках Python-разработчика</strong></p> <p><strong>Обязанности:</strong></p> <ul> <li> <p>Разработка асинхронной микросервисной архитектуры на FastAPI. Высокие требования к отказоустойчивости платформы;</p> </li> <li> <p>Тесное взаимодействие с командами тестирования и аналитики.</p> </li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Уверенное владение Python 3.8+;</li> <li>Опыт работы с CУБД (MySQL\\Postgres\\Mongo);</li> <li>Опыт работы с Redis;</li> <li>Опыт использования очередей сообщений (RabbitMQ, Kafka);</li> <li>Опыт работы с Django, FastAPI, Flask, etc.;</li> <li>Уверенное владение Git (опыт работы с gitlab);</li> <li>Опыт использования Docker(создание dockerfile и запуск контейнера), docker-compose;</li> <li>Опыт построения многопоточных приложений c замками и флагами, опыт работы с системой библиотек aio-libs;</li> <li>Опыт работы с библиотекой celery, библиотекой socketio;</li> <li>Опыт работы с сабпроцессами и систем-юнитами;</li> <li>Умение проектировать логику задач / выбирать подходящие для решения задачи технологии.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт работы с инструментами Atlassian: Jira, Confluence;</li> <li>Опыт работы с kubernetes и helm-конфигами;</li> <li>Опыт работы с newSQL решениями для хранения и обработки BigData (TIDB).</li> </ul> <p><strong>Условия:</strong></p> <ul> <li> <p>Удаленка или офис в Казани (ИТ-парк или БЦ Сфера). Команда отлично работает распределенно;</p> </li> <li> <p>Гибкий график работы;</p> </li> <li> <p>Супер-приятный коллектив, здоровая атмосфера и взаимная поддержка;</p> </li> <li> <p>Возможность принимать прямое участие в создании продукта на миллионы пользователей;</p> </li> <li> <p>Перспективы вырасти в рамках компании;</p> </li> <li> <p>Корпоративные мероприятия: спорт, обучение;</p> </li> <li> <p>ДМС после 3х месяцев работы.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": {
+    "id": 45541,
+    "name": "Брендированный шаблон 1",
+    "top_picture": {
+      "height": 560,
+      "width": 1540,
+      "path": "https://img.hhcdn.ru/branding-pictures/3147467.jpeg",
+      "blurred_path": null
+    },
+    "bottom_picture": {
+      "height": 704,
+      "width": 1540,
+      "path": "https://img.hhcdn.ru/branding-pictures/3147435.jpeg",
+      "blurred_path": null
+    }
+  },
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3367886",
+    "name": "AYA Group",
+    "url": "https://api.hh.ru/employers/3367886",
+    "alternate_url": "https://hh.ru/employer/3367886",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1208340.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6453809.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6453810.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3367886",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T15:49:04+0300",
+  "created_at": "2025-06-03T15:49:04+0300",
+  "initial_created_at": "2025-06-03T15:49:04+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121298906",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121298906",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

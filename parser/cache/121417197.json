@@ -1,0 +1,152 @@
+{
+  "id": "121417197",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "IOS-разработчик (VPN-приложение)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Всем привет!<br /><br />О проекте: TopwallVPN - мультиплатформенное VPN-приложение с фокусом на стабильное соединение, высокую скорость и конфиденциальность. Приложение уже доступно в App Store, и мы активно развиваем его функциональность.</p> <p><strong>Наша команда стремительно растет и сейчас мы ищем iOS разработчика, способного взять на себя задачи по всем аспектам iOS-версии приложения: от внедрения нового VPN-модуля до доработок существующего модуля VPN. </strong></p> <p><strong>Ключевые обязанности:</strong></p> <ul> <li> <p>Интеграция и настройка VPN-протоколов (WireGuard, IKEv2, OpenVPN, VLESS и др.).</p> </li> <li> <p>Работа с подписками через RevenueCat, Adapty или другими схожими системами/sdk.</p> </li> <li> <p>Поддержка и развитие UI на SwiftUI и/или UIKit.</p> </li> <li> <p>Интеграция REST API и push-уведомлений.</p> </li> <li> <p>Поддержка приложения в App Store: сборка, загрузка, работа с ревью.</p> </li> <li> <p>Проведение тестов, устранение багов и оптимизация производительности.</p> </li> </ul> <p><strong>Что для нас важно:</strong></p> <ul> <li> <p>Отличное знание Swift.</p> </li> <li> <p>Опыт работы с модулями VPN на iOS.</p> </li> <li> <p>Опыт релизов в App Store.</p> </li> <li> <p>Знание архитектурных паттернов и подходов к чистой архитектуре.</p> </li> <li> <p>Умение работать с REST API, аналитикой и баг-трекингом.</p> </li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li> <p>Полностью удалённая работа, гибкий график - работай откуда хочешь!</p> </li> <li> <p>Возможности роста и развития.</p> </li> <li> <p>Дружелюбная атмосфера и 100% поддержка команды.</p> </li> <li> <p>Почасовая оплата с использованием трекера.</p> </li> <li> <p>Вся инфраструктура (доступы, аккаунты, тестовые серверы) уже подготовлена.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Swift"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "UIKit"
+    },
+    {
+      "name": "WireGuard"
+    },
+    {
+      "name": "IKEv2"
+    },
+    {
+      "name": "OpenVPN"
+    },
+    {
+      "name": "VLESS"
+    },
+    {
+      "name": "RevenueCat"
+    },
+    {
+      "name": "Adapty"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11072608",
+    "name": "Stergo",
+    "url": "https://api.hh.ru/employers/11072608",
+    "alternate_url": "https://hh.ru/employer/11072608",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1425513.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7321701.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7321702.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11072608",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T12:23:32+0300",
+  "created_at": "2025-06-06T12:23:32+0300",
+  "initial_created_at": "2025-06-06T12:23:32+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121417197",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121417197",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b1",
+        "name": "B1 — Средний"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,170 @@
+{
+  "id": "120524681",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": ".Net разработчик (Trainee/Junior)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "76",
+    "name": "Ростов-на-Дону",
+    "url": "https://api.hh.ru/areas/76"
+  },
+  "salary": {
+    "from": 45000,
+    "to": 60000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 45000,
+    "to": 60000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Ростов-на-Дону",
+    "street": "Троллейбусная улица",
+    "building": "24/2в",
+    "lat": 47.267786,
+    "lng": 39.761483,
+    "description": null,
+    "raw": "Ростов-на-Дону, Троллейбусная улица, 24/2в",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "Привет! Я Дима, руководитель департамента web-разработки в DBI, и нам очень хочется вырастить крутого специалиста. ​​​​​​​​​​​​​​Если маленький котик в меме &quot;ну и что, что опыта нет, зато мотивации много&quot;​​​​​ - это ты, то скорее ждем твой отклик! Подробности ниже :)​​​​​​​<br /><br /><strong>Что нужно делать:</strong> <ul> <li>Пройти программу обучения, освоить один из ЯП;</li> <li>Изучить платформу .net и язык C# и научиться писать сервисы и микросервисы с помощью C# ASP.net;</li> <li>После прохождения программы - участвовать в проектах (внутренних/коммерческих).</li> </ul> <strong>База от тебя:</strong> <ul> <li>Знаешь структуры данных и алгоритмы для любого ЯП (C#, Javascript, C++,Python, Golang);</li> <li>Работал с системой контроля версий (Git);</li> <li>Понимаешь, как работают реляционные БД, протокол http, docker;</li> <li>Коммуникабельность, адаптивность, работа в команде.</li> </ul> <strong>База от нас:</strong>​​​​​​​ <ul> <li>Оформление по ТК в аккредитованную IT-компанию;</li> <li>Возможность обучиться и проявить себя на реальных проектах;</li> <li><em>Гибридный</em> график (офис на СИТО: ул.Троллеубусная 24/2в);</li> <li>Тимбилдинги каждые 2 недели, сплавы, поездки в горы, а также корпоративы дважды в год;</li> <li>ДМС;</li> <li>Профессиональный и карьерный рост в классной разнообразной команде;</li> <li>Корпоративный английский;</li> <li>Помощь и поддержка на всех этапах, начиная с момента вступления в компанию.</li> </ul>",
+  "branded_description": "\n<style>\n@charset \"UTF-8\";\n\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li em,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ol li p em,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li em,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong,\n.tmpl_hh_content ul li p em {\n    font-size: inherit !important;\n    line-height: inherit !important;\n    letter-spacing: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    padding: 0 !important;\n    text-transform: inherit !important;\n    display: inline;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    display: inline;\n    margin: 0;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    font-family: \"Arial\", sans-serif;\n    color: #000;\n    font-size: 14px;\n    line-height: 1.4;\n    -webkit-font-smoothing: antialiased;\n    z-index: 1;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_wrapper * {\n    -webkit-box-sizing: border-box;\n    box-sizing: border-box;\n}\n\n.tmpl_hh_wrapper [role=button] {\n    outline: none;\n}\n\n.tmpl_hh_video {\n    position: relative;\n    width: 100%;\n    padding-bottom: 56.3%;\n}\n\n.tmpl_hh_video img,\n.tmpl_hh_video iframe {\n    position: absolute;\n    left: 0;\n    top: 0;\n    width: 100%;\n    height: 100%;\n    border-radius: 24px;\n}\n\n.tmpl_hh_container {\n    padding: 40px 36px;\n}\n\np.tmpl_hh_title {\n    font-weight: bold;\n    font-size: 20px;\n    color: #042cdc;\n    letter-spacing: 0.06em;\n    text-transform: uppercase;\n    line-height: 1.2;\n}\n\n.tmpl_hh_mob {\n    display: none;\n}\n\n.tmpl_hh_content {\n    position: relative;\n    padding: 48px 14px;\n    letter-spacing: 0.03em;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p:last-child,\n.tmpl_hh_content>strong:last-child,\n.tmpl_hh_content div>strong:last-child {\n    margin-bottom: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    margin: 24px 0 16px;\n}\n\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    display: inline-block;\n    font-weight: bold;\n    font-size: 20px;\n    color: #042cdc;\n    letter-spacing: 0.06em;\n    text-transform: uppercase;\n    line-height: 1.2;\n}\n\n.tmpl_hh_content b em,\n.tmpl_hh_content strong em {\n    font-size: 14px;\n    font-style: normal;\n    color: #000;\n    text-transform: none;\n    letter-spacing: 0.03em;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 14px;\n    padding-bottom: 1px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n}\n\n.tmpl_hh_content li:not(:last-child) {\n    margin-bottom: 10px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 10px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;\n}\n\n.tmpl_hh_content li:before {\n    content: \"\";\n    position: absolute;\n    left: -14px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"•\";\n    font-weight: 700;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter) \".\";\n}\n\n.tmpl_hh_head {\n    position: relative;\n    color: #fff;\n    background: -webkit-linear-gradient(346.57deg, #042cdc 11.09%, #010a2f 118.59%);\n    background: -o-linear-gradient(346.57deg, #042cdc 11.09%, #010a2f 118.59%);\n    background: linear-gradient(103.43deg, #042cdc 11.09%, #010a2f 118.59%);\n    padding: 48px 38px 56px;\n    border-radius: 16px;\n}\n\n.tmpl_hh_head__logo {\n    min-width: 139px;\n    width: 38%;\n    margin-bottom: 36px;\n}\n\n.tmpl_hh_head__elem {\n    position: absolute;\n    right: -2%;\n    top: -6%;\n    width: 49.7%;\n}\n\np.tmpl_hh_head__title {\n    font-size: 24px;\n    line-height: 120%;\n    font-weight: 700;\n    letter-spacing: 0.06em;\n    text-transform: uppercase;\n    margin-bottom: 16px;\n}\n\np.tmpl_hh_head__text {\n    font-size: 16px;\n    letter-spacing: 0.05em;\n}\n\n.tmpl_hh_steps p.tmpl_hh_title {\n    margin-left: 14px;\n    margin-bottom: 24px;\n}\n\n.tmpl_hh_steps__list {\n    display: grid;\n    grid-template-columns: repeat(4, 1fr);\n    gap: 18px;\n}\n\n.tmpl_hh_steps__icon {\n    width: 32px;\n    margin: 0 auto 12px;\n}\n\n.tmpl_hh_steps__item {\n    min-height: 142px;\n    background-color: #f4f4f4;\n    padding: 24px 18px;\n    border-radius: 8px;\n    font-size: 12px;\n    line-height: 120%;\n    text-align: center;\n    letter-spacing: 0.05em;\n}\n\n.tmpl_hh_cta {\n    margin-top: 48px;\n}\n\n.tmpl_hh_cta__box {\n    position: relative;\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-align: center;\n    -ms-flex-align: center;\n    align-items: center;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n    background: -webkit-linear-gradient(346.57deg, #042cdc 11.09%, #010a2f 118.59%);\n    background: -o-linear-gradient(346.57deg, #042cdc 11.09%, #010a2f 118.59%);\n    background: linear-gradient(103.43deg, #042cdc 11.09%, #010a2f 118.59%);\n    border-radius: 24px;\n    color: #fff;\n    padding: 61px 74px 66px 38px;\n}\n\n.tmpl_hh_cta__elem {\n    pointer-events: none;\n    position: absolute;\n}\n\n.tmpl_hh_cta__elem--1 {\n    width: 15%;\n    top: -15%;\n    left: -3%;\n}\n\n.tmpl_hh_cta__elem--2 {\n    width: 15%;\n    bottom: -11%;\n    right: -4%;\n}\n\n.tmpl_hh_cta__btn {\n    position: relative;\n    min-width: 90px;\n    width: 90px;\n    cursor: pointer;\n    padding: 0;\n    border: none;\n    background-color: transparent;\n    border: 1px solid #fff;\n    border-radius: 50%;\n    padding: 24px;\n}\n\n.tmpl_hh_cta__btn::before {\n    pointer-events: none;\n    position: absolute;\n    content: \"\";\n    top: -25px;\n    bottom: -25px;\n    left: -25px;\n    right: -25px;\n    background-size: 100% auto;\n    background-repeat: no-repeat;\n    background-image: url(\"https://hhcdn.ru/ichameleon/339415.svg\");\n    -webkit-animation: anim 13s infinite linear;\n    animation: anim 13s infinite linear;\n}\n\np.tmpl_hh_cta__title {\n    font-size: 30px;\n    letter-spacing: 0.06em;\n    font-weight: 700;\n    text-transform: uppercase;\n}\n\n@-webkit-keyframes anim {\n    0% {\n        rotate: 0deg;\n    }\n\n    100% {\n        rotate: -360deg;\n    }\n}\n\n@keyframes anim {\n    0% {\n        rotate: 0deg;\n    }\n\n    100% {\n        rotate: -360deg;\n    }\n}\n\n.tmpl_hh_modal {\n    background: rgba(0, 0, 0, 0.8);\n    position: absolute;\n    top: 0;\n    bottom: 0;\n    left: 0;\n    right: 0;\n    opacity: 0;\n    z-index: -10;\n    -webkit-transition: all 0.2s linear;\n    -o-transition: all 0.2s linear;\n    transition: all 0.2s linear;\n}\n\n.tmpl_hh_modal--active {\n    opacity: 1;\n    z-index: 50;\n}\n\n.tmpl_hh_modal__dialog {\n    position: -webkit-sticky;\n    position: sticky;\n    top: 20%;\n    left: 0;\n    right: 0;\n    -webkit-transform: scale(0);\n    -ms-transform: scale(0);\n    transform: scale(0);\n    -webkit-transition: all 0.3s linear;\n    -o-transition: all 0.3s linear;\n    transition: all 0.3s linear;\n    padding: 0 36px;\n}\n\n.tmpl_hh_modal--active .tmpl_hh_modal__dialog {\n    -webkit-transform: scale(1);\n    -ms-transform: scale(1);\n    transform: scale(1);\n}\n\n.tmpl_hh_modal__close {\n    position: absolute;\n    cursor: pointer;\n    width: 32px;\n    height: 32px;\n    bottom: 100%;\n    right: 36px;\n    border-radius: 50%;\n    -webkit-transition: all 0.2s linear;\n    -o-transition: all 0.2s linear;\n    transition: all 0.2s linear;\n    margin-bottom: 10px;\n}\n\n.tmpl_hh_modal__close:hover {\n    background-color: #042cdc;\n}\n\n.tmpl_hh_modal__close::before,\n.tmpl_hh_modal__close::after {\n    content: \"\";\n    position: absolute;\n    top: 15px;\n    left: 5px;\n    width: 23px;\n    height: 2px;\n    background-color: #fff;\n    -webkit-transform: rotate(45deg);\n    -ms-transform: rotate(45deg);\n    transform: rotate(45deg);\n    -webkit-transition: all 0.2s linear;\n    -o-transition: all 0.2s linear;\n    transition: all 0.2s linear;\n}\n\n.tmpl_hh_modal__close::after {\n    -webkit-transform: rotate(-45deg);\n    -ms-transform: rotate(-45deg);\n    transform: rotate(-45deg);\n}\n\n@media (max-width: 1019px) {\n    .tmpl_hh_wrapper {\n        max-width: 610px;\n    }\n\n    p.tmpl_hh_cta__title {\n        font-size: 22px;\n    }\n}\n\n@media (max-width: 699px) {\n\n    .tmpl_hh_video img,\n    .tmpl_hh_video iframe {\n        border-radius: 16px;\n    }\n\n    .tmpl_hh_container {\n        padding: 40px 15px;\n    }\n\n    .tmpl_hh_mob {\n        display: block;\n    }\n\n    .tmpl_hh_wrapper {\n        width: auto;\n        max-width: none;\n        margin: 0 -15px;\n    }\n\n    .tmpl_hh_content {\n        padding: 36px 16px;\n    }\n\n    .tmpl_hh_head {\n        padding: 24px 16px 30px;\n    }\n\n    .tmpl_hh_head__elem {\n        max-width: 240px;\n        width: 42.5%;\n        top: -4%;\n    }\n\n    p.tmpl_hh_head__title {\n        font-size: 18px;\n    }\n\n    p.tmpl_hh_head__text {\n        font-size: 12px;\n    }\n\n    .tmpl_hh_steps__list {\n        gap: 20px;\n        grid-template-columns: 1fr 1fr;\n    }\n\n    .tmpl_hh_steps__item {\n        padding: 24px 15px;\n    }\n\n    .tmpl_hh_cta__box {\n        -webkit-box-orient: vertical;\n        -webkit-box-direction: normal;\n        -ms-flex-direction: column;\n        flex-direction: column;\n        padding: 62px 16px 60px;\n    }\n\n    .tmpl_hh_cta__elem--1 {\n        width: 74px;\n        left: 0;\n        top: -15px;\n    }\n\n    .tmpl_hh_cta__elem--2 {\n        width: 67px;\n        right: 0;\n        bottom: -22px;\n    }\n\n    p.tmpl_hh_cta__title {\n        font-size: 20px;\n        text-align: center;\n        margin-bottom: 49px;\n    }\n\n    .tmpl_hh_modal__dialog {\n        padding: 0 15px;\n    }\n\n    .tmpl_hh_modal__close {\n        right: 15px;\n    }\n}\n</style>\n\n<script>\n//\nvar initModal = function initModal() {\n    var openBtn = document.querySelector(\".tmpl_hh_cta__btn\");\n    var modal = document.querySelector(\".tmpl_hh_modal\");\n    var closeBtn = document.querySelector(\".tmpl_hh_modal__close\");\n    openBtn.addEventListener(\"click\", function() {\n        modal.classList.add(\"tmpl_hh_modal--active\");\n    });\n    closeBtn.addEventListener(\"click\", function() {\n        modal.classList.remove(\"tmpl_hh_modal--active\");\n    });\n};\n\nfunction DOM_HH_Ready() {\n    initModal();\n}\n\nif (document.readyState === \"loading\") {\n    document.addEventListener(\"DOMContentLoaded\", DOM_HH_Ready);\n} else {\n    DOM_HH_Ready();\n}\n//\n</script>\n\n\n        <div class=\"tmpl_hh_wrapper\">\n            <div class=\"tmpl_hh_container\">\n                <div class=\"tmpl_hh_head\">\n                    <div class=\"tmpl_hh_head__elem\">\n                        <img src=\"https://hhcdn.ru/ichameleon/323278.png\" alt=\"\">\n                    </div>\n                    <div class=\"tmpl_hh_head__logo\">\n                        <img src=\"https://hhcdn.ru/ichameleon/323277.svg\" alt=\"\">\n                    </div>\n                    <p class=\"tmpl_hh_head__title\">\n                        ИТ-компания<br>\n                        с 20-летним опытом!\n                    </p>\n                    <p class=\"tmpl_hh_head__text\">\n                        Мы специализируемся на внедрении, кастомизации и удаленном сопровождении баз\n                        данных, приложений и операционных систем, а также услугах заказной разработки\n                        бизнес‑приложений\n                    </p>\n                </div>\n\n                <div class=\"tmpl_hh_content\">\n        Привет! Я Дима, руководитель департамента web-разработки в DBI, и нам очень хочется вырастить крутого специалиста. ​​​​​​​​​​​​​​Если маленький котик в меме \"ну и что, что опыта нет, зато мотивации много\"​​​​​ - это ты, то скорее ждем твой отклик! Подробности ниже :)​​​​​​​<br><br><strong>Что нужно делать:</strong> <ul> <li>Пройти программу обучения, освоить один из ЯП;</li> <li>Изучить платформу .net и язык C# и научиться писать сервисы и микросервисы с помощью C# ASP.net;</li> <li>После прохождения программы - участвовать в проектах (внутренних/коммерческих).</li> </ul> <strong>База от тебя:</strong> <ul> <li>Знаешь структуры данных и алгоритмы для любого ЯП (C#, Javascript, C++,Python, Golang);</li> <li>Работал с системой контроля версий (Git);</li> <li>Понимаешь, как работают реляционные БД, протокол http, docker;</li> <li>Коммуникабельность, адаптивность, работа в команде.</li> </ul> <strong>База от нас:</strong>​​​​​​​ <ul> <li>Оформление по ТК в аккредитованную IT-компанию;</li> <li>Возможность обучиться и проявить себя на реальных проектах;</li> <li><em>Гибридный</em> график (офис на СИТО: ул.Троллеубусная 24/2в);</li> <li>Тимбилдинги каждые 2 недели, сплавы, поездки в горы, а также корпоративы дважды в год;</li> <li>ДМС;</li> <li>Профессиональный и карьерный рост в классной разнообразной команде;</li> <li>Корпоративный английский;</li> <li>Помощь и поддержка на всех этапах, начиная с момента вступления в компанию.</li> </ul></div>\n\n                <div class=\"tmpl_hh_steps\">\n                    <div class=\"tmpl_hh_steps__list\">\n                        <div class=\"tmpl_hh_steps__item\">\n                            <div class=\"tmpl_hh_steps__icon\">\n                                <img src=\"https://hhcdn.ru/ichameleon/323282.svg\" alt=\"\">\n                            </div>\n                            <p>Откликайся на вакансию</p>\n                        </div>\n\n                        <div class=\"tmpl_hh_steps__item\">\n                            <div class=\"tmpl_hh_steps__icon\">\n                                <img src=\"https://hhcdn.ru/ichameleon/323280.svg\" alt=\"\">\n                            </div>\n                            <p>Проходи собеседование</p>\n                        </div>\n                        <div class=\"tmpl_hh_steps__item\">\n                            <div class=\"tmpl_hh_steps__icon\">\n                                <img src=\"https://hhcdn.ru/ichameleon/323283.svg\" alt=\"\">\n                            </div>\n                            <p>Работай и делай успешную карьеру в IT</p>\n                        </div>\n                        <div class=\"tmpl_hh_steps__item\">\n                            <div class=\"tmpl_hh_steps__icon\">\n                                <img src=\"https://hhcdn.ru/ichameleon/323281.svg\" alt=\"\">\n                            </div>\n                            <p>Обучайся, если нет опыта</p>\n                        </div>\n                    </div>\n                </div>\n\n                <div class=\"tmpl_hh_cta\">\n                    <div class=\"tmpl_hh_cta__box\">\n                        <p class=\"tmpl_hh_cta__title\">присоединяйся к нашей команде!</p>\n                        <button class=\"tmpl_hh_cta__btn\">\n                            <img src=\"https://hhcdn.ru/ichameleon/323297.svg\" alt=\"\">\n                        </button>\n                        <div class=\"tmpl_hh_cta__elem tmpl_hh_cta__elem--1\">\n                            <img src=\"https://hhcdn.ru/ichameleon/323305.png\" alt=\"\">\n                        </div>\n                        <div class=\"tmpl_hh_cta__elem tmpl_hh_cta__elem--2\">\n                            <img src=\"https://hhcdn.ru/ichameleon/323306.png\" alt=\"\">\n                        </div>\n                    </div>\n                </div>\n\n                <div class=\"tmpl_hh_modal\">\n                    <div class=\"tmpl_hh_modal__dialog\">\n                        <div class=\"tmpl_hh_modal__close\"></div>\n                        <div class=\"tmpl_hh_video\">\n                            <iframe src=\"https://vk.com/video_ext.php?oid=-71496880&amp;id=456239050&amp;hd=2\" width=\"853\" height=\"480\" allow=\"autoplay; encrypted-media; fullscreen; picture-in-picture;\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><!-- --></iframe>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    \n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "C#"
+    },
+    {
+      "name": ".NET Core"
+    },
+    {
+      "name": ".NET Framework"
+    },
+    {
+      "name": "ASP.NET"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "HTTP"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Базы данных"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "77301",
+    "name": "DBI",
+    "url": "https://api.hh.ru/employers/77301",
+    "alternate_url": "https://hh.ru/employer/77301",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1390261.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7180831.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7180832.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=77301",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T10:55:17+0300",
+  "created_at": "2025-06-07T10:55:17+0300",
+  "initial_created_at": "2025-05-14T11:38:53+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120524681",
+  "has_test": true,
+  "test": {
+    "required": true
+  },
+  "alternate_url": "https://hh.ru/vacancy/120524681",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

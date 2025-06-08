@@ -1,0 +1,150 @@
+{
+  "id": "121200963",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Программист 1C",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 140000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 140000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Крупнейшая сеть клиник лазерной косметологии ЛИНЛАЙН приглашает профессионала в свою команду!</strong></p> <p><strong>Обязанности:</strong><br />- Сбор и анализ бизнес-требований по автоматизации;<br />- Сопровождение и разработка нового функционала в собственной нетиповой конфигурации (обычные формы);<br />- Текущая поддержка и консультирование пользователей, подготовка инструкций (до 60% рабочего времени);<br />- Тестирование нового функционала;<br />- Рефакторинг существующего кода, повышение производительности и быстродействия, оптимизация кода;<br />- Поддержка конфигураций Бухгалтерия предприятия 3.0 и Зарплата и управление персоналом 3.1;<br />- Обмен данными между конфигурациями и сторонними сервисами, интеграции (http, web-сервисы)</p> <p><strong>Требования:</strong><br />- Опыт работы программистом 1С 8.x от 3 лет;<br />- Знание и опыт практического применения технологий взаимодействия систем через HTTP-сервисы, web-сервисы, XML , JSON и т.п;<br />- Знание (и понимание) системы компоновки данных (СКД). Опыт написания сложных отчетов;<br />- Высокие коммуникативные навыки для общения с пользователями разных уровней;<br />- Умение работать с чужим кодом (читать и оптимизировать);<br />- Опыт командной разработки, ответственность за качество и сроки выполнения задач;<br />- Опыт работы в сфере медицины будет являться дополнительным плюсом;</p> <p><strong>Условия работы:</strong></p> <ul> <li>Официальное трудоустройство</li> <li>Мы рассматриваем кандидата на удаленную работу, ваше местонахождения не имеет значения</li> <li>Пятидневная рабочая неделя с 10.00 до 18.00</li> <li>Заработная плата, выплата два раза в месяц. Рассматриваем ожидания кандидатов</li> <li>Возможности для профессионального роста и развития</li> <li>Социальный пакет: ежегодный отпуск, оплата больничного листа, услуги клиники по себестоимости</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "1С программирование"
+    },
+    {
+      "name": "1С: Зарплата и управление персоналом"
+    },
+    {
+      "name": "1С: Управление Производственным Предприятием"
+    },
+    {
+      "name": "1С: Документооборот"
+    },
+    {
+      "name": "1С: Розница"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "147835",
+    "name": "Сеть клиник лазерной косметологии ЛИНЛАЙН",
+    "url": "https://api.hh.ru/employers/147835",
+    "alternate_url": "https://hh.ru/employer/147835",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/451975.png",
+      "90": "https://img.hhcdn.ru/employer-logo/2249867.png",
+      "240": "https://img.hhcdn.ru/employer-logo/2249868.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=147835",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T08:34:57+0300",
+  "created_at": "2025-06-02T08:34:57+0300",
+  "initial_created_at": "2025-06-02T08:34:57+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121200963",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121200963",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

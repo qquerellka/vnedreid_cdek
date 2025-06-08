@@ -1,0 +1,151 @@
+{
+  "id": "120608623",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Ведущий специалист-эксперт отдела информационных технологий и защиты информации",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 28000,
+    "to": 50000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 28000,
+    "to": 50000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "улица Дмитрия Шамшурина",
+    "building": "53",
+    "lat": 55.039331,
+    "lng": 82.893588,
+    "description": null,
+    "raw": "Новосибирск, улица Дмитрия Шамшурина, 53",
+    "metro": {
+      "station_name": "Площадь Гарина-Михайловского",
+      "line_name": "Дзержинская",
+      "station_id": "53.302",
+      "line_id": "53",
+      "lat": 55.035947,
+      "lng": 82.897783
+    },
+    "metro_stations": [
+      {
+        "station_name": "Площадь Гарина-Михайловского",
+        "line_name": "Дзержинская",
+        "station_id": "53.302",
+        "line_id": "53",
+        "lat": 55.035947,
+        "lng": 82.897783
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <p>- Работа и администрирование операционных систем в т.ч. Linux (Астра Линукс, Альт Линукс и т.п.), офисного программного обеспечения в т.ч. Мой Офис, работа с ЛВС и УАТС, настройка рабочих мест для доступа в государственные информационные системы, работа со средствами криптозащиты информации, настройка рабочих мест сотрудников.</p> <p>- Дополнительно: государственные услуги в части ведения ЕГАИС и пломбирования автоматических средств измерения и учета, работа с обращениями граждан и организаций в соответствии с 59-ФЗ.</p> <strong>Требования:</strong> <ul> <li><strong>Высшее образование, предпочтительно по ИТ;</strong></li> <li>Знание и опыт работы и администрирования операционных системам в т.ч. Linux (Астра Линукс, Альт Линукс и т.п.), офисным программным обеспечением в т.ч. Мой ОФис, знание и опыт работы с ЛВС и УАТС, настройка рабочих мест для доступа в государственные информационные системы, работа со средствами криптозащиты информации, настройка рабочих мест сотрудников, знание устройства компьютеров и ноутбуков и их обслуживание. Базовые знания по информационной безопасности и ИСПДн. Отдел так же предоставляет государственные услуги в части Ведения ЕГАИС и пломбирования автоматических средств измерения и учета, и ведет работу с обращениями граждан и организаций в соответствии с 59-ФЗ.</li> </ul> <strong>Условия:</strong> <ul> <li>стабильная, официальная заработная плата 2 раза в месяц;</li> <li>социальный пакет в соответствии с Федеральным законом от 27 июля 2004 г. № 79-ФЗ «О государственной гражданской службе Российской Федерации»;</li> <li>ежегодный оплачиваемый отпуск государственного гражданского служащего – от 33 дней;</li> <li>единовременные выплаты при предоставлении ежегодного оплачиваемого отпуска и материальной помощи;</li> <li>повышение квалификации и совершенствование навыков (за счет средств федерального бюджета);</li> <li>график работы: 5-ти дневная рабочая неделя: понедельник-четверг:</li> <li> <p>с 09-00 до 18-00; пятница: с 09-00 до 16:45;</p> </li> <li>служебные командировки 5-10% рабочего времени в пределах Сибирского федерального округа (срок командирования в 1 командировке 1-2 рабочих дня).</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "116",
+      "name": "Специалист по информационной безопасности"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2389621",
+    "name": "МРУ Росалкогольтабакконтроля по Сибирскому федеральному округу",
+    "url": "https://api.hh.ru/employers/2389621",
+    "alternate_url": "https://hh.ru/employer/2389621",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2389621",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-29T12:50:53+0300",
+  "created_at": "2025-05-29T12:50:53+0300",
+  "initial_created_at": "2025-05-16T05:44:28+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120608623",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120608623",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

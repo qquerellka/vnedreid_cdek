@@ -1,0 +1,155 @@
+{
+  "id": "121213113",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Разработчик .NET Middle",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Приглашаем в команду <strong>Разработчик .NET Middle</strong></p> <p>Проект: финтех.</p> <p>Команда разработки и поддержки Fintech решений (10-20 человек)</p> <p>Команда Авторизации, Аутентификации на базе KeyCloak (4-5 человек)</p> <p> </p> <h2><strong>ЗАДАЧИ:</strong></h2> <ul> <li>Проектирование безопасных, отказоустойчивых сервисов, соответствующих ФТ и НФТ;</li> <li>Разработка функционала, интеграций;</li> <li>Разработка API для потребителя (мобильное приложение, микросервисы);</li> <li>Управление качеством решения;</li> <li>Покрытие тестами;</li> <li>Внедрение механизмов логирования, журналирования, мониторинга;</li> <li>Централизованная обработка ошибок, формализованные ответы от сервиса;</li> <li>Участие в межкомандных взаимодействиях;</li> <li>Консультация коллег;</li> <li>Участие в проверке и отладке реализованного функционала.</li> </ul> <h2><strong>МЫ ОЖИДАЕМ ОТ ВАС:</strong></h2> <ul> <li>Опыт от 2-х лет;</li> <li>Отличное знание .Net, REST;</li> <li>Опыт работы с gRPC;</li> <li>Опыт интеграций с брокерами (kafka);</li> <li>Навык работы с Redis;</li> <li>Опыт работы с SQL и noSQL БД (postgreSQL, mongoDB in-memory, mongoDB);</li> <li>Опыт работы с распределенными транзакциями;</li> <li>Опыт token валидации, работы с claims;</li> <li>Опыт работы с JSON schema (валидация данных на соответствие модели);</li> <li>Опыт качественного unit и интеграционного тестирования;</li> <li>Опыт наставничества и code-review;</li> <li>Умение работать как по четко составленной документации (алгоритмам), так и в ситуациях, где нужно самостоятельно формировать требования или уточнять бизнес-логику;</li> <li>Умение понимать и принимать чужую точку зрения, адекватно реагировать на критику в процессе ревью.</li> </ul> <p>Будет плюсом:</p> <ul> <li>опыт работы с Zeebe API (интеграция с Camunda 8 и выше);</li> </ul> <ul> <li>опыт разработки BFF для мобильных приложений;</li> </ul> <ul> <li>опыт работы с Keycloak или IAM;</li> </ul> <ul> <li>опыт разработки высоконагруженных систем и финтех-приложений;</li> </ul> <ul> <li>знание принципов горизонтального масштабирования сервисов.</li> </ul> <h2><strong>МЫ ПРЕДЛАГАЕМ:</strong></h2> <ul> <li>Официальное оформление <strong>в стабильную и динамично развивающуюся ИТ компанию EGAR</strong>;</li> <li>Удаленный формат работы;</li> <li>График работы с 9:00 до 18:00;</li> <li>Конкурентный уровень заработной платы, который мы готовы обсудить на собеседовании;</li> <li>Полноценную проектную команду с четким разделением ролей;</li> <li>Оперативное решение организационных вопросов;</li> <li>Возможность профессионального роста (вертикального или горизонтального);</li> <li>Возможности обучения (курсы, сертификация);</li> <li>Бонусы по реферальной программе, за успешную рекомендацию;</li> <li>Дополнительно 4 дня в год по болезни без больничного листа (sick day);</li> <li>Расширенный пакет ДМС, включая стоматологию;</li> <li>Сохранение баланса между работой и личной жизнью.</li> </ul>",
+  "branded_description": "\n<style>\n.hht-vacancydescription {\n  padding: 0 !important;\n}\n\n.vacancy-branded-user-content ul,\n.vacancy-branded-user-content ol {\n  margin-left: 0;\n}\n\n.vacancy-branded-user-content p {\n  margin-top: 0 !important;\n}\n\n.vacancy-branded-user-content p:first-child b,\n.vacancy-branded-user-content p:first-child strong {\n  margin-top: 0 !important;\n}\n\n.tmpl-hh-wrapper {\n  width: 100%;\n  margin: 0 auto;\n  max-width: 690px;\n  position: relative;\n  overflow: hidden;\n  font-family: \"Arial\", sans-serif;\n  font-style: normal;\n  font-weight: 400;\n  font-size: 14px;\n  color: #000;\n  line-height: 1.5;\n  border-radius: 4px;\n}\n\n.tmpl-hh-wrapper * {\n  box-sizing: border-box;\n  padding: 0;\n  margin: 0;\n}\n\n.tmpl-hh-wrapper sup {\n  vertical-align: top;\n}\n\n.tmpl-hh-content ol li p,\n.tmpl-hh-content ul li p {\n  margin: 0 !important;\n}\n\n.tmpl-hh-content ol li p b,\n.tmpl-hh-content ol li p strong,\n.tmpl-hh-content ul li p b,\n.tmpl-hh-content ul li p strong {\n  font-weight: 700;\n  font-size: inherit !important;\n  margin: 0 !important;\n  text-transform: none;\n  color: inherit !important;\n  display: initial;\n}\n\n.tmpl-hh-content ol li em,\n.tmpl-hh-content ul li em {\n  font-style: normal !important;\n}\n\n.tmpl-hh-content ol li em b,\n.tmpl-hh-content ol li em strong,\n.tmpl-hh-content ul li em b,\n.tmpl-hh-content ul li em strong {\n  text-transform: none;\n  display: inherit;\n  font-weight: 700;\n  font-size: inherit;\n  color: inherit;\n  font-style: normal !important;\n}\n\n.tmpl-hh-content ol li b,\n.tmpl-hh-content ol li strong,\n.tmpl-hh-content ul li b,\n.tmpl-hh-content ul li strong {\n  font-weight: 700;\n  font-size: inherit !important;\n  margin: 0 !important;\n  text-transform: none;\n  color: inherit !important;\n}\n\n.tmpl-hh-content p {\n  margin-bottom: 16px;\n}\n\n.tmpl-hh-content p b,\n.tmpl-hh-content p strong {\n  display: inline-block;\n  font-weight: 700;\n  font-size: 20px;\n  line-height: 1.36;\n  color: #000;\n  margin-top: 22px !important;\n  text-transform: uppercase;\n}\n\n.tmpl-hh-content p em {\n  font-style: normal !important;\n}\n\n.tmpl-hh-content p em b,\n.tmpl-hh-content p em strong {\n  text-transform: none;\n  display: inherit;\n  font-weight: 700;\n  font-size: inherit;\n  color: inherit !important;\n  font-style: normal !important;\n  background: transparent;\n  padding: 0;\n}\n\n.tmpl-hh-content p:first-child b,\n.tmpl-hh-content p:first-child strong {\n  margin-top: 0 !important;\n}\n\n.tmpl-hh-content p:last-child {\n  margin-bottom: 0 !important;\n}\n\n.tmpl-hh-content .l-paddings {\n  padding: 0;\n}\n\n@media (max-width: 1019px) {\n  .tmpl-hh-wrapper {\n    max-width: 610px;\n  }\n}\n\n.tmpl-hh-header__img-inner {\n  position: relative;\n  overflow: hidden;\n}\n\n.tmpl-hh-header__img-inner::before {\n  content: \"\";\n  display: block;\n  width: 100%;\n  padding-top: 28.9855072464%;\n}\n\n.tmpl-hh-header__img {\n  position: absolute;\n  top: -1px;\n  left: -1px;\n  width: calc(100% + 2px);\n  height: calc(100% + 2px);\n  object-fit: cover;\n}\n\n.tmpl-hh-header__logo {\n  position: absolute;\n  z-index: 2;\n  top: 0;\n  left: 34px;\n  padding: 20px 22px 12px;\n  background: rgba(7, 9, 58, 0.7);\n}\n\n.tmpl-hh-header__logo img {\n  width: 94px;\n  height: auto;\n}\n\n.tmpl-hh-header__banner {\n  padding: 40px 30px;\n  background-color: #07093A;\n  color: #fff;\n}\n\n.tmpl-hh-header__banner-title {\n  font-size: 56px;\n  margin-bottom: 12px;\n}\n\n.tmpl-hh-header__banner-title span {\n  font-weight: 700;\n}\n\n.tmpl-hh-header__banner-text {\n  line-height: 1.375;\n  font-size: 16px;\n  padding-top: 6px;\n  border-top: 2px solid #fff;\n  max-width: 415px;\n  margin-left: auto;\n}\n\n.tmpl-hh-header__wrapper {\n  padding: 50px 30px 0;\n  display: flex;\n  flex-wrap: wrap;\n}\n\n.tmpl-hh-header__about {\n  padding: 0 16px 0 20px;\n  flex-basis: 66%;\n}\n\n.tmpl-hh-header__about-title {\n  margin-bottom: 16px;\n  font-size: 48px;\n  font-weight: 700;\n  color: #5962FE;\n}\n\n.tmpl-hh-header__about-text {\n  line-height: 1.42;\n  font-size: 14px;\n  color: #070814;\n}\n\n.tmpl-hh-header__about-text p {\n  margin-bottom: 16px;\n}\n\n.tmpl-hh-header__about-text p:last-child {\n  margin-bottom: 0;\n}\n\n.tmpl-hh-header__about-text span {\n  font-weight: 700;\n}\n\n.tmpl-hh-header__statistics {\n  flex-basis: 34%;\n  align-self: flex-end;\n  padding: 20px 0;\n  border-left: 2px solid #5962FE;\n  color: #5962FE;\n  display: grid;\n  grid-template-columns: repeat(1, 1fr);\n  gap: 50px;\n}\n\n.tmpl-hh-header__statistics-item {\n  padding: 0 20px;\n  display: flex;\n  flex-direction: column;\n}\n\n.tmpl-hh-header__statistics-number {\n  font-size: 48px;\n  font-weight: 700;\n  line-height: 0.9;\n}\n\n.tmpl-hh-header__statistics-text {\n  line-height: 1.42;\n  font-size: 14px;\n}\n\n.tmpl-hh-header__items {\n  margin-top: 43px;\n  flex-basis: 100%;\n  background-color: #5962FE;\n  padding: 8px 0;\n  display: grid;\n  grid-template-columns: repeat(3, 1fr);\n  gap: 16px;\n  color: #fff;\n}\n\n.tmpl-hh-header__item {\n  padding: 20px;\n  display: flex;\n  flex-direction: column;\n  gap: 20px;\n}\n\n.tmpl-hh-header__item-text {\n  line-height: 1.42;\n  font-size: 14px;\n}\n\n@media (max-width: 1019px) {\n  .tmpl-hh-header__items {\n    gap: 0;\n  }\n  .tmpl-hh-header__items img {\n    max-width: 100%;\n  }\n}\n\n@media (max-width: 699px) {\n  .tmpl-hh-header__img-inner::before {\n    padding-top: 68.9655172414%;\n  }\n  .tmpl-hh-header__logo {\n    padding: 12px 16px 4px;\n    left: 10px;\n  }\n  .tmpl-hh-header__logo img {\n    width: 64px;\n  }\n  .tmpl-hh-header__banner {\n    padding: 32px 10px;\n  }\n  .tmpl-hh-header__banner-title {\n    font-size: 32px;\n    margin-bottom: 16px;\n  }\n  .tmpl-hh-header__banner-text {\n    max-width: 100%;\n    line-height: 1.28;\n    font-size: 14px;\n  }\n  .tmpl-hh-header__wrapper {\n    padding: 28px 10px 40px;\n  }\n  .tmpl-hh-header__about {\n    padding: 0;\n    flex-basis: 100%;\n  }\n  .tmpl-hh-header__about-title {\n    font-size: 32px;\n    margin-bottom: 12px;\n  }\n  .tmpl-hh-header__statistics {\n    order: 3;\n    flex-basis: 100%;\n    margin-top: 24px;\n    padding: 9px 0;\n    gap: 20px;\n  }\n  .tmpl-hh-header__statistics-item {\n    padding: 0 16px;\n    gap: 4px;\n  }\n  .tmpl-hh-header__statistics-number {\n    font-size: 32px;\n  }\n  .tmpl-hh-header__items {\n    margin-top: 24px;\n    padding: 24px 0;\n    grid-template-columns: repeat(1, 1fr);\n    gap: 28px;\n  }\n  .tmpl-hh-header__item {\n    padding: 0 10px;\n    gap: 10px;\n  }\n  .tmpl-hh-header__item img {\n    max-width: 159px;\n  }\n  .tmpl-hh-header__item-text br {\n    display: none;\n  }\n}\n\n.tmpl-hh-content {\n  padding: 50px 30px 40px;\n}\n\n.tmpl-hh-content ul,\n.tmpl-hh-content ol {\n  margin-left: 0;\n  margin-bottom: 10px;\n}\n\n.tmpl-hh-content ul li,\n.tmpl-hh-content ol li {\n  list-style: none;\n  position: relative;\n  padding-left: 30px;\n  color: #000;\n  line-height: 1.5;\n  font-size: 14px;\n  letter-spacing: 0.16px;\n}\n\n@media (max-width: 699px) {\n  .tmpl-hh-content ul li,\n  .tmpl-hh-content ol li {\n    padding-left: 26px;\n  }\n}\n\n.tmpl-hh-content ul li:not(:last-child),\n.tmpl-hh-content ol li:not(:last-child) {\n  margin-bottom: 8px;\n}\n\n.tmpl-hh-content ul li::before,\n.tmpl-hh-content ol li::before {\n  position: absolute;\n  top: 8px;\n  left: 10px;\n  content: \"\";\n  width: 4px;\n  height: 4px;\n  border-radius: 50%;\n  background: #000;\n}\n\n@media (max-width: 699px) {\n  .tmpl-hh-content {\n    padding: 40px 10px;\n  }\n}\n\n.tmpl-hh-footer {\n  background: rgba(89, 98, 254, 0.07);\n  padding: 40px 30px;\n}\n\n.tmpl-hh-footer__title {\n  margin-bottom: 40px;\n  text-transform: uppercase;\n  line-height: 1.36;\n  font-size: 20px;\n}\n\n.tmpl-hh-footer__wrapper {\n  display: grid;\n  gap: 16px;\n  grid-template-columns: repeat(2, 1fr);\n  margin-bottom: 20px;\n}\n\n.tmpl-hh-footer__item {\n  padding: 16px 12px;\n  border-radius: 8px;\n  border: 1px solid #5962FE;\n  display: flex;\n  align-items: center;\n  gap: 10px;\n}\n\n.tmpl-hh-footer__item img {\n  width: 44px;\n  height: auto;\n  flex-shrink: 0;\n}\n\n.tmpl-hh-footer__item-text {\n  line-height: 1.42;\n  font-size: 14px;\n}\n\n.tmpl-hh-footer__item--big {\n  padding: 16px;\n  background-color: #5962FE;\n  border: 0;\n  gap: 14px;\n}\n\n.tmpl-hh-footer__item--big .tmpl-hh-footer__item-text {\n  padding-top: 9px;\n  color: #fff;\n  font-size: 16px;\n  line-height: 1.375;\n}\n\n@media (max-width: 699px) {\n  .tmpl-hh-footer {\n    padding: 40px 10px;\n  }\n  .tmpl-hh-footer__title {\n    margin-bottom: 24px;\n  }\n  .tmpl-hh-footer__wrapper {\n    grid-template-columns: repeat(1, 1fr);\n    gap: 8px;\n    margin-bottom: 8px;\n  }\n  .tmpl-hh-footer__item--big {\n    padding: 16px 12px;\n    align-items: flex-start;\n  }\n  .tmpl-hh-footer__item--big .tmpl-hh-footer__item-text {\n    padding-top: 0;\n  }\n}\n\n.tmpl-hh-footer__caption {\n  text-align: center;\n  font-size: 10px;\n  margin: 20px 20px 0;\n}\n</style>\n\n<div class=\"tmpl-hh-wrapper\">\n    <div class=\"tmpl-hh-header\">\n        <div class=\"tmpl-hh-header__img-inner\">\n            <div class=\"tmpl-hh-header__logo\">\n                <img src=\"https://hhcdn.ru/ichameleon/424468.svg\" alt=\"\">\n            </div>\n            <picture>\n                <source srcset=\"https://hhcdn.ru/ichameleon/310150.jpg\" media=\"(max-width: 699px)\"></source>\n                <img src=\"https://hhcdn.ru/ichameleon/310151.jpg\" class=\"tmpl-hh-header__img\" alt=\"\">\n            </picture>\n        </div>\n        <div class=\"tmpl-hh-header__banner\">\n            <div class=\"tmpl-hh-header__banner-title\">\n                <span>EGAR</span>\n            </div>\n            <div class=\"tmpl-hh-header__banner-text\">\n                Мы упрощаем работу финансового сектора, делая банковские продукты более доступными и удобными для людей, а также создаем передовые ИТ-решения для цифровизации промышленности.\n            </div>\n        </div>\n        <div class=\"tmpl-hh-header__wrapper\">\n            <div class=\"tmpl-hh-header__about\">\n                <div class=\"tmpl-hh-header__about-title\">\n                    О нас\n                </div>\n                <div class=\"tmpl-hh-header__about-text\">\n                    <p><span>EGAR</span> — российская компания, работающая в сфере\n                        разработки программного обеспечения, системной интеграции и оказания комплексных ИТ-услуг.\n                        Мы упрощаем работу финансового сектора, делая банковские продукты более доступными и удобными для людей, а также создаем передовые ИТ-решения для цифровизации промышленности.</p>\n                    <p><span>Наша команда</span> не только работает <span>над собственным программным обеспечением\n                            EGAR,</span> но и <span>создает продукты для банков из ТОП-10,</span> ведущих\n                        <span>страховых компаний и брокерских организаций.</span> Среди наших клиентов: НРД,\n                        Альфа-Банк, Ренессанс Кредит Банк, МКБ, Росгосстрах, Открытие Брокер, Алроса, X5 Retail Group\n                        и многие другие.</p>\n                    <p><span>Хочешь прокачать свои навыки и решать интересные технические задачи в команде\n                            профессионалов? Присоединяйся к нам!</span></p>\n                </div>\n            </div>\n            <div class=\"tmpl-hh-header__statistics\">\n                <div class=\"tmpl-hh-header__statistics-item\">\n                    <div class=\"tmpl-hh-header__statistics-number\">\n                        9\n                    </div>\n                    <div class=\"tmpl-hh-header__statistics-text\">\n                        региональных офисов\n                    </div>\n                </div>\n                <div class=\"tmpl-hh-header__statistics-item\">\n                    <div class=\"tmpl-hh-header__statistics-number\">\n                        25\n                    </div>\n                    <div class=\"tmpl-hh-header__statistics-text\">\n                        лет на рынке\n                    </div>\n                </div>\n                <div class=\"tmpl-hh-header__statistics-item\">\n                    <div class=\"tmpl-hh-header__statistics-number\">\n                        700+\n                    </div>\n                    <div class=\"tmpl-hh-header__statistics-text\">\n                        сотрудников\n                    </div>\n                </div>\n            </div>\n            <div class=\"tmpl-hh-header__items\">\n                <div class=\"tmpl-hh-header__item\">\n                    <img src=\"https://hhcdn.ru/ichameleon/310144.svg\" alt=\"\">\n                    <div class=\"tmpl-hh-header__item-text\">\n                        Наши клиенты — ведущие компании рынка РФ\n                    </div>\n                </div>\n                <div class=\"tmpl-hh-header__item\">\n                    <img src=\"https://hhcdn.ru/ichameleon/310140.svg\" alt=\"\">\n                    <div class=\"tmpl-hh-header__item-text\">\n                        Мы являемся резидентами «Сколково»\n                    </div>\n                </div>\n                <div class=\"tmpl-hh-header__item\">\n                    <img src=\"https://hhcdn.ru/ichameleon/310148.svg\" alt=\"\">\n                    <div class=\"tmpl-hh-header__item-text\">\n                        Мы — <br> аккредитованная <br> ИТ-компания\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>    <div class=\"tmpl-hh-content\">\n        <p>Приглашаем в команду <strong>Разработчик .NET Middle</strong></p> <p>Проект: финтех.</p> <p>Команда разработки и поддержки Fintech решений (10-20 человек)</p> <p>Команда Авторизации, Аутентификации на базе KeyCloak (4-5 человек)</p> <p> </p> <h2><strong>ЗАДАЧИ:</strong></h2> <ul> <li>Проектирование безопасных, отказоустойчивых сервисов, соответствующих ФТ и НФТ;</li> <li>Разработка функционала, интеграций;</li> <li>Разработка API для потребителя (мобильное приложение, микросервисы);</li> <li>Управление качеством решения;</li> <li>Покрытие тестами;</li> <li>Внедрение механизмов логирования, журналирования, мониторинга;</li> <li>Централизованная обработка ошибок, формализованные ответы от сервиса;</li> <li>Участие в межкомандных взаимодействиях;</li> <li>Консультация коллег;</li> <li>Участие в проверке и отладке реализованного функционала.</li> </ul> <h2><strong>МЫ ОЖИДАЕМ ОТ ВАС:</strong></h2> <ul> <li>Опыт от 2-х лет;</li> <li>Отличное знание .Net, REST;</li> <li>Опыт работы с gRPC;</li> <li>Опыт интеграций с брокерами (kafka);</li> <li>Навык работы с Redis;</li> <li>Опыт работы с SQL и noSQL БД (postgreSQL, mongoDB in-memory, mongoDB);</li> <li>Опыт работы с распределенными транзакциями;</li> <li>Опыт token валидации, работы с claims;</li> <li>Опыт работы с JSON schema (валидация данных на соответствие модели);</li> <li>Опыт качественного unit и интеграционного тестирования;</li> <li>Опыт наставничества и code-review;</li> <li>Умение работать как по четко составленной документации (алгоритмам), так и в ситуациях, где нужно самостоятельно формировать требования или уточнять бизнес-логику;</li> <li>Умение понимать и принимать чужую точку зрения, адекватно реагировать на критику в процессе ревью.</li> </ul> <p>Будет плюсом:</p> <ul> <li>опыт работы с Zeebe API (интеграция с Camunda 8 и выше);</li> </ul> <ul> <li>опыт разработки BFF для мобильных приложений;</li> </ul> <ul> <li>опыт работы с Keycloak или IAM;</li> </ul> <ul> <li>опыт разработки высоконагруженных систем и финтех-приложений;</li> </ul> <ul> <li>знание принципов горизонтального масштабирования сервисов.</li> </ul> <h2><strong>МЫ ПРЕДЛАГАЕМ:</strong></h2> <ul> <li>Официальное оформление <strong>в стабильную и динамично развивающуюся ИТ компанию EGAR</strong>;</li> <li>Удаленный формат работы;</li> <li>График работы с 9:00 до 18:00;</li> <li>Конкурентный уровень заработной платы, который мы готовы обсудить на собеседовании;</li> <li>Полноценную проектную команду с четким разделением ролей;</li> <li>Оперативное решение организационных вопросов;</li> <li>Возможность профессионального роста (вертикального или горизонтального);</li> <li>Возможности обучения (курсы, сертификация);</li> <li>Бонусы по реферальной программе, за успешную рекомендацию;</li> <li>Дополнительно 4 дня в год по болезни без больничного листа (sick day);</li> <li>Расширенный пакет ДМС, включая стоматологию;</li> <li>Сохранение баланса между работой и личной жизнью.</li> </ul></div>    <div class=\"tmpl-hh-footer\">\n      <div class=\"tmpl-hh-footer__title\">\n        преимущества работы у нас\n      </div>\n      <div class=\"tmpl-hh-footer__wrapper\">\n        <div class=\"tmpl-hh-footer__item\">\n          <img src=\"https://hhcdn.ru/ichameleon/310141.svg\" alt=\"\">\n          <div class=\"tmpl-hh-footer__item-text\">\n            Возможность удаленного или гибридного формата работы\n            из любого города РФ и РБ\n          </div>\n        </div>\n        <div class=\"tmpl-hh-footer__item\">\n          <img src=\"https://hhcdn.ru/ichameleon/310139.svg\" alt=\"\">\n          <div class=\"tmpl-hh-footer__item-text\">\n            Программа ДМС со стоматологией и обслуживание в лучших клиниках города. Страхование от критических заболеваний\n          </div>\n        </div>\n        <div class=\"tmpl-hh-footer__item\">\n          <img src=\"https://hhcdn.ru/ichameleon/310143.svg\" alt=\"\">\n          <div class=\"tmpl-hh-footer__item-text\">\n            Программы обучения и повышения квалификации, возможность внутренней ротации\n          </div>\n        </div>\n        <div class=\"tmpl-hh-footer__item\">\n          <img src=\"https://hhcdn.ru/ichameleon/310145.svg\" alt=\"\">\n          <div class=\"tmpl-hh-footer__item-text\">\n            4 дополнительных дня отсутствия на рабочем месте в год\n          </div>\n        </div>\n        <div class=\"tmpl-hh-footer__item\">\n          <img src=\"https://hhcdn.ru/ichameleon/310146.svg\" alt=\"\">\n          <div class=\"tmpl-hh-footer__item-text\">\n            Регулярная индексация заработной платы\n          </div>\n        </div>\n        <div class=\"tmpl-hh-footer__item\">\n          <img src=\"https://hhcdn.ru/ichameleon/310147.svg\" alt=\"\">\n          <div class=\"tmpl-hh-footer__item-text\">\n            Открытость топ-менеджмента\n          </div>\n        </div>\n      </div>\n      <div class=\"tmpl-hh-footer__item tmpl-hh-footer__item--big\">\n        <img src=\"https://hhcdn.ru/ichameleon/310142.svg\" alt=\"\">\n        <div class=\"tmpl-hh-footer__item-text\">\n          Компания EGAR аккредитована Минцифры: наши сотрудники\n          могут претендовать на льготы и меры господдержки, предусмотренные для ИТ-компаний.\n        </div>\n      </div>\n<p class=\"tmpl-hh-footer__caption\">Общество с ограниченной ответственностью «Егар Сервис» работает под брендом EGAR</p>\n\n    </div>\n</div>\n\n\n<script type=\"text/javascript\">  \n//\n\n(function polyfill() {\n  const relList = document.createElement(\"link\").relList;\n  if (relList && relList.supports && relList.supports(\"modulepreload\")) {\n    return;\n  }\n  for (const link of document.querySelectorAll('link[rel=\"modulepreload\"]')) {\n    processPreload(link);\n  }\n  new MutationObserver((mutations) => {\n    for (const mutation of mutations) {\n      if (mutation.type !== \"childList\") {\n        continue;\n      }\n      for (const node of mutation.addedNodes) {\n        if (node.tagName === \"LINK\" && node.rel === \"modulepreload\")\n          processPreload(node);\n      }\n    }\n  }).observe(document, { childList: true, subtree: true });\n  function getFetchOpts(script) {\n    const fetchOpts = {};\n    if (script.integrity)\n      fetchOpts.integrity = script.integrity;\n    if (script.referrerpolicy)\n      fetchOpts.referrerPolicy = script.referrerpolicy;\n    if (script.crossorigin === \"use-credentials\")\n      fetchOpts.credentials = \"include\";\n    else if (script.crossorigin === \"anonymous\")\n      fetchOpts.credentials = \"omit\";\n    else\n      fetchOpts.credentials = \"same-origin\";\n    return fetchOpts;\n  }\n  function processPreload(link) {\n    if (link.ep)\n      return;\n    link.ep = true;\n    const fetchOpts = getFetchOpts(link);\n    fetch(link.href, fetchOpts);\n  }\n})();\nconst index = \"\";\nwindow.addEventListener(\"DOMContentLoaded\", () => {\n});\n\n//\n</script>\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "REST"
+    },
+    {
+      "name": "gRPC"
+    },
+    {
+      "name": "Apache Kafka"
+    },
+    {
+      "name": "Redis"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "MongoDB"
+    },
+    {
+      "name": ".NET Core"
+    },
+    {
+      "name": "ASP.NET"
+    },
+    {
+      "name": "BFF"
+    },
+    {
+      "name": "Camunda"
+    },
+    {
+      "name": "Keycloak"
+    },
+    {
+      "name": "IAM"
+    },
+    {
+      "name": "Zeebe API"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4917",
+    "name": "EGAR",
+    "url": "https://api.hh.ru/employers/4917",
+    "alternate_url": "https://hh.ru/employer/4917",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1378261.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/7132839.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/7132840.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4917",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T13:46:39+0300",
+  "created_at": "2025-06-05T13:46:39+0300",
+  "initial_created_at": "2025-06-02T11:14:19+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121213113",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121213113",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

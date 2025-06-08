@@ -1,0 +1,142 @@
+{
+  "id": "120652564",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Технический директор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 180000,
+    "to": 250000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 180000,
+    "to": 250000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Домостроительная улица",
+    "building": "16",
+    "lat": 60.073283,
+    "lng": 30.373405,
+    "description": null,
+    "raw": "Санкт-Петербург, Домостроительная улица, 16",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <p>Работа у управляющей компании</p> <p>В двух городах Москва, Санкт-Петербург</p> <ul> <li>Организация, контроль приемки новых МКД и их последующей технической эксплуатации</li> <li>Организация и контроль персонала</li> <li>Контроль за энергопотреблением объектов</li> <li>Контроль работы подрядных организаций</li> <li>Контроль обучения персонала</li> <li>Предоставление еженедельных отчетов генеральному директору</li> <li>Контроль за исполнением регламентных сроков обслуживания оборудования</li> </ul> <p>И так далее</p> <p><strong>Требования:</strong></p> <ul> <li>Опыт работы в аналогичных должностях</li> <li>Техническое образование</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Испытательный срок 3 месяца</li> <li>Белая зарплата</li> <li>С 9 до 18</li> <li>С Пн- Пт</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "125",
+      "name": "Технический директор (CTO)"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "11912956",
+    "name": "Транс Вэй Сервис",
+    "url": "https://api.hh.ru/employers/11912956",
+    "alternate_url": "https://hh.ru/employer/11912956",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11912956",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-17T06:51:47+0300",
+  "created_at": "2025-05-17T06:51:47+0300",
+  "initial_created_at": "2025-05-17T06:51:47+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120652564",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120652564",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "FIELD_WORK",
+      "name": "Разъездной"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

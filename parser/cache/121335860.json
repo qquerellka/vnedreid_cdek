@@ -1,0 +1,146 @@
+{
+  "id": "121335860",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Backend-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <ul> <li> <p>Разработка и поддержка системы работы с искусственным интеллектом (ИИ);</p> </li> <li> <p>Решение крупных задач в высоконагруженных системах;</p> </li> <li> <p>Написание устойчивого кода, обеспечивающего надежность и отказоустойчивость системы.</p> </li> </ul> <strong>Требования:</strong> <ul> <li>Отличное знание Python и опыт работы с FastAPI;</li> <li>Уверенное владение Git (ветки, rebase, merge, squash);</li> <li>Опыт работы с брокерами сообщений (Kafka, RabbitMQ);</li> <li>Работа с S3-хранилищами (например, MinIO);</li> <li>Опыт работы с Redis;</li> <li>Знание БД MongoDB и PostgreSQL;</li> <li>Умение писать тесты с использованием PyTest.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт работы с авторизацией (JWT, access_token, refresh_token);</li> <li>Знание ML Ops (pandas, numpy, torch, pillow, opencv);</li> <li>Опыт конфигурации веб-сервера Nginx;</li> <li>Использование Docker и Docker Compose;</li> <li>Желание работать с Kubernetes (k8s);</li> <li>Опыт настройки Linux (crontab, ssh, port forwarding, firewall, user access и др.).</li> </ul> <p><strong>Условия:</strong></p> <ul> <li> <p>Конкурентный уровень заработной платы и дополнительные стимулирующие выплаты по результатам работы;</p> </li> <li> <p>Удалённый формат работы;</p> </li> <li> <p>Возможность участия в федеральных и международных проектах;</p> </li> <li> <p>Профессиональное развитие и корпоративное обучение.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "FastAPI"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "RabbitMQ"
+    },
+    {
+      "name": "Redis"
+    },
+    {
+      "name": "MongoDB"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Pytest"
+    },
+    {
+      "name": "Docker-compose"
+    },
+    {
+      "name": "Nginx"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11870604",
+    "name": "Кронослаб",
+    "url": "https://api.hh.ru/employers/11870604",
+    "alternate_url": "https://hh.ru/employer/11870604",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1403361.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7233112.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7233113.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11870604",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T13:08:05+0300",
+  "created_at": "2025-06-07T13:08:05+0300",
+  "initial_created_at": "2025-06-04T13:08:05+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121335860",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121335860",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

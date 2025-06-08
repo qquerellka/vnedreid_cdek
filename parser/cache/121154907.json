@@ -1,0 +1,135 @@
+{
+  "id": "121154907",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Аналитик ( государственный гражданский служащий аналитического отдела )",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 25000,
+    "to": 42000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 25000,
+    "to": 42000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "улица Тимирязева",
+    "building": "11",
+    "lat": 56.843683,
+    "lng": 60.639345,
+    "description": null,
+    "raw": "Екатеринбург, улица Тимирязева, 11",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>ИФНС России по Кировскому району г. Екатеринбурга</strong> приглашает на государственную гражданскую службу в свой дружный коллектив кандидатов с активной жизненной позицией, желанием работать и развиваться с перспективой карьерного роста.</p> <p><strong>Обязанности:</strong></p> <p>- формирование статистических отчетов</p> <p>- осуществление прогнозов поступления в бюджет и мониторинга поступлений по налогам и сборам</p> <p>Мы приглашаем в наш дружный коллектив начинающих специалистов, которые только окончили ВУЗ (или же учатся, но имеют за плечами средне- профессиональное образование), а также опытных работников.</p> <p>Опыт работы приветствуются, НО мы <strong>готовы обучить и помочь</strong> адаптироваться.</p> <p><strong>Требования</strong>:</p> <p>ОКОНЧЕННОЕ <strong>среднее- профессиональное образование</strong> (по направлениям подготовки- право , экономика и управление, юриспруденция, информационная безопасность и др.) или<strong> высшее образование</strong></p> <p>Рассматриваем соискателей без опыта работы.</p> <p><strong>Условия</strong>:</p> <p>стабильная заработная плата;</p> <ul> <li>карьерный рост и возможность самореализации;</li> <li>официальное трудоустройство (государственная гражданская служба);</li> <li>график 5/2: с понедельника по четверг с 09:00 до 18:00, в пятницу с 09:00 до 17:00, обед с 13:00 до 13:48;</li> <li>ненормированный служебный день;</li> <li>основной ежегодный отпуск от 33 до 43 дней (в зависимости от стажа);</li> <li>дополнительные выплаты к отпуску;</li> <li>предоставление ведомственных путевок в санатории ФНС: г. Москва, г.Сочи, г. Анапа, г. Владивосток, Крым.</li> <li>повышение квалификации за счет федеральных средств.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "10",
+      "name": "Аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5086629",
+    "name": "Инспекция Федеральной налоговой службы по Кировскому району г.Екатеринбурга",
+    "url": "https://api.hh.ru/employers/5086629",
+    "alternate_url": "https://hh.ru/employer/5086629",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5086629",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-30T09:40:39+0300",
+  "created_at": "2025-05-30T09:40:39+0300",
+  "initial_created_at": "2025-05-30T09:40:39+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121154907",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121154907",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

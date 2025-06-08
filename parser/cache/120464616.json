@@ -1,0 +1,125 @@
+{
+  "id": "120464616",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Java разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Космодамианская набережная",
+    "building": "52с5",
+    "lat": 55.73295,
+    "lng": 37.643938,
+    "description": null,
+    "raw": "Москва, Космодамианская набережная, 52с5",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": false,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы набираем команду для ООО «Центр новых финансовых сервисов», партнера Сбербанка. Вам предстоит участие в разработке уникального продукта в сфере банковских технологий - BNPL (buy now pay later) - это рассрочка при покупке товаров и услуг.<br /><br />У нас используются следующие технологии:</p> <ul> <li>Java 17 + Spring, Docker, K8S, ELK, Prometheus, Grafana</li> <li>Kafka / Artemis MQ</li> <li>Jira, Confluence, BitBucket, Nexus, Jenkins, Helm</li> <li>Linux</li> <li>PostgreSql</li> </ul> <p><strong>ЧЕМ ПРЕДСТОИТ ЗАНИМАТЬСЯ:</strong></p> <ul> <li>Разработка как нового функционала, так и развитие текущего. Автоматизация функционального тестирования. Исправление дефектов. Участие в ревью кода</li> <li>Участие в обсуждении вопросов архитектуры, развития технической стороны проекта, оценке выполнения поставленных задач</li> <li>Подготовка и настройка сред разработки</li> <li>Оценка трудоемкости задач</li> <li>Взаимодействие с коллегами из других отделов</li> <li>Документирование разрабатываемых компонентов ПО в Jira/Confluence</li> </ul> <p><strong>ЖДЕМ ОТ КАНДИДАТА:</strong></p> <ul> <li>Опыт коммерческой разработки на Java от 2-х лет</li> <li>Понимание принципов Agile</li> <li>Опыт работы с Java 8-11</li> <li>Отличное знание принципов CI/CD</li> <li>Опыт работы с Maven/ Gradle/ Jenkins/Jira/Git</li> <li>Опыт работы с Spring, Hibernate (или другие ORM технологии)</li> <li>Опыт работы с Docker / K8S</li> </ul> <p><strong>ЧТО МЫ ПРЕДЛАГАЕМ:</strong></p> <ul> <li>Оформление согласно ТК РФ</li> <li>Формат работы на выбор: удаленно/ гибрид/ офис</li> <li>Минимум бюрократии</li> <li>Много интересных задач, которые дают возможности профессионально развиваться (все процессы строим с &quot;0&quot; и сами обслуживаем разработку)</li> <li>Работу в команде проактивных профессионалов</li> <li>Участвовать и быть всегда услышанным при выборе технического решения</li> <li>Социальный пакет + ДМС</li> <li>Корпоративная программа лояльности (льготное кредитование, скидки в компаниях-партнерах).</li> </ul> <p> </p>",
+  "branded_description": "\n<style>\npicture {\n  line-height: 0;\n  display: block;\n}\n\n.hht-vacancydescription {\n  padding: 0 !important;\n}\n\n.vacancy-branded-user-content ul,\n.vacancy-branded-user-content ol {\n  margin-left: 0;\n}\n\n.vacancy-branded-user-content p {\n  margin-top: 0 !important;\n}\n\n.vacancy-branded-user-content p:first-child b,\n.vacancy-branded-user-content p:first-child strong {\n  margin-top: 0 !important;\n}\n\n.tmpl-hh-wrapper {\n  width: 100%;\n  margin: 0 auto;\n  max-width: 690px;\n  position: relative;\n  overflow: hidden;\n  font-family: \"Arial\", sans-serif;\n  font-style: normal;\n  font-weight: 400;\n  font-size: 16px;\n  color: #27292A;\n  line-height: 130%;\n}\n\n.tmpl-hh-wrapper * {\n  box-sizing: border-box;\n  padding: 0;\n  margin: 0;\n}\n\n.tmpl-hh-wrapper sup {\n  vertical-align: top;\n}\n\n.tmpl-hh-content ol li p,\n.tmpl-hh-content ul li p {\n  margin: 0 !important;\n}\n\n.tmpl-hh-content h2 {\n  display: inline-block;\n  font-weight: 400;\n  font-size: 20px;\n  line-height: 120%;\n  color: #27292A;\n  margin-top: 40px !important;\n  margin-bottom: 16px;\n}\n\n.tmpl-hh-content em {\n  font-style: normal !important;\n}\n\n.tmpl-hh-content p {\n  margin-bottom: 16px;\n}\n\n.tmpl-hh-content p h2 {\n  margin-bottom: 0;\n}\n\n.tmpl-hh-content p:first-child b,\n.tmpl-hh-content p:first-child strong {\n  margin-top: 0 !important;\n}\n\n.tmpl-hh-content p:last-child {\n  margin-bottom: 0 !important;\n}\n\n.tmpl-hh-content b, .tmpl-hh-content strong {\n  font-weight: 700;\n  font-size: inherit !important;\n  margin: 0 !important;\n  text-transform: none;\n  color: inherit !important;\n}\n\n.tmpl-hh-content .l-paddings {\n  padding: 0;\n}\n\n@media (max-width: 1019px) {\n  .tmpl-hh-wrapper {\n    max-width: 610px;\n  }\n}\n\n@media (max-width: 699px) {\n  .tmpl-hh-wrapper {\n    font-size: 15px;\n  }\n  .tmpl-hh-content h2 {\n    margin-top: 30px !important;\n    font-size: 18px;\n  }\n}\n\n.tmpl-hh-header__banner {\n  margin-bottom: 18px;\n}\n\n.tmpl-hh-header__banner img {\n  width: 100%;\n}\n\n.tmpl-hh-header__text {\n  margin-right: 15px;\n  margin-left: 15px;\n  padding: 20px 22.5px;\n  background-image: url(\"https://hhcdn.ru/ichameleon/433756.png\");\n  background-size: cover;\n  background-repeat: no-repeat;\n  background-position-y: top;\n  border-radius: 20px;\n  line-height: 130%;\n  text-align: justify;\n}\n\n.tmpl-hh-header__text span {\n  font-weight: 900;\n  color: #43CB7B;\n  letter-spacing: -0.02em;\n}\n\n@media (max-width: 699px) {\n  .tmpl-hh-header__banner {\n    margin-bottom: 15px;\n  }\n  .tmpl-hh-header__text {\n    margin: 0 10px;\n    padding: 20px;\n    border-radius: 10px;\n    text-align: start;\n    background-image: url(\"https://hhcdn.ru/ichameleon/433757.png\");\n  }\n}\n\n.tmpl-hh-content {\n  padding: 20px 32px;\n  padding-bottom: 50px;\n}\n\n.tmpl-hh-content ul,\n.tmpl-hh-content ol {\n  margin-left: 0;\n}\n\n.tmpl-hh-content ul li,\n.tmpl-hh-content ol li {\n  list-style: none;\n  position: relative;\n  padding-left: 17px;\n  color: #27292A;\n  line-height: 130%;\n  font-size: 16px;\n}\n\n.tmpl-hh-content ul li:not(:last-child),\n.tmpl-hh-content ol li:not(:last-child) {\n  margin-bottom: 6px;\n}\n\n.tmpl-hh-content ul li::before,\n.tmpl-hh-content ol li::before {\n  position: absolute;\n  top: 7px;\n  left: 1px;\n  content: \"\";\n  width: 4px;\n  height: 4px;\n  border-radius: 50%;\n  background: #27292A;\n}\n\n@media (max-width: 699px) {\n  .tmpl-hh-content {\n    padding: 40px 15px;\n    padding-top: 70px;\n  }\n  .tmpl-hh-content ul li,\n  .tmpl-hh-content ol li {\n    font-size: 15px;\n  }\n}\n\n.tmpl-hh-footer__benifits {\n  margin-bottom: 50px;\n}\n\n.tmpl-hh-footer__benifits-title {\n  margin-bottom: 24px;\n}\n\n.tmpl-hh-footer__benifits-list {\n  display: grid;\n  grid-template-columns: repeat(2, 1fr);\n  gap: 28px 90px;\n}\n\n.tmpl-hh-footer__benifits-item {\n  display: flex;\n  gap: 18px;\n  align-items: center;\n}\n\n.tmpl-hh-footer__benifits-text {\n  line-height: 120%;\n}\n\n.tmpl-hh-footer__benifits-img {\n  width: 64px;\n  height: 64px;\n  flex-shrink: 0;\n}\n\n.tmpl-hh-footer__benifits-img img {\n  width: 100%;\n  height: 100%;\n}\n\n.tmpl-hh-footer__benifits, .tmpl-hh-footer__office {\n  padding: 0 32px;\n}\n\n.tmpl-hh-footer__office {\n  margin-bottom: 50px;\n}\n\n.tmpl-hh-footer__office-title {\n  margin-bottom: 24px;\n}\n\n.tmpl-hh-footer__office-list {\n  display: grid;\n  grid-template-columns: repeat(3, 1fr);\n  gap: 10px;\n}\n\n.tmpl-hh-footer__office-item img {\n  width: 100%;\n  height: 231px;\n  object-fit: cover;\n}\n\n.tmpl-hh-footer__banner img {\n  width: 100%;\n}\n\n@media (max-width: 1019px) {\n  .tmpl-hh-footer__benifits-title img {\n    width: 100%;\n  }\n  .tmpl-hh-footer__benifits-list {\n    gap: 28px 60px;\n  }\n}\n\n@media (max-width: 699px) {\n  .tmpl-hh-footer__benifits {\n    margin-bottom: 40px;\n  }\n  .tmpl-hh-footer__benifits-title {\n    padding-right: 25px;\n    margin-bottom: 20px;\n  }\n  .tmpl-hh-footer__benifits-title img {\n    width: auto;\n  }\n  .tmpl-hh-footer__benifits-list {\n    grid-template-columns: 1fr;\n    gap: 20px;\n    margin-bottom: 40px;\n  }\n  .tmpl-hh-footer__benifits-img {\n    width: 54px;\n    height: 54px;\n  }\n  .tmpl-hh-footer__benifits-text br {\n    display: none;\n  }\n  .tmpl-hh-footer__benifits, .tmpl-hh-footer__office {\n    padding: 0 15px;\n  }\n  .tmpl-hh-footer__office {\n    margin-bottom: 40px;\n  }\n  .tmpl-hh-footer__office-title {\n    margin-bottom: 20px;\n  }\n  .tmpl-hh-footer__office-list {\n    display: grid;\n    grid-template-columns: repeat(2, 1fr);\n    gap: 5px;\n  }\n}\n\n@media (max-width: 500px) {\n  .tmpl-hh-footer__office-item img {\n    height: 148px;\n  }\n}\n</style>\n\n<div class=\"tmpl-hh-wrapper\">\n    <div class=\"tmpl-hh-header\">\n        <div class=\"tmpl-hh-header__banner\">\n            <picture>\n                <source srcset=\"https://hhcdn.ru/ichameleon/433752.jpg\" media=\"(max-width: 500px)\"></source>\n                <img src=\"https://hhcdn.ru/file/18030917.png\" alt=\"\">\n            </picture>\n        </div>\n        <div class=\"tmpl-hh-header__text\">\n            <span>ООО «Центр новых финансовых сервисов»</span> — дочерняя компания Сбербанка, занимающаяся разработкой уникального продукта в сфере банковских технологий — BNPL (buy now pay later). \n            <br><span>«Плати частями»</span> — это высокотехнологичный сервис по приобретению товаров и услуг, который позволяет клиентам совершать покупки в рассрочку, разбивая сумму на равные части в течение заданного периода.\n        </div>\n    </div>    <div class=\"tmpl-hh-content\">\n      <div class=\"l-paddings b-vacancy-desc\">\n        <div class=\"vacancy-branded-user-content\" itemprop=\"description\" data-qa=\"vacancy-description\">\n          \n        </div>\n      </div>\n      <p>Мы набираем команду для ООО «Центр новых финансовых сервисов», партнера Сбербанка. Вам предстоит участие в разработке уникального продукта в сфере банковских технологий - BNPL (buy now pay later) - это рассрочка при покупке товаров и услуг.<br><br>У нас используются следующие технологии:</p> <ul> <li>Java 17 + Spring, Docker, K8S, ELK, Prometheus, Grafana</li> <li>Kafka / Artemis MQ</li> <li>Jira, Confluence, BitBucket, Nexus, Jenkins, Helm</li> <li>Linux</li> <li>PostgreSql</li> </ul> <p><strong>ЧЕМ ПРЕДСТОИТ ЗАНИМАТЬСЯ:</strong></p> <ul> <li>Разработка как нового функционала, так и развитие текущего. Автоматизация функционального тестирования. Исправление дефектов. Участие в ревью кода</li> <li>Участие в обсуждении вопросов архитектуры, развития технической стороны проекта, оценке выполнения поставленных задач</li> <li>Подготовка и настройка сред разработки</li> <li>Оценка трудоемкости задач</li> <li>Взаимодействие с коллегами из других отделов</li> <li>Документирование разрабатываемых компонентов ПО в Jira/Confluence</li> </ul> <p><strong>ЖДЕМ ОТ КАНДИДАТА:</strong></p> <ul> <li>Опыт коммерческой разработки на Java от 2-х лет</li> <li>Понимание принципов Agile</li> <li>Опыт работы с Java 8-11</li> <li>Отличное знание принципов CI/CD</li> <li>Опыт работы с Maven/ Gradle/ Jenkins/Jira/Git</li> <li>Опыт работы с Spring, Hibernate (или другие ORM технологии)</li> <li>Опыт работы с Docker / K8S</li> </ul> <p><strong>ЧТО МЫ ПРЕДЛАГАЕМ:</strong></p> <ul> <li>Оформление согласно ТК РФ</li> <li>Формат работы на выбор: удаленно/ гибрид/ офис</li> <li>Минимум бюрократии</li> <li>Много интересных задач, которые дают возможности профессионально развиваться (все процессы строим с \"0\" и сами обслуживаем разработку)</li> <li>Работу в команде проактивных профессионалов</li> <li>Участвовать и быть всегда услышанным при выборе технического решения</li> <li>Социальный пакет + ДМС</li> <li>Корпоративная программа лояльности (льготное кредитование, скидки в компаниях-партнерах).</li> </ul> <p> </p></div>\n    <div class=\"tmpl-hh-footer\">\n      <div class=\"tmpl-hh-footer__benifits\">\n        <div class=\"tmpl-hh-footer__benifits-title\">\n          <picture>\n            <source srcset=\"https://hhcdn.ru/ichameleon/418428.svg\" media=\"(max-width: 600px)\"></source>\n            <img src=\"https://hhcdn.ru/ichameleon/433758.svg\" alt=\"\">\n          </picture>\n        </div>\n        <div class=\"tmpl-hh-footer__benifits-list\">\n          <div class=\"tmpl-hh-footer__benifits-item\">\n            <div class=\"tmpl-hh-footer__benifits-img\">\n              <img src=\"https://hhcdn.ru/ichameleon/418430.svg\" alt=\"\">\n            </div>\n            <div class=\"tmpl-hh-footer__benifits-text\">\n              Конкурентная, своевременная заработная плата\n            </div>\n          </div>\n          <div class=\"tmpl-hh-footer__benifits-item\">\n            <div class=\"tmpl-hh-footer__benifits-img\">\n              <img src=\"https://hhcdn.ru/ichameleon/418431.svg\" alt=\"\">\n            </div>\n            <div class=\"tmpl-hh-footer__benifits-text\">\n              Социальный пакет + ДМС с первого дня\n            </div>\n          </div>\n          <div class=\"tmpl-hh-footer__benifits-item\">\n            <div class=\"tmpl-hh-footer__benifits-img\">\n              <img src=\"https://hhcdn.ru/ichameleon/418432.svg\" alt=\"\">\n            </div>\n            <div class=\"tmpl-hh-footer__benifits-text\">\n              Современный стек и технологии\n            </div>\n          </div>\n          <div class=\"tmpl-hh-footer__benifits-item\">\n            <div class=\"tmpl-hh-footer__benifits-img\">\n              <img src=\"https://hhcdn.ru/ichameleon/418433.svg\" alt=\"\">\n            </div>\n            <div class=\"tmpl-hh-footer__benifits-text\">\n              Регулярное обучение и развитие\n            </div>\n          </div>\n          <div class=\"tmpl-hh-footer__benifits-item\">\n            <div class=\"tmpl-hh-footer__benifits-img\">\n              <img src=\"https://hhcdn.ru/ichameleon/418434.svg\" alt=\"\">\n            </div>\n            <div class=\"tmpl-hh-footer__benifits-text\">\n              Крутой <br>инновационный <br>проект\n            </div>\n          </div>\n          <div class=\"tmpl-hh-footer__benifits-item\">\n            <div class=\"tmpl-hh-footer__benifits-img\">\n              <img src=\"https://hhcdn.ru/ichameleon/418435.svg\" alt=\"\">\n            </div>\n            <div class=\"tmpl-hh-footer__benifits-text\">\n              Сильная команда профессионалов\n            </div>\n          </div>\n          <div class=\"tmpl-hh-footer__benifits-item\">\n            <div class=\"tmpl-hh-footer__benifits-img\">\n              <img src=\"https://hhcdn.ru/ichameleon/418436.svg\" alt=\"\">\n            </div>\n            <div class=\"tmpl-hh-footer__benifits-text\">\n              Поддержка <br>инициативы и идей сотрудников\n            </div>\n          </div>\n          <div class=\"tmpl-hh-footer__benifits-item\">\n            <div class=\"tmpl-hh-footer__benifits-img\">\n              <img src=\"https://hhcdn.ru/ichameleon/418437.svg\" alt=\"\">\n            </div>\n            <div class=\"tmpl-hh-footer__benifits-text\">\n              Непрерывное улучшение деятельности, процессов\n            </div>\n          </div>\n        </div>\n      </div>\n    \n      <div class=\"tmpl-hh-footer__office\">\n        <div class=\"tmpl-hh-footer__office-title\">\n          <picture>\n            <source srcset=\"https://hhcdn.ru/ichameleon/433760.svg\" media=\"(max-width: 600px)\"></source>\n            <img src=\"https://hhcdn.ru/ichameleon/433759.svg\" alt=\"\">\n          </picture>\n        </div>\n        <div class=\"tmpl-hh-footer__office-list\">\n          <div class=\"tmpl-hh-footer__office-item\">\n            <picture>\n              <source srcset=\"https://hhcdn.ru/ichameleon/418444.jpg\" media=\"(max-width: 500px)\"></source>\n              <img src=\"https://hhcdn.ru/ichameleon/418445.jpg\" alt=\"\">\n            </picture>\n          </div>\n          <div class=\"tmpl-hh-footer__office-item\">\n            <picture>\n              <source srcset=\"https://hhcdn.ru/ichameleon/418448.jpg\" media=\"(max-width: 500px)\"></source>\n              <img src=\"https://hhcdn.ru/ichameleon/418449.jpg\" alt=\"\">\n            </picture>\n          </div>\n          <div class=\"tmpl-hh-footer__office-item\">\n            <picture>\n              <source srcset=\"https://hhcdn.ru/ichameleon/418450.jpg\" media=\"(max-width: 500px)\"></source>\n              <img src=\"https://hhcdn.ru/ichameleon/418451.jpg\" alt=\"\">\n            </picture>\n          </div>\n          <div class=\"tmpl-hh-footer__office-item\">\n            <picture>\n              <source srcset=\"https://hhcdn.ru/ichameleon/418452.jpg\" media=\"(max-width: 500px)\"></source>\n              <img src=\"https://hhcdn.ru/ichameleon/418453.jpg\" alt=\"\">\n            </picture>\n          </div>\n          <div class=\"tmpl-hh-footer__office-item\">\n            <picture>\n              <source srcset=\"https://hhcdn.ru/ichameleon/418454.jpg\" media=\"(max-width: 500px)\"></source>\n              <img src=\"https://hhcdn.ru/ichameleon/418455.jpg\" alt=\"\">\n            </picture>\n          </div>\n          <div class=\"tmpl-hh-footer__office-item\">\n            <picture>\n              <source srcset=\"https://hhcdn.ru/ichameleon/418456.jpg\" media=\"(max-width: 500px)\"></source>\n              <img src=\"https://hhcdn.ru/ichameleon/418457.jpg\" alt=\"\">\n            </picture>\n          </div>\n        </div>\n      </div>\n    \n      <div class=\"tmpl-hh-footer__banner\">\n        <picture>\n          <source srcset=\"https://hhcdn.ru/ichameleon/433754.jpg\" media=\"(max-width: 500px)\"></source>\n          <img src=\"https://hhcdn.ru/file/18030918.png\" alt=\"\">\n        </picture>\n      </div>\n    </div>    \n</div>\n\n<script type=\"text/javascript\">  \n//\n\n(function polyfill() {\n  const relList = document.createElement(\"link\").relList;\n  if (relList && relList.supports && relList.supports(\"modulepreload\")) {\n    return;\n  }\n  for (const link of document.querySelectorAll('link[rel=\"modulepreload\"]')) {\n    processPreload(link);\n  }\n  new MutationObserver((mutations) => {\n    for (const mutation of mutations) {\n      if (mutation.type !== \"childList\") {\n        continue;\n      }\n      for (const node of mutation.addedNodes) {\n        if (node.tagName === \"LINK\" && node.rel === \"modulepreload\")\n          processPreload(node);\n      }\n    }\n  }).observe(document, { childList: true, subtree: true });\n  function getFetchOpts(link) {\n    const fetchOpts = {};\n    if (link.integrity)\n      fetchOpts.integrity = link.integrity;\n    if (link.referrerPolicy)\n      fetchOpts.referrerPolicy = link.referrerPolicy;\n    if (link.crossOrigin === \"use-credentials\")\n      fetchOpts.credentials = \"include\";\n    else if (link.crossOrigin === \"anonymous\")\n      fetchOpts.credentials = \"omit\";\n    else\n      fetchOpts.credentials = \"same-origin\";\n    return fetchOpts;\n  }\n  function processPreload(link) {\n    if (link.ep)\n      return;\n    link.ep = true;\n    const fetchOpts = getFetchOpts(link);\n    fetch(link.href, fetchOpts);\n  }\n})();\nconst index = \"\";\nwindow.addEventListener(\"DOMContentLoaded\", () => {\n});\n\n//\n</script>\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9475078",
+    "name": "Центр Новых Финансовых Сервисов",
+    "url": "https://api.hh.ru/employers/9475078",
+    "alternate_url": "https://hh.ru/employer/9475078",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1153365.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6233918.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6233919.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9475078",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-13T11:53:38+0300",
+  "created_at": "2025-05-13T11:53:38+0300",
+  "initial_created_at": "2025-05-13T11:53:38+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120464616",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120464616",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

@@ -1,0 +1,186 @@
+{
+  "id": "117246175",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер по тестированию ПО",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "улица Радио",
+    "building": "24к1",
+    "lat": 55.761831,
+    "lng": 37.683221,
+    "description": null,
+    "raw": "Москва, улица Радио, 24к1",
+    "metro": {
+      "station_name": "Бауманская",
+      "line_name": "Арбатско-Покровская",
+      "station_id": "3.17",
+      "line_id": "3",
+      "lat": 55.772405,
+      "lng": 37.67904
+    },
+    "metro_stations": [
+      {
+        "station_name": "Бауманская",
+        "line_name": "Арбатско-Покровская",
+        "station_id": "3.17",
+        "line_id": "3",
+        "lat": 55.772405,
+        "lng": 37.67904
+      },
+      {
+        "station_name": "Курская",
+        "line_name": "Арбатско-Покровская",
+        "station_id": "3.70",
+        "line_id": "3",
+        "lat": 55.758564,
+        "lng": 37.659039
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>КРАТКИЙ ЭКСКУРС ПО НАШЕЙ РАБОТЕ:</strong></p> <p>Мы занимаемся реализацией важных и крупных проектов в рамках программы <strong>Smart City</strong> (&quot;Умный город&quot;), направление - <strong>&quot;Умный городской пассажирский транспорт&quot;.</strong></p> <p><strong>Наш проект </strong>- система, которая повышает удобство и безопасность как водителя так и пассажиров. Она включает - интеллектуальные транспортные системы, мобильные приложения, автоматизированные системы оплаты и видеонаблюдение. Подсчет пассажиров оптимизирует маршруты, а распознавание усталости водителя помогает предотвращать аварии.</p> <p><strong>Наша IT команда</strong> - более 150 сотрудников, это JS, C++, Android, Golang-разработчики, тестировщики, автотестировщики (Python), DevOps-специалисты, сервисные инженеры, аналитики, технические писатели, менеджеры и руководители проектов.</p> <p><em><strong>Узнай больше</strong></em> по ссылке https://saratov.hh.ru/article/30292?hash=bddc5d8d61364b156773bba273eb863c&amp;hhtmFrom=article_30292</p> <p><strong>На данный момент мы расширяем команду и в поиске инженера по тестированию.</strong></p> <p><strong>Обязанности:</strong></p> <ul> <li>Подготовка тестовой документации (тест-планы, тест-кейсы, комплекты тестов, методики испытаний для ПМИ и т.п.)</li> <li>Проведение тестирования: приёмочного, функционального, регрессионного, интеграционного, нагрузочного и т.д.</li> <li>Подготовка отчётности и заключений по итогу тестирования, формирование баг-репортов</li> <li>Участие в приёмо-сдаточных мероприятиях, чаще всего в роли демонстрирующего функционал</li> <li>Помощь сотрудникам технической поддержки по проблемам от пользователей</li> <li>Участие в командных мероприятиях (стендап дейли митинг, ретроспектива, демо, груминги, совещания с командой инженеров по автоматизации тестирования и т.п.)</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Опыт тестирования от 2 лет (желательно backend приложений)</li> <li>Опыт проведения функционального, интеграционного, нагрузочного тестирования</li> <li>Опыт работы <strong>на Linux</strong></li> <li>Опыт ведения тестовой документации (тест-план, тест-кейсы, тестовые наборы, чек-листы, оформление bug-report’ов, )</li> <li>Опыт работы с Postman (работа с коллекциями, окружениями, переменными, писать тесты)</li> <li>Опыт работы с БД (умение работать с вложенными запросами, WITH, AS, JOIN, работа с преобразованием времени в запросах (interval, to_chair)</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт работы с баг-трекинговыми системами (Jira, YT, Redmine и т.п.)</li> <li>Опыт работы с системами контроля версий</li> <li>Опыт работы с Swagger или OpenAPI, или их эквивалентом</li> <li>Опыт написание bash скриптов</li> <li>Опыт работы с брокером сообщений (kafka)</li> <li>Опыт участия в приёмосдаточных мероприятиях</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Официальное трудоустройство с первого дня работы (оклад + квартальная премия + годовая премия)</li> <li>Гибридный график работы</li> <li>Соц. пакет (ДМС со стоматологией, фитнес, &quot;Тройка&quot; на год)</li> <li>Внешнее обучение за счет компании</li> <li>Профессиональный и карьерный рост</li> <li>Проекты муниципального и федерального масштаба в сфере инфраструктуры городского пассажирского транспорта</li> <li>Участие в профессиональных IT мероприятиях федерального уровня</li> <li> <p>Корпоративный волейбол</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Тестирование"
+    },
+    {
+      "name": "Тестирование пользовательского интерфейса"
+    },
+    {
+      "name": "Функциональное тестирование"
+    },
+    {
+      "name": "Регрессионное тестирование"
+    },
+    {
+      "name": "Модульное тестирование"
+    },
+    {
+      "name": "Нагрузочное тестирование"
+    },
+    {
+      "name": "Тестовая документация"
+    },
+    {
+      "name": "Bug Reporting"
+    },
+    {
+      "name": "Bug Tracking Systems"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Протоколы"
+    },
+    {
+      "name": "SQL"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2679520",
+    "name": "Сервисный центр Транстелематика",
+    "url": "https://api.hh.ru/employers/2679520",
+    "alternate_url": "https://hh.ru/employer/2679520",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/474700.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/2340652.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/2340653.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2679520",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-30T20:46:55+0300",
+  "created_at": "2025-05-30T20:46:55+0300",
+  "initial_created_at": "2025-02-14T09:36:51+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=117246175",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/117246175",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

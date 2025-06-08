@@ -1,0 +1,178 @@
+{
+  "id": "120615789",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер-программист c/c++",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Глиняная улица",
+    "building": "5к1",
+    "lat": 59.916019434166564,
+    "lng": 30.39228311904835,
+    "description": null,
+    "raw": "Санкт-Петербург, Глиняная улица, 5к1",
+    "metro": {
+      "station_name": "Площадь Александра Невского 1",
+      "line_name": "Невско-Василеостровская",
+      "station_id": "16.231",
+      "line_id": "16",
+      "lat": 59.924369,
+      "lng": 30.384989
+    },
+    "metro_stations": [
+      {
+        "station_name": "Площадь Александра Невского 1",
+        "line_name": "Невско-Василеостровская",
+        "station_id": "16.231",
+        "line_id": "16",
+        "lat": 59.924369,
+        "lng": 30.384989
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<div>Мы в поисках амбициозного и активного инженера-программиста c/c++ (junior+/middle), готового развиваться и принимать активное участие в интересных проектах</div> <div> </div> <div><strong>Обязанности:</strong></div> <div> </div> <div>- Разработка встраиваемого и прикладного программного обеспечения для комплексов и систем летательных аппаратов;<br />- Разработка скриптов, вспомогательного ПО для автоматизации разработки, упрощения отладки и диагностики;<br />- Написание unit-тестов;<br />- Взаимодействие со смежными отделами;<br />- Взаимодействие с соисполнителями и заказчиками.</div> <div> </div> <div><strong>Требования:</strong></div> <div> </div> <div>- Высшее техническое образование;<br />- Аналитический склад ума;<br />- Знание С/С++, STL, POSIX, Multithteading, алгоритмов и структур данных, ООП;<br />- Работа в Visual Studio Code, QT Creator;<br />- Умение разбираться в чужом коде;<br />- Умение работать с системами контроля версий (Git);<br />- Техническая грамотность, понимание архитектуры, общих принципов построения и функционирования компьютерных систем.</div> <div> </div> <div><strong>Преимущества</strong>:</div> <div><br />- Опыт работы с операционными системами Linux, QNX, Android;<br />- Опыт работы с микроконтроллерами STM32;<br />- Навыки работы с различными технологиями и языками программирования (Go, Kotlin, Python, TensorFlow, PyTorch, OpenGL, Android Studio);<br />- Желание участвовать в разработке новых технологий и концепций.</div> <div> </div> <div><strong>Условия:</strong></div> <div> </div> <div>- Интересные проекты;<br />- Широкие возможности для профессионального роста;<br />- Официальную и конкурентную заработную плату (по результатам собеседования);<br />- Премии по результатам проектной работы и личного вклада;<br />- Гибкое начало рабочего дня с 7 до 10 часов утра;<br />- Оформление по ТК РФ;<br />- ДМС после испытательного срока;<br />- Комфортный и просторный современный офис;<br />- Расположение недалеко от ст. м. Пл. Александра Невского.</div>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "C++"
+    },
+    {
+      "name": "Android Studio"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "STL"
+    },
+    {
+      "name": "POSIX"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "MS Visual Studio"
+    },
+    {
+      "name": "STM32"
+    },
+    {
+      "name": "TensorFlow"
+    },
+    {
+      "name": "Multithteading"
+    },
+    {
+      "name": "QT Creator"
+    },
+    {
+      "name": "Unit Testing"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5724585",
+    "name": "НИИВС Спектр",
+    "url": "https://api.hh.ru/employers/5724585",
+    "alternate_url": "https://hh.ru/employer/5724585",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/977417.PNG",
+      "90": "https://img.hhcdn.ru/employer-logo/5530504.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5530505.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5724585",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-16T09:16:48+0300",
+  "created_at": "2025-05-16T09:16:48+0300",
+  "initial_created_at": "2025-05-16T09:16:48+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120615789",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120615789",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

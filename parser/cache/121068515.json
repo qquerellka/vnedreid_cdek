@@ -1,0 +1,195 @@
+{
+  "id": "121068515",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Frontend-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 2000,
+    "to": null,
+    "currency": "USD",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 2000,
+    "to": null,
+    "currency": "USD",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Трубецкая улица",
+    "building": "12",
+    "lat": 55.726568,
+    "lng": 37.575378,
+    "description": null,
+    "raw": "Москва, Трубецкая улица, 12",
+    "metro": {
+      "station_name": "Лужники",
+      "line_name": "МЦК",
+      "station_id": "95.535",
+      "line_id": "95",
+      "lat": 55.720278,
+      "lng": 37.563056
+    },
+    "metro_stations": [
+      {
+        "station_name": "Лужники",
+        "line_name": "МЦК",
+        "station_id": "95.535",
+        "line_id": "95",
+        "lat": 55.720278,
+        "lng": 37.563056
+      },
+      {
+        "station_name": "Спортивная",
+        "line_name": "Сокольническая",
+        "station_id": "1.135",
+        "line_id": "1",
+        "lat": 55.722388,
+        "lng": 37.562041
+      },
+      {
+        "station_name": "Фрунзенская",
+        "line_name": "Сокольническая",
+        "station_id": "1.152",
+        "line_id": "1",
+        "lat": 55.727462,
+        "lng": 37.58022
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Veles Finance</strong> — амбициозная финтех-компания, разрабатывающая передовые решения в области управления инвестициями, автоматизации финансовых процессов и аналитики.<br /><br />Мы создаём продукты, которыми удобно и приятно пользоваться, и ищем тех, кто разделяет наши ценности — качество, прозрачность и инновации.</p> <div> </div> <p><strong>Обязанности:</strong></p> <ul> <li>Разрабатывать и развивать интерфейс клиентских приложений;</li> <li>Внедрять TypeScript в существующий проект, улучшать качество и структуру кода;</li> <li>Участвовать в архитектурных решениях и планировании новых фич;</li> <li>Писать чистый, поддерживаемый и тестируемый код;</li> <li>Ревьюить код коллег и быть ментором для менее опытных разработчиков;</li> <li>Тесно взаимодействовать с backend-командой, дизайнерами и продактами.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>4+ лет опыта во frontend-разработке;</li> <li>Отличное знание Vue3, JavaScript и TypeScript;</li> <li>Опыт работы с REST API;</li> <li>Умение писать чистый и масштабируемый код;</li> <li>Опыт в рефакторинге и улучшении существующих проектов;</li> <li>Инициативность, самостоятельность, умение доводить задачи до конца;</li> <li>Уверенное владение Git.</li> </ul> <div><strong> Будет плюсом:</strong></div> <div> </div> <ul> <li>Опыт работы в финтехе или со сложными интерфейсами;</li> <li>Знание Cypress, Jest или других инструментов тестирования;</li> <li>Опыт внедрения TypeScript в JavaScript-проекты.</li> </ul> <div><strong>Технологии и стек;</strong></div> <div> </div> <div> </div> <ul> <li>Vue 3 (Composition API);</li> <li>JavaScript;</li> <li>Vuex / Pinia;</li> <li>Vite / Webpack;</li> <li>REST API / WebSocket;</li> <li>Git, GitLab CI/CD;</li> <li>Figma (для взаимодействия с дизайнерами).</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Конкурентная заработная плата + бонусы;</li> <li>Работа над востребованным продуктом с реальными пользователями;</li> <li>Возможность влиять на архитектуру и технические решения;</li> <li>Профессиональный рост и развитие;</li> <li>Дружная, поддерживающая команда;</li> <li>Оплачиваемые обеды;</li> <li>Просторный офис в Москве м.Фрунзенская с современным оборудованием;</li> <li>Корпоративные мероприятия;</li> <li>График 5/2 в офисе;</li> <li>Оплата лицензий на ПО и обучение.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "Webpack"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "GitLab CI"
+    },
+    {
+      "name": "REST API"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5780169",
+    "name": "VELES.FINANCE",
+    "url": "https://api.hh.ru/employers/5780169",
+    "alternate_url": "https://hh.ru/employer/5780169",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/900496.png",
+      "90": "https://img.hhcdn.ru/employer-logo/4042671.png",
+      "240": "https://img.hhcdn.ru/employer-logo/4042672.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5780169",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-28T10:17:49+0300",
+  "created_at": "2025-05-28T10:17:49+0300",
+  "initial_created_at": "2025-05-28T10:17:49+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121068515",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121068515",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

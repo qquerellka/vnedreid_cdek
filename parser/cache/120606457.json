@@ -1,0 +1,160 @@
+{
+  "id": "120606457",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Python Developer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "66",
+    "name": "Нижний Новгород",
+    "url": "https://api.hh.ru/areas/66"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Нижний Новгород",
+    "street": "улица Пискунова",
+    "building": "29",
+    "lat": 56.324621,
+    "lng": 44.010128,
+    "description": null,
+    "raw": "Нижний Новгород, улица Пискунова, 29",
+    "metro": {
+      "station_name": "Горьковская",
+      "line_name": "Автозаводская",
+      "station_id": "50.278",
+      "line_id": "50",
+      "lat": 56.313933,
+      "lng": 43.99482
+    },
+    "metro_stations": [
+      {
+        "station_name": "Горьковская",
+        "line_name": "Автозаводская",
+        "station_id": "50.278",
+        "line_id": "50",
+        "lat": 56.313933,
+        "lng": 43.99482
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Компания ТИС-Центр - разработчик технологических решений и автоматизированных систем для бизнеса, приглашает в свою команду Python Developer. Если ты любишь и умеешь программировать, хочешь работать в команде профессионалов, где твоё мнение всегда будет услышано, создавать новые и востребованные продукты, то Welcome.</strong></p> <p><strong>Что мы хотим видеть:</strong></p> <ul> <li>Знание принципов ООП</li> <li>Опыт разработки на Python</li> <li>Знакомство с Django Rest Framework</li> <li>Знание принципов работы c СУБД</li> <li>Желание работать в команде и изучать новые предметные области</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Понимание принципов REST архитектуры</li> <li>Опыт оптимизации высоконагруженных приложений</li> <li>Умение работать с Git</li> </ul> <p><strong>Обязанности:</strong></p> <ul> <li>Участвовать в проектах по разработке крупных автоматизированных систем</li> <li>Разрабатывать новые и развивать существующие продукты компании</li> <li>Анализировать написанный код</li> <li>Предлагать новые и совершенствовать существующие технологии.</li> </ul> <p><strong>Что предлагаем:</strong></p> <ul> <li>Возможность работать удаленно</li> <li>Достойная заработная плата по результатам собеседования (зависит от опыта и навыков)</li> <li>ДМС</li> <li>Трудоустройство согласно ТК РФ в аккредитованной ИТ компании</li> <li>Развитие в успешной и надежной компании</li> <li>Сплоченная и сильная команда профессионалов</li> <li>Отличные возможности для профессионального роста</li> </ul> <p>Наша компания имеет многолетний опыт по проектированию, разработке и внедрению программных продуктов, а также опыт интеграции с существующими решениями заказчика.</p> <p>Десятки выполненных и успешно внедренных проектов подтверждают наши квалификацию и компетентность в области автоматизации бизнес-процессов.</p> <p>Мы предоставляем нашим сотрудникам все необходимое для самореализации и карьерного роста!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Django Framework"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "REST"
+    },
+    {
+      "name": "ООП"
+    },
+    {
+      "name": "СУБД"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "6044596",
+    "name": "Тис-Центр",
+    "url": "https://api.hh.ru/employers/6044596",
+    "alternate_url": "https://hh.ru/employer/6044596",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/947360.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/4229976.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/4229977.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6044596",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T21:42:14+0300",
+  "created_at": "2025-06-05T21:42:14+0300",
+  "initial_created_at": "2025-05-15T21:42:14+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120606457",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120606457",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

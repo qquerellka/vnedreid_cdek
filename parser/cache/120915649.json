@@ -1,0 +1,137 @@
+{
+  "id": "120915649",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Junior Python-разработчик под Web",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "88",
+    "name": "Казань",
+    "url": "https://api.hh.ru/areas/88"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "part",
+    "name": "Частичная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>Сопоставление товаров с конкурентами.</li> <li>Приведение названий товаров к стандарту.</li> <li>Сбор seo-ключей с вордстата.</li> <li>Написание стандартных тайтлов.</li> <li>Генерация описания и мета-дескрипшена через gpt, на основании собранных ключей.</li> <li>Разметка html описания, упрощенная (заголовки списки итп).</li> <li>Прописывание комплектаций.</li> <li>Выгрузка всего этого на сайт, через селениум.</li> </ul> <strong>Требования:</strong> <ul> <li>Опыт Python от 1 года.</li> <li>Умение работать с API Bitrix24.</li> <li>Навыки написания эффективных промтов для GPT.</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Работа в стабильной и развивающейся компании.</li> <li>Возможности для профессионального роста и обучения.</li> <li>Участие в интересных и значимых проектах.</li> <li>Конкурентная оплата (обсуждается индивидуально по результатам собеседования).</li> <li>Свободный график работы.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "Алгоритмы и структуры данных"
+    },
+    {
+      "name": "Оптимизация кода"
+    },
+    {
+      "name": "API"
+    },
+    {
+      "name": "Ответственность"
+    },
+    {
+      "name": "Коммуникабельность"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4264731",
+    "name": "Дентал Ферст",
+    "url": "https://api.hh.ru/employers/4264731",
+    "alternate_url": "https://hh.ru/employer/4264731",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1015161.jpeg",
+      "90": "https://img.hhcdn.ru/employer-logo/5681412.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/5681413.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4264731",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-23T15:32:55+0300",
+  "created_at": "2025-05-23T15:32:55+0300",
+  "initial_created_at": "2025-05-23T15:32:55+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120915649",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120915649",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "PART",
+    "name": "Частичная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FLEXIBLE",
+      "name": "Свободный"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "FLEXIBLE",
+      "name": "По договорённости"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,198 @@
+{
+  "id": "120781823",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Бизнес-аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 120000,
+    "to": 175000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 120000,
+    "to": 175000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Свердловская набережная",
+    "building": "44Я",
+    "lat": 59.961674,
+    "lng": 30.403121,
+    "description": null,
+    "raw": "Санкт-Петербург, Свердловская набережная, 44Я",
+    "metro": {
+      "station_name": "Лесная",
+      "line_name": "Кировско-Выборгская",
+      "station_id": "14.195",
+      "line_id": "14",
+      "lat": 59.984947,
+      "lng": 30.344259
+    },
+    "metro_stations": [
+      {
+        "station_name": "Лесная",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.195",
+        "line_id": "14",
+        "lat": 59.984947,
+        "lng": 30.344259
+      },
+      {
+        "station_name": "Площадь Ленина",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.197",
+        "line_id": "14",
+        "lat": 59.955611,
+        "lng": 30.35605
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Если ты, как и мы творец, готовый привносить свежие идеи, мы приглашаем тебя на должность <strong>Бизнес-аналитик</strong> для совместного развития и создания выдающихся продуктов.</p> <p><strong>Что нужно делать:</strong></p> <ul> <li> <p>Аудит существующих регламентов и БП</p> </li> <li> <p>Анализ, моделирование и описание всех БП по компании</p> </li> <li> <p>Разработка проектов регламентов процессов, актуализация существующих регламентов</p> </li> <li> <p>Анализ эффективности внутренних процессов: выявление узких мест, разработка рекомендаций по оптимизации бизнес-процессов</p> </li> <li> <p>Создание и ведение единой базы данных по БП</p> </li> <li> <p>Руководство процессом автоматизации БП</p> </li> <li> <p>Подготовка и структурирование ТЗ для разработчиков, курирование процесса реализации задач: от постановки до внедрения</p> </li> <li> <p>Приёмка готовых решений от разработчиков, проверка на соответствие требованиям</p> </li> <li> <p>Подготовка инструкций, обучающих материалов для сотрудников</p> </li> </ul> <p><strong>Что мы ждем от тебя:</strong></p> <ul> <li> <p>Опыт работы в области бизнес-анализа не менее 3х лет</p> </li> <li> <p>Продвинутый пользователь (MS office, adobe, специализированное ПО для моделирования бизнес-процессов и архитектуры предприятия)</p> </li> <li> <p>Знание нотаций моделирования бизнес-процессов UML / BPMN / EPC / IDEF</p> </li> <li> <p>Опыт работы с инструментами управления требованиями и управления проектами</p> </li> <li> <p>Опыт описания, оптимизации и автоматизации бизнес-процессов</p> </li> <li> <p>Умение ставить ТЗ разработчикам 1С, Bitrix</p> </li> <li> <p>Коммуникабельность и способность работать в команде, включая разработчиков, дизайнеров и менеджеров проектов</p> </li> <li> <p>Ответственность и ориентация на результат</p> </li> <li> <p>Способность эффективно работать в режиме многозадачности</p> </li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Работа в комфортном офисе на набережной Невы</li> <li>Конкурентный доход (оклад и KPI)</li> <li>«Белая» компания, соблюдение ТК РФ</li> <li>Сильная команда и доброжелательная рабочая атмосфера</li> <li>График работы 5/2, гибкое начало рабочего дня, сокращенная пятница</li> <li>Возможность создавать уникальные проекты</li> <li>Корпоративное обучение</li> </ul>",
+  "branded_description": " \n<style>\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_wrapper * {\n    -webkit-box-sizing: border-box;\n    box-sizing: border-box;\n}\n\n.tmpl_hh_wrapper [role=button] {\n    outline: none;\n}\n\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content li p {\n    font-size: inherit !important;\n    margin: 0;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content h2:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    font-family: \"Arial\", sans-serif;\n    color:  #000;    \n    font-size: 18px;\n    line-height: 24px;\n    overflow: hidden;\n    -webkit-font-smoothing: antialiased;\n    background: linear-gradient(179.9deg, #F9F9F9 -2.98%, #FCFBFF 80.39%);\n}\n\n.tmpl_hh_video {\n    position: relative;\n    width: 100%;\n}\n\n.tmpl_hh_video img,\n.tmpl_hh_video iframe {\n    position: absolute;\n    left: 0;\n    top: 0;\n    width: 100%;\n    height: 100%;\n}\n\n.tmpl_hh_content {\n    padding: 48px 27px;\n}\n\n.tmpl_hh_content p {\n    margin: 20px 0 20px;\n}\n\n.tmpl_hh_content h2 {\n    margin: 44px 0 20px;\n    font-weight: 700;\n    font-size: 27px;\n    line-height: 25px;\n    color: #4F2DE5;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 27px;\n    padding-bottom: 1px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 0px;\n}\n\n.tmpl_hh_content li:last-child {\n    margin-bottom: 0;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 0px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;\n}\n\n.tmpl_hh_content li:before {\n    content: \"\";\n    position: absolute;\n    left: -16px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"\\2022\";\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter) \".\";\n}\n\n.tmpl_hh_about {\n    padding: 48px 27px;\n    font-size: 18px;\n    line-height: 22px;\n    display: grid;\n    gap: 12px;\n}\n\n.tmpl_hh_what {\n    margin: 0 27px 0;\n    font-size: 18px;\n    line-height: 22px;\n}\n\np.tmpl_hh_what__title {\n    color: #4F2DE5;\n    font-size: 27px;\n    line-height: 25px;\n    font-weight: 700;\n}\n\n.tmpl_hh_what__items {\n    display: grid;\n    grid-template-columns: repeat(2, 1fr);\n    font-weight: 700;\n    font-size: 25px;\n    line-height: 25px;\n    margin: 29px 70px 0;\n    gap: 46px 93px;\n}\n\n.tmpl_hh_what__item {\n    display: flex;\n    align-items: center;\n    gap: 10px;\n}\n\n.tmpl_hh_what__icon {\n    width: 53px;\n    flex-shrink: 0;\n}\n\n.tmpl_hh_slogan {\n    font-weight: 700;\n    font-size: 32px;\n    line-height: 31px;\n    text-align: center;\n    background: linear-gradient(265.79deg, #9C2EBB 8.57%, #AD28A8 29.95%, #CE1F87 45.25%, #E8144E 56.67%, #F60B26 74.61%, #FB710C 88.68%, #F9A40D 97.39%);\n    color: transparent;\n    -webkit-background-clip: text;\n    background-clip: text;\n}\n\n\n@media screen and (max-width: 1019px) {\n    .tmpl_hh_what__items {\n        margin: 29px 0px 0;\n    }\n}\n\n@media screen and (max-width: 699px) {\n    .tmpl_hh_wrapper {\n        width: auto;\n        margin: 0 -15px;\n        font-size: 16px;\n        line-height: 20px;\n    }\n\n    .tmpl_hh_content {\n        padding: 48px 15px;\n    }\n\n    .tmpl_hh_content p {\n        margin: 12px 0 12px;\n    }\n\n    .tmpl_hh_content h2 {\n        margin: 44px 0 12px;\n        font-size: 24px;\n        line-height: 22px;\n    }\n\n    .tmpl_hh_content ol,\n    .tmpl_hh_content ul {\n        margin-left: 24px;\n    }\n\n    .tmpl_hh_content li:before {\n        left: -14px;\n    }\n\n    .tmpl_hh_about {\n        padding: 48px 15px;\n        font-size: 16px;\n        line-height: 20px;\n    }\n\n    .tmpl_hh_what {\n        margin: 0 15px 0;\n        font-size: 16px;\n        line-height: 20px;\n    }\n\n    p.tmpl_hh_what__title {\n        font-size: 24px;\n        line-height: 22px;\n    }\n\n    .tmpl_hh_what__items {\n        font-size: 20px;\n        line-height: 25px;\n        margin: 24px 0px 0;\n        gap: 24px 32px;\n    }\n\n    .tmpl_hh_what__item {\n        gap: 9px;\n    }\n\n    .tmpl_hh_what__icon {\n        width: 42px;\n    }\n\n    .tmpl_hh_slogan {\n        font-weight: 700;\n        font-size: 26px;\n        line-height: 32px;\n        padding: 0 20px;\n    }\n\n}\n\n@media screen and (max-width: 374px) {\n    .tmpl_hh_what__items {\n        grid-template-columns: repeat(1, 1fr);\n    }\n}\n\n</style>\n\n<div class=\"tmpl_hh_wrapper\">\n    <div class=\"tmpl_hh_header\">\n        <div class=\"tmpl_hh_header__photo\"><img src=\"https://hhcdn.ru/ichameleon/431764.jpg\" alt=\"\"></div>\n    </div>\n    <div class=\"tmpl_hh_about\">\n        <p>Red solution — компания, где креатив встречается с технологией.<br> Мы разрабатываем инновационные бытовые приборы, сочетающие передовые технологии с современным дизайном и высокой функциональностью.</p>\n        <p>Наша миссия — создавать продукты, меняющие представление о домашнем комфорте. Мы не следуем трендам, а формируем их, опережая ожидания и потребности наших клиентов.</p>\n    </div>\n    <div class=\"tmpl_hh_what\">\n        <p class=\"tmpl_hh_what__title\">Что такое Red solution?</p>\n        <div class=\"tmpl_hh_what__items\">\n            <div class=\"tmpl_hh_what__item\">\n                <div class=\"tmpl_hh_what__icon\"><img src=\"https://hhcdn.ru/ichameleon/431765.png\" alt=\"\"></div>\n                <p>Инновации</p>\n            </div>\n            <div class=\"tmpl_hh_what__item\">\n                <div class=\"tmpl_hh_what__icon\"><img src=\"https://hhcdn.ru/ichameleon/431767.png\" alt=\"\"></div>\n                <p>Качество</p>\n            </div>\n            <div class=\"tmpl_hh_what__item\">\n                <div class=\"tmpl_hh_what__icon\"><img src=\"https://hhcdn.ru/ichameleon/431768.png\" alt=\"\"></div>\n                <p>Люди</p>\n            </div>\n            <div class=\"tmpl_hh_what__item\">\n                <div class=\"tmpl_hh_what__icon\"><img src=\"https://hhcdn.ru/ichameleon/431766.png\" alt=\"\"></div>\n                <p>Экология</p>\n            </div>\n        </div>\n    </div>\n    <div class=\"tmpl_hh_content\">\n        <p>Если ты, как и мы творец, готовый привносить свежие идеи, мы приглашаем тебя на должность <strong>Бизнес-аналитик</strong> для совместного развития и создания выдающихся продуктов.</p> <p><strong>Что нужно делать:</strong></p> <ul> <li> <p>Аудит существующих регламентов и БП</p> </li> <li> <p>Анализ, моделирование и описание всех БП по компании</p> </li> <li> <p>Разработка проектов регламентов процессов, актуализация существующих регламентов</p> </li> <li> <p>Анализ эффективности внутренних процессов: выявление узких мест, разработка рекомендаций по оптимизации бизнес-процессов</p> </li> <li> <p>Создание и ведение единой базы данных по БП</p> </li> <li> <p>Руководство процессом автоматизации БП</p> </li> <li> <p>Подготовка и структурирование ТЗ для разработчиков, курирование процесса реализации задач: от постановки до внедрения</p> </li> <li> <p>Приёмка готовых решений от разработчиков, проверка на соответствие требованиям</p> </li> <li> <p>Подготовка инструкций, обучающих материалов для сотрудников</p> </li> </ul> <p><strong>Что мы ждем от тебя:</strong></p> <ul> <li> <p>Опыт работы в области бизнес-анализа не менее 3х лет</p> </li> <li> <p>Продвинутый пользователь (MS office, adobe, специализированное ПО для моделирования бизнес-процессов и архитектуры предприятия)</p> </li> <li> <p>Знание нотаций моделирования бизнес-процессов UML / BPMN / EPC / IDEF</p> </li> <li> <p>Опыт работы с инструментами управления требованиями и управления проектами</p> </li> <li> <p>Опыт описания, оптимизации и автоматизации бизнес-процессов</p> </li> <li> <p>Умение ставить ТЗ разработчикам 1С, Bitrix</p> </li> <li> <p>Коммуникабельность и способность работать в команде, включая разработчиков, дизайнеров и менеджеров проектов</p> </li> <li> <p>Ответственность и ориентация на результат</p> </li> <li> <p>Способность эффективно работать в режиме многозадачности</p> </li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Работа в комфортном офисе на набережной Невы</li> <li>Конкурентный доход (оклад и KPI)</li> <li>«Белая» компания, соблюдение ТК РФ</li> <li>Сильная команда и доброжелательная рабочая атмосфера</li> <li>График работы 5/2, гибкое начало рабочего дня, сокращенная пятница</li> <li>Возможность создавать уникальные проекты</li> <li>Корпоративное обучение</li> </ul></div>\n    <div class=\"tmpl_hh_slogan\">Выбирай яркие инновации!</div>\n    <div class=\"tmpl_hh_footer\">\n        <picture>\n            <source srcset=\"https://hhcdn.ru/ichameleon/431781.jpg\" media=\"(max-width: 699px)\"></source>\n            <img src=\"https://hhcdn.ru/ichameleon/431763.jpg\" alt=\"\">\n        </picture>\n    </div>\n</div>\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Бизнес-анализ"
+    },
+    {
+      "name": "Power BI"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Разработка бизнес-требований"
+    },
+    {
+      "name": "Автоматизация бизнес-процессов"
+    },
+    {
+      "name": "Системный анализ"
+    },
+    {
+      "name": "Анализ бизнес-процессов"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "150",
+      "name": "Бизнес-аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9494710",
+    "name": "RED SOLUTION",
+    "url": "https://api.hh.ru/employers/9494710",
+    "alternate_url": "https://hh.ru/employer/9494710",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1307212.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6849110.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6849111.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9494710",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-20T18:09:49+0300",
+  "created_at": "2025-05-20T18:09:49+0300",
+  "initial_created_at": "2025-05-20T18:09:49+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120781823",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120781823",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b2",
+        "name": "B2 — Средне-продвинутый"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

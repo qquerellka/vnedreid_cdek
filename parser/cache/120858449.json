@@ -1,0 +1,161 @@
+{
+  "id": "120858449",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": {
+    "id": "mailru-15478-vkdigit",
+    "name": "VK, VK Tech"
+  },
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>VK HR Tek — КЭДО и личный кабинет сотрудника от VK Tech. Решение позволяет не только перевести в электронный вид кадровые процессы, но и подключить удобные личные кабинеты для сотрудников, руководителей и специалистов отдела кадров.</p> <h2><strong>Задачи</strong></h2> <ul> <li>Коммуникация со стейкхолдерами</li> <li>Сбор, анализ, систематизация требований и формирование вариантов возможных решений для закрытия потребности заказчика</li> <li>Формализация и согласование требований и бизнес-процессов с заказчиком и с продуктовой командой</li> <li>Коммуникация с продуктовой и кросс-функциональными командами</li> <li>Приёмка конечного результата у продуктовой команды и верификация его соответствия требованиям заказчика, контроль качества и полноты реализации функциональности</li> <li>Проведение демонстраций и консультирование заказчика по работе с продуктом</li> <li>Обучение сотрудников заказчика</li> <li>Управление ошибками и запросами на изменение текущей функциональности продукта у заказчиков</li> <li>Подготовка и согласование с заказчиком проектной, пользовательской и эксплуатационной документации</li> <li>Ведение внутренних артефактов по проекту</li> </ul> <h2><strong>Требования</strong></h2> <ul> <li>Стаж работы от трёх лет</li> <li>Работа с крупными заказчиками и участие в крупных интеграционных проектах</li> <li>Работа с API, умение читать стороннюю документацию по API</li> <li>Знание нотаций BPMN/EPC и UML</li> <li>Описание процессов в формате JSON</li> <li>Разработка проектной документации</li> <li>Описание требований различного уровня (бизнес, функциональные/нефункциональные требования, а также требования к системе и интеграциям)</li> <li>Коммуникационные навыки, умение чётко излагать мысли, обосновывать решения и брать на себя ответственность</li> </ul> <h2><strong>Будет плюсом</strong></h2> <ul> <li>Опыт внедрения проектных решений корпоративных порталов и/или КЭДОR</li> </ul>",
+  "branded_description": "\n<style>\n@charset \"UTF-8\";\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_wrapper * {\n    -webkit-box-sizing: border-box;\n    box-sizing: border-box;\n}\n\n.tmpl_hh_wrapper [role=button] {\n    outline: none;\n}\n\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content li p {\n    font-size: inherit !important;\n    margin: 0;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content h2:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    font-family: \"Arial\", sans-serif;\n    color: #000;\n    font-size: 18px;\n    line-height: 1.2;\n    overflow: hidden;\n    -webkit-font-smoothing: antialiased;\n}\n\n.tmpl_hh_video {\n    position: relative;\n    width: 100%;\n}\n\n.tmpl_hh_video img,\n.tmpl_hh_video iframe {\n    position: absolute;\n    left: 0;\n    top: 0;\n    width: 100%;\n    height: 100%;\n}\n\n.tmpl_hh_content {\n    padding: 50px 45px;\n    letter-spacing: 0.02em;\n}\n\n.tmpl_hh_content p {\n    margin: 16px 0 8px;\n}\n\n.tmpl_hh_content h2 {\n    margin: 30px 0 16px;\n    font-size: 28px;\n    font-weight: bold;\n    letter-spacing: none;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 10px;\n    padding-bottom: 1px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n    margin-left: 14px;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n}\n\n.tmpl_hh_content li:not(:last-child) {\n    margin-bottom: 13px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 10px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;\n}\n\n.tmpl_hh_content li:before {\n    content: \"\";\n    position: absolute;\n    left: -11px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"•\";\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter) \".\";\n    left: -18px;\n    font-weight: 700;\n}\n\n.tmpl_hh_head {\n    background-color: #000;\n    border-radius: 24px;\n    overflow: hidden;\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n}\n\n.tmpl_hh_head__text {\n    padding: 30px;\n}\n\n.tmpl_hh_head img.tmpl_hh_head__logo {\n    width: 64px;\n}\n\n.tmpl_hh_head img.tmpl_hh_head__title {\n    margin-top: 48px;\n    width: 359px;\n}\n\n.tmpl_hh_head__img {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-pack: center;\n    -ms-flex-pack: center;\n    justify-content: center;\n    -webkit-box-align: center;\n    -ms-flex-align: center;\n    align-items: center;\n    padding: 0 17px;\n}\n\n.tmpl_hh_about {\n    padding: 56px 30px 0;\n}\n\n.tmpl_hh_about img.tmpl_hh_about__title {\n    margin: 0 auto;\n    width: 451px;\n}\n\n.tmpl_hh_about ul.tmpl_hh_about__list {\n    margin-top: 47px;\n    list-style: none;\n}\n\n.tmpl_hh_about ul.tmpl_hh_about__list li {\n    padding-left: 15px;\n    position: relative;\n    line-height: 1.5;\n}\n\n.tmpl_hh_about ul.tmpl_hh_about__list li:not(:last-child) {\n    margin-bottom: 12px;\n}\n\n.tmpl_hh_about ul.tmpl_hh_about__list li::before {\n    content: \"•\";\n    position: absolute;\n    left: -1px;\n    top: -2px;\n    font-size: 20px;\n}\n\n.tmpl_hh_job {\n    padding-left: 30px;\n    padding-right: 30px;\n}\n\n.tmpl_hh_job img.tmpl_hh_job__title {\n    margin: 0 auto;\n    width: 444px;\n}\n\n.tmpl_hh_job ul.tmpl_hh_job__list {\n    list-style: none;\n    display: grid;\n    grid-template-columns: repeat(2, 1fr);\n    gap: 8px;\n    margin-top: 26px;\n}\n\n.tmpl_hh_job li.tmpl_hh_job__item {\n    background-color: #F1F2F4;\n    border-radius: 24px;\n    padding: 20px;\n    position: relative;\n    font-size: 20px;\n    line-height: 1.4;\n}\n\n.tmpl_hh_job li.tmpl_hh_job__item img {\n    position: absolute;\n    top: 20px;\n    right: 20px;\n    height: 50px;\n    width: 50px;\n}\n\n.tmpl_hh_job li.tmpl_hh_job__item b {\n    display: block;\n    max-width: 200px;\n    margin-bottom: 8px;\n}\n\n.tmpl_hh_job li.tmpl_hh_job__item--1 {\n    grid-area: 1/1/2/3;\n}\n\n.tmpl_hh_job li.tmpl_hh_job__item--1 b {\n    max-width: 100%;\n}\n\n.tmpl_hh_job li.tmpl_hh_job__item--1 p {\n    max-width: 80%;\n}\n\n.tmpl_hh_job li.tmpl_hh_job__item--4 {\n    grid-area: 3/1/4/3;\n}\n\n.tmpl_hh_job li.tmpl_hh_job__item--4 b {\n    max-width: 100%;\n}\n\n.tmpl_hh_job li.tmpl_hh_job__item--4 p {\n    max-width: 90%;\n}\n\n.tmpl_hh_stat {\n    margin-top: 60px;\n}\n\n.tmpl_hh_stat img.tmpl_hh_stat__title {\n    margin: 0 auto;\n    width: 452px;\n}\n\n.tmpl_hh_stat__body {\n    position: relative;\n    margin-top: 26px;\n    padding: 68px 0 68px 371px;\n}\n\n.tmpl_hh_stat__body img {\n    position: absolute;\n    top: 0;\n    left: 0;\n    height: 100%;\n    width: 100%;\n    z-index: 0;\n}\n\n.tmpl_hh_stat__body li {\n    position: relative;\n    z-index: 1;\n    font-size: 20px;\n    line-height: 1.4;\n    color: #fff;\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-align: start;\n    -ms-flex-align: start;\n    align-items: flex-start;\n    -webkit-column-gap: 12px;\n    -moz-column-gap: 12px;\n    column-gap: 12px;\n}\n\n.tmpl_hh_stat__body li:not(:last-child) {\n    margin-bottom: 22px;\n}\n\n.tmpl_hh_stat__body li::before {\n    content: \"\";\n    -ms-flex-negative: 0;\n    flex-shrink: 0;\n    height: 15px;\n    width: 15px;\n    background-image: url(https://hhcdn.ru/ichameleon/431877.svg);\n    background-size: contain;\n    background-repeat: no-repeat;\n    position: relative;\n    top: 6px;\n}\n\n.tmpl_hh_join {\n    padding: 50px 30px 38px;\n}\n\n.tmpl_hh_join__body {\n    background-color: #F1F2F4;\n    border-radius: 24px;\n    padding: 20px;\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-align: center;\n    -ms-flex-align: center;\n    align-items: center;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n}\n\n.tmpl_hh_join img.tmpl_hh_join__title {\n    margin-top: 4px;\n    width: 262px;\n}\n\n.tmpl_hh_join img.tmpl_hh_join__logo {\n    width: 125px;\n}\n\n@media (max-width: 1019px) {\n    .tmpl_hh_wrapper {\n        max-width: 610px;\n    }\n\n    .tmpl_hh_job {\n        padding-left: 15px;\n        padding-right: 15px;\n    }\n\n    .tmpl_hh_stat__body {\n        padding-top: 50px;\n        padding-bottom: 50px;\n        padding-left: 300px;\n    }\n}\n\n@media (max-width: 699px) {\n    .tmpl_hh_wrapper {\n        font-size: 14px;\n        line-height: 1.2;\n        margin-left: -15px;\n        margin-right: -15px;\n        width: auto;\n    }\n\n    .tmpl_hh_content {\n        padding: 32px 15px;\n    }\n\n    .tmpl_hh_content h2 {\n        font-size: 18px;\n    }\n\n    .tmpl_hh_head {\n        border-radius: 12px;\n    }\n\n    .tmpl_hh_head__text {\n        padding: 15px 0 15px 15px;\n    }\n\n    .tmpl_hh_head img.tmpl_hh_head__logo {\n        width: 80px;\n    }\n\n    .tmpl_hh_head img.tmpl_hh_head__title {\n        margin-top: 57px;\n        width: 200px;\n    }\n\n    .tmpl_hh_head__img {\n        -ms-flex-negative: 0;\n        flex-shrink: 0;\n        padding: 9px;\n        width: 39%;\n    }\n\n    .tmpl_hh_about {\n        padding: 36px 15px 0;\n    }\n\n    .tmpl_hh_about img.tmpl_hh_about__title {\n        width: 290px;\n    }\n\n    .tmpl_hh_about ul.tmpl_hh_about__list {\n        margin-top: 32px;\n    }\n\n    .tmpl_hh_about ul.tmpl_hh_about__list li {\n        line-height: 1.2;\n    }\n\n    .tmpl_hh_about ul.tmpl_hh_about__list li:not(:last-child) {\n        margin-bottom: 9px;\n    }\n\n    .tmpl_hh_about ul.tmpl_hh_about__list li::before {\n        font-size: 18px;\n    }\n\n    .tmpl_hh_job img.tmpl_hh_job__title {\n        width: 286px;\n    }\n\n    .tmpl_hh_job ul.tmpl_hh_job__list {\n        grid-template-columns: repeat(1, 1fr);\n    }\n\n    .tmpl_hh_job li.tmpl_hh_job__item {\n        border-radius: 12px;\n        font-size: 14px;\n        line-height: 1.2;\n    }\n\n    .tmpl_hh_job li.tmpl_hh_job__item img {\n        height: 38px;\n        width: 38px;\n    }\n\n    .tmpl_hh_job li.tmpl_hh_job__item b {\n        font-size: 16px;\n    }\n\n    .tmpl_hh_job li.tmpl_hh_job__item--1 {\n        grid-area: auto;\n    }\n\n    .tmpl_hh_job li.tmpl_hh_job__item--1 b {\n        max-width: 74%;\n    }\n\n    .tmpl_hh_job li.tmpl_hh_job__item--1 p {\n        max-width: 100%;\n    }\n\n    .tmpl_hh_job li.tmpl_hh_job__item--4 {\n        grid-area: auto;\n    }\n\n    .tmpl_hh_job li.tmpl_hh_job__item--4 b {\n        max-width: 45%;\n    }\n\n    .tmpl_hh_stat {\n        margin-top: 38px;\n        padding-left: 15px;\n        padding-right: 15px;\n    }\n\n    .tmpl_hh_stat img.tmpl_hh_stat__title {\n        width: 290px;\n    }\n\n    .tmpl_hh_stat__body {\n        display: -webkit-box;\n        display: -ms-flexbox;\n        display: flex;\n        -webkit-box-align: center;\n        -ms-flex-align: center;\n        align-items: center;\n        -webkit-box-pack: end;\n        -ms-flex-pack: end;\n        justify-content: flex-end;\n        aspect-ratio: 345/160;\n        padding: 32px 20px 32px 32px;\n    }\n\n    .tmpl_hh_stat__body li {\n        font-size: 11px;\n        line-height: 14px;\n        -webkit-column-gap: 6px;\n        -moz-column-gap: 6px;\n        column-gap: 6px;\n    }\n\n    .tmpl_hh_stat__body li:not(:last-child) {\n        margin-bottom: 11px;\n    }\n\n    .tmpl_hh_stat__body li::before {\n        height: 7px;\n        width: 7px;\n        top: 3px;\n    }\n\n    .tmpl_hh_join {\n        padding: 30px 15px 15px;\n    }\n\n    .tmpl_hh_join__body {\n        border-radius: 12px;\n        padding: 11px 10px 11px 11px;\n    }\n\n    .tmpl_hh_join img.tmpl_hh_join__title {\n        width: 141px;\n    }\n\n    .tmpl_hh_join img.tmpl_hh_join__logo {\n        width: 68px;\n    }\n}\n\n@media (max-width: 340px) {\n    .tmpl_hh_head img.tmpl_hh_head__title {\n        width: 180px;\n    }\n}\n</style>\n\n<script>\n//\nfunction DOM_HH_Ready() {}\n\nif (document.readyState === \"loading\") {\n    document.addEventListener(\"DOMContentLoaded\", DOM_HH_Ready);\n} else {\n    DOM_HH_Ready();\n}\n//\n</script>\n\n\n    <div class=\"tmpl_hh_wrapper\">\n        <div class=\"tmpl_hh_head\">\n            <div class=\"tmpl_hh_head__text\">\n                <img class=\"tmpl_hh_head__logo\" src=\"https://hhcdn.ru/ichameleon/431889.svg\" alt=\"\">\n                <img class=\"tmpl_hh_head__title\" src=\"https://hhcdn.ru/ichameleon/431893.svg\" alt=\"\">\n            </div>\n            <div class=\"tmpl_hh_head__img\">\n                <img src=\"https://hhcdn.ru/ichameleon/431878.jpg\" alt=\"\">\n            </div>\n        </div>\n        <div class=\"tmpl_hh_about\">\n            <img class=\"tmpl_hh_about__title\" src=\"https://hhcdn.ru/ichameleon/431876.svg\" alt=\"\">\n            <ul class=\"tmpl_hh_about__list\">\n                <li>Мы разрабатываем продукты для ежедневных задач бизнеса. У нас есть решения для IT-разработки и работы с данными, коммуникаций и продуктивности, автоматизации HR, финансовых и операционных задач.</li>\n                <li>Создавать и поддерживать высокотехнологичные продукты нам помогают 25 лет технологической экспертизы. И мы готовы делиться опытом с тобой!</li>\n            </ul>\n        </div>\n        <div class=\"tmpl_hh_content\">\n        <p>VK HR Tek — КЭДО и личный кабинет сотрудника от VK Tech. Решение позволяет не только перевести в электронный вид кадровые процессы, но и подключить удобные личные кабинеты для сотрудников, руководителей и специалистов отдела кадров.</p> <h2><strong>Задачи</strong></h2> <ul> <li>Коммуникация со стейкхолдерами</li> <li>Сбор, анализ, систематизация требований и формирование вариантов возможных решений для закрытия потребности заказчика</li> <li>Формализация и согласование требований и бизнес-процессов с заказчиком и с продуктовой командой</li> <li>Коммуникация с продуктовой и кросс-функциональными командами</li> <li>Приёмка конечного результата у продуктовой команды и верификация его соответствия требованиям заказчика, контроль качества и полноты реализации функциональности</li> <li>Проведение демонстраций и консультирование заказчика по работе с продуктом</li> <li>Обучение сотрудников заказчика</li> <li>Управление ошибками и запросами на изменение текущей функциональности продукта у заказчиков</li> <li>Подготовка и согласование с заказчиком проектной, пользовательской и эксплуатационной документации</li> <li>Ведение внутренних артефактов по проекту</li> </ul> <h2><strong>Требования</strong></h2> <ul> <li>Стаж работы от трёх лет</li> <li>Работа с крупными заказчиками и участие в крупных интеграционных проектах</li> <li>Работа с API, умение читать стороннюю документацию по API</li> <li>Знание нотаций BPMN/EPC и UML</li> <li>Описание процессов в формате JSON</li> <li>Разработка проектной документации</li> <li>Описание требований различного уровня (бизнес, функциональные/нефункциональные требования, а также требования к системе и интеграциям)</li> <li>Коммуникационные навыки, умение чётко излагать мысли, обосновывать решения и брать на себя ответственность</li> </ul> <h2><strong>Будет плюсом</strong></h2> <ul> <li>Опыт внедрения проектных решений корпоративных порталов и/или КЭДОR</li> </ul></div>\n        <div class=\"tmpl_hh_job\">\n            <img class=\"tmpl_hh_job__title\" src=\"https://hhcdn.ru/ichameleon/431886.svg\" alt=\"\">\n            <ul class=\"tmpl_hh_job__list\">\n                <li class=\"tmpl_hh_job__item tmpl_hh_job__item--1\">\n                    <b>Интересные и разнообразные задачи</b>\n                    <p>Создаём высокотехнологичные продукты и платформенные сервисы, виртуозно управляем высоконагруженными проектами</p>\n                    <img src=\"https://hhcdn.ru/ichameleon/431882.svg\" alt=\"\">\n                </li>\n                <li class=\"tmpl_hh_job__item tmpl_hh_job__item--2\">\n                    <b>Забота<br> о сотрудниках</b>\n                    <p>Предоставляем полис ДМС, а ещё компенсируем массаж и приём терапевта прямо в офисе</p>\n                    <img src=\"https://hhcdn.ru/ichameleon/431883.svg\" alt=\"\">\n                </li>\n                <li class=\"tmpl_hh_job__item tmpl_hh_job__item--3\">\n                    <b>Бережный<br> онбординг</b>\n                    <p>Всех новичков ждут помощь и сопровождение с первого дня, а ещё встречи с топ-менеджментом</p>\n                    <img src=\"https://hhcdn.ru/ichameleon/431881.svg\" alt=\"\">\n                </li>\n                <li class=\"tmpl_hh_job__item tmpl_hh_job__item--4\">\n                    <b>Сильная команда</b>\n                    <p>Строим открытую культуру, обсуждаем и ставим цели, которые видны каждому в команде, рассказываем о стратегии и честно отвечаем на любые вопросы</p>\n                    <img src=\"https://hhcdn.ru/ichameleon/431885.svg\" alt=\"\">\n                </li>\n                <li class=\"tmpl_hh_job__item tmpl_hh_job__item--5\">\n                    <b>Достижения<br> и успехи</b>\n                    <p>Раз в год проводим программу признания, выезжаем на яхтинг и картинг, выдаём ачивки и уникальный мерч. Пишем статьи на Хабр, выступаем на конференциях</p>\n                    <img src=\"https://hhcdn.ru/ichameleon/431880.svg\" alt=\"\">\n                </li>\n                <li class=\"tmpl_hh_job__item tmpl_hh_job__item--6\">\n                    <b>Отдых, спорт<br> и развитие</b>\n                    <p>Компенсируем затраты на спорт. Проводим семейные мероприятия для сотрудников, мастер-классы, лекции и квизы</p>\n                    <img src=\"https://hhcdn.ru/ichameleon/431884.svg\" alt=\"\">\n                </li>\n            </ul>\n        </div>\n        <div class=\"tmpl_hh_stat\">\n            <img class=\"tmpl_hh_stat__title\" src=\"https://hhcdn.ru/ichameleon/431891.svg\" alt=\"\">\n            <div class=\"tmpl_hh_stat__body\">\n                <picture>\n                    <source srcset=\"https://hhcdn.ru/ichameleon/431890.png\" media=\"(max-width: 699px)\"></source>\n                    <img class=\"tmpl_hh_stat__img\" src=\"https://hhcdn.ru/ichameleon/431892.png\" alt=\"\">\n                </picture>\n                <ul>\n                    <li>1400+ сотрудников</li>\n                    <li>20+ продуктов в Реестре<br> Российского ПО</li>\n                    <li>Россия, Казахстан<br> и Узбекистан</li>\n                </ul>\n            </div>\n        </div>\n        <div class=\"tmpl_hh_join\">\n            <div class=\"tmpl_hh_join__body\">\n                <img class=\"tmpl_hh_join__title\" src=\"https://hhcdn.ru/ichameleon/431887.svg\" alt=\"\">\n                <img class=\"tmpl_hh_join__logo\" src=\"https://hhcdn.ru/ichameleon/431888.svg\" alt=\"\">\n            </div>\n        </div>\n    </div>\n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "BPMN"
+    },
+    {
+      "name": "EPC"
+    },
+    {
+      "name": "UML"
+    },
+    {
+      "name": "JSON"
+    },
+    {
+      "name": "Разработка технических заданий"
+    },
+    {
+      "name": "Разработка функциональных требований"
+    },
+    {
+      "name": "Разработка нефункциональных требований"
+    },
+    {
+      "name": "Разработка проектной документации"
+    },
+    {
+      "name": "Работа с API"
+    },
+    {
+      "name": "Системная интеграция"
+    },
+    {
+      "name": "Ведение переговоров"
+    },
+    {
+      "name": "Деловая коммуникация"
+    },
+    {
+      "name": "Описание бизнес-процессов"
+    },
+    {
+      "name": "Разработка бизнес-требований"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "150",
+      "name": "Бизнес-аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "15478",
+    "name": "VK",
+    "url": "https://api.hh.ru/employers/15478",
+    "alternate_url": "https://hh.ru/employer/15478",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1297111.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6808730.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6808731.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=15478",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-22T15:36:10+0300",
+  "created_at": "2025-05-22T15:36:10+0300",
+  "initial_created_at": "2025-05-22T11:34:18+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120858449",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120858449",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

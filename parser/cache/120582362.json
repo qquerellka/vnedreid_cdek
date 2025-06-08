@@ -1,0 +1,128 @@
+{
+  "id": "120582362",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы расширяем технологические возможности бизнеса и создаём качественный софт с 1993 года. Наши заказчики — крупные международные компании, лидеры в сферах обучения и сертификации, фармацевтики, здравоохранения, управления предприятием, медиа и безопасности.</p> <p>В настоящее время мы ищем <strong>системного аналитика</strong> в команду, занимающуюся <em>разработкой приложений для крупной российской компании — лидера табачной индустрии. Микросервисная архитектура, .NET + React. </em></p> <p><em><strong>Внимание</strong>: срочный трудовой договор на 1 год с возможным продолжением сотрудничества.</em></p> <p>Основные задачи:</p> <ul> <li>обследование системы на старте проекта;</li> <li><strong>проектирование интеграций;</strong></li> <li>организация и ведение рабочей, технической документации;</li> <li><strong>проектирование структур данных, описание алгоритмов обработки данных;</strong></li> <li>постановка задач разработчикам и дизайнерам, приёмка результата;</li> <li>проектирование и описание сервисов и методов.</li> </ul> <p><strong>Мы ожидаем от успешного кандидата:</strong></p> <ul> <li>опыта работы системным аналитиком — от 2 лет;</li> <li>знания принципов проектирования автоматизированных систем, проектирования пользовательских интерфейсов;</li> <li>опыта моделирования процессов в нотациях BPMN, UML;</li> <li><strong>опыта проектирования интеграционного взаимодействия</strong>, в том числе описания новых сервисов с нуля;</li> <li><strong>понимания современных подходов к проектированию и интеграции: REST, SOAP, MQ, кеширование и пр.;</strong></li> <li>понимания принципов организации систем с микросервисной архитектурой;</li> <li>знания SQL (базовый уровень).</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>официальное оформление, белую зарплату, отпуск согласно ТК РФ;</li> <li>ДМС, 100% оплату больничных;</li> <li>работу удалённо из РФ или в офисе в Санкт-Петербурге;</li> <li>удобные рабочие места / корпоративный ноутбук для удалённой работы;</li> <li>возможности профессионального роста;</li> <li>внутренние семинары по обмену знаниями.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "REST"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Системный анализ"
+    },
+    {
+      "name": "BPMN"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "148",
+      "name": "Системный аналитик"
+    }
+  ],
+  "code": "Philip Morris",
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9280477",
+    "name": "Software Country (ТОО Балхаш Системс)",
+    "url": "https://api.hh.ru/employers/9280477",
+    "alternate_url": "https://hh.ru/employer/9280477",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1061301.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5865837.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5865838.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9280477",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-15T12:24:21+0300",
+  "created_at": "2025-05-15T12:24:21+0300",
+  "initial_created_at": "2025-05-15T12:24:21+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120582362",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120582362",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,207 @@
+{
+  "id": "118603714",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Руководитель направления по искусственному интеллекту (Computer Vision)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "99",
+    "name": "Уфа",
+    "url": "https://api.hh.ru/areas/99"
+  },
+  "salary": {
+    "from": 200000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 200000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Уфа",
+    "street": "Вологодская улица",
+    "building": "60",
+    "lat": 54.818123,
+    "lng": 56.123218,
+    "description": null,
+    "raw": "Уфа, Вологодская улица, 60",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>ООО «<strong>Концерн</strong> «<strong>Техновация</strong>» разрабатывает инновационные проекты для аэрокосмической и оборонной промышленности, активно развиваясь и являясь резидентом ИЦ «<strong>Сколково</strong>», АНО «<strong>ЦБСТ</strong>» (Центр беспилотных систем и технологий, г. Москва), Пермский <strong>НПЦ БАС </strong>«<strong>Парма-БАС</strong>», ИНТЦ«<strong>Сириус</strong>», входит в реестр <strong>МТК (Малых технологических компаний)</strong>. Наша команда единомышленников приглашает начинающих и перспективных специалистов к сотрудничеству в Уфе.</p> <p>Подробнее о нас - на нашей странице и сайте.</p> <p><strong>Требования:</strong></p> <p>1. Высшее образование (Желательно не ниже магистра в области программирования и информационных технологий)<br />2. Опыт работы не менее 3 лет в данной области<br />3. Наличие реализованных научно-технических проектов<br />4. Есть научные публикации и патенты, выигранные гранты в области ИИ<br />5. Готовность обучаться и развиваться в области ИИ<br />6. ОЧНАЯ РАБОТА В Г. УФА</p> <p><strong>Обязанности:</strong></p> <p>1. Разработка алгоритмов для детекции и локализации объектов в видеопотоке<br />2. Адаптация, дистилляция наборов данных команды с учетом особенностей моделей машинного зрения<br />3. Хорошие знания высшей математики: линейная алгебра, теория вероятности, статистика, численные методы, мат. анализ, графы<br />4. Опыт работы с популярными DL-фреймворковами (PyTorch, Tensorflow)<br />5. Интеграция ПО высокого уровня в микрокомпьютеры и микроконтроллеры<br />6. Опыт работы с основными библиотеками компьютерного зрения (OpenCV, NumPy, SciPy и др.)<br />7. Работа с суперкомпьютером для обучения нейронных сетей<br />8. Оформление технической документации в соответствии с ГОСТ<br />9. Умение имплементировать алгоритмы Object detection, Segmentation, Classification, Pose estimation<br />10. Опыт дообучения нейронных сетей архитектур YOLO, ResNet, FastRCNN под свои задачи;</p> <p><strong>Условия:</strong></p> <p>1. Работа в перспективном Концерне и коллективе лучших специалистов ОПК и аэрокосмической промышленности<br />2. Передовые задачи на стыке ИИ<br />3. Руководящая должность, свой штат подчиненных в области ИИ<br />4. Релокационный пакет и помощь в переезде<br />5. Конкурентная заработная плата (Обсуждается после собеседования)<br />6. Возможность заниматься научной деятельностью в сфере ИИ<br />7. Комфортный офис<br />8. Официальное трудоустройство<br />9. Участие в научных конференциях и форумах, выставках<br />10. Корпоративное обучение (Курсы повышения квалификации, электронные курсы, профильные конференции, форумы и выставки) + доступ к корпоративной научно-технической библиотеке</p> <p><strong>Будет преимуществом:</strong></p> <p>1. Опыт работы с микрокомпьютерами (Repka Pi, Nvidia Jetson, Latte Panda) и ПЛИС (Xilinx / Altera) для ускорения обучения ИИ<br />2. Работа с библиотеками CUDA, Keras, Pandas<br />3. Опыт работы с фреймворками для инферейса нейронных сетей (TensorRT / ONNX Runtime)<br />4. Участие в конференциях, хакатонах и форумах по ИИ<br />5. Наличие степени кандидата наук в области ИИ<br />6. Быстрая обучаемость и самостоятельный поиск актуальной информации<br />7. Опыт работы с Linux (cmake, bash)</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": {
+    "id": 44651,
+    "name": "Брендированный шаблон 1",
+    "top_picture": {
+      "height": 560,
+      "width": 1540,
+      "path": "https://img.hhcdn.ru/branding-pictures/3269401.png",
+      "blurred_path": null
+    },
+    "bottom_picture": {
+      "height": 704,
+      "width": 1540,
+      "path": "https://img.hhcdn.ru/branding-pictures/3275295.png",
+      "blurred_path": null
+    }
+  },
+  "key_skills": [
+    {
+      "name": "ИИ"
+    },
+    {
+      "name": "Алгоритмы и структуры данных"
+    },
+    {
+      "name": "Математическое программирование"
+    },
+    {
+      "name": "Нейронные сети"
+    },
+    {
+      "name": "Классическое машинное обучение"
+    },
+    {
+      "name": "PyTorch"
+    },
+    {
+      "name": "TensorFlow"
+    },
+    {
+      "name": "OpenCV"
+    },
+    {
+      "name": "MATLAB"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Keras"
+    },
+    {
+      "name": "PyCharm"
+    },
+    {
+      "name": "CUDA"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11619215",
+    "name": "Technovation Concern (ООО Концерн Техновация)",
+    "url": "https://api.hh.ru/employers/11619215",
+    "alternate_url": "https://hh.ru/employer/11619215",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1408636.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7254204.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7254205.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11619215",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-16T12:54:40+0300",
+  "created_at": "2025-05-16T12:54:40+0300",
+  "initial_created_at": "2025-03-20T14:02:53+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=118603714",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/118603714",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b1",
+        "name": "B1 — Средний"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

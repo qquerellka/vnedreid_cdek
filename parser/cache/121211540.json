@@ -1,0 +1,141 @@
+{
+  "id": "121211540",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Senior frontend developer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "проспект Вернадского",
+    "building": "41",
+    "lat": 55.67459,
+    "lng": 37.503468,
+    "description": null,
+    "raw": "Москва, проспект Вернадского, 41",
+    "metro": {
+      "station_name": "Проспект Вернадского",
+      "line_name": "Сокольническая",
+      "station_id": "1.118",
+      "line_id": "1",
+      "lat": 55.676549,
+      "lng": 37.504584
+    },
+    "metro_stations": [
+      {
+        "station_name": "Проспект Вернадского",
+        "line_name": "Сокольническая",
+        "station_id": "1.118",
+        "line_id": "1",
+        "lat": 55.676549,
+        "lng": 37.504584
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><em>Мы занимаемся разработкой и сопровождением высоконагруженных информационных систем.</em><br /><br /><strong>О проекте:</strong></p> <p>Разработка ИИ-платформы для продажи автономных ИИ-агентов по подписке. Мы специализируемся на ИИ-агентах в области разработки ПО. Задача Платформы – научить LLM модель создавать ПО с учётом корпоративных правил, политик и библиотек. Научить ИИ-агента работать в гибридной команде с людьми: пользоваться репозиториями, трекерами и wiki.</p> <p>Стартуем «с нуля», никакого legacy!</p> <strong>Обязанности:</strong><br /><ul> <li>Разработка пользовательского интерфейса ИИ-платформы;</li> <li>Наполнение базы знаний для ИИ-агента «Front-End разработчик».</li> </ul> <p>​​​​​​​​​​​​​​<strong>Требования:</strong></p> <ul> <li>​​​​​​​Опыт работы front-end разработчиком от 5 лет;</li> <li>Отличные знания и опыт коммерческого использования React, Angular, Vue.js, Svelte;</li> <li>Отличные знания HTML5, CSS3, SASS, JavaScript, TypeScript;</li> <li>Умение писать модульные и функциональные тесты;</li> <li>Умение писать «с нуля», декомпозировать сложный UI, проектировать микрофронты и модульные приложения.</li> </ul> <p><strong>Условия:</strong>​​​​​​​</p> <ul> <li>Офисный/гибридный/удаленный формат работы;</li> <li>График работы 5/2 с 9:30-18:30;</li> <li>Комфортное рабочее место в современном и стильном офисе;</li> <li>ДМС;</li> <li>Конкурентный уровень дохода (<em>обсуждается на этапе собеседования</em>);</li> <li>Пешая доступность от метро Проспект Вернадского (2 минуты);</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11089368",
+    "name": "РТК-СОФТ",
+    "url": "https://api.hh.ru/employers/11089368",
+    "alternate_url": "https://hh.ru/employer/11089368",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1420794.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7302825.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7302826.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11089368",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T10:55:00+0300",
+  "created_at": "2025-06-05T10:55:00+0300",
+  "initial_created_at": "2025-06-02T10:55:00+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121211540",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121211540",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_9",
+      "name": "9 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

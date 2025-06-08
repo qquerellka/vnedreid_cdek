@@ -1,0 +1,137 @@
+{
+  "id": "119323681",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Программист 1С",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 90000,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 90000,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "5-я линия Васильевского острова",
+    "building": "70",
+    "lat": 59.949294,
+    "lng": 30.274384,
+    "description": null,
+    "raw": "Санкт-Петербург, 5-я линия Васильевского острова, 70",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>Настройка, администрирование и программирование конфигурации 1С УПП 2.0 1С PLM, Бухгалтерия 3.0, ЗуП 3.1.</li> </ul> <strong>Требования:</strong> <ul> <li>Знание специфики работы производственного предприятия радиоэлектронной промышленности.</li> </ul> <strong>Условия:</strong> <ul> <li>режим работы: пятидневка с 9:00 до 18:00, пятница - сокращенная,</li> <li>оформление по ТК РФ, соц.гарантии, &quot;белая&quot; заработная плата,</li> <li>своевременная выплата заработной платы,</li> <li>скидки на проживание на базе отдыха &quot;Фрегат&quot; в дер.Орехово Приозерского района для сотрудников и членов их семей,</li> <li>работа рядом со ст.м. &quot;Василеостровская&quot; (6-7 мин.пешком), ст.м. &quot;Спортивная-2&quot; (10-12 мин.пешком).</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "1С программирование"
+    },
+    {
+      "name": "1С: Управление Производственным Предприятием"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "600602",
+    "name": "Радуга, ПКГ",
+    "url": "https://api.hh.ru/employers/600602",
+    "alternate_url": "https://hh.ru/employer/600602",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=600602",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T10:58:52+0300",
+  "created_at": "2025-06-03T10:58:52+0300",
+  "initial_created_at": "2025-04-09T11:52:38+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119323681",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119323681",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

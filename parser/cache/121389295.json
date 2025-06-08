@@ -1,0 +1,115 @@
+{
+  "id": "121389295",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Разработчик C++",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<strong>Чем предстоит заниматься:</strong> <ul> <li>Разработка модулей инструментального и диагностического ПО на C++ с использованием фреймворка Qt.</li> </ul> <strong>Мы ожидаем:</strong> <ul> <li>Высшее техническое образование;</li> <li>Опыт работы 1-3 года в направлении разработки ПО;</li> <li>Опыт работы с фреймворком Qt;</li> <li>Опыт работы с Git.</li> </ul> <strong>Мы предлагаем:</strong> <ul> <li>Оформление в соответствии с ТК РФ, полностью официальная заработная плата, социальные гарантии, выплата больничных и отпускных;</li> <li>Достойный уровень оплаты труда (по результатам собеседования);</li> <li>Бурно растущий продукт, сильная техническая экспертиза, опытные коллеги из международных компаний;</li> <li>Гарантия уникального проектного опыта, разнообразные задачи и проекты;</li> <li>Поддерживающая атмосфера и приятный микроклимат в компании.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9624530",
+    "name": "Р-Софт",
+    "url": "https://api.hh.ru/employers/9624530",
+    "alternate_url": "https://hh.ru/employer/9624530",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1070589.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5902985.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5902986.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9624530",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T15:19:00+0300",
+  "created_at": "2025-06-05T15:19:00+0300",
+  "initial_created_at": "2025-06-05T15:19:00+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121389295",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121389295",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

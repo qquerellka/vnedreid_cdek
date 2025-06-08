@@ -1,0 +1,133 @@
+{
+  "id": "119302455",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Middle Python-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Команда расширяется в связи с увеличением планируемых работ для команды и мы ищем уверенного самостоятельного разработчика уровня middle, способного работать без необходимости постоянного контроля за принятием технических решений в процессе работы над задачами.</strong><br /><br /><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Разработка и поддержка веб-приложений на Python;</li> <li>Участие в проектировании архитектуры программных решений;</li> <li>Оптимизация и рефакторинг существующего кода;</li> <li>Взаимодействие с командой для достижения общих целей проекта;</li> <li>Интеграция с внешними API и сервисами;</li> <li>Написание и поддержка технической документации.</li> </ul> <p><strong>Что ожидаем:</strong></p> <ul> <li>Уверенные знания Python 3.8+;</li> <li>Уверенные знания как минимум одного из Web фреймворков - Django/FastAPI;</li> <li>Опыт написание тестов с использованием библиотеки pytest;</li> <li>Понимание и умение грамотно использовать принципы и практики чистой архитектуры и чистоты кода ;</li> <li>Умение работы с UNIX системами на базовом уровне;</li> <li>Уверенные знания работы и устройства реляционных БД (PostgreSQL является преимуществом);</li> <li>Умение работать с message brokerами (RabbitMQ, Redis является преимуществом);</li> <li>Опыт работы с k8s.</li> </ul> <p><strong>Мы ценим:</strong></p> <ul> <li>Гибкие навыки: слушать, выражать мысли и чувства, решать конфликты;</li> <li>Самостоятельность: брать ответственность на себя и решать проблемы;</li> <li>Любовь и интерес к профессии: стремление развиваться, изучать новое, делиться знаниями и опытом.</li> </ul> <p><strong>Что предлагаем:</strong></p> <ul> <li>Удаленный формат работы. При желании можно посещать наши уютные офисы в Москве, Самаре и Санкт-Петербурге;</li> <li>Гибкий график;</li> <li>Официальное трудоустройство по ТК РФ, льготы аккредитованной ИТ-компании;</li> <li>Внутреннее и внешнее обучение;</li> <li>ДМС с первого месяца;</li> <li>Wellbeing-программа, включающая консультации с психологами, юристами, финансовыми экспертами, а также онлайн-занятия с фитнес-тренерами;</li> <li>Возможность развивать личный бренд: выступление на митапах, конференциях, публикация статей<em>;</em></li> <li>Бесплатные пользование услугами компании: домены, хостинг, SSL;</li> <li>Современная техника для работы;</li> <li>Корпоративные скидки в магазины, кафе, фитнес-залы.</li> </ul>",
+  "branded_description": "\n<style>\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    font-family: \"Arial\", sans-serif;\n    color: #000;\n    font-size: 14px;\n    line-height: 21px;\n    overflow: hidden;\n}\n.tmpl_hh_wrapper *{\n    box-sizing: border-box;\n}\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n.hht-vacancydescription {\n    padding: 0px;\n}\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;    \n}\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-weight: normal;\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n    display: inline;\n}\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    margin: 0 0 10px;\n}\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    color: #000;\n    display: block;\n    font-size: 20px;\n    line-height: 28px;\n    font-weight: 400;\n}\n.tmpl_hh_content b em,\n.tmpl_hh_content strong em,\n.tmpl_hh_content em b,\n.tmpl_hh_content em strong {\n    font-size: initial;\n    line-height: initial;\n    font-style: normal;\n    font-weight: bold;\n    color: initial;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong{\n    margin: 0;   \n    display: inline;\n}\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 24px;\n    list-style: none !important;\n    margin-bottom: 24px;\n}\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 8px;\n}\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ul li strong em,\n.tmpl_hh_content ol li strong em,\n.tmpl_hh_content ul li em strong,\n.tmpl_hh_content ol li em strong {\n    font-size: initial;\n    line-height: initial;\n    font-weight: bold;\n    font-style: normal;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 8px;\n    margin-bottom: 8px;\n}\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;    \n}\n.tmpl_hh_content li:before {\n    content: '';\n    position: absolute;\n    left: -18px;\n    top: 0;\n}\n.tmpl_hh_content ul>li:before {\n    width: 14px;\n    height: 1px;\n    background-color: #000;\n    left: -24px;\n    top: 10px;\n}\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter)'.';\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n.tmpl_hh_video {\n    position: relative;\n    width: 100%;\n}\n.tmpl_hh_video img,\n.tmpl_hh_video iframe {\n    position: absolute;\n    left: 0;\n    top: 0;\n    width: 100%;\n    height: 100%;\n}\n\n.tmpl_hh_wrapper img{\n    width: 100%;\n    display: block;\n}\n.tmpl_hh_content {\n    padding: 0 45px 0px;\n    margin-top: -62px;\n}\n.tmpl_hh_content .tmpl_hh_anchor{\n    margin-top: 45px;\n}\n.tmpl_hh_header{\n    position: relative;\n    padding: 0;\n}\n.tmpl_hh_header p{\n    font-size: 20px;\n    line-height: 28px;\n    position: absolute;\n    top: 65.6%;\n    left: 44px;\n    max-width: 312px;\n}\n.tmpl_hh_content .tmpl_hh_title{\n    display: block;\n    margin-top: 24px;\n}\n.tmpl_hh_why{\n    padding: 45px 45px;\n    background-color: #F1F1F1;\n}\n.tmpl_hh_why strong{\n    display: block;\n    margin-bottom: 28px;\n    font-size: 36px;\n    line-height: 40px;\n}\n.tmpl_hh_why__items{\n    display: flex;\n    justify-content: space-between;\n    flex-wrap: wrap;\n}\n.tmpl_hh_why__items .tmpl_hh_item{\n    width: 49%;\n    border-radius: 8px;\n    border: 1px solid rgba(0, 0, 0, 0.15);\n    padding: 24px 24px 98px;\n    margin-bottom: 12px;\n    position: relative;\n}\n.tmpl_hh_why__items span{\n    font-size: 20px;\n    line-height: 28px;\n    display: block;\n    margin-bottom: 6px;\n}\n.tmpl_hh_why__items p{\n    font-size: 12px;\n    line-height: 18px;\n    width: 99%;\n}\n.tmpl_hh_why__items img{\n    width: 56px;\n    position: absolute;\n    bottom: 23px;\n    left: 23px;\n}\n.tmpl_hh_why__footer{\n    position: relative;\n    margin-top: 25px;\n}\n.tmpl_hh_why__footer b{\n    display: block;\n    font-size: 36px;\n    line-height: 40px;\n\n}\n.tmpl_hh_why__footer b span{\n    font-size: 20px;\n    line-height: 28px;\n    display: block;\n    font-weight: 400;\n}\n.tmpl_hh_why__footer .tmpl_hh_lawyer{\n    right: 0;\n    top: 11px;\n    opacity: 0.25;\n    font-size: 11px;\n    line-height: 18px;\n    position: absolute;\n    text-align: right;\n    width: 200px;\n}\n\n@media (max-width: 1019px) {\n    .tmpl_hh_content{\n        margin-top: -50px;\n    }\n    .tmpl_hh_why__items p br{\n        display: none;\n    }\n    .tmpl_hh_why__footer b{\n        font-size: 30px;\n    }\n}\n\n@media (max-width: 699px) {\n\n    .tmpl_hh_header p {\n        font-size: 14px;\n        line-height: 21px;\n        top: 68.6%;\n        left: 15px;\n        max-width: 203px;\n    }\n    .tmpl_hh_content {\n        margin-top: 0px;\n        padding: 0 15px;\n    }\n    .tmpl_hh_content .tmpl_hh_title {\n        margin-top: 20px;\n    }\n    .tmpl_hh_content ol, .tmpl_hh_content ul{\n        margin-bottom: 20px;\n    }\n    .tmpl_hh_content .tmpl_hh_anchor {\n        margin-top: 36px;\n    }\n    .tmpl_hh_why {\n        padding: 36px 15px 25px;\n    }\n    .tmpl_hh_why strong {\n        font-size: 28px;\n        line-height: 31px;\n        width: 182px;\n        margin-bottom: 24px;\n    }\n    .tmpl_hh_why__items .tmpl_hh_item {\n        width: 100%;\n        padding: 24px 15px 90px;\n        margin-bottom: 10px;\n    }\n    .tmpl_hh_why__items p{\n        width: 100%;\n    }\n    .tmpl_hh_why__items .tmpl_hh_item--1 p{\n        width: calc(100% - 30px);\n    }\n    .tmpl_hh_why__items .tmpl_hh_item--3 p{\n        width: 99%;\n    }\n    .tmpl_hh_why__items .tmpl_hh_item--4 p{\n        width: calc(100% - 18px);\n    }\n    .tmpl_hh_why__items img{\n        width: 48px;\n        left: 14px;\n    }\n    .tmpl_hh_why__items .tmpl_hh_item--6 p{ \n        width: calc(100% - 20px);\n    }\n    .tmpl_hh_why__footer{\n        margin-top: 14px;\n    }\n    .tmpl_hh_why__footer b {\n        font-size: 28px;\n        line-height: 31px;\n    }\n    .tmpl_hh_why__footer .tmpl_hh_lawyer{\n        position: relative;\n        text-align: left;\n        width: 100%;\n        right: 0;\n        top: 0;\n        margin-top: 12px;\n        line-height: 15px;\n    }\n}\n</style>\n\n<script>\n//\n\n    function DOM_HH_Ready() {\n    // весь код, кроме библиотек тут\n\n        var lists = [].slice.call(document.querySelectorAll('.tmpl_hh_content ul, .tmpl_hh_content ol'));\n        lists.forEach(function(item){\n            var beforeEl = item.previousElementSibling;\n            beforeEl.classList.add('tmpl_hh_title');\n        });\n\n    }\n    if (document.readyState === \"loading\") {\n        document.addEventListener(\"DOMContentLoaded\", DOM_HH_Ready);\n    } else {\n        DOM_HH_Ready();\n    }\n\n//\n</script>\n\n    <div class=\"tmpl_hh_wrapper\">\n        \n        <div class=\"tmpl_hh_header\">\n            <picture>\n                <source srcset=\"https://hhcdn.ru/ichameleon/306190.png\" media=\"(max-width: 699px)\"></source>\n                <img src=\"https://hhcdn.ru/ichameleon/306188.png\" srcset=\"https://hhcdn.ru/ichameleon/306189.png 2x\" alt=\"\">\n            </picture>\n            <p>Мы создаем атмосферу, в которой хочется развиваться</p>\n        </div>\n        \n        <div class=\"tmpl_hh_content\">\n            <p><strong>Команда расширяется в связи с увеличением планируемых работ для команды и мы ищем уверенного самостоятельного разработчика уровня middle, способного работать без необходимости постоянного контроля за принятием технических решений в процессе работы над задачами.</strong><br><br><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Разработка и поддержка веб-приложений на Python;</li> <li>Участие в проектировании архитектуры программных решений;</li> <li>Оптимизация и рефакторинг существующего кода;</li> <li>Взаимодействие с командой для достижения общих целей проекта;</li> <li>Интеграция с внешними API и сервисами;</li> <li>Написание и поддержка технической документации.</li> </ul> <p><strong>Что ожидаем:</strong></p> <ul> <li>Уверенные знания Python 3.8+;</li> <li>Уверенные знания как минимум одного из Web фреймворков - Django/FastAPI;</li> <li>Опыт написание тестов с использованием библиотеки pytest;</li> <li>Понимание и умение грамотно использовать принципы и практики чистой архитектуры и чистоты кода ;</li> <li>Умение работы с UNIX системами на базовом уровне;</li> <li>Уверенные знания работы и устройства реляционных БД (PostgreSQL является преимуществом);</li> <li>Умение работать с message brokerами (RabbitMQ, Redis является преимуществом);</li> <li>Опыт работы с k8s.</li> </ul> <p><strong>Мы ценим:</strong></p> <ul> <li>Гибкие навыки: слушать, выражать мысли и чувства, решать конфликты;</li> <li>Самостоятельность: брать ответственность на себя и решать проблемы;</li> <li>Любовь и интерес к профессии: стремление развиваться, изучать новое, делиться знаниями и опытом.</li> </ul> <p><strong>Что предлагаем:</strong></p> <ul> <li>Удаленный формат работы. При желании можно посещать наши уютные офисы в Москве, Самаре и Санкт-Петербурге;</li> <li>Гибкий график;</li> <li>Официальное трудоустройство по ТК РФ, льготы аккредитованной ИТ-компании;</li> <li>Внутреннее и внешнее обучение;</li> <li>ДМС с первого месяца;</li> <li>Wellbeing-программа, включающая консультации с психологами, юристами, финансовыми экспертами, а также онлайн-занятия с фитнес-тренерами;</li> <li>Возможность развивать личный бренд: выступление на митапах, конференциях, публикация статей<em>;</em></li> <li>Бесплатные пользование услугами компании: домены, хостинг, SSL;</li> <li>Современная техника для работы;</li> <li>Корпоративные скидки в магазины, кафе, фитнес-залы.</li> </ul><div class=\"tmpl_hh_anchor\"></div>\n        </div>\n\n        <div class=\"tmpl_hh_why\">\n            <strong>Почему с нами круто</strong>\n            <div class=\"tmpl_hh_why__items\">\n                <div class=\"tmpl_hh_item tmpl_hh_item--1\">\n                    <span>Открытость</span>\n                    <p>Мы поддерживаем друг друга <br>и для нас важно, чтобы каждый сотрудник мог и хотел делиться своими идеями с командой.</p>\n                    <img src=\"https://hhcdn.ru/ichameleon/304792.svg\" alt=\"\">\n                </div>\n                <div class=\"tmpl_hh_item\">\n                    <span>Актуальный стек</span>\n                    <p>Мы разрабатываем сервисы на Python, Go, PHP, React и Vue. Также используем K&amp;S, Docker, Prometheus, MySQL, PostgreSQL.</p>\n                    <img src=\"https://hhcdn.ru/ichameleon/304790.svg\" alt=\"\">\n                </div>\n                <div class=\"tmpl_hh_item tmpl_hh_item--3\">\n                    <span>Современная атмосфера</span>\n                    <p>От офиса и оборудования до стиля общения. Мы работаем удаленно, <br>а еще у нас есть коворкинги в Москве, Санкт-Петербурге и Самаре.</p>\n                    <img src=\"https://hhcdn.ru/ichameleon/304791.svg\" alt=\"\">\n                </div>\n                <div class=\"tmpl_hh_item tmpl_hh_item--4\">\n                    <span>Обучение</span>\n                    <p>Ты сможешь пройти обучение в Корпоративном университете, <br>пройти внешнее обучение <br>или принять участие в конференции.</p>\n                    <img src=\"https://hhcdn.ru/ichameleon/304789.svg\" alt=\"\">\n                </div>\n                <div class=\"tmpl_hh_item\">\n                    <span>Командная работа</span>\n                    <p>У нас не каждый сам за себя, а мы делаем проекты вместе. У нас принято делиться своей экспертизой и открыто обсуждать рабочие задачи. Мы фокусируемся на практической отдаче, все быстро и четко, обсудили — сделали.</p>\n                    <img src=\"https://hhcdn.ru/ichameleon/304793.svg\" alt=\"\">\n                </div>\n                <div class=\"tmpl_hh_item tmpl_hh_item--6\">\n                    <span>Заботимся о здоровье</span>\n                    <p>Каждый сотрудник получает ДМС с первого месяца работы. Полис включает психологическую и экстренную медицинскую помощь, телемедицину и страховку в путешествиях за рубежом.</p>\n                    <img src=\"https://hhcdn.ru/ichameleon/304794.svg\" alt=\"\">\n                </div>\n            </div>\n            <div class=\"tmpl_hh_why__footer\">\n                <b>Оставляй отклик <span>и задавай вопросы!</span></b>\n                <div class=\"tmpl_hh_lawyer\">АО «РЕГИОНАЛЬНЫЙ СЕТЕВОЙ ИНФОРМАЦИОННЫЙ ЦЕНТР» работает под брендом Runity</div>\n            </div>\n        </div>\n    </div>\n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Django Framework"
+    },
+    {
+      "name": "FastAPI"
+    },
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "RabbitMQ"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "567049",
+    "name": "Рунити",
+    "url": "https://api.hh.ru/employers/567049",
+    "alternate_url": "https://hh.ru/employer/567049",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1203032.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6432577.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6432578.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=567049",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-26T14:30:05+0300",
+  "created_at": "2025-05-26T14:30:05+0300",
+  "initial_created_at": "2025-04-08T19:23:38+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119302455",
+  "has_test": true,
+  "test": {
+    "required": false
+  },
+  "alternate_url": "https://hh.ru/vacancy/119302455",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

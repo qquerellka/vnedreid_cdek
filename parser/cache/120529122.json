@@ -1,0 +1,218 @@
+{
+  "id": "120529122",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 150000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 150000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Ленинградское шоссе",
+    "building": "25к2",
+    "lat": 55.827671,
+    "lng": 37.487568,
+    "description": null,
+    "raw": "Москва, Ленинградское шоссе, 25к2",
+    "metro": {
+      "station_name": "Балтийская",
+      "line_name": "МЦК",
+      "station_id": "95.543",
+      "line_id": "95",
+      "lat": 55.825833,
+      "lng": 37.496111
+    },
+    "metro_stations": [
+      {
+        "station_name": "Балтийская",
+        "line_name": "МЦК",
+        "station_id": "95.543",
+        "line_id": "95",
+        "lat": 55.825833,
+        "lng": 37.496111
+      },
+      {
+        "station_name": "Водный стадион",
+        "line_name": "Замоскворецкая",
+        "station_id": "2.29",
+        "line_id": "2",
+        "lat": 55.838978,
+        "lng": 37.487515
+      },
+      {
+        "station_name": "Войковская",
+        "line_name": "Замоскворецкая",
+        "station_id": "2.30",
+        "line_id": "2",
+        "lat": 55.818923,
+        "lng": 37.497791
+      },
+      {
+        "station_name": "Стрешнево",
+        "line_name": "МЦК",
+        "station_id": "95.542",
+        "line_id": "95",
+        "lat": 55.813611,
+        "lng": 37.486944
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Компания КваттроЛаб</strong> – отечественный разработчик ИТ-решений для здравоохранения, представлен на рынке с 2021 года.</p> <p><strong>Наш продукт </strong>Цифровой помощник в анестезиологии и реанимации РАИСа<strong> </strong>в 2023 году признан лучшим ИТ-решением для здравоохранения.</p> <p><strong>Наша технология </strong>Помогает спасать жизни, обеспечивая высокую точность и надежность в принятии критических медицинских решений.</p> <p><strong>Наши заказчики </strong>– Ведущие государственные и частные клиники России, где есть операционные и отделения реанимации.</p> <p><strong>Приглашаем в команду единомышленников</strong>, которая разговаривает на одном языке о медицине и об IT<strong> кандидата на позицию Системного администратора.</strong></p> <strong>Чем предстоит заниматься:</strong> <ul> <li>Конфигурация и администрирование виртуальных машин/физических серверов на удаленных объектах (больницы) на ОС Linux (Ubuntu и в перспективе Red OS / Astra Linux);</li> <li>Коммуникация с IT службами на объектах для обеспечения необходимых ресурсов;</li> <li>Настройка и администрирование сетей на удаленных объектах;</li> <li>Улучшение отказоустойчивости систем, поиск проблемных мест в сервисах и на серверах, устранение неполадок;</li> <li>Улучшение систем деплоя и мониторинга сервисов;</li> <li>Обслуживание инфраструктуры внутри компании (учетные записи, офисные VPN и прочее);</li> <li>Поддержка и обслуживание внутренних серверов (Linux);</li> <li>Управление, настройка и поддержка Active Directory;</li> <li>Управление, настройка и поддержка Kaspersky;</li> <li>Настройка и администрирование VPN туннелей;</li> <li>Организация рабочих мест;</li> <li>Настройка сетевого оборудования;</li> <li>Закупка ПО, комплектующих и расходных материалов.</li> </ul> <p> </p> <p><strong>Что ожидаем от кандидата:</strong></p> <div> <ul> <li>Навыки администрирование Linux/Windows ( у нас будет пропорция 80/20);</li> <li>Навыки конфигурирования виртуальных машин (HyperV, VirtualBox, Proxmox, ESXI);</li> <li>Понимание работы протоколов TCP, UDP, HTTP, SSL;</li> <li>Умение настраивать сети, организовывать маршрутизацию между несколькими подсетями, проводить диагностику и решение неполадок;</li> <li>Конфигурация нескольких сетевых карт, netplan, DNS и прочее:</li> <li>Навыки работы с OpenVPN;</li> <li>Навыки работы Docker, Ansible;</li> <li>Навыки работы Active Directory, Kaspersky;</li> <li>Работа с мониторингом Zabbix. MikroTik;</li> <li>Преимущество - опыт работы с инф. безопасностью.</li> </ul> <p><strong>Soft skills</strong><strong>: </strong></p> </div> <div> <ul> <li>Желание обучаться и развиваться, вовлеченность, умение переключаться между задачами.</li> </ul> <div> </div> </div> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Работу в IT аккредитованной Компании- резидента СКОЛКОВО;</li> <li>Конкурентную и стабильную заработную плату (Уровень вознаграждения обсуждается индивидуально в соответствии с бэк-граундом кандидата);</li> <li>Трудоустройство согласно ТК РФ;</li> <li>Офисный формат работы 5/2. С гибким началом рабочего дня с 8:00 до 10:00;</li> <li>Возможен гибрид после прохождения испытательного срока;</li> <li> <p>Рабочее место: Москва, ул. Ленинградское шоссе 25/2;</p> </li> <li> <p>Испытательный срок составит 3 месяца с даты выхода.</p> </li> </ul> <p><strong><em>Присоединяйтесь к нам, чтобы вместе создавать будущее здравоохранения!</em></strong></p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "OpenVPN"
+    },
+    {
+      "name": "Zabbix"
+    },
+    {
+      "name": "Ubuntu Server"
+    },
+    {
+      "name": "Администрирование серверов Linux"
+    },
+    {
+      "name": "Proxmox"
+    },
+    {
+      "name": "Администрирование сетевого оборудования"
+    },
+    {
+      "name": "Удаленное администрирование"
+    },
+    {
+      "name": "MikroTik"
+    },
+    {
+      "name": "Установка драйверов"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4929753",
+    "name": "КваттроЛаб",
+    "url": "https://api.hh.ru/employers/4929753",
+    "alternate_url": "https://hh.ru/employer/4929753",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1370604.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/7102318.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/7102319.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4929753",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T11:59:18+0300",
+  "created_at": "2025-06-03T11:59:18+0300",
+  "initial_created_at": "2025-05-14T12:32:09+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120529122",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120529122",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

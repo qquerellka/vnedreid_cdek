@@ -1,0 +1,220 @@
+{
+  "id": "121409156",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Lead Senior DevOps engineer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 6000,
+    "to": 8000,
+    "currency": "USD",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 6000,
+    "to": 8000,
+    "currency": "USD",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Московское центральное кольцо",
+    "building": "станция Деловой центр",
+    "lat": 55.747581,
+    "lng": 37.531936,
+    "description": null,
+    "raw": "Москва, Московское центральное кольцо, станция Деловой центр",
+    "metro": {
+      "station_name": "Москва-Сити",
+      "line_name": "Филевская",
+      "station_id": "4.179",
+      "line_id": "4",
+      "lat": 55.748056,
+      "lng": 37.532778
+    },
+    "metro_stations": [
+      {
+        "station_name": "Москва-Сити",
+        "line_name": "Филевская",
+        "station_id": "4.179",
+        "line_id": "4",
+        "lat": 55.748056,
+        "lng": 37.532778
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><em>Западная веб-компания, имеющая линейку веб-продуктов, для развития и поддержки нового продукта в области dating-приложений<strong>, </strong>ищет талантливого </em><strong>Lead Senior DevOps engineer, играющий тренер, по своей сути </strong><em>(работает руками и может управлять командой).</em><br /><br /><em>Мы ведем деятельность по разработке веб-продуктов для взрослой аудитории, сегодня реализует проекты в области специализированного интернет-поиска. </em></p> <p><em>Совсем кратко о продукте:<br />Специализированная нишевая поисковая машина с управлением рекламодателями, сложным ранжированием, краулингом и при<em>личн</em>ым трафиком. Приложение &quot;консьерж-сервис&quot; с аналитическими функциями и раз<em>личн</em>ыми типами клиентов. Подробнее на интервью.</em></p> <p><strong>Задачи:</strong></p> <ul> <li>Развитие культуры devops в компании;</li> <li>Развитие и оптимизация текущей инфраструктуры проекта;</li> <li>Автоматизация процессов развертывания систем, проектов и окружений;</li> <li>Мониторинг стабильности работы приложений, выявление узких мест в инфраструктуре;</li> <li>Проведение совместных мероприятий по повышению произ<em>водит</em>ельности работающий сервисов вместе с командой разработки;</li> <li>Наем, менторинг, увольнение команды.</li> </ul> <p><strong>Навыки:</strong></p> <ul> <li>Опыт управления небольшими командами, работать руками так же потребуется;</li> <li><em>Опыт</em> работы в средних или высоконагруженных проектах (web проекты);</li> <li>Понимание DevOps-практик;</li> <li>Разработка и поддержка пайплайнов;</li> <li><em>Опыт</em> конфигурации и эксплуатации RabbitMQ, PostgreSQL, MongoDb, Redis, Nginx, geo-dns, loadbalancing, HA, Docker, kubernetes/docker swarm, sentry;</li> <li>Хорошее понимание нюансов работы Elasticsearch;</li> <li><em>Опыт</em> работы со Spark, HDFS - будет плюс;</li> <li>Знание скриптовых языков (Shell, Python, etc);</li> <li><em>Опыт</em> работы с инструментами управления конфигурацией (Ansible, Chef, etc);</li> <li><em>Опыт</em> настройки CI и CD систем (gitlab-ci или других);</li> <li><em>Опыт</em> работы с инструментами для мониторинга ключевых показателей корректности работы приложения (prometheus);</li> <li> <p><em>Опыт</em> работы и настройки ELK;</p> </li> <li> <p>Развивать форк ClickHouse;</p> </li> <li>Навыки администрирования Linux для настройки всего вышеперечисленного с учетом требований к произ<em>водит</em>ельности, высокой доступности и безопасности;</li> <li>Разговорный английский (В1-С1);</li> <li>Проактивность это наше всё;<br /><br /><em><em>Опыт</em>ный, внимательный, ответственный, проактивный - откликайся)<br />Мы серьезные ребята, но посмеяться любим. Помимо основных, это качество укрепит и продлит наш союз.<br />В команде говорят по-английски и на руссом. Надеюсь тебе будет комфортно) </em></li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Рабочая атмосфера без волокиты, но с ответственностью;</li> <li>Сотрудничаем удаленно с прицелом на мск часовой пояс;</li> <li>Гибкий <em>рабочий</em> <em>график</em> в рамках 8-часового рабочего дня;</li> <li>Итоговый уровень заработной платы обсуждается с успешным кандидатом.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "MongoDB"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "swarm"
+    },
+    {
+      "name": "Prometheus"
+    },
+    {
+      "name": "ELK"
+    },
+    {
+      "name": "Clickhouse"
+    },
+    {
+      "name": "sentry"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "DevOps"
+    },
+    {
+      "name": "Elasticsearch"
+    },
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "CI/CD"
+    },
+    {
+      "name": "GitLab CI"
+    },
+    {
+      "name": "RabbitMQ"
+    },
+    {
+      "name": "k8s"
+    },
+    {
+      "name": "Ansible"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "160",
+      "name": "DevOps-инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "4712659",
+    "name": "Progressive Mind",
+    "url": "https://api.hh.ru/employers/4712659",
+    "alternate_url": "https://hh.ru/employer/4712659",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/758968.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3476829.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3476830.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4712659",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T10:09:48+0300",
+  "created_at": "2025-06-06T10:09:48+0300",
+  "initial_created_at": "2025-06-06T10:09:48+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121409156",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121409156",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b1",
+        "name": "B1 — Средний"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

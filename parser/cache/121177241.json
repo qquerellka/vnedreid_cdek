@@ -1,0 +1,145 @@
+{
+  "id": "121177241",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Backend-разработчик (C#/.NET)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Русдронопорт( аккредитованная IT компания)</strong> — это больше, чем просто работа. Это возможность быть частью революции в сфере беспилотных технологий. Если ты готов создавать будущее, а не ждать его, тебе точно к нам!</p> <p><strong>Почему стоит выбрать нас?</strong></p> <ol> <li><strong>Будущее начинается здесь.</strong> Ты будешь работать над проектами, которые реально меняют мир. Представь себе: твои идеи могут стать основой для технологий завтрашнего дня!</li> <li><strong>Карьерный рост без границ.</strong> Мы верим в твою способность расти и развиваться. Наши программы поддержки помогут тебе прокачать навыки и выйти на новый уровень.</li> <li><strong>Свобода для творчества.</strong> Мы ценим смелые идеи и даем пространство для их воплощения. Здесь твои предложения будут услышаны и реализованы.</li> <li><strong>Высокие технологии на службе прогресса.</strong> Ты будешь работать с самыми современными инструментами и решениями, которые облегчают рабочий процесс и делают его эффективнее.</li> <li><strong>Забота о каждом.</strong> Мы делаем всё, чтобы наши сотрудники чувствовали себя комфортно и уверенно. Социальные гарантии, гибкий график и поддержка на всех этапах карьеры — вот что отличает нас.</li> </ol> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Поддержка и разработка низкоуровневого и высокоуровневого ПО для управления физическими устройствами.</li> <li>Интеграция устройств в единую платформу.</li> <li>Оптимизация существующих решений и внедрение новых технологий.</li> <li>Непосредственная работа с железом, тестирование и отладка.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Опыт работы backend-разработчиком от 3 лет.</li> <li>Отличное знание C#/.NET.</li> <li>Понимание принципов взаимодействия устройств и сетевых протоколов.</li> <li>Опыт работы с Docker, настройка Linux на удалённых устройствах через терминал и SSH.</li> <li>Навыки написания чистого кода.</li> <li>Будет плюсом: знание Java/Kotlin, HTML/SCSS/TS и Angular,MGTT.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Конкурентоспособную заработную плату.</li> <li>Комфортные офисы в Москве и Казани, а также возможность удаленной или гибридной работы.</li> <li>Возможности для профессионального роста и участия в крупных российских и международных проектах.</li> <li>Демократичная атмосфера в команде и поддержка инициатив.</li> </ul> <p><strong>Стек:</strong></p> <ul> <li>C#/.NET, MongoDB, MQTT, Docker, Git.</li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "C#"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "MongoDB"
+    },
+    {
+      "name": "MQTT"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Mavlink"
+    },
+    {
+      "name": "Git"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9936093",
+    "name": "Русдронопорт",
+    "url": "https://api.hh.ru/employers/9936093",
+    "alternate_url": "https://hh.ru/employer/9936093",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1253348.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6633821.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6633822.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9936093",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T16:10:51+0300",
+  "created_at": "2025-06-05T16:10:51+0300",
+  "initial_created_at": "2025-05-30T16:10:51+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121177241",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121177241",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,115 @@
+{
+  "id": "121362176",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Старший системный администратор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": false,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>ООО «Ньютон Технологии» –– продуктовая IT-компания, которая работает над созданием приложения «Газпромбанк Инвестиции». Мы помогаем клиентам с любым уровнем дохода начать инвестировать в ценные бумаги, торгующиеся на Московской и СПБ Биржах.</p> <p>Ждем в команде как опытных профессионалов, так и начинающих специалистов, которые хотят построить карьеру в финтехе. У нас есть амбициозные задачи для разного уровня подготовки, которые помогут вырасти в профессиональном плане и добиться новых высот.</p> <p>Наша платформа — распределенная система с высокими требованиями по надежности и производительности в условиях высоких нагрузок. У нас микросервисная архитектура и нет legacy-кода, мы стараемся применять самые современные решения в разработке.<strong> </strong></p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>​​​​​​​Установка, настройка и обслуживание серверов под управлением ОС Linux и Windows.</li> <li>Обеспечение высокой доступности и отказоустойчивости инфраструктуры.</li> <li>Создание, сопровождение и развитие облачной инфраструктуры в Яндекс Облаке</li> <li>Управление системами мониторинга (например, Zabbix, Prometheus, Grafana).</li> <li>Развёртывание и сопровождение контейнеров с использованием Docker и Kubernetes (в т.ч. Managed Service for Kubernetes)</li> <li>Автоматизация инфраструктурных процессов с помощью Terraform, Ansible</li> <li>Обслуживание ключевых системных сервисов: DNS, DHCP, LDAP, NTP, VPN и пр.</li> <li>Интеграция и поддержка Service Desk-систем (Jira и аналогов)</li> <li>Поддержка платформ для совместной работы и документации (Confluence, NextCloud)</li> <li>Интеграция и сопровождение корпоративных мессенджеров, почтовых систем, видеоконференцсвязи</li> </ul> <p><strong>Что для этого потребуется:</strong></p> <ul> <li>​​​​​​​​​​​​Опыт работы в системном администрировании от 3 лет</li> <li>Уверенные знания Linux (Ubuntu, Debian, CentOS и др.) и Windows Server</li> <li>Опыт работы с облачными платформами, включая Yandex.Cloud (создание и сопровождение VM, VPC, LB, IAM, S3 и др.)</li> <li>Владение инструментами автоматизации и конфигурационного управления — Terraform, Ansible, Bash/Python</li> <li>Знание сетевых технологий и протоколов (TCP/IP, VLAN, VPN, NAT, Firewall)</li> <li>Опыт развёртывания и поддержки контейнеров и оркестрации — Docker, Kubernetes</li> <li>Навыки работы с системами мониторинга — Zabbix, Prometheus, Grafana</li> <li>Опыт работы с сервисами совместной работы (Confluence, Nextcloud)</li> <li>Знание принципов ИБ: контроль доступа, шифрование, аутентификация, 2FA</li> <li>Опыт поддержки и интеграции Service Desk-систем (Jira, OTRS, GLPI)</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Участие в динамичном и амбициозном финтех-проекте</li> <li>Интересные и сложные задачи, возможность обмена профессиональным опытом и личной самореализации</li> <li>Демократичная атмосфера, отсутствие бюрократии</li> <li>Оформление по ТК РФ</li> <li>Возможность полностью удаленной работы</li> <li>Предоставление корпоративной техники</li> </ul> <p><strong>Дополнительные бенефиты:</strong></p> <ul> <li>ДМС с базовой стоматологией</li> <li>Внутреннее и внешнее обучение, возможность участия в профильных конференциях</li> <li>Изучение иностранного языка/занятия фитнесом/индивидуальный бенефит – на выбор один из пунктов</li> <li>Психологическая поддержка</li> <li>Оплачиваемые Days off и Sick days для перезагрузки и быстрого выздоровления</li> <li>Доставка фруктов от компании в случае болезни</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2404589",
+    "name": "Ньютон Технологии",
+    "url": "https://api.hh.ru/employers/2404589",
+    "alternate_url": "https://hh.ru/employer/2404589",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1125381.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6122113.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6122114.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2404589",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T08:21:18+0300",
+  "created_at": "2025-06-05T08:21:18+0300",
+  "initial_created_at": "2025-06-05T08:21:18+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121362176",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121362176",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

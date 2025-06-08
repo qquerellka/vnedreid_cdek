@@ -1,0 +1,195 @@
+{
+  "id": "120970195",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Программист Python junior",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 100000,
+    "to": 130000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": 130000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "улица Солянка",
+    "building": null,
+    "lat": 55.752551,
+    "lng": 37.639904,
+    "description": null,
+    "raw": "Москва, улица Солянка",
+    "metro": {
+      "station_name": "Китай-город",
+      "line_name": "Таганско-Краснопресненская",
+      "station_id": "7.51",
+      "line_id": "7",
+      "lat": 55.75436,
+      "lng": 37.633877
+    },
+    "metro_stations": [
+      {
+        "station_name": "Китай-город",
+        "line_name": "Таганско-Краснопресненская",
+        "station_id": "7.51",
+        "line_id": "7",
+        "lat": 55.75436,
+        "lng": 37.633877
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>&quot;CDNvideo - ведущий провайдер сети доставки контента в России и СНГ, которая состоит из множества серверов со специализированным ПО для защиты и ускорения отдачи контента конечному пользователю в любой момент времени, из любой точки мира и на любое устройство. С помощью сервисов CDN можно организовать онлайн-трансляцию на миллионы пользователей, раздать любой статический контент на самых высоких скоростях, значительно оптимизировать сайт и ускорить его загрузку.<br />• CDN — это географически распределённая сеть серверов, на которых хранятся копии нужного людям контента, например кино.<br />• Сеть нужна, чтобы пользователи брали контент не с центрального сервера, а с тех узлов сети, которые им физически ближе.<br />• Благодаря CDN контент доставляется пользователям быстрее, а нагрузка на центральный сервер намного меньше.<br />• CDN используется в сервисах, где люди выкачивают много контента, например на видеохостингах и в онлайн-кинотеатрах.</p> <p><strong>Заработная плата строго в пределах вилки 87 000-113 000 на руки</strong></p> <p><strong>Вам предстоит :</strong></p> <ul> <li>разработка и оптимизация высоконагруженных систем статистики, inventory и биллинга с использованием современных технологий;</li> <li>участие в принятии архитектурных решений;</li> <li>ревью кода коллег;</li> <li>оказание поддержки команде администраторов при внедрении и эксплуатации разработанных компонентов;</li> </ul> <p><strong>Мы ожидаем от вас :</strong></p> <ul> <li>Python (asyncio, aiohttp, Tornado);</li> <li>навыки работы с Linux (командная строка, API);</li> <li>хорошее знание паттернов проектирования, структур данных и классических алгоритмов;</li> <li>знание основ SQL баз данных, плюсом будет знакомство с noSQL (Redis, Cassandra, ClickHouse);</li> <li>Git;</li> <li>Docker;</li> <li>знание основ построения компьютерных сетей и опыт работы с протоколами TCP, HTTP;</li> <li>личные качества: умение донести мысль до собеседника, восприимчивость к конструктивной критике;</li> <li>английский технический, чтение документации;</li> <li><strong>высшее техническое образование</strong> (законченное или в завершающей стадии получения);</li> </ul> <p><strong>Будет ощутимым плюсом:</strong></p> <ul> <li>опыт в разработке высоконагруженных систем;</li> <li>знакомство с Go или C/C++;</li> <li>знание основ JavaScript, HTML5, CSS;</li> <li>знание Apache Kafka;</li> <li>опыт работы с nginx;</li> <li>ссылка на github;</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Стабильная работа в инновационной компании-резиденте технопарка Сколково и Воробьевы горы;</li> <li>Возможность гибкого гибридного графика работы;</li> <li>ДМС со стоматологией и госпитализацией;</li> <li>Мы являемся аккредитованной IT-компанией, сотрудникам доступны соответствующие льготы в связи с ВС;</li> <li>Питание в гастропабе на Солянке и перекусы в офисе за счет компании</li> <li>Корпоративные скидки Билайн на сотни товаров и услуг в приложении best benefits</li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "C"
+    },
+    {
+      "name": "HTML5"
+    },
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "HTTP"
+    },
+    {
+      "name": "TCP/IP"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "864643",
+    "name": "CDNvideo (ООО СДН-видео)",
+    "url": "https://api.hh.ru/employers/864643",
+    "alternate_url": "https://hh.ru/employer/864643",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1194862.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6399901.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6399902.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=864643",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T11:53:52+0300",
+  "created_at": "2025-06-07T11:53:52+0300",
+  "initial_created_at": "2025-05-26T11:53:52+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120970195",
+  "has_test": true,
+  "test": {
+    "required": true
+  },
+  "alternate_url": "https://hh.ru/vacancy/120970195",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b1",
+        "name": "B1 — Средний"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

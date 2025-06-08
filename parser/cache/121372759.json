@@ -1,0 +1,161 @@
+{
+  "id": "121372759",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор Linux (сетевые технологии/DevOps-инженер)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 200000,
+    "to": 300000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 200000,
+    "to": 300000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Благовещенский переулок",
+    "building": "3с1",
+    "lat": 55.767691,
+    "lng": 37.598052,
+    "description": null,
+    "raw": "Москва, Благовещенский переулок, 3с1",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Hyper AdTech</strong> - одна из крупнейших programmatic-платформ на российском рынке, обеспечивающая размещение рекламы в мобильной среде. Наша платформа сфокусирована на мобильных приложениях и интегрирована со всеми крупнейшими поставщиками мобильного трафика.</p> <p>Основная сущность нашей backend-разработки (на с++) - подкапотная часть биддера, работающего с запросами и ответами на SSP и DSP стороне, проведением аукциона, конфигами, эндпоинтами, креативами, контролем бюджета рекламных кампаний и тд.</p> <p>Мы ищем в команду DevOps инженера, ранее функция была на аутсорсе и часть на разработке. У нас инфраструктура не облачная.</p> <p><strong>Обязанности:</strong></p> <ul> <li>Автоматизация развертывания и конфигурирования операционных систем;</li> <li>Участие в устранение инцидентов и решение проблем эксплуатации, возникающих на инфраструктуре;</li> <li>Оперативное реагирование на сообщения мониторинга;</li> <li>Участие в эксплуатации общесистемных сервисов, в том числе во внедрении и модернизации.</li> </ul> <p><strong>Задачи: </strong></p> <ul> <li>Проанализировать текущее состояние сетевой инфраструктуры - несколько распределенных ДЦ и туннели, которые их связывают.</li> <li>Оптимизировать сетевой стек, в том числе конфиги nginx/haproxy.</li> <li>Обеспечить отказоустойчивость сетевой инфраструктуры.</li> <li>Поддерживать небольшие кластеры Clickhouse и MongoDB.</li> <li>Настраивать параметры ОС (NixOS).</li> </ul> <p><strong>От вас ждем:</strong></p> <ul> <li>Глубокое понимание Linux-систем;</li> <li>Умение работать с Nix/NixOS.</li> <li>Знание bash-скриптов для автоматизации задач.</li> <li>Понимание сетевых протоколов (TCP/IP, DNS, DHCP, VLAN, VXLAN, OSPF).</li> <li>Знание метрик и алертинга для обеспечения надежности системы;</li> <li>Опыт работы с базами данных (MySQL, MongoDB, ClickHouse) и их настройкой;</li> <li>Знание принципов репликации, шардинга и резервного копирования;</li> <li>Навыки обеспечения надежности и производительности:</li> <li>Умение проводить нагрузочное тестирование и оптимизировать производительность;</li> <li>Понимание принципов высокой доступности (HA) и отказоустойчивости;</li> <li>Опыт работы с балансировщиками нагрузки (HAProxy, NGINX).</li> <li>Умение анализировать логи, метрики и трассировки для поиска корневых причин проблем;</li> <li>Опыт работы с инструментами для анализа производительности (perf, strace, tcpdump).</li> <li>Умение работать в команде и взаимодействовать с разработчиками, DevOps и другими инженерами;</li> <li>Навыки подготовки технической документации.</li> </ul> <p><strong>У нас:</strong></p> <ul> <li>Официальное оформление по ТК РФ в аккредитованную IT компанию;</li> <li><strong>Работа в офисе (один день удаленно в неделю), график работы 5/2 гибкое начало дня с 09:00 до 11:00 - в приоритете, также рассмотрим удаленку</strong></li> <li>Размер заработной платы готовы обсуждать с успешным кандидатом по итогам собеседования;</li> <li>Среда для развития и неограниченные возможности для профессионального роста;</li> <li>Интересные задачи и глубокое погружение в Adtech индустрию;</li> <li>ДМС со стоматологией после испытательного срока (классные клиники - МЕДСИ, Чайка, К+31, Поликлиника.ру, Он-Клиник, Клиники Будь Здоров и т.д.)</li> <li>Комфортный офис в Москве на Патриарших прудах (в 5 минутах пешком от м. Маяковская);</li> <li>Позитивный и доброжелательный коллектив профессионалов.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "DevOps"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Clickhouse"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4855149",
+    "name": "Hyper AdTech",
+    "url": "https://api.hh.ru/employers/4855149",
+    "alternate_url": "https://hh.ru/employer/4855149",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1406219.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7244544.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7244545.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4855149",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T10:58:07+0300",
+  "created_at": "2025-06-05T10:58:07+0300",
+  "initial_created_at": "2025-06-05T10:58:07+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121372759",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121372759",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

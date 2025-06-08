@@ -1,0 +1,199 @@
+{
+  "id": "117527289",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер-конструктор по динамике полета ЛА 2 категории",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "99",
+    "name": "Уфа",
+    "url": "https://api.hh.ru/areas/99"
+  },
+  "salary": {
+    "from": 70000,
+    "to": 130000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 70000,
+    "to": 130000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Уфа",
+    "street": "Вологодская улица",
+    "building": "60",
+    "lat": 54.818123,
+    "lng": 56.123218,
+    "description": null,
+    "raw": "Уфа, Вологодская улица, 60",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>ООО «<strong>Концерн</strong> «<strong>Техновация</strong>» разрабатывает инновационные проекты для аэрокосмической и оборонной промышленности, активно развиваясь и являясь резидентом ИЦ «<strong>Сколково</strong>», АНО «<strong>ЦБСТ</strong>» (Центр беспилотных систем и технологий, г. Москва), Пермский <strong>НПЦ БАС </strong>«<strong>Парма-БАС</strong>», ИНТЦ «<strong>Сириус</strong>», входит в реестр <strong>МТК (Малых технологических компаний)</strong>. Наша команда единомышленников приглашает начинающих и перспективных специалистов к сотрудничеству в Уфе.</p> <p>Подробнее о нас - на нашей странице и сайте.</p> <p><strong>Требования:</strong></p> <p>1. Высшее образование (Желательно не ниже бакалавра в области систем автоматического управления)<br />2. Опыт работы не менее 1 года в данной области или без требований к опыту работы с наличием сильного технического бэкграунда<br />3. Наличие реализованных научно-технических проектов<br />4. Есть научные публикации и патенты, выигранные гранты в области ТАУ ЛА (Будет преимуществом)<br />5. Готовность обучаться и развиваться в области ТАУ ЛА<br />6. Очная работа в г. Уфа</p> <p><strong>Обязанности:</strong></p> <p>1. Разработка систем автоматического управления и алгоритмов навигации, коррекции, оптимальной траектории ЛА<br />2. Опыт работы с протоколами Mavlink, MavROS<br />3. Моделирование АСУ ЛА в MATLAB &amp; Simulink / SimInTech<br />4. Разработка системного ПО для полетных контроллеров и микрокомпьютеров<br />5. Разработка структурных и принципальных схем САУ ЛА<br />6. Разработка автопилотов на базе Ardupilot, Pixhawk и др.<br />7. Опыт работы с Mission Planner и аналогичными программами для планирования полета<br />8. Знания теории автоматического управления и динамики полета<br />9. Знания ROS и Gazebo (Будет преимуществом)<br />10. Разработка математических моделей</p> <p><strong>Условия:</strong></p> <p>1. Работа в перспективном Концерне и коллективе лучших специалистов ОПК и аэрокосмической промышленности<br />2. Передовые задачи на стыке АСУ ЛА<br />3. Наставник в области САУ ЛА<br />4. Релокационный пакет и помощь в переезде<br />5. Конкурентная заработная плата (Обсуждаеся после собеседования)<br />6. Возможность заниматься научной деятельностью в сфере АСУ ЛА<br />7. Комфортный офис<br />8. Официальное трудоустройство<br />9. Участие в научных конференциях и форумах, выставках<br />10. Корпоративное обучение (Курсы повышения квалификации, электронные курсы, профильные конференции, форумы и выставки) + доступ к корпоративной научно-технической библиотеке</p> <p><strong>Будет преимуществом:</strong></p> <p>1. Опыт работы с ПЛИС (Altera / Xilinx), микроконтроллерами STM32, Российскими МК и ПЛИС<br />2. Опыт создания бортовых стендов полунатурного моделирования<br />3. Опыт создания Open-source проектов АСУ ЛА<br />4. Участие в конференциях, хакатонах и форумах по АСУ ЛА<br />5. Наличие степени магистра наук в области АСУ ЛА<br />6. Быстрая обучаемость и самостоятельный поиск актуальной информации<br />7. Знание технического английского языка и умение читать Datasheet</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": {
+    "id": 44651,
+    "name": "Брендированный шаблон 1",
+    "top_picture": {
+      "height": 560,
+      "width": 1540,
+      "path": "https://img.hhcdn.ru/branding-pictures/3269401.png",
+      "blurred_path": null
+    },
+    "bottom_picture": {
+      "height": 704,
+      "width": 1540,
+      "path": "https://img.hhcdn.ru/branding-pictures/3275295.png",
+      "blurred_path": null
+    }
+  },
+  "key_skills": [
+    {
+      "name": "САУ"
+    },
+    {
+      "name": "ТАУ"
+    },
+    {
+      "name": "Системы управления"
+    },
+    {
+      "name": "C++"
+    },
+    {
+      "name": "C"
+    },
+    {
+      "name": "Simulink"
+    },
+    {
+      "name": "MATLAB"
+    },
+    {
+      "name": "SimInTech"
+    },
+    {
+      "name": "Навигация"
+    },
+    {
+      "name": "Динамика полета"
+    },
+    {
+      "name": "Управление движением"
+    },
+    {
+      "name": "Python"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11619215",
+    "name": "Technovation Concern (ООО Концерн Техновация)",
+    "url": "https://api.hh.ru/employers/11619215",
+    "alternate_url": "https://hh.ru/employer/11619215",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1408636.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7254204.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7254205.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11619215",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-16T13:09:14+0300",
+  "created_at": "2025-05-16T13:09:14+0300",
+  "initial_created_at": "2025-02-20T15:07:08+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=117527289",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/117527289",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b1",
+        "name": "B1 — Средний"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

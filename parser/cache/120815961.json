@@ -1,0 +1,206 @@
+{
+  "id": "120815961",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Системный аналитик / Бизнес-аналитик (стажер)",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 80000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 80000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Хорошёвское шоссе",
+    "building": "35к1",
+    "lat": 55.777474,
+    "lng": 37.521704,
+    "description": null,
+    "raw": "Москва, Хорошёвское шоссе, 35к1",
+    "metro": {
+      "station_name": "Полежаевская",
+      "line_name": "Таганско-Краснопресненская",
+      "station_id": "7.114",
+      "line_id": "7",
+      "lat": 55.777201,
+      "lng": 37.517895
+    },
+    "metro_stations": [
+      {
+        "station_name": "Полежаевская",
+        "line_name": "Таганско-Краснопресненская",
+        "station_id": "7.114",
+        "line_id": "7",
+        "lat": 55.777201,
+        "lng": 37.517895
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Ищем системного аналитика в сферу разработки информационных систем (с практическим опытом проектирования и внедрения ПО).</p> <p>Аккредитованная ИТ-компания.</p> <p> </p> <p><strong>Обязанности:</strong></p> <ul> <li>Сбор требований по разработке/ доработке программного обеспечения</li> <li>Формализация и согласование требований с представителями заказчика (описание бизнес-процессов, структур данных, протипирование интерфейсов)</li> <li>Постановка задач разработчикам, приемка выполненных разработок</li> <li>Обеспечение внедрения программных продуктов компании</li> <li>Взаимодействие со службой технической поддержки</li> <li>Участие в подготовке документации (спецификация, техническое задание, пояснительная записка, рабочие инструкции и т.п.)</li> <li>Проведение презентаций</li> </ul> <p> </p> <p><strong>Требования:</strong></p> <ul> <li>Опыт работы: по профилю от 1 года или стажер</li> <li>Умение структурировать полученную информацию и четко излагать свои мысли</li> <li>Общее понимание концепций баз данных, общих принципов проектирования программного обеспечения</li> <li>Владение методиками описания бизнес-процессов,</li> <li>Образование: высшее техническое /экономическое</li> <li>Владение ПК на уровне квалифицированного пользователя, владение стандартными средствами MS Office (Word, Excel, PP, Visio, Project)</li> <li>Иностранные языки: английский технический на уровне, достаточном для работы на ПК</li> <li>Аккуратность, пунктуальность, ответственность, умение работать на результат</li> <li>Письменная грамотность</li> <li>Опрятный вид</li> </ul> <p><strong>Желательно:</strong></p> <ul> <li>Знакомство со стандартами ГОСТ в сфере ИТ</li> <li>Знание законодательства в сфере государственных закупок (44-ФЗ) и защиты информации</li> <li>Знание методик описания бизнес-процессов (UML и т.п.)</li> <li>Опыт работы с государственными организациями</li> <li>Готовность к командировкам (не более 20 % рабочего времени)</li> </ul> <p> </p> <p><strong>Условия:</strong></p> <ul> <li>Аккредитованная ИТ компания</li> <li>Возможность профессионального и карьерного роста</li> <li>Возможно обучение основам профессии</li> <li>Сплоченный молодой коллектив, нацеленный на решение поставленных задач</li> <li>Соблюдение требований Трудового законодательства, социальный пакет (оплата отпусков и больничных)</li> <li>Заработная плата обговаривается по результатам собеседования</li> <li>Работа в офисе, допускается удаленный формат</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "MS Visio"
+    },
+    {
+      "name": "UML"
+    },
+    {
+      "name": "MS Project"
+    },
+    {
+      "name": "Разработка технических заданий"
+    },
+    {
+      "name": "Моделирование бизнес процессов"
+    },
+    {
+      "name": "Ориентация на результат"
+    },
+    {
+      "name": "Постановка задач разработчикам"
+    },
+    {
+      "name": "Системный анализ"
+    },
+    {
+      "name": "Базы данных"
+    },
+    {
+      "name": "Figma"
+    },
+    {
+      "name": "MS Office"
+    },
+    {
+      "name": "Управление проектами"
+    },
+    {
+      "name": "Бизнес-анализ"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Навыки презентации"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "10",
+      "name": "Аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1156064",
+    "name": "Фортис Технологии",
+    "url": "https://api.hh.ru/employers/1156064",
+    "alternate_url": "https://hh.ru/employer/1156064",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/324200.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/1739154.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/1739155.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1156064",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T12:59:33+0300",
+  "created_at": "2025-06-05T12:59:33+0300",
+  "initial_created_at": "2025-05-21T12:59:33+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120815961",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120815961",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    },
+    {
+      "id": "FIELD_WORK",
+      "name": "Разъездной"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

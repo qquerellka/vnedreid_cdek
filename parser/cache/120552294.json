@@ -1,0 +1,149 @@
+{
+  "id": "120552294",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Аналитик (Бизнес-Системный)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <ul> <li>Анализ и актуализация первичных требований заказчика;</li> <li>Написание аналитической документации (scope of work, business design requirements, tech. design requirements);</li> <li>Постановка задач в разработку;</li> <li>Сопровождение и консультирование команд тестирования;</li> <li>Анализ требований заказчика и оценка возможности реализации требований, в том числе с учетом анализа рынка (предложений конкурентов);</li> <li>Оценка поступающих от заказчика задач;</li> <li>Подготовка и написание Scope of work, gap analysis, оценка и согласование с заказчиком;</li> <li>Разработка и согласование спецификации: business design requirements, tech. design requirements;</li> <li>Валидация результатов разработки и внутреннего тестирования;</li> <li>Подготовка документации для передачи проекта на сопровождение.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li><strong>Высшее техническое образование обязательно;</strong></li> <li>Знание рынка ценных бумаг РФ, депозитарного учета РФ;</li> <li>Опыт работы с депозитарными системами банков и брокеров в РФ;</li> <li>Знания принципов работы системы SWIFT (ISO15022, ISO20022);</li> <li>Знания сопровождения корпоративных действий с ценными бумагами;</li> <li>Опыт работы с реляционными базами данных.</li> </ul> <strong>Условия:</strong> <ul> <li>Удаленный формат работы;</li> <li>Официальное оформление по ТК РФ (в штат);</li> <li>График 5/2;</li> <li>ДМС после первых 3-х месяцев работы;</li> <li>Выстроенная система онбординга;</li> <li>Корпоративное оборудование.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Аналитическое мышление"
+    },
+    {
+      "name": "Бизнес-анализ"
+    },
+    {
+      "name": "Системный анализ"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "Анализ требований"
+    },
+    {
+      "name": "депозитарий"
+    },
+    {
+      "name": "рынок ценных бумаг"
+    },
+    {
+      "name": "банки"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "148",
+      "name": "Системный аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "21999",
+    "name": "Финансовые Платформы",
+    "url": "https://api.hh.ru/employers/21999",
+    "alternate_url": "https://hh.ru/employer/21999",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/930291.PNG",
+      "90": "https://img.hhcdn.ru/employer-logo/4161724.png",
+      "240": "https://img.hhcdn.ru/employer-logo/4161725.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=21999",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T17:28:54+0300",
+  "created_at": "2025-06-07T17:28:54+0300",
+  "initial_created_at": "2025-05-14T17:28:54+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120552294",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120552294",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b1",
+        "name": "B1 — Средний"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

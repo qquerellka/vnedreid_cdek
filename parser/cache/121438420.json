@@ -1,0 +1,200 @@
+{
+  "id": "121438420",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "ИТ Директор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "3-й проезд Перова Поля",
+    "building": "3А",
+    "lat": 55.753772,
+    "lng": 37.77387,
+    "description": null,
+    "raw": "Москва, 3-й проезд Перова Поля, 3А",
+    "metro": {
+      "station_name": "Перово",
+      "line_name": "Калининская",
+      "station_id": "8.107",
+      "line_id": "8",
+      "lat": 55.75098,
+      "lng": 37.78422
+    },
+    "metro_stations": [
+      {
+        "station_name": "Перово",
+        "line_name": "Калининская",
+        "station_id": "8.107",
+        "line_id": "8",
+        "lat": 55.75098,
+        "lng": 37.78422
+      },
+      {
+        "station_name": "Шоссе Энтузиастов",
+        "line_name": "Калининская",
+        "station_id": "8.158",
+        "line_id": "8",
+        "lat": 55.75809,
+        "lng": 37.751703
+      },
+      {
+        "station_name": "Шоссе Энтузиастов",
+        "line_name": "МЦК",
+        "station_id": "95.524",
+        "line_id": "95",
+        "lat": 55.758633,
+        "lng": 37.748477
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>О нас: </strong>«Ваша №1» — одна из крупнейших аптечных сетей России. Мы входим в ТОП аптечных брендов по данным РБК, DSM Group и Vademecum. Наша цель — не просто быть ближе к покупателю, но и опережать его ожидания за счёт персонализированных сервисов, цифровых решений и удобства покупки.</p> <p><strong>Цели:</strong></p> <ul> <li> <p>Построение технологического фундамента для масштабирования бизнеса.</p> </li> <li> <p>Устойчивость, безопасность и управляемость всей IT-инфраструктуры.</p> </li> <li> <p>Поддержка цифровой трансформации: e-commerce, CRM, лояльность, автоматизация.</p> </li> <li> <p>Развитие команды, процессов и архитектуры под data-driven и agile подходы.</p> </li> </ul> <p><strong>Ключевые задачи:</strong></p> <ul> <li> <p>Руководство всей ИТ-функцией: инфраструктура, разработка, поддержка, кибербезопасность, интеграции.</p> </li> <li> <p>Разработка и реализация <strong>ИТ-стратегии</strong>, согласованной с бизнес-целями компании.</p> </li> <li> <p>Внедрение и развитие ключевых систем: 1С (Управление аптечной сетью, БП, ЗУП), BI, WMS, CRM, CDP, e-commerce, кассы.</p> </li> <li> <p>Обеспечение бесперебойной работы ИТ-сервисов, мониторинг SLA, управление инцидентами.</p> </li> <li> <p>Курирование digital-направлений совместно с CDO и marketing-аналитикой (API, данные, интеграции).</p> </li> <li> <p>Формирование эффективной команды: подбор, мотивация, развитие.</p> </li> <li> <p>Взаимодействие с подрядчиками, интеграторами и вендорами, контроль качества услуг.</p> </li> </ul> <p><strong>Что мы ищем:</strong></p> <ul> <li> <p>Опыт управления ИТ на уровне компании (или крупного подразделения) от 5 лет, желательно в ритейле или аптечном сегменте.</p> </li> <li> <p>Глубокое понимание архитектуры ИТ-систем: от серверов и сетей до API и микросервисов.</p> </li> <li> <p>Практический опыт внедрения и развития: 1С, BI, CRM, ERP, WMS, информационной безопасности.</p> </li> <li> <p>Опыт трансформации ИТ-процессов (DevOps, ITIL, Agile/Scrum, SLA-подход).</p> </li> <li> <p>Навыки коммуникации с бизнесом, собственником, внешними подрядчиками.</p> </li> <li> <p>Способность стратегически мыслить и самостоятельно решать ключевые задачи бизнеса.</p> </li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Конкурентоспособная заработная плата и бонусы.</li> <li>Поддержка здорового образа жизни.</li> <li>Возможности для профессионального роста и развития.</li> <li>Дружелюбная и поддерживающая рабочая атмосфера.</li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": {
+    "id": 42666,
+    "name": "Брендированный шаблон 2",
+    "top_picture": {
+      "height": 560,
+      "width": 1540,
+      "path": "https://img.hhcdn.ru/branding-pictures/3348820.png",
+      "blurred_path": null
+    },
+    "bottom_picture": {
+      "height": 704,
+      "width": 1540,
+      "path": "https://img.hhcdn.ru/branding-pictures/3348853.png",
+      "blurred_path": null
+    }
+  },
+  "key_skills": [
+    {
+      "name": "Управление командой"
+    },
+    {
+      "name": "Управление бизнес процессами"
+    },
+    {
+      "name": "Управление бэклогом"
+    },
+    {
+      "name": "Стратегическое мышление"
+    },
+    {
+      "name": "Лидерство"
+    },
+    {
+      "name": "Управление изменениями"
+    },
+    {
+      "name": "1С"
+    },
+    {
+      "name": "Автоматизация"
+    },
+    {
+      "name": "Цифровая трансформация"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "36",
+      "name": "Директор по информационным технологиям (CIO)"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3344320",
+    "name": "АПТЕКА ВАША № 1",
+    "url": "https://api.hh.ru/employers/3344320",
+    "alternate_url": "https://hh.ru/employer/3344320",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1429298.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7336841.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7336842.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3344320",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T17:32:51+0300",
+  "created_at": "2025-06-07T17:32:51+0300",
+  "initial_created_at": "2025-06-07T17:32:51+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121438420",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121438420",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": false,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": true,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

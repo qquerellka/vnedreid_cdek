@@ -1,0 +1,170 @@
+{
+  "id": "120860974",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор в госорган",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 50000,
+    "to": 70000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 50000,
+    "to": 70000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "улица Малышева",
+    "building": "46",
+    "lat": 56.834003,
+    "lng": 60.602092,
+    "description": null,
+    "raw": "Екатеринбург, улица Малышева, 46",
+    "metro": {
+      "station_name": "Площадь 1905 года",
+      "line_name": "Север-Юг",
+      "station_id": "48.266",
+      "line_id": "48",
+      "lat": 56.837982,
+      "lng": 60.59734
+    },
+    "metro_stations": [
+      {
+        "station_name": "Площадь 1905 года",
+        "line_name": "Север-Юг",
+        "station_id": "48.266",
+        "line_id": "48",
+        "lat": 56.837982,
+        "lng": 60.59734
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>сопровождение парка ПК на 50 машин и сетевой инфраструктуры;</li> <li>установка и администрирование Astra Linux;</li> <li> <p>ТЗИ;</p> </li> <li> <p>работа с таблицами общего доступа.</p> </li> </ul> <strong>Условия:</strong> <ul> <li>официальный доход;</li> <li>офис в центре города рядом с метро;</li> <li>график работы с 9.00 до 18.00.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Настройка ПК"
+    },
+    {
+      "name": "Техническая поддержка пользователей"
+    },
+    {
+      "name": "Установка ПО"
+    },
+    {
+      "name": "Обеспечение антивирусной защиты"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "870197",
+    "name": "Министерство культуры Свердловской области",
+    "url": "https://api.hh.ru/employers/870197",
+    "alternate_url": "https://hh.ru/employer/870197",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=870197",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-22T12:05:27+0300",
+  "created_at": "2025-05-22T12:05:27+0300",
+  "initial_created_at": "2025-05-22T12:05:27+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120860974",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120860974",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

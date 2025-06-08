@@ -1,0 +1,137 @@
+{
+  "id": "120860850",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Java-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Мы</strong> — IT-компания <strong>NAUKA.</strong></p> <p>Занимаемся разработкой, интеграцией и сопровождением программных продуктов для крупного бизнеса. Автоматизируем как само производство, так и учет, логистику и строительство промышленных объектов. Среди наших заказчиков преимущественно нефтеперерабатывающие заводы.</p> <p>Имеем дело со сложными бизнес- и производственными процессами, поэтому у нас не только разработка, но и наука.</p> <p><strong>Стек технологий: </strong>Java 17, Hibernate, Docker, ELK, Jetty, Nginx, Postgres, Solr, Spring, Eclipselink, Tomcat, Vaadin.</p> <p><strong>Предметная область: </strong>ERP-система. Основные задачи - развитие коробочного продукта и пакетов решений для него, сопровождение и поддержка внедрений у клиентов.</p> <p>В данный момент мы ищем <strong>Java-разработчиков уровня Senior и Middle.</strong></p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>участвовать в разработке решения;</li> <li>принимать участие в оценке задач, code review, в обсуждении технических задач;</li> <li>разрабатывать модульные тесты для своего кода;</li> <li>исправлять ошибки в коде.</li> </ul> <p><strong>Что мы ждем от кандидатов:</strong></p> <ul> <li>уверенное знание Java Core, опыт коммерческой разработки на нем;</li> <li>опыт работы со Spring;</li> <li>опыт использования JPA;</li> <li>знание SQL;</li> <li>навыки работы с git;</li> <li>умение обосновывать технические решения, желание развивать свои компетенции.</li> </ul> <p><strong>Будет круто, если у вас есть опыт:</strong></p> <ul> <li>оптимизации производительности java-приложений.</li> </ul> <p><strong>Ради чего к нам идти:</strong></p> <ul> <li>работа в масштабных интересных проектах;</li> <li>возможности для профессионального развития;</li> <li>корпоративные обучающие программы, участие в профильных форумах, митапах и конференциях;</li> <li>онлайн-курсы английского языка;</li> <li>отличная команда;</li> <li>стабильная заработная плата (условия обсуждаются исходя из ваших ожиданий и опыта);</li> <li>оформление в соответствии с ТК РФ;</li> <li>на выбор ДМС или компенсация спортивного абонемента после испытательного срока;</li> <li>график работы с возможностью выбора времени начала рабочего дня;</li> <li>возможность выбора формата работы (удаленно / гибрид / офис);</li> <li>уютный офис в 7 минутах от м. Политехническая;</li> <li>в офисе есть coffee point с запасами свежих фруктов и бакалеи.</li> </ul> <p>Если вы живете в другом регионе, можем помочь с переездом.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Java"
+    },
+    {
+      "name": "Spring Framework"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "ООП"
+    },
+    {
+      "name": "Hibernate"
+    },
+    {
+      "name": "Spring Boot"
+    },
+    {
+      "name": "Spring"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "469282",
+    "name": "Наука",
+    "url": "https://api.hh.ru/employers/469282",
+    "alternate_url": "https://hh.ru/employer/469282",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1056681.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/5847365.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/5847366.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=469282",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-22T12:03:38+0300",
+  "created_at": "2025-05-22T12:03:38+0300",
+  "initial_created_at": "2025-05-22T12:03:38+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120860850",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120860850",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

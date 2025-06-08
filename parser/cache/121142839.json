@@ -1,0 +1,158 @@
+{
+  "id": "121142839",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Backend-разработчик (C#, .NET)",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 200000,
+    "to": 350000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 200000,
+    "to": 350000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>ПланФакт</strong> — это SaaS для финансового учета и планирования прибыли бизнеса. Более 3 000 компаний и 15 000+ пользователей используют сервис ежедневно.</p> <p>Компания ежегодно удваивает ключевые метрики и занимает топовые позиции в рейтингах:</p> <ul> <li> <p>#1 среди сервисов финансового учета по версии MarksWebb 2023</p> </li> <li> <p>Входит в топ-3 лучших сервисов для бизнеса по версии StartPack.ru</p> </li> <li> <p>В топ-40 крупнейших российских SaaS по выручке</p> </li> </ul> <p><strong>ПланФакт</strong> — аккредитованная IT-компания. Для сотрудников доступны налоговые льготы, отсрочка от армии и ипотека на особых условиях.</p> <p>Интервью с СЕО компании → https://www.youtube.com/watch?v=HE_UWHOTHHY</p> <h2>Кого ищем</h2> <p> </p> <p><strong>Разработчика уровня Middle+ / Senior с фокусом на C# и .NET</strong> – инженера, который поможет нам развивать ПланФакт, разрабатывать новые модули и постепенно улучшать архитектуру системы.</p> <p>Предстоит тесно взаимодействовать с разработчиками, QA-инженерами, системными аналитиками и продакт-менеджером — в команде, где можно расти и реально влиять на продукт и процессы.</p> <h2>Чем предстоит заниматься</h2> <p> </p> <ul> <li> <p>Разрабатывать и улучшать ключевые компоненты платформы — API, фоновую обработку данных, интеграции с внешними и внутренними системами</p> </li> <li> <p>Предлагать технические решения под рост нагрузки и меняющиеся требования к продукту</p> </li> <li> <p>Улучшать тестовое покрытие кода, помогать с внедрением инженерных практик</p> </li> <li> <p>Участвовать в развитии инженерной культуры команды</p> </li> </ul> <h2>Что важно для нас</h2> <p> </p> <ul> <li> <p>Опыт разработки на на C#, .NET Core или Java / Kotlin и Spring Framework – от 3 лет</p> </li> <li> <p>Опыт работы с очередями (RabbitMQ) или стриммингом данных (Kafka)</p> </li> <li> <p>Интерес к бизнесу и желание разбираться в <strong>финансовом учёте</strong> — у нас это must</p> </li> </ul> <h2>Плюсом будет</h2> <p> </p> <ul> <li> <p>Участие в проектах в финтехе или со сложной бизнес-логикой</p> </li> <li> <p>Знание DDD и подходов event-driven архитектуры</p> </li> <li> <p>Опыт разработки на других языках — особенно функциональных</p> </li> <li> <p>Навыки применения DevOps-практик (CI/CD, инфраструктура как код и др.)</p> </li> </ul> <h2>Примеры технических задач</h2> <p> </p> <p>Помимо разработки продуктовой функциональности, будет возможность поучаствовать в:</p> <ul> <li> <p>изменении архитектуры фоновых задач и их обработчиков</p> </li> <li> <p>обновлении сервисов с .NET 6 до .NET 9</p> </li> <li> <p>миграции с SQL Server на PostgreSQL и горизонтальном масштабировании системы</p> </li> </ul> <h2>Как проходят собеседования</h2> <p> </p> <ol> <li> <p>Звонок с HR: рассказ о компании, возможность задать нам вопросы (30-45 мин)</p> </li> <li> <p>Общее интервью: обсуждение опыта и мотивации, базовые технические вопросы (~1 час)</p> </li> <li> <p>Техническое интервью: ревью кода, системный дизайн (~2 часа)</p> </li> <li> <p>Встреча с командой – возможность задать вопросы (по вашей инициативе)</p> </li> </ol> <p><em>Обратная связь от нас в течение 1-2 дней.</em></p> <h2>Условия</h2> <p> </p> <ul> <li> <p>Полностью удалённая работа в аккредитованной IT-компании</p> </li> <li> <p>Гибкий график – фокус на задачах и целях, отсутствие бюрократии</p> </li> <li> <p>Возможность работать в офисе в г. Брянск или в коворкинге в г. Москва</p> </li> <li> <p>Прямое влияние на продукт, технологии и команду</p> </li> <li> <p>Корпоративная жизнь: тимбилдинги, оплачиваемые поездки для удаленных сотрудников</p> </li> <li> <p>Поддержка саморазвития</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "C#"
+    },
+    {
+      "name": ".NET Core"
+    },
+    {
+      "name": "Java"
+    },
+    {
+      "name": "Kotlin"
+    },
+    {
+      "name": "Spring Framework"
+    },
+    {
+      "name": "MS SQL Server"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "RabbitMQ"
+    },
+    {
+      "name": "Docker"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "856661",
+    "name": "ПланФакт",
+    "url": "https://api.hh.ru/employers/856661",
+    "alternate_url": "https://hh.ru/employer/856661",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1352230.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7028850.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7028851.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=856661",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-29T17:27:18+0300",
+  "created_at": "2025-05-29T17:27:18+0300",
+  "initial_created_at": "2025-05-29T17:27:18+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121142839",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121142839",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

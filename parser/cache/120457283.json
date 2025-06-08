@@ -1,0 +1,188 @@
+{
+  "id": "120457283",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "DevOps-инженер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Новосибирск",
+    "street": "улица Кирова",
+    "building": "23",
+    "lat": 55.019207,
+    "lng": 82.940085,
+    "description": null,
+    "raw": "Новосибирск, улица Кирова, 23",
+    "metro": {
+      "station_name": "Октябрьская",
+      "line_name": "Ленинская",
+      "station_id": "52.298",
+      "line_id": "52",
+      "lat": 55.018789,
+      "lng": 82.939007
+    },
+    "metro_stations": [
+      {
+        "station_name": "Октябрьская",
+        "line_name": "Ленинская",
+        "station_id": "52.298",
+        "line_id": "52",
+        "lat": 55.018789,
+        "lng": 82.939007
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>ЗАО «Группа компаний С7» (S7 Group)</strong> — управляющая компания холдинга S7. Мы занимаемся стратегическим и коммерческим планированием, юридическим сопровождением, управляем финансами, маркетингом, пиаром и развиваем продажи.</p> <p>Наша команда предоставляет надежные сервисы для разрабатываемых в компании приложений: сборка, доставка в среду исполнения, а также мониторинг запущенных приложений. Все это осуществляется с использованием современных технологий!</p> <p>Кроме того, мы участвуем в создании гео-распределенных решений для IT-сервисов S7.</p> <p> </p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Внедрение инструментов для автоматизации тестирования, интеграции и развертывания кода (CI/CD);</li> <li>Обслуживание и поддержка инфраструктуры, сервисов и инструментов, используемых командами разработки;</li> <li>Обеспечение стабильности и эффективности работы разрабатываемых продуктов;</li> <li>Обеспечение безопасности инфраструктуры и разрабатываемых продуктов;</li> <li>Развитие и внедрение систем Observability (metrics, logs, distributed tracing) в продукты Компании.</li> </ul> <p> </p> <p> </p> <p><strong>Что мы ждем от кандидатов:</strong></p> <ul> <li>Опыт работы с операционными системами на базе Linux от 5 лет;</li> <li>Опыт работы с системами контроля версий (Gitlab), хранилищами контейнеров (Harbor), инструментами сборки/доставки программных решений CI/CD (Gitlab CI);</li> <li>Знание и опыт работы с системами управления контейнерами (Docker, K8S);</li> <li>Знание и опыт работы с системами мониторинга и логирование сервисов (Zabbix/Grafana/Prometheus/ELK/VictoriaMetrics);</li> <li>Знание сетевых технологий и сервисов, принципов построения сетевой архитектуры;</li> <li>Знание и опыт работы с HTTP протоколом;</li> <li>Знание и опыт работы с брокерами сообщений (Kafka, RabbitMQ);</li> <li>Владение скриптовыми языками: Bash, Python и т. д;</li> <li>Умение производить анализ проблем/инцидентов и оперативно устранять их.</li> </ul> <p> </p> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Интересные и амбициозные задачи, открытость к любым, даже самым смелым идеям и предложениям в своей зоне ответственности;</li> <li>ДМС со стоматологией после прохождения испытательного срока;</li> <li>Корпоративная жизнь, насыщенная разнообразными коллективными событиями;</li> <li>Подарки для детей к первому классу и на Новый год;</li> <li>Профессиональное развитие: проходить обучение в компаниях-партнерах, участие и выступление в конференциях;</li> <li>Летать по корпоративным тарифам S7 Airlines. Спойлер: почти бесплатно!</li> <li>Корпоративные скидки в PrimeZone: скидки в рестораны, на обучающие курсы, товары и т.д.;</li> <li>Программа комплексной поддержки «Понимаю» (бесплатные консультации юристов, психологов, нутрициологов, финансистов);</li> <li>Мы работаем в комфортном офисе рядом с м. Октябрьская.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": {
+    "id": 45140,
+    "name": "Техлаб (ИТ-персонал)",
+    "top_picture": {
+      "height": 560,
+      "width": 1539,
+      "path": "https://img.hhcdn.ru/branding-pictures/3081798.jpeg",
+      "blurred_path": null
+    },
+    "bottom_picture": {
+      "height": 704,
+      "width": 1540,
+      "path": "https://img.hhcdn.ru/branding-pictures/3081805.jpeg",
+      "blurred_path": null
+    }
+  },
+  "key_skills": [
+    {
+      "name": "IaC"
+    },
+    {
+      "name": "DevOps"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "GitLab CI"
+    },
+    {
+      "name": "CI/CD"
+    },
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Bash"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "ELK"
+    },
+    {
+      "name": "Grafana"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "160",
+      "name": "DevOps-инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "766468",
+    "name": "S7 Group",
+    "url": "https://api.hh.ru/employers/766468",
+    "alternate_url": "https://hh.ru/employer/766468",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=766468",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-13T10:37:50+0300",
+  "created_at": "2025-05-13T10:37:50+0300",
+  "initial_created_at": "2025-05-13T10:37:50+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120457283",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120457283",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

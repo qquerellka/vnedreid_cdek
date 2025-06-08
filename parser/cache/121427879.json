@@ -1,0 +1,163 @@
+{
+  "id": "121427879",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор Linux",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "улица Владимира Высоцкого",
+    "building": "50Л",
+    "lat": 56.843545,
+    "lng": 60.699254,
+    "description": null,
+    "raw": "Екатеринбург, улица Владимира Высоцкого, 50Л",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><em>Мы компания занимающаяся предоставлением услуг IT сопровождения наших клиентов. Наши услуги охватывают практически весь спектр нужных для бизнеса сервисов и предложений. В связи с расширением, в нашу команду ищем опытного и самостоятельного системного администратора.</em></p> <p><strong>Чем тебе предстоит заниматься:</strong></p> <ul> <li>Обеспечение стабильной и бесперебойной работы ИТ-инфраструктуры компании, включая распределенные программно-аппаратные комплексы.</li> <li>Координация с внешними подрядчиками и поставщиками по закупке ПО, оборудования и услуг связи.</li> <li>Развитие и поддержка системы информационной безопасности.</li> <li>Администрирование серверов на базе Windows и Linux.</li> <li>Настройка и обслуживание сетевого оборудования.</li> <li>Координация и контроль выполнения заявок сис.админами 1-линии.</li> <li>Ведение и актуализация технической документации.</li> <li>Мониторинг систем средствами Zabbix</li> </ul> <p><strong>Ты нам точно подходишь если у тебя есть:</strong></p> <ul> <li>Опыт работы с серверными продуктами Microsoft: Active Directory, DNS, DHCP, RDS/RDP/RemoteAPP, SMB.</li> <li>Знание технологий виртуализации (Proxmox).</li> <li>Уверенное администрирование серверов на базе Linux. (в основном Debian, CentOS)</li> </ul> <ul> <li>Знание сетевых технологий: модель OSI, TCP/IP, QoS, L2-коммутация, статическая/динамическая маршрутизация (RIP, OSPF и т.п.), SNMP, NAT и т.п.</li> <li>Опыт настройки и поддержки виртуальных АТС и IP-телефонии (Asterisk).</li> <li>Навыки администрирования баз данных MS SQL, Postgres.</li> <li>Практический опыт работы с сетевым оборудованием (коммутаторы, маршрутизаторы, межсетевые экраны).</li> <li>Понимание принципов организации VPN-туннелей.</li> <li>Навыки удаленной технической поддержки и оперативного решения инцидентов.</li> </ul> <p><strong>От нас:</strong></p> <ul> <li>Конкурентоспособная заработная плата с регулярными выплатами.</li> <li>Уровень дохода определим по результатам собеседования.</li> <li>Оформление по ТК РФ.</li> <li>Работа в комфортном офисе, график 5/2, с 9:00 до 18:00. (Офис на ЖБИ).</li> <li>Бесплатное питание.</li> <li>Приятный коллектив.</li> </ul> <ul> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Bash"
+    },
+    {
+      "name": "Zabbix"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Nginx"
+    },
+    {
+      "name": "VPN"
+    },
+    {
+      "name": "OSI"
+    },
+    {
+      "name": "DNS"
+    },
+    {
+      "name": "VLAN"
+    },
+    {
+      "name": "Windows Server"
+    },
+    {
+      "name": "Debian"
+    },
+    {
+      "name": "CentOS"
+    },
+    {
+      "name": "Администрирование серверов Windows"
+    },
+    {
+      "name": "Proxmox"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "12059086",
+    "name": "НТ СОФТ",
+    "url": "https://api.hh.ru/employers/12059086",
+    "alternate_url": "https://hh.ru/employer/12059086",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=12059086",
+    "accredited_it_employer": false,
+    "trusted": false
+  },
+  "published_at": "2025-06-06T15:57:39+0300",
+  "created_at": "2025-06-06T15:57:39+0300",
+  "initial_created_at": "2025-06-06T15:57:39+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121427879",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121427879",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

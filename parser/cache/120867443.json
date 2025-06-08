@@ -1,0 +1,181 @@
+{
+  "id": "120867443",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Backend-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 200000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 200000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Финляндский проспект",
+    "building": "4",
+    "lat": 59.957787,
+    "lng": 30.342198,
+    "description": null,
+    "raw": "Санкт-Петербург, Финляндский проспект, 4",
+    "metro": {
+      "station_name": "Площадь Ленина",
+      "line_name": "Кировско-Выборгская",
+      "station_id": "14.197",
+      "line_id": "14",
+      "lat": 59.955611,
+      "lng": 30.35605
+    },
+    "metro_stations": [
+      {
+        "station_name": "Площадь Ленина",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.197",
+        "line_id": "14",
+        "lat": 59.955611,
+        "lng": 30.35605
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <ul> <li>Разработка и поддержка веб-приложений на основе PHP (Laravel/Yii2), сервисов VueJS/NodeJS;</li> <li>Настройка и интеграция ELK стека для мониторинга и анализа данных;</li> <li>Работа с базами данных MySQL и PostgreSQL для хранения и обработки больших объемов данных;</li> <li>Оптимизация производительности приложений, написание качественного и поддерживаемого кода;</li> <li>Взаимодействие с другими отделами для сбора и анализа требований.</li> </ul> <p> </p> <p><strong>Мы ожидаем:</strong></p> <ul> <li>опыт работы на позиции web-программиста/Backend-разработчика более 5 лет;</li> <li>отличные знания PHP, NodeJS;</li> <li>опыт работы с любым современным фреймворком, например: Laravel/Yii2, Express.js, Nuxt;</li> <li>опыт работы с реляционными БД (MySQL, PostgreSQL), опыт оптимизации SQL-запросов;</li> <li>опыт и знание принципов работы систем контроля версий (git);</li> <li>понимание основ проектирования REST API и микросервисной архитектуры;</li> <li>умение структурно мыслить и декомпозировать задачи;</li> <li>умение работать в команде;</li> <li>умение работать с чужим кодом;</li> <li>поиск и устранение ошибок согласно поставленным задачам Проведение код-ревью.</li> </ul> <p> </p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>разрабатывать уникальные по архитектуре и области применения решения для бизнеса;</li> <li>дорабатывать и оптимизировать существующие сервисы;</li> <li>непосредственно участвовать в проектировании, реализации и поддержке продукта.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Node.js"
+    },
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "ELK"
+    },
+    {
+      "name": "Микросервисная архитектура"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1422469",
+    "name": "Арсенал-Транзит",
+    "url": "https://api.hh.ru/employers/1422469",
+    "alternate_url": "https://hh.ru/employer/1422469",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1372863.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7111354.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7111355.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1422469",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T13:45:34+0300",
+  "created_at": "2025-06-06T13:45:34+0300",
+  "initial_created_at": "2025-05-22T13:45:34+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120867443",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120867443",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

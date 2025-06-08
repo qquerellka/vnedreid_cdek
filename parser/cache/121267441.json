@@ -1,0 +1,125 @@
+{
+  "id": "121267441",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": ".NET разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Мы - разработчики цифровой системы <strong>Novo Forecast Enterprise</strong>, для прогнозирования спроса и интегрированного планирования. Система широко используется для оптимизации цепей поставок на производственных предприятиях, в дистрибьюторском бизнесе и в розничной торговле. Также среди наших направлений деятельности:</p> <p>- Цифровизация бизнес-процессов планирования в цепях поставок;</p> <p>- Внедрение собственного аналитического приложения на базе BI-платформ;</p> <p>- Разработка индивидуальных аналитических решений для среднего и крупного бизнеса.</p> <p><strong>Вам предстоит:</strong></p> <ul> <li> <p>Совместно с командой поддерживать и развивать существующий функционал продукта Novo Forecast Enterprise;</p> </li> <li> <p>оптимизировать алгоритмы и повышать производительность существующих решений;</p> </li> <li> <p>участвовать в командных и кросс-командных активностях.</p> </li> </ul> <p> </p> <p><strong>Наши ожидания:</strong></p> <ul> <li> <p>опыт разработки на платформе .NET не менее 3-x лет;</p> </li> <li> <p>знание особенностей работы с БД MS SQL: оптимизация запросов, построение правильных индексов, explain analyze;</p> </li> <li> <p>умение разбираться в чужом коде и работать с Legacy;</p> </li> <li> <p>умение работать с git (merge, rebase, squash), gitflow;</p> </li> <li> <p>опыт работы в Agile, SCRUM.</p> </li> </ul> <p><strong>Будет плюсом</strong>:</p> <ul> <li> <p>знание PostgreSQL;</p> </li> <li> <p>опыт работы с LinqToSQL;</p> </li> <li> <p>знание ASP.NET / Web API;</p> </li> <li> <p>понимание и применение принципов SOLID;</p> </li> <li> <p>опыт работы с компонентами DevExpress;</p> </li> <li> <p>навыки разработки на Python;</p> </li> <li> <p>базовые знания фронтенд-технологий: Angular, React, Vue;</p> </li> <li> <p>опыт работы с инструментами DevOps.</p> </li> </ul> <p><strong>Мы предлагаем</strong>:</p> <ul> <li> <p>участие в сложных коммерческих проектах с крупными российскими и зарубежными компаниями, лидерами отраслей;</p> </li> <li> <p>работу в аккредитованной IT-компании;</p> </li> <li> <p>официальное трудоустройство, полное соблюдение требований ТК РФ;</p> </li> <li> <p>достойный уровень заработной платы + премии по результатам проектов;</p> </li> <li> <p>полис ДМС;</p> </li> <li> <p>возможности для профессионального и карьерного роста;</p> </li> <li> <p>обучение технологиям прогнозирования и разработки коммерческого ПО;</p> </li> <li> <p><strong>комфортный офис </strong><strong>и/или</strong><strong> удаленный формат </strong><strong> </strong>(офис в Москве - в инновационном центре Сколково).</p> </li> </ul> <ul> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": ".NET Framework"
+    },
+    {
+      "name": "MS SQL"
+    },
+    {
+      "name": "C#"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1925991",
+    "name": "Novo BI",
+    "url": "https://api.hh.ru/employers/1925991",
+    "alternate_url": "https://hh.ru/employer/1925991",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/960950.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/4284316.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/4284317.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1925991",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T09:57:25+0300",
+  "created_at": "2025-06-06T09:57:25+0300",
+  "initial_created_at": "2025-06-03T09:57:25+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121267441",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121267441",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

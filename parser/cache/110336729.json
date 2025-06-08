@@ -1,0 +1,136 @@
+{
+  "id": "110336729",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист по сопровождению МИС",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "улица Бажова",
+    "building": "68",
+    "lat": 56.847484,
+    "lng": 60.622537,
+    "description": null,
+    "raw": "Екатеринбург, улица Бажова, 68",
+    "metro": {
+      "station_name": "Динамо",
+      "line_name": "Север-Юг",
+      "station_id": "48.265",
+      "line_id": "48",
+      "lat": 56.847818,
+      "lng": 60.599406
+    },
+    "metro_stations": [
+      {
+        "station_name": "Динамо",
+        "line_name": "Север-Юг",
+        "station_id": "48.265",
+        "line_id": "48",
+        "lat": 56.847818,
+        "lng": 60.599406
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>&quot;Здоровье 365&quot; - крупнейшая медицинская сеть Урала, современная, многопрофильная клиника. 15 лет опыт в лечении, диагностике, реабилитации наших пациентов — все это результат работы профессиональной команды. Сегодня клиника принимает около 500 000 пациентов в год, имеет репутацию экспертного медицинского центра, с уникальными врачами, оборудованием и компетенциями. Нам важно постоянно развивать персонал нашей клиники, учитывая карьерные и профессиональные амбиции сотрудников.</p> <p><strong>Чем предстоит заниматься:</strong></p> <p>Сопровождение работы пользователей в МИС и прочих прикладных программных продуктах, используемых персоналом клиники (консультирование по работе, помощь привозникновении проблем)</p> <ul> <li>Внедрение новых модулей МИС (изучение функционала, обучение пользователей, обеспечение процесса начала работы в новоммодуле)</li> <li>Взаимодействие с разработчиками МИС (постановка и контроль выполнения задач, эскалация сложных проблем на уровень разработчиков, обеспечение в случае необходимости взаимодействия пользователей с представителями заказчика)</li> <li>Разработка новых и доработка имеющихся форм, документов, отчетов в МИС</li> <li>Контроль работоспособности МИС и при необходимости участие в проведении мероприятий по восстановлению работы МИС</li> <li>Техническая поддержка пользователей по общим вопросам работы на ПК</li> </ul> <p><strong>Ваши человеческие качества и профессиональные компетенции:</strong></p> <ul> <li>Понимание принципов работы медицинской организации</li> <li>Опыт сопровождения работы медицинских информационных систем (МИС)</li> <li>Понимание принципов работы ФРМР и ФРМО</li> <li>Опыт сопровождения отправки СЭМД в РЭМД</li> <li>Умение самостоятельно разбираться в работе программного обеспечения</li> <li>Опыт работы с МИС Медофис и МИС ЕЦП будет преимуществом</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Комфортные условия труда;</li> <li>Место работы: ул. Бажова, 68;</li> <li>График работы 5/2;</li> <li>Достойная оплата труда, система премирования для сотрудников;</li> <li>Заработная плата обсуждается на собеседовании;</li> <li>Официальное трудоустройство, выплата больничного и отпускных;</li> <li>Проф. осмотр за счет компании;</li> <li><strong>СКИДКИ на стоматологию и другие услуги нашей клиники сотрудникам от 10%, родственникам сотрудников от 5%</strong>.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "156",
+      "name": "BI-аналитик, аналитик данных"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1328672",
+    "name": "Клиника Здоровье 365",
+    "url": "https://api.hh.ru/employers/1328672",
+    "alternate_url": "https://hh.ru/employer/1328672",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/821646.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/3727471.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3727472.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1328672",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-27T06:53:43+0300",
+  "created_at": "2025-05-27T06:53:43+0300",
+  "initial_created_at": "2024-11-07T18:09:34+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=110336729",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/110336729",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

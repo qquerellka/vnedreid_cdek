@@ -1,0 +1,216 @@
+{
+  "id": "121233897",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Golang-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 150000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 150000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "переулок Сивцев Вражек",
+    "building": "25/9с1",
+    "lat": 55.747064,
+    "lng": 37.592536,
+    "description": null,
+    "raw": "Москва, переулок Сивцев Вражек, 25/9с1",
+    "metro": {
+      "station_name": "Арбатская",
+      "line_name": "Филевская",
+      "station_id": "4.11",
+      "line_id": "4",
+      "lat": 55.752122,
+      "lng": 37.601553
+    },
+    "metro_stations": [
+      {
+        "station_name": "Арбатская",
+        "line_name": "Филевская",
+        "station_id": "4.11",
+        "line_id": "4",
+        "lat": 55.752122,
+        "lng": 37.601553
+      },
+      {
+        "station_name": "Кропоткинская",
+        "line_name": "Сокольническая",
+        "station_id": "1.64",
+        "line_id": "1",
+        "lat": 55.745297,
+        "lng": 37.604217
+      },
+      {
+        "station_name": "Смоленская",
+        "line_name": "Арбатско-Покровская",
+        "station_id": "3.131",
+        "line_id": "3",
+        "lat": 55.747713,
+        "lng": 37.583802
+      },
+      {
+        "station_name": "Смоленская",
+        "line_name": "Филевская",
+        "station_id": "4.132",
+        "line_id": "4",
+        "lat": 55.749083,
+        "lng": 37.582173
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Golang-разработчик в финтех (гибрид / офис на Арбате, Москва)</p> <p>Наша миссия — создавать мощные финтех-решения, которые меняют правила игры на рынке B2B, B2C и D2C. Мы строим платформу, объединяющую бизнес, технологии и блокчейн-инфраструктуру. Разрабатываем высоконагруженные микросервисы, проектируем гибкую масштабируемую архитектуру, используем несколько блокчейнов в продакшене и ежедневно обрабатываем сотни тысяч операций через нашу партнёрскую сеть.</p> <p> </p> <p>Сейчас мы расширяем команду Golang-разработки и ищем специалиста, готового включиться в разработку нового микросервиса, интеграции с внешними сервисами и работу с современным технологическим стеком. Эта позиция — важный шаг в росте нашей Golang-команды.</p> <p> </p> <p>Технологический стек:</p> <p>Go (основной язык)</p> <p>Node.js (для взаимодействия с соседними сервисами)</p> <p>Kubernetes (включая Grafana, Loki &amp; Promtail, Redpanda)</p> <p>PostgreSQL (MDB), Kafka (Managed), Redis (Managed)</p> <p>CI/CD: GitLab CI</p> <p>Процессы: Kanban в Yandex Tracker</p> <p> </p> <p>Основные задачи:</p> <p>Разработка нового микросервиса с нуля</p> <p>Реализация интеграций с внешними API и системами</p> <p>Участие в архитектурных решениях и планировании разработки</p> <p>Поддержка и развитие существующих сервисов в дальнейшем</p> <p>Работа в распределённой микросервисной архитектуре с высокой нагрузкой</p> <p> </p> <p>Команда:</p> <p>Вы будете работать в связке с тимлидом (Go-разработчик), а также с DevOps-инженерами, фронтенд-командой и QA-специалистами. Все ключевые роли в команде присутствуют, процессы налажены: формируется бэклог, задачи обсуждаются на митингах, несколько раз в неделю проходят синхронизации.</p> <p> </p> <p>Что мы ожидаем:</p> <p>Продакшн-опыт разработки на Go от 2 лет</p> <p>Понимание принципов микросервисной архитектуры, REST API</p> <p>Опыт работы с PostgreSQL, Kafka, Redis</p> <p>Знание Docker, Kubernetes</p> <p>Умение писать читаемый, поддерживаемый код</p> <p> </p> <p>Дополнительные преимущества:</p> <p>Понимание архитектуры платёжных систем и процессингов</p> <p>Опыт работы с блокчейн-технологиями</p> <p>Опыт в high-load среде</p> <p>Знание инструментов мониторинга и логирования (Promtail, Grafana, Loki)</p> <p> </p> <p>Условия:</p> <p>Гибридный формат: офис на Арбате + возможность удалённой работы несколько дней в неделю</p> <p>Современное оборудование и комфортное рабочее пространство</p> <p>Интересные задачи, архитектурная свобода, участие в ключевых решениях</p> <p> </p> <p>Немного о нас:</p> <p>С 2019 года мы являемся операторами крупнейших банков, в их проектах по автоматизации топливных программ. Сегодня мы обрабатываем операции более чем 600 000 юридических лиц, формируя закрывающие документы в автоматическом режиме.</p> <p> </p> <p>Мы активно развиваем D2C-направление и расширяем партнёрскую сеть, в том числе за пределами РФ. В основе нашей архитектуры — более 8 собственных процессингов, микросервисный подход, интеграции с десятками систем, включая использование блокчейнов в продакшене.</p> <p> </p> <p>Если вы ищете не просто проект, а живую технологическую платформу с амбициями, инфраструктурой и серьёзными вызовами — мы будем рады познакомиться.</p> <ul> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Git"
+    },
+    {
+      "name": "GitLab CI"
+    },
+    {
+      "name": "JSON API"
+    },
+    {
+      "name": "Микросервисная архитектура"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "gRPC"
+    },
+    {
+      "name": "Redis"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "Apache Kafka"
+    },
+    {
+      "name": "Docker-compose"
+    },
+    {
+      "name": "JWT"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5973083",
+    "name": "Ситидом",
+    "url": "https://api.hh.ru/employers/5973083",
+    "alternate_url": "https://hh.ru/employer/5973083",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5973083",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T16:12:54+0300",
+  "created_at": "2025-06-05T16:12:54+0300",
+  "initial_created_at": "2025-06-02T16:12:54+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121233897",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121233897",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

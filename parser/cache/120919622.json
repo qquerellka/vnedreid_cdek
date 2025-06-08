@@ -1,0 +1,176 @@
+{
+  "id": "120919622",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Embedded программист С++ (БПЛА и полезные нагрузки)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "улица Шателена",
+    "building": "3",
+    "lat": 60.0041,
+    "lng": 30.362563,
+    "description": null,
+    "raw": "Санкт-Петербург, улица Шателена, 3",
+    "metro": {
+      "station_name": "Площадь Мужества",
+      "line_name": "Кировско-Выборгская",
+      "station_id": "14.194",
+      "line_id": "14",
+      "lat": 59.999828,
+      "lng": 30.366159
+    },
+    "metro_stations": [
+      {
+        "station_name": "Площадь Мужества",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.194",
+        "line_id": "14",
+        "lat": 59.999828,
+        "lng": 30.366159
+      },
+      {
+        "station_name": "Политехническая",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.193",
+        "line_id": "14",
+        "lat": 60.008942,
+        "lng": 30.370907
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Геоскан – российская группа компаний полного цикла. Наша команда занимается разработкой и производством беспилотных авиационных систем и малых космических аппаратов. Оборудование и программное обеспечение Геоскана широко применяются в промышленности, образовании и индустрии развлечений. Мы устраиваем соревнования по образовательной робототехнике, запускаем спутники в космос и организуем красочные шоу дронов по всему миру.</p> <p>Сейчас мы в поиске <strong>Embedded программистов (С++)</strong> разных уровней в отдел встраиваемого ПО.</p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>разрабатывать программное обеспечение для микроконтроллеров с ядрами ARM Cortex-M (STM32 и аналоги);</li> <li>документировать создаваемое программное обеспечение (Doxygen и Sphinx);</li> <li>разрабатывать и реализовывать протоколы обмена с устройствами бортовой сети и станцией управления.</li> </ul> <p>Типовые задачи: поддержка различных датчиков и исполнительных устройств, управление двигателями, реализация алгоритмов фильтрации и стабилизации, работа с модулями связи.</p> <p><strong>Мы ожидаем, что вы:</strong></p> <ul> <li>имеете профильное высшее образование;</li> <li>хорошо знаете С++, умеете применять объектно-ориентированный подход при разработке встраиваемого ПО;</li> <li>имеете опыт разработки для контроллеров с ядрами ARM Cortex-M;</li> <li>разрабатывали многопоточные приложения;</li> <li>имеете опыт разработки драйверов периферии;</li> <li>знакомы с интерфейсами UART, SPI, I2C, SDIO, CAN;</li> <li>владеете английским языком на уровне чтения технической документации;</li> <li>имеете опыт работы с системами контроля версий.</li> </ul> <p><strong>Вашим преимуществом будет:</strong></p> <ul> <li>опыт разработки под Linux с использованием GCC;</li> <li>опыт работы с CMake и Git;</li> <li>знакомство с интерпретируемыми языками, например: Lua, Python, JavaScript;</li> <li>опыт отладки устройств, умение работать с современными приборами.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>оформление в соответствии с ТК РФ и полностью белую заработную плату;</li> <li>работу в аккредитованной IT-компании;</li> <li>современный комфортный офис в шаговой доступности от метро Площадь Мужества;</li> <li>охраняемую авто- и велопарковку;</li> <li>гибкое начало рабочего дня;</li> <li>полис ДМС после 6 месяцев работы;</li> <li>корпоративный спорт: футбол, волейбол, баскетбол, йога, скалолазание;</li> <li>изучение иностранных языков в офисе с 50% компенсацией от компании;</li> <li>корпоративную библиотеку и настольные игры;</li> <li>чай/кофе и станции здорового питания на уютных кухнях.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Embedded"
+    },
+    {
+      "name": "C/C++"
+    },
+    {
+      "name": "UART"
+    },
+    {
+      "name": "SPI"
+    },
+    {
+      "name": "I2C"
+    },
+    {
+      "name": "CAN"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Linux"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2457614",
+    "name": "Геоскан",
+    "url": "https://api.hh.ru/employers/2457614",
+    "alternate_url": "https://hh.ru/employer/2457614",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1391620.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7186263.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7186264.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2457614",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-23T16:40:24+0300",
+  "created_at": "2025-05-23T16:40:24+0300",
+  "initial_created_at": "2025-05-23T16:40:24+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120919622",
+  "has_test": true,
+  "test": {
+    "required": false
+  },
+  "alternate_url": "https://hh.ru/vacancy/120919622",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,140 @@
+{
+  "id": "121354041",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер DevOps",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>GlowByte - лидер в сфере разработки Business Intelligence-решений. Компания на рынке более 20 лет (основана в 2004 году), входит в реестр аккредитованных IT-компаний России.</p> <p>Сегодня нас выбирают лидеры своих отраслей: крупнейшие банки (17 из Топ-20), телеком и сотовые операторы (все компании большой четверки), крупнейшие ритейлеры и логистические компании - с каждым годом этот список растет.</p> <p> </p> <p><strong>Наши основные продукты:</strong></p> <ul> <li> <p>Платформы хранения и анализа данных (Business Intelligence/DWH).</p> </li> <li> <p>Системы принятия решений и управления рисками (в том числе с использованием Big Data технологий).</p> </li> <li> <p>Аналитические и операционные CRM.</p> </li> </ul> <p>Мы внедряем аналитические решения на базе ORACLE DB, MS SQL Server, SAS, IBM, SAP BW/HANA, Vertica, Teradata, Hadoop, GreenPlum и активно развиваем свои продукты.</p> <p>В компании уже более 2 тыс. сотрудников, мы продолжаем расти, и у нас открыта позиция DevOps-инженера.</p> <p><strong>Что мы предлагаем: </strong></p> <ul> <li>тесное взаимодействие с набирающей темп продуктовой разработкой GlowByte, перенятие и распространение экспертизы DevOps в рамках стека компании;</li> <li>работу с куратором из числа опытных специалистов компании;</li> <li>сильную команду, вместе с которой можно развиваться и расширять свои знания;</li> <li>проекты по разработке или внедрению новых продуктов;</li> <li>интересные и перспективные направления: Big Data, Data Science &amp; Machine Learning;</li> <li>широкий и современный стек (конкретный набор зависит от проекта): Kubernetes, любые облака, Docker, Terraform, Ansible, HashiCorp Vault, Bitbucket, Gitlab, Jenkins, Teamcity, Prometheus + Grafana, ELK; БД и SQL (Oracle / PostgreSQL); Hadoop, Spark, Kafka; Python; Bash.</li> </ul> <p><strong>Чего мы ждем:</strong></p> <ul> <li><strong>практический опыт работы с Kubernetes/Openshift</strong> и Docker с точки зрения развертывания в нем приложений;</li> <li>практический опыт реализации CI/CD пайплайнов;</li> <li>опыт администрирования и конфигурирования серверов на базе ОС Linux;</li> <li>опыт работы с реляционными базами данных;</li> <li>опыт работы и настройки систем мониторинга и логирования;</li> <li>ИЛИ желание развиваться в данном стеке, мы готовы обучать!</li> </ul> <p><strong>Особенности работы в компании:</strong></p> <ul> <li>оформление по ТК РФ;</li> <li>полностью белая заработная плата, стабильный оклад и премии по итогам года;</li> <li><strong>удобный формат работы на выбор - офис / гибрид / полная удаленка</strong>;</li> <li>активный молодой коллектив, есть различные клубы по интересам и хобби;</li> <li>гибкий график работы;</li> <li>возможность получить профессиональное обучение или сертификацию за счёт компании;</li> <li>отлаженный подход к росту сотрудников (каждому сотруднику - план индивидуального развития, регулярные встречи по развитию);</li> <li>ДМС, компенсация изучения английского языка/абонемента в фитнес-клуб.</li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "Helm"
+    },
+    {
+      "name": "Terraform"
+    },
+    {
+      "name": "Ansible"
+    },
+    {
+      "name": "Bash"
+    },
+    {
+      "name": "Jenkins"
+    },
+    {
+      "name": "Gitlab"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "160",
+      "name": "DevOps-инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "64474",
+    "name": "GlowByte",
+    "url": "https://api.hh.ru/employers/64474",
+    "alternate_url": "https://hh.ru/employer/64474",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1010776.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5663880.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5663881.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=64474",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T18:10:47+0300",
+  "created_at": "2025-06-04T18:10:47+0300",
+  "initial_created_at": "2025-06-04T18:10:47+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121354041",
+  "has_test": true,
+  "test": {
+    "required": false
+  },
+  "alternate_url": "https://hh.ru/vacancy/121354041",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

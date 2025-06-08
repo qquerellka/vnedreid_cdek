@@ -1,0 +1,125 @@
+{
+  "id": "121095528",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "QA / Тестировщик (Middle)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Большая Садовая улица",
+    "building": "10",
+    "lat": 55.76721,
+    "lng": 37.59339,
+    "description": null,
+    "raw": "Москва, Большая Садовая улица, 10",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>QA / Тестировщик (Middle и выше)</p> <p>Мы ищем специалиста, который готов активно участвовать в развитии наших продуктов и обеспечивать их высокое качество. Если вы обладаете необходимыми навыками и опытом, будем рады видеть вас в нашей команде!<br /><br /><strong>Твоими задачи будут:</strong></p> <ul> <li>Развитие и поддержка аналитических продуктов в сфере маркировки товаров;</li> <li>Анализ и обработка больших данных;</li> <li>Визуализация и представление данных в собственной BI платформе;</li> <li>Обеспечение качества продукта на всех этапах разработки.</li> </ul> <p><strong>Мы ждем от тебя:</strong></p> <ul> <li>Опыт проведения различных видов тестирования: Smoke, UI, функциональное, регрессионное;</li> <li>Опыт ведения тестовой документации: создание и обновление чек-листов, тест-кейсов, баг-репортов и инструкций;</li> <li>Ручное тестирование API (Postman), UI и UX;</li> <li><strong>Разработка автоматизированных тестов для API (Jest, Supertest) и UI (Playwright, Puppeteer);</strong></li> <li><strong>Опыт работы от 3-х лет в тестировании Backend и Frontend;</strong></li> <li>Опыт тестирования WEB приложений и умение работать с инструментами разработчика в браузере</li> <li>Знание систем Jira, Bitrix, TestRail;</li> <li>Опциональные навыки: TypeScript/JavaScript, базовые знания SQL, Docker, Git, VSCode;</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Оформление по ТК РФ;</li> <li>Испытательный срок до 3-х месяцев;</li> <li>График работы 5/2 с 09:00 до 18:00;</li> <li>Удалённый формат работы;</li> <li>Работа в IT-компании;</li> <li>Конкурентная заработная плата. Выплата зарплаты 2 раза в месяц;</li> <li>ДМС по завершению исп. срока;</li> <li>Возможность карьерного роста и профессионального развития;</li> <li>Дружный коллектив</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5978742",
+    "name": "Ритейл Дата-Центр Технологии",
+    "url": "https://api.hh.ru/employers/5978742",
+    "alternate_url": "https://hh.ru/employer/5978742",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1393997.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7195771.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7195772.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5978742",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-28T16:51:09+0300",
+  "created_at": "2025-05-28T16:51:09+0300",
+  "initial_created_at": "2025-05-28T16:51:09+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121095528",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121095528",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

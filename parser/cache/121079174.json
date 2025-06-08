@@ -1,0 +1,128 @@
+{
+  "id": "121079174",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "QA manual",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": null,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": null,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": false,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": {
+    "id": "3529-3529-prof",
+    "name": "Сбер для экспертов"
+  },
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Команда занимается разработкой процесса отображения действующих полисов клиента в различных разделах сбербанк онлайн.</p><h3><strong>Тебе предстоит:</strong></h3> <ul> <li>участие в функциональном и интеграционном тестировании</li> <li>участие в приемо-сдаточных испытаниях новой функциональности</li> <li>разработка тестовой модели и методики тестирования</li> <li>участие в тестировании UI iOS, Android, Web как на живых устройствах, так и на эмуляторах</li> <li>анализ результатов и подготовка отчетности</li> <li>участие в системном и интеграционном функциональном тестировании бэк приложения (большая интеграционная цепочка, десятки систем участвуют в интеграции)</li> <li>нефункциональное тестирование требований надежности, аудит, мониторинг, журналирование.</li> </ul><h3><strong>Что для нас важно:</strong></h3> <ul> <li>знание основных принципов REST/Web сервисов, очередей сообщений, XML/JSON</li> <li>опыт ФТ от года</li> <li>знание SQL на уровне простых запросов;</li> <li>обязательно опыт анализа логов бэк приложения, анализ отправляемых интеграционных запросов при живой интеграции на соответствие маппингу</li> <li>опыт работы с Jira, Confluence</li> <li>просмотр метрик в Graphana/Thanos</li> <li>опыт тестирования тестирования интеграции на разных архитектурных решениях, клиент – серверная, bh – bh.</li> </ul><h3><strong>Мы предлагаем:</strong></h3> <ul> <li>комфортный современный офис</li> <li>возможность выбрать удобный график – офис/гибрид</li> <li>ежегодный пересмотр зарплаты, годовая премия</li> <li>корпоративный спортзал и зоны отдыха</li> <li>более 400 образовательных программ СберУниверситета для профессионального и карьерного развития</li> <li>программа адаптации и помощь руководителя на старте</li> <li>расширенный ДМС, льготное страхование для семьи и корпоративная пенсионная программа</li> <li>гибкий дисконт по ипотечному кредиту, равный 1/3 ключевой ставки ЦБ</li> <li>бесплатная подписка СберПрайм+, скидки на продукты компаний-партнеров</li> <li>вознаграждение за рекомендацию друзей в команду Сбера.</li> </ul>",
+  "branded_description": "\n    \n<style type=\"text/css\">\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}     \n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc,\n.tmpl_hh_wrapper .l-paddings {\n    line-height: inherit !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n}\n\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p strong {\n    font-weight: normal;\n    font-size: inherit!important;\n    font-family: inherit!important;\n    line-height: inherit!important;\n    color: inherit!important;\n    margin: 0!important;\n    padding: 0!important;\n    background: none!important;\n    display: inline!important;\n    text-transform: none;\n    position: static;\n}\n\n.tmpl_hh_content strong em,\n.tmpl_hh_content em strong {\n    display: inline;\n    font-weight: 700 !important;\n    font-style: normal;\n    font-size: inherit;\n    line-height: inherit;\n    color: inherit;\n    background: none;\n    padding: 0;\n    margin: 0;\n    text-transform: none;\n    position: static;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p strong {\n    margin: 0;\n}\n\n.tmpl_hh_flex {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n    -ms-flex-pack: justify;\n    -webkit-box-pack: justify;\n    justify-content: space-between;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    max-width: 690px;\n    margin: 0 auto;\n    position: relative;\n    word-break: normal;\n    font-family: 'Arial', sans-serif;\n    color: #fff;\n    font-size: 14px;\n    line-height: 1.2;\n    overflow: hidden;\n    -webkit-font-smoothing: antialiased;\n    background: #000 url(https://hhcdn.ru/ichameleon/420087.jpg) no-repeat 0 100%;\n    background-size: 100% auto;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_wrapper * {\n    -webkit-box-sizing: border-box;\n    box-sizing: border-box;\n}\n\n.tmpl_hh_video {\n    position: relative;\n    width: 100%;\n}\n\n.tmpl_hh_video img,\n.tmpl_hh_video iframe {\n    position: absolute;\n    left: 0;\n    top: 0;\n    width: 100%;\n    height: 100%;\n}\n\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul {\n    list-style: none;\n}\n\n.tmpl_hh_container {\n    padding: 41px 25px 10px;\n}\n\n.tmpl_hh_header video {\n    width: 100%;\n}\n\n.tmpl_hh_about {\n    font-size: 24px;\n    line-height: 1.3;\n    padding-right: 7%;\n    margin-bottom: 65px;\n}\n\n.tmpl_hh_benefits.tmpl_hh_flex {\n    margin-top: 26px;\n}\n\n.tmpl_hh_benefits_item {\n    position: relative;\n    z-index: 1;\n    margin-bottom: 2.5%;\n}\n\n.tmpl_hh_benefits_item_inner {\n    position: relative;\n    padding: 32px 19px 23px;\n    z-index: 1;\n    border: 1px solid rgb(255 255 255 / 50%);\n    border-radius: 20px;\n}\n\n.UNSAFE-vacancy-branded-is-desktop .tmpl_hh_benefits_item_inner {\n   -webkit-backdrop-filter: blur(18px);\n    backdrop-filter: blur(18px);\n}\n\n.tmpl_hh_benefits_item:before {\n    content: '';\n    position: absolute;\n    left: 50%;\n    transform: translateX(-50%);\n    bottom: -4px;\n    display: block;\n    width: 163px;\n    height: 10px;\n    border-radius: 3px;\n    background: #00D9FF;\n    z-index: -1;\n}\n\n.tmpl_hh_benefits_item p {\n    font-size: 18px;\n    line-height: 1.1;\n    padding-right: 8%;\n    min-height: 60px;\n}\n\n.tmpl_hh_benefits_title {\n    min-height: 44px;\n}\n\n.tmpl_hh_benefits_title img {\n    height: 24px;\n    width: auto;\n}\n\n.tmpl_hh_benefits_title3 img {\n    height: 33px;\n}\n\n.tmpl_hh_benefits_title4 img {\n    height: 31px;\n}\n\n.tmpl_hh_benefits_item1,\n.tmpl_hh_benefits_item4 {\n    width: 38%;\n}\n\n.tmpl_hh_benefits_item2,\n.tmpl_hh_benefits_item3 {\n    width: 59%;\n}\n\n.tmpl_hh_note {\n    margin-top: 23px;\n    opacity: 0.5;\n    font-size: 12px;\n}\n\n.tmpl_hh_content {\n    padding: 0;\n    margin: 0 auto;\n    color: #fff;\n    font-size: 18px;\n    line-height: 1.2;\n}\n\n.tmpl_hh_content .highlighted {\n    color: #333;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content strong {\n    margin: 62px 0 0;\n}\n\n.tmpl_hh_content strong {\n    display: inline-block;\n    font-size: 36px;\n    line-height: 1.2;\n    color: #00D9FF;\n    text-transform: uppercase;\n}\n\n.tmpl_hh_content ul,\n.tmpl_hh_content ul ul {\n    list-style: none;\n}\n\n.tmpl_hh_content ol {\n    list-style: none;\n    counter-reset: list;\n}\n\n.tmpl_hh_content ul,\n.tmpl_hh_content ol {\n    margin-left: 20px;\n    margin-top: 27px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 17px;\n}\n\n.tmpl_hh_content ul li,\n.tmpl_hh_content ol li {\n    position: relative;\n    margin-bottom: 17px;\n}\n\n.tmpl_hh_content ul li:last-child,\n.tmpl_hh_content ol li:last-child {\n    margin-bottom: 0;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list;\n}\n\n.tmpl_hh_content ul>li:before,\n.tmpl_hh_content ol>li:before {\n    position: absolute;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: '';\n    top: 4px;\n    left: -20px;\n    width: 10px;\n    height: 13px;\n    background: url(https://hhcdn.ru/ichameleon/420079.svg) no-repeat;\n    background-size: 100% auto;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list) \".\";\n    left: auto;\n    right: 100%;\n    margin-right: 4px;\n}\n\n@media screen and (max-width: 1099px) {\n    .tmpl_hh_benefits_item p {    \n         padding-right: 0%;\n    }\n    .tmpl_hh_benefits_item_inner {   \n         padding: 32px 14px 23px;     \n    }\n    .tmpl_hh_benefits_title img {\n    height: 21px;\n \n}\n.tmpl_hh_benefits_title3 img {\n    height: 28px;\n}\n.tmpl_hh_benefits_title4 img {\n    height: 26px;\n}\n}\n\n@media screen and (max-width: 699px) {\n    .tmpl_hh_wrapper {\n        background: #000 url(https://hhcdn.ru/ichameleon/420088.jpg) no-repeat 0 100%;\n        background-size: 100% 100%;\n    }\n    .tmpl_hh_container {\n        padding: 28px 6% 10px;\n    }\n    .tmpl_hh_about {\n        font-size: 16px;\n        line-height: 1.2;\n        padding-right: 1%;\n        margin-bottom: 40px;\n    }\n    .tmpl_hh_benefits.tmpl_hh_flex {\n        margin-top: 21px;\n    }\n    .tmpl_hh_benefits_item {\n        margin-bottom: 19px;\n        width: 100%;\n        display: block;\n    }\n    .tmpl_hh_benefits_item_inner {\n        padding: 20px 5% 16px;\n    }\n    .tmpl_hh_benefits_item:before {\n        bottom: -4px;\n        display: block;\n        width: 163px;\n        height: 10px;\n        border-radius: 3px;\n    }\n    .tmpl_hh_benefits_item p {\n        font-size: 16px;\n        line-height: 1.1;\n        padding-right: 4%;\n        min-height: 60px;\n    }\n    .tmpl_hh_benefits_title {\n        min-height: 30px;\n    }\n    .tmpl_hh_benefits_title img {\n        height: 16px;\n        width: auto;\n    }\n    .tmpl_hh_benefits_title3 img {\n        height: 21px;\n    }\n    .tmpl_hh_benefits_title4 img {\n        height: 20px;\n    }\n    .tmpl_hh_note {\n        margin-top: 23px;\n        opacity: 0.5;\n        font-size: 12px;\n    }\n    .tmpl_hh_content {\n        padding: 0;\n        margin: 0 auto;\n        color: #fff;\n        font-size: 16px;\n        line-height: 1.2;\n    }\n    .tmpl_hh_content p:first-child,\n    .tmpl_hh_content>strong:first-child,\n    .tmpl_hh_content div>strong:first-child {\n        margin-top: 0 !important;\n    }\n    .tmpl_hh_content p,\n    .tmpl_hh_content strong {\n        margin: 38px 0 0;\n    }\n    .tmpl_hh_content strong {\n        display: inline-block;\n        font-size: 20px;\n        line-height: 1.2;\n    }\n    .tmpl_hh_content ul,\n    .tmpl_hh_content ul ul {\n        list-style: none;\n    }\n    .tmpl_hh_content ol {\n        list-style: none;\n        counter-reset: list;\n    }\n    .tmpl_hh_content ul,\n    .tmpl_hh_content ol {\n        margin-left: 18px;\n        margin-top: 21px;\n    }\n    .tmpl_hh_content ul ul,\n    .tmpl_hh_content ul ol,\n    .tmpl_hh_content ol ol,\n    .tmpl_hh_content ol ul {\n        margin-top: 17px;\n    }\n    .tmpl_hh_content ul li,\n    .tmpl_hh_content ol li {\n        position: relative;\n        margin-bottom: 17px;\n    }\n    .tmpl_hh_content ul li:last-child,\n    .tmpl_hh_content ol li:last-child {\n        margin-bottom: 0;\n    }\n    .tmpl_hh_content ol>li {\n        counter-increment: list;\n    }\n    .tmpl_hh_content ul>li:before,\n    .tmpl_hh_content ol>li:before {\n        position: absolute;\n        top: 0;\n    }\n    .tmpl_hh_content ul>li:before {\n        content: '';\n        top: 5px;\n        left: -17px;\n        width: 8px;\n        height: 11px;\n    }\n}\n</style>\n\n<div class=\"tmpl_hh_wrapper\">\n    <div class=\"tmpl_hh_header\">\n        <video poster=\"https://hhcdn.ru/ichameleon/420084.jpg\" autoplay=\"autoplay\" loop=\"loop\" muted=\"muted\" preload=\"auto\" playsinline=\"playsinline\">\n            <source src=\"https://hhcdn.ru/file/17987250.mp4\" type='video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"'></source>\n            <source src=\"https://hhcdn.ru/file/17987251.webm\" type='video/webm; codecs=\"vp8, vorbis\"'></source>\n        </video>\n    </div>\n    <div class=\"tmpl_hh_container\">\n         \n        <div class=\"tmpl_hh_content\">\n            <p>Команда занимается разработкой процесса отображения действующих полисов клиента в различных разделах сбербанк онлайн.</p><h3><strong>Тебе предстоит:</strong></h3> <ul> <li>участие в функциональном и интеграционном тестировании</li> <li>участие в приемо-сдаточных испытаниях новой функциональности</li> <li>разработка тестовой модели и методики тестирования</li> <li>участие в тестировании UI iOS, Android, Web как на живых устройствах, так и на эмуляторах</li> <li>анализ результатов и подготовка отчетности</li> <li>участие в системном и интеграционном функциональном тестировании бэк приложения (большая интеграционная цепочка, десятки систем участвуют в интеграции)</li> <li>нефункциональное тестирование требований надежности, аудит, мониторинг, журналирование.</li> </ul><h3><strong>Что для нас важно:</strong></h3> <ul> <li>знание основных принципов REST/Web сервисов, очередей сообщений, XML/JSON</li> <li>опыт ФТ от года</li> <li>знание SQL на уровне простых запросов;</li> <li>обязательно опыт анализа логов бэк приложения, анализ отправляемых интеграционных запросов при живой интеграции на соответствие маппингу</li> <li>опыт работы с Jira, Confluence</li> <li>просмотр метрик в Graphana/Thanos</li> <li>опыт тестирования тестирования интеграции на разных архитектурных решениях, клиент – серверная, bh – bh.</li> </ul><h3><strong>Мы предлагаем:</strong></h3> <ul> <li>комфортный современный офис</li> <li>возможность выбрать удобный график – офис/гибрид</li> <li>ежегодный пересмотр зарплаты, годовая премия</li> <li>корпоративный спортзал и зоны отдыха</li> <li>более 400 образовательных программ СберУниверситета для профессионального и карьерного развития</li> <li>программа адаптации и помощь руководителя на старте</li> <li>расширенный ДМС, льготное страхование для семьи и корпоративная пенсионная программа</li> <li>гибкий дисконт по ипотечному кредиту, равный 1/3 ключевой ставки ЦБ</li> <li>бесплатная подписка СберПрайм+, скидки на продукты компаний-партнеров</li> <li>вознаграждение за рекомендацию друзей в команду Сбера.</li> </ul><p><strong>РАБОТА В СБЕРЕ – это</strong></p>\n        </div>\n        <div class=\"tmpl_hh_benefits tmpl_hh_flex\">\n            <div class=\"tmpl_hh_benefits_item tmpl_hh_benefits_item1\">\n                <div class=\"tmpl_hh_benefits_item_inner\">\n                    <div class=\"tmpl_hh_benefits_title tmpl_hh_benefits_title1\">\n                        <img src=\"https://hhcdn.ru/ichameleon/420080.svg\" alt=\"\">\n                    </div>\n                    <p>\n                        участие в развитии инноваций на базе ИИ\n                    </p>\n                </div>                \n            </div>\n            <div class=\"tmpl_hh_benefits_item tmpl_hh_benefits_item2\">\n                <div class=\"tmpl_hh_benefits_item_inner\">\n                    <div class=\"tmpl_hh_benefits_title tmpl_hh_benefits_title2\">\n                        <img src=\"https://hhcdn.ru/ichameleon/420081.svg\" alt=\"\">\n                    </div>\n                    <p>\n                        акселераторы для стартапов, хакатоны и регулярные митапы от лидеров направлений\n                    </p>\n                </div>\n            </div>\n            <div class=\"tmpl_hh_benefits_item tmpl_hh_benefits_item3\">\n                <div class=\"tmpl_hh_benefits_item_inner\">\n                    <div class=\"tmpl_hh_benefits_title tmpl_hh_benefits_title3\">\n                        <img src=\"https://hhcdn.ru/ichameleon/420083.svg\" alt=\"\">\n                    </div>\n                    <p>\n                        креативные пространства для работы, спортзалы, зоны для отдыха и перезагрузки\n                    </p>\n                </div>\n            </div>\n            <div class=\"tmpl_hh_benefits_item tmpl_hh_benefits_item4\">\n                <div class=\"tmpl_hh_benefits_item_inner\">\n                    <div class=\"tmpl_hh_benefits_title tmpl_hh_benefits_title4\">\n                        <img src=\"https://hhcdn.ru/ichameleon/420082.svg\" alt=\"\">\n                    </div>\n                    <p>\n                        возможность найти союзников по любым интересам\n                    </p>\n                </div>\n            </div>\n        </div>\n        <div class=\"tmpl_hh_note\">\n            ПАО \"Сбербанк России\" \n        </div> \n    </div>\n   \n</div>\n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3529",
+    "name": "СБЕР",
+    "url": "https://api.hh.ru/employers/3529",
+    "alternate_url": "https://hh.ru/employer/3529",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1311252.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6865266.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6865267.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3529",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-28T12:40:00+0300",
+  "created_at": "2025-05-28T12:40:00+0300",
+  "initial_created_at": "2025-05-28T12:40:00+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121079174",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121079174",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

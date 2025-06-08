@@ -1,0 +1,202 @@
+{
+  "id": "117494601",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Программист С++ (микроконтроллеры)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 200000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 200000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": null,
+    "lng": null,
+    "description": null,
+    "raw": null,
+    "metro": {
+      "station_name": "Улица Дыбенко",
+      "line_name": "Лахтинско-Правобережная",
+      "station_id": "17.244",
+      "line_id": "17",
+      "lat": 59.907417,
+      "lng": 30.483311
+    },
+    "metro_stations": [
+      {
+        "station_name": "Улица Дыбенко",
+        "line_name": "Лахтинско-Правобережная",
+        "station_id": "17.244",
+        "line_id": "17",
+        "lat": 59.907417,
+        "lng": 30.483311
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p> </p> <div>Мы в<strong> «Аэродин» </strong>разрабатываем и производим <strong>промышленные БПЛА гражданского направления </strong>с 2017 года, создаем БАС — от идеи до лётных испытаний.</div> <h2><br /><strong>Что нужно делать:</strong></h2> <div>Разработка и поддержка ПО для микроконтроллеров (C++)<br />Отладка плат-контроллеров<br />CAN, UART, I2C, SPI<br />Make/CMake</div> <div>Прямое взаимодействие со всеми участниками процессов</div> <h2><strong>Наш идеальный кандидат:</strong></h2> <p>Подтвержденный опыт работы в сфере БПЛА<br />Опыт в разработке под микроконтроллеры (желательно STM32)<br />Знание схемотехники, умение читать схемы<br />Опыт работы с RTOS и понимание сетевых протоколов<br />Английский на уровне чтения документации<br />Владение Git</p> <h2><strong>Будет плюсом:</strong></h2> <ul> <li>Python</li> <li>Linux/Embedded Linux</li> <li>MAVLink, UAVCAN</li> <li>HTML/CSS/JS</li> <li>Pixhawk</li> <li>Ardupilot</li> </ul> <h2><strong>Условия:</strong></h2> <ul> <li> <div>график: 5/2, с 10:00 до 19:00, <strong>офис</strong></div> </li> <li> <div><strong>по результатам испытательного срока - больше гибкости в выборе графика работы</strong></div> </li> <li> <div>обеды за счёт компании</div> </li> <li> <div>кофемашина, кухня, комната отдыха</div> </li> <li> <div>комфортная развозка от ст.м. Дыбенко</div> </li> <li> <div>молодая и профессиональная команда</div> </li> <li> <div>задачи — реальные, результат — в небе</div> </li> <li> <div>оформление по ТК РФ</div> </li> </ul> <p><strong>Если Вам интересно видеть, как Ваша работа превращается в работающую систему — ждем Вас в нашу команду.</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "MAVLink"
+    },
+    {
+      "name": "UAVCAN"
+    },
+    {
+      "name": "Embedded Linux"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "stm32"
+    },
+    {
+      "name": "Сmake"
+    },
+    {
+      "name": "uart"
+    },
+    {
+      "name": "SPI"
+    },
+    {
+      "name": "pixhawk"
+    },
+    {
+      "name": "ardupilot"
+    },
+    {
+      "name": "C/C++"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "px4"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4756222",
+    "name": "Аэродин",
+    "url": "https://api.hh.ru/employers/4756222",
+    "alternate_url": "https://hh.ru/employer/4756222",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1386370.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7165267.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7165268.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4756222",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T08:16:11+0300",
+  "created_at": "2025-06-05T08:16:11+0300",
+  "initial_created_at": "2025-02-19T19:31:27+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=117494601",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/117494601",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

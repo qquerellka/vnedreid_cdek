@@ -1,0 +1,195 @@
+{
+  "id": "120493212",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Старший инженер-программист/начальник лаборатории",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 180000,
+    "to": 262400,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 180000,
+    "to": 262400,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Троицкий проспект",
+    "building": "4Б",
+    "lat": 59.915675,
+    "lng": 30.30295,
+    "description": null,
+    "raw": "Санкт-Петербург, Троицкий проспект, 4Б",
+    "metro": {
+      "station_name": "Технологический институт 1",
+      "line_name": "Кировско-Выборгская",
+      "station_id": "14.202",
+      "line_id": "14",
+      "lat": 59.916512,
+      "lng": 30.318485
+    },
+    "metro_stations": [
+      {
+        "station_name": "Технологический институт 1",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.202",
+        "line_id": "14",
+        "lat": 59.916512,
+        "lng": 30.318485
+      },
+      {
+        "station_name": "Технологический институт 2",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.219",
+        "line_id": "15",
+        "lat": 59.916512,
+        "lng": 30.318485
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>АО &quot;Радиоавионика&quot; </strong>на рынке уже более 33 лет. За это время мы смогли сформировать сильную команду профессионалов, увлеченных своим делом. Мы являемся предприятием оборонно-промышленного комплекса и одной из ведущих организаций России в области разработки и производства автоматизированных систем железнодорожной автоматики и средств неразрушающего контроля рельсов (ультразвуковая дефектоскопия). Офис и производственная площадка расположены в Адмиралтейском и Невском районах Санкт-Петербурга. Сейчас в компании работает более 750 человек.<br /><strong>Будем рады видеть Вас в нашей команде! Растите, зарабатывайте и развивайтесь вместе с нами!</strong></p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>поддержка (кросс-компиляция), администрирование встроенной ОС семейства Linux в изделиях Компании и адаптация ОС под новые аппаратно-технические решения;</li> <li>актуализация инструментов кросс-компиляции во встроенной ОС;</li> <li>поиск и устранение конфликтов при сборке модулей и библиотек;</li> <li>разработка bash/python скриптов и тестовых приложений;</li> <li>написание пользовательских инструкций;</li> <li>участие в 3-х проектах (ведущая роль).</li> </ul> <strong>Что ожидаем от кандидата:</strong> <ul> <li>знание принципов организации и администрирования ОС семейства Linux;</li> <li>знание систем сборки дистрибутивов Linux (Buildroot);</li> <li>знание базовых принципов функционирования сети и сетевых протоколов;</li> <li>знание системами виртуализации (VirtualBox, QEMU) и контейнеризации (Docker);</li> <li>опыт работы с Git/GitLab.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>опыт работы с VPN и библиотеками видеозахвата;</li> <li>знакомство со средствами библиотек Qt, QML;</li> <li>владение механизмом отладки (gdb).</li> </ul> <p><strong>В работе используем:</strong><br />Python, GCC, cmake, make, qmake, Qt, QML, Android, C/C++.</p> <p><strong>Мы предлагаем:</strong></p> <ul> <li> <p>график работы 5/2,</p> </li> <li> <p>оформление по ТК РФ, отпуск 31 день;</p> </li> <li> <p>возможны командировки (1 раз в месяц или реже)</p> </li> <li> <p>премии по результатам выполненных работ;</p> </li> <li> <p>широкий спектр мотивационных услуг (ДМС по истечении календарного года, поддержка молодых семей, частичная компенсация абонемента на фитнес и т.д.);</p> </li> <li> <p>инвестирование в развитие персонала: повышение квалификации, квоты по направлению на целевое обучение (ВУЗ/ССУЗ);</p> </li> <li> <p>возможность карьерного роста;</p> </li> <li> <p>право на получения брони на период мобилизации (для военнообязанных).</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "GCC"
+    },
+    {
+      "name": "CMake"
+    },
+    {
+      "name": "make"
+    },
+    {
+      "name": "qmake"
+    },
+    {
+      "name": "Qt"
+    },
+    {
+      "name": "QML"
+    },
+    {
+      "name": "Android"
+    },
+    {
+      "name": "C/C++"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "738089",
+    "name": "Радиоавионика",
+    "url": "https://api.hh.ru/employers/738089",
+    "alternate_url": "https://hh.ru/employer/738089",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1131017.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6144657.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6144658.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=738089",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-13T17:48:28+0300",
+  "created_at": "2025-05-13T17:48:28+0300",
+  "initial_created_at": "2025-05-13T17:48:28+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120493212",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120493212",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

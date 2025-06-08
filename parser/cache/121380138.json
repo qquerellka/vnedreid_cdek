@@ -1,0 +1,129 @@
+{
+  "id": "121380138",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Помощник системного администратора",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 80000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 80000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong><em>Группа компаний «Альянс»</em></strong></p> <p><strong><em>Предприятие федерального масштаба в строительстве инфраструктурных объектов и промышленно-гражданского строительства, работающее с крупным государственным и муниципальным заказчиком.</em></strong></p> <p><strong><em>В связи с активным развитием и расширением компании требуется помощник системного администратора!</em></strong></p> <p><strong>Обязанности:</strong></p> <ul> <li>Помощь в создании и настройка рабочих мест пользователей системы;</li> <li>Обработка заявок пользователей на техподдержку;</li> <li>Помощь в настройке сетевого оборудования и СКС; Обслуживание оргтехники.</li> </ul> <strong>Требования:</strong> <ul> <li><strong>Желательно:</strong> Знания серверных продуктов и технологий: Windows Server, Active Directory, GPO; Опыт установки и настройки основных офисных продуктов Microsoft Office, 1С, подключение сетевых принтеров, сетевого оборудования, СКУД и систем видеонаблюдения</li> <li><strong>Желательно:</strong> Опыт работы с корпоративными системами антивирусной защиты и информационной безопасности.</li> </ul> <strong>Условия:</strong> <ul> <li>Место работы - деревня Орлово, МО</li> <li>Трудоустройство в соответствии с ТК РФ</li> <li><strong>Трансфер от м. Домодедовская туда и обратно </strong></li> <li>График 5/2 с 09:00 до 18:00</li> <li>стабильные выплаты заработной платы</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Microsoft Office"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1476918",
+    "name": "ГК Альянс",
+    "url": "https://api.hh.ru/employers/1476918",
+    "alternate_url": "https://hh.ru/employer/1476918",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/981224.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5545720.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5545721.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1476918",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T12:46:37+0300",
+  "created_at": "2025-06-05T12:46:37+0300",
+  "initial_created_at": "2025-06-05T12:46:37+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121380138",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121380138",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

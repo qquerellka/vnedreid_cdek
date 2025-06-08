@@ -1,0 +1,115 @@
+{
+  "id": "120831408",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "DevOps-инженер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><em>OGPT — технологическая it-компания, ориентированная на создание и внедрение передовых решений в области искусственного интеллекта и физико-математического моделирования в производственные процессы нефтегазодобычи. Мы разрабатываем уникальные продукты, которые помогают бизнесу значительно повышать свою эффективность, улучшать принятие решений и автоматизировать процессы. Наши технологии уже сегодня позволяют компаниям достигать выдающихся результатов, используя возможности искусственного интеллекта.</em></p> <p><em>В OGPT мы стремимся создавать инновационную среду, где каждый сотрудник может раскрыть свой потенциал, применяя свои знания и навыки для решения реальных и амбициозных задач. Мы ищем людей, которые готовы не только работать, но и развиваться вместе с нами, внося свой вклад в создание высококачественных продуктов, которые меняют будущее.</em></p> <p><em>Если вы хотите работать в динамичной и поддерживающей команде, где ценится креативность, экспертиза и стремление к совершенству, OGPT — это место для вас. Мы уверены, что только вместе, с лучшими специалистами, можно достигать высоких целей и воплощать инновации в жизнь.</em><br /><br /><em>И сейчас мы ищем </em><strong><em>DevOps</em></strong><strong> </strong><strong><em>Engineer</em></strong><strong> </strong><em>для направления разработки систем, направленных на моделирование и оптимизацию процессов добычи нефти и газа.</em><br /></p> <p><strong>Обязанности:</strong><br /></p> <ul> <li>Построение и поддержка CI/CD пайплайнов (GitLab CI/Jenkins) для web-приложений (Backend, Edge, Frontend) на языках Python, Go, C++;</li> <li>Управление Docker-образами, настройка и поддержка оркестраторов контейнеров (предпочтительно Kubernetes, включая k3s);</li> <li>Внедрение и поддержка Infrastructure as Code (IaC) - Terraform/Ansible/Pulumi;</li> <li>Настройка и поддержка систем мониторинга (Prometheus, Grafana, OpenTelemetry), логирования (ELK/EFK/Loki) и трассировки (Jaeger/OpenTelemetry) для всех компонентов, включая Edge (локальное логирование в UNIX-системах);</li> <li>Администрирование и оптимизация локального Linux-сервера (включая GitLab, PostgreSQL, ClickHouse, MinIO) и планирование его масштабирования;</li> <li>Разработка и поддержка механизмов автоматического развертывания (работа с инструментами GitOps, включая ArgoCD) и обновления ПО и ВМ на Edge-устройствах (работа с deb-репозиториями на Ubuntu/Debian/AstraLinux);</li> <li>Обеспечение инфраструктурных потребностей для пайплайнов обработки данных (взаимодействие с Data Engineer);</li> <li>Внедрение базовых практик безопасности инфраструктуры.<br /><strong> </strong></li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Опыт DevOps от 3-х лет;</li> <li>Глубокие знания Linux;</li> <li>Практический опыт с GitLab CI/Jenkins (или их аналоги);</li> <li>Уверенное владение Docker и опыт с Kubernetes;</li> <li>Опыт работы с IaC (Ansible, Terraform или аналоги);</li> <li>Опыт с системами мониторинга/логирования (Prometheus, Grafana, ELK, OpenTelemetry или аналоги);</li> <li><strong> </strong>Навыки скриптинга (Bash/Python/Go);</li> <li>Понимание сетевых технологий;</li> <li><strong> </strong>Опыт работы с PostgreSQL.</li> </ul> <p><br /><strong>Будет плюсом:</strong></p> <ul> <li>Опыт работы с Edge Computing / IIoT;</li> <li>Опыт работы с большими данными (ClickHouse, MinIO);</li> <li>Опыт работы с Python-стеком;</li> <li>Опыт работы с легковесными K8s (K3s, MicroK8s, K0s, Rancher);</li> <li><strong> </strong>Опыт работы с брокерами сообщений (Kafka, RabbitMQ);</li> <li><strong> </strong>Знание ИБ в применении к инфраструктуре;</li> <li><strong> </strong>Опыт работы с GPU-инфраструктурой;</li> <li>Опыт создания/работы с инфраструктурой для обработки BigData;</li> <li>Технологический стек: Python, Docker, Kubernetes (K3s/Rancher), GitLab CI, Jenkins, ArgoCD, PostgreSQL, ClickHouse, MinIO, Prometheus, Grafana, ELK/Loki, Linux, Bash, Terraform/Ansible.</li> </ul> <p><br /><strong>Условия:</strong><br /></p> <ul> <li>Интересные задачи и возможность профессионального роста;</li> <li>Высокий уровень дохода (мы готовы обсуждать условия дохода с каждым кандидатом по итогам личной встречи);</li> <li>Удаленная работа;</li> <li>ДМС;</li> <li>Профессиональный и позитивный коллектив;</li> <li>Возможность влиять на архитектуру и развитие продукта.<br /><br /><strong>Ждем ваши резюме!</strong></li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "160",
+      "name": "DevOps-инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9860579",
+    "name": "Oil and Gas Production Tools",
+    "url": "https://api.hh.ru/employers/9860579",
+    "alternate_url": "https://hh.ru/employer/9860579",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1394081.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7196107.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7196108.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9860579",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-21T16:43:17+0300",
+  "created_at": "2025-05-21T16:43:17+0300",
+  "initial_created_at": "2025-05-21T16:43:17+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120831408",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120831408",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

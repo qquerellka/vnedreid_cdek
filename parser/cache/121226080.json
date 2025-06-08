@@ -1,0 +1,124 @@
+{
+  "id": "121226080",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Аналитик рынка недвижимости",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Воронцовская улица",
+    "building": "49/28с1",
+    "lat": 55.732808,
+    "lng": 37.666531,
+    "description": null,
+    "raw": "Москва, Воронцовская улица, 49/28с1",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Аналитик рынка недвижимости</strong></p> <p>Мы пробуем что-то новое вместе с классическими продажами первичной недвижимости.<br />Хотите стать частью команды, которая меняет рынок недвижимости? Пробует ;)</p> <p><strong>Обязанности:</strong></p> <ul> <li>Анализ, систематизация и сбор данных о продуктовых характеристиках проектов на рынке жилой и коммерческой недвижимости.</li> <li>Подготовка аналитических справок и записок по запросу от руководства.</li> <li>Проведение исследований для оценки гипотез развития продукта и бенчмаркинг.</li> <li>Построение системы ценообразования на проекте и контроль за вымываемостью.</li> <li>Построение системы аналитики вторичного рынка и проведение исследований.</li> <li>Формирование BI отчетности и построение автоматической аналитики.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Опыт работы от 3 до 6 лет в области аналитики.</li> <li>Умение работать с большими объемами данных и их систематизация.</li> <li>Навыки подготовки аналитических отчетов и справок.</li> <li>Опыт проведения исследований и бенчмаркинга.</li> <li>Знание принципов ценообразования и контроля за вымываемостью.</li> <li>Умение работать с BI-системами и автоматической аналитикой.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Полная занятость с графиком 5/2.</li> <li>Возможность работать на месте работодателя или в гибридном формате.</li> <li>Рабочий день с 8 часов.</li> </ul> <p><strong>О компании:</strong> Наша команда состоит из профессионалов, работавших у лучших девелоперов Москвы на ТОП должностях. Мы создаем новый сервис по продаже недвижимости, формируя уникальную услугу. Если вы хотите развиваться и влиять на продукт, присоединяйтесь к нам!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "10",
+      "name": "Аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11904117",
+    "name": "Власов Дмитрий Андреевич",
+    "url": "https://api.hh.ru/employers/11904117",
+    "alternate_url": "https://hh.ru/employer/11904117",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11904117",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T14:14:44+0300",
+  "created_at": "2025-06-02T14:14:44+0300",
+  "initial_created_at": "2025-06-02T14:14:44+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121226080",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121226080",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

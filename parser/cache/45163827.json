@@ -1,0 +1,171 @@
+{
+  "id": "45163827",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": null,
+    "to": 270000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": null,
+    "to": 270000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": 55.71319899061883,
+    "lng": 37.434295999999975,
+    "description": null,
+    "raw": "Москва, Рябиновая улица, 26 стр.2",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <ul> <li>Развертывание и администрирование информационной системы торгово-производственной компании с большим числом территориально-распределенных офисов;</li> <li>Обеспечение работоспособности ключевых элементов сети по схеме 24/7;</li> <li>Настройка пользовательских рабочих станций и серверов;</li> <li>Администрирование информационных баз на платформе &quot;1С: Предприятие 8.3&quot;.</li> <li>Мониторинг и аудит состояния серверов, рабочих станций, сетевой инфраструктуры;</li> <li>Активное участие в проектах развития информационных систем компании;</li> <li>Составление документации по информационной системе, предоставление отчетов;</li> <li>Взаимодействие с пользователями по возникающим вопросам.</li> </ul> <p> </p> <p><strong>Требования:</strong></p> <ul> <li>Высшее образование (желательно техническое);</li> <li>Опыт работы от 3-х лет в должности системного администратора в крупных компаниях с территориально-распределенной структурой;</li> <li>Высокий уровень системного администрирование и траблшутинг серверных операционных систем Windows 2012-2019.</li> <li>Понимание моделей продакшн сред и высокой отказоустойчивости на уровне 99,9.</li> <li>Знания и практический опыт в области развертывания и обслуживания СУБД (Microsoft SQL Server 2014);</li> <li>Опыт администрирования баз на платформе &quot;1С: Предприятие 8.3&quot;;</li> <li>Опыт проектирования и развертывания Active Directory, понимание архитектуры и схемы;</li> <li>Опыт проектирования и развертывания кластерных сетевых служб DNS,DHCP, знание нюансов;</li> <li>Опыт внедрения и администрирования терминальных ферм, знание правил и принципов;</li> <li>Глубокий опыт внедрения и работы с кластерной Виртуализации Hyper-v, S2D 2019, ISICSI, MPIO.</li> <li>Сильные навыки в архитектуре и идеологии SCVMM 2016+</li> <li>Сильные навыки администрирования кластерных Exchnage серверов 2013-2019 в т.ч. DAG, в т.ч. нюансы разноверсионной почтовой инфраструктуры.</li> <li>Умение создавать клиентский и инфраструктурные сервисы с нуля.</li> <li>Знание основных протоколов передачи данных;</li> <li>Практические навыки написания скриптов (PS);</li> <li>Хорошие навыки работы с сетевым оборудованием D-LINK (DGS, DXS);</li> <li>Знание английского языка на уровне, достаточном для чтения профессиональной литературы;</li> <li>Умение самостоятельно осваивать различные технические концепции;</li> <li>Активная жизненная позиция, нацеленность на результат, умение работать в команде.</li> </ul> <p><strong>Будет плюсом: </strong></p> <ul> <li>Опыт работы с Сentos, VMWare, Proxmos, KVM.</li> <li>Практический опыт работы с Zabbix, SCOM, написания триггеров.</li> <li>Наличие сертификатов приветствуется.</li> </ul> <p> </p> <ul> </ul> <p><strong>Условия:</strong></p> <ul> <li>График работы- полный день, 5/2.</li> <li>Заработная плата: оклад + ежемесячная премия.</li> <li>Формат работы -удаленный ( мобилен).</li> <li>Оформление по ТК в штат компании.</li> <li>Компенсация обучения за повышение квалификации.</li> <li>Получение премиальной карты Prime и членство в клубе привилегированных клиентов UniCredit Prime Club.</li> <li>Место работы: ул. Рябиновая, д.26, стр.2, бизнес-центр WEST PLAZA.</li> </ul> <p> </p>",
+  "branded_description": "\n<style>\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;    \n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-weight: normal;\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    display: inline;\n    margin: 0;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    color: #000000;\n    overflow: hidden;\n    font-family: 'Arial';\n    font-size: 16px;\n    line-height: 25px;\n    z-index: 1;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_content {\n    padding: 50px 40px 30px;\n    position: relative;\n    z-index: 1;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n   margin: 50px 0 20px;\n}\n\n.tmpl_hh_content b, \n.tmpl_hh_content strong {\n    display: inline-block;\n    font-weight: bold;\n    font-size: 22px;\n    line-height: 26px;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 21px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 20px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 20px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;    \n}\n\n.tmpl_hh_content li:before {\n    position: absolute;\n    left: -21px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"\";\n    width: 6px;\n    height: 6px;\n    background: #000000;\n    border-radius: 50%;\n    top: 8px;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter)'.';\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n\n.tmpl_hh_flex {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n}\n\nimg.tmpl_hh_min {\n    display: none;\n}\n\n.tmpl_hh_logos__item {\n    width: 33.33%;\n    position: relative;\n    margin-bottom: 3px;\n}\n\n.tmpl_hh_logos__item img {\n    width: auto;\n    margin: 0 auto;\n}\n\n.tmpl_hh_logos__items {\n    margin: 0 8px 0 18px;\n    align-items: center;\n}\n\n.tmpl_hh_logos__title {\n    width: 87%;\n    margin: 0 auto 23px;\n}\n\n.tmpl_hh_logos {\n    padding: 20px 0px;\n}\n\n\n@media screen and (max-width: 1019px) {\n\n}\n\n@media screen and (max-width: 699px) {\n    .tmpl_hh_wrapper {\n        font-size: 14px;\n        line-height: 20px;\n    }\n\n    .tmpl_hh_content {\n        padding: 31px 10px 29px;\n    }\n\n    img.tmpl_hh_min {\n        display: block;\n    }\n\n    img.tmpl_hh_max {\n        display: none;\n    }\n\n    .tmpl_hh_content b, .tmpl_hh_content strong {\n        font-size: 20px;\n        line-height: 28px;\n    }\n\n    .tmpl_hh_content ol, .tmpl_hh_content ul {\n        margin-left: 18px;\n    }\n\n    .tmpl_hh_content li {\n        margin-bottom: 15px;\n    }\n\n    .tmpl_hh_content li:before {\n        left: -18px;\n    }\n\n    .tmpl_hh_content ul ul,\n    .tmpl_hh_content ul ol,\n    .tmpl_hh_content ol ol,\n    .tmpl_hh_content ol ul {\n        margin-top: 15px;\n    }\n\n    .tmpl_hh_content p, .tmpl_hh_content b, .tmpl_hh_content strong {\n        margin: 30px 0 15px;\n    }\n\n    \n    .tmpl_hh_logos {\n        padding: 0px 0px;\n    }    \n\n    .tmpl_hh_logos__title {\n        width: 259px;\n        margin: 0 0 15px 10px;\n    }\n\n    .tmpl_hh_logos__items {\n        margin: 15px -2px 0 2px;\n        align-items: center;\n    }\n\n    .tmpl_hh_logos__item1 img {\n        width: 53px;\n    }\n\n    .tmpl_hh_logos__item2 img {\n        width: 76px;\n    }\n\n    .tmpl_hh_logos__item3 img {\n        width: 69.93px;\n    }\n\n    .tmpl_hh_logos__item4 img {\n        width: 75.69px;\n    }\n\n    .tmpl_hh_logos__item5 img {\n        width: 89.85px;\n    }\n\n    .tmpl_hh_logos__item6 img {\n        width: 62.41px;\n    }\n\n    .tmpl_hh_logos__item7 img {\n        width: 57.54px;\n    }\n\n    .tmpl_hh_logos__item8 img {\n        width: 71px;\n    }\n\n    .tmpl_hh_logos__item9 img {\n        width: 79px;\n    }    \n}\n</style>\n\n\n\n<div class=\"tmpl_hh_wrapper\">\n    <div class=\"tmpl_hh_header\">\n        <img src=\"https://hhcdn.ru/ichameleon/196358.jpg\" alt=\"\">\n    </div>\n    <div class=\"tmpl_hh_content\">\n       <p><strong>Обязанности:</strong></p> <ul> <li>Развертывание и администрирование информационной системы торгово-производственной компании с большим числом территориально-распределенных офисов;</li> <li>Обеспечение работоспособности ключевых элементов сети по схеме 24/7;</li> <li>Настройка пользовательских рабочих станций и серверов;</li> <li>Администрирование информационных баз на платформе \"1С: Предприятие 8.3\".</li> <li>Мониторинг и аудит состояния серверов, рабочих станций, сетевой инфраструктуры;</li> <li>Активное участие в проектах развития информационных систем компании;</li> <li>Составление документации по информационной системе, предоставление отчетов;</li> <li>Взаимодействие с пользователями по возникающим вопросам.</li> </ul> <p> </p> <p><strong>Требования:</strong></p> <ul> <li>Высшее образование (желательно техническое);</li> <li>Опыт работы от 3-х лет в должности системного администратора в крупных компаниях с территориально-распределенной структурой;</li> <li>Высокий уровень системного администрирование и траблшутинг серверных операционных систем Windows 2012-2019.</li> <li>Понимание моделей продакшн сред и высокой отказоустойчивости на уровне 99,9.</li> <li>Знания и практический опыт в области развертывания и обслуживания СУБД (Microsoft SQL Server 2014);</li> <li>Опыт администрирования баз на платформе \"1С: Предприятие 8.3\";</li> <li>Опыт проектирования и развертывания Active Directory, понимание архитектуры и схемы;</li> <li>Опыт проектирования и развертывания кластерных сетевых служб DNS,DHCP, знание нюансов;</li> <li>Опыт внедрения и администрирования терминальных ферм, знание правил и принципов;</li> <li>Глубокий опыт внедрения и работы с кластерной Виртуализации Hyper-v, S2D 2019, ISICSI, MPIO.</li> <li>Сильные навыки в архитектуре и идеологии SCVMM 2016+</li> <li>Сильные навыки администрирования кластерных Exchnage серверов 2013-2019 в т.ч. DAG, в т.ч. нюансы разноверсионной почтовой инфраструктуры.</li> <li>Умение создавать клиентский и инфраструктурные сервисы с нуля.</li> <li>Знание основных протоколов передачи данных;</li> <li>Практические навыки написания скриптов (PS);</li> <li>Хорошие навыки работы с сетевым оборудованием D-LINK (DGS, DXS);</li> <li>Знание английского языка на уровне, достаточном для чтения профессиональной литературы;</li> <li>Умение самостоятельно осваивать различные технические концепции;</li> <li>Активная жизненная позиция, нацеленность на результат, умение работать в команде.</li> </ul> <p><strong>Будет плюсом: </strong></p> <ul> <li>Опыт работы с Сentos, VMWare, Proxmos, KVM.</li> <li>Практический опыт работы с Zabbix, SCOM, написания триггеров.</li> <li>Наличие сертификатов приветствуется.</li> </ul> <p> </p> <ul> </ul> <p><strong>Условия:</strong></p> <ul> <li>График работы- полный день, 5/2.</li> <li>Заработная плата: оклад + ежемесячная премия.</li> <li>Формат работы -удаленный ( мобилен).</li> <li>Оформление по ТК в штат компании.</li> <li>Компенсация обучения за повышение квалификации.</li> <li>Получение премиальной карты Prime и членство в клубе привилегированных клиентов UniCredit Prime Club.</li> <li>Место работы: ул. Рябиновая, д.26, стр.2, бизнес-центр WEST PLAZA.</li> </ul> <p> </p></div>\n    <div class=\"tmpl_hh_logos\">\n        <div class=\"tmpl_hh_logos__title\"><img class=\"tmpl_hh_max\" src=\"https://hhcdn.ru/ichameleon/196356.svg\" alt=\"\"><img class=\"tmpl_hh_min\" src=\"https://hhcdn.ru/ichameleon/196359.svg\" alt=\"\"></div>\n        <div class=\"tmpl_hh_logos__items tmpl_hh_flex\">\n            <div class=\"tmpl_hh_logos__item tmpl_hh_logos__item1\"><img src=\"https://hhcdn.ru/ichameleon/196351.png\" alt=\"\"></div>\n            <div class=\"tmpl_hh_logos__item tmpl_hh_logos__item2\"><img src=\"https://hhcdn.ru/ichameleon/196352.png\" alt=\"\"></div>\n            <div class=\"tmpl_hh_logos__item tmpl_hh_logos__item3\"><img src=\"https://hhcdn.ru/ichameleon/196355.png\" alt=\"\"></div>\n            <div class=\"tmpl_hh_logos__item tmpl_hh_logos__item4\"><img src=\"https://hhcdn.ru/ichameleon/196354.png\" alt=\"\"></div>\n            <div class=\"tmpl_hh_logos__item tmpl_hh_logos__item5\"><img src=\"https://hhcdn.ru/ichameleon/196350.png\" alt=\"\"></div>\n            <div class=\"tmpl_hh_logos__item tmpl_hh_logos__item6\"><img src=\"https://hhcdn.ru/ichameleon/196353.png\" alt=\"\"></div>\n            <div class=\"tmpl_hh_logos__item tmpl_hh_logos__item7\"><img src=\"https://hhcdn.ru/ichameleon/196349.png\" alt=\"\"></div>\n            <div class=\"tmpl_hh_logos__item tmpl_hh_logos__item8\"><img src=\"https://hhcdn.ru/ichameleon/196357.png\" alt=\"\"></div>\n            <div class=\"tmpl_hh_logos__item tmpl_hh_logos__item9\"><img src=\"https://hhcdn.ru/ichameleon/196348.png\" alt=\"\"></div>\n        </div>\n    </div>\n</div> \n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Администрирование серверов Linux"
+    },
+    {
+      "name": "Администрирование серверов Windows"
+    },
+    {
+      "name": "Windows Server 2003"
+    },
+    {
+      "name": "Bash"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Nginx"
+    },
+    {
+      "name": "MongoDB"
+    },
+    {
+      "name": "Cистемы управления базами данных"
+    },
+    {
+      "name": "Virtualization"
+    },
+    {
+      "name": "Системное мышление"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "42090",
+    "name": "ПОБЕДА, кондитерская фабрика",
+    "url": "https://api.hh.ru/employers/42090",
+    "alternate_url": "https://hh.ru/employer/42090",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1411507.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7265688.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7265689.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=42090",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-30T12:42:18+0300",
+  "created_at": "2025-05-30T12:42:18+0300",
+  "initial_created_at": "2021-06-02T22:35:23+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=45163827",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/45163827",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

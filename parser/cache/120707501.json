@@ -1,0 +1,132 @@
+{
+  "id": "120707501",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Intern ML Engineer / Junior Data Scientist (Специалист МО)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 100000,
+    "to": 140000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": 140000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<div> <div> <p><strong>SOLAR AI</strong> — IT-компания, которая делает разнообразные проекты для крупных клиентов и поддерживает сотрудников в развитии. У нас работают специалисты самых разных профилей, и мы открыты для тех, кто только начинает свой путь.</p> <p>Мы разрабатываем собственные AI-решения — в том числе AI-агентов, которые помогают писать код, анализировать данные и автоматизировать рутинные задачи. Мы работаем в том числе для некоторых крупных банков РФ.</p> <p>Ищем кандидатов на позицию <strong>ML Engineer / Data Scientist</strong> уровня <strong>Intern / Junior</strong> в зависимости от навыков и опыта.</p> <p><strong>Вам предстоит</strong></p> <ul> <li> <p>Участвовать в создании передовых сервисов и пилотных проектов в области анализа данных и машинного обучения — от первичного сбора данных и проверки гипотез до внедрения решений и оценки их эффективности</p> </li> <li> <p>Погружаться в разнообразные задачи: искать и собирать релевантные датасеты, готовить данные, анализировать признаки, обучать и тестировать модели, а также оформлять результаты в виде технических описаний, аналитических записок и презентаций</p> </li> <li> <p>Работать в проектной команде в роли младшего специалиста по машинному обучению, перенимая опыт у более старших коллег и постепенно беря на себя всё более интересные и сложные задачи</p> </li> <li> <p>Взаимодействовать с системными аналитиками, заказчиками, разработчиками и DevOps-инженерами — выстроите полный цикл от идеи до рабочего решения, работая в тесной связке с профессионалами из разных областей</p> </li> </ul> <p><strong>Мы хотим видеть у Вас:</strong></p> <ul> <li> <p>Базовое владение Python и инструментами разработки (Git)</p> </li> <li> <p>Знакомство с библиотеками scikit-learn, pandas, lightgbm и пр.</p> </li> <li> <p>Ключевые знания в области статистики и математики</p> </li> </ul> <ul> <li>Базовый опыт работы в среде Linux</li> <li>Английский на уровне чтения документации</li> </ul> <p><strong>Будет плюсом (но не обязательно):</strong></p> <ul> <li> <p>Участие в ML-соревнованиях</p> </li> <li> <p>Знание Fast API</p> </li> <li> <p>Продвинутое знание PyTorch</p> </li> </ul> <p><strong>Мы предлагаем</strong></p> <ul> <li>Участие в реальных проектах: от внутренних прототипов до AI-агентов, которыми будут пользоваться крупные компании</li> <li>Оформление по <strong>ТК РФ</strong> и стабильную занятость в <strong>аккредитованной</strong> IT-компании</li> <li> <p>Наставничество, трек развития и регулярную обратную связь по коду и моделям</p> </li> <li> <p>Современное <strong>оборудование</strong> (MacBook M2+) и возможность работать <strong>в офисе или удалённо</strong></p> </li> <li> <p>Комфортную рабочую среду: уютный офис у м. Савёловская, спортзал, капсулы, кофейни, лаунж-зоны</p> </li> <li> <p><strong>Гибкий график</strong>, пятница - укороченный рабочий день</p> </li> </ul> <p> </p> </div> </div>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "165",
+      "name": "Дата-сайентист"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "11988991",
+    "name": "Батенев Родион Евгеньевич",
+    "url": "https://api.hh.ru/employers/11988991",
+    "alternate_url": "https://hh.ru/employer/11988991",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11988991",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T13:37:43+0300",
+  "created_at": "2025-06-06T13:37:43+0300",
+  "initial_created_at": "2025-05-19T13:37:43+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120707501",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120707501",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

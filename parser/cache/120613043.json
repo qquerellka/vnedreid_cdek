@@ -1,0 +1,182 @@
+{
+  "id": "120613043",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "HTML-верстальщик в офис",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 40000,
+    "to": 45000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 40000,
+    "to": 45000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "улица Карла Либкнехта",
+    "building": "22",
+    "lat": 56.840892,
+    "lng": 60.612189,
+    "description": null,
+    "raw": "Екатеринбург, улица Карла Либкнехта, 22",
+    "metro": {
+      "station_name": "Площадь 1905 года",
+      "line_name": "Север-Юг",
+      "station_id": "48.266",
+      "line_id": "48",
+      "lat": 56.837982,
+      "lng": 60.59734
+    },
+    "metro_stations": [
+      {
+        "station_name": "Площадь 1905 года",
+        "line_name": "Север-Юг",
+        "station_id": "48.266",
+        "line_id": "48",
+        "lat": 56.837982,
+        "lng": 60.59734
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>KASSY.RU - надежный проводник в увлекательный мир культуры и развлечений. Более 20 лет мы успешно занимаемся продажей билетов на самые яркие события страны. Мы гордимся своей надёжной командой, которая обеспечивает качественное выполнение проектов в 122 городах России.</strong></p> <p><strong>Ваши задачи:</strong></p> <ul> <li>HTML верстка email писем для рассылки по разным городам.</li> <li>Полный цикл подготовки письма (внесение правок в верстку, оптимизация текста).</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Уверенное знание HTML/CSS.</li> <li>Опыт кросс-браузерной и адаптивной верстки.</li> <li>Понимание специфики верстки email-писем: табличная верстка, inline-CSS.</li> <li>Понимание принципов юзабилити, знание принципов работы с UTM метками.</li> <li>Photoshop, CorelDraw на уровне нарезки макетов, логотипов, баннеров.</li> <li>Грамотная письменная речь.</li> <li>Навыки работы с большими объемами информации.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Навыки работы с одним или несколькими email-сервисами, понимание логики работы сервисов.</li> <li>Опыт работы с JS приветствуется, знание GIT.</li> <li>Создание лендинговых страниц.</li> <li>Создания формы подписки до подтверждения отписки и последующей автоматизации цепочек.</li> </ul> <p><strong>Что для нас важно:</strong></p> <ul> <li>Ответственность, внимательность к деталям, проверка работы на ошибки.</li> <li>Стрессоустойчивость и способность сохранять спокойствие в сложных ситуациях.</li> <li>Коммуникационные навыки и умение работать в команде.</li> <li>Способность планировать, координировать и контролировать выполнение задач, чтобы обеспечить их успешное завершение в срок.</li> </ul> <p><strong>Что мы предлагаем?</strong></p> <ul> <li>Официальное трудоустройство.</li> <li>Корпоративная мобильная связь.</li> <li>Дружественную и профессиональную команду.</li> <li>Бонусы и плюшки, связанные со спецификой компании.</li> <li>Интересные задачи и проекты в сфере культуры, а также возможности для профессионального роста и развития.</li> </ul> <p>Мы ждем ваш отклик )</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Vue.js"
+    },
+    {
+      "name": "Adobe Photoshop"
+    },
+    {
+      "name": "CorelDRAW"
+    },
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "Верстка"
+    },
+    {
+      "name": "Кроссбраузерная верстка"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5295696",
+    "name": "Городские Зрелищные Кассы",
+    "url": "https://api.hh.ru/employers/5295696",
+    "alternate_url": "https://hh.ru/employer/5295696",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/984046.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5557004.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5557005.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5295696",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T08:31:32+0300",
+  "created_at": "2025-06-06T08:31:32+0300",
+  "initial_created_at": "2025-05-16T08:31:32+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120613043",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120613043",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

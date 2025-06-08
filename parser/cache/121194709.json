@@ -1,0 +1,153 @@
+{
+  "id": "121194709",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Python разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 200000,
+    "to": 250000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 200000,
+    "to": 250000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "WEEKLY",
+      "name": "Раз в неделю"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<h2>Разыскивается Python разработчик с магией в использовании ИИ</h2> <h2>Зарплата: от 200 000 до 250 000 рублей в месяц</h2> <p>Ищем Python-разработчика, который умеет превращать идеи в работающих AI-агентов за 30 минут вместо 8 часов кодинга. Если вы тот, кто заставляет ИИ работать на себя, а не наоборот - это ваша вакансия.</p> <h2>Что нужно делать:</h2> <ul> <li>Создание AI-агентов для Telegram, Instagram, WhatsApp и других платформ</li> <li>Интеграция различных AI-моделей в существующие сервисы</li> <li>Разработка быстрых прототипов с использованием AI-инструментов</li> <li>Автоматизация бизнес-процессов через AI-решения</li> <li>Создание чат-ботов и голосовых ассистентов</li> <li>Настройка и оптимизация работы AI-агентов под конкретные задачи</li> <li>Тестирование и отладка AI-интеграций</li> </ul> <h2>Требования:</h2> <ul> <li>Опыт работы с Python от 2 лет</li> <li>Знание API популярных AI-моделей (OpenAI, Claude и др.)</li> <li>Опыт работы с Telegram Bot API, Instagram Graph API</li> <li>Умение быстро создавать MVP с помощью AI-инструментов</li> <li>Понимание принципов работы нейросетей и промт-инженерии</li> <li>Знание основ веб-разработки (FastAPI, Flask)</li> <li>Опыт работы с базами данных</li> </ul> <h2>Условия работы:</h2> <p>5-дневная рабочая неделя, 8 часов в день. Работа полностью удаленная. Зарплата выплачивается еженедельно. Все необходимые доступы к AI-сервисам предоставляются компанией. Отпуск и больничные обсуждаются индивидуально.</p> <p>Для отклика пишите в HH или в телеграм </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Gitlab"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "PyCharm"
+    },
+    {
+      "name": "Алгоритмы и структуры данных"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "12045307",
+    "name": "Павел",
+    "url": "https://api.hh.ru/employers/12045307",
+    "alternate_url": "https://hh.ru/employer/12045307",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=12045307",
+    "accredited_it_employer": false,
+    "trusted": false
+  },
+  "published_at": "2025-06-01T22:31:57+0300",
+  "created_at": "2025-06-01T22:31:57+0300",
+  "initial_created_at": "2025-06-01T22:31:57+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121194709",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121194709",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

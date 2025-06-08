@@ -1,0 +1,132 @@
+{
+  "id": "121434087",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Универсальный разработчик Python Web Parsing Developer / React Fullstack Engineer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 130000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 130000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>О компании</strong></p> <p>Мы разрабатываем инструменты автоматизации доступа к цифровым сервисам, где обычным пользователям тяжело что-либо получить вручную.<br />Наши клиенты — по всему миру. Мы автоматизируем:</p> <ul> <li> <p>запись в посольства и госуслуги</p> </li> <li> <p>бронирование билетов и услуг</p> </li> <li> <p>покупку ограниченных товаров</p> </li> <li> <p>обход защиты от ботов и перегрузок</p> </li> </ul> <p><strong>Текущий стек:</strong></p> <p><strong>Web-автоматизация:</strong><br />- Python / Golang<br />- MongoDB<br />- Сервера на Linux Ubuntu<br />- Git + GitHub<br />- RabbitMQ</p> <p><strong>Fullstack:</strong></p> <p>- React (Next.js)</p> <p><strong>Что нужно будет делать</strong></p> <ul> <li> <p>Писать устойчивые, масштабируемые скрипты для доступа к защищённым веб-сервисам</p> </li> <li> <p>Анализировать сетевые запросы, DOM, JavaScript и Fetch/XHR</p> </li> <li> <p>Работать с токенами, cookies, механизмами аутентификации</p> </li> <li> <p>Строить интерфейсы или утилиты на <strong>Next.js</strong> для внутренних нужд (админки, отладка, визуализация)</p> </li> <li> <p>Решать задачи как во frontend (SSR, UI-интерфейсы), так и в backend (API, скрейпинг, CLI-утилиты)</p> </li> <li> <p>Взаимодействовать с инфраструктурой, БД и внутренними API</p> </li> <li> <p>Постоянно искать нестандартные способы решения задач</p> </li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Опыт работы: опыт коммерческой или open-source разработки на Python и React от 3х лет</li> <li>Профессиональные компетенции:</li> <li>Разработка: Python (threading, multiprocessing, async, оптимизация i/o), requests (используем часто), Selenium (используем редко), BeautifulSoup, lxml.</li> <li>Веб-технологии: HTML, browser Javascript - DOM, Cookies, Fetch/XHR (умение реверс-инжинирить запросы), структура веб приложений - SPA/MPA, представления о FE фреймворках, FE-BE взаимодействие: REST, WebSocket/SSE/polling, механизмы аутентификации в веб: JWT, OAuth2, PHP Session.</li> <li>Сетевые технологии: понимать сетевой стек, IPv4/v6, UDP, TCP, прокси, протоколы прикладного уровня L7, детально - <em>HTTP</em> (версии, расширения, TLS, fingerprinting - представление как обходить).</li> <li>Фронтенд: Уверенное владение React (hooks, context, state-менеджмент), продакшн-опыт, знание SSR/SSG/ISR, работа с динамическими и вложенными маршрутами в Next Router, типизация компонентов и props в TypeScript, работа с формами, умение работать с cookies, localStorage и sessionStorage, стилизация через Tailwind или styled-components, настройка SEO (next/head, мета-теги), lazy loading, работа с таблицами и графиками (React Table, Recharts)</li> <li>Бэкенд: написание и сопровождение API routes (pages/api/*.ts), работа с fetch и axios на серверной стороне, реализация авторизации (JWT, NextAuth, cookie-based), защита роутов через middleware и серверные проверки, подключение и использование ORM, работа с переменными окружения и .env, деплой через Vercel, Docker или custom Node.js сервер, базовые знания CI/CD для Next.js проектов, интеграция с внешними API (REST/GraphQL), логгирование и обработка ошибок на сервере, оптимизация ответа и предотвращение утечек данных.</li> <li>Другое: Умение работать с git, docker</li> </ul> <p><strong>Формат работы</strong></p> <ul> <li> <p>Удалённо, из любой точки мира</p> </li> <li> <p>Гибкий график (старт в пределах ± рабочего дня по Мск)</p> </li> <li> <p>Занятость: полная</p> </li> </ul> <p><strong>Почему мы</strong></p> <ul> <li><strong>Возможность заключения договора и выплаты от компании в ЕС</strong></li> <li>Задачи сильно отличаются от обычного CRUD — здесь важен ум, внимательность и креатив.</li> <li>Минимум менеджмента — максимум доверия к разработчику</li> <li>Возможность развиваться как универсальный разработчик</li> <li>Минимум бюрократии — максимум пользы от ваших инженерных навыков.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "React"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11387827",
+    "name": "Рязанова Анастасия Валерьевна",
+    "url": "https://api.hh.ru/employers/11387827",
+    "alternate_url": "https://hh.ru/employer/11387827",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11387827",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T21:09:14+0300",
+  "created_at": "2025-06-06T21:09:14+0300",
+  "initial_created_at": "2025-06-06T21:09:14+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121434087",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121434087",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

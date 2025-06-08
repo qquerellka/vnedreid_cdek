@@ -1,0 +1,184 @@
+{
+  "id": "120717142",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Frontend-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "улица Кульнева",
+    "building": "3с1",
+    "lat": 55.742711,
+    "lng": 37.523097,
+    "description": null,
+    "raw": "Москва, улица Кульнева, 3с1",
+    "metro": {
+      "station_name": "Кутузовская",
+      "line_name": "Филевская",
+      "station_id": "4.73",
+      "line_id": "4",
+      "lat": 55.740544,
+      "lng": 37.5341
+    },
+    "metro_stations": [
+      {
+        "station_name": "Кутузовская",
+        "line_name": "Филевская",
+        "station_id": "4.73",
+        "line_id": "4",
+        "lat": 55.740544,
+        "lng": 37.5341
+      },
+      {
+        "station_name": "Парк Победы",
+        "line_name": "Арбатско-Покровская",
+        "station_id": "3.173",
+        "line_id": "3",
+        "lat": 55.735679,
+        "lng": 37.516865
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Anima Technologies </strong>является инновационной и быстроразвивающейся компанией в области создания проектов по автоматизации зданий, домов, офисов и гостиниц премиального класса в России, а также внедрения IT-решений для управления пространством на базе собственного программного обеспечения - Экосистемы умного офиса «Anima».<br /><strong>Мы:</strong><br />- Резиденты инновационного центра «Сколково» в IT кластере;<br />- Призеры международной ассоциации CEDIA в области автоматизации яхт и вилл;<br />Мы разрабатываем инновационные продукты для повышения качества жизни людей. Наша команда стремится привнести красоту и инновации в этот мир. Мы в поиске креативных профессионалов, которые разделяют наше желание развиваться и готовы реализовать свои таланты.</p> <p><em>Мы ищем талантливого разработчика, который готов присоединиться к нашей команде и создавать инновационный продукт по управлению пространством.<br />Если ты мечтаешь работать в динамичной среде, где будут цениться твои идеи и опыт, мы — идеальное место для тебя! В нашей компании ты сможешь не только развивать свои технические навыки, но и реализовывать творческий потенциал, работая над захватывающим проектом.</em></p> <p><strong>Мы ищем человека со следующими навыками:</strong></p> <p>1. JavaScript:<br />— Свободное владение современным JavaScript: асинхронные операции, промисы, замыкания, деструктуризация и т.д. </p> <p>2. React (веб-разработка):<br />— Глубокое понимание React: хуки (useState, useEffect, useContext), компонентный подход, жизненный цикл компонентов.<br />— Работа с популярными библиотеками:<br />- State-менеджмент: Redux (Redux Toolkit), MobX, Context API.<br />- Маршрутизация: React Router. </p> <p>3. Мобильная разработка (React Native):<br />- Опыт создания нативных модулей (если требуется доступ к специфичным функциям ОС).<br />- Знание Expo как плюс.<br />- Понимание работы с навигацией (React Navigation).<br />- Знание принципов кроссплатформенной разработки.<br />- Опыт публикации приложений в App Store / Google Play. </p> <p><strong>Дополнительные навыки: </strong></p> <p>4. Инструменты сборки и тестирование:<br />— Знание CI/CD (GitHub Actions, GitLab CI). </p> <p>5. Работа с API и бэкендом:<br />— Интеграция с REST API (fetch, Axios), обработка ошибок, авторизация (JWT, OAuth).<br />— Умение работать с форматами данных (JSON, XML). </p> <p>6. Системы контроля версий:<br />— Опыт с Git: ветвление, мердж-реквесты, разрешение конфликтов. </p> <p><strong>Будет большим плюсом: </strong><br />— Опыт с нативной мобильной разработкой (Kotlin/Java).<br />— Знание серверных технологий (Node.js, Express) для понимания full-stack процессов.<br />— Опыт работы с базами данных (Postrgres).<br />— Портфолио с примерами проектов (веб + мобильные приложения).</p> <p><strong>Задачи, с которыми предстоит работать:</strong><br />- Проектирование и разработка программного обеспечения на JavaScript;<br />- Участие в архитектурном проектировании программных решений;<br />- Разработка и поддержка пользовательского интерфейса, его интеграция с аппаратной частью;<br />- Оптимизация производительности существующих приложений и систем;<br />- Взаимодействие с командой разработчиков, инженеров и тестировщиков для достижения общих целей проекта;<br />- Написание технической документации;<br />- Участие в код-ревью и наставничество младших сотрудников.<br /></p> <p><strong>Мы предлагаем:</strong><br />- Конкурентную заработную плату;<br />- Гибкий график работы 5/2 с 9:00 до 18:00;<br />- Место работы в 10 минутах от метро Парк Победы, Кутузовская (г. Москва, ул. Кульнева 3, стр. 1);<br />- Рост дохода по мере роста квалификации;<br />- Обучение у профильных производителей;<br />- Сильная команда единомышленников со схожими ценностями;<br />- Амбициозные проекты в сегменте премиум-уровня;<br />- Комфортный офис и современное оборудование для работы;<br />- Возможности для личностного и профессионального развития, повышения квалификации в сфере автоматизации и IT.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Agile"
+    },
+    {
+      "name": "Gitlab"
+    },
+    {
+      "name": "Разработка ПО"
+    },
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "React"
+    },
+    {
+      "name": "React Native"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "111390",
+    "name": "Anima Technologies",
+    "url": "https://api.hh.ru/employers/111390",
+    "alternate_url": "https://hh.ru/employer/111390",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1076740.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5927589.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5927590.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=111390",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-19T15:24:56+0300",
+  "created_at": "2025-05-19T15:24:56+0300",
+  "initial_created_at": "2025-05-19T15:24:56+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120717142",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120717142",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

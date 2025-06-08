@@ -1,0 +1,211 @@
+{
+  "id": "120581153",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Frontend-developer (React) / Фронтэнд-разработчик (React)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 180000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 180000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "MONTHLY",
+      "name": "Раз в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "lat": null,
+    "lng": null,
+    "description": null,
+    "raw": null,
+    "metro": {
+      "station_name": "Дмитровская",
+      "line_name": "Серпуховско-Тимирязевская",
+      "station_id": "9.35",
+      "line_id": "9",
+      "lat": 55.808056,
+      "lng": 37.581734
+    },
+    "metro_stations": [
+      {
+        "station_name": "Дмитровская",
+        "line_name": "Серпуховско-Тимирязевская",
+        "station_id": "9.35",
+        "line_id": "9",
+        "lat": 55.808056,
+        "lng": 37.581734
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>BRANDEXPERT «Остров Свободы» — ведущее брендинговое агентство России.</p> <p>Мы предлагаем полный спектр инновационных маркетинговых, дизайнерских и цифровых услуг для создания и управления развитием брендов-лидеров во всех сегментах бизнеса.</p> <p>Мы создаем уникальную экосистему бренда и обладаем высочайшей экспертизой в маркетинге, брендинге, дизайне, интерьерном проектировании, фото и видео продакшене, креативных и digital коммуникациях. Наше портфолио включает более 5 000 известных российских и международных проектов во всех направлениях бизнеса.</p> <p>Мы занимаемся проектами наших клиентов разной сложности от «сайта-визитки или landing page» до крупных интернет-магазинов и сервисов, с подключенными к ним уже существующих системам клиента (1С-склад/бухгалтерия/битрикс24, сторонних CRM, онлайн-оплата и прочее). Но сейчас разрабатываем свои внутренние проекты, в том числе и собственный сайт компании, на современных технологиях, с расчетом на большие нагрузки, для чего и ищем нового специалиста в команду.</p> <p><br /><strong>Что вы будете делать:</strong><br /><br />Верстка сайтов различной сложности и направленности, тесное взаимодействие с дизайнерами и backend-разработчиками.</p> <ul> <li>Разрабатывать проекты разного уровня «с нуля» и не только, да, иногда требуется разобраться в чужом, вместе с другими разработчиками;</li> <li>Использовать технологии для решения задач, которые указаны в нашем стеке (см. ниже), но мы всегда готовы обсудить, а потом и использовать что-то новое, но хорошо проверенное в работоспособности и устойчивости;</li> <li>Поддерживать клиентские и собственные, внутренние проекты нашей компании;</li> <li>Взаимодействовать с креативной (дизайнеры и арт-директоры) частью нашего коллектива.</li> </ul> <p><strong>Наши требования:</strong></p> <ul> <li>Опыт работы от 3-5 лет;</li> <li>Typescript, React.js (Next.js), понимание и умение работать с ssr;</li> <li>Кроссбраузерная адаптивная верстка (на данный момент мы используем scss и jsx сss modules);</li> <li>Хорошее знание vanilla javascript (замыкания, наследование, асинхронность...),</li> <li>За знание Vue.js 3 (Nuxt.js) на должном уровне будет только плюсом,</li> <li>Общее понимание сетевого взаимодействия.</li> </ul> <p><strong>Наши условия:</strong></p> <ul> <li>Полная занятость, график с 10 до 19 <em><strong>(возможно удаленно)</strong></em>;</li> <li>Стабильная заработная плата, которая растет вместе с вашим профессиональным ростом;</li> <li>Адекватные руководители;</li> <li>Коллектив молодых не только телом, но и духом людей;</li> <li>Новая, светлая, атмосферная студия в удобной локации, но что-то мне подсказывает, что вы выберите работу из дома )</li> </ul> <p>И еще, важный момент — если вы ищите подработку, то это для вас не вариант.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "CSS3"
+    },
+    {
+      "name": "jQuery"
+    },
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "Stylus"
+    },
+    {
+      "name": "HTML5"
+    },
+    {
+      "name": "Кроссбраузерная верстка"
+    },
+    {
+      "name": "Vue.js"
+    },
+    {
+      "name": "Адаптивная верстка"
+    },
+    {
+      "name": "Nuxt.js"
+    },
+    {
+      "name": "React.js"
+    },
+    {
+      "name": "Next.js"
+    },
+    {
+      "name": "SCSS"
+    },
+    {
+      "name": "JSX"
+    },
+    {
+      "name": "VueJS"
+    },
+    {
+      "name": "GitHub"
+    },
+    {
+      "name": "React"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "8848",
+    "name": "Брендинговое агентство BrandExpert Остров Свободы",
+    "url": "https://api.hh.ru/employers/8848",
+    "alternate_url": "https://hh.ru/employer/8848",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/473361.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/2335296.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/2335297.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=8848",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-15T12:05:51+0300",
+  "created_at": "2025-05-15T12:05:51+0300",
+  "initial_created_at": "2025-05-15T12:05:51+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120581153",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120581153",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

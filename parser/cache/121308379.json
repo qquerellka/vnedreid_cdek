@@ -1,0 +1,134 @@
+{
+  "id": "121308379",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Frontend developer / Frontend - разработчик (Platrum)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 100000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Мы являемся авторами и разработчиками сервиса Roistat, а также многих других IT-продуктов.<br /><br />Один из них - Platrum. Этот сервис упрощает и систематизирует управление и организацию работы бизнеса. У команды все под рукой, у руководителя - все под контролем! Есть куча крутых и удобных инструментов, которые оптимизируют трудовые затраты, делая работу удобнее (можно узнать подробнее на нашем сайте).</strong></p> <p><strong>В команду Platrum ищем Middle Front-End разработчика, задачей которого будет разработка новой функциональности и участие в развитии продукта.</strong></p> <p><strong>Будет здорово, если вместе с откликом ты пришлешь нам ссылку на Git c примерами твоего кода, чтобы мы смогли подготовиться к собеседованию.</strong></p> <p><strong>Мы рады встрече, если ты:</strong></p> <ul> <li> <p>Пишешь компоненты на Vue;</p> </li> <li> <p>Хорошо знаешь JavaScript;</p> </li> <li> <p>Опыт коммерческой разработки от 1-го года (не фриланс);</p> </li> <li> <p>Понимаешь принципы ООП, SOLID, DRY, KISS, применяешь основные шаблоны проектирования не только в резюме, но и в коде;</p> </li> <li> <p>Умеешь оценивать сроки, декомпозировать задачи и всегда информируешь о возможных рисках и проблемах);</p> </li> <li> <p>Есть желание решать задачи бизнеса, а не просто писать код по ТЗ.</p> </li> </ul> <p><strong>Будет преимуществом:</strong></p> <ul> <li> <p>Работал в команде с процессами код-ревью;</p> </li> <li> <p>Можешь сам предложить решение по интерфейсу;</p> </li> <li> <p>Понимаешь, как и для чего создают IT-продукты с точки зрения бизнеса.</p> </li> </ul> <p><strong>В работе используем:</strong> Vue2, Git, CI/CD,Docker, MongoDB, PHP8</p> <p><strong>Что у нас хорошего и полезного для тебя :</strong></p> <ul> <li> <p>По мере роста сложность задач увеличивается: от простых задач до разработки с 0 целого инструмента;</p> </li> <li> <p>Код-ревью по строгим стандартам компании;</p> </li> <li> <p>Perfomance review и система грейдов для твоего развития внутри компании с возможностью пересмотра уровня зп 2 раза в год;</p> </li> <li> <p>Обмен знаниями внутри компании - мы организуем внутренние митапы по развитию hard и soft skills;</p> </li> <li> <p>Реальная возможность вносить и реализовывать идеи по развитию продукта.</p> </li> </ul> <p><strong>Мы ценим работу сотрудников, поэтому предоставляем хорошие условия работы:</strong></p> <ul> <li>Понятный график работ без задержек и работы в выходные и праздники (с ПН по ПТ);</li> <li>Гибкое начало рабочего дня (8 рабочих часов в день);</li> <li>Полностью официальное оформление с белой зп, всеми отпусками и больничными;</li> <li>Удаленный формат работы, есть и возможность работать из уютнейшего офиса на Таганской;</li> <li>Поддержка сотрудников в профессиональном развитии (бонусы за прочтение проф литературы, оплата доп курсов);</li> <li>4 day offа дополнительно к отпуску, который можешь использовать на разные случаи жизни;</li> <li>Бонусные баллы, которыми можно компенсировать траты на ДМС, покупку техники, мебели, такси, обучений и тд;</li> <li>Индивидуальная система мотивации с возможностью роста (подберем исходя из твоих скиллов, компетенций и собственных пожеланий).</li> </ul>",
+  "branded_description": "\n<style type=\"text/css\">\n.tmplt_hh {\n    width: 100%;\n    margin: 0 auto;\n    overflow: hidden;\n    font-family: Arial, sans-serif;\n}\n\n.tmplt_hh-clearfix:before,\n.tmplt_hh-clearfix:after {\n    content: \"\";\n    display: table;\n}\n\n.tmplt_hh-clearfix:after {\n    clear: both;\n}\n\n.tmplt_hh h1,\n.tmplt_hh h2,\n.tmplt_hh h3,\n.tmplt_hh h4,\n.tmplt_hh h5,\n.tmplt_hh h6,\n.tmplt_hh p,\n.tmplt_hh blockquote,\n.tmplt_hh pre,\n.tmplt_hh a,\n.tmplt_hh abbr,\n.tmplt_hh acronym,\n.tmplt_hh address,\n.tmplt_hh big,\n.tmplt_hh cite,\n.tmplt_hh code,\n.tmplt_hh img,\n.tmplt_hh ol,\n.tmplt_hh ul,\n.tmplt_hh li,\n.tmplt_hh footer,\n.tmplt_hh header {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.tmplt_hh ul,\n.tmplt_hh ul ul {\n    list-style: none;\n}\n\n\n/*.b-vacancy-desc {\n    overflow: visible;\n}*/\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmplt_hh .l-cell,\n.tmplt_hh .l-paddings {\n    padding: 0px;\n}\n\n.tmplt_hh .b-vacancy-desc,\n.tmplt_hh .l-paddings {\n    line-height: inherit;\n}\n\n.tmplt_hh-content ol li b,\n.tmplt_hh-content ol li strong,\n.tmplt_hh-content ol li p b,\n.tmplt_hh-content ol li p strong,\n.tmplt_hh-content ul li b,\n.tmplt_hh-content ul li strong,\n.tmplt_hh-content ul li p b,\n.tmplt_hh-content ul li p strong {\n    font-weight: normal;\n    font-size: inherit!important;\n    line-height: inherit!important;\n    color: inherit!important;\n    margin: 0!important;\n    padding: 0!important;\n    background: none!important;\n    display: inline!important;\n    text-transform: none;\n}\n\n.tmplt_hh-content ol li p,\n.tmplt_hh-content ul li p {\n    font-weight: normal!important;\n    margin: 0!important;\n}\n\n.tmplt_hh-content p b,\n.tmplt_hh-content p strong {\n    display: inline!important;\n    margin: 0!important;\n}\n\n.tmplt_hh-header {\n    padding-top: 24px;\n    padding-bottom: 33px;\n}\n\n.tmplt_hh-header svg {\n    display: block;\n    margin: 0 auto;\n    width: 154px;\n    height: 37px;\n}\n\n.tmplt_hh-banner img {\n    width: 100%;\n    display: block;\n}\n\n.tmplt_hh-banner {\n    position: relative;\n}\n\n.tmplt_hh-text {\n    color: #fff;\n    margin: 0 auto;\n    width: 87.3%;\n    max-width: 800px;\n    left: 0;\n    right: 0;\n    bottom: -103px;\n    background: linear-gradient(to right, #008cc7, #01add7 40%, #01add7 60%, #008cc7 100%);\n    font-size: 18px;\n    line-height: 20px;\n    -webkit-box-sizing: border-box;\n    -moz-box-sizing: border-box;\n    box-sizing: border-box;\n    padding: 34px 40px 36px 36px;\n    letter-spacing: 0.1px;\n}\n.tmplt_hh-text b sup{\n    font-size: 12px;\n    margin-left: 3px;\n    color: #e5e5e5;\n}\n\n.tmplt_hh-text b small {\n    font-size: 10px;\n    position: relative;\n    top: -4px;\n    left: 0px;\n}\n\n\n/* Styles content */\n\n.tmplt_hh-content {\n    padding: 5px 0 28px 0;\n    width: 87.3%;\n    max-width: 800px;\n    -webkit-box-sizing: border-box;\n    -moz-box-sizing: border-box;\n    box-sizing: border-box;\n    margin: 0 auto;\n    color: #020202;\n    font-size: 14px;\n    line-height: 17px;\n}\n\n.tmplt_hh-content strong,\n.tmplt_hh-content b {\n    display: inline-block;\n    font-size: 16px;\n    line-height: 18px;\n    color: #038cd5;\n}\n\n.tmplt_hh-content p,\n.tmplt_hh-content strong,\n.tmplt_hh-content b {\n    margin: 27px 0 0;\n    font-size: 16px;\n    line-height: 18px;\n}\n\n.tmplt_hh .tmplt_hh-content ul,\n.tmplt_hh .tmplt_hh-content ul ul {\n    list-style: none;\n}\n\n.tmplt_hh-content ol {\n    list-style: decimal inside;\n}\n\n.tmplt_hh-content ul,\n.tmplt_hh-content ol ol {\n    margin-left: 19px;\n}\n\n.tmplt_hh-content ol ul {\n    margin-left: 38px;\n}\n\n.tmplt_hh-content ul,\n.tmplt_hh-content ol {\n    margin-top: 9px;\n}\n\n.tmplt_hh-content ul li,\n.tmplt_hh-content ol li {\n    position: relative;\n    margin-bottom: 8px;\n}\n\n.tmplt_hh-content ul>li:before {\n    content: '—';\n    position: absolute;\n    top: -1px;\n    left: -19px;\n}\n\nimg.tmplt_hh-bottom {\n    width: 100%;\n    display: block;\n}\n\np.tmplt_hh-bottom {\n    text-align: center;\n    text-transform: uppercase;\n    color: #038cd5;\n    font-size: 16px;\n    line-height: 20px;\n    padding-top: 17px;\n    padding-bottom: 14px;\n}\n\n.tmpl_hh_footer {\ndisplay: grid;\ngrid-template-columns: repeat(3, 1fr);\n}\nimg.tmpl_hh_footer__img {\nwidth: 100%; \nheight: 100%;\nobject-fit: cover;\n}\n @media screen and (max-width: 699px) {\n\n        .tmplt_hh {\n            width: 100%;\n            margin: 10px auto;\n            overflow: hidden;\n            font-family: 'Arial', sans-serif;\n        }\n\n        .tmplt_hh-clearfix:before,\n        .tmplt_hh-clearfix:after {\n            content: \"\";\n            display: table;\n        }\n\n        .tmplt_hh-clearfix:after {\n            clear: both;\n        }\n\n        .tmplt_hh h1,\n        .tmplt_hh h2,\n        .tmplt_hh h3,\n        .tmplt_hh h4,\n        .tmplt_hh h5,\n        .tmplt_hh h6,\n        .tmplt_hh p,\n        .tmplt_hh blockquote,\n        .tmplt_hh pre,\n        .tmplt_hh a,\n        .tmplt_hh abbr,\n        .tmplt_hh acronym,\n        .tmplt_hh address,\n        .tmplt_hh big,\n        .tmplt_hh cite,\n        .tmplt_hh code,\n        .tmplt_hh img,\n        .tmplt_hh ol,\n        .tmplt_hh ul,\n        .tmplt_hh li,\n        .tmplt_hh footer,\n        .tmplt_hh header {\n            margin: 0;\n            padding: 0;\n            border: 0;\n            font-size: 100%;\n            font: inherit;\n            vertical-align: baseline;\n        }\n\n        .tmplt_hh ul,\n        .tmplt_hh ul ul {\n            list-style: none;\n        }\n\n        .tmplt_hh-content ol li b,\n        .tmplt_hh-content ol li strong,\n        .tmplt_hh-content ol li p b,\n        .tmplt_hh-content ol li p strong,\n        .tmplt_hh-content ul li b,\n        .tmplt_hh-content ul li strong,\n        .tmplt_hh-content ul li p b,\n        .tmplt_hh-content ul li p strong {\n            font-weight: normal;\n            font-size: inherit !important;\n            line-height: inherit !important;\n            color: inherit !important;\n            margin: 0 !important;\n            padding: 0 !important;\n            background: none !important;\n            display: inline !important;\n            text-transform: none;\n        }\n\n        .tmplt_hh-content ol li p,\n        .tmplt_hh-content ul li p {\n            font-weight: normal;\n            margin: 0;\n        }\n\n        .tmplt_hh-content p b,\n        .tmplt_hh-content p strong {\n            display: inline;\n            margin: 0;\n        }\n\n        .tmplt_hh-header {\n            padding-top: 6.67%;\n            padding-bottom: 10.00%;\n        }\n\n        .tmplt_hh-header svg {\n            display: block;\n            margin: 0 auto;\n            width: 37.00%;\n            height: 9.00%;\n        }\n\n        .tmplt_hh-banner img {\n            width: 100%;\n            display: block;\n        }\n\n        .tmplt_hh-banner {\n            position: relative;\n        }\n\n        .tmplt_hh-text {\n            color: #fff;\n            background: linear-gradient(to right, #008cc7, #01add7 40%, #01add7 60%, #008cc7 100%);\n            font-size: 16px;\n            line-height: 18px;\n            min-width: 300px;\n            padding: 8.33% 5.67% 8.00% 7.00%;\n            letter-spacing: 0.1px;\n        }\n\n        .tmplt_hh-text b small {\n            font-size: 10px;\n            position: relative;\n            top: -1.33%;\n            left: 0px;\n        }\n\n\n        /* Styles content */\n\n        .tmplt_hh-content {\n            padding: 0 0 9.33% 0;\n            -webkit-box-sizing: border-box;\n            -moz-box-sizing: border-box;\n            box-sizing: border-box;\n            margin: 0 auto;\n            color: #020202;\n            font-size: 14px;\n            line-height: 17px;\n        }\n\n        .tmplt_hh-content strong,\n        .tmplt_hh-content b {\n            display: inline-block;\n            font-size: 16px;\n            line-height: 18px;\n            color: #038cd5;\n        }\n\n        .tmplt_hh-content p,\n        .tmplt_hh-content strong,\n        .tmplt_hh-content b {\n            margin: 9.00% 0 0;\n            font-size: 16px;\n            line-height: 18px;\n        }\n\n        .tmplt_hh .tmplt_hh-content ul,\n        .tmplt_hh .tmplt_hh-content ul ul {\n            list-style: none;\n        }\n\n        .tmplt_hh-content ol {\n            list-style: decimal inside;\n        }\n\n        .tmplt_hh-content ul,\n        .tmplt_hh-content ol ol {\n            margin-left: 6.33%;\n        }\n\n        .tmplt_hh-content ol ul {\n            margin-left: 12.67%;\n        }\n\n        .tmplt_hh-content ul,\n        .tmplt_hh-content ol {\n            margin-top: 3.00%;\n        }\n\n        .tmplt_hh-content ul li,\n        .tmplt_hh-content ol li {\n            position: relative;\n            margin-bottom: 2.67%;\n        }\n\n        .tmplt_hh-content ul>\n\n        li:before {\n            content: '—';\n            position: absolute;\n            top: -0.33%;\n            left: -6.33%;\n        }\n\n        img.tmplt_hh-bottom {\n            width: 100%;\n            display: block;\n        }\n\n        p.tmplt_hh-bottom {\n            text-align: center;\n            text-transform: uppercase;\n            color: #038cd5;\n            font-size: 14px;\n            line-height: 20px;\n            padding-top: 8.00%;\n            padding-bottom: 4.67%;\n        }\n    } \n</style>\n \n    <div class=\"tmplt_hh tmplt_hh_small\">\n        <div class=\"tmplt_hh-header\">\n            <svg viewBox=\"0 0 212.4 48.1\"><path d=\"M0 .3h12.6c5.5 0 9.7.6 13 2.8C28.8 5.2 31 8.6 31 13.3c0 4.3-1.9 7.8-4.9 9.9-2.1 1.6-4.7 2.3-7.6 2.8l15.7 21.4h-4.8l-15.3-21L4 26.3v21H0V.3zm13.8 22.6c4.9 0 8-.8 10.3-2.7 2-1.7 3-4 3-6.8 0-3.4-1.5-5.8-3.8-7.3-2.6-1.7-5.7-2.1-11-2.1H4v19l9.8-.1zM84.3 15.4h3.8v32h-3.8zM99.2 41.2c3.4 2.2 7.9 3.4 12.1 3.4 5.4 0 8.8-1.9 8.8-5.7 0-4.8-5.3-5.3-10.3-6.1-5.3-.8-11.4-2.4-11.4-8.9 0-6 5.1-9.2 12.4-9.2 4.2 0 8.4 1 11.5 2.7v4c-3.4-2.1-7.7-3.2-11.6-3.2-5 0-8.4 1.8-8.4 5.4 0 4.5 5.2 4.9 10 5.7 5.8.9 11.7 2.5 11.7 9.2 0 6.3-5.1 9.5-12.9 9.5-4.2 0-8.6-1-11.9-2.8v-4zM136.5 36.5V18.8h-6.4v-3.4h6.4v-9l3.8-.6v9.6h10.3v3.4h-10.3v17c0 4.8.7 8.8 5.8 8.8 1.7 0 3.3-.5 4.5-1.2V47c-1.2.6-3.1 1-5.1 1-2.3 0-5-.6-6.8-2.7-1.6-1.8-2.2-4.7-2.2-8.8zM160.9 45.9c-2.1-1.6-3.3-3.9-3.3-6.9 0-3.4 1.6-5.8 4-7.4 2.4-1.6 5.7-2.1 8.8-2.1 2.9 0 5.6.5 8.2 1.2V27c0-3.1-.6-5.1-2.3-6.7-1.5-1.3-3.7-2-6.6-2-3.8 0-7.2 1.2-9.8 3.1v-3.8c2.6-1.6 6.2-2.9 10.2-2.9 3.8 0 6.9 1 9.1 2.8 2.1 1.8 3.2 4.7 3.2 8.6v13.8c0 2.7.6 4.7 3.2 4.7.8 0 1.5-.2 2.1-.5v3.3c-.7.3-1.7.5-2.8.5-2.7 0-4.9-1.3-5.8-3.8h-.1c-2.4 2.1-6.3 4-10.7 4-2.6 0-5.3-.7-7.4-2.2zm17.8-5v-7.2c-2.5-.7-5.3-1.2-7.9-1.2-4.5 0-9.2 1.4-9.2 6.2 0 4.2 3.6 6 7.5 6 3.5-.1 7-1.6 9.6-3.8zM198.2 36.5V18.8h-6.4v-3.4h6.4v-9l3.8-.6v9.6h10.3v3.4H202v17c0 4.8.7 8.8 5.8 8.8 1.7 0 3.3-.5 4.5-1.2V47c-1.2.6-3.1 1-5.1 1-2.3 0-5-.6-6.8-2.7-1.5-1.8-2.2-4.7-2.2-8.8z\"></path><path d=\"M63.6 26.6c.9 1.3 1.4 3 1.4 4.7 0 4.5-3.4 8.2-7.9 8.2s-7.9-3.6-7.9-8.2c0-4.5 3.4-8.2 7.9-8.2 2 0 3.8.7 5.2 1.9l5.8-7.1c-3-2.1-6.8-3.4-11-3.4-10.1.2-17.7 7.5-17.7 16.9 0 9.4 7.6 16.7 17.8 16.7 10.2 0 17.8-7.3 17.8-16.7 0-3.9-1.3-7.5-3.6-10.3l-7.8 5.5zM83 8.6L90.8 3c-.9-1.1-2-2.2-3.2-3l-5.8 7.1c.4.4.8.9 1.2 1.5z\" fill=\"#00aeef\"></path></svg>\n        </div>\n        <div class=\"tmplt_hh-banner\">\n            <img src=\"https://hhcdn.ru/ichameleon/363380.jpg\" alt=\"\">\n            <div class=\"tmplt_hh-text\">\n               <b>Roistat</b> -  IT-компания, создавшая ключевой функциональный и точный сервис сквозной аналитики на российском рынке. С 2014 года компания прошла огромный путь. Сейчас Roistat включает в себя десятки инструментов, помогающим нашим клиентам увеличивать прибыльность бизнеса за счет аналитики и автоматизации маркетинга, оптимизации расходов на рекламу и других крутых фич.\n            </div>\n        </div>\n        <div class=\"tmplt_hh-content\">\n            <p><strong>Мы являемся авторами и разработчиками сервиса Roistat, а также многих других IT-продуктов.<br><br>Один из них - Platrum. Этот сервис упрощает и систематизирует управление и организацию работы бизнеса. У команды все под рукой, у руководителя - все под контролем! Есть куча крутых и удобных инструментов, которые оптимизируют трудовые затраты, делая работу удобнее (можно узнать подробнее на нашем сайте).</strong></p> <p><strong>В команду Platrum ищем Middle Front-End разработчика, задачей которого будет разработка новой функциональности и участие в развитии продукта.</strong></p> <p><strong>Будет здорово, если вместе с откликом ты пришлешь нам ссылку на Git c примерами твоего кода, чтобы мы смогли подготовиться к собеседованию.</strong></p> <p><strong>Мы рады встрече, если ты:</strong></p> <ul> <li> <p>Пишешь компоненты на Vue;</p> </li> <li> <p>Хорошо знаешь JavaScript;</p> </li> <li> <p>Опыт коммерческой разработки от 1-го года (не фриланс);</p> </li> <li> <p>Понимаешь принципы ООП, SOLID, DRY, KISS, применяешь основные шаблоны проектирования не только в резюме, но и в коде;</p> </li> <li> <p>Умеешь оценивать сроки, декомпозировать задачи и всегда информируешь о возможных рисках и проблемах);</p> </li> <li> <p>Есть желание решать задачи бизнеса, а не просто писать код по ТЗ.</p> </li> </ul> <p><strong>Будет преимуществом:</strong></p> <ul> <li> <p>Работал в команде с процессами код-ревью;</p> </li> <li> <p>Можешь сам предложить решение по интерфейсу;</p> </li> <li> <p>Понимаешь, как и для чего создают IT-продукты с точки зрения бизнеса.</p> </li> </ul> <p><strong>В работе используем:</strong> Vue2, Git, CI/CD,Docker, MongoDB, PHP8</p> <p><strong>Что у нас хорошего и полезного для тебя :</strong></p> <ul> <li> <p>По мере роста сложность задач увеличивается: от простых задач до разработки с 0 целого инструмента;</p> </li> <li> <p>Код-ревью по строгим стандартам компании;</p> </li> <li> <p>Perfomance review и система грейдов для твоего развития внутри компании с возможностью пересмотра уровня зп 2 раза в год;</p> </li> <li> <p>Обмен знаниями внутри компании - мы организуем внутренние митапы по развитию hard и soft skills;</p> </li> <li> <p>Реальная возможность вносить и реализовывать идеи по развитию продукта.</p> </li> </ul> <p><strong>Мы ценим работу сотрудников, поэтому предоставляем хорошие условия работы:</strong></p> <ul> <li>Понятный график работ без задержек и работы в выходные и праздники (с ПН по ПТ);</li> <li>Гибкое начало рабочего дня (8 рабочих часов в день);</li> <li>Полностью официальное оформление с белой зп, всеми отпусками и больничными;</li> <li>Удаленный формат работы, есть и возможность работать из уютнейшего офиса на Таганской;</li> <li>Поддержка сотрудников в профессиональном развитии (бонусы за прочтение проф литературы, оплата доп курсов);</li> <li>4 day offа дополнительно к отпуску, который можешь использовать на разные случаи жизни;</li> <li>Бонусные баллы, которыми можно компенсировать траты на ДМС, покупку техники, мебели, такси, обучений и тд;</li> <li>Индивидуальная система мотивации с возможностью роста (подберем исходя из твоих скиллов, компетенций и собственных пожеланий).</li> </ul></div>\n<div class=\"tmpl_hh_footer\">\n        <img class=\"tmpl_hh_footer__img\" src=\"https://hhcdn.ru/ichameleon/361790.jpg\" alt=\"\">\n        <img class=\"tmpl_hh_footer__img\" src=\"https://hhcdn.ru/ichameleon/361788.jpg\" alt=\"\">\n        <img class=\"tmpl_hh_footer__img\" src=\"https://hhcdn.ru/ichameleon/362342.jpeg\" alt=\"\">\n</div>\n       \n        <p class=\"tmplt_hh-bottom\">\n            Самая большая ценность компании Roistat — это наша команда\n        </p>\n    </div>\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Vue"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1525202",
+    "name": "Roistat",
+    "url": "https://api.hh.ru/employers/1525202",
+    "alternate_url": "https://hh.ru/employer/1525202",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/271970.png",
+      "90": "https://img.hhcdn.ru/employer-logo/1530410.png",
+      "240": "https://img.hhcdn.ru/employer-logo/1530411.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1525202",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T19:03:45+0300",
+  "created_at": "2025-06-03T19:03:45+0300",
+  "initial_created_at": "2025-06-03T19:03:45+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121308379",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121308379",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

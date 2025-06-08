@@ -1,0 +1,164 @@
+{
+  "id": "121390024",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Разработчик С# / .NET",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 200000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 200000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Автозаводская улица",
+    "building": "11",
+    "lat": 55.706447,
+    "lng": 37.65752,
+    "description": null,
+    "raw": "Москва, Автозаводская улица, 11",
+    "metro": {
+      "station_name": "Автозаводская",
+      "line_name": "Замоскворецкая",
+      "station_id": "2.2",
+      "line_id": "2",
+      "lat": 55.706634,
+      "lng": 37.657008
+    },
+    "metro_stations": [
+      {
+        "station_name": "Автозаводская",
+        "line_name": "Замоскворецкая",
+        "station_id": "2.2",
+        "line_id": "2",
+        "lat": 55.706634,
+        "lng": 37.657008
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы ищем коллегу, который будет принимать активное участие в создании нашего продукта, расти и развиваться вместе с ним. Мы открыты к внедрению новых идей, будет классно, если у вас есть опыт применения технологий полезных проекту.</p> <p><strong>Основные задачи:</strong></p> <ul> <li>Разработка сервисов с использованием последних обновлений платформы .NET;</li> <li>Доработка существующего функционала по требованиям</li> <li>Оптимизация производительности и эффективности баз данных и сервисов;</li> <li>Интеграция с крупными партнёрами в сфере страхования, банковского дела и д.р.</li> <li>Разработка производительных и безотказных сервисов;</li> <li>Написание чистого, эффективного и масштабируемого кода на платформе .NET;</li> <li>Активное участие в процессе планирования разработки;</li> <li>Вклад в разработку и улучшение архитектуры проекта.</li> </ul> <p><strong>От вас:</strong></p> <ul> <li>Продвинутое владение языком программирования C# и глубокое понимание его типовой системы и управления памятью;</li> <li>Понимание принципов объектно-ориентированного программирования (ООП) и SOLID, а также умение практически применять паттерны проектирования GoF;</li> <li>Хороший опыт работы с SQL (PostgeSQL) с использованием Ado.NET, EntityFramework, Dapper. Написание SQL запросов;</li> <li>Опыт работы с системами контроля версий (Git).</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт работы над высоконагруженным проектом;</li> <li>Опыт в администрировании и эксплуатации серверов Linux;</li> <li>Опыт развертывания микро сервисов в среде Kubernetes;</li> <li>Понимание и опыт использования подхода CQRS;</li> <li>Опыт использования NoSQL;</li> <li>Понимание назначения систем очередей и знание приемов их использования.</li> </ul> <p><strong>Мы можем предложить:</strong></p> <ul> <li>Возможность профессионального роста;</li> <li>Работу в аккредитованной IT компании с гибким началом рабочего дня на удаленке;</li> <li>Участие в принятии решений по вопросам технологий и развития продукта;</li> <li>Разработку по принципам бережливого производства (мы любим оценивать успехи и делать выводы).</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "C#"
+    },
+    {
+      "name": "Разработка ПО"
+    },
+    {
+      "name": "Web"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "533775",
+    "name": "Workle Pro",
+    "url": "https://api.hh.ru/employers/533775",
+    "alternate_url": "https://hh.ru/employer/533775",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/950419.png",
+      "90": "https://img.hhcdn.ru/employer-logo/4242212.png",
+      "240": "https://img.hhcdn.ru/employer-logo/4242213.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=533775",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T15:31:27+0300",
+  "created_at": "2025-06-05T15:31:27+0300",
+  "initial_created_at": "2025-06-05T15:31:27+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121390024",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121390024",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

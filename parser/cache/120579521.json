@@ -1,0 +1,168 @@
+{
+  "id": "120579521",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Инженер слаботочных систем",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 110000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 110000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "улица Горького",
+    "building": "45",
+    "lat": 56.833245,
+    "lng": 60.608218,
+    "description": null,
+    "raw": "Екатеринбург, улица Горького, 45",
+    "metro": {
+      "station_name": "Геологическая",
+      "line_name": "Север-Юг",
+      "station_id": "48.267",
+      "line_id": "48",
+      "lat": 56.826715,
+      "lng": 60.603754
+    },
+    "metro_stations": [
+      {
+        "station_name": "Геологическая",
+        "line_name": "Север-Юг",
+        "station_id": "48.267",
+        "line_id": "48",
+        "lat": 56.826715,
+        "lng": 60.603754
+      },
+      {
+        "station_name": "Площадь 1905 года",
+        "line_name": "Север-Юг",
+        "station_id": "48.266",
+        "line_id": "48",
+        "lat": 56.837982,
+        "lng": 60.59734
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <p> </p> <ul> <li>Обслуживание и диагностика следующих слаботочных систем:</li> </ul> <p>1. АСКУЭ («Арм Ресурс»)</p> <p>2. СКУД («Sigur») и IP Домофония («BAS-IP»)</p> <p>3. Система диспетчеризации инженерных систем</p> <p>4. Система видеонаблюдения («Trassir»)</p> <p>5. Система оповещения</p> <p>6. Аудиовизуальный комплекс</p> <p>7. Автоматическое управление освещением</p> <p>8. Датчики протечки («Neptun»)</p> <p>9. Офисная оргтехника</p> <ul> <li> <p>Взаимодействие с подрядными организациями</p> </li> </ul> <strong>Требования:</strong> <ul> <li> <p>Профильное высшее образование</p> </li> <li> <p>Опыт работы по обслуживания слаботочных сетей от 2 лет</p> </li> <li> <p>Опыт работы с указанными системами желателен</p> </li> <li> <p>Опыт установки и монтажа систем видеонаблюдения и домофонии.</p> </li> </ul> <strong>Условия:</strong> <ul> <li> <p>Официальное трудоустройство</p> </li> <li> <p>График работы 5/2, 09:00-18:00</p> </li> <li> <p>Возможность дополнительного заработка за счет оказания дополнительных услуг</p> </li> <li> <p>Работа в успешной и стабильной компании</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "слаботочные системы"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5608976",
+    "name": "Ривьера Лайф",
+    "url": "https://api.hh.ru/employers/5608976",
+    "alternate_url": "https://hh.ru/employer/5608976",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1171155.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6305050.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6305051.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5608976",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T11:45:16+0300",
+  "created_at": "2025-06-05T11:45:16+0300",
+  "initial_created_at": "2025-05-15T11:45:16+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120579521",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120579521",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

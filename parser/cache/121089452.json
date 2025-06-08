@@ -1,0 +1,129 @@
+{
+  "id": "121089452",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист мониторинга и реагирования на инциденты ИБ",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "улица 8 Марта",
+    "building": "49",
+    "lat": 56.824277,
+    "lng": 60.60511,
+    "description": null,
+    "raw": "Екатеринбург, улица 8 Марта, 49",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": false,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "shift",
+    "name": "Сменный график"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Команда Infosecurity приглашает на проект SOC специалиста 1-й линии реагирования в отдел мониторинга и реагирования на инциденты ИБ.</p> <ul> <li>Узнать больше о Infosecurity: in4security.com/about</li> <li>Узнать больше о проекте SOC: in4security.com/soc</li> </ul> <p><strong>Ключевые задачи:</strong></p> <ul> <li>Мониторинг инцидентов в инфраструктуре Заказчика, работа в SIEM системе (KUMA, MP SIEM) и IRP платформе Seсurity Vision, работа с СЗИ KSC, EDR и др.;</li> <li>Работа с карточками инцидентов ИБ в IRP Security Vision, реагирование на инциденты ИБ на средствах защиты Заказчика (блокировка/смена паролей УЗ, локализация сегментов сети/хоста, остановка процессов/служб- и т.д.);</li> <li>Формирование рекомендаций по первичному реагированию на инциденты в инфраструктуре Заказчика;</li> <li>Реагирование на инциденты ИБ в инфраструктуре Заказчика в соответствии с существующими регламентами реагирования, взаимодействие с Заказчиками по вопросам верификации и реагирования на инциденты.</li> </ul> <p><strong>Наши ожидания:</strong></p> <ul> <li>Высшее техническое образование в сфере ИБ/ИТ;</li> <li>Понимание современных угроз и уязвимостей, а также способов их обнаружения и противодействия;</li> <li>Знание принципов работы сетевых технологий и протоколов;</li> <li>Знание операционных систем Windows/Unix на уровне продвинутого пользователя;</li> <li>Будет преимуществом опыт работы на схожей должности, навыки работы с IRP/SOAR, СЗИ, SOC.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Обсуждаемые, конкурентные условия дохода (оклад + премии);</li> <li>Оформление в штат по ТК РФ с первого дня;</li> <li>Отличное расположение и комфортный офис (г.Екатеринбург, ул. 8 Марта, 49), возможность частично удаленной работы;</li> <li>Сменный график работы;</li> <li>Открытость и готовность к диалогу топ-менеджмента компании;</li> <li>Программа ДМС со стоматологией;</li> <li>Различные программы мотивации: скидки на технику, компенсация процентов по ипотеке и др.;</li> <li>Наставничество, погружение в ИБ и профессию;</li> <li>Собственный Корпоративный университет, организация профильных конференций и тренингов за счет компании.</li> </ul>",
+  "branded_description": "\n<style>\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;    \n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n    line-height: inherit;\n    font-family: inherit !important;\n    display: inline;\n    font-weight: bold;\n    letter-spacing: inherit !important;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    display: inline;\n    margin: 0;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    overflow: hidden;\n    font-family: 'Verdana', sans-serif;\n    font-size: 14px;\n    line-height: 140%; /* 19.6px */\n    letter-spacing: 0.14px;\n    color: #101828;\n    z-index: 1;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_content {\n    padding: 40px 32px 63px;\n    position: relative;\n    z-index: 1;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    margin: 24px 0 24px;\n}\n\n.tmpl_hh_content b, \n.tmpl_hh_content strong {\n    display: inline-block;\n    font-size: 20px;\n    font-weight: 700;\n    line-height: 140%; /* 33.6px */\n    letter-spacing: 0.24px;\n}\n\n.tmpl_hh_content i b, \n.tmpl_hh_content i strong,\n.tmpl_hh_content em b, \n.tmpl_hh_content em strong,\n.tmpl_hh_content b em, \n.tmpl_hh_content strong em,\n.tmpl_hh_content b i, \n.tmpl_hh_content strong i {\n    font-style: normal;\n    font-weight: 700;\n    font-size: 14px;\n    line-height: 140%; /* 19.6px */\n    letter-spacing: 0.14px;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 24px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 16px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 16px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;    \n}\n\n.tmpl_hh_content li:before {\n    position: absolute;\n    left: -17px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"\";\n    width: 6px;\n    height: 6px;\n    border-radius: 50%;\n    background: #101828;\n    top: 6px;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter)'.';\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n\n.tmpl_hh_flex {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n}\n\n.tmpl_hh_header {\n    position: relative;\n}\n\np.tmpl_hh_header__text {\n    color: #FFF;\n    font-size: 24px;\n    line-height: 32px;\n    position: absolute;\n    bottom: 23px;\n    left: 32px;\n    letter-spacing: 0;\n}\n\np.tmpl_hh_header__text span {\n    display: block;\n}\n\n.tmpl_hh_about {\n    background: url(https://hhcdn.ru/ichameleon/315250.jpg);\n    background-size: 100%;\n    color: #fff;\n    font-size: 18px;\n    line-height: 24px;\n    letter-spacing: 0;\n    padding: 40px 32px 51px 32px;\n}\n\n.tmpl_hh_about span {\n    font-size: 16px;\n    line-height: 24px;\n}\n\n.tmpl_hh_offer__item {\n    width: 33.33%;\n    text-align: center;\n    font-size: 14px;\n    font-weight: 700;\n    line-height: 140%;\n    letter-spacing: 0.14px;\n    margin-bottom: 63px;\n    box-sizing: border-box;\n    padding: 0 10px;\n}\n\n.tmpl_hh_offer__icon {\n    width: 96px;\n    margin: 0 auto 18px;\n}\n\n.tmpl_hh_offer.tmpl_hh_flex {\n    margin: 0 25px;\n}\n\n.tmpl_hh_slogan {\n    width: 193px;\n    margin: 15px auto 25px;\n}\n\np.tmpl_hh_footnote {\n    padding-bottom: 56px;\n    color: #CFCECE;\n    text-align: center;\n    font-size: 11px;\n    line-height: normal;\n    letter-spacing: 0;\n}\n\n@media screen and (max-width: 1019px) {\n    .tmpl_hh_about {\n        padding: 40px 32px 51px 32px;\n    }\n}\n\n@media screen and (max-width: 699px) {\n    .tmpl_hh_content {\n        padding: 32px 16px 27px;\n    }\n\n    .tmpl_hh_content p,\n    .tmpl_hh_content b,\n    .tmpl_hh_content strong {\n        margin: 32px 0 16px;\n    }\n\n    .tmpl_hh_content b, \n    .tmpl_hh_content strong {\n        font-size: 16px;\n        line-height: 140%;\n        letter-spacing: 0.16px;\n    }\n\n    .tmpl_hh_content li {\n        margin-bottom: 12px;\n    }\n\n    .tmpl_hh_content ul ul,\n    .tmpl_hh_content ul ol,\n    .tmpl_hh_content ol ol,\n    .tmpl_hh_content ol ul {\n        margin-top: 12px;\n    }\n\n    p.tmpl_hh_header__text {\n        font-size: 16px;\n        line-height: 20px;\n        bottom: 24px;\n        left: 16px;\n    }\n\n    .tmpl_hh_about {\n        background-size: cover;\n        background-position: 50% 0;\n        font-size: 14px;\n        line-height: 20px;\n        padding: 25px 16px 22px 16px;\n    }\n\n    .tmpl_hh_about span {\n        font-size: 14px;\n        line-height: 20px;\n    }\n\n    .tmpl_hh_offer__item {\n        width: 200px;\n        margin: 0 auto 39px;\n    }\n\n    p.tmpl_hh_footnote {\n        padding: 0 20px 0;\n    }\n\n}\n\n</style>\n\n<div class=\"tmpl_hh_wrapper\">\n    <div class=\"tmpl_hh_header\">\n        <div class=\"tmpl_hh_header__photo\">\n            <picture>\n                <source srcset=\"https://hhcdn.ru/ichameleon/315251.jpg\" media=\"(max-width: 699px)\"></source>\n                <img src=\"https://hhcdn.ru/ichameleon/315252.jpg\" alt=\"\">\n            </picture>\n        </div>\n        <p class=\"tmpl_hh_header__text\"><span>Трансформация. Успешная.</span> <span>Цифровая. Защищëнная.</span></p>\n    </div>\n    <div class=\"tmpl_hh_about\">\n        <p>ГК Softline (ПАО «Софтлайн») — один из лидеров ИТ-рынка с более чем 30-летним опытом, широким региональным присутствием в более чем 25 представительствах по всей России и доступом к квалифицированным кадрам, имеющий в штате свыше 8 200 сотрудников, в том числе около 4 500 инженеров и разработчиков.<br><br>\nЯвляемся аккредитованной ИТ-компанией.</p>\n    </div>\n    <div class=\"tmpl_hh_content\">\n        <p>Команда Infosecurity приглашает на проект SOC специалиста 1-й линии реагирования в отдел мониторинга и реагирования на инциденты ИБ.</p> <ul> <li>Узнать больше о Infosecurity: in4security.com/about</li> <li>Узнать больше о проекте SOC: in4security.com/soc</li> </ul> <p><strong>Ключевые задачи:</strong></p> <ul> <li>Мониторинг инцидентов в инфраструктуре Заказчика, работа в SIEM системе (KUMA, MP SIEM) и IRP платформе Seсurity Vision, работа с СЗИ KSC, EDR и др.;</li> <li>Работа с карточками инцидентов ИБ в IRP Security Vision, реагирование на инциденты ИБ на средствах защиты Заказчика (блокировка/смена паролей УЗ, локализация сегментов сети/хоста, остановка процессов/служб- и т.д.);</li> <li>Формирование рекомендаций по первичному реагированию на инциденты в инфраструктуре Заказчика;</li> <li>Реагирование на инциденты ИБ в инфраструктуре Заказчика в соответствии с существующими регламентами реагирования, взаимодействие с Заказчиками по вопросам верификации и реагирования на инциденты.</li> </ul> <p><strong>Наши ожидания:</strong></p> <ul> <li>Высшее техническое образование в сфере ИБ/ИТ;</li> <li>Понимание современных угроз и уязвимостей, а также способов их обнаружения и противодействия;</li> <li>Знание принципов работы сетевых технологий и протоколов;</li> <li>Знание операционных систем Windows/Unix на уровне продвинутого пользователя;</li> <li>Будет преимуществом опыт работы на схожей должности, навыки работы с IRP/SOAR, СЗИ, SOC.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Обсуждаемые, конкурентные условия дохода (оклад + премии);</li> <li>Оформление в штат по ТК РФ с первого дня;</li> <li>Отличное расположение и комфортный офис (г.Екатеринбург, ул. 8 Марта, 49), возможность частично удаленной работы;</li> <li>Сменный график работы;</li> <li>Открытость и готовность к диалогу топ-менеджмента компании;</li> <li>Программа ДМС со стоматологией;</li> <li>Различные программы мотивации: скидки на технику, компенсация процентов по ипотеке и др.;</li> <li>Наставничество, погружение в ИБ и профессию;</li> <li>Собственный Корпоративный университет, организация профильных конференций и тренингов за счет компании.</li> </ul></div>\n    <div class=\"tmpl_hh_offer tmpl_hh_flex\">\n        <div class=\"tmpl_hh_offer__item\">\n            <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/315248.svg\" alt=\"\"></div>\n            <p>Обучение и сертификация</p>\n        </div>\n        <div class=\"tmpl_hh_offer__item\">\n            <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/315246.svg\" alt=\"\"></div>\n            <p>ДМС</p>\n        </div>\n        <div class=\"tmpl_hh_offer__item\">\n            <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/315245.svg\" alt=\"\"></div>\n            <p>Выходной в День Рождения</p>\n        </div>\n        <div class=\"tmpl_hh_offer__item\">\n            <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/315242.svg\" alt=\"\"></div>\n            <p>Открытость ТОП-менеджмента</p>\n        </div>\n        <div class=\"tmpl_hh_offer__item\">\n            <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/315243.svg\" alt=\"\"></div>\n            <p>Удобный график работы</p>\n        </div>\n        <div class=\"tmpl_hh_offer__item\">\n            <div class=\"tmpl_hh_offer__icon\"><img src=\"https://hhcdn.ru/ichameleon/315244.svg\" alt=\"\"></div>\n            <p>Покупка техники со скидкой</p>\n        </div>\n    </div>\n    <div class=\"tmpl_hh_slogan\"><img src=\"https://hhcdn.ru/ichameleon/315247.png\" alt=\"\"></div>\n</div> \n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "116",
+      "name": "Специалист по информационной безопасности"
+    }
+  ],
+  "code": "19810",
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2381",
+    "name": "Softline",
+    "url": "https://api.hh.ru/employers/2381",
+    "alternate_url": "https://hh.ru/employer/2381",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1242058.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6588665.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6588666.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2381",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T10:17:19+0300",
+  "created_at": "2025-06-03T10:17:19+0300",
+  "initial_created_at": "2025-05-28T15:15:12+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121089452",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121089452",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "TWO_ON_TWO_OFF",
+      "name": "2/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_12",
+      "name": "12 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

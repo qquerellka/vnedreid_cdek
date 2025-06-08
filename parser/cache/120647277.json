@@ -1,0 +1,176 @@
+{
+  "id": "120647277",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Frontend разработчик (React)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "4-й Добрынинский переулок",
+    "building": "8",
+    "lat": 55.7278,
+    "lng": 37.616953,
+    "description": null,
+    "raw": "Москва, 4-й Добрынинский переулок, 8",
+    "metro": {
+      "station_name": "Добрынинская",
+      "line_name": "Кольцевая",
+      "station_id": "5.36",
+      "line_id": "5",
+      "lat": 55.728994,
+      "lng": 37.622533
+    },
+    "metro_stations": [
+      {
+        "station_name": "Добрынинская",
+        "line_name": "Кольцевая",
+        "station_id": "5.36",
+        "line_id": "5",
+        "lat": 55.728994,
+        "lng": 37.622533
+      },
+      {
+        "station_name": "Октябрьская",
+        "line_name": "Кольцевая",
+        "station_id": "5.93",
+        "line_id": "5",
+        "lat": 55.729264,
+        "lng": 37.611049
+      },
+      {
+        "station_name": "Октябрьская",
+        "line_name": "Калужско-Рижская",
+        "station_id": "6.94",
+        "line_id": "6",
+        "lat": 55.731232,
+        "lng": 37.612851
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>Разработка веб-приложения администрирования сетевого оборудования.</li> </ul> <strong>Требования:</strong> <ul> <li>Отличное знание JavaScript(&gt;ES6)/TypeScript;</li> <li>Отличное знание React.js (и React-redux);</li> <li>HTML5, CSS3 (SASS/ SCSS);</li> <li>Умение работать с RESTAPI;</li> <li>Вёрстка по макетам из Figma;</li> <li>Навыки работы с Git, Webpack.</li> </ul> <p><strong>Плюсом будет:</strong></p> <ul> <li>Опыт разработки с React-admin;</li> <li>Опыт работы с RestConf, YANG моделями;</li> <li>Знание Python 3;</li> <li>Умение пользоваться Docker контейнерами (развёртывание);</li> <li>Наличие портфолио на GitHub.</li> </ul> <strong>Условия:</strong> <ul> <li> <p>Работа в аккредитованной ИТ-компании;</p> </li> <li>Заработная плата по результатам собеседования;</li> <li>Работа в офисе в Москве с возможностью частичной удаленной работы;</li> <li>Испытательный срок до 3 месяцев;</li> <li>Полная занятость;</li> <li>Индивидуальные проектные премии и премии по итогам деятельности компании;</li> <li> <p>Возможность карьерного роста внутри компании;</p> </li> <li>Бонусы: чай, кофе, легкие закуски, ДМС, место на парковке.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "HTML5"
+    },
+    {
+      "name": "CSS3"
+    },
+    {
+      "name": "Webpack"
+    },
+    {
+      "name": "React Native"
+    },
+    {
+      "name": "TypeScript"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "59351",
+    "name": "АМИКОН",
+    "url": "https://api.hh.ru/employers/59351",
+    "alternate_url": "https://hh.ru/employer/59351",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1325132.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6920558.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6920559.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=59351",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T17:10:13+0300",
+  "created_at": "2025-06-06T17:10:13+0300",
+  "initial_created_at": "2025-05-16T17:10:13+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120647277",
+  "has_test": true,
+  "test": {
+    "required": false
+  },
+  "alternate_url": "https://hh.ru/vacancy/120647277",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

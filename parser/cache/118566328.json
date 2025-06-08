@@ -1,0 +1,177 @@
+{
+  "id": "118566328",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Python-разработчик (ML)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "76",
+    "name": "Ростов-на-Дону",
+    "url": "https://api.hh.ru/areas/76"
+  },
+  "salary": {
+    "from": 120000,
+    "to": 175000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 120000,
+    "to": 175000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Ростов-на-Дону",
+    "street": "улица Города Волос",
+    "building": "6",
+    "lat": 47.22728,
+    "lng": 39.706057,
+    "description": null,
+    "raw": "Ростов-на-Дону, улица Города Волос, 6",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><em>Вакансия без возможности удаленной работы, офис Ростов-на-Дону.</em></p> <p><strong>Спецвузавтоматика </strong>- НИИ будущего!</p> <p>Мы собрали самое лучшее: стабильность, уверенность в завтрашнем дне, прозрачность и честность. А также мы не забыли про гибкость,<strong> </strong>потому у нас: <strong>гибкое начало</strong> рабочего дня, мы не следим за рабочим временем сотрудников, <strong>обучаем </strong>всему необходимому и можем похвастаться <strong>яркой и насыщенной</strong> <strong>корпоративной культурой</strong>!</p> <p><strong>Что будете делать:</strong></p> <ul> <li>разрабатывать проекты на языке программирования python и выбранном для проекта фреймворке Django/ Flask/FastAPI;</li> <li>разрабатывать , запускать и поддерживать сервисы с моделями машинного обучения;</li> <li>работать с data science командой для автоматизации разметки dataset;</li> <li>автоматизировать тестирование веб-приложений;</li> <li>планировать архитектуру программных модулей.</li> </ul> <strong>Что для этого потребуется:</strong> <ul> <li>уверенное знание языка программирования Python;</li> <li>опыт разработки на фреймворке Django/FastAPI от 1 года;</li> <li>понимание основ работы с сетью (DNS, TCP/IP, HTTP/HTTPS, SSL);</li> <li>знание и умение применять на практике принципы : ООП, SOLID, DRY;</li> <li>уверенное пользование OC Linux и Windows;</li> <li>опыт работы с системой контроля версий GIT.</li> </ul> <p><strong>Необязательно, но будет большим плюсом:</strong></p> <ul> <li>незаконченное или законченное высшее техническое образование (IT/математика/информационная безопасность и т.д.)</li> <li>работа над микросервисными архитектурами;</li> <li>опыт работы с Model Context Protocol (МСP) и smolagents;</li> <li>опыт работы с Iangchain и pydanticai;</li> <li>опыт развертывания Langfuse, Ollama, LM Studio, OpenAI;</li> <li>опыт работы с S3 хранилищами;</li> <li>опыт работы с NoSQL БД (векторные БД, Redis);</li> <li>желание развиваться в ML будет большим плюсом;</li> <li>английский на уровне чтения технической документации;</li> <li>опыт асинхронного и многопоточного программирования;</li> <li>опыт работы с Docker и конфигурирования CI (GitLab).</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li><strong>настоящая бронь на случай мобилизации</strong>;</li> <li>рабочий день с 10 до 19 (комфортное время, чтобы добираться без пробок);</li> <li>удобное и комфортное расположение офиса в центре города;</li> <li>трудоустройство по ТК РФ (бонусы по общим результатам организации);</li> <li>работу в аккредитованной организации со всеми льготами и отсрочками;</li> <li>прозрачные перспективы роста (рост по установленной карте карьеры, пересмотр зарплаты по мере роста);</li> <li>прохождение обучения, курсов, конференций и т.п. за счет организации;</li> <li>насыщенная корпоративная жизнь (корпоративы, внутренние мероприятия, праздники для сотрудников, внутренние турниры и конкурсы);</li> <li>психологическая и юридическая поддержка (штатный юрист и психолог)</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Django Framework"
+    },
+    {
+      "name": "Flask"
+    },
+    {
+      "name": "FastAPI"
+    },
+    {
+      "name": "TCP/IP"
+    },
+    {
+      "name": "HTTP"
+    },
+    {
+      "name": "HTTPS"
+    },
+    {
+      "name": "SSL"
+    },
+    {
+      "name": "ООП"
+    },
+    {
+      "name": "SOLID"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Git"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1565051",
+    "name": "ФГАНУ НИИ Спецвузавтоматика",
+    "url": "https://api.hh.ru/employers/1565051",
+    "alternate_url": "https://hh.ru/employer/1565051",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1402980.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7231592.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7231593.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1565051",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-29T11:08:58+0300",
+  "created_at": "2025-05-29T11:08:58+0300",
+  "initial_created_at": "2025-03-19T16:08:32+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=118566328",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/118566328",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

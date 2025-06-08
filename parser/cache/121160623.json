@@ -1,0 +1,134 @@
+{
+  "id": "121160623",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Frontend developer/React разработчик",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Кадашёвская набережная",
+    "building": "6/1/2",
+    "lat": 55.742737,
+    "lng": 37.617788,
+    "description": null,
+    "raw": "Москва, Кадашёвская набережная, 6/1/2",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": false,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Ищем разработчика для развития одного из продуктов компании Нильсен.</p> <p>Предполагается работа в команде из 3 человек, продукт - ключевой Core (сервис по работе с данными).</p> <p><strong>Основной стек технологий</strong>, встречающийся на наших проектах:</p> <p><br />DWH: PostgreSQL, Clickhouse;<br />Стек Apache: Superset, AirFlow;<br />Backend: Python, C#, Node.js<br />Frontend: Typescript, HTML5, CSS3, React и Redux Toolkit.</p> <p><strong>Обязанности:</strong></p> <div> <ul> <li>Разработка и поддержка пользовательских интерфейсов для веб-приложений;</li> <li>Оптимизация работы приложения и улучшение пользовательского опыта;</li> <li>Интеграция клиентской части с API;</li> <li>Использование различных архитектурных приемов для обеспечения оптимальной работы с приложением на различных этапах его существования;</li> <li>Разработка новых компонентов по готовым макетам;</li> <li>Багфикс существующей функциональности, поддержание читаемости и модульности кода.</li> </ul> <p><strong>Требования:</strong></p> </div> <ul> <li>Опыт разработки в качестве frontend -разработчика не менее двух лет;</li> <li>Уверенные знания JavaScript (Typescript), HTML5, CSS3, React и Redux Toolkit;</li> <li>Владение адаптивной и кроссбраузерной версткой;</li> <li>Опыт асинхронной разработки как плюс;</li> <li>Знание принципов REST и уверенное владение навыками работы с GitLab;</li> <li>Приветствуется наличие портфолио с пет-проектами и опыт работы с Node.js;</li> <li>Умение писать чистый и легко поддерживаемый код;</li> <li>Лольяность и использование при написании кода линтеров, преттиеров;</li> <li>Уверенные знания ООП, best-practices разработки SOLID, DRY, KISS;</li> <li>Самостоятельность и готовность к работе в кросс-функциональной команде.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт работы с Next JS, Webpack, Docker;</li> <li>Опыт UX/UI дизайна и хороший вкус;</li> <li>Опыт написания Unit и End-to-End тестов;</li> <li>Написание документации;</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Оформление по ТК РФ;</li> <li>График работы 5/2 с 9:30 до 18:00;</li> <li>Гибридный формат работы;</li> <li>Офис в шаговой доступности от метро Третьяковская/Полянка;</li> <li>Бенефит-кафе: ДМС, фитнес, обучение, отдых и оздоровление;</li> <li>Программа компенсации больничных листов;</li> <li>Программа привилегий PrimeZone;</li> <li>Возможность участия в сообществах компании;</li> <li>Тренинги и обучающие курсы.</li> </ul>",
+  "branded_description": "\n<style>/*29.11.2024-hh-team-007*/\n.hht-vacancydescription {\n  padding: 0;\n}\n\n.tmpl_hh_wrapper {\n  position: relative;\n  z-index: 1;\n  overflow: hidden;\n  width: 100%;\n  max-width: 690px;\n  margin: 0 auto;\n  font-weight: 400;\n  font-size: 16px;\n  font-family: Arial, sans-serif;\n  line-height: 22px;\n  letter-spacing: 0.01em;\n  word-break: normal;\n}\n\n@media (max-width: 1019px) {\n  .tmpl_hh_wrapper {\n    max-width: 610px;\n  }\n}\n\n.tmpl_hh_wrapper p, .tmpl_hh_wrapper h1, .tmpl_hh_wrapper h2, .tmpl_hh_wrapper h3, .tmpl_hh_wrapper h4, .tmpl_hh_wrapper h5, .tmpl_hh_wrapper h6, .tmpl_hh_wrapper a, .tmpl_hh_wrapper img, .tmpl_hh_wrapper ol, .tmpl_hh_wrapper ul, .tmpl_hh_wrapper li {\n  vertical-align: baseline;\n  margin: 0;\n  padding: 0;\n  border: 0;\n  font-weight: inherit;\n  font-size: inherit;\n}\n\n.tmpl_hh_wrapper ul {\n  list-style: none;\n}\n\n.tmpl_hh_wrapper a {\n  text-decoration: none;\n}\n\n.tmpl_hh_wrapper a:hover {\n  color: inherit;\n}\n\n.tmpl_hh_wrapper img {\n  display: block;\n}\n\n.tmpl_hh_wrapper button {\n  display: block;\n  padding: 0;\n  border: none;\n  background-color: transparent;\n  outline: none;\n  cursor: pointer;\n}\n\n.tmpl_hh_wrapper button svg {\n  cursor: pointer;\n}\n\n.tmpl_hh_wrapper .l-cell, .tmpl_hh_wrapper .l-paddings {\n  padding: 0 !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n  margin-top: 0 !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n  overflow: visible !important;\n  line-height: inherit;\n}\n\n.tmpl_hh_content ol li b, .tmpl_hh_content ol li strong, .tmpl_hh_content ol li p b, .tmpl_hh_content ol li p strong, .tmpl_hh_content ul li b, .tmpl_hh_content ul li strong, .tmpl_hh_content ul li p b, .tmpl_hh_content ul li p strong {\n  margin: 0 !important;\n  color: inherit !important;\n  font-size: inherit !important;\n  line-height: inherit;\n  text-transform: none;\n}\n\n.tmpl_hh_content ol li p, .tmpl_hh_content ul li p {\n  margin: 0;\n  font-weight: normal;\n}\n\n.tmpl_hh_content p {\n  margin-bottom: 16px;\n}\n\n.tmpl_hh_content p b, .tmpl_hh_content p strong {\n  display: inline;\n  margin: 0;\n}\n\n.tmpl_hh_content ol, .tmpl_hh_content ul {\n  margin-bottom: 32px;\n  margin-left: 18px;\n  list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n  counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n  position: relative;\n  margin-bottom: 8px;\n  font-size: 16px;\n}\n\n.tmpl_hh_content li:last-child {\n  margin-bottom: 0;\n}\n\n.tmpl_hh_content ul ul, .tmpl_hh_content ul ol, .tmpl_hh_content ol ol, .tmpl_hh_content ol ul {\n  margin-top: 14px;\n}\n\n.tmpl_hh_content ol > li {\n  counter-increment: list_counter;\n}\n\n.tmpl_hh_content ul > li::before {\n  content: \"\";\n  position: absolute;\n  top: 9px;\n  left: -18px;\n  width: 5px;\n  height: 5px;\n  border-radius: 100%;\n  background-color: #000;\n}\n\n.tmpl_hh_content ol > li::before {\n  content: counter(list_counter) \".\";\n  right: 100%;\n  left: auto;\n  margin-right: 2px;\n}\n\n.tmpl_hh_content :last-child {\n  margin-bottom: 0;\n}\n\n.tmpl_hh_wrapper {\n  box-sizing: border-box;\n  color: #000;\n  font-size: 16px;\n  line-height: 135%;\n}\n\n.tmpl_hh_wrapper * {\n  box-sizing: border-box;\n}\n\n.tmpl_hh_wrapper .tmpl_hh_designation {\n  color: #b5b5b5;\n  font-size: 12px;\n  line-height: 135%;\n}\n\n.tmpl_hh_wrapper .tmpl_hh_box {\n  /* @include box-horisontal(px); */\n  padding-right: 0;\n  padding-left: 0;\n}\n\n.tmpl_hh_wrapper .tmpl_hh_box-t {\n  padding-top: 0;\n}\n\n.tmpl_hh_wrapper .tmpl_hh_box-b {\n  padding-bottom: 0;\n}\n\n.tmpl_hh_flex {\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n}\n\n.tmpl_hh_header {\n  display: flex;\n  height: 374px;\n  padding: 50px 20px;\n  background: url(\"https://hhcdn.ru/ichameleon/400573.jpg\") center/cover no-repeat;\n  column-gap: 30px;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_header {\n    flex-direction: column;\n    row-gap: 24px;\n    height: 432px;\n    padding: 34px 20px;\n    background: url(\"https://hhcdn.ru/ichameleon/400572.jpg\") center/cover no-repeat;\n  }\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_header {\n    height: auto;\n  }\n}\n\n.tmpl_hh_header img {\n  align-self: baseline;\n  height: 32px;\n}\n\n.tmpl_hh_header__text {\n  max-width: 403px;\n}\n\n.tmpl_hh_header__text p {\n  color: #fff;\n  text-align: justify;\n}\n\n.tmpl_hh_header__text p:first-child {\n  margin-bottom: 20px;\n  font-weight: 700;\n  font-size: 22px;\n  line-height: 120%;\n  text-align: start;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_header__text p:first-child {\n    margin-bottom: 12px;\n  }\n}\n\n.tmpl_hh_content {\n  padding: 50px 40px;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_content {\n    padding: 50px 20px;\n  }\n}\n\n.tmpl_hh_content h2, .tmpl_hh_content p.tmpl_hh_content_title, .tmpl_hh_content b.tmpl_hh_content_title, .tmpl_hh_content strong.tmpl_hh_content_title {\n  display: block;\n  margin-bottom: 10px;\n  font-weight: 700;\n  font-style: normal;\n  font-size: 24px;\n  line-height: 120%;\n  text-transform: uppercase;\n  color: inherit;\n}\n\n.tmpl_hh_content h2, .tmpl_hh_content p.tmpl_hh_content_title > b, .tmpl_hh_content p.tmpl_hh_content_title > strong {\n  font-weight: 700;\n  font-style: normal;\n  font-size: 24px;\n  line-height: 120%;\n  text-transform: uppercase;\n  color: inherit;\n}\n\n.tmpl_hh_content p, .tmpl_hh_content div {\n  font-weight: 400;\n  font-style: normal;\n  font-size: 16px;\n  line-height: 135%;\n}\n\n.tmpl_hh_content ul:not(:last-child) {\n  margin-bottom: 30px;\n}\n\n.tmpl_hh_content ul:last-child {\n  margin-bottom: 0;\n}\n\n.tmpl_hh_content ul li {\n  font-weight: 400;\n  font-style: normal;\n  font-size: 16px;\n  line-height: 135%;\n}\n\n.tmpl_hh_content ul li:not(:last-of-type) {\n  margin-bottom: 4px;\n}\n\n.tmpl_hh_content ul li::before {\n  width: 5px;\n  height: 5px;\n  background: #000;\n  top: 7px;\n}\n\n.tmpl_hh_values {\n  display: flex;\n  gap: 30px;\n  padding: 0 40px 30px;\n  font-weight: 700;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_values {\n    flex-wrap: wrap;\n    gap: 20px;\n    padding: 0 20px 30px;\n  }\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_values__item {\n    width: calc(50% - 10px);\n  }\n}\n\n.tmpl_hh_values img {\n  height: 50px;\n  margin-bottom: 15px;\n}\n\n.tmpl_hh_footer br {\n  display: none;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_footer br {\n    display: inline;\n  }\n}\n\n.tmpl_hh_footer__top {\n  height: 81px;\n  padding: 26px 40px;\n  background: url(\"https://hhcdn.ru/ichameleon/400711.jpg\") center/cover no-repeat;\n  color: #fff;\n  font-weight: 700;\n  font-size: 24px;\n  line-height: 120%;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_footer__top {\n    height: 90px;\n    padding: 16px 20px;\n    background: url(\"https://hhcdn.ru/ichameleon/400710.jpg\") center/cover no-repeat;\n  }\n}\n\n.tmpl_hh_footer__top br {\n  display: none;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_footer__top br {\n    display: inline;\n  }\n}\n\n.tmpl_hh_footer__bottom {\n  padding: 16px 40px;\n}\n\n@media (max-width: 655px) {\n  .tmpl_hh_footer__bottom {\n    padding: 14px 20px;\n  }\n}\n</style>\n<div>\n    <div class=\"tmpl_hh_wrapper\">\n      <header class=\"tmpl_hh_header\">\n        <div class=\"tmpl_hh_header__text\">\n          <p>Нильсен — 30 лет экспертизы на рынке товаров повседневного спроса России</p>\n          <p>\n            Лучшие мировые практики измерения рынка и достижения российской фундаментальной математической школы позволяют нам оставаться надежным\n            ориентиром для производителей и ритейлеров, в конечном счете помогая каждому покупателю видеть качественный сервис в удобных\n            магазинах, разнообразный ассортимент, интересные новинки и привлекательные цены.\n          </p>\n        </div>\n      </header>\n      <main class=\"tmpl_hh_content\">\n        <p>Ищем разработчика для развития одного из продуктов компании Нильсен.</p> <p>Предполагается работа в команде из 3 человек, продукт - ключевой Core (сервис по работе с данными).</p> <p><strong>Основной стек технологий</strong>, встречающийся на наших проектах:</p> <p><br>DWH: PostgreSQL, Clickhouse;<br>Стек Apache: Superset, AirFlow;<br>Backend: Python, C#, Node.js<br>Frontend: Typescript, HTML5, CSS3, React и Redux Toolkit.</p> <p><strong>Обязанности:</strong></p> <div> <ul> <li>Разработка и поддержка пользовательских интерфейсов для веб-приложений;</li> <li>Оптимизация работы приложения и улучшение пользовательского опыта;</li> <li>Интеграция клиентской части с API;</li> <li>Использование различных архитектурных приемов для обеспечения оптимальной работы с приложением на различных этапах его существования;</li> <li>Разработка новых компонентов по готовым макетам;</li> <li>Багфикс существующей функциональности, поддержание читаемости и модульности кода.</li> </ul> <p><strong>Требования:</strong></p> </div> <ul> <li>Опыт разработки в качестве frontend -разработчика не менее двух лет;</li> <li>Уверенные знания JavaScript (Typescript), HTML5, CSS3, React и Redux Toolkit;</li> <li>Владение адаптивной и кроссбраузерной версткой;</li> <li>Опыт асинхронной разработки как плюс;</li> <li>Знание принципов REST и уверенное владение навыками работы с GitLab;</li> <li>Приветствуется наличие портфолио с пет-проектами и опыт работы с Node.js;</li> <li>Умение писать чистый и легко поддерживаемый код;</li> <li>Лольяность и использование при написании кода линтеров, преттиеров;</li> <li>Уверенные знания ООП, best-practices разработки SOLID, DRY, KISS;</li> <li>Самостоятельность и готовность к работе в кросс-функциональной команде.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт работы с Next JS, Webpack, Docker;</li> <li>Опыт UX/UI дизайна и хороший вкус;</li> <li>Опыт написания Unit и End-to-End тестов;</li> <li>Написание документации;</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Оформление по ТК РФ;</li> <li>График работы 5/2 с 9:30 до 18:00;</li> <li>Гибридный формат работы;</li> <li>Офис в шаговой доступности от метро Третьяковская/Полянка;</li> <li>Бенефит-кафе: ДМС, фитнес, обучение, отдых и оздоровление;</li> <li>Программа компенсации больничных листов;</li> <li>Программа привилегий PrimeZone;</li> <li>Возможность участия в сообществах компании;</li> <li>Тренинги и обучающие курсы.</li> </ul></main>\n      <section class=\"tmpl_hh_values\">\n        <div class=\"tmpl_hh_values__item\">\n          <img src=\"https://hhcdn.ru/ichameleon/400568.svg\" alt=\"\">\n          <p>Комфортная среда</p>\n        </div>\n        <div class=\"tmpl_hh_values__item\">\n          <img src=\"https://hhcdn.ru/ichameleon/400567.svg\" alt=\"\">\n          <p>\n            Возможности <br>\n            роста и развития\n          </p>\n        </div>\n        <div class=\"tmpl_hh_values__item\">\n          <img src=\"https://hhcdn.ru/ichameleon/400566.svg\" alt=\"\">\n          <p>Социальная ответственность</p>\n        </div>\n        <div class=\"tmpl_hh_values__item\">\n          <img src=\"https://hhcdn.ru/ichameleon/400570.svg\" alt=\"\">\n          <p>Забота о здоровье</p>\n        </div>\n      </section>\n      <footer class=\"tmpl_hh_footer\">\n        <div class=\"tmpl_hh_footer__top\">\n          <p>\n            Присоединяйтесь <br>\n            к нашей команде!\n          </p>\n        </div>\n        <div class=\"tmpl_hh_footer__bottom\">\n          <p class=\"tmpl_hh_designation\">Подбор осуществляется <br>в ООО «НИЛЬСЕН ДЭЙТА ФЭКТОРИ»</p>\n        </div>\n      </footer>\n    </div>\n  </div>\n<script>\n//\n\n\nconst main = \"\";\nconst customTitle = () => {\n  const allUl = document.querySelectorAll(\".tmpl_hh_content ul\");\n  allUl.forEach((ul, i) => {\n    const ulTitle = ul.previousElementSibling;\n    if (ulTitle) {\n      ulTitle.classList.add(\"tmpl_hh_content_title\");\n      if (i === 0) {\n        ul.previousElementSibling.classList.add(\"tmpl_hh_content_title--first\");\n      }\n    }\n  });\n};\ndocument.addEventListener(\"DOMContentLoaded\", () => {\n  try {\n    customTitle();\n  } catch (error) {\n    console.log(error);\n  }\n});\n\n\n//\n</script>\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "257",
+    "name": "Нильсен",
+    "url": "https://api.hh.ru/employers/257",
+    "alternate_url": "https://hh.ru/employer/257",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1359306.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7057134.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7057135.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=257",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-30T11:15:23+0300",
+  "created_at": "2025-05-30T11:15:23+0300",
+  "initial_created_at": "2025-05-30T11:15:23+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121160623",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121160623",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b1",
+        "name": "B1 — Средний"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

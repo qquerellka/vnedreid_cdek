@@ -1,0 +1,142 @@
+{
+  "id": "121087881",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Разработчик C++",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 200000,
+    "to": 400000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 200000,
+    "to": 400000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Задачи:</strong></p> <ul> <li>Написание качественного, поддерживаемого и эффективного кода на современном C++ (C++17/C++20).</li> <li>Разработка, внедрение и тестирование C++-коннекторов для взаимодействия с централизованными и децентрализованными биржами.</li> <li>Работа с асинхронными и многопоточными моделями программирования.</li> <li>Профилирование и оптимизация кода.</li> <li>Совместная работа с системным архитектором по стратегиям реализации архитектуры продукта.</li> <li>Разработка модульных и интеграционных тестов.</li> <li>Ведение технической документации.</li> </ul> <p><strong>Ожидания от кандидата:</strong></p> <ul> <li>Подтвержденный профессиональный опыт (обычно 3+ года) в разработке программного обеспечения на C++.</li> <li>Отличное владение современными стандартами C++ (C++14/C++17 обязательно, знание C++20 будет плюсом).</li> <li>Глубокое понимание: структуры данных, алгоритмы, объектно-ориентированное программирование.</li> <li>Практический опыт асинхронного программирования на C++ (например, Boost.Asio, обратные вызовы, фьючерсы).</li> <li>Отличные знания о том, как создавать структуры данных в памяти.<br />Хорошее понимание сетевых протоколов (TCP/IP, HTTP/HTTPS, WebSockets).</li> <li>Умение работать самостоятельно над поставленными задачами и эффективно сотрудничать в небольшой команде/с ведущим архитектором.</li> </ul> <p><strong>Желаемые квалификации и навыки:</strong></p> <ul> <li>Опыт работы с системами с низкой задержкой, высокой пропускной способностью или системами реального времени.</li> <li>Опыт работы в секторе финансовых технологий (FinTech), в частности с торговыми системами, рыночными данными или исполнением ордеров.</li> <li>Практический опыт интеграции со сторонними API RESTful и WebSocket.</li> <li>Опыт работы с конкретными библиотеками C++, относящимися к проекту: Boost (особенно Asio, Beast), высокопроизводительные библиотеки JSON (например, simdjson), библиотеки логирования (например, spdlog).</li> <li>Знакомство с методами/инструментами профилирования и оптимизации производительности (например, perf, Valgrind).</li> <li>Знание концепций параллельного программирования.</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li>Возможность поработать над сложным новым проектом в сфере высокочастотной торговли.</li> <li>Прямое влияние на основную инфраструктуру новой торговой системы.</li> <li>Работа с современным C++ и фокус на высокопроизводительных вычислениях.</li> <li>Среда совместной работы с тесным взаимодействием с системным архитектором.</li> <li>Возможности обучения и развития в передовой области.</li> <li>Мы рассматриваем кандидатов не только из Москвы, но и из других городов или стран.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "C++"
+    },
+    {
+      "name": "Асинхронное программирование"
+    },
+    {
+      "name": "Boost"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11787603",
+    "name": "Кузьминова Алеся Игоревна",
+    "url": "https://api.hh.ru/employers/11787603",
+    "alternate_url": "https://hh.ru/employer/11787603",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11787603",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-28T14:50:48+0300",
+  "created_at": "2025-05-28T14:50:48+0300",
+  "initial_created_at": "2025-05-28T14:50:48+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121087881",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121087881",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

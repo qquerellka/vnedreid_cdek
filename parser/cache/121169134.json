@@ -1,0 +1,158 @@
+{
+  "id": "121169134",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Младший аналитик (м.Пражская)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 78500,
+    "to": 78500,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 78500,
+    "to": 78500,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Варшавское шоссе",
+    "building": "133",
+    "lat": 55.604097,
+    "lng": 37.607862,
+    "description": null,
+    "raw": "Москва, Варшавское шоссе, 133",
+    "metro": {
+      "station_name": "Пражская",
+      "line_name": "Серпуховско-Тимирязевская",
+      "station_id": "9.116",
+      "line_id": "9",
+      "lat": 55.610962,
+      "lng": 37.602386
+    },
+    "metro_stations": [
+      {
+        "station_name": "Пражская",
+        "line_name": "Серпуховско-Тимирязевская",
+        "station_id": "9.116",
+        "line_id": "9",
+        "lat": 55.610962,
+        "lng": 37.602386
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<strong>Акадо Телеком крупнейший интернет провайдер Московского региона. Входим в ТОП-5 крупнейших телеком-компаний России. Предоставляем комплексные услуги для бизнеса, частных лиц и государственных заказчиков.<br /><br />Обязанности:</strong> <ul> <li>Сбор, обработка и анализ данных для реализации поставленных задач</li> <li>Ведение аналитики и отчетности, подготовка аналитических отчетов</li> <li>Взаимодействие со смежными подразделениями в рамках решаемых вопросов</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Высшее/среднее образование</li> <li>С удовольствием рассмотрим кандидатов без опыта, но с отличным знанием EXCEL</li> <li>Навык проведения базового аналитического анализа на основе сформированных отчетов</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Работа в федеральном телекоммуникационном холдинге России. Стабильность и уверенность в завтрашнем дне</li> <li>Официальное трудоустройство с первого дня, полностью &quot;белая заработная плата&quot;</li> <li>График работы: 5/2 с 9.00 до 18:00, сокращенная пятница до 16:45</li> <li>Адрес: г. Москва, ул. Варшавское шоссе, д.133</li> <li>Возможность карьерного роста</li> <li>Комфортный современный бизнес центр на юге города, который мы построили себе сами. За территорией находится обширная парковая зона, на обеде можно кормить уток и наслаждаться природой. А еще у нас есть собственный врач-терапевт, столовая и бесплатная большая парковка</li> <li>Комфортное рабочее место (не open space)</li> <li>Льготные интернет тарифы для своих сотрудников</li> <li>Полис ДМС и медицинское страхование жизни (через год работы абсолютно для всех сотрудников)<br /><br /><strong>ЖДЁМ ВАШЕ РЕЗЮМЕ!</strong></li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "10",
+      "name": "Аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "13820",
+    "name": "АКАДО Телеком",
+    "url": "https://api.hh.ru/employers/13820",
+    "alternate_url": "https://hh.ru/employer/13820",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/759451.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/3478761.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3478762.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=13820",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-30T13:44:06+0300",
+  "created_at": "2025-05-30T13:44:06+0300",
+  "initial_created_at": "2025-05-30T13:44:06+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121169134",
+  "has_test": true,
+  "test": {
+    "required": true
+  },
+  "alternate_url": "https://hh.ru/vacancy/121169134",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

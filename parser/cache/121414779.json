@@ -1,0 +1,141 @@
+{
+  "id": "121414779",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Администратор корпоративной IT-инфраструктуры",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Баррикадная улица",
+    "building": "8с5А",
+    "lat": 55.761983,
+    "lng": 37.582071,
+    "description": null,
+    "raw": "Москва, Баррикадная улица, 8с5А",
+    "metro": {
+      "station_name": "Баррикадная",
+      "line_name": "Таганско-Краснопресненская",
+      "station_id": "7.16",
+      "line_id": "7",
+      "lat": 55.760793,
+      "lng": 37.581242
+    },
+    "metro_stations": [
+      {
+        "station_name": "Баррикадная",
+        "line_name": "Таганско-Краснопресненская",
+        "station_id": "7.16",
+        "line_id": "7",
+        "lat": 55.760793,
+        "lng": 37.581242
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Что будет входить в обязанности:</strong></p> <ul> <li>Администрирование ОС Windows Server (AD, групповые политики).</li> <li>Администрирование виртуальной инфраструктуры (esxi/pve).</li> <li>Администрирование серверной инфраструктуры (сервера/коммутаторы/сетевые хранилища/ИБП).</li> <li>Администрирование сетевой инфраструктуры.</li> <li>Администрирование почтового сервера.</li> <li>Организация и настройка рабочих мест.</li> <li>Администрирование SIP-телефонии.</li> <li>Обеспечение информационной безопасности и антивирусной защиты (в т.ч. резервное копирование, архивирование и восстановление).</li> <li>Мониторинг аппаратного и системного программного обеспечения (Zabbix).</li> <li>Взаимодействие с пользователями на рабочих местах, решение текущих проблем с ПК и ПО (бухгалтерия, руководство, проектировщики, менеджеры).</li> </ul> <p><strong>Какие необходимы навыки:</strong></p> <ul> <li>Высшее техническое образование (желательно в области информатики и вычислительной техники).</li> <li>Базовые навыки администрирования серверных и клиентских операционных систем Windows на физических и виртуальных серверах, почтовых серверов, приложений 1С.</li> <li>Опыт работы в ОС Linux.</li> <li>Понимание принципов организации сетей, стандартов и особенностей реализаций протоколов семейства TCP/IP.</li> <li>Понимание принципов работы SIP-телефонии и систем контроля доступа (пропускные системы, системы видеонаблюдения).</li> <li>Поддержка бухгалтерии при учёте материальных активов.</li> <li>Сильное желание постоянного профессионального роста и развития.</li> </ul> <p><strong>Приветствуется:</strong></p> <ul> <li>Знакомство с вопросами сетевой и серверной безопасности.</li> <li>Уверенная работа с cmd и PowerShell.</li> </ul> <p><strong>Что мы можем предложить:</strong></p> <ul> <li>Работу в стабильной и развитой компании.</li> <li>Возможность профессионального и карьерного роста.</li> <li>Официальное трудоустройство по ТК РФ.</li> <li>Конкурентная заработная плата обсуждается с успешным кандидатом.</li> <li>Комфортный офис у м. Баррикадная, 2 минуты от метро.</li> <li>Дополнительное медицинское страхование после испытательного срока.</li> <li>График работы 5/2 с 09.00-18.00/10.00-19.00.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4304968",
+    "name": "Гео Техно Сот",
+    "url": "https://api.hh.ru/employers/4304968",
+    "alternate_url": "https://hh.ru/employer/4304968",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1277712.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6731150.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6731151.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4304968",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T11:39:39+0300",
+  "created_at": "2025-06-06T11:39:39+0300",
+  "initial_created_at": "2025-06-06T11:39:39+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121414779",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121414779",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

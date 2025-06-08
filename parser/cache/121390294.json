@@ -1,0 +1,141 @@
+{
+  "id": "121390294",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "улица Годовикова",
+    "building": "9с14",
+    "lat": 55.807719,
+    "lng": 37.630194,
+    "description": null,
+    "raw": "Москва, улица Годовикова, 9с14",
+    "metro": {
+      "station_name": "Алексеевская",
+      "line_name": "Калужско-Рижская",
+      "station_id": "6.8",
+      "line_id": "6",
+      "lat": 55.807794,
+      "lng": 37.638699
+    },
+    "metro_stations": [
+      {
+        "station_name": "Алексеевская",
+        "line_name": "Калужско-Рижская",
+        "station_id": "6.8",
+        "line_id": "6",
+        "lat": 55.807794,
+        "lng": 37.638699
+      }
+    ]
+  },
+  "allow_messages": false,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы<strong> </strong>ведущая металлообрабатывающая компания, специализирующаяся на станочной и инструментальной оснастке под брендом AVEA BASIS, оказываем услуги по контрактному производству.</p> <p>Мы ищем в нашу команду системного администратора (работа в единственном числе).</p> <p><strong>Обязанности:</strong></p> <ul> <li>Обеспечение нормальной работы операционных систем.</li> <li>Создание, удаление и форматирование учетных записей пользователей.</li> <li>Настройка и обслуживание оргтехники (принтеры, сканеры и т.д.).</li> <li>Выполнение небольших задач в системе 1С (администрирование).</li> <li>Создание резервных копий данных и восстановление их в случае необходимости.</li> <li>Отслеживание исправной и бесперебойной работы серверов и системного ПО.</li> <li>Планирование, организация закупок и обновление техники и комплектующих.</li> <li>Обеспечение информационной безопасности.</li> <li>Монтаж и настройка систем видеонаблюдения, решение возникающих проблем.</li> <li>Работа с локальной сетью (протяжка кабелей, обжим коннекторов).</li> <li>СКУД.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Опыт работы системным администратором (опыт работы на производстве будет преимуществом)</li> <li>Глубокое понимание принципов построения компьютерных сетей.</li> <li>Опыт обслуживания ПК и серверного оборудования.</li> <li>Знание MSSQL (желательно).</li> <li>Опыт установки и настройки оргтехники, телефонии.</li> <li>Базовые знания администрирования 1С.</li> </ul> <p> </p> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Конкурентоспособную заработную плату.</li> <li>Дружный коллектив и комфортные условия труда.</li> <li>Офис в шаговой доступности от м. Алексеевская, живописный район.</li> <li>Офисный формат работы.</li> </ul> <p>Пожалуйста, укажите в сопроводительном письме, что Вы готовы работать в единственном числе.</p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2292026",
+    "name": "АВЕА ТЕХНОЛОДЖИ",
+    "url": "https://api.hh.ru/employers/2292026",
+    "alternate_url": "https://hh.ru/employer/2292026",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1393981.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7195707.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7195708.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2292026",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T15:36:59+0300",
+  "created_at": "2025-06-05T15:36:59+0300",
+  "initial_created_at": "2025-06-05T15:36:59+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121390294",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121390294",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

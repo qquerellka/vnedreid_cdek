@@ -1,0 +1,146 @@
+{
+  "id": "121239949",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": null,
+    "to": 330000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": null,
+    "to": 330000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>LIAN — системный интегратор с фокусом в аналитике и управлении данными.</strong></p> <p><strong>Мы работаем в трех направлениях:</strong></p> <p><strong>1. Автоматизация управленческой отчетности (BI) в малом и среднем бизнесе. </strong>Строим хранилища данных, настраиваем сбор и интеграцию, разрабатываем отчеты и дэшборды. Наш стек в BI включает все современные инструменты, в том числе open-source ПО.</p> <p><strong>2. Заказная разработка аналитических систем. </strong>Когда у нашего клиента есть специфичный запрос, мы разрабатываем аналитические системы с нуля. Часто применяем подходы BigData, Data Science, актуальные подходы к программному анализу данных и прогнозированию.</p> <p><strong>3. Запуск и ресурсное обеспечение команд разработки в комплексных проектах цифровой трансформации.</strong> Мы усиливаем команды наших партнеров и клиентов собственными сотрудниками и обеспечиваем максимально быстрый старт новых проектов. Среди наших заказчиков - крупные системные интеграторы, банки, нефтегазовые, химические производства, логистические компании, стартапы.</p><br /><strong>Обязанности:</strong><br />- Сбор, анализ и формализация требований для мобильного приложения<br />- Разработка технических заданий (ТЗ) для мобильной разработки<br />- Проектирование взаимодействий между сервисами, клиентскими приложениями и внешними системами<br />- Разработка схем API-интеграций, проектирование REST API<br />- Описание бизнес-логики мобильного приложения, его экранов, навигации и взаимодействия с бэкендом<br />- Определение сценариев использования и формулировка приемочных критериев<br />- Взаимодействие с разработчиками, тестировщиками и другими командами<br />- Анализ логов, отчетов мониторинга и метрик производительности<br /><br /><strong>Требования:</strong><br />- Опыт работы системным аналитиком от 2 лет<br />- Умение разбирать сложные процессы и структурировать требования<br />- Навыки построения UML-диаграмм<br />- Опыт работы с REST API: проектирование, документация, тестирование (Postman, Swagger/OpenAPI)<br />- Навыки проектирования моделей данных и API-контрактов<br />- Понимание принципов клиент-серверного взаимодействия<br />- Знание принципов работы мобильных SDK и их интеграции<br />- Понимание основ построения экранов и навигации в мобильных приложениях<br />- Опыт работы с Jira, Confluence и инструментами тест-менеджмента<br /><br /><strong>Будет плюсом:</strong><br />- Понимание принципов мобильной разработки и базовые знания архитектуры мобильных приложений<br />- Опыт постановки задач в рамках разработки мобильного приложения на Flutter<br />- Опыт работы с SSO (Keycloak/Authenik)<br />- Знание сетевых основ: DNS, HTTP, SSL/TLS<br />- Понимание концепции BDUIT<br />- Опыт работы с инструментами мониторинга и логирования (Sentry, Grafana, Elasticsearch)<br />- Опыт работы с системами контроля версий (Git) и CI/CD-процессами <p><br /><br /><strong>Хочешь работать над реально крупными задачами и развиваться вместе с компанией — ждем отклик!<br /><br />Работа в формате АУТСТАФФ проектов !</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "UML-диаграммы"
+    },
+    {
+      "name": "Postman"
+    },
+    {
+      "name": "Swagger"
+    },
+    {
+      "name": "OpenAPI"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "148",
+      "name": "Системный аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4768936",
+    "name": "LIAN",
+    "url": "https://api.hh.ru/employers/4768936",
+    "alternate_url": "https://hh.ru/employer/4768936",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1346316.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/7005206.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/7005207.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4768936",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T16:48:38+0300",
+  "created_at": "2025-06-02T16:48:38+0300",
+  "initial_created_at": "2025-06-02T16:48:38+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121239949",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121239949",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

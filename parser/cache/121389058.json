@@ -1,0 +1,173 @@
+{
+  "id": "121389058",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Разработчик CV",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "проспект Андропова",
+    "building": "8",
+    "lat": 55.69533872471896,
+    "lng": 37.664888906744956,
+    "description": null,
+    "raw": "Москва, проспект Андропова, 8",
+    "metro": {
+      "station_name": "Технопарк",
+      "line_name": "Замоскворецкая",
+      "station_id": "2.512",
+      "line_id": "2",
+      "lat": 55.695,
+      "lng": 37.664167
+    },
+    "metro_stations": [
+      {
+        "station_name": "Технопарк",
+        "line_name": "Замоскворецкая",
+        "station_id": "2.512",
+        "line_id": "2",
+        "lat": 55.695,
+        "lng": 37.664167
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Компания «Биорг»</strong> — российский разработчик интеллектуальных систем на базе нейронных сетей и машинного обучения для распознавания сложных объектов, данных, включая рукописный текст на различных языках, идентификации личности (KYC), формирования датасетов. Фундаментальная разработка компании, SaaS-платформа Beorg Smart Vision, сочетает преимущества искусственного интеллекта и краудсорсингового сервиса для верификации данных и автоматизации корпоративных бизнес процессов.</p> <p><strong>Наши заказчики: </strong>крупнейшие российские и международные компании, представляющие банковский сектор, топливно-энергетический, телекоммуникационный, ритейл и другие: Спортмастер, Х5 Retail Group, ЛЕНТА, ТЕLЕ2, БКС, РБК, Северсталь, ЦБ РФ, Росатом, Газпром-нефть, Роснефть и т.д.</p> <p><strong>Наша цель:</strong> занять лидирующую позицию на рынке распознавания в России и СНГ.</p> <p><strong>Почему стоит присоединиться?</strong></p> <ul> <li>Реальный impact: твои модели будут использоваться в продуктах, которыми пользуются десятки тысяч людей.</li> <li>Интересные наукоемкие задачи.</li> <li>Обучение и развитие: даже если чего-то не знаешь — научим!</li> <li>Команда профессионалов с многолетним опытом в предметной области.</li> <li>Гибкий график: нас интересует результат, а не процесс.</li> </ul> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li>Проводить исследования по ключевым направлениям: OCR, classification, semantic segmentation, object detection и др.</li> <li>Проводить разведочный анализ данных.</li> <li>Обучать нейросетевые модели.</li> <li>Проводить интеграцию обученных моделей в продакшн.</li> <li>Оптимизировать модели для запуска на CPU. </li> </ul> <p><strong>Обязательные требования:</strong></p> <ul> <li>Понимание современных архитектур нейросетей для задач компьютерного зрения.</li> <li>Уверенное владение Python .</li> <li>Знание одного из фреймворков: PyTorch или TensorFlow (мы используем PyTorch) .</li> <li>Базовое знание английского и хорошая математическая подготовка — чтобы читать статьи и понимать, что там написано.</li> <li>Высшее техническое или математическое образование. Приветствуется выпускники Физтеха , Физфака МГУ , Мехмата МГУ.</li> </ul> <p><em>Будет плюсом:</em></p> <ul> <li>Опыт работы с OpenCV .</li> <li>Знание классических алгоритмов и структур данных.</li> <li>Опыт распознавания документов.</li> <li>Навыки работы с Git , Docker , Kubernetes .</li> <li>Опыт оптимизации нейросетевых моделей.</li> <li>Опыт участия в соревнованиях по машинному обучению (kaggle или аналоги).</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Заработная плата: окладная часть обсуждается по итогам собеседования + КПЭ.</li> <li>Оформление по ТК, официальная заработная плата.</li> <li>Профессиональное развитие, обучение за счёт компании.</li> <li>Интересные и перспективные проекты, ориентированные на крупных корпоративных и государственных заказчиков.</li> <li>Компания современных технологий, резидент фонда Сколково.</li> <li>Всегда чай/кофе, фрукты в офисе, корпоративные мероприятия.</li> <li>Мы удобно расположены - ст. м. &quot;Технопарк&quot;.</li> <li>Работа в аккредитованной IT-компании.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "OpenCV"
+    },
+    {
+      "name": "Компьютерное зрение"
+    },
+    {
+      "name": "PyTorch"
+    },
+    {
+      "name": "TensorFlow"
+    },
+    {
+      "name": "Машинное обучение"
+    },
+    {
+      "name": "Нейронные сети"
+    },
+    {
+      "name": "Docker"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "43883",
+    "name": "Beorg",
+    "url": "https://api.hh.ru/employers/43883",
+    "alternate_url": "https://hh.ru/employer/43883",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/467891.png",
+      "90": "https://img.hhcdn.ru/employer-logo/2313420.png",
+      "240": "https://img.hhcdn.ru/employer-logo/2313421.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=43883",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T15:16:24+0300",
+  "created_at": "2025-06-05T15:16:24+0300",
+  "initial_created_at": "2025-06-05T15:16:24+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121389058",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121389058",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

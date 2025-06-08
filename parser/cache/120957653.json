@@ -1,0 +1,138 @@
+{
+  "id": "120957653",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Программист PHP (Laravel)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 180000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 180000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Программист PHP (Laravel) (офис, гибрид, удалёнка)</p> <p><strong>Кого мы ищем:</strong></p> <p>Нам нужен PHP разработчик уровня Middle с хорошим пониманием работы фреймворка Laravel и его экосистемы. Важным аспектом является глубокое знание Eloquent ORM и принципов работы с базами данных.</p> <p>Наш стек:<br />- PHP 8<br />- Laravel 10, планируем в обозримом будущем переход на 11 версию<br />- Livewire 3<br />- MySQL 8</p> <p><strong>Обязанности:</strong></p> <ul> <li> <p>Поддержка и доработка существующих проектов;</p> </li> <li>Адаптивный дизайн, мобильная версия сайта;</li> <li>Рефакторинг, оптимизация кода;</li> <li>Написание и доработка дополнительных модулей;</li> <li>Создание новых сайтов с нуля.</li> </ul> <p> </p> <p><strong>Требования:</strong></p> <ul> <li> <p>Понимание ключевых концепции фреймворка Laravel и способность эффективно использовать его для решения задач.</p> </li> <li> <p>Уверенная работа с Eloquent ORM, понимание принципов работы реляционных баз данных (MySQL).</p> </li> <li> <p>Представление о паттернах проектирования и применение их на практике.<br />Способность писать поддерживаемый код и расширяемый.</p> </li> <li> <p>Базовые знания фронтенд-технологий (HTML, CSS, JavaScript), чтобы понимать, как взаимодействовать с фронтенд-частью приложения (хотя основной фокус вакансии — это backend).</p> </li> <li> <p>Не бояться обсуждать свои идеи со всей командой.</p> <p> </p> </li> </ul> <p>Не критично, но имеет вес:</p> <ul> <li> <p>Опыт работы с Livewire 3.<br />Понимание принципов микро-сервисной архитектуры.<br />Понимание и умение работать с CI/CD</p> </li> </ul> <p> </p> <strong>Условия:</strong> <ul> <li>Оплата труда: оклад, обсуждается с успешным кандидатом;</li> <li>Оформление по ТК;</li> <li>График работы 5/2, с 08.00-17.00 или с 9.00-18.00 или с 10.00-19.00;</li> <li>Дружный коллектив, здоровая рабочая атмосфера;</li> <li>Место работы: офис м. Румянцево, либо гибридный график.</li> </ul> <p>Наши вакансии можно найти написав в поисковой строке: Апекс, APEX, Арех</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "146633",
+    "name": "APEX.RU (Автозапчасти)",
+    "url": "https://api.hh.ru/employers/146633",
+    "alternate_url": "https://hh.ru/employer/146633",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/591767.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/2808323.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/2808324.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=146633",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-26T09:47:08+0300",
+  "created_at": "2025-05-26T09:47:08+0300",
+  "initial_created_at": "2025-05-26T09:47:08+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120957653",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120957653",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

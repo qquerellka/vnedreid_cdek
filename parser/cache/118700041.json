@@ -1,0 +1,156 @@
+{
+  "id": "118700041",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Директор по цифровой трансформации",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 900000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 900000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": false,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Клиент: крупная транспортная компания.</p> <p><strong>Обязанности:</strong></p> <ul> <li>Разработка и реализация стратегии цифровой трансформации в соответствии с бизнес-целями компании;</li> <li>Анализ текущих бизнес-процессов и определение возможностей для их цифровизации и автоматизации;</li> <li>Внедрение передовых технологий и платформ для оптимизации логистических процессов и улучшения сервисного обслуживания клиентов;</li> <li>Оценка и выбор IT-решений, включая системы управления складом (WMS), системы отслеживания поставок и другие инструменты;</li> <li>Управление проектами по цифровизации, анализ результатов и оптимизация процессов на основе полученных данных;</li> <li>Сотрудничество с IT-отделом для разработки и внедрения новых цифровых инструментов и платформ;</li> <li>Оценка рисков и разработка мер по их минимизации в процессе цифровой трансформации;</li> <li>Подготовка аналитических отчетов для руководства о прогрессе и результатах цифровой трансформации.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Высшее образование в области бизнеса, ИТ, инжиниринга или смежных дисциплин (MBA является преимуществом);</li> <li>Глубокое понимание современных технологий в области логистики (IoT, Big Data, BI, AI и др.);</li> <li>Опыт управления проектами цифровой трансформации и внедрения IT-решений;</li> <li>Сильные лидерские качества и способность мотивировать команду на изменения;</li> <li>Отличные навыки стратегического мышления, управления командами и ведения переговоров.</li> <li>Знание английского языка на уровне, необходимом для профессионального общения.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Работа в стабильной и развивающейся транспортной компании с высоким уровнем профессионализма;</li> <li>Оформление по ТК РФ;</li> <li>Конкурентная компенсация + KPI + годовая премия (по результатам работы);</li> <li>Корпоративный автомобиль, мобильная связь и другие льготы;</li> <li>Участие в масштабных трансформационных проектах с лидерами рынка.</li> <li>Возможности для развития и повышения квалификации, участие в тренингах и семинарах.</li> </ul> <p>Если вас заинтересовала данная вакансия, пожалуйста, отправьте ваш отклик и сопроводительное письмо.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": {
+    "id": 34332,
+    "name": "Брендированный шаблон 1",
+    "top_picture": {
+      "height": 509,
+      "width": 1400,
+      "path": "https://img.hhcdn.ru/branding-pictures/1916598.jpeg",
+      "blurred_path": null
+    },
+    "bottom_picture": {
+      "height": 320,
+      "width": 700,
+      "path": "https://img.hhcdn.ru/branding-pictures/1916616.jpeg",
+      "blurred_path": null
+    }
+  },
+  "key_skills": [
+    {
+      "name": "Оптимизация бизнес-процессов"
+    },
+    {
+      "name": "Автоматизация бизнес-процессов"
+    },
+    {
+      "name": "ИТ-инфраструктура"
+    },
+    {
+      "name": "Системное мышление"
+    },
+    {
+      "name": "Управление информационной безопасностью"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "36",
+      "name": "Директор по информационным технологиям (CIO)"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4174077",
+    "name": "StaffRecruitment",
+    "url": "https://api.hh.ru/employers/4174077",
+    "alternate_url": "https://hh.ru/employer/4174077",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/663804.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3096348.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3096349.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4174077",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-19T11:46:40+0300",
+  "created_at": "2025-05-19T11:46:40+0300",
+  "initial_created_at": "2025-03-24T10:43:17+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=118700041",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/118700041",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "FLEXIBLE",
+      "name": "По договорённости"
+    }
+  ],
+  "show_logo_in_search": true
+}

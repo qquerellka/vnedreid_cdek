@@ -1,0 +1,99 @@
+{
+  "id": "120763472",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Эксперт по технической поддержке",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "anonymous",
+    "name": "Анонимная"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>ЭТО ПРО ТЕБЯ?</strong></p> <ul> <li>Имеешь высшее образование (желательно техническое)</li> <li>Имеешь опыт работы в ИТ направлении от 2 лет</li> <li>Есть опыт поддержки операционных систем семейства MS Windows (Win8\\10\\11) на уровне системного администрирования</li> <li>Есть опыт администрирования мобильных устройств на IOS\\Android</li> <li>Знаешь пакет “Microsoft Office365” на уровне опытного пользовател</li> <li>Имеешь опыт работы в области поддержки почтовых программ (MS Outlook)</li> <li>Имеешь опыт ИТ поддержки и проведения видеоконференций и мероприятий (MS Teams, Bluejeans)</li> <li>Знаешь основы построения локальных вычислительных сетей и их поддержки</li> <li>Знаешь основы архитектуры персональных компьютеров</li> <li>Имеешь опыт поддержки работоспособности печатающей техники (принтеры\\МФУ): лазерные и термо-трансферные</li> <li>Есть опыт работы с IP телефонией</li> <li>Владеешь техническим английским (чтение документации) - уровень pre-intermediate и выше</li> </ul> <p><strong>ТОГДА ЭТО ПРО ТВОИ НОВЫЕ ЗАДАЧИ:</strong></p> <ul> <li>Осуществление обеспечения качественной и своевременной поддержки пользователей Компании и информационно-технологических систем в рамках предоставляемых сервисов ИТ</li> <li>Поддержка работоспособности ПК, мобильных устройств и первичная работа с оборудованием ИТ инфраструктуры</li> <li>Настройка, монтаж, выдача оргтехники и другого ИТ оборудования</li> <li>Ведение учета и контроль распределения оргтехники</li> <li>Поддержка работоспособности печатающей техники (принтеры\\МФУ): лазерные и термо-трансферные</li> <li> <p>Ведение административных задач: учет оргтехники, проведение инвентаризаций оборудования, проведение закупок комплектующих и расходных материалов</p> </li> <li> <p>Управление бюджетом, планирование и контроль исполнения</p> </li> </ul> <p><strong>МЫ ПОДДЕРЖИМ ТЕБЯ И ОБЕСПЕЧИМ:</strong></p> <ul> <li>Официальным оформлением в штат компании</li> <li>Работой в профессиональной и дружной команде, в динамичной и ориентированной на результат культуре</li> <li>Доступом 24/7 к знаниям огромной индустрии и лучшим мировым практикам</li> <li>Возможностью карьерного и профессионального роста</li> <li>Социальный пакет: ДМС со стоматологией, программа поддержки сотрудников, корпоративные скидки и предложения от партнеров компании</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "name": "Крупная FMCG компания",
+    "trusted": true
+  },
+  "published_at": "2025-05-20T13:29:55+0300",
+  "created_at": "2025-05-20T13:29:55+0300",
+  "initial_created_at": "2025-05-20T13:29:55+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120763472",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120763472",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "120924464",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Frontend-разработчик (React/TypeScript) в LegalTech",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "1-й Красногвардейский проезд",
+    "building": "21с1",
+    "lat": 55.750028,
+    "lng": 37.534406,
+    "description": null,
+    "raw": "Москва, 1-й Красногвардейский проезд, 21с1",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><em>Хотите создавать продукты, которые меняют индустрию?</em></p> <p><strong>Кто мы:</strong></p> <p>Мы строим LegalTech-решения с глубокой интеграцией AI: работа с сотнями тысяч документов, поиск фактов, суммаризация, файн-тюнинг моделей и прочее. У нас нет легаси — только чистый лист и амбициозные цели. В нашей команде есть таланты из российских и западных BigTech-компаний, и мы внедряем лучшие практики разработки, CI/CD и DevOps.</p> <p><strong>Кого мы ищем:</strong></p> <ul> <li>Сильных инженеров, для которых React и TypeScript — не просто инструменты, а осознанный выбор. Если у вас 3+ лет опыта во фронтенде, вы глубоко понимаете работу браузера, сетевого стека и можете писать эффективный код — вам к нам.</li> <li>Инженеров, готовых работать в кросс-функциональной команде. Мы строим end-to-end ownership, где фронтенд-инженер не просто верстает макеты, а влияет на архитектуру, качество кода и процессы разработки.</li> <li>Тех, кто понимает важность автоматизации. Мы минимизируем рутину, внедряем тестирование и CI/CD, стремимся к максимально эффективному процессу.</li> </ul> <p><strong>Что вас ждет:</strong></p> <ul> <li>Участие в создании инновационных LegalTech-продуктов с нуля.</li> <li>Возможность влиять на выбор технологий, архитектурных решений и UI/UX-дизайна.</li> <li>Культура engineering excellence: код-ревью, архитектурные обсуждения, менторинг.</li> <li>Команда экспертов, которые знают, как строить масштабируемые интерфейсы и системы.</li> </ul> <p><strong>Компенсации и льготы:</strong></p> <ul> <li>Условия трудового договора в полном соответствии с ТК РФ.</li> <li>Полное медицинское страхование, страхование жизни и страхование от несчастных случаев.</li> <li>Расположение офиса в Москва Сити.​​</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10108658",
+    "name": "Кучер Кулешов Максименко и партнеры",
+    "url": "https://api.hh.ru/employers/10108658",
+    "alternate_url": "https://hh.ru/employer/10108658",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1426321.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7324933.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7324934.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10108658",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T19:27:26+0300",
+  "created_at": "2025-06-04T19:27:26+0300",
+  "initial_created_at": "2025-05-23T19:27:26+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120924464",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120924464",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

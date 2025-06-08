@@ -1,0 +1,147 @@
+{
+  "id": "120518174",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Системный администратор Linux",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": null,
+    "to": 300000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 300000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Зольная улица",
+    "building": "15",
+    "lat": 59.9184477455385,
+    "lng": 30.428090588954603,
+    "description": null,
+    "raw": "Санкт-Петербург, Зольная улица, 15",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы - <strong>аккредитованная IT-компания Aéza Group, </strong>молодой и динамично развивающийся международный хостинг провайдер, который ежегодно расширяет спектр услуг и функционал, которыми пользуются более сотни тысяч клиентов по всему миру.</p> <p>Ищем <strong>Системного администратора Linux </strong>в нашу команду.</p> <p><strong>Что от тебя ждем:</strong></p> <ul> <li>Опыт настройки Cisco/Arista/Juniper или им подобных;</li> <li>Опыт работы системным администратором Linux-серверов от 2-х лет;</li> <li>Виртуализация: настройка и сопровождение виртуальных машин (KVM, libvirt);</li> <li>Знание сетевых технологий и протоколов (TCP/IP, DNS, DHCP, VPN);</li> <li>Глубокие знания операционных систем семейства Linux;</li> <li>Навыки настройки систем мониторинга (Zabbix, Prometheus или аналогичных инструментов);</li> <li>Умение анализировать и быстро устранять неполадки;</li> <li>Ответственность, аналитический склад ума и умение работать в команде.</li> </ul> <p><strong>Будет преимуществом:</strong></p> <ul> <li>Автоматизация: разработка и внедрение скриптов для автоматизации рутинных задач (Ansible, Bash, Python и др.).</li> </ul> <p><strong>Твои основные задачи:</strong></p> <ul> <li>Администрирование Linux-серверов (Ubuntu, Debian и др.) через SSH, IPMI или аналоги: установка ОС (через PXE или вручную), диагностика и др.;</li> <li>Мониторинг и поддержка: контроль состояния серверов (Zabbix), оперативное реагирование на инциденты и устранение неполадок;</li> <li>Документация: ведение технической документации и отчетности (YouTrack), взаимодействие с другими отделами.</li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li> <p>По-настоящему <strong>гибкий график</strong> работы;</p> </li> <li> <p>Молодой коллектив профессионалов (средний возраст команды 22-27 лет);</p> </li> <li> <p>Обучение в рамках компании, возможность поднять свой грейд и получить опыт работы в международном проекте;</p> </li> <li> <p>Развитие и посещение курсов по повышению квалификации за наш счёт.</p> </li> <li> <p>Доступ к <strong>консультациям с психологом</strong> (онлайн);</p> </li> <li> <p>Система премирования: «Лучший сотрудник отдела» (1 раз в месяц);</p> </li> <li> <p><strong>Своевременная оплата труда дважды в месяц</strong>, премия за инициативу, идеи и переработки, готовность внедрения ваших разработок;</p> </li> <li> <p>Регулярные ревью, <strong>добровольное участие</strong> в мероприятиях компании и в стримах.</p> </li> </ul> <p><strong>Откликайся, и вместе мы изменим рынок хостинг-услуг!</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9445173",
+    "name": "Аеза Групп",
+    "url": "https://api.hh.ru/employers/9445173",
+    "alternate_url": "https://hh.ru/employer/9445173",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1391582.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7186115.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7186116.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9445173",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T10:33:47+0300",
+  "created_at": "2025-06-07T10:33:47+0300",
+  "initial_created_at": "2025-05-14T10:33:47+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120518174",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120518174",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

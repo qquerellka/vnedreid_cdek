@@ -1,0 +1,142 @@
+{
+  "id": "121425090",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Senior DevOps (инфраструктура) в ОК",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": {
+    "id": "mailru-15478-od",
+    "name": "VK, Одноклассники"
+  },
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы отвечаем за технологическую составляющую ОК: хранилища, базы данных, облака, метрики, средства конфигурирования, мониторинга, разработки и диагностики.</p> <p>Команда эксплуатирует высоконагруженную систему и ищет опытного специалиста Senior DevOps, который будет конфигурировать проекты и управлять сборкой на разных платформах.</p> <p><strong>Задачи</strong></p> <ul> <li>Развитие и поддержка CI/CD</li> <li>Построение пайплайнов сборки и деплоя проектов</li> <li>Управление релизным циклом приложений</li> </ul> <p><strong>Требования</strong></p> <ul> <li>Опыт и понимание принципов работы CI/CD</li> <li>Знание базовых паттернов обеспечения непрерывной поставки релизов, тестирования, сборки, деплоя и поддержки релизного цикла</li> <li>Знания Linux, Docker, Git, Helm</li> <li>Linux — базовые знания архитектуры ОС, системные вызовы и сигналы, дебаг состояния ОСDocker</li> <li>Архитектура контейнеров, способы сборки, настройка реджестри Git</li> <li>Организация репозиториев, монорепозитории, управление зависимостями, знание стандартных паттернов Helm</li> <li>Понимание системы шаблонизации чартов, версионирование и тестирование</li> <li>Практический опыт сборки на любом языке C/C++, Go, Java, etc. из исходников</li> <li>Знакомство с системами сборки (go build, ant, gradle, maven, gcc, clang), умение читать код и помочь с дебагом при сборке</li> <li>Опыт работы с системами управления конфигурациями: Ansible/Salt/Terraform</li> <li>Управление инфраструктурой с помощью Infrastructure as Code, умение читать и описывать инфраструктуру с учётом скорости развёртывания и безопасности</li> <li>Умение писать на Java/Python/Go</li> <li>Автоматизация процессов, разработка инфраструктурных утилит, поддержка существующего кода</li> </ul> <p><strong>Приглашаем специалиста, который сможет посещать офис в Москве или Санкт-Петербурге, работать в комбинированном режиме или удалённо. Ждём ваших откликов. Удачи!</strong></p>",
+  "branded_description": "\n<style>\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;    \n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-weight: 700 !important;\n    letter-spacing: inherit !important;\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n    line-height: inherit;\n    display: inline;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    display: inline;\n    margin: 0;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    color: #080808;\n    font-family: Arial;\n    font-size: 16px;\n    line-height: 20.8px;\n    z-index: 1;\n    box-sizing: border-box;\n    overflow: hidden;\n    background: url(https://hhcdn.ru/ichameleon/365972.png) no-repeat;\n    background-position: 100% 100%;\n    background-size: 142px;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_content {\n    padding: 47px 40px 37px;\n    position: relative;\n    z-index: 1;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n   margin: 40px 0 16px;\n}\n\n.tmpl_hh_content b, \n.tmpl_hh_content strong {\n    display: inline-block;\n    font-size: 24px;\n    font-weight: 700;\n    line-height: 28.8px;\n}\n\n.tmpl_hh_content i b, \n.tmpl_hh_content i strong,\n.tmpl_hh_content em b, \n.tmpl_hh_content em strong,\n.tmpl_hh_content b em, \n.tmpl_hh_content strong em,\n.tmpl_hh_content b i, \n.tmpl_hh_content strong i {\n    display: inline;\n    font-weight: 700;\n    font-style: normal;\n    font-size: 16px;\n    line-height: 20.8px;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 16px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 14px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 14px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;    \n}\n\n.tmpl_hh_content li:before {\n    position: absolute;\n    left: -16px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"\";\n    width: 4px;\n    height: 4px;\n    top: 9px;\n    border-radius: 1px;\n    background: #FF7700;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter)'.';\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n\n.tmpl_hh_flex {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n}\n\n.tmpl_hh_header {\n    position: relative;\n}\n\n.tmpl_hh_header__logo {\n    position: absolute;\n    transform: translate(0,-50%);\n    top: 50%;\n    left: 6.8%;\n    width: 24%;\n}\n\np.tmpl_hh_footnote {\n    font-size: 12px;\n    line-height: 15.6px;\n    color: #08080866;\n    margin: 50px 0 0;\n}\n\n@media screen and (max-width: 1019px) {\n\n}\n\n@media screen and (max-width: 699px) {\n    .tmpl_hh_wrapper {\n        font-size: 14px;\n        line-height: 18.2px;\n    }\n\n    .tmpl_hh_content {\n        padding: 19px 16px 71px;\n    }\n\n    .tmpl_hh_content p,\n    .tmpl_hh_content b,\n    .tmpl_hh_content strong {\n       margin: 24px 0 12px;\n    }\n\n    .tmpl_hh_content b, \n    .tmpl_hh_content strong {\n        font-size: 18px;\n        line-height: 21.6px;\n    }\n\n    .tmpl_hh_content i b, \n    .tmpl_hh_content i strong,\n    .tmpl_hh_content em b, \n    .tmpl_hh_content em strong,\n    .tmpl_hh_content b em, \n    .tmpl_hh_content strong em,\n    .tmpl_hh_content b i, \n    .tmpl_hh_content strong i {\n        font-size: 14px;\n        line-height: 18.2px;\n    }\n\n    .tmpl_hh_content li {\n        margin-bottom: 8px;\n    }\n\n    .tmpl_hh_content ul ul,\n    .tmpl_hh_content ul ol,\n    .tmpl_hh_content ol ol,\n    .tmpl_hh_content ol ul {\n        margin-top: 8px;\n    }\n\n    .tmpl_hh_content ul>li:before {\n        top: 8px;\n    }\n\n    p.tmpl_hh_footnote {\n        margin: 45px 0 0;\n    }\n\n}\n\n</style>\n\n<div class=\"tmpl_hh_wrapper\">\n    <div class=\"tmpl_hh_header\">\n        <div class=\"tmpl_hh_header__logo\"><img src=\"https://hhcdn.ru/ichameleon/365971.svg\" alt=\"\"></div>\n        <div class=\"tmpl_hh_header__photo\"><img src=\"https://hhcdn.ru/ichameleon/365973.jpg\" alt=\"\"></div>\n    </div>\n    <div class=\"tmpl_hh_content\">\n        <p>Мы отвечаем за технологическую составляющую ОК: хранилища, базы данных, облака, метрики, средства конфигурирования, мониторинга, разработки и диагностики.</p> <p>Команда эксплуатирует высоконагруженную систему и ищет опытного специалиста Senior DevOps, который будет конфигурировать проекты и управлять сборкой на разных платформах.</p> <p><strong>Задачи</strong></p> <ul> <li>Развитие и поддержка CI/CD</li> <li>Построение пайплайнов сборки и деплоя проектов</li> <li>Управление релизным циклом приложений</li> </ul> <p><strong>Требования</strong></p> <ul> <li>Опыт и понимание принципов работы CI/CD</li> <li>Знание базовых паттернов обеспечения непрерывной поставки релизов, тестирования, сборки, деплоя и поддержки релизного цикла</li> <li>Знания Linux, Docker, Git, Helm</li> <li>Linux — базовые знания архитектуры ОС, системные вызовы и сигналы, дебаг состояния ОСDocker</li> <li>Архитектура контейнеров, способы сборки, настройка реджестри Git</li> <li>Организация репозиториев, монорепозитории, управление зависимостями, знание стандартных паттернов Helm</li> <li>Понимание системы шаблонизации чартов, версионирование и тестирование</li> <li>Практический опыт сборки на любом языке C/C++, Go, Java, etc. из исходников</li> <li>Знакомство с системами сборки (go build, ant, gradle, maven, gcc, clang), умение читать код и помочь с дебагом при сборке</li> <li>Опыт работы с системами управления конфигурациями: Ansible/Salt/Terraform</li> <li>Управление инфраструктурой с помощью Infrastructure as Code, умение читать и описывать инфраструктуру с учётом скорости развёртывания и безопасности</li> <li>Умение писать на Java/Python/Go</li> <li>Автоматизация процессов, разработка инфраструктурных утилит, поддержка существующего кода</li> </ul> <p><strong>Приглашаем специалиста, который сможет посещать офис в Москве или Санкт-Петербурге, работать в комбинированном режиме или удалённо. Ждём ваших откликов. Удачи!</strong></p><p class=\"tmpl_hh_footnote\">ООО «ВК» представляет бренд ОК</p>\n    </div>\n</div> \n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "DevOps"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "CI/CD"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "160",
+      "name": "DevOps-инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "15478",
+    "name": "VK",
+    "url": "https://api.hh.ru/employers/15478",
+    "alternate_url": "https://hh.ru/employer/15478",
+    "logo_urls": {
+      "90": "https://img.hhcdn.ru/ichameleon/366685.png",
+      "240": "https://img.hhcdn.ru/ichameleon/366685.png",
+      "original": "https://img.hhcdn.ru/ichameleon/366685.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=15478",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T16:00:43+0300",
+  "created_at": "2025-06-06T16:00:43+0300",
+  "initial_created_at": "2025-06-06T15:06:18+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121425090",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121425090",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

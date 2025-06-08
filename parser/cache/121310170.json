@@ -1,0 +1,133 @@
+{
+  "id": "121310170",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Python-разработчик (AI, Speech Processing, Backend)",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Привет! Мы — молодая IT-компания, которая делает крутые штуки с голосом и искусственным интеллектом. Разрабатываем продукты для транскрибации (речь в текст), автоматизации работы с голосовыми данными, аналитики и интеграции с бизнес-системами.</p> <p>Сейчас активно развиваем нашего Telegram-бота, а в ближайшее время будем выносить из него бизнес-логику в отдельные сервисы, запускать веб-версию и выделять «общие» сервисы в тех платформу для работы с платежами в формате «одна учётка под разные интерфейсы» (интеграции с облачными дисками, CRM, API). У нас много интересных задач и большое пространства для роста!</p> <p><strong>Чем предстоит заниматься:</strong></p> <ul> <li> <p>Разработка и поддержка основных бэк-сервисов</p> </li> <li> <p>Интеграция с CRM, облачными хранилищами, AI-сервисами</p> </li> <li> <p>Участие в проектировании архитектуры</p> </li> <li> <p>При желании можно запилить фронт (от админок до веб-версии)</p> </li> </ul> <p><strong>Основной стек:</strong></p> <ul> <li> <p>Python (FastAPI, aiogram, celery), PostgreSQL, Redis, Docker</p> </li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li> <p>Профессиональный рост в перспективном направлении</p> </li> <li> <p>Вагон интересных задач (у нас очень много гипотез и есть крутой продакт!)</p> </li> <li> <p>Удаленный формат работы с гибким графиком</p> </li> <li> <p>Работа в полном цикле — от MVP до промышленной эксплуатации</p> </li> <li> <p>Возможность влиять на продукт и быстрый рост (будет много прямого контакта с основателями)</p> </li> <li> <p>Поддержку команды DevOps (можно работать самостоятельно или обращаться за помощью)</p> </li> <li> <p>Организованные процессы: у нас есть трекер задач, рабочее пространство (почта, созванивалка, календарь), рабочий чат в RocketChat. Двигаемся спринтами, оцениваем и приоритезируем задачи</p> </li> </ul> <p>Если вам интересны сложные backend-задачи, интеграции и использование AI на полную катушку — пишите!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Git"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10807732",
+    "name": "Войси",
+    "url": "https://api.hh.ru/employers/10807732",
+    "alternate_url": "https://hh.ru/employer/10807732",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1362639.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7070466.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7070467.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10807732",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T01:31:49+0300",
+  "created_at": "2025-06-04T01:31:49+0300",
+  "initial_created_at": "2025-06-04T01:31:49+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121310170",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121310170",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    },
+    {
+      "id": "FLEXIBLE",
+      "name": "Свободный"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    },
+    {
+      "id": "FLEXIBLE",
+      "name": "По договорённости"
+    }
+  ],
+  "show_logo_in_search": null
+}

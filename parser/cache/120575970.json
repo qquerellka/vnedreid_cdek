@@ -1,0 +1,170 @@
+{
+  "id": "120575970",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Backend-Developer Python (intern/junior)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Нижняя Сыромятническая улица",
+    "building": "10с12",
+    "lat": 55.752708,
+    "lng": 37.668893,
+    "description": null,
+    "raw": "Москва, Нижняя Сыромятническая улица, 10с12",
+    "metro": {
+      "station_name": "Курская",
+      "line_name": "Кольцевая",
+      "station_id": "5.71",
+      "line_id": "5",
+      "lat": 55.758631,
+      "lng": 37.661059
+    },
+    "metro_stations": [
+      {
+        "station_name": "Курская",
+        "line_name": "Кольцевая",
+        "station_id": "5.71",
+        "line_id": "5",
+        "lat": 55.758631,
+        "lng": 37.661059
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Привет! Мы — <strong>онлайн-школа Тетрика, </strong>являемся одной из крупнейших EdTech-компаний России в сегменте школьного образования.<br />За 5 лет мы помогли уже тысячам школьников найти <strong>своего репетитора </strong>и<strong> </strong>провели более 2 млн занятий на собственной платформе.</p> <p>Мы продолжаем расти, а значит, нам нужны новые таланты. Сейчас мы приглашаем в свою команду <strong>Backend-Developer Python (без коммерческого опыта),</strong> который будет отвечать за <strong>совершенствование нашего продукта.</strong></p> <p><br /><strong>Что нужно делать:</strong></p> <ul> <li> <p>Разрабатывать и улучшать инструменты, направленные как на оптимизацию образовательного процесса для учеников и преподавателей, так и на оптимизацию работы внутренних сотрудников;</p> </li> <li> <p>Интегрировать систему с внешними сервисами: CRM, платёжными системами, Helpdesk и инструментами сбора обратной связи;</p> </li> <li> <p>Внедрять новый функционал, рефакторить и модернизировать существующую кодовую базу, а также писать тесты;</p> </li> <li> <p>Совместно с тимлидом ежеквартально формировать индивидуальный план развития - одна из ключевых задач будет заключаться в активной работе над ростом по этому плану.</p> </li> </ul> <p><strong>Стек:</strong></p> <ul> <li> <p>Python 3.12;</p> </li> <li> <p>asyncpg, aiohttp/fastapi/flask;</p> </li> <li> <p>PostgreSQL, Redis; Docker, Git/gitlab.</p> </li> </ul> <p><strong>Что мы ждём от тебя:</strong></p> <ul> <li> <p>Хорошее знание Python 3;</p> </li> <li> <p>Опыт работы с любыми веб-фреймворками;</p> </li> <li> <p>Опыт работы с асинхронным кодом;</p> </li> <li> <p>Знание JS будет большим плюсом.</p> </li> </ul> <p><strong>Работа в Тетрике - это:</strong></p> <ul> <li>Работа в офисе/удаленно с гибким началом рабочего дня (с 9:00 до 11:00);</li> <li>ДМС со стоматологией после 3 месяцев работы;</li> <li>Оформление в соответствии с ТК РФ в аккредитованной ИТ<strong>-</strong>компании;</li> <li>Возможность обучения сотрудника и его детей со скидкой 50% на нашей платформе;</li> <li>Корпоративные скидки от наших партнёров;</li> <li>Уютный офис в шаговой доступности от метро Курская на территории креативного кластера Artplay.</li> </ul> <p><strong>Процесс найма:</strong><br />Тестовое задание → интервью с рекрутером → техническое собеседование → оффер.<br /><br /><strong>Если тебе интересны новые задачи и постоянное развитие, смело отправляй отклик на вакансию. Пожалуйста, расскажи немного о себе и укажи зарплатные ожидания. Будем рады знакомству :)</strong></p>",
+  "branded_description": "\n<style>\n\n.tmpl_hh_vacancy_block {\n    display: none;\n}\n.UNSAFE-employer-branded-is-desktop .tmpl_hh_vacancy_block {\n    display: block;\n}\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    font-family: \"Arial\", sans-serif;\n    color: #000;\n    font-size: 16px;\n    line-height: 18px;\n    overflow: hidden;\n}\n.tmpl_hh_wrapper *{\n    box-sizing: border-box;\n}\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;    \n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-weight: normal;\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    margin: 0 0 18px;\n}\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    display: inline-block;\n    font-size: 20px;\n    line-height: 22px;\n}\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong{\n    margin: 0;   \n    display: inline;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 24px;\n    list-style: none !important;\n    margin-bottom: 40px;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 10px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 8px;\n    margin-bottom: 8px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;    \n}\n\n.tmpl_hh_content li:before {\n    content: '';\n    position: absolute;\n    left: -18px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    width: 4px;\n    height: 4px;\n    border-radius: 100%;\n    background-color: #000;\n    left: -14px;\n    top: 6px;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter)'.';\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n\n.tmpl_hh_wrapper img{\n    width: 100%;\n    display: block;\n}\n.tmpl_hh_content {\n    padding: 30px 30px 40px;\n}\n.tmpl_hh_footer{\n    position: relative;\n}\n.tmpl_hh_footer span{\n    color: #FFFFFF;\n    font-size: 12px;\n    line-height: 20px;\n    position: absolute;\n    bottom: 10px;\n    left: 30px;\n}\n.tmpl_hh_footer p{\n    font-weight: bold;\n    color: #7E28DC;\n    font-size: 20px;\n    line-height: 20px;\n    display: block;\n    text-transform: uppercase;\n    padding: 0 30px;\n    margin-bottom: 24px;\n}\n.tmpl_hh_footer .tmpl_hh_girl{\n    position: absolute;\n    top: -67px;\n    right: 0;\n    width: 30.3%;\n}\n.tmpl_hh_header .tmpl_hh_right_m{\n    display: none;\n}\n.tmpl_hh_footer .tmpl_hh_line_m{\n    display: none;\n}\n\n@media (max-width: 1019px) {\n\n    .tmpl_hh_footer .tmpl_hh_line_d{\n        margin-bottom: -1px;\n        margin-left: -2px;\n        width: calc(100% + 4px);\n    }\n    .tmpl_hh_header .tmpl_hh_right{\n        margin-right: -1px;\n    }\n}\n\n@media (max-width: 699px) {\n    .tmpl_hh_wrapper{\n        font-size: 14px;\n        line-height: 16px;\n    }\n    .tmpl_hh_footer span{\n        font-size: 10px;\n        line-height: 10px;\n        left: 16px;\n    }\n    .tmpl_hh_header .tmpl_hh_right_m{\n        display: block;\n    }\n    .tmpl_hh_footer .tmpl_hh_line_m{\n        display: block;\n    }\n    .tmpl_hh_header .tmpl_hh_logo {\n        width: 110px;\n    }\n    .tmpl_hh_header{\n        padding: 40px 16px 30px;\n    }\n    .tmpl_hh_content b, .tmpl_hh_content strong{\n        font-size: 16px;\n        line-height: 16px;\n    }\n    .tmpl_hh_header .tmpl_hh_btn{\n        font-size: 14px;\n        line-height: 14px;\n        margin-top: 26px;\n        padding: 14px 13px;\n    }\n    .tmpl_hh_content {\n        padding: 1px 16px 24px;\n    }\n    .tmpl_hh_content p, .tmpl_hh_content b, .tmpl_hh_content strong{\n        margin: 0 0 14px;\n    }\n    .tmpl_hh_content ol, .tmpl_hh_content ul{\n        margin-left: 22px;\n        margin-bottom: 30px;\n    }\n    .tmpl_hh_footer p{\n        font-size: 14px;\n        line-height: 14px;\n        padding: 0 16px;\n        margin-bottom: 15px;\n    }\n    .tmpl_hh_footer .tmpl_hh_girl{\n        top: -23px;\n        width: 33.3%;\n    }\n    \n}\n\n</style>\n\n    <div class=\"tmpl_hh_wrapper\">\n        <div class=\"tmpl_hh_header\">\n            <img src=\"https://hhcdn.ru/ichameleon/338608.jpeg\" alt=\"\" class=\"tmpl_hh_right tmpl_hh_right_d\">\n        </div>\n        \n        <div class=\"tmpl_hh_content\">\n            <p>Привет! Мы — <strong>онлайн-школа Тетрика, </strong>являемся одной из крупнейших EdTech-компаний России в сегменте школьного образования.<br>За 5 лет мы помогли уже тысячам школьников найти <strong>своего репетитора </strong>и<strong> </strong>провели более 2 млн занятий на собственной платформе.</p> <p>Мы продолжаем расти, а значит, нам нужны новые таланты. Сейчас мы приглашаем в свою команду <strong>Backend-Developer Python (без коммерческого опыта),</strong> который будет отвечать за <strong>совершенствование нашего продукта.</strong></p> <p><br><strong>Что нужно делать:</strong></p> <ul> <li> <p>Разрабатывать и улучшать инструменты, направленные как на оптимизацию образовательного процесса для учеников и преподавателей, так и на оптимизацию работы внутренних сотрудников;</p> </li> <li> <p>Интегрировать систему с внешними сервисами: CRM, платёжными системами, Helpdesk и инструментами сбора обратной связи;</p> </li> <li> <p>Внедрять новый функционал, рефакторить и модернизировать существующую кодовую базу, а также писать тесты;</p> </li> <li> <p>Совместно с тимлидом ежеквартально формировать индивидуальный план развития - одна из ключевых задач будет заключаться в активной работе над ростом по этому плану.</p> </li> </ul> <p><strong>Стек:</strong></p> <ul> <li> <p>Python 3.12;</p> </li> <li> <p>asyncpg, aiohttp/fastapi/flask;</p> </li> <li> <p>PostgreSQL, Redis; Docker, Git/gitlab.</p> </li> </ul> <p><strong>Что мы ждём от тебя:</strong></p> <ul> <li> <p>Хорошее знание Python 3;</p> </li> <li> <p>Опыт работы с любыми веб-фреймворками;</p> </li> <li> <p>Опыт работы с асинхронным кодом;</p> </li> <li> <p>Знание JS будет большим плюсом.</p> </li> </ul> <p><strong>Работа в Тетрике - это:</strong></p> <ul> <li>Работа в офисе/удаленно с гибким началом рабочего дня (с 9:00 до 11:00);</li> <li>ДМС со стоматологией после 3 месяцев работы;</li> <li>Оформление в соответствии с ТК РФ в аккредитованной ИТ<strong>-</strong>компании;</li> <li>Возможность обучения сотрудника и его детей со скидкой 50% на нашей платформе;</li> <li>Корпоративные скидки от наших партнёров;</li> <li>Уютный офис в шаговой доступности от метро Курская на территории креативного кластера Artplay.</li> </ul> <p><strong>Процесс найма:</strong><br>Тестовое задание → интервью с рекрутером → техническое собеседование → оффер.<br><br><strong>Если тебе интересны новые задачи и постоянное развитие, смело отправляй отклик на вакансию. Пожалуйста, расскажи немного о себе и укажи зарплатные ожидания. Будем рады знакомству :)</strong></p></div>\n\n        <div class=\"tmpl_hh_footer\">\n            <img src=\"https://hhcdn.ru/ichameleon/337269.png\" alt=\"\" class=\"tmpl_hh_line tmpl_hh_line_d\">\n        </div>\n    </div>\n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Flask"
+    },
+    {
+      "name": "FastAPI"
+    },
+    {
+      "name": "aiohttp"
+    },
+    {
+      "name": "asyncpg"
+    },
+    {
+      "name": "Python 3"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3731347",
+    "name": "Онлайн-школа Тетрика",
+    "url": "https://api.hh.ru/employers/3731347",
+    "alternate_url": "https://hh.ru/employer/3731347",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/785147.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/3581479.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3581480.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3731347",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-26T13:33:50+0300",
+  "created_at": "2025-05-26T13:33:50+0300",
+  "initial_created_at": "2025-05-15T11:02:22+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120575970",
+  "has_test": true,
+  "test": {
+    "required": false
+  },
+  "alternate_url": "https://hh.ru/vacancy/120575970",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

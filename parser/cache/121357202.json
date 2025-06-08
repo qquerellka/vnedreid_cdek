@@ -1,0 +1,166 @@
+{
+  "id": "121357202",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Junior Data Engineer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "3-й проезд Марьиной Рощи",
+    "building": null,
+    "lat": 55.796415,
+    "lng": 37.616584,
+    "description": null,
+    "raw": "Москва, 3-й проезд Марьиной Рощи",
+    "metro": {
+      "station_name": "Марьина Роща",
+      "line_name": "Люблинско-Дмитровская",
+      "station_id": "10.185",
+      "line_id": "10",
+      "lat": 55.793723,
+      "lng": 37.61618
+    },
+    "metro_stations": [
+      {
+        "station_name": "Марьина Роща",
+        "line_name": "Люблинско-Дмитровская",
+        "station_id": "10.185",
+        "line_id": "10",
+        "lat": 55.793723,
+        "lng": 37.61618
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>О нас</strong></p> <p>Наша компания занимается заказной и продуктовой разработкой ПО в сферах ML и NLP.</p> <p><strong>Наш стек:</strong> репозиторий кода - GitLab, для обсуждения Mattermost, мониторинг сервисов на Prometheus, логи в ELK и Loki, визуализация в Grafana. Разработка на Python, Go, C#, Java, Scala (для Apache Spark), SQL, JS.</p> <p><em>Приглашаем в нашу команду Junior Data Engineer с желанием расти, приносить пользу и решать сложные задачи.</em></p> <p><strong>Мы ожидаем:</strong></p> <ul> <li> <p>Знание SQL (SELECT-запросы, фильтрации, JOIN’ы, агрегатные функции, вложенные запросы) на средне-продвинутом уровне.</p> </li> <li> <p>Опыт программирования на Python (скрипты, работа с библиотеками Pandas, PySpark, или аналогами).</p> </li> <li> <p>Понимание основ ETL-процессов (извлечение, трансформация, загрузка данных).</p> </li> <li> <p>Знание СУБД PostgreSQL, MySQL, SQLite и т.п.</p> </li> <li> <p>Опыт работы с Apache Airflow.</p> </li> <li> <p>Знание основ Linux.</p> </li> </ul> <p><strong>Будет плюсом если Вы:</strong></p> <ul> <li> <p>Имеете опыт работы с облачными платформами (например, AWS, GCP, Azure).</p> </li> <li> <p>Имеете опыт работы с DBT или другими инструментами оркестрации/трансформации данных (кроме Apache Airflow).</p> </li> <li> <p>Имеете навыки работы с API и форматами обмена данных (JSON, XML).</p> </li> <li> <p>Знакомы с системами обработки потоковых данных (Kafka, Spark Streaming — хотя бы теоретически).</p> </li> <li> <p>Умеете работать с системами контроля версий (Git).</p> </li> <li> <p>Имеете опыт участия в учебных или pet-проектах, связанных с данными – с удовольствием узнаем о Вашем опыте.</p> </li> </ul> <p><strong>Вы – наш идеальный кандидат, если:</strong></p> <ul> <li>Хотите расти и развиваться как Data Engineer.</li> <li>Готовы учиться и развиваться в смежных IT областях.</li> <li>Умеете работать в команде и не боитесь коммуницировать с коллегами.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Официальное трудоустройство в аккредитованную ИТ-компанию.</li> <li> <p>Испытательный срок 3 месяца.</p> </li> <li> <p>Гибкий график работы.</p> </li> <li>После испытательного срока, возможен гибридный формат работы <strong>(до 2-х дней удалённой работы).</strong></li> <li> <p>Офис в шаговой доступности от м. Марьина роща.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "165",
+      "name": "Дата-сайентист"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3185191",
+    "name": "Аналитические программные решения",
+    "url": "https://api.hh.ru/employers/3185191",
+    "alternate_url": "https://hh.ru/employer/3185191",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1109968.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6060473.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6060474.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3185191",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T01:54:41+0300",
+  "created_at": "2025-06-05T01:54:41+0300",
+  "initial_created_at": "2025-06-05T01:54:41+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121357202",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121357202",
+  "working_days": [],
+  "working_time_intervals": [
+    {
+      "id": "from_four_to_six_hours_in_a_day",
+      "name": "Можно сменами по 4-6 часов в день"
+    }
+  ],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_4",
+      "name": "4 часа"
+    },
+    {
+      "id": "HOURS_5",
+      "name": "5 часов"
+    },
+    {
+      "id": "HOURS_6",
+      "name": "6 часов"
+    },
+    {
+      "id": "HOURS_7",
+      "name": "7 часов"
+    },
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

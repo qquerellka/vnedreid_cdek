@@ -1,0 +1,194 @@
+{
+  "id": "121144654",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Профессор / доцент экономист / преподаватель экономических дисциплин",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 65000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 65000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "улица Фучика",
+    "building": "15",
+    "lat": 59.879362,
+    "lng": 30.377385,
+    "description": null,
+    "raw": "Санкт-Петербург, улица Фучика, 15",
+    "metro": {
+      "station_name": "Бухарестская",
+      "line_name": "Фрунзенско-Приморская",
+      "station_id": "18.259",
+      "line_id": "18",
+      "lat": 59.883769,
+      "lng": 30.368932
+    },
+    "metro_stations": [
+      {
+        "station_name": "Бухарестская",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.259",
+        "line_id": "18",
+        "lat": 59.883769,
+        "lng": 30.368932
+      },
+      {
+        "station_name": "Волковская",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.253",
+        "line_id": "18",
+        "lat": 59.896023,
+        "lng": 30.35754
+      },
+      {
+        "station_name": "Международная",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.260",
+        "line_id": "18",
+        "lat": 59.870203,
+        "lng": 30.379289
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>чтение лекций, ведение практических занятий</li> <li>руководство ВКР, аспирантами</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>опыт работы в вузах более 3 лет</li> <li>наличие научной степени доктора (кандидата) экономических наук</li> <li>работа в вузах Санкт-Петербурга или Москвы</li> <li>знание дисциплин: экономический анализ деятельности предприятий, финансовый анализ, налогообложение, бухучет</li> <li><strong>Условия:</strong></li> <li>в штат, полный рабочий день</li> <li>официальное трудоустройство</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Грамотность"
+    },
+    {
+      "name": "Творческое мышление"
+    },
+    {
+      "name": "Терпеливость"
+    },
+    {
+      "name": "Умение адаптироваться"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "155",
+      "name": "Методолог"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "44748",
+    "name": "Санкт-Петербургский Гуманитарный университет профсоюзов",
+    "url": "https://api.hh.ru/employers/44748",
+    "alternate_url": "https://hh.ru/employer/44748",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/479858.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/2361284.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/2361285.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=44748",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-29T18:34:27+0300",
+  "created_at": "2025-05-29T18:34:27+0300",
+  "initial_created_at": "2025-05-29T18:34:27+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121144654",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121144654",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "a1",
+        "name": "A1 — Начальный"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

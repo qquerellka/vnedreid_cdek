@@ -1,0 +1,162 @@
+{
+  "id": "119785032",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист отдела сопровождения",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 93600,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 93600,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Большая Филёвская улица",
+    "building": "2",
+    "lat": 55.753904,
+    "lng": 37.51529,
+    "description": null,
+    "raw": "Москва, Большая Филёвская улица, 2",
+    "metro": {
+      "station_name": "Фили",
+      "line_name": "Филевская",
+      "station_id": "4.151",
+      "line_id": "4",
+      "lat": 55.746763,
+      "lng": 37.514035
+    },
+    "metro_stations": [
+      {
+        "station_name": "Фили",
+        "line_name": "Филевская",
+        "station_id": "4.151",
+        "line_id": "4",
+        "lat": 55.746763,
+        "lng": 37.514035
+      },
+      {
+        "station_name": "Шелепиха",
+        "line_name": "Большая кольцевая линия",
+        "station_id": "97.602",
+        "line_id": "97",
+        "lat": 55.75723,
+        "lng": 37.52571
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>ГУП Автокомбинат «МОСАВТОСАНТРАНС» (МАСТ)</strong> - одно из крупнейших транспортных предприятий столицы. Компания с историей – нам 105 лет!</p> <p>Ежедневно на линию выходит около 1 000 наших автомобилей скорой медицинской помощи и около 1 500 автомобилей санитарного транспорта!</p> <p>Наша задача – сделать всё для того, чтобы помощь подоспела вовремя.</p> <p>В структуре компании 4 автобазы, в состав которых входят 20 автоколонн, авторемонтные мастерские и другие вспомогательные службы, а также санаторий «Битца» в Подмосковье.</p> <p>Численность сотрудников более 5 000 человек. Автопарк насчитывает более 2 500 автомобилей различного назначения. Мы продолжаем расти и развиваться.</p> <p><strong>Обязанности:</strong></p> <ul> <li>Внесение в базу данных информации по заключенным договорам с последующими изменениями;</li> <li>Отслеживание часов и сумм по договорам;</li> <li>Отслеживание сроков исполнения договоров;</li> <li>Формирование отчетов .</li> </ul> <strong>Требования:</strong> <ul> <li>грамотная письменная речь ;</li> <li>ПК- уверенный пользователь;</li> <li>уверенные знания Ecxel, 1С ERP. </li> </ul> <strong>Условия:</strong> <ul> <li>Официальное оформление согласно ТК РФ;</li> <li>Возможность карьерного роста;</li> <li>График работы: 5/2 с 08:00 до 17:00(Пн-Чт) и с 08:00 до 16:00(Пт);</li> <li>Работает профсоюз: организуем поездки на экскурсии, походы в театры, спортивные соревнования, в том числе участие команд в спартакиадах медиков и другие культурно-массовые мероприятия;</li> <li>Корпоративный транспорт;</li> <li>Дружный коллектив.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "10",
+      "name": "Аналитик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3365154",
+    "name": "ГУП Автокомбинат Мосавтосантранс",
+    "url": "https://api.hh.ru/employers/3365154",
+    "alternate_url": "https://hh.ru/employer/3365154",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1402817.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7230940.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7230941.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3365154",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-21T08:20:34+0300",
+  "created_at": "2025-05-21T08:20:34+0300",
+  "initial_created_at": "2025-04-21T17:09:10+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119785032",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119785032",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

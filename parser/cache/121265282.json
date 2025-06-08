@@ -1,0 +1,174 @@
+{
+  "id": "121265282",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Технический писатель",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "улица Двинцев",
+    "building": "12к1С",
+    "lat": 55.796506,
+    "lng": 37.600648,
+    "description": null,
+    "raw": "Москва, улица Двинцев, 12к1С",
+    "metro": {
+      "station_name": "Марьина Роща",
+      "line_name": "Люблинско-Дмитровская",
+      "station_id": "10.185",
+      "line_id": "10",
+      "lat": 55.793723,
+      "lng": 37.61618
+    },
+    "metro_stations": [
+      {
+        "station_name": "Марьина Роща",
+        "line_name": "Люблинско-Дмитровская",
+        "station_id": "10.185",
+        "line_id": "10",
+        "lat": 55.793723,
+        "lng": 37.61618
+      },
+      {
+        "station_name": "Савёловская",
+        "line_name": "Серпуховско-Тимирязевская",
+        "station_id": "9.128",
+        "line_id": "9",
+        "lat": 55.794054,
+        "lng": 37.587163
+      },
+      {
+        "station_name": "Савёловская",
+        "line_name": "Большая кольцевая линия",
+        "station_id": "97.685",
+        "line_id": "97",
+        "lat": 55.794054,
+        "lng": 37.587163
+      },
+      {
+        "station_name": "Савёловская",
+        "line_name": "МЦД-1",
+        "station_id": "131.699",
+        "line_id": "131",
+        "lat": 55.793936,
+        "lng": 37.587038
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Российский разработчик продуктов в области информационной безопасности ищет к себе в команду Технического писателя.</strong></p> <p>Мы — прогрессивная команда<br />IT-специалистов в области разработки средств информационной безопасности, обработки и анализа данных, а также роботизации бизнес-процессов</p> <p>Обещаем много интересной работы на динамично растущем рынке, достойных вызовов, рост вместе с бизнесом и команду единомышленников!</p> <p><strong>Задачи, которые необходимо решать Техническому писателю:</strong></p> <ul> <li>Разработка, верстка и редактирование эксплуатационной документации для наших собственных продуктов в области информационной безопасности.</li> <li>Создание документации, необходимой для получения сертификаций и гарантированной безопасности.</li> <li>Умение разбираться в продукте, его интерфейсах и сценариях использования, общаться с разработчиками, аналитиками владельцами продукта для получения информации.</li> <li>Перевод эксплуатационной документации на русский язык, раскрывая преимущества и особенности продуктов.</li> <li>Аналитические способности для анализа требования, контактов с разными заинтересованными в документации лицами, анализ объемов и оценка сроков разработки документации.</li> </ul> <p><strong>Какие знания, навыки и опыт необходимы для реализации задач (важно не знание всех требований, а желание быстро освоить и развиваться в данной области):</strong></p> <ul> <li>Опыт работы с Gitlab и языками разметки Markdown, AsciiDoc, HTML.</li> <li>Знание ГОСТов, связанных с технической документацией, знание ЕСПД.</li> <li>Опыт разработки конструкторской и эксплуатационной документации.</li> <li>Владение Hugo Documentation, Atlassian Jira, и Confluence.</li> <li>Способность читать и понимать техническую литературу на английском языке.</li> </ul> <p><strong>Желательно (не обязательно)</strong></p> <ul> <li> <p>Понимание принципов информационной безопасности и функционирования программного обеспечения.</p> </li> <li> <p>Опыт в области информационной безопасности: PAM-системы.</p> </li> </ul> <p><strong>#NGRTeam предлагает своим сотрудникам:</strong></p> <p><em>Забота о достатке:</em></p> <ul> <li>Достойный уровень оплаты труда.</li> <li>Понятная система премирования.</li> </ul> <p><em>Забота о развитии:</em></p> <ul> <li>Работа в команде профессионалов.</li> <li>Возможность профессионального развития и карьерного роста.</li> </ul> <p><em>Забота о комфорте:</em></p> <ul> <li>Возможность полностью удаленной работы в РФ (по часовому поясу Москвы).</li> <li>Эргономичное рабочее место.</li> <li>Зоны отдыха.</li> <li>Кофе, чай, сладости.</li> <li>Корпоративные мероприятия и т.п.</li> </ul> <p><em>Забота о здоровье:</em></p> <ul> <li>Бесплатная медицинская страховка после испытательного срока.</li> <li>21 день 100% оплачиваемых дней отсутствия по болезни.</li> </ul> <p><em>Забота о времени:</em></p> <ul> <li>офис в центре города (10 минут пешком от метро Савеловская или Марьина Роща).</li> </ul> <ul> <li>Возможность гибкого начала/окончания рабочего дня.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Разработка технической документации"
+    },
+    {
+      "name": "Сбор требований"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "126",
+      "name": "Технический писатель"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5403296",
+    "name": "NGRSOFTLAB",
+    "url": "https://api.hh.ru/employers/5403296",
+    "alternate_url": "https://hh.ru/employer/5403296",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1066143.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5885205.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5885206.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5403296",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T09:29:14+0300",
+  "created_at": "2025-06-06T09:29:14+0300",
+  "initial_created_at": "2025-06-03T09:29:14+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121265282",
+  "has_test": true,
+  "test": {
+    "required": true
+  },
+  "alternate_url": "https://hh.ru/vacancy/121265282",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

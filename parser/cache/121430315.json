@@ -1,0 +1,117 @@
+{
+  "id": "121430315",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "DevOps-инженер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "Компания <strong>Inreco LAN</strong> успешно занимается разработкой ПО и помогает клиентам придумывать, разрабатывать и внедрять программные продукты и автоматизированные системы. Мы приглашаем в команду <strong>DevOps-инженера</strong>, который будет развиваться вместе с нами и усилит нашу команду для реализации наших внутренних проектов и проектов заказчиков.<br /><br /><strong>Обязанности:</strong> <ul> <li>Поддержка и модернизация конвейера сборки и доставки (CI/CD pipelines);</li> <li>Обеспечение бесперебойной работы критичных сервисов, развитие и поддержка инфраструктуры;</li> <li>Настрoйка, поддержка и модернизация платформы мониторинга и оповещений;</li> <li>Выявление узких мест в работе систем;</li> <li>Разработка инструментов и автоматизация процессов развертывания систем, проектов и окружений;</li> <li>Автоматизация рутинных операций.</li> </ul> <strong>Требования:</strong> <ul> <li> <p>Знания Linux систем на уровне администратора;</p> </li> <li> <p>Уверенные знания сетей TCP/IP, сетевых технологий и протоколов;</p> </li> <li> <p>Работа с Git;</p> </li> <li> <p>Знания и опыт построения CI/CD-процессов (Gitlab\\Teamcity\\Jenkins);</p> </li> <li> <p>Уверенные знания контейнеризации и оркестрации (Docker\\Postman\\ Compose\\ Kubernetes\\ Openshift);</p> </li> <li> <p>Опыт автоматизации рутинных операций (Bash\\Python);</p> </li> <li> <p>Опыт работы с СУБД (Postgre SQL\\MySQL\\MS SQL);</p> </li> <li> <p>Мониторинг (Prometheus\\Grafana\\Zabbix);</p> </li> <li> <p>Работа с брокерами очередей(RabbitMq\\Kafka);</p> </li> <li> <p>Выстраивание IaC c помощью Ansible;</p> </li> <li> <p>Логирование (ELK\\Opensearch);</p> </li> <li> <p>Опыт настройки балансировщиков нагрузки (Nginx\\HaProxy);</p> </li> <li> <p>Ответственность за выполнение задач и сроки исполнения.</p> </li> </ul> <p><strong>Будет преимуществом:</strong></p> <ul> <li> <p>Опыт работы с S3;</p> </li> <li> <p>Опыт работы с гео-распределенными приложениями.</p> </li> </ul> <strong>Условия:</strong> <ul> <li>Работа в аккредитованной ИТ- компании;</li> <li>Конкурентные условия труда, с учетом квалификации и опыта;</li> <li>Работа в комфортном офисе или дистанционно, гибкий график работы;</li> <li>Получение профессионального опыта – командная работа в интересных проектах;</li> <li>Релокационный пакет при желании переезда к нам из другого города (оплата стоимости аренды жилья)</li> <li>Финансовая поддержка со стороны компании при значимых событиях в жизни сотрудника.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "160",
+      "name": "DevOps-инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "113313",
+    "name": "Инрэко ЛАН",
+    "url": "https://api.hh.ru/employers/113313",
+    "alternate_url": "https://hh.ru/employer/113313",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1391747.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7186771.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7186772.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=113313",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T16:49:09+0300",
+  "created_at": "2025-06-06T16:49:09+0300",
+  "initial_created_at": "2025-06-06T16:49:09+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121430315",
+  "has_test": true,
+  "test": {
+    "required": true
+  },
+  "alternate_url": "https://hh.ru/vacancy/121430315",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

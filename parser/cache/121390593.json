@@ -1,0 +1,125 @@
+{
+  "id": "121390593",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Младший аналитик данных",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 70000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 70000,
+    "to": null,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Начинаешь путь в аналитике данных и хочешь развиваться в сильной IT-команде? Мы ищем Junior Data Analyst в аккредитованную и быстрорастущую IT-компанию!</p> <p>Мы предоставляем специалистам интересные задачи и проекты разной сложности, поддерживаем рост и гарантируем качество — и ждем в команду тех, кто хочет расти вместе с нами.</p> <p><strong>Что тебя ждет:</strong></p> <ul> <li> <p>Удалённый формат работы </p> </li> <li> <p>Современные инструменты и подходы к автоматизации</p> </li> <li> <p>Возможности для обучения и прокачки навыков</p> </li> <li> <p>Дружелюбная команда и поддержка наставников<br />Конкурентоспособная зарплата от 70 000 ₽</p> </li> </ul> <p><strong>Что нам важно:</strong></p> <ul> <li> <p>Уверенное владение SQL — умение извлекать и обрабатывать данные</p> </li> <li> <p>Базовые навыки Python — для анализа и обработки данных</p> </li> <li> <p>Знание статистики и теории вероятностей</p> </li> <li> <p>Опыт проведения A/B-тестов и понимание их принципов</p> </li> <li> <p>Умение работать с BI-системами (визуализация данных)</p> </li> <li> <p>Базовые знания в ML — понимание основ моделирования</p> </li> <li> <p>Навыки продуктовой аналитики: выбор и интерпретация метрик</p> </li> <li> <p>Знание EDA (разведочный анализ данных)</p> </li> <li> <p>Внимательность, логика, желание учиться и развиваться<br /></p> </li> </ul> <p>Если ты хочешь получить крутой старт в аналитике — откликайся, мы на связи!</p> <p><strong>Ключевые навыки:</strong> SQL, Python, A/B testing, BI, ML base, EDA, продуктовая аналитика</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "156",
+      "name": "BI-аналитик, аналитик данных"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5995606",
+    "name": "Панина Анастасия Александровна",
+    "url": "https://api.hh.ru/employers/5995606",
+    "alternate_url": "https://hh.ru/employer/5995606",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5995606",
+    "accredited_it_employer": false,
+    "trusted": false
+  },
+  "published_at": "2025-06-05T15:42:16+0300",
+  "created_at": "2025-06-05T15:42:16+0300",
+  "initial_created_at": "2025-06-05T15:42:16+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121390593",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121390593",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "id": "120480130",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист по тестированию ПО/тестировщик ПО (удаленная работа)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 120000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 120000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Мы стабильно растущая аккредитованная ИТ компания с 20 летней историей, владелец собственного SааS продукта для B2B рынка.</strong></p> <p><strong>Разрабатываем и продвигаем платформу мониторинга автотранспортных средств (M2M/IOT).</strong></p> <p>Наши заказчики – крупные компании с большими парками автотранспорта.</p> <p><strong>Должностные обязанности:</strong></p> <ul> <li>Тестировать web-приложение, API, десктопные и мобильные приложения (iOS и Android), интеграции с внешними сервисами и оборудованием на соответствие функциональным и нефункциональным требованиям.</li> <li>Анализировать и прорабатывать требования к новой и существующей функциональности вместе с командой.</li> <li>Выполнять регрессионное тестирование.</li> <li>Писать и поддерживать тестовую документацию (тест-планы, чек-листы и сценарии тестирования) и внутреннюю документацию на продукт.</li> <li>Анализировать сообщения о багах от пользователей.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li><strong>Опыт работы в тестировании от двух лет.</strong></li> <li>Опыт работы с баг-трекинговыми системами (мы используем redmine).</li> <li>Понимание работы веба, знание сетевых протоколов.</li> <li>Внимательность, аккуратность, педантичность, ответственность, умение работать в команде.</li> <li>Грамотная письменная речь.</li> <li>Знания английского языка приветствуется.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> </ul> <ul> <li>Знание инструмента Selenium.</li> <li>Опыт тестирования различных API (postman / soapui).</li> <li>Опыт тестирования мобильных приложений (android / ios)</li> <li>Вам знакомы системы контроля версий.</li> <li>Вы использовали Unix/Linux и знакомы с командной строкой.</li> <li>Базовые знания SQL.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Трудоустройство в соответствии с ТК РФ.</li> <li>Конкурентная заработная плата.</li> <li>Полная занятость, гибкий график работы.</li> <li>Молодой дружный коллектив.</li> <li>Предоставление корпоративной техники.</li> <li>Удаленный формат работы.</li> </ul> <p> </p> <p> </p> <ul> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Опыт работы с баг-трекинговыми системами (мы используем redmine)"
+    },
+    {
+      "name": "Понимание работы веба, знание сетевых протоколов."
+    },
+    {
+      "name": "Selenium"
+    },
+    {
+      "name": "API"
+    },
+    {
+      "name": "Postman"
+    },
+    {
+      "name": "SoapUI"
+    },
+    {
+      "name": "android / ios"
+    },
+    {
+      "name": "Backend"
+    },
+    {
+      "name": "Базы данных"
+    },
+    {
+      "name": "frontend"
+    },
+    {
+      "name": "MySQL"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9981531",
+    "name": "Ситипоинт",
+    "url": "https://api.hh.ru/employers/9981531",
+    "alternate_url": "https://hh.ru/employer/9981531",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1117142.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6089165.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6089166.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9981531",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-13T14:50:50+0300",
+  "created_at": "2025-05-13T14:50:50+0300",
+  "initial_created_at": "2025-05-13T14:50:50+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120480130",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120480130",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,145 @@
+{
+  "id": "120435714",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Cтарший разработчик баз данных",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Графский переулок",
+    "building": "14к2",
+    "lat": 55.802462,
+    "lng": 37.641126,
+    "description": null,
+    "raw": "Москва, Графский переулок, 14к2",
+    "metro": {
+      "station_name": "Алексеевская",
+      "line_name": "Калужско-Рижская",
+      "station_id": "6.8",
+      "line_id": "6",
+      "lat": 55.807794,
+      "lng": 37.638699
+    },
+    "metro_stations": [
+      {
+        "station_name": "Алексеевская",
+        "line_name": "Калужско-Рижская",
+        "station_id": "6.8",
+        "line_id": "6",
+        "lat": 55.807794,
+        "lng": 37.638699
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><br /><strong>Обязанности:</strong></p> <ul> <li>Разработка и оптимизация функций, процедур и сложных SQL-запросов в Oracle и PostgreSQL.</li> <li>Создание, оптимизация и поддержка ETL-процессов.</li> <li>Анализ и оптимизация производительности баз данных, работа с планами выполнения запросов.</li> <li>Проектирование и развитие хранилища данных (DWH), организация слоёв и моделей данных.</li> <li>Взаимодействие с архитекторами и аналитиками, участие в проектировании решений.</li> <li>Участие в code review, поддержка и наставничество коллег.</li> </ul> <p> </p> <p><strong>Требования:</strong></p> <ul> <li>Высшее профильное образование;</li> <li>Стаж в IT более 5 лет.</li> <li>Практический опыт проектирования и реализации хранилищ данных (DWH), организация архитектуры слоёв.</li> <li>Глубокое знание SQL, уверенное владение PL/SQL (Oracle) и PL/pgSQL (PostgreSQL).</li> <li>Опыт разработки и оптимизации функций, процедур, пакетов; эффективная работа с большими объёмами данных.</li> <li>Опыт написания и оптимизации сложных запросов с аналитическими, оконными функциями, секционирования таблиц и настройки индексов.</li> <li>Знание подходов к моделированию данных для DWH (Data Vault и аналогичные методологии).</li> <li>Опыт построения и оптимизации ETL-процессов.</li> <li>Опыт совместной работы в проектных командах.</li> </ul> <p><strong>Дополнительно:</strong></p> <ul> <li>Готовность активно разбираться в чужом коде и нестандартных решениях.</li> <li>Проактивная позиция в реализации хранилища данных с учётом ограничений проекта.</li> <li>Способность работать в условиях неопределённости и достижение целей в сложной проектной среде.</li> </ul> <p> </p> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт миграции решений с Oracle на PostgreSQL.</li> <li>Опыт работы с Liquibase (настройка процессов миграции БД).</li> <li>Знание и опыт применения расширений PostgreSQL.</li> <li>Опыт работы с PostgreSQL Pro и его возможностями.</li> <li>Опыт настройки и работы с Apache Airflow для оркестрации ETL-процессов.</li> <li>Опыт подготовки технических статей, ведения внутренней документации (Confluence).</li> </ul> <p> </p> <p> </p> <p><strong>Условия:</strong></p> <ul> <li>«Белую» заработную плату, оформление по ТК РФ;</li> <li>ФОРС – Центр разработки является аккредитованной ИТ-компанией;</li> <li>ДМС, НС - после испытательного срока (3 месяца)+ страховка выезда зарубеж (полис ВЗР);</li> <li>Техника, по выбору;</li> <li>Возможность профессионального и карьерного развития, участие в конференциях;</li> <li>Дополнительный выходной день, в честь дня рождения.</li> <li>Комфортные условия труда.</li> </ul> <p> </p> <p> </p> <p> </p> <p> </p> <p> </p> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "DWH"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2417",
+    "name": "ФОРС",
+    "url": "https://api.hh.ru/employers/2417",
+    "alternate_url": "https://hh.ru/employer/2417",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/365953.png",
+      "90": "https://img.hhcdn.ru/employer-logo/1906070.png",
+      "240": "https://img.hhcdn.ru/employer-logo/1906071.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2417",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-12T20:27:56+0300",
+  "created_at": "2025-05-12T20:27:56+0300",
+  "initial_created_at": "2025-05-12T20:27:56+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120435714",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120435714",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

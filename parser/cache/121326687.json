@@ -1,0 +1,157 @@
+{
+  "id": "121326687",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "C#/.NET-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Большой Саввинский переулок",
+    "building": "12с8",
+    "lat": 55.732676,
+    "lng": 37.56273,
+    "description": null,
+    "raw": "Москва, Большой Саввинский переулок, 12с8",
+    "metro": {
+      "station_name": "Киевская",
+      "line_name": "Арбатско-Покровская",
+      "station_id": "3.47",
+      "line_id": "3",
+      "lat": 55.743117,
+      "lng": 37.564132
+    },
+    "metro_stations": [
+      {
+        "station_name": "Киевская",
+        "line_name": "Арбатско-Покровская",
+        "station_id": "3.47",
+        "line_id": "3",
+        "lat": 55.743117,
+        "lng": 37.564132
+      },
+      {
+        "station_name": "Спортивная",
+        "line_name": "Сокольническая",
+        "station_id": "1.135",
+        "line_id": "1",
+        "lat": 55.722388,
+        "lng": 37.562041
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>«ДеньгиОк» -</strong> это одна из самых перспективных компаний в сфере финансирования. Наша команда успешно запустила и развивает много проектов в сфере финансирования в России!</p> <p>У нас открыта вакансия:<strong> C#/.NET-разработчик!</strong></p> <p><strong>Как мы видим нашего идеального кандидата:</strong></p> <p><strong>Бэкенд:</strong> С#, ASP.NET (Разработка ведётся под CMS: Orchard, Orchard Core), база данных MS SQL, MongoDB, система контроля версий Git, работа ведётся через Jira.</p> <p><strong>Фронтенд:</strong> Razor Pages, Blazor, вёрстка на bootstrap.</p> <p><strong>Ожидания от кандидата:</strong></p> <ul> <li>Опыт работы с C# и .NET;</li> <li>Уверенные знания Git;</li> <li>Опыт работы с MS SQL;</li> <li>Опыт разработки веб-приложений;</li> <li>Опыт в сфере финтеха;</li> <li>Наличие образования в сфере экономики будет плюсом;</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Оклад обсуждается с успешным кандидатом;</li> <li>Оформление согласно ТК РФ;</li> <li>Выплаты заработной платы 2 раза в месяц;</li> <li>Ежегодный оплачиваемый отпуск;</li> <li>Стабильный график 5/2 (Возможно работать удалённо);</li> <li>Профессиональный и карьерный рост;</li> <li>Дружный коллектив;</li> <li>Офис в центре города, удобная транспортная развязка;</li> <li>Чай, кофе, печеньки и хорошее настроение за счёт компании.<br /><br /><strong>Откликайся на вакансию – стань частью нашей команды!</strong></li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11907412",
+    "name": "МКК ДеньгиОК",
+    "url": "https://api.hh.ru/employers/11907412",
+    "alternate_url": "https://hh.ru/employer/11907412",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1407857.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7251092.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7251093.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11907412",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T10:59:26+0300",
+  "created_at": "2025-06-07T10:59:26+0300",
+  "initial_created_at": "2025-06-04T10:59:26+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121326687",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121326687",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

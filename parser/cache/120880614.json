@@ -1,0 +1,123 @@
+{
+  "id": "120880614",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Senior Golang Developer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Обязанности:</strong></p> <ul> <li>Разработка высоконагруженного блочного и файлового хранилища, которое будет хранить петабайты данных;</li> <li>Решение задач отказоустойчивости, консистентности и производительности;</li> <li>Оптимизировать путь IO снижая latency запросов до сотен микросекунд и выжимая еще больше IOPS на кластере;</li> <li>Разрабатывать специализированные структуры данных и алгоритмы;</li> <li>Участвовать в проектировании новых фич и систем;</li> <li>Реализация API для интеграции с платформой и другими сервисами компании;</li> <li>Написание юнит и простых интеграционных тестов для нового кода.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Практический опыт разработки на Go от 5 лет;</li> <li>Базовые представления о системной разработке, принципах работы ОС и сети;</li> <li>Понимание принципов построения распределенных систем: шардирование, репликация, и тп.;</li> <li>Уверенный пользователь Linux (работа с файлами, ssh, systemctl, fio);</li> <li>Стек: Golang, GRPC, Protobuf, Dragonboat RAFT, Pebble (KV store).</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Golang"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "gRPC"
+    },
+    {
+      "name": "MongoDB"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1178447",
+    "name": "Umbrella IT",
+    "url": "https://api.hh.ru/employers/1178447",
+    "alternate_url": "https://hh.ru/employer/1178447",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/854144.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/3857451.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3857452.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1178447",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-22T17:28:35+0300",
+  "created_at": "2025-05-22T17:28:35+0300",
+  "initial_created_at": "2025-05-22T17:28:35+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120880614",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120880614",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

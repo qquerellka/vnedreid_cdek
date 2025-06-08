@@ -1,0 +1,173 @@
+{
+  "id": "120815708",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Backend-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 150000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 150000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "MONTHLY",
+      "name": "Раз в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>FLG</strong> - логистическая компания для успешного ведения бизнеса с Китаем.</p> <p>Мы сделали первую в РФ платформу-расширение для выкупа товаров с 1688.com и приложение-маркетплейс для выкупа брендовых товаров с Poizon.</p> <p>Нашу небольшую IT- команду нужно усилить Backend-разработчиком, чтобы сделать наш продукт ещё лучше!</p> <p><strong>Обязанности:</strong></p> <ul> <li>Реализовывать и поддерживать функционал для ключевых бизнес‑функций: обработка заказов, управление каталогом товаров, интеграциями</li> <li>Обеспечивать надёжность и своевременную синхронизацию данных с внешними API</li> <li>Разрабатывать микросервисы и бизнес‑логику, следуя принципам Clean Architecture, DDD</li> <li>Анализировать существующий код, выявлять узкие места и оптимизировать производительность</li> <li>Участвовать в проектировании новых функциональных модулей и масштабировании системы.</li> </ul> <p>По желанию: писать техническую документацию, участвовать в обсуждении архитектуры и Code Review.</p> <p><strong>Технологический стек:</strong></p> <p>1. Языки: .NET, Go, Python (в зависимости от задачи)<br />2. Инфраструктура: GitLab CI, Docker, Kubernetes<br />3. Коммуникации: HTTP, gRPC, Kafka<br />4. Базы данных: PostgreSQL, MongoDB, Redis</p> <p><strong>Ключевые требования:</strong></p> <ul> <li>2+ года опыта в backend‑разработке и уверенное владение одним из языков: Go / Python / .NET</li> <li>Инженерное мышление: умение выстраивать абстракции, разделять ответственность и писать поддерживаемый код</li> <li>Опыт оптимизации: от поиска узких мест до рефакторинга кода</li> <li>Навык написания unit‑ и интеграционных тестов</li> <li>Готовность быстро влиться в проект и самостоятельно решать задачи.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт разработки высоконагруженных систем и профилирования кода</li> <li>Навык организации тестовых сред и автоматизации тестирования</li> <li>Реальный опыт оптимизации архитектуры и кода под нагрузкой</li> <li>Опыт с Kafka, gRPC</li> <li>Понимание CI/CD‑процессов</li> </ul> <p><strong>Почему стоит присоединиться к нам:</strong></p> <ul> <li> <p>уникальная возможность участвовать в развитии и масштабировании успешной компании;</p> </li> <li> <p>активная работа с AI‑инструментами и агентами в процессе разработки;</p> </li> <li> <p>полностью удаленная работа пн-пт с 9:00 до 18:00 по московскому времени;</p> </li> <li> <p>дружный, молодой коллектив, ценящий твои идеи и стремящийся к совместному росту;</p> </li> <li> <p>возможности для профессионального и личностного развития через обучение и практическую работу;</p> </li> <li> <p>поздравления и подарки на праздники, корпоративные онлайн-мероприятия (играем в мафию, монополию, Dota, CS и др.)</p> </li> </ul> <p><em><strong>Присоединяйтесь, будет интересно;)</strong></em></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": ".NET Core"
+    },
+    {
+      "name": ".NET Framework"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Gitlab"
+    },
+    {
+      "name": "CI/CD"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "HTTP"
+    },
+    {
+      "name": "gRPC"
+    },
+    {
+      "name": "Apache Kafka"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "MongoDB"
+    },
+    {
+      "name": "Redis"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "10094606",
+    "name": "FLG",
+    "url": "https://api.hh.ru/employers/10094606",
+    "alternate_url": "https://hh.ru/employer/10094606",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1132931.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6152313.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6152314.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10094606",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T12:57:08+0300",
+  "created_at": "2025-06-05T12:57:08+0300",
+  "initial_created_at": "2025-05-21T12:57:08+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120815708",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120815708",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

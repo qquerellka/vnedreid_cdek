@@ -1,0 +1,132 @@
+{
+  "id": "120655087",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Junior Python Разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 100000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<div> <div> <p><strong>SOLAR AI</strong> — IT-компания, которая делает разнообразные проекты для крупных клиентов и поддерживает сотрудников в развитии. У нас работают специалисты самых разных профилей, и мы открыты для тех, кто только начинает свой путь.</p> <p><strong>Задачи:</strong></p> <ul> <li>Разрабатывать и поддерживать backend-сервисы на Python.</li> <li>Создавать RESTful API и настраивать интеграции с внешними и внутренними системами.</li> <li>Работать с базами данных (например, PostgreSQL, Redis) и писать эффективные SQL-запросы.</li> <li>Использовать Docker, Git и современные подходы к CI/CD.</li> <li>Писать чистый, тестируемый код и участвовать в код-ревью.</li> <li>Оптимизировать сервисы для высокой производительности и масштабируемости.</li> </ul> <p><strong>Мы ожидаем:</strong></p> <ul> <li> <p>Базовые знания SQL и понимание работы с СУБД (например, PostgreSQL).</p> </li> <li> <p>Опыт написания API (FastAPI / Django REST Framework) или желание быстро в этом разобраться.</p> </li> <li> <p>Навыки работы с Git и командной строкой.</p> </li> <li> <p>Умение писать чистый и понятный код, стремление к развитию.</p> </li> <li> <p>Английский на уровне чтения документации.</p> </li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт с асинхронным программированием (async/await).</li> <li>Знание Docker или инструментов CI/CD (GitLab CI, GitHub Actions).</li> <li>Знакомство с MongoDB, ClickHouse или Redis.</li> <li>Опыт написания тестов (pytest, unittest).</li> <li>Понимание микросервисной архитектуры.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li> <p>Оформление по ТК РФ в аккредитованной IT-компании с 3-летней историей;</p> </li> <li> <p>Пятница сокращенный день до 16:45;</p> </li> <li> <p>10 оплачиваемых дней больничного + 10 дополнительных &quot;внутренних&quot; дней в год, компенсируем до 100% оклада;</p> </li> <li> <p>Обучение и рост: оплачиваем курсы, сертификации, участие в конференциях и хакатонах;</p> </li> <li> <p>Наставник и понятный план развития с регулярной обратной связью по коду и моделям.</p> </li> <li> <p>Участие в крупных профильных событиях: HighLoad++, Linkmeup, DevOpsConf и др.;</p> </li> <li> <p>Современная техника: MacBook M2+;</p> </li> <li> <p>Уютный офис у м. Савёловская / Дмитровская (рядом D1, D2, D4), с авто- и велопарковками;</p> </li> <li> <p>Социальный пакет на выбор после испытательного срока: ДМС, компенсация фитнеса, курсы английского, check-up;</p> </li> <li> <p>Инфраструктура для комфорта: спортзал, массажный кабинет и кресла, лаунж-зоны, капсулы, кофейни, библиотека, акустические зоны, живые рыбки;</p> </li> </ul> </div> </div>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "11988991",
+    "name": "Батенев Родион Евгеньевич",
+    "url": "https://api.hh.ru/employers/11988991",
+    "alternate_url": "https://hh.ru/employer/11988991",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11988991",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-17T12:12:37+0300",
+  "created_at": "2025-05-17T12:12:37+0300",
+  "initial_created_at": "2025-05-17T12:12:37+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120655087",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120655087",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "121329739",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "SQL Developer (SQL Server Reporting Services)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Мы расширяем технологические возможности бизнеса и создаём качественный софт с 1993 года. Наши заказчики — крупные международные компании, лидеры в сферах обучения и сертификации, фармацевтики, здравоохранения, управления предприятием, медиа и безопасности.</p> <p>Наш заказчик – крупная производственная компания. Обязанности включают участие в проектах по разработке новых систем и поддержку существующей системы управления производственным процессом, её оптимизацию и расширение функциональности. Система обеспечивает важную часть производственного цикла крупной промышленной компании. Особое внимание при разработке и поддержке системы уделяется обеспечению её отказоустойчивости и надёжности.</p> <p><strong>Обязанности:</strong></p> <ul> <li>изменение и разработка отчётов и датасетов на SQL Server Reporting Services;</li> <li>разработка и оптимизация SQL запросов, хранимых процедур;</li> <li>участие в Scrum проектах в качестве разработчика;</li> <li>работа в офисе (Санкт-Петербург).</li> </ul> <p><strong>Чего мы ожидаем от успешного кандидата:</strong></p> <ul> <li>знания, наличия практики и уверенного понимания разработки на SQL Server Reporting Services;</li> <li>опыта оптимизации сложных запросов SQL Server 2008 R2, SQL 2014;</li> <li>знания SQL Server Integration Services;</li> <li>знания MS SQL 2016;</li> <li>базовых знаний C# и VB;</li> <li>знание NiFi и Grafana будет преимуществом.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>официальное оформление, белая зарплата, отпуск согласно ТК РФ;</li> <li>ДМС после испытательного срока, 100% оплата больничных;</li> <li>дружная команда и интересные задачи;</li> <li>возможности профессионального роста;</li> <li>удобные и современные рабочие места;</li> <li>релокационный бонус для иногородних кандидатов при переезде.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "SQL Server"
+    },
+    {
+      "name": "SQL Server Reporting Services"
+    },
+    {
+      "name": "Server Integration Services"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9280477",
+    "name": "Software Country (ТОО Балхаш Системс)",
+    "url": "https://api.hh.ru/employers/9280477",
+    "alternate_url": "https://hh.ru/employer/9280477",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1061301.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5865837.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5865838.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9280477",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T11:37:02+0300",
+  "created_at": "2025-06-04T11:37:02+0300",
+  "initial_created_at": "2025-06-04T11:37:02+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121329739",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121329739",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

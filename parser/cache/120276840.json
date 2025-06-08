@@ -1,0 +1,152 @@
+{
+  "id": "120276840",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Системный администратор",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 50000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 50000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "Рижский переулок",
+    "building": "16",
+    "lat": 56.78386,
+    "lng": 60.60061,
+    "description": null,
+    "raw": "Екатеринбург, Рижский переулок, 16",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>ГАУЗ СО ЦГКБ №24 приглашает на работу системного администратора.</p> <p><strong>О РАБОТЕ:</strong></p> <ul> <li>Администрирование Windows Server 2012/2016/2019 (AD, DNS, GPO, DHCP);</li> <li>Знание протокола TCP/IP;</li> <li>Работа с устройствами ЛВС, построение корпоративных сетей, настройка сетевого оборудования. Умение работать с управляемым сетевым оборудованием и оборудованием Mikrotik;</li> <li>Техническая поддержка пользователей;</li> <li>Установка ПО;</li> <li>Обслуживание сетевой инфраструктуры, ПК, принтеров и других доп.устройств (настройка,замена);</li> <li> <p><strong>ЖДЕМ ОТ ВАС:</strong></p> </li> <li>Высшее, среднее образование.</li> <li>Опыт работы;</li> <li>Ответственность, обучаемость.</li> </ul> <p><strong>МЫ ПРЕДЛАГАЕМ:</strong></p> <ul> <li>Активная общественная и культурная жизнь;</li> <li>Компенсация расходов проф.осмотра при трудоустройстве;</li> <li>График работы 5/2 8-00-17-00;</li> <li>Стабильная заработная плата;</li> <li>Место работы район: Чкаловский, Рижский пер,16;</li> <li>Официальное трудоустройство; соц пакет;</li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Настройка серверов"
+    },
+    {
+      "name": "настройка сетевого оборудования"
+    },
+    {
+      "name": "Администрирование серверов"
+    },
+    {
+      "name": "windows"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "MikroTik"
+    },
+    {
+      "name": "Cisco"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4445933",
+    "name": "ГАУЗ СО ЦГКБ №24",
+    "url": "https://api.hh.ru/employers/4445933",
+    "alternate_url": "https://hh.ru/employer/4445933",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4445933",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-02T08:10:10+0300",
+  "created_at": "2025-06-02T08:10:10+0300",
+  "initial_created_at": "2025-05-06T12:24:43+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120276840",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120276840",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

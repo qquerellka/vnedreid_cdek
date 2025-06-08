@@ -1,0 +1,152 @@
+{
+  "id": "121321896",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Специалист технической поддержки 2-3 линия",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 60000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 60000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><em>Ищем в свою команду разработки Специалиста технической поддержки 2-3 линии. </em></p> <p><em><em>Если после прочтения требований вы понимаете, что знаете не </em>все, что описано — мы все равно можем рассмотреть вас, как потенциального кандидата. </em></p> <p><em>Самое главное это большое желание и готовность очень быстро учиться!</em></p> <p><strong>Обязанности:</strong></p> <ul> <li>Коммуникация со смежными отделами (отделом андеррайтинга, юристами, аналитиком etc).</li> <li>Оказание техподдержки 2-3 линии для внутренних сотрудников (включая оперативную реакцию на проблемы через чаты).</li> <li>Расследование найденных &quot;багов&quot; и последующее их описание (на чьей стороне произошла ошибка, как исправить, есть ли ошибка в принципе и т.п.).</li> <li>Выполнение операционных задач в CRM системах.</li> <li>Тестирование продуктов компании и передача информации в соответствующие отделы.</li> </ul> <strong>Требования:</strong> <ul> <li>Образование предпочтительно техническое/ IT (в том числе курсы IT).</li> <li>Базовые знания SQL обязательно.</li> <li>Базовые знания любого языка программирования будут большим преимуществом!</li> <li>Понимание что это и зачем нужны Postman/Swagger .</li> <li>Четкое понимание как работает связь front - back.</li> <li>Базовые навыки тестирования.</li> <li>Системы контроля версий — желательно понимать зачем нужны, будет преимуществом опыт работы с веб интерфейсами.</li> <li>Умение пользоваться консолью разработчика в браузере обязательно!</li> <li>Сформированные навыки работы с большим количеством информации.</li> <li>Умение грамотно формулировать и объяснять суть технических вопросов.</li> <li>Большое желание учиться и развиваться в профессии.</li> </ul> <strong>Условия:</strong> <ul> <li>График работы обсуждается (5/2 или 2/2).</li> <li>Удаленная работа.</li> <li>Оформление возможно по ТК РФ, по ГПХ (готовы обсуждать на собеседовании).</li> <li>Выплата з/п на карту и всегда вовремя.</li> <li>Пересмотр зарплатной ставки по мере роста квалификации.</li> <li>Возможность быстрого развития актуальных навыков под кураторством опытного наставника.</li> <li>Возможность оформления в аккредитованную IT- компанию!</li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Работа с большим объемом информации"
+    },
+    {
+      "name": "Работа в команде"
+    },
+    {
+      "name": "Удаленная работа"
+    },
+    {
+      "name": "Тестирование"
+    },
+    {
+      "name": "Базовые знания SQL"
+    },
+    {
+      "name": "Linux"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5172404",
+    "name": "МКК Папазайм",
+    "url": "https://api.hh.ru/employers/5172404",
+    "alternate_url": "https://hh.ru/employer/5172404",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/846461.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3826719.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3826720.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5172404",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-07T09:59:54+0300",
+  "created_at": "2025-06-07T09:59:54+0300",
+  "initial_created_at": "2025-06-04T09:59:54+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121321896",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121321896",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "OTHER",
+      "name": "Другое"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

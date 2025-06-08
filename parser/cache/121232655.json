@@ -1,0 +1,159 @@
+{
+  "id": "121232655",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Программист 1С",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 100000,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 100000,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Бухарестская улица",
+    "building": "124/56",
+    "lat": 59.84428,
+    "lng": 30.410721,
+    "description": null,
+    "raw": "Санкт-Петербург, Бухарестская улица, 124/56",
+    "metro": {
+      "station_name": "Дунайская",
+      "line_name": "Фрунзенско-Приморская",
+      "station_id": "18.682",
+      "line_id": "18",
+      "lat": 59.839889,
+      "lng": 30.410667
+    },
+    "metro_stations": [
+      {
+        "station_name": "Дунайская",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.682",
+        "line_id": "18",
+        "lat": 59.839889,
+        "lng": 30.410667
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "part",
+    "name": "Частичная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Обязанности:</p> <ul> <li>Программирование, конфигурирование, поддержка и доработка типовых и не типовых конфигураций 1С под нужды организации;</li> <li>Написание отчетов, обработок, создание печатных форм;</li> <li>Настройка обменов между базами;</li> <li>Участие в проектах по автоматизации бизнес-процессов предприятия на базе 1С;</li> <li>Тестирование, документирование и сопровождение разработанного функционала;</li> <li>Работа с блоками: управленческий, бухгалтерский и налоговый учет, финансы, склад, производство;</li> <li>Обслуживание конфигураций - закрытие месяцев, чистка кэшей, настройка прав, типовых обменов;</li> <li>Администрирование системы: создание новых профилей доступа, пользователей, удаление помеченных на удаление записей и т.д.</li> </ul> <p>Требования:</p> <ul> <li>Высшее профильное образование (желательно);</li> <li>Опыт работы от 2 лет;</li> <li>Уверенное программирование в среде &quot;1С: Предприятие&quot; 8.х. Грамотный код;</li> <li>Опыт реализации различных видов обмена (web servise (api), com, ftp);</li> <li>Администрирование 1С, SQL - желательно;</li> <li>Навык работы с управляемыми формами;</li> <li>Умение использовать расширения;</li> <li>Умение реализовать обмены данных;</li> <li>Знание архитектуры типовых программных продуктов 1С и понимание клиент-серверной модели;</li> <li>Знание СКД (Система компоновки данных) - желательно.</li> </ul> <p>Условия:<br />- Частичная занятость, возможность работы удаленно</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "43881",
+    "name": "Ecogroup",
+    "url": "https://api.hh.ru/employers/43881",
+    "alternate_url": "https://hh.ru/employer/43881",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/849227.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3837783.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3837784.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=43881",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T15:52:01+0300",
+  "created_at": "2025-06-05T15:52:01+0300",
+  "initial_created_at": "2025-06-02T15:52:01+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121232655",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121232655",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "PART",
+    "name": "Частичная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "OTHER",
+      "name": "Другое"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "FLEXIBLE",
+      "name": "По договорённости"
+    }
+  ],
+  "show_logo_in_search": null
+}

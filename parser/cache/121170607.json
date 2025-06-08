@@ -1,0 +1,178 @@
+{
+  "id": "121170607",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Технический специалист",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 1420,
+    "to": null,
+    "currency": "USD",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 1420,
+    "to": null,
+    "currency": "USD",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "MONTHLY",
+      "name": "Раз в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "улица Воронцово Поле",
+    "building": "6-8с1",
+    "lat": 55.752875,
+    "lng": 37.649867,
+    "description": null,
+    "raw": "Москва, улица Воронцово Поле, 6-8с1",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<strong>Обязанности:</strong> <ul> <li>Обслуживание и ремонт бойлерных и трубопровода в Посольстве и его резиденциях, очистка оборудования от грязи и смазки; замена масла, фильтров, лампочек, ремней и батарей; смазка, регулировка и калибровка манометров, механизмов управления, насосов, клапанов, двигателей, моторов, котлов, теплообменников, лопастей, систем подачи химикатов, труб и подземных установок.</li> <li>Сотрудник принимается в штат на полный рабочий день с функциями котельщика и трубопроводчика.</li> <li>Обслуживание и ремонт систем отопления, охлаждения, водопровода и канализации; а также мелкий ремонт дверей, замков, потолков, полов и стен.</li> </ul> <strong>Требования:</strong> <ul> <li> <p>Образование не ниже среднего специального по профилю;</p> </li> <li>Хорошее знание улиц города Москва;</li> <li>Кандидат должен иметь опыт работы в крупной организации или в аналогичной сфере деятельности;</li> <li>Кандидат должен обладать хорошими навыками<br />межличностного общения, легко адаптироваться к<br />изменениям рабочей среды;</li> <li>Кандидат должен уметь хорошо изъясняться по-русски, а также читать, писать и говорить по-английски;</li> <li>Кандидат должен обладать хорошим физическим и<br />психическим здоровьем, что подтверждается<br />медицинскими справками.</li> </ul> <strong>Условия:</strong> <p>Резюме под заголовком &quot;Резюме на должность технического специалиста в Посольстве Индии в<br />Москве&quot; должно быть <strong>аккуратно напечатано на английском языке</strong> и подано вместе с копиями<br />паспорта, разрешения на работу/долгосрочной трудовой визой, подтверждением образовательной квалификации и профессионального опыта по адресу, указанному на официальном сайте Посольства Индии в Москве во вкладке &quot;Вакансии&quot; до <strong>18.06.2025</strong>.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Обслуживание и ремонт бойлерных и трубопровода"
+    },
+    {
+      "name": "Монтаж трубопроводов"
+    },
+    {
+      "name": "Слесарные работы"
+    },
+    {
+      "name": "очистка оборудования от грязи и смазки;"
+    },
+    {
+      "name": "Наладка оборудования"
+    },
+    {
+      "name": "замена масла, фильтров, лампочек, ремней и батарей;"
+    },
+    {
+      "name": "регулировка и калибровка манометров, механизмов управления, насосов,"
+    },
+    {
+      "name": "Обслуживание и ремонт систем отопления, охлаждения, водопровода и канализации;"
+    },
+    {
+      "name": "мелкий ремонт дверей, замков, потолков, полов и стен."
+    },
+    {
+      "name": "Контроль исправности оборудования"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "62001",
+    "name": "Посольство Индии",
+    "url": "https://api.hh.ru/employers/62001",
+    "alternate_url": "https://hh.ru/employer/62001",
+    "logo_urls": null,
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=62001",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-30T14:09:25+0300",
+  "created_at": "2025-05-30T14:09:25+0300",
+  "initial_created_at": "2025-05-30T14:09:25+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121170607",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121170607",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b1",
+        "name": "B1 — Средний"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ]
+}

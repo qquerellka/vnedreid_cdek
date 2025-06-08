@@ -1,0 +1,140 @@
+{
+  "id": "121346868",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Специалист технической поддержки/авиакассир",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 70000,
+    "to": 130000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 70000,
+    "to": 130000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Гороховая улица",
+    "building": "47В",
+    "lat": 59.926666,
+    "lng": 30.321833,
+    "description": null,
+    "raw": "Санкт-Петербург, Гороховая улица, 47В",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "shift",
+    "name": "Сменный график"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<div> <div> <div> <p><strong>SUPERKASSA — онлайн сервис, который помогает путешественникам найти лучший авиабилет.</strong></p> <p>И мы ищем в команду специалистов по работе с бронированиями авиабилетов.</p> <p><strong>Чем надо будет заниматься:</strong></p> <ul> <li>Обработка заявок на возврат и обмен авиабилетов, корректировка данных, оформление дополнительных услуг, консультирование клиентов по входящим запросам</li> </ul> <p><strong>Что надо уметь:</strong></p> <ul> <li>Знание одной из систем бронирования и/или NDC авиакомпаний (Сирена, Galileo, Амадеус, Аэрофлот, S7 и др.)</li> <li>Знание технологии возврата и обмена и/или технологии выписки ЕМД на дополнительные услуги авиакомпаний</li> <li>Знание английского языка на уровне чтения условий тарифов авиакомпаний</li> <li>Желание обучаться и развиваться</li> </ul> <p><strong>Что предлагаем:</strong></p> <ul> <li>Официальное оформление по ТК РФ</li> <li>График работы сменный 2/2 дневные или ночные смены на выбор</li> <li>Возможность гибридной или полной удаленной работы после прохождения испытательного срока (от 1 до 3 месяцев, по факту возможности самостоятельной обработки заявок)</li> <li>Обучение и повышение квалификации, возможности для профессионального роста и развития, горизонтального карьерного роста</li> <li>Возможность прямого общения со всей командой создающей сервис Superkassa</li> <li>Уютный офис в центре города в общественном пространстве в 1 минуте ходьбы от станции метро Сенная. Чай, кофе, сладости и сезонные фрукты.</li> </ul> <p> </p> <p><strong>Если готовы присоединиться к молодой и дружной команде сайта </strong><strong>Superkassa</strong><strong> </strong><strong>и работать в одном из старейших билетных агентств Санкт-Петербурга «Пулково-Сервис», отправляйте свое резюме прямо сейчас!</strong></p> </div> </div> </div>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "3128317",
+    "name": "СУПЕРКАССА",
+    "url": "https://api.hh.ru/employers/3128317",
+    "alternate_url": "https://hh.ru/employer/3128317",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/697883.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3232648.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3232649.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3128317",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T15:43:43+0300",
+  "created_at": "2025-06-04T15:43:43+0300",
+  "initial_created_at": "2025-06-04T15:43:43+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121346868",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121346868",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": true,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "TWO_ON_TWO_OFF",
+      "name": "2/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_12",
+      "name": "12 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

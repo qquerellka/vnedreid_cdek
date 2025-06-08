@@ -1,0 +1,137 @@
+{
+  "id": "121389302",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "ML Engineer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Эвотор создает собственную экосистему технологий и сервисов для автоматизации и повышения эффективности бизнесов.</strong></p> <p>Наши продукты - это онлайн-кассы, которыми пользуется каждый четвертый предприниматель страны, и собственный магазин приложений «Эвотор.Маркет» с более чем 900 сервисами. В основе наших решений лежат требования к постоянным высоким нагрузками и непрерывности работы.<br /><br /><strong>Мы в поиске ML инженера, который будет участвовать в создании и развитии диалогового ассистента первой линии поддержки.</strong></p> <p> </p> <p><strong>Задачи</strong></p> <ul> <li>участие в создании Multi-Agent AI систем с использованием различных современных генеративных нейросетей (QWEN, LLAMA, Mistral),</li> <li>участие в разработке продвинутых RAG, KAG, CAG пайплайнов,</li> <li>работать как с классическими ML моделями, так и с передовыми SoTA архитектурами,</li> <li>реализовывать дизайн экспериментов, формулировать гипотезы для улучшения NLP/PLP моделей и алгоритмов, планировать исследовательские эксперименты с выводами,</li> <li>проводить эксперименты, писать код, подготавливать датасеты и бенчмарки, проводить замеры и анализ результатов,</li> <li>обучать модели на кластере, включая обучение моделей с нуля и дообучение готовых моделей,</li> <li>придумывать новые схемы успешного клиентского опыта в работе ассистентов.</li> </ul> <p> </p> <p><strong>Для нас важно</strong></p> <ul> <li>коммерческий опыт разработки ботов от 3-х лет,</li> <li>понимание теории ML и глубокого обучения, мат. статистики и теор. вер.,</li> <li>опыт работы в NLP (понимание структур генеративных моделей будет большим плюсом),</li> <li>знание Python,</li> <li>знание английского языка, достаточного для чтения документации,</li> <li>опыт работы с FastAPI, chromadb, sqlalchemy, posgtrsql, docker, kafka,</li> <li>аналитический склад ума,</li> <li>способность работать самостоятельно и ответственно над несколькими проектами.</li> </ul> <p> </p> <p><strong>Что предлагаем</strong></p> <ul> <li>оформление по ТК РФ, белая зарплата, уровень вознаграждения обсуждается с успешным кандидатом,</li> <li>удаленный формат работы,</li> <li>ДМС после испытательного срока,</li> <li>работу в аккредитованной IT-компании, скидки от компаний партнеров, обучение,</li> <li>рабочая техника,</li> <li>3 day off.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "NLP"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "ML"
+    },
+    {
+      "name": "PyTorch"
+    },
+    {
+      "name": "LLM"
+    },
+    {
+      "name": "FastAPI"
+    },
+    {
+      "name": "RAG"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "165",
+      "name": "Дата-сайентист"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2425896",
+    "name": "Эвотор",
+    "url": "https://api.hh.ru/employers/2425896",
+    "alternate_url": "https://hh.ru/employer/2425896",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/575957.png",
+      "90": "https://img.hhcdn.ru/employer-logo/2745099.png",
+      "240": "https://img.hhcdn.ru/employer-logo/2745100.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2425896",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T15:19:06+0300",
+  "created_at": "2025-06-05T15:19:06+0300",
+  "initial_created_at": "2025-06-05T15:19:06+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121389302",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121389302",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

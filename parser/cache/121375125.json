@@ -1,0 +1,159 @@
+{
+  "id": "121375125",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Сетевой инженер Cisco (сменный график)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 250000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 250000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>О проекте:</strong></p> <p>Мы строим и поддерживаем надёжную сетевую основу для критически важных систем.</p> <p>Работаем с Cisco-оборудованием в современном ЦОД — там, где важна каждая секунда.</p> <p>График 24/7 требует гибкости: выезжать на смены по принципу «сутки через трое» — часть условий.</p> <p> </p> <p><strong>Что будешь делать:</strong></p> <p> Настройка и эксплуатация маршрутизаторов и коммутаторов Cisco</p> <p> Диагностика и устранение аварий в реальном времени</p> <p> Работа с протоколами OSPF, ISIS, BGP, VLAN, STP</p> <p> Обеспечение безопасности трафика через Firewall и VPN</p> <p> Поддержание документации и участие в технических изменениях</p> <p> </p> <p><strong>Hard Skills (обязательно):</strong></p> <p>✅ Знание L2/L3 технологий: STP/MST, OSPF, ISIS, BGP</p> <p>✅ Уверенное обращение с оборудованием Cisco</p> <p>✅ Опыт работы в ЦОД</p> <p>✅ Понимание сетевой безопасности: ACL, Firewall, VPN</p> <p> </p> <p><strong>Предлагаем</strong>:</p> <p> График: сменный («сутки через трое»)</p> <p> Стабильный доход и официальное оформление</p> <p> Возможность расти внутри сложных сетевых решений</p> <p> Команду, которая ценит компетентность</p> <p> Поддержку при освоении новых технологий</p> <p> </p> <p><strong>Если ты готов держать ритм сети даже ночью и любишь точность в конфигах — мы тебя ждём!</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Cisco"
+    },
+    {
+      "name": "Администрирование сетевого оборудования"
+    },
+    {
+      "name": "FIrewall"
+    },
+    {
+      "name": "ЦОД"
+    },
+    {
+      "name": "L2 VPN"
+    },
+    {
+      "name": "BGP"
+    },
+    {
+      "name": "OSPF"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "112",
+      "name": "Сетевой инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "4759060",
+    "name": "HR Prime",
+    "url": "https://api.hh.ru/employers/4759060",
+    "alternate_url": "https://hh.ru/employer/4759060",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1400210.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7220611.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7220612.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4759060",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T11:32:07+0300",
+  "created_at": "2025-06-05T11:32:07+0300",
+  "initial_created_at": "2025-06-05T11:32:07+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121375125",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121375125",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": true,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "ONE_ON_THREE_OFF",
+      "name": "1/3"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_24",
+      "name": "24 часа"
+    }
+  ],
+  "show_logo_in_search": null
+}

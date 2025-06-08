@@ -1,0 +1,141 @@
+{
+  "id": "119958979",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Программист С++/Qt",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Кантемировская",
+    "building": "10",
+    "lat": 59.983504,
+    "lng": 30.329514,
+    "description": null,
+    "raw": "Санкт-Петербург, Кантемировская, 10",
+    "metro": {
+      "station_name": "Лесная",
+      "line_name": "Кировско-Выборгская",
+      "station_id": "14.195",
+      "line_id": "14",
+      "lat": 59.984947,
+      "lng": 30.344259
+    },
+    "metro_stations": [
+      {
+        "station_name": "Лесная",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.195",
+        "line_id": "14",
+        "lat": 59.984947,
+        "lng": 30.344259
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<strong>В Ваши обязанности будет входить:</strong> <ul> <li>Разработка приложений на языке С++ с использованием фреймворка Qt;</li> <li>Разработка алгоритмов и программ;</li> <li>Написание и сопровождение программной документации в соответствии с ЕСПД;</li> <li>Участие в проведении испытаний изделий.</li> </ul> <strong>Мы ожидаем от кандидата:</strong> <ul> <li>Высшее техническое образование;</li> <li>Опыт разработки на языке С++ от 2 лет.</li> </ul> <strong>Необходимые знания и навыки:</strong> <ul> <li>Уверенное знание C++ и алгоритмов;</li> <li>Уверенное знание фреймворка Qt;</li> <li>Навык работы с базами данных (Postgresql , SQLite);</li> <li>Навык работы с ОС GNU / Linux на уровне пользователя;</li> <li>Знание языков Bash, Python;</li> <li>Работа с Docker, CI/CD Gitlab;</li> <li>Навык разработки многопоточных приложений.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Трудоустройство согласно ТК РФ с первого дня, полностью &quot;белая&quot; заработная плата;</li> <li>График работы 5/2, пятница - сокращенный рабочий день;</li> <li>Бесплатное питание для работников рабочих профессий (для отдельных подразделений);</li> <li>Столовая, кафе на территории предприятия;</li> <li>ДМС после прохождения срока испытания;</li> <li>Комфортные условия труда;</li> <li>Дополнительно оплачиваемые отпуска различным категориям работников;</li> <li>Вознаграждение за долголетнюю непрерывную работу;</li> <li>Выплату пособия к ежегодному основному отпуску длительностью 14 дней (работникам, работающим по бессрочному трудовому договору на условиях полной занятости, отработавшим в Обществе не менее 2-х лет);</li> <li>Поддержку работников в радостных и сложных жизненных ситуациях (материальная помощь);</li> <li>Обучение за счет средств предприятия;</li> <li>Базы отдыха для работников и членов их семей;</li> <li>Совет молодых специалистов, Профсоюз (бонусы и привилегии для молодых специалистов и членов профсоюза);</li> <li>Подарки и конкурсы для детей работников.</li> </ul> <p><em>Уважаемый соискатель!<br />Благодарим Вас за интерес, проявленный к вакансиям АО «НИИ «Вектор»!<br />Если Ваши квалификация и пожелания соответствуют требованиям и возможностям компании, специалист по подбору персонала свяжется с Вами в течение 10 рабочих дней.<br />Желаем Вам удачи в поисках работы Вашей мечты!</em></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "990888",
+    "name": "НИИ Вектор",
+    "url": "https://api.hh.ru/employers/990888",
+    "alternate_url": "https://hh.ru/employer/990888",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1367039.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7088058.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7088059.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=990888",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-30T19:14:49+0300",
+  "created_at": "2025-05-30T19:14:49+0300",
+  "initial_created_at": "2025-04-25T13:17:18+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119958979",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/119958979",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

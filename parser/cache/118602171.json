@@ -1,0 +1,152 @@
+{
+  "id": "118602171",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Java Developer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 120000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 120000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>О компании:</strong><br />Наши партнёры — аккредитованная российская IT-компания, создающая передовые решения в области работы с большими данными для крупнейших российских и международных организаций. Присоединившись к нам, вы станете частью команды, которая разрабатывает инновационные продукты, влияющие на будущее IT-инфраструктуры.</p> <p><strong>О проекте:</strong><br />Вас ждёт работа над платформой для одного из крупнейших банков России. Проект основан на <strong>Apache Ozone</strong>, полностью совместим с <strong>Hadoop HDFS</strong> и решает проблему «маленьких файлов» в Hadoop. Платформа поддерживает доступ по протоколу <strong>S3</strong> и обеспечивает сквозное шифрование данных, что делает её незаменимой для современных технологий обработки данных.</p> <p><strong>Ваши задачи:</strong></p> <ul> <li> <p>Разработка и поддержка серверной части сервисов на Java;</p> </li> <li> <p>Участие в проектировании архитектуры и создании технической документации;</p> </li> <li> <p>Написание модульных и интеграционных тестов для повышения надёжности решений.</p> </li> </ul> <p><strong>Что мы ожидаем от вас:</strong></p> <ul> <li> <p>Опыт работы с системами контроля версий (Git);</p> </li> <li> <p>Базовые знания Java и понимание принципов ООП;</p> </li> <li> <p>Знание основ REST API;</p> </li> <li> <p>Опыт работы с Linux.</p> </li> </ul> <p><strong>Будет преимуществом:</strong></p> <ul> <li> <p>Опыт работы с CI/CD-инструментами (например, Jenkins);</p> </li> <li> <p>Знакомство с Hadoop и технологиями обработки больших данных;</p> </li> <li> <p>Опыт работы с Docker;</p> </li> <li> <p>Навыки работы с bash и Python.</p> </li> </ul> <p><strong>Что мы предлагаем:</strong></p> <ul> <li> <p>Работа в стабильной компании с большим портфелем успешных проектов;</p> </li> <li> <p>Официальное трудоустройство с первого дня и полностью &quot;белая&quot; заработная плата;</p> </li> <li> <p><strong>Гибридный формат работы </strong>и современный офис недалеко от м. Верхние Котлы (г. Москва);</p> </li> <li> <p>После испытательного срока: ДМС со стоматологией, льготная ипотека, корпоративное обучение и тренинги, участие в IT-конференциях и командных мероприятиях;</p> </li> <li> <p>Участие в значимых проектах, способствующих вашему профессиональному росту.</p> </li> </ul> <p><strong>Этапы отбора:</strong></p> <ol> <li> <p>Контакт с рекрутером в телеграме;</p> </li> <li> <p>Техническое собеседование;</p> </li> <li> <p><strong>Выполнение тестового задания</strong> для оценки ваших практических навыков;</p> </li> <li> <p>Повторное собеседование с разбором ТЗ (опционально);</p> </li> <li> <p>Оффер.</p> </li> </ol> <p>Если вы хотите расти и развиваться в компании, где ценят ваши идеи и вклад в командную работу — откликайтесь прямо сейчас!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Java"
+    },
+    {
+      "name": "Hadoop"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "API"
+    },
+    {
+      "name": "Git"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "472",
+    "name": "Дартс рекрутинг сервисез",
+    "url": "https://api.hh.ru/employers/472",
+    "alternate_url": "https://hh.ru/employer/472",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1090785.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5983765.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5983766.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=472",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-20T15:35:18+0300",
+  "created_at": "2025-05-20T15:35:18+0300",
+  "initial_created_at": "2025-03-20T13:35:46+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=118602171",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/118602171",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,138 @@
+{
+  "id": "121227913",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Инженер – тестировщик ОТК",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Отрадная улица",
+    "building": "2Бс9",
+    "lat": 55.856366,
+    "lng": 37.600415,
+    "description": null,
+    "raw": "Москва, Отрадная улица, 2Бс9",
+    "metro": null,
+    "metro_stations": []
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Уважаемые кандидаты! Просим вас в сопроводительном письме обязательно указывать актуальный уровень зарплатных ожиданий. </p> <p>Удаленная работа НЕ РАССМАТРИВАЕТСЯ! </p> <p>Обязанности: </p> <ul> <li> <p>Функциональный тест отремонтированного оборудования MSI </p> </li> </ul> <ul> <li> <p>Устранение типовых дефектов, блочный и компонентный ремонт; </p> </li> </ul> <ul> <li> <p>Пайка BGA/SMD компонентов </p> </li> </ul> <p>Требования: </p> <ul> <li> <p>Опыт блочного ремонта ноутбуков, PC и моноблоков; </p> </li> </ul> <ul> <li> <p>Опыт в работе с паяльным оборудованием. </p> </li> </ul> <ul> <li> <p>Опыт в использовании ПО для диагностики / тестирования PC; </p> </li> </ul> <ul> <li> <p>Желательно знание английского языка на простом уровне. </p> </li> </ul> <p>Условия: </p> <ul> <li> <p>оформление в соответствии с Законодательством РФ, выплата вознаграждения строго 2 раза в месяц без задержек; </p> </li> </ul> <ul> <li> <p>график Пн-Пт с 9.00 до 18.00 в офисе БЦ; </p> </li> </ul> <ul> <li> <p>ДМС через год постоянной работы; </p> </li> </ul> <ul> <li> <p>офис м. Отрадное </p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Ремонт ПК"
+    },
+    {
+      "name": "Пайка"
+    },
+    {
+      "name": "Опрятность"
+    },
+    {
+      "name": "Входное тестирование"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11141",
+    "name": "MSI",
+    "url": "https://api.hh.ru/employers/11141",
+    "alternate_url": "https://hh.ru/employer/11141",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1353179.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7032646.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7032647.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11141",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T14:38:15+0300",
+  "created_at": "2025-06-05T14:38:15+0300",
+  "initial_created_at": "2025-06-02T14:38:15+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121227913",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121227913",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

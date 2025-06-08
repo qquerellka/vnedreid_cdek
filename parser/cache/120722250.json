@@ -1,0 +1,174 @@
+{
+  "id": "120722250",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Backend-разработчик (Python)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "улица Сущёвский Вал",
+    "building": "18",
+    "lat": 55.791977,
+    "lng": 37.603244,
+    "description": null,
+    "raw": "Москва, улица Сущёвский Вал, 18",
+    "metro": {
+      "station_name": "Марьина Роща",
+      "line_name": "Люблинско-Дмитровская",
+      "station_id": "10.185",
+      "line_id": "10",
+      "lat": 55.793723,
+      "lng": 37.61618
+    },
+    "metro_stations": [
+      {
+        "station_name": "Марьина Роща",
+        "line_name": "Люблинско-Дмитровская",
+        "station_id": "10.185",
+        "line_id": "10",
+        "lat": 55.793723,
+        "lng": 37.61618
+      },
+      {
+        "station_name": "Савёловская",
+        "line_name": "Серпуховско-Тимирязевская",
+        "station_id": "9.128",
+        "line_id": "9",
+        "lat": 55.794054,
+        "lng": 37.587163
+      },
+      {
+        "station_name": "Савёловская",
+        "line_name": "МЦД-4",
+        "station_id": "136.893",
+        "line_id": "136",
+        "lat": 55.794444,
+        "lng": 37.590278
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Новые Телеком Решения</strong> - это разработчик ПО и производитель телекоммуникационного оборудования для операторов связи.</p> <p>В Направление по разработке Платформ мониторинга и управления требуется <strong>Backend-разработчик (Python)</strong>.</p> <p>Мы работаем над несколькими проектами, ключевой из них – это разработка приложения OSS (Operation Support System) – ПО на базе мульти-сервисной архитектуры, которое позволяет Телеком Операторам решать весь комплекс задач по управлению сетями мобильной связи. У нас понятный roadmap и большие планы на будущее.</p> <p><strong>Основные задачи:</strong></p> <ul> <li>Разработка микросервисной архитектуры Backend приложения.</li> <li>Реализация бизнес-логики с использованием различных фреймворков и библиотек.</li> <li>Разработка собственных модулей, в том числе с использованием OОП и алгоритмических подходов.</li> <li>Разработка баз данных: реляционных и NoSQL.</li> <li>Реализация интерфейсов для взаимодействия с Frontend.</li> <li>Анализ, тестирование и документирование кода.</li> <li>Взаимодействие с фронт-энд разработчиками, бизнес аналитиками и тестировщиками.</li> </ul> <p><strong>Ожидания от кандидата:</strong></p> <ul> <li>Высшее техническое образование;</li> <li>От 3-х лет в качестве Python-разработчика;</li> <li>Наличие опыта разработки на Go будет плюсом;</li> <li>Опыт использования ORM SQLAlchemy, работы с БД Postgres, ClickHouse;</li> <li>Опыт асинхронной и многопоточной разработки, использования Asyncio, Celery и др.</li> <li>Опыт работы с очередями RabbitMQ;</li> <li>Опыт разработки с использованием gRPC, REST, WebSockets и др.</li> <li>Опыт разработки с использованием фреймворков Django и др.</li> <li>Опыт работы с командной строкой Linux , Docker, CI/CD инструментами (Bitbucket, Bamboo);</li> <li>Опыт работы с использованием Agile подхода, использования Jira, Confluence;</li> <li>Опыт работы в команде.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li> <p>Развитие: неограниченный профессиональный рост, команда экспертов, внутреннее и внешнее обучение;</p> </li> <li> <p>Надежность: официальное оформление по ТК РФ в аккредитованной ИТ компании, достойный уровень заработной платы, социальные гарантии;</p> </li> <li> <p>Забота: ДМС, оплата 10 календарных дней нетрудоспособности в году в размере 100% заработка, релокационный бонус;</p> </li> <li> <p>Комфорт: гибкое начало рабочего дня, гибридный график в офисе компании (Москва, Санкт-Петербург).</p> </li> </ul> <p>Если тебе не все равно, ради чего ты работаешь и ты готов менять отрасль в лучшую сторону - тебе к нам!</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "MongoDB"
+    },
+    {
+      "name": "Go"
+    },
+    {
+      "name": "RabbitMQ"
+    },
+    {
+      "name": "REST"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9473594",
+    "name": "Новые Телеком Решения (НТР)",
+    "url": "https://api.hh.ru/employers/9473594",
+    "alternate_url": "https://hh.ru/employer/9473594",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1058056.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5852865.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5852866.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9473594",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-19T16:32:23+0300",
+  "created_at": "2025-05-19T16:32:23+0300",
+  "initial_created_at": "2025-05-19T16:32:23+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120722250",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120722250",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

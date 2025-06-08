@@ -1,0 +1,119 @@
+{
+  "id": "121034636",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Python-разработчик (Middle+/Senior)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы формируем лабораторию ИИ для создания AI-ready платформы хранения корпоративных данных.</p> <p>Платформа будет использоваться как единая база для агентов, «виртуальных сотрудников», чат-ботов и плагинов к ним. </p> <p>Наша цель – быстрое прототипирование и вывод в продакшн без долгих согласований и «тяжёлого» legacy-кода.</p> <p><strong>Обязанности (must-have): </strong></p> <ul> <li> <p>Проектирование и разработка микросервисов на Python 3 (FastAPI) для ETL-конвейеров, инференса и API. </p> </li> <li> <p>Настройка и поддержка пополнения векторной базы данных (FAISS, Pinecone, ChromaDB и др.). </p> </li> <li> <p>Интеграция RAG-цепочек с помощью LangChain и Langflow. </p> </li> <li> <p>Валидация данных через JSON Schema и библиотеки pydantic/jsonschema. </p> </li> <li> <p>Деплой и мониторинг экспериментов в продакшн. </p> </li> <li> <p>Взаимодействие с продактом и смежными командами для получения и подготовки данных. </p> </li> <li> <p>Работа по Agile с быстрыми итерациями, без необходимости разбираться в тяжёлом legacy-коде. </p> </li> <li> <p>Самостоятельность в технических решениях и наставничество младших коллег.</p> </li> </ul> <p><strong>Желательно (nice-to-have): </strong></p> <ul> <li> <p>Опыт дообучения LLM. </p> </li> <li> <p>Знание numpy/pandas.</p> </li> <li> <p>Опыт работы с аудио-фреймворками (torchaudio, pyannote).</p> </li> <li> <p>Базовые навыки фронтенда (JavaScript) для чат-виджетов.</p> </li> <li> <p>Опыт тестирования (pytest), линтинга и типизации.</p> </li> </ul> <p><strong>Цели на первые месяцы </strong></p> <ul> <li> <p>Развернуть и отладить ETL-конвейер для пополнения векторной БД. </p> </li> <li> <p>Довести до продакшн-качества минимум два существующих эксперимента (чат-бот, ASR/TTS). </p> </li> <li> <p>Настроить пайплайн RAG-агентов с LangChain/Langflow и валидацией через JSON Schema.</p> </li> </ul> <p><strong>Команда и процесс: </strong></p> <ul> <li> <p>Сейчас в ядре команды: продакт-менеджер и вы (Python-разработчик). Через 3–6 месяцев планируется присоединить второго инженера. Команда под проект динамически будет усиливаться разработчиками БД и микросервисов.</p> </li> <li> <p>Работа в небольшом Agile-пуле: быстрые спринты, ежедневные стендапы, прямое общение с владельцами данных. </p> </li> </ul> <p><strong>Бенефиты: </strong></p> <ul> <li> <p>ДМС через 3 месяца работы (для штатных сотрудников).</p> </li> <li> <p>50% скидка на нашу продукцию Компании (в онлайн и оффлайн магазинах). </p> </li> <li> <p>Частичная компенсация абонементов в спортзал и курсов иностранных языков. </p> </li> <li> <p>Гибкий график, офис в центре, гибридная или удаленная работа.</p> </li> </ul> <p><strong>Как откликнуться на эту вакансию: </strong></p> <p>Отправьте резюме и пройдите скрининг-собеседование с нашим ИИ сотрудником в Telegram @dab512_petr_bot. Второй этап - интервью с руководителем. </p> <p>Мы ищем не просто исполнителя, а того, кто сможет прокачать команду и взять на себя часть архитектурных решений.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "51900",
+    "name": "Siberian Wellness",
+    "url": "https://api.hh.ru/employers/51900",
+    "alternate_url": "https://hh.ru/employer/51900",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/588096.png",
+      "90": "https://img.hhcdn.ru/employer-logo/2793639.png",
+      "240": "https://img.hhcdn.ru/employer-logo/2793640.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=51900",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-27T14:25:44+0300",
+  "created_at": "2025-05-27T14:25:44+0300",
+  "initial_created_at": "2025-05-27T14:25:44+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121034636",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121034636",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,132 @@
+{
+  "id": "120918382",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Разработчик Python",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Задачи, которые необходимо решать:</strong></p> <ul> <li>Участие в создании продуктов. На текущий момент основной продукт – система непрерывного мониторинга доступных извне цифровых активов компании-клиента;</li> <li>Разработка продуктов в backend части – интеграции с внешними и внутренними системами, личным кабинетом, СУБД, RESTful API;</li> <li> Разработка unit-тестов на pytest, функциональных и интеграционных тестов;</li> <li>Поддержка разрабатываемых продуктов;</li> <li>Разработка технической документации на продукт;</li> <li>Участие в design-review;</li> <li>Взаимодействие со внутренними заказчиками и командой разработки, реализация утвержденных спринтов и дорожных карт.</li> </ul> <p><strong>Какие знания, навыки и опыт необходимы для реализации задач (важно не знание всех требований, а желание быстро освоить и развиваться в данной области):</strong></p> <ul> <li>Навыки программирования на Python 3.8+ с использованием asyncio;</li> <li> Навыки разработки высоконагруженных систем;Навыки разработки unit-тестов на pytest, функциональных и интеграционных тестов;</li> <li>Навыки разработки RESTFul API на фреймоворке FastAPI и анализа существующего кода;</li> <li> Навыки работы с запросами к хранилищам данных (Elastic Search API, PostgreSQL, S3);</li> <li>Навыки работы с GIT;</li> <li> Навыки работы с unix-подобными ОС на уровне, достаточном для запуска кода в данной среде;</li> <li> Понимание принципов и паттернов – Dependency Injection, Clean Architecture;</li> <li>Знания компьютерных сетей.</li> </ul> <p><strong>Дополнительным преимуществом</strong> будет опыт работы с aiohttp, Apache Airflow, RabbitMQ/Apache Kafka и No SQL базами данных (Neo4j, Redis и тд).<br /></p> <p><strong>Условия:</strong></p> <p><strong>#AngaraTeam предлагает своим сотрудникам:</strong></p> <p><strong>Забота о достатке:</strong></p> <ul> <li>Достойный уровень оплаты труда, понятная система премирования;</li> </ul> <p><em>Забота о развитии:</em></p> <ul> <li>Работа в команде профессионалов;</li> <li>Возможность профессионального развития и карьерного роста;</li> </ul> <p><em>Забота о комфорте:</em></p> <ul> <li>Эргономичное рабочее место;</li> <li>Зоны отдыха;</li> <li>Кофе, чай, сладости и не только;</li> <li>Корпоративные мероприятия и т.п.</li> </ul> <p><em>Забота о здоровье:</em></p> <ul> <li>Бесплатная медицинская страховка (ДМС);</li> <li>21 день 100% оплачиваемых дней отсутствия по болезни;</li> </ul> <p><em>Забота о времени:</em></p> <ul> <li>Возможность удаленной или частично удаленной работы;</li> <li>Возможность гибкого начала/окончания рабочего дня.</li> </ul>",
+  "branded_description": "\n        <style>\n        \n        .tmpl_hh_vacancy_block {\n            display: none;\n        }\n        .UNSAFE-employer-branded-is-desktop .tmpl_hh_vacancy_block {\n            display: block;\n        }\n        .tmpl_hh_wrapper {\n            width: 100%;\n            margin: 0 auto;\n            max-width: 690px;\n            position: relative;\n            word-break: normal;\n            font-family: \"Arial\", sans-serif;\n            color: #333232;\n            font-size: 16px;\n            line-height: 24px;\n            overflow: hidden;\n        }\n        .tmpl_hh_wrapper *{\n            box-sizing: border-box;\n        }\n        .tmpl_hh_wrapper p,\n        .tmpl_hh_wrapper a,\n        .tmpl_hh_wrapper img,\n        .tmpl_hh_wrapper ol,\n        .tmpl_hh_wrapper ul,\n        .tmpl_hh_wrapper li {\n            margin: 0;\n            padding: 0;\n            border: 0;\n            font-size: 100%;\n            font: inherit;\n            vertical-align: baseline;\n        }\n        \n        .hht-vacancydescription {\n            padding: 0px;\n        }\n        \n        .tmpl_hh_wrapper .l-cell,\n        .tmpl_hh_wrapper .l-paddings {\n            padding: 0px !important;\n        }\n        \n        .tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n            margin-top: 0px !important;    \n        }\n        \n        .tmpl_hh_wrapper .b-vacancy-desc {\n            overflow: visible !important;\n            line-height: inherit;\n        }\n        \n        .tmpl_hh_content ol li b,\n        .tmpl_hh_content ol li strong,\n        .tmpl_hh_content ol li p b,\n        .tmpl_hh_content ol li p strong,\n        .tmpl_hh_content ul li b,\n        .tmpl_hh_content ul li strong,\n        .tmpl_hh_content ul li p b,\n        .tmpl_hh_content ul li p strong {\n            font-weight: normal;\n            font-size: inherit !important;\n            color: inherit !important;\n            margin: 0 !important;\n            text-transform: none;\n        }\n        \n        .tmpl_hh_content ol li p,\n        .tmpl_hh_content ul li p {\n            font-weight: normal;\n            margin: 0;\n        }\n        \n        .tmpl_hh_content p:first-child,\n        .tmpl_hh_content>strong:first-child,\n        .tmpl_hh_content div>strong:first-child {\n            margin-top: 0 !important;\n        }\n        \n        .tmpl_hh_content p,\n        .tmpl_hh_content b,\n        .tmpl_hh_content strong,\n        .tmpl_hh_content i,\n        .tmpl_hh_content em {\n            margin: 0 0 20px;\n        }\n        .tmpl_hh_content b,\n        .tmpl_hh_content strong {\n            display: block;\n            font-size: 20px;\n            line-height: 30px;\n        }\n        .tmpl_hh_content i,\n        .tmpl_hh_content em {\n            display: block;\n        }\n        .tmpl_hh_content p b,\n        .tmpl_hh_content p strong,\n        .tmpl_hh_content p i,\n        .tmpl_hh_content p em{\n            margin: 0;   \n            display: inline;\n        }\n        \n        .tmpl_hh_content ol,\n        .tmpl_hh_content ul {\n            margin-left: 25px;\n            list-style: none !important;\n            margin-bottom: 20px;\n        }\n        \n        .tmpl_hh_content ol {\n            counter-reset: list_counter;\n        }\n        \n        .tmpl_hh_content li {\n            position: relative;\n            margin-bottom: 12px;\n        }\n        \n        .tmpl_hh_content ul ul,\n        .tmpl_hh_content ul ol,\n        .tmpl_hh_content ol ol,\n        .tmpl_hh_content ol ul {\n            margin-top: 8px;\n            margin-bottom: 8px;\n        }\n        \n        .tmpl_hh_content ol>li {\n            counter-increment: list_counter;    \n        }\n        \n        .tmpl_hh_content li:before {\n            content: '';\n            position: absolute;\n            left: -18px;\n            top: 0;\n        }\n        \n        .tmpl_hh_content ul>li:before {\n            width: 5px;\n            height: 5px;\n            border-radius: 100%;\n            background: #333232;\n            left: -25px;\n            top: 10px;\n        }\n        \n        .tmpl_hh_content ol>li:before {\n            content: counter(list_counter)'.';\n            left: auto;\n            right: 100%;\n            margin-right: 2px;\n        }\n        .tmpl_hh_video {\n            position: relative;\n            width: 100%;\n        }\n        .tmpl_hh_video img,\n        .tmpl_hh_video iframe {\n            position: absolute;\n            left: 0;\n            top: 0;\n            width: 100%;\n            height: 100%;\n        }\n        \n        .tmpl_hh_wrapper img{\n            width: 100%;\n            display: block;\n        }\n        .tmpl_hh_content {\n            padding: 52px 50px 23px;\n        }\n        \n        .tmpl_hh_header{\n            position: relative;\n        }\n        .tmpl_hh_header p {\n            position: relative;\n            z-index: 1;\n            width: 56%;\n            margin-top: -55px;\n            margin-left: 52px;\n            font-size: 20px;\n            line-height: 30px;\n        }\n        .tmpl_hh_footer{\n            display: flex;\n            justify-content: space-between;\n            flex-wrap: wrap;\n            padding: 0 50px 39px;\n        }\n        .tmpl_hh_footer .tmpl_hh_item{\n            width: 48.4%;\n            height: 234px;\n            margin-bottom: 19px;\n            padding: 35px 33px;\n            position: relative;\n            z-index: 2;\n        }\n        .tmpl_hh_footer .tmpl_hh_item p{\n            position: relative;\n        }\n        .tmpl_hh_footer .tmpl_hh_border{\n            position: absolute;\n            top: 0;\n            left: 0;\n            width: 100%;\n        }\n        .tmpl_hh_footer .tmpl_hh_item .tmpl_hh_star{\n            width: 24px;\n            margin-bottom: 20px;\n            position: relative;\n        }\n        .tmpl_hh_footer .tmpl_hh_el{\n            position: absolute;\n            bottom: 0;\n            right: 0;\n            width: 58%;\n        }\n        \n        .tmpl_hh_note {\n           font-size: 12px;\n           opacity: 0.5;\n          color: #000;\n         padding: 0 7% 7px;\n           \n        }\n\n        \n        .tmpl_hh_note p + p {\n            margin-top: 6px;\n        }\n        \n        \n        @media (max-width: 1019px) {\n            \n            .tmpl_hh_header p{\n                width: 60%;\n                left: 30px;\n            }\n            .tmpl_hh_content{\n                padding: 52px 30px 23px;\n            }\n            .tmpl_hh_footer{\n                padding: 0 30px 39px;\n            }\n            .tmpl_hh_footer .tmpl_hh_item{\n                height: 218px;\n            }\n        \n        }\n        \n        @media (max-width: 699px) {\n        \n            .tmpl_hh_header p {\n                width: 100%;\n                left: 0;\n                position: relative;\n                bottom: 0;\n                margin-top: 40px;\n            }\n            .tmpl_hh_content{\n                padding: 45px 0px 1px;\n            }\n            .tmpl_hh_content p, .tmpl_hh_content b, .tmpl_hh_content strong, .tmpl_hh_content i, .tmpl_hh_content em{\n                margin: 0 0 30px;\n            }\n            .tmpl_hh_content ol, .tmpl_hh_content ul{\n                margin-left: 12px;\n                margin-bottom: 30px;\n            }\n            .tmpl_hh_content ul>li:before{\n                left: -12px;\n            }\n            .tmpl_hh_footer {\n                padding: 0 0 42px;\n            }\n            .tmpl_hh_footer .tmpl_hh_item{\n                width: 100%;\n                height: auto;\n                overflow: hidden;\n                border-top: 1px solid #C4C4C4;\n            }\n            .tmpl_hh_footer .tmpl_hh_border{\n                top: auto;\n                bottom: 0;\n            }\n            .tmpl_hh_footer .tmpl_hh_el{\n                width: 404px;\n            }\n           .tmpl_hh_note {\n            \n            padding: 0 2% 7px;\n            line-height: 1.2;\n        }\n        \n        }\n        \n        </style>\n        \n        \n            <div class=\"tmpl_hh_wrapper\">\n        \n                <div class=\"tmpl_hh_header\">\n                    <img src=\"https://hhcdn.ru/ichameleon/259209.png\" alt=\"\">\n                    <p><b>Angara Security</b> – <br> одна из самых быстроразвивающихся компаний <nobr>ИБ-рынка</nobr>*, аккредитованная Министерством цифрового развития, связи и массовых коммуникаций Российской Федерации</p>\n                </div>\n                \n                <div class=\"tmpl_hh_content\">\n                    <p><strong>Задачи, которые необходимо решать:</strong></p> <ul> <li>Участие в создании продуктов. На текущий момент основной продукт – система непрерывного мониторинга доступных извне цифровых активов компании-клиента;</li> <li>Разработка продуктов в backend части – интеграции с внешними и внутренними системами, личным кабинетом, СУБД, RESTful API;</li> <li> Разработка unit-тестов на pytest, функциональных и интеграционных тестов;</li> <li>Поддержка разрабатываемых продуктов;</li> <li>Разработка технической документации на продукт;</li> <li>Участие в design-review;</li> <li>Взаимодействие со внутренними заказчиками и командой разработки, реализация утвержденных спринтов и дорожных карт.</li> </ul> <p><strong>Какие знания, навыки и опыт необходимы для реализации задач (важно не знание всех требований, а желание быстро освоить и развиваться в данной области):</strong></p> <ul> <li>Навыки программирования на Python 3.8+ с использованием asyncio;</li> <li> Навыки разработки высоконагруженных систем;Навыки разработки unit-тестов на pytest, функциональных и интеграционных тестов;</li> <li>Навыки разработки RESTFul API на фреймоворке FastAPI и анализа существующего кода;</li> <li> Навыки работы с запросами к хранилищам данных (Elastic Search API, PostgreSQL, S3);</li> <li>Навыки работы с GIT;</li> <li> Навыки работы с unix-подобными ОС на уровне, достаточном для запуска кода в данной среде;</li> <li> Понимание принципов и паттернов – Dependency Injection, Clean Architecture;</li> <li>Знания компьютерных сетей.</li> </ul> <p><strong>Дополнительным преимуществом</strong> будет опыт работы с aiohttp, Apache Airflow, RabbitMQ/Apache Kafka и No SQL базами данных (Neo4j, Redis и тд).<br></p> <p><strong>Условия:</strong></p> <p><strong>#AngaraTeam предлагает своим сотрудникам:</strong></p> <p><strong>Забота о достатке:</strong></p> <ul> <li>Достойный уровень оплаты труда, понятная система премирования;</li> </ul> <p><em>Забота о развитии:</em></p> <ul> <li>Работа в команде профессионалов;</li> <li>Возможность профессионального развития и карьерного роста;</li> </ul> <p><em>Забота о комфорте:</em></p> <ul> <li>Эргономичное рабочее место;</li> <li>Зоны отдыха;</li> <li>Кофе, чай, сладости и не только;</li> <li>Корпоративные мероприятия и т.п.</li> </ul> <p><em>Забота о здоровье:</em></p> <ul> <li>Бесплатная медицинская страховка (ДМС);</li> <li>21 день 100% оплачиваемых дней отсутствия по болезни;</li> </ul> <p><em>Забота о времени:</em></p> <ul> <li>Возможность удаленной или частично удаленной работы;</li> <li>Возможность гибкого начала/окончания рабочего дня.</li> </ul></div>\n        \n                <div class=\"tmpl_hh_footer\">\n                    <div class=\"tmpl_hh_item\">\n                        <img src=\"https://hhcdn.ru/ichameleon/203995.svg\" alt=\"\" class=\"tmpl_hh_border\">\n                        <img src=\"https://hhcdn.ru/ichameleon/222796.svg\" alt=\"\" class=\"tmpl_hh_star\">\n                        <p><b>10 лет</b><br>\n                            компании</p>\n                    </div>\n                    <div class=\"tmpl_hh_item\">\n                        <img src=\"https://hhcdn.ru/ichameleon/203995.svg\" alt=\"\" class=\"tmpl_hh_border\">\n                        <img src=\"https://hhcdn.ru/ichameleon/222796.svg\" alt=\"\" class=\"tmpl_hh_star\">\n                        <p><b>470+ сотрудников</b><br>\n                            в штате</p>\n                    </div>\n                    <div class=\"tmpl_hh_item\">\n                        <img src=\"https://hhcdn.ru/ichameleon/203995.svg\" alt=\"\" class=\"tmpl_hh_border\">\n                        <img src=\"https://hhcdn.ru/ichameleon/222796.svg\" alt=\"\" class=\"tmpl_hh_star\">\n                        <p><b>Офисы</b><br>\n                            в Москве, Рязани, Пензе и Тюмени.</p>\n                    </div>\n                    <div class=\"tmpl_hh_item\">\n                        <img src=\"https://hhcdn.ru/ichameleon/203995.svg\" alt=\"\" class=\"tmpl_hh_border\">\n                        <img src=\"https://hhcdn.ru/ichameleon/222796.svg\" alt=\"\" class=\"tmpl_hh_star\">\n                        <p><b>Компания регулярно усиливает позиции в рейтингах</b> ведущих аналитических агентств \n                            в области ИТ.</p>\n                    </div>\n                    <img src=\"https://hhcdn.ru/ichameleon/203996.png\" alt=\"\" class=\"tmpl_hh_el\">\n                </div>\n                  <div class=\"tmpl_hh_note\">\n                    <p>*По данным CNews Analytics \"Самые быстрорастущие ИТ-компании 2021\" 6 место в рейтинге</p>\n           \n                    <p>ООО \"АНГАРА ТЕХНОЛОДЖИЗ ГРУП\" работает под брендом Angara Security</p>\n\n                  </div>\n            </div>\n        \n        ",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Elastic Search API"
+    },
+    {
+      "name": "Python 3.8"
+    },
+    {
+      "name": "async"
+    },
+    {
+      "name": "Dependency Injection"
+    },
+    {
+      "name": "Clean Architecture"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1911403",
+    "name": "Angara Security",
+    "url": "https://api.hh.ru/employers/1911403",
+    "alternate_url": "https://hh.ru/employer/1911403",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/941812.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/4207788.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/4207789.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1911403",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-23T16:14:27+0300",
+  "created_at": "2025-05-23T16:14:27+0300",
+  "initial_created_at": "2025-05-23T16:14:27+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120918382",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120918382",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

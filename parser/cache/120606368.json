@@ -1,0 +1,176 @@
+{
+  "id": "120606368",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Junior QA-engineer (Функциональное тестирование)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": null,
+    "to": 50000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": null,
+    "to": 50000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Огородный проезд",
+    "building": "16/1с3",
+    "lat": 55.816025,
+    "lng": 37.603496,
+    "description": null,
+    "raw": "Москва, Огородный проезд, 16/1с3",
+    "metro": {
+      "station_name": "Бутырская ",
+      "line_name": "Люблинско-Дмитровская",
+      "station_id": "10.546",
+      "line_id": "10",
+      "lat": 55.813333,
+      "lng": 37.602778
+    },
+    "metro_stations": [
+      {
+        "station_name": "Бутырская ",
+        "line_name": "Люблинско-Дмитровская",
+        "station_id": "10.546",
+        "line_id": "10",
+        "lat": 55.813333,
+        "lng": 37.602778
+      },
+      {
+        "station_name": "Останкино",
+        "line_name": "МЦД-3",
+        "station_id": "135.850",
+        "line_id": "135",
+        "lat": 55.817222,
+        "lng": 37.603611
+      },
+      {
+        "station_name": "Телецентр",
+        "line_name": "Монорельс",
+        "station_id": "96.551",
+        "line_id": "96",
+        "lat": 55.821795,
+        "lng": 37.608975
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>В растущую QA команду требуется Junior-специалист.</p> <p>Чем придется заниматься:</p> <ul> <li>Ведение тестовой документации - составление тест-кейсов, чеклистов;</li> <li>Идентификация, документирование и ревью багов;</li> <li>Функциональное и нефункциональное тестирование приложения;</li> <li>Взаимодействие с разработчиками.</li> </ul> <p>Что мы ждем от кандидата:</p> <ul> <li>Знание теории тестирования;</li> <li>Понимание основ программирования;</li> <li>Понимание архитектуры клиент-сервер;</li> <li>Базовое понимание процессов разработки;</li> <li>Стремление развиваться в области тестирования;</li> <li>Активность, целеустремленность, самостоятельность, понимание командных принципов работы;</li> <li>Техническое образование.</li> </ul> <p>Условия:</p> <ul> <li>Удалённый график работы или офис;</li> <li>Оформление по ТК РФ;</li> <li>Интересный развивающийся продукт;</li> <li>Возможность влиять на процессы и улучшать их;</li> <li>Расширенный социальный пакет (отпускные, больничные, корпоративная программа ДМС).<br /><br /></li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Функциональное тестирование"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "9441719",
+    "name": "Primo RPA",
+    "url": "https://api.hh.ru/employers/9441719",
+    "alternate_url": "https://hh.ru/employer/9441719",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1043334.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5793993.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5793994.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9441719",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T21:21:07+0300",
+  "created_at": "2025-06-05T21:21:07+0300",
+  "initial_created_at": "2025-05-15T21:21:07+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120606368",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120606368",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,160 @@
+{
+  "id": "121339201",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Ведущий технический писатель",
+  "insider_interview": null,
+  "response_letter_required": true,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Лахтинский проспект",
+    "building": "85к3",
+    "lat": 59.993181,
+    "lng": 30.144443,
+    "description": null,
+    "raw": "Санкт-Петербург, Лахтинский проспект, 85к3",
+    "metro": {
+      "station_name": "Беговая",
+      "line_name": "Невско-Василеостровская",
+      "station_id": "16.604",
+      "line_id": "16",
+      "lat": 59.98723,
+      "lng": 30.20247
+    },
+    "metro_stations": [
+      {
+        "station_name": "Беговая",
+        "line_name": "Невско-Василеостровская",
+        "station_id": "16.604",
+        "line_id": "16",
+        "lat": 59.98723,
+        "lng": 30.20247
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Команда технических писателей ищет специалиста, который одновременно умеет разбираться в сложных технических системах и писать понятные и качественные тексты на русском языке.</p> <p><strong>Основное в работе:</strong></p> <ul> <li>разрабатывать пользовательскую документацию на системы и решения компании;</li> <li>собирать, анализировать и систематизировать информацию, необходимую для разработки документации;</li> <li>создавать документы с использованием технологии единого источника в формате DITA.</li> </ul> <p><strong>Что для нас важно:</strong></p> <ul> <li>грамотная письменная и устная речь;</li> <li>ответственность, скрупулёзность и внимание к деталям;</li> <li>умение структурировать большие объёмы информации;</li> <li>готовность изучать новые системы и технологии;</li> <li>знание принципов и методик разработки пользовательской документации и программных продуктов;</li> <li>умение просто и понятно описывать сложные системы и процессы;</li> <li>базовые знания XML и HTML;</li> <li>конструктивное отношение к критике и обратной связи.</li> </ul> <p><strong>Дополнительно оценим:</strong></p> <ul> <li>готовность выполнить небольшое тестовое задание;</li> <li>наличие портфолио и публикаций;</li> <li>сопроводительное письмо;</li> <li>владение общими навыками работы с базами данных и API-интерфейсами;</li> <li>владение одним или несколькими языками программирования;</li> <li>знание UML, BPMN и других нотаций описания систем.</li> </ul> <p><strong>у нас:</strong></p> <ul> <li>участие в создании продуктовых решений международного уровня, ориентированных на эффективное ведение бизнеса для наших партнеров;</li> <li>гибкое начало дня и возможность работать удаленно из любой точки на карте РФ;</li> <li>просторный удобный офис у Финского залива;</li> <li>ДМС со стоматологией для сотрудника и выгодные условия приобретения полисов ДМС и ВЗР (выезд за рубеж) для всей семьи;</li> <li>выстроенная система наставничества с первого дня адаптации и обучение за счет компании: повышение экспертизы в разных продуктовых командах, внешние курсы, корпоративный университет и библиотеки, участие в IT-конференциях, в том числе в качестве спикера;</li> <li>индивидуальный подход к выбору корпоративных льгот: спорт, изучение иностранных языков, здоровье, обучение (и для детей), профессиональная литература;</li> <li>корпоративные тарифы на сотовую связь;</li> <li>компенсация за использование личного оборудования для тех, кто работает дистанционно.</li> </ul>",
+  "branded_description": "\n<style>\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;    \n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    display: inline;\n    margin: 0;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    color: #012C61;\n    overflow: hidden;\n    font-family: 'Verdana';\n    font-size: 16px;\n    line-height: 23px;\n    z-index: 1;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_content {\n    padding: 90px 50px 70px;\n    position: relative;\n    z-index: 1;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n   margin: 30px 0 10px;\n}\n\n.tmpl_hh_content b, \n.tmpl_hh_content strong {\n    display: inline-block;\n    font-weight: bold;\n    font-size: 18px;\n    line-height: 24px;\n    color: #2070FD;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 10px;\n    text-indent: 20px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 10px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;    \n}\n\n.tmpl_hh_content li:before {\n    position: absolute;\n    left: -20px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"—\";\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter)'.';\n    right: 100%;\n    margin-right: 2px;\n}\n\n.tmpl_hh_header {\n    position: relative;\n    color: #012C61;\n    padding: 60px 50px 30px;\n}\n\nimg.tmpl_hh_header__green {\n    position: absolute;\n    width: 48%;\n    right: -13.5%;\n    top: 12%;\n    z-index: -1;\n}\n\np.tmpl_hh_header__text {\n    position: relative;\n    z-index: 1;\n}\n\n.tmpl_hh_about {\n    color: #012C61;\n    padding: 30px 32px 45px 49px;\n    position: relative;\n}\n\np.tmpl_hh_about__slogan {\n    font-weight: bold;\n    color: #012C61;\n    margin: 15px 0 20px;\n}\n\nimg.tmpl_hh_about__line1 {\n    position: absolute;\n    bottom: -20%;\n    right: 0%;\n    width: 103%;\n    z-index: -1;\n}\n\nimg.tmpl_hh_footer__logo {\n    width: 46px;\n    margin: 0 0 14.6% 50px ;\n}\n\n.tmpl_hh_about__item {\n    display: flex;\n    align-items: center;\n    font-size: 18px;\n    line-height: 18px;\n    margin-bottom: 20px;\n}\n\n.tmpl_hh_about__item > p {\n    font-size: 16px;\n}\n\n.tmpl_hh_about__icon {\n    width: 20px;\n    flex-shrink: 0;\n    margin-right: 12px;\n}\n\n@media screen and (max-width: 1019px) {\n\n    img.tmpl_hh_about__line1 {\n        bottom: -25%;\n    }\n}\n\n@media screen and (max-width: 699px) {\n    .tmpl_hh_about__item {\n        font-size: 14px;\n        line-height: 14px;\n    }\n\n    .tmpl_hh_wrapper {\n        font-size: 14px;\n        line-height: 20px;\n    }\n\n    .tmpl_hh_header {\n        padding: 40px 10px 70px;\n    }\n\n    img.tmpl_hh_header__green {\n        width: 230px;\n        right: -68px;\n        top: 78px;\n    }\n\n    .tmpl_hh_about {\n        padding: 10.5% 10px 6% 10px;\n    }\n\n    p.tmpl_hh_header__text {\n        width: 270px;\n    }\n\n    img.tmpl_hh_about__line1 { \n        bottom: -60px;\n        right: 0;\n        width: 100%;\n    }\n\n    .tmpl_hh_content {\n        padding: 78px 10px 29px;\n    }\n\n    .tmpl_hh_content b, .tmpl_hh_content strong {\n        font-size: 16px;\n        line-height: 22px;\n    }\n\n    .tmpl_hh_content p, .tmpl_hh_content b, .tmpl_hh_content strong {\n        margin: 20px 0 10px;\n    }\n\n    img.tmpl_hh_footer__logo {\n        width: 46px;\n        margin: 0 0 14.6% 10px;\n    }\n\n    p.tmpl_hh_about__slogan {\n        margin: 15px 0 0;\n    }\n}\n\n@media screen and (max-width: 510px) {\n    img.tmpl_hh_about__line1 {\n        right: 0;\n        width: 490px;\n    }\n}\n</style>\n\n\n\n<div class=\"tmpl_hh_wrapper\">\n    <div class=\"tmpl_hh_about\">\n        <div class=\"tmpl_hh_about__item\"><div class=\"tmpl_hh_about__icon\"><img src=\"https://hhcdn.ru/ichameleon/225331.svg\" alt=\"\"></div><p>Аккредитованная <nobr>ИТ-компания</nobr></p></div>\n        <p class=\"tmpl_hh_about__text\">Работать в Bercut — это заниматься созданием высоконагруженных систем и актуальных <nobr>IT-продуктов,</nobr> влияющих на жизнь миллионов людей.</p>\n        <p class=\"tmpl_hh_about__slogan\">Стань частью команды экспертов-единомышленников</p>\n        <img class=\"tmpl_hh_about__line tmpl_hh_about__line1\" src=\"https://hhcdn.ru/ichameleon/191786.gif\" alt=\"\">\n    </div>\n    <div class=\"tmpl_hh_content\">\n       <p>Команда технических писателей ищет специалиста, который одновременно умеет разбираться в сложных технических системах и писать понятные и качественные тексты на русском языке.</p> <p><strong>Основное в работе:</strong></p> <ul> <li>разрабатывать пользовательскую документацию на системы и решения компании;</li> <li>собирать, анализировать и систематизировать информацию, необходимую для разработки документации;</li> <li>создавать документы с использованием технологии единого источника в формате DITA.</li> </ul> <p><strong>Что для нас важно:</strong></p> <ul> <li>грамотная письменная и устная речь;</li> <li>ответственность, скрупулёзность и внимание к деталям;</li> <li>умение структурировать большие объёмы информации;</li> <li>готовность изучать новые системы и технологии;</li> <li>знание принципов и методик разработки пользовательской документации и программных продуктов;</li> <li>умение просто и понятно описывать сложные системы и процессы;</li> <li>базовые знания XML и HTML;</li> <li>конструктивное отношение к критике и обратной связи.</li> </ul> <p><strong>Дополнительно оценим:</strong></p> <ul> <li>готовность выполнить небольшое тестовое задание;</li> <li>наличие портфолио и публикаций;</li> <li>сопроводительное письмо;</li> <li>владение общими навыками работы с базами данных и API-интерфейсами;</li> <li>владение одним или несколькими языками программирования;</li> <li>знание UML, BPMN и других нотаций описания систем.</li> </ul> <p><strong>у нас:</strong></p> <ul> <li>участие в создании продуктовых решений международного уровня, ориентированных на эффективное ведение бизнеса для наших партнеров;</li> <li>гибкое начало дня и возможность работать удаленно из любой точки на карте РФ;</li> <li>просторный удобный офис у Финского залива;</li> <li>ДМС со стоматологией для сотрудника и выгодные условия приобретения полисов ДМС и ВЗР (выезд за рубеж) для всей семьи;</li> <li>выстроенная система наставничества с первого дня адаптации и обучение за счет компании: повышение экспертизы в разных продуктовых командах, внешние курсы, корпоративный университет и библиотеки, участие в IT-конференциях, в том числе в качестве спикера;</li> <li>индивидуальный подход к выбору корпоративных льгот: спорт, изучение иностранных языков, здоровье, обучение (и для детей), профессиональная литература;</li> <li>корпоративные тарифы на сотовую связь;</li> <li>компенсация за использование личного оборудования для тех, кто работает дистанционно.</li> </ul></div>\n    <div class=\"tmpl_hh_footer\">\n        <img class=\"tmpl_hh_footer__logo\" src=\"https://hhcdn.ru/ichameleon/191789.svg\" alt=\"\">\n    </div>\n</div> \n\n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "XML"
+    },
+    {
+      "name": "Работа в команде"
+    },
+    {
+      "name": "Грамотность"
+    },
+    {
+      "name": "UML"
+    },
+    {
+      "name": "DITA"
+    },
+    {
+      "name": "SQL"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "126",
+      "name": "Технический писатель"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11600",
+    "name": "Bercut",
+    "url": "https://api.hh.ru/employers/11600",
+    "alternate_url": "https://hh.ru/employer/11600",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/801192.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3645655.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3645656.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11600",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T11:15:14+0300",
+  "created_at": "2025-06-06T11:15:14+0300",
+  "initial_created_at": "2025-06-04T13:58:35+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121339201",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121339201",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

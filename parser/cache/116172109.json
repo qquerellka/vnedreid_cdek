@@ -1,0 +1,119 @@
+{
+  "id": "116172109",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "DevOps-инженер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Компания Липтсофт работает с 2012 года и занимается разработкой программного обеспечения для банковского и финансового сектора. Мы аккредитованная ИТ-компания и являемся стратегическим ИТ-партнером Банка &quot;Санкт-Петербург&quot;. Наша цель - создавать понятные и удобные digital-продукты, которые помогут упростить жизнь пользователей сервисов мобильного и интернет банкинга.</p> <p>Мы в поиске инженеров уровня Middle+/Senior, которые будут взаимодействовать с существующими командами разработки и участвовать в разнообразных проектах компании. При этом внутри компании мы постоянно следим за актуальностью используемых технологий, регулярно улучшаем безопасность и производительность и уделяем большое внимание тестированию.</p> <p><strong>Мы используем: </strong></p> <ul> <li>Операционные системы: Linux.</li> <li>Контейнеризация: Docker, Docker Swarm, Portainer.</li> <li>Оркестрация: Kubernetes, Helm, Helmfile.</li> <li>Облака и IaC: Yandex Cloud, Terraform, Reg.ru.</li> <li>Инструменты CI/CD и управления артефактами: GitLab, GitLab CI, Jenkins, Nexus.</li> <li>Скрипты и автоматизация: Bash, Python.</li> </ul> <p><strong>Вам предстоит: </strong></p> <ul> <li>поддерживать и развивать инфраструктуру в Yandex Cloud(Виртуальные машины, kubernetes кластеры etc.);</li> <li>сопровождать команды, использующие различные технологии в ходе разработки, в частности консультировать коллег по вопросам контейнеризации и развертывания инфраструктуры;</li> <li>заниматься администрированием инструментов (Nexus, GitLab, Confluence);</li> <li>разрабатывать и настраивать Helm-чарты для управления приложениями в Kubernetes.</li> </ul> <p><strong>Мы ожидаем, что вы: </strong></p> <ul> <li>имеете опыт автоматизации на базе Gitlab CI от 3-х лет;</li> <li>знакомы с облачными провайдерами и работали хотя бы с одним из них(в приоритете Yandex Cloud);</li> <li>уже работали с контейнеризацией на базе Docker;</li> <li>владеете навыками системного администрирования Linux от года;</li> <li>умеете писать и поддерживать скрипты на Bash/Python;</li> <li>понимаете базовые принципы работы инструментов оркестрации, в частности k8s;</li> <li>знаете основы сетевого стека (модель OSI, порты, стандартные протоколы, что такое DNS и как устроено).</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li> <p>регулярно пересматриваемая зарплата, социальный пакет с первого дня (ДМС, английский язык);</p> </li> <li> <p>возможность работать в комфортном для вас формате (как удаленно, так и из офиса) и гибком графике(начало рабочего дня с 9 до 11 утра);</p> </li> <li> <p>уютный и ламповый офис в Санкт-Петербурге в 10 минутах от метро Новочеркасская со всем необходимым для комфортной работы;</p> </li> <li> <p>спорт: компания компенсирует затраты на спортивные активности — занятия в фитнес-клубе, индивидуальные тренировки, участия в соревнованиях;</p> </li> <li> <p>сложные и интересные задачи: быстрорастущие сервисы, которые задают уровень для конкурентов качеством и технологиями;</p> </li> <li> <p>команда: с нами работают профессионалы экстра класса, каждый из которых может поделиться своей экспертизой;</p> </li> <li> <p>профессиональное развитие: мы организуем митапы, конференции, семинары и тренинги, куда открыт доступ каждому сотруднику, а также регулярно посещаем лучшие российские конференции;</p> </li> <li> <p>новый опыт: лучшие сотрудники преподают в наших образовательных проектах, выступают на российских и международных конференциях.</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "160",
+      "name": "DevOps-инженер"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1741760",
+    "name": "ЛИПТ Софт",
+    "url": "https://api.hh.ru/employers/1741760",
+    "alternate_url": "https://hh.ru/employer/1741760",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1369958.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7099734.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7099735.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1741760",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-26T09:57:56+0300",
+  "created_at": "2025-05-26T09:57:56+0300",
+  "initial_created_at": "2025-01-23T17:00:17+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=116172109",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/116172109",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

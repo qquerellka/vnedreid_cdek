@@ -1,0 +1,158 @@
+{
+  "id": "121268289",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Ведущий специалист технической поддержки",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": null,
+    "to": 160000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": null,
+    "to": 160000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Стартовая улица",
+    "building": "8а",
+    "lat": 59.807455,
+    "lng": 30.314377,
+    "description": null,
+    "raw": "Санкт-Петербург, Стартовая улица, 8а",
+    "metro": {
+      "station_name": "Московская",
+      "line_name": "Московско-Петроградская",
+      "station_id": "15.224",
+      "line_id": "15",
+      "lat": 59.848873,
+      "lng": 30.321483
+    },
+    "metro_stations": [
+      {
+        "station_name": "Московская",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.224",
+        "line_id": "15",
+        "lat": 59.848873,
+        "lng": 30.321483
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>LEGENDA Intelligent Development</strong> - девелопер с прогрессивной ментальностью и ярким характером приглашает в свою команду<strong> ведущего специалиста технической поддержки</strong>.</p> <p><strong>Ваша зона ответственности:</strong></p> <ul> <li>умение выстраивать коммуникацию с первыми лицами компании</li> <li>управление инцидентами в тикет-системе</li> </ul> <div> <ul> <li>выполнение функции 2 линии технической поддержки (решение сложных инцидентов и системных проблем)</li> <li>решение инфраструктурных задач</li> <li>навыки удаленного администрирования семейством macOS и iOS</li> <li>контроль работоспособности различных ИТ сервисов Холдинга на корпоративных устройствах руководства Компании</li> <li>подготовка технического обеспечения офисов для публичных мероприятий</li> </ul> </div> <p><strong>Наши ожидания:</strong></p> <ul> <li>знание клиентских версий ОС Windows на уровне администратора</li> </ul> <div> <ul> <li>опыт в настройке ОС MacOS и iOS на уровне уверенного пользователя</li> <li>опыт в подборе и настройке пользовательской электроники: смартфоны (преимущественно Apple), планшеты, ТВ, ТВ-приставки, ПК, акустические системы</li> <li>знание офисных пакетов Microsoft Office 2013-2019 - на уровне уверенного пользователя</li> <li>знание и понимание принципов функционирования локальных вычислительных сетей (модель OSI, стека протоколов TCP/IP)</li> <li>обязателен опыт работы со следующими системами и сервисами: Active Directory, групповые политики, Zoom, Outlook</li> <li>соблюдение DC</li> </ul> </div> <ul> <li>опыт организации работы подрядчиков</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>График работы: 5/2 с 09:00 до 18:00 в офисе;</li> <li>Место работы: адрес г. Санкт-Петербург, Стартовая ул, 8А БЦ «Аэроплаза» класса А;</li> <li>Бесплатный трансфер от метро пр. Ветеранов и м. Московская в утреннее и вечернее время (время в пути примерно 15 минут);</li> <li>Официальное трудоустройство, полностью «белая заработная плата», ДМС после испытательного срока;</li> <li>Сокращенная пятница;</li> <li>Комфортные условия труда в современном комфортном офисе;</li> <li>Интересная работа в молодом, дружном и творческом коллективе;</li> <li>Обучение;</li> <li>Возможность карьерного и профессионального развития.</li> </ul> <p><em>Если вы стремитесь развиваться, любите инновации, а культура для вас не просто слово, будем рады знакомству!</em></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Active Directory"
+    },
+    {
+      "name": "Mac Os"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "783775",
+    "name": "LEGENDA",
+    "url": "https://api.hh.ru/employers/783775",
+    "alternate_url": "https://hh.ru/employer/783775",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/947282.png",
+      "90": "https://img.hhcdn.ru/employer-logo/4229664.png",
+      "240": "https://img.hhcdn.ru/employer-logo/4229665.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=783775",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T10:08:41+0300",
+  "created_at": "2025-06-03T10:08:41+0300",
+  "initial_created_at": "2025-06-03T10:08:41+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121268289",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121268289",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

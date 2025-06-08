@@ -1,0 +1,140 @@
+{
+  "id": "120897407",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "PHP разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 180000,
+    "to": 280000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 180000,
+    "to": 280000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p><strong>Приглашаем в команду PHP-разработчика(Laravel+Vue3)</strong></p> <p> </p> <p><strong>Чем предстоит заниматься:</strong></p> <p>• Разработка модулей и сервисов под ключ;</p> <p>• Доработка существующего кода и его оптимизация;</p> <p>• Интеграция с сервисами, как разработанными внутри компании, так и сторонними;</p> <p>• Разработка и внедрение новых проектов компании, личных кабинетов для финансовых и инвестиционных компаний;</p> <p>• Взаимодействие с командами разработки и тестирования, со сторонними разработчиками.</p> <p> </p> <p><strong>Необходимые знания:</strong></p> <p>• Опыт разработки на PHP от 2-х лет (5.x/7.x/8.x);</p> <p>• Опыт работы с базами данных, умение анализировать и оптимизировать запросы, понимание работы транзакций (MySQL,PostgresSQL, понимание нереляционных СУБД);</p> <p>• Знание современных фреймворков РНР;</p> <p>• Система контроля версий: GIT, знать GitFlow, свободное владение composer, npm;</p> <p>• Знание и опыт работы с Redis;</p> <p>• Понимание принципов работы Apache Kafka.</p> <p> </p> <p><strong>Было бы плюсом:</strong></p> <p>• Опыт работы с Linux через консоль на уровне продвинутого пользователя;</p> <p>• Опыт проектирования REST API;</p> <p>• Умение организовывать обработку задач в фоновом режиме;</p> <ul> <li>Знание HTML, JS, Vue3, JQuery, CSS3 (SASS, SCSS), BootStrap;</li> </ul> <p>• Уметь находить простые и оптимальные решения сложных задач;</p> <p>• Опыт работы с блокчейнами;</p> <p>• Навыки валидной кроссбраузерной вёрстки, блочной вёрстки.</p> <p> </p> <p><strong>Возможно тимлидами будет предложено тестовое задание по результатам интервью.</strong></p> <p> </p> <p><strong>Условия:</strong></p> <ul> <li>График работы 5/2, понедельник-пятница c 10.00 до 19.00 (мск)</li> <li>Отпуск - 28 календарных дней;</li> <li>Применяется удаленный формат работы, место работы возможно в любом городе или стране.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "Laravel"
+    },
+    {
+      "name": "VueJS"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4975947",
+    "name": "Excdev",
+    "url": "https://api.hh.ru/employers/4975947",
+    "alternate_url": "https://hh.ru/employer/4975947",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/864004.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3896891.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3896892.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4975947",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-23T10:32:10+0300",
+  "created_at": "2025-05-23T10:32:10+0300",
+  "initial_created_at": "2025-05-23T10:32:10+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120897407",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120897407",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

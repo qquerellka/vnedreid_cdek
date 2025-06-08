@@ -1,0 +1,167 @@
+{
+  "id": "120701665",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Стажер программиста 1С",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "3",
+    "name": "Екатеринбург",
+    "url": "https://api.hh.ru/areas/3"
+  },
+  "salary": {
+    "from": 30000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 30000,
+    "to": 150000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Екатеринбург",
+    "street": "улица Пушкина",
+    "building": "9А",
+    "lat": 56.837046,
+    "lng": 60.607428,
+    "description": null,
+    "raw": "Екатеринбург, улица Пушкина, 9А",
+    "metro": {
+      "station_name": "Площадь 1905 года",
+      "line_name": "Север-Юг",
+      "station_id": "48.266",
+      "line_id": "48",
+      "lat": 56.837982,
+      "lng": 60.59734
+    },
+    "metro_stations": [
+      {
+        "station_name": "Площадь 1905 года",
+        "line_name": "Север-Юг",
+        "station_id": "48.266",
+        "line_id": "48",
+        "lat": 56.837982,
+        "lng": 60.59734
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Ищем в отдел разработки 1С программиста. Коллектив молодой, атмосфера теплая. Организуем бесплатные печеньки, чай, сладкое. Находимся в центре города (район плотинки: живописные места для прогулок находятся буквально сразу после выхода из подъезда, 5 минут от метро).</p> <p>Задачи есть как проектные, так и текущие. Текущие задачи ставит клиент, проектные - руководитель проекта. Присутствует разработка по составленному техническому заданию.</p> <p><strong>Что мы хотим видеть в кандидате?</strong></p> <ul> <li>Знание языка запросов</li> <li>Умение разбираться в чужом коде, отлаживать код</li> <li>Умение доводить дела до конца, самообучаемость (материал для обучения предоставим, а также наставника, который будет курировать процесс обучения, сможет ответить на ваши вопросы)</li> <li>Дружелюбность, готовность общаться с клиентом</li> <li>Опыт от полугода</li> </ul> <p><strong>Важен либо минимальный опыт, либо прохождение курсов. С нуля не обучаем.</strong></p> <p><strong>Будет большим плюсом если:</strong></p> <ul> <li>Понимание как должен выглядеть понятный и легко поддерживаемый код</li> <li>Умеете работать с конвертацией данных 2.0 и/или 3.0</li> <li>Знаете типовые конфигурации: Бухгалтерия, Зарплата, Управление торговлей, Комплексная автоматизация, ERP</li> <li>Умеете работать с СКД</li> <li>Имеете опыт написания своих подсистем и конфигураций.</li> <li>Умеете писать технические задания<br />У вас есть сертификаты специалистов</li> </ul> <p><strong>Если нет - не страшно. Предоставим возможность обучения, поможем получить сертификаты.</strong></p> <p><strong>Что мы предлагаем?</strong></p> <ul> <li>Оформление по ТК РФ</li> <li>Обучение и сертификация за счет компании</li> <li>Профессиональное развитие и возможность карьерного роста</li> <li>Оклад + сдельная часть</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "1С: Бухгалтерия"
+    },
+    {
+      "name": "1С: Управление Торговлей"
+    },
+    {
+      "name": "1С: Зарплата и управление персоналом"
+    },
+    {
+      "name": "1С программирование"
+    },
+    {
+      "name": "1С: Предприятие 8"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4566074",
+    "name": "Альтеит",
+    "url": "https://api.hh.ru/employers/4566074",
+    "alternate_url": "https://hh.ru/employer/4566074",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/727910.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3352724.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3352725.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4566074",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-05-19T12:34:48+0300",
+  "created_at": "2025-05-19T12:34:48+0300",
+  "initial_created_at": "2025-05-19T12:34:48+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120701665",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120701665",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": true,
+  "night_shifts": false,
+  "work_format": [],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

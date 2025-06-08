@@ -1,0 +1,166 @@
+{
+  "id": "121224715",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Специалист технической поддержки",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 70000,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 70000,
+    "to": 100000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Погорельский переулок",
+    "building": "6",
+    "lat": 55.732839,
+    "lng": 37.622315,
+    "description": null,
+    "raw": "Москва, Погорельский переулок, 6",
+    "metro": {
+      "station_name": "Полянка",
+      "line_name": "Серпуховско-Тимирязевская",
+      "station_id": "9.115",
+      "line_id": "9",
+      "lat": 55.736795,
+      "lng": 37.618594
+    },
+    "metro_stations": [
+      {
+        "station_name": "Полянка",
+        "line_name": "Серпуховско-Тимирязевская",
+        "station_id": "9.115",
+        "line_id": "9",
+        "lat": 55.736795,
+        "lng": 37.618594
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Мы — <strong>Группа IT-компаний Lad</strong>, более 30 лет помогаем бизнесу с IT-решениями. Сегодня нас более 550 человек, и мы продолжаем расти.</p> <p> ⭐ В 2024 году вошли в ТОП-200 работодателей России и заняли 1-е место среди IT-компаний Нижегородской области.</p> <p>Если ты любишь общаться, помогать клиентами и хочешь развиваться в сфере IT — тебе точно к нам!</p> <p><strong>Твои задачи:</strong></p> <ul> <li> <p>Обслуживание, настройка и ремонт онлайн-касс и ПО.</p> </li> <li> <p>Консультации клиентов по телефону и в офисе.</p> </li> <li> <p>Обучение пользователей работе с ПО и оборудованием.</p> </li> <li> <p>Передача технических задач в команду разработки.</p> </li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li> <p>График работы: с 9:00 до 18:00, в пятницу уходим на час раньше, гибридный формат работы после испытательного срока.</p> </li> <li> <p>“Белая” зарплата: оклад + премия по KPI.</p> </li> <li> <p>Обучение и развитие: Корпоративный университет, внешние тренинги, митапы, обучение работе с ИИ. Выстроенный процесс адаптации. Возможность карьерного роста.</p> </li> <li> <p>Забота о здоровье: ДМС, чекапы, психологическая поддержка, спа и массаж.</p> </li> <li> <p>“Плюшки”: оплачиваемый выходной на день рождения, компенсация спорта, подписка на Литрес и ИИ-инструменты.</p> </li> <li> <p>Участие в жизни команды: квизы, боулинг и соревнования с призами.</p> </li> </ul> <p><strong>Требования:</strong></p> <ul> <li> <p>Уверенный пользователь ПК, с опытом установки программного обеспечения себе, знакомым.</p> </li> <li> <p>Готовность к разъездному характеру работы (выезды бывают, но нечасто).</p> </li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Техническая поддержка"
+    },
+    {
+      "name": "Телефонные переговоры"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "121",
+      "name": "Специалист технической поддержки"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": true,
+  "employer": {
+    "id": "93051",
+    "name": "Группа IT-компаний Lad",
+    "url": "https://api.hh.ru/employers/93051",
+    "alternate_url": "https://hh.ru/employer/93051",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/669894.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/3120708.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/3120709.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=93051",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T13:54:34+0300",
+  "created_at": "2025-06-05T13:54:34+0300",
+  "initial_created_at": "2025-06-02T13:54:34+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121224715",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121224715",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

@@ -1,0 +1,214 @@
+{
+  "id": "121168213",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Fullstack-разработчик (Laravel/Vue)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 140000,
+    "to": 170000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 140000,
+    "to": 170000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "улица Савушкина",
+    "building": "24",
+    "lat": 59.98507,
+    "lng": 30.291488,
+    "description": null,
+    "raw": "Санкт-Петербург, улица Савушкина, 24",
+    "metro": {
+      "station_name": "Пионерская",
+      "line_name": "Московско-Петроградская",
+      "station_id": "15.213",
+      "line_id": "15",
+      "lat": 60.002487,
+      "lng": 30.296759
+    },
+    "metro_stations": [
+      {
+        "station_name": "Пионерская",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.213",
+        "line_id": "15",
+        "lat": 60.002487,
+        "lng": 30.296759
+      },
+      {
+        "station_name": "Старая Деревня",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.246",
+        "line_id": "18",
+        "lat": 59.989433,
+        "lng": 30.255163
+      },
+      {
+        "station_name": "Чёрная речка",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.214",
+        "line_id": "15",
+        "lat": 59.985455,
+        "lng": 30.300833
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Мы группа медицинских клиник с внутренней командой разработки и поддержки своих продуктов. На сегодняшний день мы работаем над тем, чтобы наш сайт радовал своими возможностями наших пациентов. </p> <p>Мы ищем еще одного разработчика в команду для разработки &quot;с нуля&quot; сайта для Стоматологии. </p> <p><strong>Наш стек</strong>:</p> <ul> <li>PHP (Laravel)</li> <li>MySQL (MariaDB)</li> <li>Vue, Nuxt</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>опыт работы с одним из PHP фреймворков от 2 лет (Laravel, Symfony, Yii)</li> <li>опыт работы с Vue / React</li> <li>ES6, HTML5, CSS3</li> <li>базовые навыки администрирования Linux</li> <li>знать и применять базовые паттерны проектирования, принципы разработки</li> <li>опыт проектирования API, БД</li> </ul> <p><strong>Будет преимуществом:</strong></p> <ul> <li>опыт именно с Laravel и Vue от 2х лет</li> <li>Docker</li> <li>Gitlab CI/CD - будет супер</li> <li>английский, достаточный для чтения документаций</li> <li>опыт написания тестов</li> <li>опыт работы с NoSQL</li> </ul> <p><strong>Условия сотрудничества:</strong></p> <ul> <li> <p>Режим работы 5/2, полный рабочий день - гибкие начало и конец</p> </li> <li> <p>Формат работы: офис (или гибридный/удаленный - после испытательного срока по договоренности)</p> </li> <li> <p>Корпоративное питание, абонемент в зал для себя и семьи, спец цена на услуги клиник для себя и семьи. </p> </li> </ul> <p><strong>Кроме того: </strong></p> <ul> <li>Возможность самому выбирать технологии и проектировать архитектуру</li> <li>Работа по спринтам</li> <li>Отсутствие легаси и бюрократии</li> <li>Объемные и разнообразные задачи. </li> </ul> <p> </p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Vue"
+    },
+    {
+      "name": "Laravel"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "REST API"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "5270441",
+    "name": "Состояние Здоровья",
+    "url": "https://api.hh.ru/employers/5270441",
+    "alternate_url": "https://hh.ru/employer/5270441",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1385180.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7160507.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7160508.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5270441",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-05T13:25:30+0300",
+  "created_at": "2025-06-05T13:25:30+0300",
+  "initial_created_at": "2025-05-30T13:25:30+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121168213",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121168213",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    },
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    },
+    {
+      "id": "HYBRID",
+      "name": "Гибрид"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

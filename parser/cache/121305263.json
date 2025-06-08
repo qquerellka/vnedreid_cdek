@@ -1,0 +1,179 @@
+{
+  "id": "121305263",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Помощник системного администратора",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Москва",
+    "street": "Походный проезд",
+    "building": "3с1",
+    "lat": 55.834305,
+    "lng": 37.408534,
+    "description": null,
+    "raw": "Москва, Походный проезд, 3с1",
+    "metro": {
+      "station_name": "Волоколамская",
+      "line_name": "МЦД-2",
+      "station_id": "132.717",
+      "line_id": "132",
+      "lat": 55.835154,
+      "lng": 37.382453
+    },
+    "metro_stations": [
+      {
+        "station_name": "Волоколамская",
+        "line_name": "МЦД-2",
+        "station_id": "132.717",
+        "line_id": "132",
+        "lat": 55.835154,
+        "lng": 37.382453
+      },
+      {
+        "station_name": "Сходненская",
+        "line_name": "Таганско-Краснопресненская",
+        "station_id": "7.138",
+        "line_id": "7",
+        "lat": 55.84926,
+        "lng": 37.44076
+      },
+      {
+        "station_name": "Трикотажная",
+        "line_name": "МЦД-2",
+        "station_id": "132.744",
+        "line_id": "132",
+        "lat": 55.833137,
+        "lng": 37.398967
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Мы ищем специалиста, который не боится интересных и трудных задач! Готов расти и развиваться внутри стабильной, надежной компании. Которому важен хороший коллектив, который всегда готов прийти на помощь.</p> <p><br />Мы работаем с большим списком производителей и моделей оборудования.</p> <p><br />Мы предлагаем возможность самостоятельного ведения проектов по оптимизации/улучшению процессов, а также внедрению новых технологий, расширяя личную зону ответственности в компании.</p> <p><br />В нашей компании Вы сможете реализовать потребность профессионального и карьерного роста.</p> <p><br />Ждем новичков и выпускников с небольшим опытом работы. У нас Вы сможете научиться всему и даже чуточку больше!</p> <p><br /><strong>Функциональные обязанности:</strong></p> <ul> <li>Участие в администрировании серверов, ОС и СХД;</li> <li>Выполнение задач по готовым инструкциям;</li> <li>Привлечение к проектам разного уровня сложности;</li> <li>Расстановка приоритетов обработки заявок и контроль своевременного решения инцидентов.</li> </ul> <p><strong>Преимуществом будет:</strong></p> <ul> <li>Умение устанавливать‚ настраивать и обслуживать ОС;</li> <li>Понимание принципов работы сетей;</li> <li>Умение работать в многозадачном режиме;</li> <li>Навыки делового общения, коммуникабельность.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Приобретение навыков работы в большой, разветвлённой и сложноподчинённой инфраструктуре;</li> <li>Оформление в соответствии с ТК РФ;</li> <li>Полностью официальная заработная плата по результатам собеседования;</li> <li>График работы 5/2;</li> <li>Основной отпуск 28 календарных дней + дополнительный оплачиваемый отпуск от 5 до 10 дней;</li> <li>Материальная помощь к отпуску;</li> <li>Отличная команда профессиональных коллег;</li> <li>Обучение, сопровождение новичков, доведение до результата;</li> <li>Регулярное обучение на курсах повышения квалификации;</li> <li>Медицинское обслуживание в ведомственной поликлинике ФНС России для сотрудников и членов их семей;</li> <li>Скидка на питание в столовых, расположенных на территории;</li> <li>Возможность отдыха с семьей по льготным ценам в оздоровительных учреждениях ФНС России, детские летние оздоровительные лагеря;</li> <li>Корпоративный фитнес;</li> <li>Мы находимся по адресу: Походный проезд (Налоговый городок), ближайшие станции метро Сходненская, Тушинская, Волоколамская.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Администрирование ОС"
+    },
+    {
+      "name": "PowerShell"
+    },
+    {
+      "name": "Hardware"
+    },
+    {
+      "name": "Windows"
+    },
+    {
+      "name": "VMware"
+    },
+    {
+      "name": "Hyper-V"
+    },
+    {
+      "name": "Linux"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "113",
+      "name": "Системный администратор"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4151691",
+    "name": "Филиал ФКУ Налог-Сервис ФНС России в г. Москве",
+    "url": "https://api.hh.ru/employers/4151691",
+    "alternate_url": "https://hh.ru/employer/4151691",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/808870.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3676367.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3676368.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4151691",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-03T17:23:16+0300",
+  "created_at": "2025-06-03T17:23:16+0300",
+  "initial_created_at": "2025-06-03T17:23:16+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121305263",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121305263",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

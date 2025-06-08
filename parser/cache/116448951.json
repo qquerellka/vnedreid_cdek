@@ -1,0 +1,175 @@
+{
+  "id": "116448951",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер по тестированию",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "salary_range": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Левашовский проспект",
+    "building": "12",
+    "lat": 59.96584,
+    "lng": 30.292997,
+    "description": null,
+    "raw": "Санкт-Петербург, Левашовский проспект, 12",
+    "metro": {
+      "station_name": "Петроградская",
+      "line_name": "Московско-Петроградская",
+      "station_id": "15.215",
+      "line_id": "15",
+      "lat": 59.966389,
+      "lng": 30.311293
+    },
+    "metro_stations": [
+      {
+        "station_name": "Петроградская",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.215",
+        "line_id": "15",
+        "lat": 59.966389,
+        "lng": 30.311293
+      }
+    ]
+  },
+  "allow_messages": true,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong><em>MVS</em></strong> – российская группа компаний, специализирующаяся на разработке комплексных IT решений для медицинской отрасли с опытом на рынке более 10 лет.</p> <p>Мы несколько лет развиваем программно-аппаратную систему для хирургических операционных и связанные облачные решения. Текущие версии уже на уровне лучших мировых аналогов, и мы уверенно движемся дальше.</p> <p>Приглашаем опытных специалистов <strong>в команду тестирования</strong> продуктов компании!</p> <p><strong>Чем предстоит заниматься: </strong></p> <ul> <li>Планирование, проектирование и проведение различных видов тестирования (функциональное, интеграционное, тестирование сборки и др.);</li> <li>Формирование и поддержка в актуальном состоянии тест-кейсов;</li> <li>Подготовка тестовых данных;</li> <li>Написание баг-репортов, отслеживание исправления багов;</li> <li>Взаимодействие с разработчиками;</li> <li>Взаимодействие с инженерами в ходе анализа ошибок и инцидентов;</li> <li>Контроль качества разрабатываемого продукта и его готовности к релизу.</li> </ul> <p><strong>Мы ожидаем:</strong></p> <ul> <li>Опыт тестирования веб-проектов, мобильных приложений, REST API;</li> <li>Опыт разработки тестовой документации;</li> <li>Знание и понимание процесса разработки;</li> <li>Понимание архитектуры клиент-серверного приложения;</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Стабильная и перспективная отрасль;</li> <li>Мы аккредитованная ИТ-компания;</li> <li>ДМС после полугода работы, вакцинация, офисный врач, консультации психолога;</li> <li>Курсы английского с первого дня работы;</li> <li>Программы обучения и посещения профильных конференций;</li> <li>Поддерживаем семейные активности - проводим праздники для детей, даем билет в Ленинградский зоопарк :)</li> <li>Комфортный офис в 10 минутах ходьбы от ст. м. Чкаловская и Петроградская (формат работы - офиc в СПБ)</li> </ul> <p> </p>",
+  "branded_description": "\n<style>\n@charset \"UTF-8\";\n\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li em,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ol li p em,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li em,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong,\n.tmpl_hh_content ul li p em {\n    font-weight: normal;\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    display: inline;\n    margin: 0;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    font-family: \"Arial\", sans-serif;\n    color: #000;\n    font-size: 16px;\n    line-height: 1.375;\n    overflow: hidden;\n    z-index: 1;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_wrapper * {\n    -webkit-box-sizing: border-box;\n    box-sizing: border-box;\n}\n\n.tmpl_hh_wrapper [role=button] {\n    outline: none;\n}\n\n.tmpl_hh_video {\n    position: relative;\n    width: 100%;\n}\n\n.tmpl_hh_video img,\n.tmpl_hh_video iframe {\n    position: absolute;\n    left: 0;\n    top: 0;\n    width: 100%;\n    height: 100%;\n}\n\n.tmpl_hh_head {\n    position: relative;\n    padding: 20px 20px 0;\n}\n\n.tmpl_hh_head::before,\n.tmpl_hh_head::after {\n    position: absolute;\n    content: \"\";\n    z-index: -1;\n}\n\n.tmpl_hh_head::before {\n    right: -171px;\n    top: -109px;\n    width: 362px;\n    height: 362px;\n    border-radius: 50%;\n    background: #00e0ce;\n    -webkit-filter: blur(125px);\n    filter: blur(125px);\n}\n\n.tmpl_hh_head::after {\n    width: 439px;\n    height: 395px;\n    left: -119px;\n    bottom: -26px;\n    background-repeat: no-repeat;\n    background-size: 100% auto;\n    background-position: center;\n    background-image: url(\"https://hhcdn.ru/ichameleon/305183.png\");\n}\n\n.tmpl_hh_head__logo {\n    width: 145px;\n    margin-bottom: 20px;\n    margin-left: 25px;\n}\n\n.tmpl_hh_head__img img {\n    border-radius: 30px;\n}\n\n.tmpl_hh_about {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-align: end;\n    -ms-flex-align: end;\n    align-items: flex-end;\n    margin-top: -49px;\n}\n\n.tmpl_hh_about__content {\n    background: -webkit-gradient(linear, left bottom, left top, from(rgba(255, 255, 255, 0.7)), to(rgba(255, 255, 255, 0.7))), -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0.6)), to(rgba(255, 255, 255, 0)));\n    background: -webkit-linear-gradient(bottom, rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), -webkit-linear-gradient(top, rgba(255, 255, 255, 0.6) 0%, rgba(255, 255, 255, 0) 100%);\n    background: -o-linear-gradient(bottom, rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), -o-linear-gradient(top, rgba(255, 255, 255, 0.6) 0%, rgba(255, 255, 255, 0) 100%);\n    background: linear-gradient(0deg, rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), linear-gradient(180deg, rgba(255, 255, 255, 0.6) 0%, rgba(255, 255, 255, 0) 100%);\n    -webkit-box-shadow: 0px 6px 15px 0px #0000000f;\n    box-shadow: 0px 6px 15px 0px #0000000f;\n    padding: 18px 73px 18px 26px;\n    font-size: 30px;\n    line-height: 120%;\n    border-radius: 20px;\n}\n\n.UNSAFE-vacancy-branded-is-desktop .tmpl_hh_about__content {\n    background: -webkit-gradient(linear, left bottom, left top, from(rgba(255, 255, 255, 0.6)), to(rgba(255, 255, 255, 0.6))), -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0.5)), to(rgba(255, 255, 255, 0)));\n    background: -webkit-linear-gradient(bottom, rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), -webkit-linear-gradient(top, rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 0) 100%);\n    background: -o-linear-gradient(bottom, rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), -o-linear-gradient(top, rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 0) 100%);\n    background: linear-gradient(0deg, rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), linear-gradient(180deg, rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 0) 100%);\n    -webkit-backdrop-filter: blur(17.5px);\n    backdrop-filter: blur(17.5px);\n}\n\n.tmpl_hh_about__logo img:nth-child(1) {\n    box-sizing: border-box;\n    padding: 0 11px 5px 14px;\n}\n\n.tmpl_hh_about__logo {\n    min-width: 65px;\n    width: 15.47%;\n    margin-left: auto;\n    margin-bottom: -3px;\n}\n\n.tmpl_hh_footer {\n    position: relative;\n    padding: 0 45px 31px;\n    background-repeat: no-repeat;\n    background-position: left bottom;\n    background-size: 80% auto;\n    background-image: url(\"https://hhcdn.ru/ichameleon/305199.png\");\n}\n\n.tmpl_hh_footer::before {\n    position: absolute;\n    content: \"\";\n    z-index: -1;\n    width: 120px;\n    height: 120px;\n    top: 100px;\n    right: 18px;\n    border-radius: 50%;\n    background: rgba(0, 224, 206, 0.9);\n    -webkit-filter: blur(75px);\n    filter: blur(75px);\n}\n\n.tmpl_hh_numbers {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n    gap: 20px 0;\n    background-color: rgba(255, 255, 255, 0.4);\n    -webkit-box-shadow: 0px 6px 15px 0px #0000000f;\n    box-shadow: 0px 6px 15px 0px #0000000f;\n    padding: 18px 59px 20px 25px;\n    border-radius: 20px;\n}\n\n.tmpl_hh_numbers__item {\n    position: relative;\n    width: 18%;\n}\n\n.tmpl_hh_numbers__item:nth-child(3) {\n    left: 20px;\n}\n\n.tmpl_hh_numbers__subtitle {\n    margin-bottom: 10px;\n}\n\n.tmpl_hh_numbers__subtitle img {\n    width: auto;\n    height: 33px;\n}\n\n.tmpl_hh_numbers p.tmpl_hh_numbers__text {\n    font-size: 11px;\n    font-weight: 700;\n    line-height: 18px;\n    text-transform: uppercase;\n}\n\n.tmpl_hh_gallery {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n    gap: 15px 0;\n    margin-top: 20px;\n}\n\n.tmpl_hh_gallery__item:nth-child(1) {\n    width: 41.67%;\n}\n\n.tmpl_hh_gallery__item:nth-child(2) {\n    width: 31.5%;\n}\n\n.tmpl_hh_gallery__item:nth-child(3) {\n    width: 20.335%;\n}\n\n.tmpl_hh_gallery__item img {\n    border-radius: 10px;\n}\n\n.tmpl_hh_note {\n    font-size: 11px;\n    font-weight: 400;\n    line-height: 13px;\n    color: #666666;\n    margin-top: 20px;\n}\n\n.tmpl_hh_content {\n    padding: 40px 74px 45px 47px;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    margin: 24px 0 14px;\n}\n\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    display: inline-block;\n    font-weight: bold;\n    font-size: 18px;\n    line-height: 1;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 20px;\n    padding-bottom: 1px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n}\n\n.tmpl_hh_content li:not(:last-child) {\n    margin-bottom: 8px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 10px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;\n}\n\n.tmpl_hh_content li:before {\n    content: \"\";\n    position: absolute;\n    left: -20px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"•\";\n    font-weight: 700;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter) \".\";\n}\n\n@media (max-width: 1019px) {\n    .tmpl_hh_numbers {\n        padding: 20px;\n    }\n\n    .tmpl_hh_numbers__item {\n        width: 20%;\n    }\n\n    .tmpl_hh_wrapper {\n        max-width: 610px;\n    }\n}\n\n@media (max-width: 699px) {\n    .tmpl_hh_head {\n        padding: 15px 15px 0;\n    }\n\n    .tmpl_hh_head::before {\n        top: -22px;\n        right: -70px;\n        width: 143px;\n        height: 143px;\n        -webkit-filter: blur(60px);\n        filter: blur(60px);\n    }\n\n    .tmpl_hh_head::after {\n        width: 235px;\n        height: 211px;\n        left: -73px;\n        bottom: -42px;\n    }\n\n    .tmpl_hh_head__logo {\n        width: 125px;\n        margin: 0 0 15px;\n    }\n\n    .tmpl_hh_head__img img {\n        border-radius: 20px;\n    }\n\n    .tmpl_hh_about {\n        -webkit-box-pack: justify;\n        -ms-flex-pack: justify;\n        justify-content: space-between;\n        margin-top: -30px;\n    }\n\n    .tmpl_hh_about__content {\n        font-size: 16px;\n        line-height: 19px;\n        padding: 15px 14px;\n    }\n\n    .tmpl_hh_about__logo {\n        margin-bottom: -2px;\n    }\n\n    .tmpl_hh_about__logo img:nth-child(1) {\n        box-sizing: border-box;\n        padding: 0 8px 5px 14px;\n    }\n\n    .tmpl_hh_footer {\n        padding: 0 20px 25px;\n        background-size: 120% auto;\n    }\n\n    .tmpl_hh_footer::before {\n        width: 159px;\n        height: 159px;\n        right: -107px;\n        top: 137px;\n    }\n\n    .tmpl_hh_numbers__item {\n        width: 48%;\n    }\n\n    .tmpl_hh_numbers__item:nth-child(3) {\n        left: 0;\n    }\n\n    .tmpl_hh_gallery {\n        margin-top: 15px;\n    }\n\n    .tmpl_hh_gallery__item:nth-child(1) {\n        width: 100%;\n    }\n\n    .tmpl_hh_gallery__item:nth-child(2) {\n        width: 57.145%;\n    }\n\n    .tmpl_hh_gallery__item:nth-child(3) {\n        width: 36.79%;\n    }\n\n    .tmpl_hh_content {\n        padding: 40px 20px;\n    }\n}\n\n@media (max-width: 500px) {\n    .tmpl_hh_wrapper {\n        width: auto;\n        margin: 0 -15px;\n    }\n}\n</style>\n\n<script>\n//\nfunction DOM_HH_Ready() {}\n\nif (document.readyState === \"loading\") {\n    document.addEventListener(\"DOMContentLoaded\", DOM_HH_Ready);\n} else {\n    DOM_HH_Ready();\n}\n//\n</script>\n\n\n<div class=\"tmpl_hh_wrapper\">\n    <div class=\"tmpl_hh_head\">\n        <div class=\"tmpl_hh_head__logo\">\n            <img src=\"https://hhcdn.ru/ichameleon/305180.svg\" alt=\"\">\n        </div>\n        <div class=\"tmpl_hh_head__img\">\n            <img src=\"https://hhcdn.ru/ichameleon/305181.jpg\" alt=\"\">\n        </div>\n        <div class=\"tmpl_hh_about\">\n            <div class=\"tmpl_hh_about__content\">\n                <b>Medical Visual Systems</b><br>\n                Медицинские системы<br>\n                визуализации\n            </div>\n            <div class=\"tmpl_hh_about__logo\">\n                <img src=\"https://hhcdn.ru/ichameleon/406074.svg\" alt=\"\">\n                <img src=\"https://hhcdn.ru/ichameleon/305182.svg\" alt=\"\">\n            </div>\n        </div>\n    </div>\n\n    <div class=\"tmpl_hh_content\">\n        <p><strong><em>MVS</em></strong> – российская группа компаний, специализирующаяся на разработке комплексных IT решений для медицинской отрасли с опытом на рынке более 10 лет.</p> <p>Мы несколько лет развиваем программно-аппаратную систему для хирургических операционных и связанные облачные решения. Текущие версии уже на уровне лучших мировых аналогов, и мы уверенно движемся дальше.</p> <p>Приглашаем опытных специалистов <strong>в команду тестирования</strong> продуктов компании!</p> <p><strong>Чем предстоит заниматься: </strong></p> <ul> <li>Планирование, проектирование и проведение различных видов тестирования (функциональное, интеграционное, тестирование сборки и др.);</li> <li>Формирование и поддержка в актуальном состоянии тест-кейсов;</li> <li>Подготовка тестовых данных;</li> <li>Написание баг-репортов, отслеживание исправления багов;</li> <li>Взаимодействие с разработчиками;</li> <li>Взаимодействие с инженерами в ходе анализа ошибок и инцидентов;</li> <li>Контроль качества разрабатываемого продукта и его готовности к релизу.</li> </ul> <p><strong>Мы ожидаем:</strong></p> <ul> <li>Опыт тестирования веб-проектов, мобильных приложений, REST API;</li> <li>Опыт разработки тестовой документации;</li> <li>Знание и понимание процесса разработки;</li> <li>Понимание архитектуры клиент-серверного приложения;</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Стабильная и перспективная отрасль;</li> <li>Мы аккредитованная ИТ-компания;</li> <li>ДМС после полугода работы, вакцинация, офисный врач, консультации психолога;</li> <li>Курсы английского с первого дня работы;</li> <li>Программы обучения и посещения профильных конференций;</li> <li>Поддерживаем семейные активности - проводим праздники для детей, даем билет в Ленинградский зоопарк :)</li> <li>Комфортный офис в 10 минутах ходьбы от ст. м. Чкаловская и Петроградская (формат работы - офиc в СПБ)</li> </ul> <p> </p></div>\n\n    <div class=\"tmpl_hh_footer\">\n        <div class=\"tmpl_hh_numbers\">\n            <div class=\"tmpl_hh_numbers__item\">\n                <div class=\"tmpl_hh_numbers__subtitle\">\n                    <img src=\"https://hhcdn.ru/ichameleon/406073.svg\" alt=\"\">\n                </div>\n                <p class=\"tmpl_hh_numbers__text\">лет на рынке</p>\n            </div>\n            <div class=\"tmpl_hh_numbers__item\">\n                <div class=\"tmpl_hh_numbers__subtitle\">\n                    <img src=\"https://hhcdn.ru/ichameleon/406072.svg\" alt=\"\">\n                </div>\n                <p class=\"tmpl_hh_numbers__text\">сотрудников</p>\n            </div>\n            <div class=\"tmpl_hh_numbers__item\">\n                <div class=\"tmpl_hh_numbers__subtitle\">\n                    <img src=\"https://hhcdn.ru/ichameleon/406070.svg\" alt=\"\">\n                </div>\n                <p class=\"tmpl_hh_numbers__text\">клиник</p>\n            </div>\n            <div class=\"tmpl_hh_numbers__item\">\n                <div class=\"tmpl_hh_numbers__subtitle\">\n                    <img src=\"https://hhcdn.ru/ichameleon/406071.svg\" alt=\"\">\n                </div>\n                <p class=\"tmpl_hh_numbers__text\">операционных</p>\n            </div>\n        </div>\n\n        <div class=\"tmpl_hh_gallery\">\n            <div class=\"tmpl_hh_gallery__item\"><img src=\"https://hhcdn.ru/ichameleon/305194.jpg\" alt=\"\"></div>\n            <div class=\"tmpl_hh_gallery__item\"><img src=\"https://hhcdn.ru/ichameleon/305196.jpg\" alt=\"\"></div>\n            <div class=\"tmpl_hh_gallery__item\"><img src=\"https://hhcdn.ru/ichameleon/305195.jpg\" alt=\"\"></div>\n        </div>\n\n        <div class=\"tmpl_hh_note\">\n            <p>ООО \"МЕДИЦИНСКИЕ СИСТЕМЫ ВИЗУАЛИЗАЦИИ\" работает под брендом MVS</p>\n        </div>\n    </div>\n</div>\n    \n",
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Git"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "REST"
+    },
+    {
+      "name": "Функциональное тестирование"
+    },
+    {
+      "name": "QA"
+    },
+    {
+      "name": "Проведение тестирований"
+    },
+    {
+      "name": "Нагрузочное тестирование"
+    },
+    {
+      "name": "Тестирование"
+    },
+    {
+      "name": "RabbitMQ"
+    },
+    {
+      "name": "REST API"
+    },
+    {
+      "name": "Linux"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "124",
+      "name": "Тестировщик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "964957",
+    "name": "Группа Компаний MVS",
+    "url": "https://api.hh.ru/employers/964957",
+    "alternate_url": "https://hh.ru/employer/964957",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1142702.jpg",
+      "90": "https://img.hhcdn.ru/employer-logo/6191381.jpeg",
+      "240": "https://img.hhcdn.ru/employer-logo/6191382.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=964957",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-20T17:25:25+0300",
+  "created_at": "2025-05-20T17:25:25+0300",
+  "initial_created_at": "2025-01-28T12:32:24+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=116448951",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/116448951",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "ON_SITE",
+      "name": "На месте работодателя"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": true
+}

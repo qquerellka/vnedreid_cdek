@@ -1,0 +1,158 @@
+{
+  "id": "121292773",
+  "premium": false,
+  "billing_type": {
+    "id": "standard_plus",
+    "name": "Стандарт плюс"
+  },
+  "relations": [],
+  "name": "Computer Vision/ML Engineer (Junior+)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 150000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 150000,
+    "to": 200000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "TWICE_PER_MONTH",
+      "name": "Два раза в месяц"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>Tevian </strong>– российский разработчик систем компьютерного зрения и видеоаналитики, является аккредитованной IT-компанией. У нас широкий профиль направлений исследований, включая распознавание лиц, документов, силуэтов людей, машин, товаров на полках магазинов. Решения от Tevian лицензируются многими известными компаниями, работающими в области видеонаблюдения, систем контроля доступа и робототехники, как в России, так и в других странах.</p> <p>Сейчас мы ищем коллегу в команду, занимающуюся разработкой CV-решений для ритейла. Основной фокус — задачи по детекции и распознаванию товаров и ценников, определению пустот на полках, анализу планограмм. Работа будет включать как доработку и улучшение существующих моделей, так и участие в разработке новых решений. Мы ценим инициативность и гибкость — если вам интересны ресерч-задачи, у нас есть возможности поработать и в других направлениях, над которыми трудится команда. Вас ждёт сильное окружение, фокус на качество и реальные вызовы компьютерного зрения.</p> <p> </p> <p><strong>Требования:</strong></p> <ul> <li>от 1 года опыта работы в CV;</li> <li>классический набор python, scipy, opencv;</li> <li>что-то из pytorch/tensorflow;</li> <li>linux, git;</li> <li>знание классического ML;</li> <li>знакомство с основными нейросетевыми архитектурами в CV (Resnet/Mobilenet, SSD/YOLO, PSPNet/U-net/Deeplab), опыт их использования;</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>знание и умение применять методы self-supervised, semi-supervised, unsupervised обучения;</li> <li>наличие статей по итогам конференций и/или в журналах;</li> <li>опыт обучения трансформеров, как для задач NLP, так и CV;</li> <li>участие в соревнованиях по машинному обучению;</li> <li>диплом ШАД;</li> <li>опыт работы с ONNX, TensorRT, TVM;</li> <li>знание C++.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>вычислительные ресурсы и отдел разметки, обеспечивающие бесперебойную работу;</li> <li>регулярные внутренние CV-семинары, где разбираем разные статьи и последние эксперименты внутренних команд;</li> <li>молодой коллектив выпускников ведущих ВУЗов, включающий финалистов международных олимпиад по программированию;</li> <li>комфортное рабочее место в новом офисе в ЖК «Садовые кварталы», в пешей доступности от ст. м. Фрунзенская и Спортивная;</li> <li>оформление по ТК РФ (“белая” заработная плата);</li> <li>работу в аккредитованной IT компании;</li> <li>гибкий график 5/2, плавающее начало дня, возможны гибрид и удалёнка;</li> <li>оплачиваемые обеды (Яндекс.Еда);</li> <li>ДМС со стоматологией с начала работы в компании;</li> <li>чай, кофе, печенье и прочие вкусности на кухне;</li> <li>гибкость, отсутствие бюрократии.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Computer Vision"
+    },
+    {
+      "name": "PyTorch"
+    },
+    {
+      "name": "TensorFlow"
+    },
+    {
+      "name": "OpenCV"
+    },
+    {
+      "name": "Machine Learning"
+    },
+    {
+      "name": "ML"
+    },
+    {
+      "name": "Deep Learning"
+    },
+    {
+      "name": "DL"
+    }
+  ],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "165",
+      "name": "Дата-сайентист"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4046921",
+    "name": "Tevian (ООО Технологии видеоанализа)",
+    "url": "https://api.hh.ru/employers/4046921",
+    "alternate_url": "https://hh.ru/employer/4046921",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1071177.png",
+      "90": "https://img.hhcdn.ru/employer-logo/5905337.png",
+      "240": "https://img.hhcdn.ru/employer-logo/5905338.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4046921",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-06-06T15:14:49+0300",
+  "created_at": "2025-06-06T15:14:49+0300",
+  "initial_created_at": "2025-06-03T15:14:49+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121292773",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121292773",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

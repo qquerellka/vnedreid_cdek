@@ -1,0 +1,149 @@
+{
+  "id": "121322229",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Python-разработчик (проект)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 170000,
+    "to": 210000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 170000,
+    "to": 210000,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": {
+      "id": "PER_PROJECT",
+      "name": "За проект"
+    }
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": true,
+  "contacts": null,
+  "description": "<p>Привет, на связи <strong>HandsApp</strong> – аккредитованная IT-компания. Мы создаём крутые мобильные приложения, берём на себя аутсорс и помогаем с аутстаффингом!</p> <p>В связи с расширением команды и масштабированием проектов мы в поиске Senior Python-разработчика!</p> <p> </p> <p><strong>Обязанности:</strong></p> <ul> <li> <p>Разрабатывать и дорабатывать десктопное приложение на Python (PySide2/PyQt), согласно требованиям заказчика;</p> </li> <li> <p>Разбираться в существующем коде, в том числе написанном другими разработчиками;</p> </li> <li> <p>Реализовывать функциональность для визуализации и управления сложными расчётами;</p> </li> <li> <p>Принимать участие в проектировании архитектуры и обсуждении технических решений;</p> </li> <li> <p>Интегрировать приложение с другими сервисами системы.</p> </li> </ul> <p><strong>Что мы ждём от вас:</strong></p> <ul> <li>Уверенное знание <strong>Python 3.8+</strong>;</li> <li>Опыт работы с <strong>PySide2 или PyQt</strong>;</li> <li>Умение читать и быстро ориентироваться в чужом коде;</li> <li>Готовность работать с инженерными задачами, где важно внимание к деталям и расчётной логике.</li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li>Опыт работы с <strong>многопоточностью</strong> и <strong>многопроцессностью</strong> в Python;</li> <li>Знание <strong>numpy</strong>, <strong>pandas</strong>, <strong>matplotlib</strong>;</li> <li>Навыки разбора бинарных форматов по известной структуре без сторонних библиотек.</li> </ul> <p> </p> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Оформление по ТК РФ;</li> <li>Стабильную зп с выплатами 2 раза в месяц;</li> <li>Профессиональное развитие и сильные коллеги;</li> <li>Оплачиваемое обучение (конференции, митапы и т.д.);</li> <li>Комфортные условия работы в офисе или удалённо;</li> <li>Размер оклада обсуждается по результатам собеседования.</li> </ul> <p> </p> <p> </p> <p> </p> <p>Мы категорически против бюрократии. Бумажки, заявления, жёсткий график, иерархичная структура – не про нас. Мы адекватны и лояльны – обо всем договоримся.</p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Atlassian Jira"
+    },
+    {
+      "name": "Numpy"
+    },
+    {
+      "name": "pandas"
+    },
+    {
+      "name": "Matplotlib"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "4037494",
+    "name": "Хэндсапп",
+    "url": "https://api.hh.ru/employers/4037494",
+    "alternate_url": "https://hh.ru/employer/4037494",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/644220.png",
+      "90": "https://img.hhcdn.ru/employer-logo/3018032.png",
+      "240": "https://img.hhcdn.ru/employer-logo/3018033.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4037494",
+    "accredited_it_employer": false,
+    "trusted": true
+  },
+  "published_at": "2025-06-04T10:03:48+0300",
+  "created_at": "2025-06-04T10:03:48+0300",
+  "initial_created_at": "2025-06-04T10:03:48+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121322229",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/121322229",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

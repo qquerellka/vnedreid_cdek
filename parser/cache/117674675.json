@@ -1,0 +1,170 @@
+{
+  "id": "117674675",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Middle+ / Senior С/С++ разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "4",
+    "name": "Новосибирск",
+    "url": "https://api.hh.ru/areas/4"
+  },
+  "salary": {
+    "from": 200000,
+    "to": 320000,
+    "currency": "RUR",
+    "gross": true
+  },
+  "salary_range": {
+    "from": 200000,
+    "to": 320000,
+    "currency": "RUR",
+    "gross": true,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": false,
+  "experience": {
+    "id": "moreThan6",
+    "name": "Более 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p><strong>«Lean Software Production» — глобальная ИТ-компания</strong>, которая занимается созданием ПО и формированием выделенных команд разработки. Мы объединяем лучших экспертов со всего мира, для которых создание ИТ-продуктов — не просто работа, а дело всей жизни.</p> <p>Для работы на разнообразных трендовых проектах, в том числе, международного уровня<strong> </strong>наша команда<strong> ищет С/С++ разработчика для аутстафф направления.</strong></p> <p>100% наших сотрудников работают удалённо. Мы считаем, что работать нужно там, где удобно, а не под влиянием внешних факторов.</p> <p>Мы ценим нашу команду, поэтому заботимся о том, чтобы сотрудники были полностью удовлетворены работой и приносили реальный результат нашим клиентам.</p> <p><strong>Предлагаем:</strong></p> <ul> <li>полную занятость со стабильными выплатами;</li> <li> <p>оплату труда, соответствующую вашим навыкам и ожиданиям с реальной возможностью роста;</p> </li> <li> <p>разнообразные трендовые проекты, в том числе, международного уровня;</p> </li> <li> <p>полностью удаленный формат работы;</p> </li> <li> <p>график 5/2 с гибким началом рабочего дня.</p> </li> </ul> <p><strong>Ожидаем: </strong></p> <ul> <li> <p>Опыт коммерческой разработки на C/C++ не менее 4-х лет;</p> </li> <li> <p>Знание структур данных и классических алгоритмов, многопоточное программирование, распределенные вычисления, оптимизация производительности;</p> </li> <li> <p>Знание архитектуры операционных систем;</p> </li> <li> <p>Понимание протоколов передачи данных - TCP, UDP, HTTP/REST, WebSocket;</p> </li> <li> <p>Умение работать с NoSQL- и SQL-базами данных и очередями (PostgreSQL, Kafka, Redis и др.);</p> </li> <li> <p>Опыт работы с высоконагруженными системами;</p> </li> <li> <p>Знание ООП и популярных паттернов проектирования;</p> </li> <li> <p>Технологии: Linux, Git;</p> </li> <li> <p>Принципы: SOLID, DRY, KISS, TDD.</p> </li> </ul> <p><strong>Будет плюсом:</strong></p> <ul> <li> <p>Разработка модулей и драйверов для ОС Linux или других UNIX подобных систем;</p> </li> <li> <p>STL, metaprogramming, Atomic, POSIX API, IPC, qt;</p> </li> <li> <p>Опыт работы с сетевой подсистемой ядра Linux;</p> </li> <li> <p>Знание внутреннего устройства ядра Unix (Linux) и стандартных библиотек;</p> </li> <li> <p>Сертификаты станут плюсом, но совсем не обязательны, нам важен достойный уровень ваших знаний и умений!</p> </li> </ul> <p><strong>Этапы отбора:</strong></p> <ol> <li> <p><strong>Анкета;</strong></p> </li> <li> <p><strong>Первичное интервью;</strong></p> </li> <li> <p><strong>Техническое интервью;</strong></p> </li> <li> <p><strong>Оффер.</strong></p> </li> </ol> <p><strong>Ждем в нашей команде!</strong></p>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "NoSQL"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Apache Kafka"
+    },
+    {
+      "name": "RabbitMQ"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "GitHub"
+    },
+    {
+      "name": "Kubernetes"
+    },
+    {
+      "name": "C/C++"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11511190",
+    "name": "Линсофтверпродакшн",
+    "url": "https://api.hh.ru/employers/11511190",
+    "alternate_url": "https://hh.ru/employer/11511190",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1371340.png",
+      "90": "https://img.hhcdn.ru/employer-logo/7105262.png",
+      "240": "https://img.hhcdn.ru/employer-logo/7105263.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11511190",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-26T11:19:28+0300",
+  "created_at": "2025-05-26T11:19:28+0300",
+  "initial_created_at": "2025-02-25T11:19:25+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=117674675",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/117674675",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": true,
+  "languages": [
+    {
+      "id": "eng",
+      "name": "Английский",
+      "level": {
+        "id": "b2",
+        "name": "B2 — Средне-продвинутый"
+      }
+    }
+  ],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}

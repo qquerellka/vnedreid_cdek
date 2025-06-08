@@ -1,0 +1,130 @@
+{
+  "id": "120988745",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Frontend-разработчик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "salary": {
+    "from": 130000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "salary_range": {
+    "from": 130000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false,
+    "mode": {
+      "id": "MONTH",
+      "name": "За месяц"
+    },
+    "frequency": null
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "remote",
+    "name": "Удаленная работа"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "show_contacts": false,
+  "contacts": null,
+  "description": "<p>Уважаемые соискатели, после общения с нами предполагается выполнение ТЕСТОВОГО задания!</p> <p><strong>Обязанности:</strong></p> <ul> <li>Разрабатывать и поддерживать системы в части frontend;</li> <li>Взаимодействовать с командой разработки.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Опыт работы от 3-х лет;</li> <li>Технические навыки<br />JavaScript (ES6+) — понимание современного JS<br />TypeScript — владение, умение использовать интерфейсы, типизацию данных.<br />React (18) — опыт работы с React 2+ года.<br />• Хуки<br />• Redux (Redux Toolkit) — настройка хранилища, slices<br />• CSS-in-JS (Styled Components).<br />• ESLint<br />• Git - работа с ветками, pull requests, git flow.</li> </ul> <strong>Мы предлагаем:</strong> <ul> <li>Работу в аккредитованной ИТ-компании, белую заработную плату;</li> <li>График работы 5/2, формат работы: удаленно;</li> <li>Оформление в соответствии с ТК РФ с первого дня рабочего дня;</li> <li>Медицинский полис ДМС расширенного формата за счет компании. Льготные условия оформления ДМС для членов семьи.</li> </ul>",
+  "branded_description": null,
+  "vacancy_constructor_template": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [],
+  "professional_roles": [
+    {
+      "id": "96",
+      "name": "Программист, разработчик"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "11434977",
+    "name": "Сиэс Групп",
+    "url": "https://api.hh.ru/employers/11434977",
+    "alternate_url": "https://hh.ru/employer/11434977",
+    "logo_urls": {
+      "original": "https://img.hhcdn.ru/employer-logo-original/1336045.png",
+      "90": "https://img.hhcdn.ru/employer-logo/6964186.png",
+      "240": "https://img.hhcdn.ru/employer-logo/6964187.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11434977",
+    "accredited_it_employer": true,
+    "trusted": true
+  },
+  "published_at": "2025-05-26T15:53:00+0300",
+  "created_at": "2025-05-26T15:53:00+0300",
+  "initial_created_at": "2025-05-26T15:53:00+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120988745",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/120988745",
+  "working_days": [],
+  "working_time_intervals": [],
+  "working_time_modes": [],
+  "accept_temporary": false,
+  "languages": [],
+  "approved": true,
+  "employment_form": {
+    "id": "FULL",
+    "name": "Полная"
+  },
+  "fly_in_fly_out_duration": [],
+  "internship": false,
+  "night_shifts": false,
+  "work_format": [
+    {
+      "id": "REMOTE",
+      "name": "Удалённо"
+    }
+  ],
+  "work_schedule_by_days": [
+    {
+      "id": "FIVE_ON_TWO_OFF",
+      "name": "5/2"
+    }
+  ],
+  "working_hours": [
+    {
+      "id": "HOURS_8",
+      "name": "8 часов"
+    }
+  ],
+  "show_logo_in_search": null
+}
